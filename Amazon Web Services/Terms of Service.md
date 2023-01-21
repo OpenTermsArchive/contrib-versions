@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: December 23, 2022
+#### Last Updated: January 20, 2023
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -37,13 +37,13 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.14. Data Protection.**
 
-**1.14.1** These Service Terms incorporate the [AWS Data Processing Addendum](https://d1.awsstatic.com/legal/aws-gdpr/aws-gdpr-dpa-online.pdf) (“DPA”), when you use AWS Services to process Customer Data (as defined in the DPA).  
+**1.14.1** These Service Terms incorporate the [AWS Data Processing Addendum](https://d1.awsstatic.com/legal/aws-dpa/aws-dpa.pdf) (“DPA”), when you use AWS Services to process Customer Data (as defined in the DPA).  
 
-**1.14.2** These Service Terms incorporate the [AWS Supplementary Addendum](https://d1.awsstatic.com/Supplementary_Addendum_to_the_AWS_GDPR_DPA.pdf) to the DPA, when the GDPR applies to your use of the AWS Services to process Customer Data.
+**1.14.2** These Service Terms incorporate the [AWS Supplementary Addendum](https://d1.awsstatic.com/legal/aws-dpa/supplementary-addendum-to-the-aws-dpa.pdf) to the DPA, when you use AWS Services to process Customer Data (as defined in the DPA).  
 
-**1.14.3** These Service Terms incorporate the [AWS UK GDPR Addendum](https://d1.awsstatic.com/legal/aws-gdpr/UK_GDPR_Addendum_to_AWS_data_processing_addendum.pdf) to the DPA, when the UK GDPR applies to your use of the AWS Services to process UK Customer Data (as defined in the AWS UK GDPR Addendum).
+**1.14.3** These Service Terms incorporate the Standard Contractual Clauses between controllers and processors (“[Controller-to-Processor Clauses](https://d1.awsstatic.com/legal/aws-dpa/controller-to-processor-sccs.pdf)”) and the Standard Contractual Clauses between processors (“[Processor-to-Processor Clauses](https://d1.awsstatic.com/legal/aws-dpa/processor-to-processor-sccs.pdf)”) approved by the European Commission Implementing Decision (EU) 2021/914 of 4 June 2021 (the “SCCs”). The SCCs will only apply when: (i) the GDPR applies to your use of the AWS Services to process Customer Data; and (ii) Customer Data is transferred either directly or via onward transfer, to a country outside of the European Economic Area not recognised by the European Commission as providing an adequate level of protection for personal data subject to GDPR (together a “Data Transfer”). When you are a controller (as defined in the GDPR), the Controller-to-Processor Clauses will apply to a Data Transfer. When you are a processor (as defined in the GDPR), the Processor-to-Processor Clauses will apply to a Data Transfer.
 
-**1.14.4** These Service Terms incorporate the Standard Contractual Clauses between controllers and processors (“[Controller-to-Processor Clauses](https://d1.awsstatic.com/Controller_to_Processor_SCCs.pdf)”) and the Standard Contractual Clauses between processors (“[Processor-to-Processor Clauses](https://d1.awsstatic.com/Processor_to_Processor_SCCs.pdf)”) approved by the European Commission Implementing Decision (EU) 2021/914 of 4 June 2021 (the “SCCs”). The SCCs will only apply when: (i) the GDPR applies to your use of the AWS Services to process Customer Data; and (ii) Customer Data is transferred either directly or via onward transfer, to a country outside of the European Economic Area not recognised by the European Commission as providing an adequate level of protection for personal data subject to GDPR (together a “Data Transfer”). When you are a controller (as defined in the GDPR), the Controller-to-Processor Clauses will apply to a Data Transfer. When you are a processor (as defined in the GDPR), the Processor-to-Processor Clauses will apply to a Data Transfer.
+**1.14.4** These Service Terms incorporate the [AWS UK GDPR Addendum](https://d1.awsstatic.com/legal/aws-dpa/aws-uk-gdpr-dpa.pdf) to the DPA, when the UK GDPR applies to your use of the AWS Services to process UK Customer Data (as defined in the AWS UK GDPR Addendum).  
 
 **1.14.5** These Service Terms incorporate the [AWS CCPA Terms](https://d1.awsstatic.com/legal/aws-ccpa/aws-ccpa-terms.pdf) (“CCPA Terms”), when the CCPA applies to your use of the AWS Services to process Personal Information (as defined in the CCPA Terms).
 
