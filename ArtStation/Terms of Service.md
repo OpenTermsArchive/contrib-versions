@@ -376,13 +376,7 @@ You must not:
 7. use any misleading, false or deceptive TCP/IP header information in any email or posting;
 8. conduct or instigate any denial of service attack against the ArtStation website or network, any other Epic website or network, or any third party’s website or network; or
 9. except where explicitly allowed by this Agreement, collect, aggregate, mine, scrape, or otherwise use any content uploaded to the Site for the purposes of publishing, selling, distributing or otherwise making the content available to others to use, download or copy;
-10. collect, aggregate, mine, scrape or otherwise use NoAI Content
-    
-    (a) in datasets utilized by Generative AI Programs;
-    
-    (b) in the development of Generative AI Programs; or
-    
-    (c) as inputs to Generative AI Programs.
+10. collect, aggregate, mine, scrape or otherwise use NoAI Content (i) in datasets utilized by Generative AI Programs; (ii) in the development of Generative AI Programs; or (iii) as inputs to Generative AI Programs.
     
 
 (e) improperly make complaints or false reports on the Site;
@@ -611,16 +605,10 @@ No delay or failure to act by Epic regarding any default will impair any of our 
 
 We care about protecting artists and providing the tools to protect their art. You are able to tag your projects containing Your Content with “NoAI” if you would like Your Content to be prohibited from use with AI. This tag will not be applied to your projects or Your Content by default; you must actively designate your projects containing Your Content for the “NoAI” tag to apply. Any content uploaded to the Site that has been tagged, labeled, or otherwise marked “NoAI” via the tagging functionality provided by the platform will be known as “NoAI Content.”
 
-For purposes of this Agreement, “Generative AI Programs” means artificial intelligence, machine learning, deep learning, neural networks, or similar technologies designed to automate the generation of or aid in the creation of new content, including but not limited to audio, visual, or text-based content. You shall not collect, aggregate, mine, scrape, or otherwise use NoAI Content
-
-(a) in datasets utilized by Generative AI Programs;
-
-(b) in the development of Generative AI Programs; or
-
-(c) as inputs to Generative AI Programs.
+For purposes of this Agreement, "Generative AI Programs" means artificial intelligence, machine learning, deep learning, neural networks, or similar technologies designed to automate the generation of or aid in the creation of new content, including but not limited to audio, visual, or text-based content. You shall not collect, aggregate, mine, scrape, or otherwise use NoAI Content (i) in datasets utilized by Generative AI Programs; (ii) in the development of Generative AI Programs; or (iii) as inputs to Generative AI Programs.
 
 Epic agrees, whether or not Your Content is NoAI Content, not to use any of Your Content or to license any of Your Content to third parties for use in connection with Generative AI Programs.
 
 > Basically...
 > 
-> Epic won’t use or license your content for AI generation or training
+> Epic won't use or license your content with, or to train, Generative AI
