@@ -1,5 +1,3 @@
-We are updating Section 7(e)(iii) of the Platform Terms in respect of when we may remove an App’s access to any Platform APIs, permissions, or features that your App has not used or accessed within a certain period of time. You can preview the update [here](https://www.facebook.com/legal/platform_terms_sect_7). Effective as of December 15, 2022, the Platform Terms will require activity within a 28-day period to be deemed active. If you receive notice that your app has been inactive and you wish to reinstate your app, you can do so by going into your app admin role and reinstating it.
-
 The Facebook company is now Meta. We’ve updated our Platform Terms to reflect the new name on February 8, 2022. While our company name has changed, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. [Learn more about Meta](https://about.facebook.com/meta) and our vision for the metaverse.
 
 These Meta Platform Terms and the [Developer Policies](https://developers.facebook.com/devpolicy) originally went into effect on August 31, 2020. They replaced the [legacy Facebook Platform Policy](https://developers.facebook.com/docs/apps/policies/legacy-facebook-platform-policy) and the [legacy Instagram Platform Policy](https://developers.facebook.com/docs/apps/policies/legacy-instagram-platform-policy), as well as the Supplemental Terms for Extended Platform Products and the Technology Provider Amendment to the preceding Supplemental Terms. [Learn more](https://developers.facebook.com/blog/post/2020/07/01/platform-terms-developer-policies/).
@@ -403,7 +401,7 @@ Meta Platform Terms
         ii. We may take enforcement action at any time, including while we investigate your App, with or without notice to you. Enforcement can be both automated and manual. It can include suspending or removing your App, removing your access and your App’s access to Platform, requiring that you stop Processing and delete Platform Data, terminating our agreements with you, or any other action that we consider to be appropriate, including terminating other agreements with you or your ability to use [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos).
         
     *   
-        iii. We may suspend or end your App’s access to any Platform APIs, permissions, or features that your App has not used or accessed within a 90-day period with or without notice to you.
+        iii. We may suspend or end your App’s access to any Platform APIs, permissions, or features that your App has not used or accessed within a 28-day period with or without notice to you.
         
     
 
@@ -423,6 +421,8 @@ In addition to and without limiting the scope of the “Indemnification” Secti
 This section shall apply to the extent that your Processing of Platform Data includes personal data controlled by Meta Platforms Ireland Limited (“Meta Ireland Data”) and the transfer of such Meta Ireland Data to a territory outside of the European Economic Area that, at the time of such transfer, does not have a positive adequacy decision from the European Commission under Article 45 of Regulation (EU) 2016/679 (each an “EEA Data Transfer”).
 
 Whenever there is an EEA Data Transfer, your use of Meta Ireland Data is subject to your compliance with the Clauses in so far as they relate to controller to controller transfers (Module One). In each case, you agree that for the purposes of Section IV, Clauses 17 and 18 in the Clauses, Option 1 and Option (b) shall apply respectively and the Member State shall be Ireland. Nothing in this Section 10 (International transfers) is intended to vary or modify the Clauses. For the purposes of the Appendix to the Clauses, the following will apply:
+
+**Your Rights, Ownership, and Obligations**
 
 *   
     a. For the purposes of Annex I(A) to the Clauses, Meta Platforms Ireland Limited is the "data exporter" and you are the "data importer" as defined in the Clauses.
