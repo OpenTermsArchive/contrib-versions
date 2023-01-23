@@ -233,7 +233,7 @@ Une fois votre commande passée conformément à l’article 3.2, CDISCOUNT en a
 * son numéro,
 * les présentes CGV.
 
-**Cet email sera envoyé à l’adresse email que vous utilisez pour vous identifier dans votre Espace Client.** Si vous ne recevez pas l'email mentionné ci-dessus, nous vous recommandons de prendre contact avec notre Service Client.
+**Cet email sera envoyé à l’adresse email que vous utilisez pour vous identifier dans votre Espace Client.** Si vous ne recevez pas l’email mentionné ci-dessus, nous vous recommandons de prendre contact avec notre Service Client.
 
 Toutefois, CDISCOUNT se réserve le droit de ne pas accepter une commande ou de ne pas valider votre commande et/ou de suspendre l'exécution de votre commande, et ce, même après l'envoi de l'email de confirmation (tel que visé ci-dessus) pour tout motif légitime, notamment dans l’hypothèse où :  
 \-          votre commande ne serait pas conforme aux CGV ;  
@@ -620,7 +620,7 @@ Le montant des frais de retour est calculé en fonction de la typologie du produ
 | Abri jardin | **Entre 60€ et 90€** |
 | Cuisine IRMA | **Entre 70€ et 90€** |
 | Poele à bois | **Entre 70€ et 100€** |
-| Piscine | **Entre 65€ et 120€** |
+| Piscine | **Entre 65€ et 120é** |
 
 **  
 Attention ! Cette estimation de prix ne s’applique que pour un renvoi du produit depuis la France Métropolitaine et n’engage pas CDISCOUNT.**
