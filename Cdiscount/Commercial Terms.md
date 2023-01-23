@@ -620,7 +620,7 @@ Le montant des frais de retour est calculé en fonction de la typologie du produ
 | Abri jardin | **Entre 60€ et 90€** |
 | Cuisine IRMA | **Entre 70€ et 90€** |
 | Poele à bois | **Entre 70€ et 100€** |
-| Piscine | **Entre 65€ et 120é** |
+| Piscine | **Entre 65€ et 120€** |
 
 **  
 Attention ! Cette estimation de prix ne s’applique que pour un renvoi du produit depuis la France Métropolitaine et n’engage pas CDISCOUNT.**
