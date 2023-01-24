@@ -1,7 +1,7 @@
 Stack Exchange Cookie Policy
 ----------------------------
 
-Updated 04 February 2021
+Updated 23 January 2023
 
 Please read this cookie policy carefully as it contains important information on who we are and how we use cookies on our website. This policy should be read together with our [privacy policy](https://stackoverflow.com/legal/privacy-policy) which sets out how and why we collect, store, use and share personal information generally, as well as your rights in relation to your personal information and details of how to contact us and supervisory authorities if you have a complaint.
 
@@ -83,7 +83,7 @@ These cookies enable the website to provide enhanced functionality and personali
 
 Targeting Cookies
 
-These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+These cookies are used to make advertising messages more relevant to you and may be set through our site by us or by our advertising partners. They may be used to build a profile of your interests and show you relevant advertising on our site or on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device.
 
 | Domain | Cookies | Used as |
 | --- | --- | --- |
