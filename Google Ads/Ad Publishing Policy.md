@@ -22,7 +22,7 @@ When you monetize your content with Google ad code you are required to adhere t
 
 These policies apply in addition to any other policies governing your use of Google publisher products.
 
-Google helps to enable a free and open web by helping publishers monetize their content and advertisers reach prospective customers with useful, relevant products and services. Maintaining trust in the ads ecosystem requires setting limits on what we will monetize.
+Google helps to enable a free and open internet by helping publishers monetize their content and advertisers reach prospective customers with useful, relevant products and services. Maintaining trust in the ads ecosystem requires setting limits on what we will monetize.
 
 Google Publisher Policies are organized into the following categories:
 
@@ -173,21 +173,6 @@ We do not allow content that:
     
 
  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about enabling dishonest behavior_](https://support.google.com/publisherpolicies/answer/10436828)
-
-### Malicious or unwanted software
-
-We do not allow content that:
-
-* contains malicious software or "malware" that may harm or gain unauthorized access to a computer, device, or network.
-    
-    **Examples**: Computer viruses, ransomware, worms, trojan horses, rootkits, keyloggers, dialers, spyware, rogue security software, and other malicious programs or apps
-    
-* violates [Google's Unwanted Software policy](http://www.google.com/about/company/unwanted-software-policy.html).
-    
-    **Examples**: Failure to be transparent about the functionality that the software provides or the full implications of installing the software; failing to include Terms of Service or an End User License Agreement; bundling software or applications without the user's knowledge; making system changes without the user's consent; making it difficult for users to disable or uninstall the software; failing to properly use publicly available Google APIs when interacting with Google services or products
-    
-
-   ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about malicious or unwanted software_](https://support.google.com/publisherpolicies/answer/10437483)
 
 ### Sexually explicit content
 
@@ -424,6 +409,21 @@ You must not:
 * place Google-served ads on screens that contain [abusive experiences](https://support.google.com/webtools/answer/7347327).
 
                ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about abusive experiences](https://support.google.com/publisherpolicies/answer/11128079)_
+
+### Malware or unwanted software
+
+You must not:
+
+* place Google-served ads on screens that contain malicious software or "malware" that may harm or gain unauthorized access to a computer, device, or network.
+    
+    **Examples**: Computer viruses, ransomware, worms, trojan horses, rootkits, keyloggers, dialers, spyware, rogue security software, and other malicious programs or apps
+    
+* place Google-served ads on screens that violate [Google's Unwanted Software policy](http://www.google.com/about/company/unwanted-software-policy.html).
+    
+    **Examples**: Failure to be transparent about the functionality that the software provides or the full implications of installing the software; failing to include Terms of Service or an End User License Agreement; bundling software or applications without the user's knowledge; making system changes without the user's consent; making it difficult for users to disable or uninstall the software; failing to properly use publicly available Google APIs when interacting with Google services or products
+    
+
+   ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about malware or unwanted software_](https://support.google.com/publisherpolicies/answer/10437483)
 
 ### Better Ads Standards 
 
