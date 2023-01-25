@@ -1,5 +1,5 @@
 * [Google Play](https://developer.android.com/)
-* [Resources](https://developer.android.com/distribute/marketing-tools)
+* [Brand & marketing](https://developer.android.com/distribute/marketing-tools)
 
 Brand guidelines
 ================
