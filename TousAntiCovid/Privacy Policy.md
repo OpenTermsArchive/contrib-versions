@@ -7,62 +7,33 @@ Personal data
 
 The TousAntiCovid application is part of a comprehensive strategy to fight the Covid-19 epidemic. This application is not mandatory, its use is on a voluntary basis.
 
-The use of the application contributes to the overall strategy of detecting contacts at risk of transmission, the goal of which is to break the chains of transmission of the virus. It allows for faster alerting of contact persons, especially when it comes to contact persons whom infected persons do not necessarily know, such as people encountered on public transport or in shops.
-
 ### Data controller and purpose
 
-The development coordination of which has been entrusted to Inria (Institut national de recherche en sciences et technologies du numérique), which is placed under the responsibility of the Direction générale de la santé du ministère de la Santé et de la Prévention.
+The development coordination of which has been initially given to Inria (Institut national de recherche en sciences et technologies du numérique), which is under the responsibility of the Direction générale de la santé du ministère de la Santé et de la Prévention.
 
 The data will be used in order to:
 
-1° Inform a person using the application who has been near at least one other user of the same application who has subsequently been diagnosed positive for the Covid-19 virus, so that there is a risk that it has been contaminated in turn, thanks to a proximity history fed by pseudonyms sent via Bluetooth technology (Robert protocol) or after a scan of the place QR Code (Cléa protocol) ;
+1° Raising awareness of application users on the symptoms of this virus, barrier gestures and what to do to fight against the spread of the virus;
 
-2° Raise awareness among users of the application on the symptoms of this virus, barrier actions and what to do to fight against the spread of the virus;
+2° Obtaining health information related to Covid-19 with the possibility of filtering by place of interest;
 
-3° Guide risky contacts with the correct course of actions;
+3° Keeping certificates of vaccination and negative/positive tests for Covid-19, of recovery from Covid-19 and exemption to vaccination;
 
-4° Produce statistics in order to adapt the measures necessary to face the epidemic and to improve the performance of the application and the user experience;
+4° To inform users of their eligibility for the vaccination booster and the expiry of their health certificate by sending them targeted messages on the basis of the certificates present in the Wallet;
 
-5° Help to generate supporting documents required by public authorities in the fight against Covid-19 (exceptional travel certificate, for example);
+5° To notify users in the event of invalidation of their health certificate following the observation of fraudulent use of the health certificate by a third party, without the user's knowledge or not;
 
-6° Obtain health information related to Covid-19 with the possibility of filtering by place of interest;
-
-7° Keep certificates of vaccination and negative / positive tests for Covid-19, recovery from Covid-19 and exemption to vaccination;
-
-8° Inform users of the application of their eligibility for the vaccine booster and of the expiration of their health certificate, by sending them targeted messages on the basis of the certificates present in the Wallet;
-
-9° Inform users in the event of invalidation of their health pass following the observation of fraudulent use of the health pass by a third person, whether or not the user is aware of it;
-
-10° Aggregate several Covid-19 certificates in EU digital format available in the Wallet module of TousAntiCovid, in order to generate a valid health certificate.
+6° To aggregate several Covid-19 certificates in EU digital format recorded in the Wallet module of TousAntiCovid, in order to generate a valid health certificate.
 
 ### Legal basis and regulatory nature of the processing
 
-This processing and its statistics fall within the framework of the missions of public interest (article 6.1.e of the GDPR) entrusted to the Direction générale de la santé in the fight against health threats. It also benefits from a regulatory framework - decree of May 29, 2020 relating to data processing called "StopCovid" (since renamed TousAntiCovid) taken after advice from the CNIL.
+This processing and its statistics are part of the public interest missions (article 6.1.e of the GDPR) entrusted to the Direction générale de la santé in the fight against health threats.
+
+It also benefits from a regulatory framework – decree of July 30, 2022 modifying decree n ° 2020-650 of May 29, 2020 relating to the processing of data called “StopCovid” (renamed since TousAntiCovid) taken after advice from the CNIL.
 
 ### Personal data processed on the Central server
 
-For the information of having been near another user positive for Covid-19:
-
-* An authentication key shared between the application and the central server;
-* A unique identifier associated with each downloaded application generated randomly by the central server and which is known only to that server, where it is stored;
-* Country codes;
-* Random and temporary pseudonyms generated by the server;
-* The history of proximity and the history of the visited venues;
-* The periods of user exposure to people diagnosed or screened positive for the Covid-19 virus, stored on the central server;
-* The data entered in the application by people diagnosed or screened positive for the Covid-19 virus who decide to send the proximity history of their contacts at risk to the server;
-* The "contacts at risk of contamination" status;
-* The date of the last queries from the central server.
-
-Part of this data is used for the production of statistics:
-
-* Technical information on the mobile phone and the TousAntiCovid application;
-* TousAntiCovid sections consulted, type of information and documents generated or added by the user;
-* User Covid status and associated events;
-* An application identifier specific to statistics.
-
-### Personal data processed by the Orange Business Services central server
-
-The aggregation of several certificates is done on the central server of Orange Business Services.
+The aggregation of several certificates is done on the central servers of Orange Business Services.
 
 The data processed in the aggregation process are listed below.
 
@@ -108,15 +79,13 @@ Data relating to the digital signature certificate (common to all certificates):
 
 ### Personal data processed in the TousAntiCovid application
 
-For the generation of proof of the exceptional travel certificate type, the information entered in this travel certificate generator is not processed by the ministère de la Santé et de la Prévention. This personal data is stored exclusively on the user's mobile phone in order to make it easier for him to complete the next exceptional travel certificate.
-
 To obtain health information related to Covid-19 relating to a place of interest, the information entered is processed locally, on the user's phone, and is not subject to any transfer.
 
 For the storage of the vaccination certificate, negative / positive tests for Covid-19, recovery from Covid-19, exemption to vaccination, the information is processed locally, on the user's phone, and are not subject to any transfer.
 
 For the notification of eligibility for the vaccine booster or the expiration of the health certificate, the information is processed locally, on the user's phone, and does not make the subject to no transfer.
 
-To fight against fraudulent use of health certificates, information is processed locally, on the user's phone, and is not subject to any transfer. This local processing is based on the comparison of a hash of the certificate with those of a reference database hosted by Inria, previously downloaded in the mobile application.
+To fight against fraudulent use of health certificates, information is processed locally, on the user's phone, and is not subject to any transfer. This local processing is based on the comparison of a hash of the certificate with those of a reference database hosted by Orange Business Services, previously downloaded in the mobile application.
 
 For the aggregation of several digital certificates from the European Union, the Wallet module of TousAntiCovid carries out an initial filtering based on the last name, first name and date of birth.
 
@@ -126,23 +95,9 @@ The application may ask the user to authorize the use of his/her mobile phone's 
 
 ### Data recipient
 
-For the information of having been near another user positive for Covid-19:
-
-* Users identified by the application as contacts at risk of having contracted the Covid-19 virus are sent information according to which they have been near at least one other user diagnosed or screened positive for the Covid-19 virus.
-* Inria as a subcontractor of the Direction générale de la santé du ministère de la Santé et de la Prévention.
-
-For the supporting documents required by the public authorities, such as an exceptional certificate:
-
-* Application users
-* The public authorities to which they will be presented
-
 For obtaining health information on news related to Covid-19 relating to a place of interest:
 
 * Application users
-
-For the production of statistics
-
-* Inria as a subcontractor of the Direction générale de la santé du ministère de la Santé et de la Prévention.
 
 For the storage of vaccination certificates, negative / positive tests for Covid-19, recovery from Covid-19 or exemption to vaccination:
 
@@ -158,17 +113,11 @@ For the aggregation of several European Union digital Covid-19 certificates:
 
 To fight against the fraudulent use of health certificates:
 
-* Inria as a subcontractor of the Direction générale de la santé du ministère de la Santé et de la Prévention and responsible for providing the TousAntiCovid application, TAC Verif or third party device, the reference base of validated fraudulent health certificates by the Direction générale de la santé
+* IN Groupe as a subcontractor of the Direction générale de la santé du ministère de la Santé et de la Prévention and responsible for providing the TousAntiCovid application, TAC Verif or third party device, the reference base of validated fraudulent health certificates by the Direction générale de la santé
 
 ### Retention period
 
-For the information of having been near another user positive for Covid-19: the processing is implemented for a period of six months from the end of the state of emergency. Proximity history data will be kept for a maximum of fifteen days from their issuance.
-
-For the exceptional travel certificate: maximum twenty-four hours from the date of validity.
-
 For obtaining health information related to Covid-19 relating to a place of interest: the postal code is not recorded on the central server, but only in the user's application. It is retained until modified or deleted by the user.
-
-For the production of statistics: the data used is kept for three months.
 
 For the storage of vaccination certificates, recovery certificates or negative / positive tests for Covid-19: certificates can be deleted by the user at any time in the application.
 
@@ -176,11 +125,7 @@ For the aggregation of vaccination certificates, recovery certificates or negati
 
 ### Exercising your rights
 
-The rights of access, rectification and limitation cannot be exercised because the data processed is pseudonymized and the pseudonymization method used prevents any re-identification of persons.
-
-However, each user can, at any time, delete data on the mobile application himself. The user can also erase data on the central server by unsubscribing and uninstalling the application.
-
-The user can also at any time exercise his right to object to the development of anonymous statistics by deactivating them from the settings of the TousAntiCovid application.
+Each user can, at any time, delete data on the mobile application himself, in the application settings.
 
 The user can declare, at any time, the fraudulent use of his health certificate by e-mail by writing to revocation-passe-sanitaire@sante.gouv.fr and recover, after confirmation of his/her revocation, his/her new certificate on the site https://sidep.gouv.fr or https://attestation-vaccin.ameli.fr
 
