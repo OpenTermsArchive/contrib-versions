@@ -127,7 +127,7 @@ For the aggregation of vaccination certificates, recovery certificates or negati
 
 Each user can, at any time, delete data on the mobile application himself, in the application settings.
 
-The user can declare, at any time, the fraudulent use of his health certificate by e-mail by writing to revocation-passe-sanitaire@sante.gouv.fr and recover, after confirmation of his/her revocation, his/her new certificate on the site https://sidep.gouv.fr or https://attestation-vaccin.ameli.fr
+The user can declare, at any time, the fraudulent use of his health certificate by e-mail by writing to [revocation-passe-sanitaire@sante.gouv.fr](mailto:trevocation-passe-sanitaire@sante.gouv.fr) and recover, after confirmation of his/her revocation, his/her new certificate on the site [https://sidep.gouv.fr](https://sidep.gouv.fr/) or [https://attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)
 
 The user can at any time via the "settings" of the application deactivate the Smart Wallet allowing them to receive targeted health recommendations, in particular on the eligibility for the vaccination booster and the expiration of certificates.
 
