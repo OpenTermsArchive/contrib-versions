@@ -68,7 +68,13 @@ If you fail to fulfill your obligation of payment as a user of a paid account, t
 Money Back Guarantee
 --------------------
 
-You may cancel your account with a refund for any unused portion of the service period within 30 days of the initial purchase. Here, any unused portion of the service period refers to the prorated remaining full days of the subscription period. Refunds or credits beyond the 30 days window will be considered, but at the sole discretion of the Service. The Company is only obligated to refund in the original currency of payment **and to the original payment method**, refunds will be processed within 30 days of the request. To request a refund under our Money Back Guarantee, please contact us using our [support form](https://protonvpn.com/support-form). This money back guarantee clause is only applicable to users who have subscribed to Proton VPN directly through the official Proton VPN or the official Proton Mail website (e.g. if you have subscribed to Proton VPN through the intermediary of a third-party processor, please refer to its respective refund policy).
+You may cancel your subscription with a full refund within 30 days of the date of the initial purchase. For the sake of clarity, the cancellation and the request for refund must both be addressed within the 30-day period. To request refund, please contact us using our [support form](https://protonvpn.com/support-form).
+
+Past the abovementioned 30-day period, the Service provided by the Company are generally non-refundable and any refund or credit given will be at the sole discretion of the Company. Refunds can only be requested once per user. The Company is only obligated to refund in the original currency of payment **and to the original payment method**. Payments made by cash or bank transfers are not refundable.
+
+Paid Accounts which are terminated due to a violation of these Terms will incur the loss of all payments and credits and are not eligible for refund.
+
+This refund option is only applicable to users who have subscribed to Proton VPN or Proton Unlimited directly through Proton's official channels (website and apps). If you have subscribed to Proton VPN through the intermediary of a third-party, please refer to their respective refund policy.
 
 If you rely on dispute or chargeback mechanisms of third-party payment processors, you waive your right to the above mentioned refund from the Company. Furthermore, if the result of the dispute or chargeback mechanisms causes the Company to be liable for an amount exceeding the price paid for the service (e.g. dispute fee), you authorize the Company to charge that amount on your account.
 
