@@ -124,6 +124,4 @@ These service providers are categorized as follows:
 * Communication tool providers,
 * Error analysis tool providers.
 
-Some of the external service providers are located in the USA so that your personal data is transferred to the USA. In order to secure an appropriate data protection level, the service level providers have either submitted to the EU-US Privacy Shield, [https://www.privacyshield.gov/EU-US-Framework](https://www.privacyshield.gov/EU-US-Framework) or we have concluded data protection agreements with these service providers based on the EU standard clauses, [https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010D0087&from=EN](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010D0087&from=EN).
-
-_Last updated: 23.05.2018_
+_Last updated: 25.01.2022_
