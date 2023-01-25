@@ -108,7 +108,7 @@ Unless indicated otherwise, Booking.com is a service you are only allowed to use
 
 ### How can you control the personal data you’ve given to Booking.com?
 
-Among others, you have the right to review the personal data we keep about you at any time and request access to or deletion of your personal data by submitting [this form](https://www.booking.cn/content/dsar?aid=325542). If you want to find out more about your rights to control your personal data, read on.
+Among others, you have the right to review the personal data we keep about you at any time and request access to or deletion of your personal data by submitting [this form](https://m.booking.com/content/dsar?aid=332731). If you want to find out more about your rights to control your personal data, read on.
 
 [Read more about how you can control your personal data](https://www.booking.com/content/privacy.en-gb.html#personal-data-controlled-how)
 
@@ -541,7 +541,7 @@ Users with a Booking.com account can also request that we delete your account th
 
 If any of the personal data we have about you isn’t accessible through our website or apps, you can send us a request.
 
-If you want to exercise your right of access or erasure, all you need to do is complete and submit the [Data Subject Request for Booking.com Customers](https://www.booking.cn/content/dsar?aid=325542) form. For any requests relating to this Privacy Statement, to exercise any of your other rights, or if you have a complaint, please contact our Data Protection Officer at [dataprotectionoffice@booking.com](mailto:dataprotectionoffice@booking.com). You can also contact your local data protection authority.
+If you want to exercise your right of access or erasure, all you need to do is complete and submit the [Data Subject Request for Booking.com Customers](https://m.booking.com/content/dsar?aid=332731) form. For any requests relating to this Privacy Statement, to exercise any of your other rights, or if you have a complaint, please contact our Data Protection Officer at [dataprotectionoffice@booking.com](mailto:dataprotectionoffice@booking.com). You can also contact your local data protection authority.
 
 If you’d like to object to your personal data being processed on the basis of legitimate interest and there’s no way to opt out directly, please contact us at [dataprotectionoffice@booking.com](mailto:dataprotectionoffice@booking.com).
 
