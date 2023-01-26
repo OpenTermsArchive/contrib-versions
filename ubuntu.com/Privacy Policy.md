@@ -242,7 +242,7 @@ Alternatively you can use the relevant [contact us](https://ubuntu.com/contact-u
 Your right to complain
 ----------------------
 
-If you have a complaint about our use of your information, you can contact the Information Commissioner's Office via their website at [ico.org.uk/concerns/](https://ico.org.uk/concerns/) or write to them at:
+If you have a complaint about our use of your information, you can contact the Information Commissioner's Office via their website at [ico.org.uk/make-a-complaint/](https://ico.org.uk/make-a-complaint/) or write to them at:
 
 Information Commissioner's Office  
 Wycliffe House  
