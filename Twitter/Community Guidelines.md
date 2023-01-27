@@ -9,7 +9,7 @@ Twitter's purpose is to serve the public conversation. Violence, harassment and 
   
 Violence: You may not threaten violence against an individual or a group of people. We also prohibit the glorification of violence. Learn more about our [violent threat](https://help.twitter.com/en/rules-and-policies/violent-threats-glorification.html) and [glorification of violence](https://help.twitter.com/en/rules-and-policies/glorification-of-violence.html) policies. 
 
-Terrorism/violent extremism: You may not threaten or promote terrorism or violent extremism. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-groups.html).
+Terrorism/violent extremism: You may not threaten or promote terrorism or violent extremism. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-entities.html).
 
 Child sexual exploitation: We have zero tolerance for child sexual exploitation on Twitter. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).
 
@@ -31,8 +31,10 @@ Illegal or certain regulated goods or services: You may not use our service for 
   
 Private information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/personal-information.html).
 
-Non-consensual nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).  
- 
+Non-consensual nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+
+Account compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any Twitter account other than your own (or those you have been directly authorized to do so via Twitter’s Teams authorization, OAuth authorization or similar mechanism). [Learn more](https://help.twitter.com/en/rules-and-policies/account-compromise.html).  
+  
 
 ### Authenticity
 
