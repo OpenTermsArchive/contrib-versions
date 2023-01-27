@@ -233,7 +233,7 @@ Une fois votre commande passée conformément à l’article 3.2, CDISCOUNT en a
 * son numéro,
 * les présentes CGV.
 
-**Cet email sera envoyé à l’adresse email que vous utilisez pour vous identifier dans votre Espace Client.** Si vous ne recevez pas l’email mentionné ci-dessus, nous vous recommandons de prendre contact avec notre Service Client.
+**Cet email sera envoyé à l’adresse email que vous utilisez pour vous identifier dans votre Espace Client.** Si vous ne recevez pas l'email mentionné ci-dessus, nous vous recommandons de prendre contact avec notre Service Client.
 
 Toutefois, CDISCOUNT se réserve le droit de ne pas accepter une commande ou de ne pas valider votre commande et/ou de suspendre l'exécution de votre commande, et ce, même après l'envoi de l'email de confirmation (tel que visé ci-dessus) pour tout motif légitime, notamment dans l’hypothèse où :  
 \-          votre commande ne serait pas conforme aux CGV ;  
@@ -1499,7 +1499,7 @@ Pour le Partenariat, quatre Associations Partenaires portant des projets spécif
 
 Les présentes Conditions Générales d’Utilisation ont pour objet de définir les modalités et conditions dans lesquelles les clients de Cdiscount (ci-après les « **Clients** ») peuvent utiliser le service de micro-don proposé par Un Rien C’est Tout et Cdiscount sur le Site au moment de la validation de leur commande pour faire un don en faveur de l’un des quatre Projets portés par une Association Partenaire et sélectionnés pour le Partenariat (ci-après le « **Service** »).
 
-L’utilisation du Service par le Client est subordonnée à léacceptation par ce dernier des présentes Conditions Générales d’Utilisations. En validant sa commande et son don, le Client reconnaît qu’il est pleinement informé du contenu des Conditions Générales d’Utilisation et qu’il est tenu par ces dernières.
+L’utilisation du Service par le Client est subordonnée à l’acceptation par ce dernier des présentes Conditions Générales d’Utilisations. En validant sa commande et son don, le Client reconnaît qu’il est pleinement informé du contenu des Conditions Générales d’Utilisation et qu’il est tenu par ces dernières.
 
 **2.**          **MODALITES D’UTILISATION DU SERVICE**
 
@@ -2006,7 +2006,7 @@ _ARTICLE 7 :  PRODUITS - CONFORMITE - GARANTIE_
   
 Cdiscount se réserve ainsi la possibilité de cesser la commercialisation de tout Produit proposé au Client Pro figurant sur le Site ou les documents commerciaux et/ou de modifier à tout moment les caractéristiques de ces Produits, sans que le Client Pro ne puisse engager la responsabilité de Cdiscount à cet égard et/ou réclamer le paiement de dommages-intérêts.   
   
-7.1.4. Il appartient au Client Pro de lire attentivement le descriptif des Produits et ses caractéristiques techniques détaillées sur le Site et de vérifier que le(s) Produit(s) qu’il souhaite commander correspond (ent) à ses besoins et attentes. En aucun cas, la responsabilité de Cdiscount ne saurait étre engagée par le Client Pro lorsque ce dernier aura commandé un Produit qui ne correspondrait pas à ses besoins et attentes dont Cdiscount n’aurait pas eu connaissance. L’attention du Client Pro est attirée sur le fait que Cdiscount propose des gammes de Produits destinées à un équipement professionnel et d’autres Produits qui ne présentent pas les caractéristiques d’un équipement professionnel et sont destinés à un usage courant non intensif. Ainsi, le Client Pro ne saurait reprocher à Cdiscount une quelconque non-conformité ou invoquer le bénéfice d’une garantie dès lors que ce dernier aurait acheté un bien de consommation courante pour un usage industriel.  
+7.1.4. Il appartient au Client Pro de lire attentivement le descriptif des Produits et ses caractéristiques techniques détaillées sur le Site et de vérifier que le(s) Produit(s) qu’il souhaite commander correspond (ent) à ses besoins et attentes. En aucun cas, la responsabilité de Cdiscount ne saurait être engagée par le Client Pro lorsque ce dernier aura commandé un Produit qui ne correspondrait pas à ses besoins et attentes dont Cdiscount n’aurait pas eu connaissance. L’attention du Client Pro est attirée sur le fait que Cdiscount propose des gammes de Produits destinées à un équipement professionnel et d’autres Produits qui ne présentent pas les caractéristiques d’un équipement professionnel et sont destinés à un usage courant non intensif. Ainsi, le Client Pro ne saurait reprocher à Cdiscount une quelconque non-conformité ou invoquer le bénéfice d’une garantie dès lors que ce dernier aurait acheté un bien de consommation courante pour un usage industriel.  
    
 7.1.5. En aucun cas les invendus ne peuvent être repris par Cdiscount.  
    
