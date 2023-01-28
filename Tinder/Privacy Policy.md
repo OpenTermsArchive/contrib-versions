@@ -122,7 +122,7 @@ When you use our services, this generates technical data about which features yo
 * **Other information with your consent:**
     
     * **Precise geolocation data:** If you give us your consent, we can collect your precise geolocation (latitude and longitude) from your device. The collection of your geolocation may occur in the background even when you aren’t using the services if the permission you gave us expressly permits such collection. If you decline permission for us to collect your precise geolocation, we will not collect it, and our services that rely on precise geolocation may not be available to you.
-    * **Photo Verification** **data:** If you choose to participate in our Photo Verification feature, we collect your face geometry data, which may be considered biometric data in some jurisdictions, to verify that you’re the real you. You can [learn more about Photo Verification](https://www.help.tinder.com/hc/articles/360034941812-Photo-Verification#:~:text%3DOpen%2520Tinder%2520and%2520tap%2520the,and%2520tap%2520I%27m%2520Ready) and how we process your face geometry data.
+    * **Photo Verification** **data:** If you choose to participate in our Photo Verification feature, we collect your face geometry data, which may be considered biometric data in some jurisdictions, to verify that you’re the real you. You can [learn more about Photo Verification](https://www.help.tinder.com/hc/articles/4422771431309-How-Does-Photo-Verification-Work-) and how we process your face geometry data.
     * **Other information:** We may collect other information with your permission, such as photos and videos (for instance, if you want to publish a photo or video or participate in streaming features on our services).
 
 ### 4\. How We Use Information
