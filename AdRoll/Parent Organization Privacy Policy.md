@@ -269,7 +269,7 @@ Generally speaking, an opt-out allows you to direct NextRoll not to engage in a 
 * When a Customer has not logged in to their NextRoll account in the past 365 days **and** there has been no product usage in the past 30 days **and** no media spend has occurred in the past 30 days, the Customer CRM Data will be deleted when the 366th day of no login activity occurs for the account.
     
 
-Customers may request deletion of Customer CRM Data by visiting the privacy requests [webpage](https://www.nextroll.com/privacy/requests/company).
+Customers may request deletion of Customer CRM Data by visiting the privacy requests [webpage](https://privacyportal.onetrust.com/webform/73859656-3459-48d9-8689-fe41934126f0/80c6342a-860d-4ab2-af3d-29a06a95f862).
 
 **Mobile Identifiers and Cookie Identifiers:**  Cookies we set expire (and are then deleted) 13 months from the last time your device accessed a Digital Property using NextRoll Technology. If you visit another Digital Property that uses our technology inside that 13-month expiry period, then the expiry period will be reset and measured from that date instead. The expiration period for mobile identifiers is controlled by you on your device.
 
@@ -309,7 +309,7 @@ If you have questions about, or need further information concerning, the legal b
 
 **European Residents’ Privacy Rights:**  In addition, if you are a resident of a European Territory, you have the following data subject access rights under EU data protection law:
 
-* If you wish to access, correct, update or request deletion of your personal data, please visit our [privacy requests webpage](https://www.nextroll.com/privacy/requests) to obtain a verifiable request form.
+* If you wish to access, correct, update or request deletion of your personal data, please visit our [privacy requests webpage](https://privacyportal.onetrust.com/webform/73859656-3459-48d9-8689-fe41934126f0/80c6342a-860d-4ab2-af3d-29a06a95f862) to obtain a verifiable request form.
     
 * If you wish to object to us processing your personal data or would like to otherwise restrict the processing of your personal data, we will honor that request. Please visit the [Your Choices and Opting-Out of Interest-Based Advertising and Analytics](#service-8) portion of this Service Privacy Notice to select the best opt-out method for you.
     
@@ -569,7 +569,7 @@ To exercise the right to know, data portability and deletion rights described ab
 
 * Calling us at 1-844-740-7126; or
     
-* Visiting our [privacy requests webpage.](https://www.nextroll.com/privacy/requests)
+* Visiting our [privacy requests webpage.](https://privacyportal.onetrust.com/webform/73859656-3459-48d9-8689-fe41934126f0/80c6342a-860d-4ab2-af3d-29a06a95f862)
     
 
 After submitting the request, a form will be sent to the requestor to verify the consumer request.
@@ -917,7 +917,7 @@ If you have questions or need further information concerning the legal basis on 
 
 **European Residents Privacy Rights:** If you are a resident of a European Territory, you have the following enhanced rights under EU data protection law:
 
-* If you wish to **access, correct, update or request deletion** of your personal information, please complete the information on this [webpage](https://www.nextroll.com/privacy/requests) to obtain a verifiable request.
+* If you wish to **access, correct, update or request deletion** of your personal information, please complete the information on this [webpage](https://privacyportal.onetrust.com/webform/73859656-3459-48d9-8689-fe41934126f0/80c6342a-860d-4ab2-af3d-29a06a95f862) to obtain a verifiable request.
 * If you wish to **object** to us processing your personal data or would like to otherwise restrict the processing of your personal data, we will honor that request. Please visit the [Your Choices and Opting-Out of Interest-Based Advertising and Analytics](#website-8) portion of this Privacy Notice to select the best opt-out method for you.
 * Similarly, if we process your personal data with your consent, **then you can withdraw your consent at any time**. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal data conducted in reliance on lawful processing grounds other than consent. You can also refuse consent for NextRoll or our Advertising Partners to drop cookies by visiting our [opt-out page](https://app.adroll.com/optout/safari) or by refusing consent for NextRoll when you see a “consent banner” displayed on websites which lists NextRoll as a vendor.
 * You have the **right to complain** to a data protection authority about our collection and use of your personal data. For more information, please contact your local data protection authority. Contact details for data protection authorities in the European Territories are available from the European Data Protection Board [website](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm). However, if you have any questions about our collection and use of your personal data, we encourage you to contact us first at [support@nextroll.com](mailto:support@nextroll.com). If you are unable to obtain the information or resolution that you seek, you may also contact our Data Protection Officer at [dpo@nextroll.com](mailto:dpo@nextroll.com).
@@ -1136,7 +1136,7 @@ We may deny your deletion request if retaining the information is necessary for 
 To exercise the access, data portability, and deletion rights described above, please submit the consumer request to us by either.
 
 * Calling us at 1-844-740-7126; or
-* Visiting our privacy requests [webpage](https://www.nextroll.com/privacy/requests).
+* Visiting our privacy requests [webpage](https://privacyportal.onetrust.com/webform/73859656-3459-48d9-8689-fe41934126f0/80c6342a-860d-4ab2-af3d-29a06a95f862).
 
 After submitting the request, a form will be sent to the requestor to verify the consumer request.
 
