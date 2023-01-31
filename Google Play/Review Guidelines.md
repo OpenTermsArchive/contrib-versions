@@ -96,7 +96,6 @@ Consumer
 * [### Google Fiber](https://support.google.com/fiber/?hl=en-GB)
 * [### Nexus](https://support.google.com/nexus/?hl=en-GB)
 * [### Ads](https://support.google.com/ads/?hl=en-GB)
-* [### Hangouts](https://support.google.com/hangouts/?hl=en-GB)
 * [### Nik Collection](https://support.google.com/nikcollection/?hl=en-GB)
 * [### Chromecast](https://support.google.com/chromecast/?hl=en-GB)
 * [### Snapseed](https://support.google.com/snapseed/?hl=en-GB)
