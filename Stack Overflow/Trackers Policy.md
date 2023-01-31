@@ -87,7 +87,8 @@ These cookies are used to make advertising messages more relevant to you and may
 
 | Domain | Cookies | Used as |
 | --- | --- | --- |
-| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | \_\_gads, \_dlt, \_gat\_legacyTracker, GoogleAdServingTest, urr | 1st Party |
+| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | \_\_gads, \_gat\_legacyTracker, prov\_tgt, urr | 1st Party |
+| pt.stackoverflow.com | GoogleAdServingTest | 1st Party |
 | youtube.com | GPS | 3rd Party |
 | linkedin.com | bcookie, lang, li\_gc, lidc, lissc, UserMatchHistory | 3rd Party |
 | twitter.com | guest\_id, guest\_id\_ads, guest\_id\_marketing, personalization\_id | 3rd Party |
