@@ -129,7 +129,7 @@ Third parties we use for logging in:
 2. [Google](https://policies.google.com/privacy?hl=en&gl=no)
 3. [Microsoft](https://privacy.microsoft.com/en-US/privacystatement)
 4. [LinkedIn](https://www.linkedin.com/legal/privacy-policy)
-5. [Amazon](https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496)
+5. [Amazon](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)
 
 Right to Receive Information
 ----------------------------
