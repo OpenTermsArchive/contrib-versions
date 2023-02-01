@@ -4,7 +4,7 @@ Privacy Policy (printable version)
 General information
 -------------------
 
-* Last updated: 13 September 2022
+* Last updated: 1 February 2023
 * Here we inform you about data processing in connection with the entire service XING and its applications (kununu, onlyfy etc.).
 * New Work SE is the body responsible for the processing of personal data.
 * Our Data Protection Officer is Felix Lasse.
@@ -44,7 +44,7 @@ How is your personal data processed?
 
 The main reason we process [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) is to fulfil our contractual obligations towards our users. The processing of data is required, for example, for us to be able to suggest suitable contacts, services and information to you.
 
-Operating a service like [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is subject to dynamic change by its very nature. It is not therefore possible to share every single detail about our data processing with you, but we do intend to inform you of all the key information. We process data first and foremost in order to fulfil our contractual obligations towards our users. In addition to this, we process your data to preserve our justifiable interests while taking your interests into account (e.g. when we send you promotional [newsletters](https://privacy.xing.com/en/privacy-policy/glossary/newsletter)). And, of course, in some cases we are legally obliged to process data (e.g. to pass the data on to any investigative authorities). In all other cases we will ask for your separate consent to process your data (e.g. when [using tracking technologies for the measurement and optimisation of advertising](https://privacy.xing.com/en/privacy-policy/information-we-automatically-receive-through-your-use-of-xing/measurement-and-optimisation-of-advertising) or when you enter a prize draw). When it comes to fulfilling our contractual obligations towards our users, we try to tailor our products and services to the needs of users at all times. Personalisation is important here. Interest and usage profiles are created. In order to be able to show you recommendations, e.g. for jobs, events, groups or contacts, and to suggest you as a valuable business contact or potential employee, we must have an idea of what your interests might be. In order to ascertain these interests we use information that you provide to us, in addition to implicit feedback, i.e. information that we automatically obtain through your usage of our service (by means of so-called "tracking"), as well as information that we may possibly receive indirectly (e.g. through a [user's address book or upload](https://privacy.xing.com/en/privacy-policy/information-we-receive-about-you-from-other-sources)). In order to meet our contractual obligations, we also serve you third-party advertising tailored to your needs and interests wherever possible. To this end, we provide advertisers with certain targeting criteria. Advertisers can state, for example, that they would like to target "directors" at companies with "1,000-5,000 employees".  
+Operating a service like [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is subject to dynamic change by its very nature. It is not therefore possible to share every single detail about our data processing with you, but we do intend to inform you of all the key information. We process data first and foremost in order to fulfil our contractual obligations towards our users. In addition to this, we process your data to preserve our justifiable interests while taking your interests into account (e.g. when we send you promotional [newsletters](https://privacy.xing.com/en/privacy-policy/glossary/newsletter)). And, of course, in some cases we are legally obliged to process data (e.g. to pass the data on to any investigative authorities). In all other cases we will ask for your separate consent to process your data (e.g. when [using tracking technologies for the measurement and optimisation of advertising](https://privacy.xing.com/en/privacy-policy/information-we-automatically-receive-through-your-use-of-xing/measurement-and-optimisation-of-advertising) or when you enter a prize draw). When it comes to fulfilling our contractual obligations towards our users, we try to tailor our products and services to the needs of users at all times. Personalisation is important here. Interest and usage profiles are created. In order to be able to show you recommendations, e.g. for jobs or contacts, and to suggest you as a valuable business contact or potential employee, we must have an idea of what your interests might be. In order to ascertain these interests we use information that you provide to us, in addition to implicit feedback, i.e. information that we automatically obtain through your usage of our service (by means of so-called "tracking"), as well as information that we may possibly receive indirectly (e.g. through a [user's address book or upload](https://privacy.xing.com/en/privacy-policy/information-we-receive-about-you-from-other-sources)). In order to meet our contractual obligations, we also serve you third-party advertising tailored to your needs and interests wherever possible. To this end, we provide advertisers with certain targeting criteria. Advertisers can state, for example, that they would like to target "directors" at companies with "1,000-5,000 employees".  
 If you give us your consent, we will use your data for targeting on third-party platforms (see [measurement and optimisation of advertising](https://privacy.xing.com/en/privacy-policy/information-we-automatically-receive-through-your-use-of-xing/measurement-and-optimisation-of-advertising)). The legal basis for this processing of personal data is Article 6 (1) a) of the EU General Data Protection Regulation (GDPR).
 
 ### 2\. Information you provide to us
@@ -53,7 +53,7 @@ This refers to data we obtain from you directly and information you publish and 
 
 * Login details (e.g. username and password)
 * Profile information (e.g. job title, company name, industry, educational background, contact options, photo)
-* Messages, group posts, event participation, billing details
+* Messages, posts, billing details
 
 This includes data that we have obtained from you directly and information that you publish or send on [XING Websites](https://privacy.xing.com/en/privacy-policy/glossary/xing-websites). There are both mandatory entry fields (which as marked as such) and optional information you can provide.
 
@@ -256,7 +256,6 @@ In the social network there are various ways of sharing content with others and 
 e.g.
 
 * Shared posts and links to the start page
-* Posts in groups
 * Recommendations
 * Comments
 * Likes
@@ -265,12 +264,8 @@ e.g.
 #### Visibility
 
 Generally speaking, the content and reactions you share in the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) are visible to all users in the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network).  
-Any comments you make in XING Klartext/Zukunft.machen articles and any content you post in groups marked as "public" are subject to a greater degree of visibility. This information can also be accessed outside of the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) for non-users and can be found in online search engines.  
+Any comments you make in XING Klartext/Zukunft.machen articles are subject to a greater degree of visibility. This information can also be accessed outside of the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) for non-users and can be found in online search engines.  
 For individual features the level of visibility may be more restricted (e.g. only visible to contacts). In such cases you will be informed about visibility when using the respective feature. Please be aware that even if you restrict visibility, the content and reactions that you share may become visible beyond your own network if your contacts choose to share this information with other users.
-
-#### Privacy
-
-You can deactivate the traceability of your posts in groups marked as "public" by Internet search engines or by so-called RSS readers in your privacy settings under "Privacy".
 
 #### Period saved for
 
@@ -715,7 +710,7 @@ You can learn more about how visible you are to other users under [“Informatio
 
 You can determine whether you want non-users to be able to find and access the information in your [profile](https://privacy.xing.com/en/privacy-policy/glossary/profile), e.g. via search engines. Separate privacy settings are available to you here. If you opt not to restrict these settings, the information in your [profile](https://privacy.xing.com/en/privacy-policy/glossary/profile) will be visible and accessible to non-users, although this does not include any personal contact details such as e-mail addresses and phone numbers.  
 The standard external accessibility of profile information by non-users forms a central element of [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) as a way of fostering networking between users, as many business contacts are made in the first instance when other users (or third parties) find the name of a user when conducting research in search engines.  
-With some features on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) (e.g. with posts in groups on guest lists) another user determines whether and to what extent the data used or shared for a particular function is visible or accessible to other users and non-users, and who is authorised to read this content and add to this content. If you aren’t able to change these settings through your own privacy settings, we will inform you about the respective use of your data in the respective feature.
+With some features on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) another user determines whether and to what extent the data used or shared for a particular function is visible or accessible to other users and non-users, and who is authorised to read this content and add to this content. If you aren’t able to change these settings through your own privacy settings, we will inform you about the respective use of your data in the respective feature.
 
 #### People you want to invite to the social network or other XING application
 
