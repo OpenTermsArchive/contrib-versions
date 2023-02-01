@@ -69,7 +69,7 @@ We prohibit behavior that encourages others to harass or target specific individ
 
 **Denying mass casualty events took place**  
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occured, and when the content is shared with abusive intent. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive intent. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
 **Do I need to be the target of this content for it to be reviewed for violating the Twitter Rules?  
 **
@@ -86,8 +86,8 @@ When determining the penalty for violating this policy, we consider a number of 
 * Making Tweets ineligible for amplification in Top search results and/or on timelines for users who don’t follow the Tweet author.
 * Excluding Tweets and/or accounts in email or in-product recommendations. 
 * Requiring Tweet removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Tweet again. Subsequent violations will lead to longer read-only periods and may eventually result in permanent suspension.
-* Suspending accounts whose primary use we’ve determined is to engage in abusive behavior as defined in this policy, or who have shared violent threats.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Tweet again.
+* Suspending accounts for those who have shared violent threats.
 
 Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
