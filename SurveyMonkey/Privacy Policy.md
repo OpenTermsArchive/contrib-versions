@@ -71,7 +71,7 @@ When you use our services, we may also collect the following data on your behalf
 3\. How we use the information we collect
 -----------------------------------------
 
-* 3.1 Creator
+* **3.1 Creator**
     
     We process personal data about you where:
     
@@ -175,7 +175,7 @@ When you use our services, we may also collect the following data on your behalf
     
     Finally, if you use our survey tool, depending on the package you are on and the settings you have selected, your Respondents may reach the standard [survey end page](https://help.surveymonkey.com/en/create/survey-end-page/) on completion of a survey. The end page is part of the Momentive website. We may include our own [research surveys](https://www.surveymonkey.com/mp/legal/survey-research-privacy-notice/) and polling on this end page. These surveys are optional for any Respondent to take or skip.
     
-* 3.2 Respondent
+* **3.2 Respondent**
     
     We process your personal information in the following categories of data for legitimate interests pursued by us, which are described in detail in this Privacy Notice. We have undertaken to ensure that we place clear limitations on each of these uses so that your privacy is respected and only the information necessary to achieve these legitimate aims is used. Our primary goal is to improve upon and make sure our services and messaging are relevant for all our users, while also ensuring that personal information of all users is respected and protected.
     
@@ -275,7 +275,7 @@ When you use our services, we may also collect the following data on your behalf
     * improve user experience (for example, by collecting and using device and browser information from Respondents to improve how our survey service operates on those devices and in those browsers), and
     * identify insightful data trends (which never identify any individuals).
     
-* 3.3 Visitor
+* **3.3 Visitor**
     
     We process personal data about you where:
     
@@ -502,21 +502,21 @@ You may wish to exercise a right to obtain information about yourself or to corr
 
 For SurveyMonkey Apply users please see [information on how to exercise your rights here](https://help.smapply.io/hc/en-us/articles/360003749013-SurveyMonkey-Apply-Data-Privacy). This section describes the rights you may have generally as a customer of any Momentive service.
 
-* Creator
+* **Creator**
     
     Where you hold an account with any Momentive service, you are entitled to a copy of all personal data which we hold in relation to you. You also may be entitled to request that we restrict how we use your data or object to some aspect of our treatment of your data. You can access a lot of your data in your own account when you log in. If you want to exercise your rights, please contact us [here](https://help.surveymonkey.com/en/contact/?l=en&form=datarequest).
     
     Depending on your plan type, Momentive also enables you to export your own response data from our system in a variety of formats so that you can back it up or use it with other applications. Alternatively, for assistance in exporting you can contact us.
     
-* Respondent
+* **Respondent**
     
     Where you have responded to a survey, form, questionnaire or application sent to you by a Creator using a Momentive service, you will need to reach out directly to that individual or organization to discuss managing, deleting, accessing, restricting access to or otherwise withdrawing consent for use of the information which you provided to them in your responses. Momentive does not control your response data and, accordingly, is not in a position to directly handle these requests in relation to that data. If you are having difficulties finding this Creator or if you have any other questions after reading this Privacy Notice, you can [contact us](https://help.surveymonkey.com/contact?l=en&form=datarequest) [through](https://help.surveymonkey.com/en/contact/?l=en&form=datarequest) [our support team](https://help.surveymonkey.com/contact?l=en&form=datarequest) and we will try our best to help you.
     
-* Visitor
+* **Visitor**
     
     Where you have visited our website and you want to exercise any of the above rights please contact our support team [here](https://help.surveymonkey.com/en/contact/?l=en&form=datarequest). Alternatively, if your request is for the right to be forgotten as it relates only to our use of cookies you can achieve this by clearing the cookies in your browser settings. See our Help Center article describing how to do this [here](https://help.surveymonkey.com/en/account/opt-out/).
     
-* Third Party Agents
+* **Third Party Agents**
     
     If you are a third party organization acting on behalf of a data subject (or class of data subjects) to exercise data subject rights, we do work with you. In this case:
     
