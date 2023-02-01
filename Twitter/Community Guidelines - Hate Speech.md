@@ -1,7 +1,7 @@
 Hateful conduct policy
 ======================
 
-**[Hateful conduct:](https://help.twitter.com/en/rules-and-policies/twitter-rules.html)**[](https://help.twitter.com/rules-and-policies/twitter-rules#hateful-conduct) You may not promote violence against or directly attack or threaten other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. We also do not allow accounts whose primary purpose is inciting harm towards others on the basis of these categories.
+**[Hateful conduct:](https://help.twitter.com/en/rules-and-policies/twitter-rules.html)**[](https://help.twitter.com/rules-and-policies/twitter-rules#hateful-conduct) You may not promote violence against or directly attack or threaten other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. We also do not allow inciting harm towards others on the basis of these categories.
 
 **Hateful imagery and display names:** You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.   
  
@@ -55,17 +55,14 @@ We prohibit inciting behavior that targets individuals or groups of people belon
 * to incite others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
 * to incite others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
 
-Note that content intended to incite violence against a protected category is prohibited under **Wishing, hoping, or calling for serious harm on a person or groups of people.**
-
-We prohibit targeting individuals and groups with content intended to incite fear or spread fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”   
- 
+Note: content intended to incite violence against a protected category is prohibited under **Wishing, hoping, or calling for serious harm on a person or groups of people.**
 
 **Repeated and/or non-consensual slurs, epithets, racist and sexist tropes, or other content that degrades someone**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to dehumanize, degrade or reinforce negative or harmful stereotypes about a protected category. This includes targeted misgendering or deadnaming of transgender individuals. We also prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation. In some cases, such as (but not limited to) severe, repetitive usage of slurs, epithets, or racist/sexist tropes where the primary intent is to harass or intimidate others, we may require Tweet removal. In other cases, such as (but not limited to) moderate, isolated usage where the primary intent is to harass or intimidate others, we may limit Tweet visibility as further described below.  
- 
+We prohibit targeting others with repeated slurs, tropes or other content that intends to dehumanize, degrade or reinforce negative or harmful stereotypes about a protected category. This includes targeted misgendering or deadnaming of transgender individuals. We also prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation. In some cases, such as (but not limited to) severe, repetitive usage of slurs, epithets, or racist/sexist tropes where the primary intent is to harass or intimidate others, we may require Tweet removal. In other cases, such as (but not limited to) moderate, isolated usage where the primary intent is to harass or intimidate others, we may limit Tweet visibility as further described below.
 
-**Hateful imagery  
+**  
+Hateful imagery  
 **  
 
 We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
@@ -74,7 +71,7 @@ We consider hateful imagery to be logos, symbols, or images whose purpose is to 
 * images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
 * images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of our [abusive behavior policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).   
+Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of our hateful conduct policy.   
  
 
 ### Do I need to be the target of this content for it to be a violation of the Twitter Rules? 
@@ -97,8 +94,8 @@ When determining the penalty for violating this policy, we consider a number of 
 * Making Tweets ineligible for amplification in Top search results and/or on timelines for users who don’t follow the Tweet author.
 * Excluding Tweets and/or accounts in email or in-product recommendations. 
 * Requiring Tweet removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Tweet again. Subsequent violations will lead to longer read-only periods and may eventually result in permanent suspension.
-* Suspending accounts whose primary use we’ve determined is to engage in hateful conduct as defined in this policy, or who have shared violent threats.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Tweet again.
+* Suspending accounts for those who have shared violent threats.
 
 Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
 
