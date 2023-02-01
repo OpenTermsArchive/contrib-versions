@@ -444,6 +444,8 @@ Attention: Data Protection Officer
     
 * [Third Party Code of Conduct](https://www.cloudflare.com/static/c36310da7314d803b14aef6e2bd9b808/Third_Party_Code_of_Conduct.pdf)
     
+* [Candidate Privacy Policy](https://www.cloudflare.com/candidate-privacy-notice/)
+    
 
 ### Have Questions?
 
