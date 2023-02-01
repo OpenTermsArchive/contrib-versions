@@ -431,7 +431,7 @@ Le déballage du colis et le traitement des emballages restent à votre charge.
 
 Les zones de livraison concernées par la livraison éco sont : France métropolitaine hors Corse. Pour les îles, la livraison est réalisable sur l’île d’Oléron, l’île de Ré, l’île de Noirmoutier et la presqu’île de Quiberon. Pour toutes les autres îles, les colis sont déposés à la gare maritime.  
   
-Les conditions complétes applicables à ce mode de livraison sont accessibles [ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft#Livraison_devant_chez_vous).
+Les conditions complètes applicables à ce mode de livraison sont accessibles [ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft#Livraison_devant_chez_vous).
 
 \-         _Livraison_ _Standard_ (dans la pièce de votre choix) : la livraison des produits commandés s’effectue avec prise de rendez-vous. Un ou plusieurs livreurs déchargeront votre colis, le porteront à l’intérieur de votre domicile, dans la pièce de votre choix. En revanche, cette prestation ne comprend pas le déballage, l'installation, branchements et réglages de votre appareil, qui restent sous votre responsabilité.
 
