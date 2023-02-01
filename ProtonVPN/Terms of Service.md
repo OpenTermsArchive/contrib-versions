@@ -1,7 +1,7 @@
 Terms and Conditions of Service
 ===============================
 
-_Last modified: May 18, 2022_
+_Last modified: January 26, 2023_
 
 By using this site and making use of Proton VPN, a service offered by Proton AG ("the Company"), you agree to abide by the following Terms and Conditions. These Terms and Conditions cover all present and future features offered by your Proton VPN account, individually and collectively referred to as the "Service".
 
@@ -74,7 +74,7 @@ Past the abovementioned 30-day period, the Service provided by the Company are g
 
 Paid Accounts which are terminated due to a violation of these Terms will incur the loss of all payments and credits and are not eligible for refund.
 
-This refund option is only applicable to users who have subscribed to Proton VPN or Proton Unlimited directly through Proton's official channels (website and apps). If you have subscribed to Proton VPN through the intermediary of a third-party, please refer to their respective refund policy.
+This refund option is only applicable to users who have subscribed to Proton VPN or Proton Unlimited directly through Proton's official channels (website and apps). If you have subscribed to Proton VPN or Proton Unlimited through the intermediary of a third-party, please refer to their respective refund policy.
 
 If you rely on dispute or chargeback mechanisms of third-party payment processors, you waive your right to the above mentioned refund from the Company. Furthermore, if the result of the dispute or chargeback mechanisms causes the Company to be liable for an amount exceeding the price paid for the service (e.g. dispute fee), you authorize the Company to charge that amount on your account.
 
