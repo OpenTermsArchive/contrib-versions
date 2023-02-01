@@ -1,8 +1,3 @@
-Your privacy is important. As of 30 December, we've updated our Privacy Policy to make it easier to read and comply with new U.S. laws.
-
-**Spotify Privacy Policy**
-==========================
-
 Effective as of 1 January 2023
 
 [1\. About this Policy](#1-about-this-policy)
