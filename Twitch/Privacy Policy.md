@@ -1,7 +1,11 @@
-Last modified on 11/25/2022
+Last modified on 02/01/2023
 
-**Privacy Notice**
-==================
+**Twitch.tv** **Privacy Notice**
+================================
+
+Last updated: February 2, 2023. To see prior versions, [click here](https://www.twitch.tv/p/legal/privacy-notice/archive/). 
+
+Twitch Interactive Inc. and its affiliates are subsidiaries of Amazon.com, Inc. (“Amazon”).
 
 This Twitch Privacy Notice applies to your use of www.twitch.tv, and any other websites, applications, services, or live (in-person) events provided, owned, or operated by Twitch Interactive, Inc. (with its affiliates, “Twitch”) that link to this Privacy Notice (collectively, the “Twitch Services”). Twitch values the privacy of users, subscribers, publishers, members, and others who visit and use the Twitch Services (collectively or individually, “you” or “users”) and wants you to be familiar with how we collect, use, and disclose personal information from and about you. By visiting [www.twitch.tv](http://www.twitch.tv/), setting up your Twitch account, or using the Twitch Services, you are accepting the practices described in this Privacy Notice, to the extent permitted by law.
 
@@ -63,11 +67,11 @@ Twitch will rely on legal grounds to process your personal information to the ex
 When Twitch Discloses Personal Information
 ------------------------------------------
 
-We share such information as described below:
+Information about Twitch users is an important part of our business and our work to provide the best experience across Twitch services. We take seriously the responsibility of safeguarding your personal information and honor the trust you place in Twitch. Twitch is not in the business of selling our users’ personal information to others. Twitch shares personal data only as described below and with our parent company, Amazon.com, Inc., and the subsidiaries that Amazon.com, Inc. controls, that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
 
-We disclose such information to service providers working on our behalf, such as, to: provide website hosting, maintenance, and security services; fulfill orders; conduct data analysis and create reports; offer certain functionality; provide live (in-person) event hosting; or assist Twitch in improving the Twitch Services and creating new services and features. We require that these parties process such information in compliance with this Privacy Notice, we authorize them to use the information only for the purposes for which it is provided to them, and we require them to use reasonable confidentiality measures.
+We disclose such information to service providers working on our behalf, such as, to: provide website hosting, maintenance, and security services; fulfill orders; conduct data analysis and create reports; offer certain functionality; or assist Twitch in improving the Twitch Services and creating new services and features. We require that these parties process such information in compliance with this Privacy Notice, we authorize them to use the information only for the purposes for which it is provided to them, and we require them to use reasonable confidentiality measures.
 
-Twitch may make information available to our affiliates (meaning entities controlled by, controlling, or under common control with Twitch), including Amazon.com, Inc. and its subsidiaries that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
+Twitch may share personal information with, and receive personal information from, our affiliates (meaning entities controlled by, controlling, or under common control with Twitch), including Amazon.com, Inc. and its subsidiaries that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. Personal information collected by Twitch may be combined with personal information about Amazon customers, and that combined information may be used by both Twitch and Amazon to operate, provide, develop, and improve Amazon’s and Twitch’s products and services.
 
 Twitch may disclose user information if we believe in good faith that such disclosure is necessary to comply with U.S. state and federal laws or other applicable laws around the world (for example, in the country of your residence), or respond to a court order, judicial or other government request, subpoena, or warrant in the manner legally required.
 
@@ -177,9 +181,9 @@ Twitch UK Limited has been designated by Twitch Interactive, Inc. as its represe
 Additional Information for Certain Jurisdictions
 ------------------------------------------------
 
-### California Privacy Disclosures
+### **Additional State-Specific Privacy Disclosures** 
 
-Visit the [California Privacy Disclosures](https://www.twitch.tv/p/legal/california-privacy-disclosure/) page to read additional disclosures required under the California Consumer Privacy Act and other California laws.
+Visit the [State-Specific Privacy Disclosures](https://www.twitch.tv/p/legal/state-specific-privacy-disclosures/) page to read additional disclosures required under applicable laws.
 
 ### Japan Privacy Disclosures
 
