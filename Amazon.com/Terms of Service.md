@@ -3,13 +3,9 @@ Find more solutions
 Conditions of Use
 =================
 
-     
+**Last updated: September 14, 2022**
 
-   **Last updated: September 14, 2022**
-
- 
-
- Welcome to Amazon.com. Amazon.com Services LLC and/or its affiliates ("Amazon") provide website features and other products and services to you when you visit or shop at Amazon.com, use Amazon products or services, use Amazon applications for mobile, or use software provided by Amazon in connection with any of the foregoing (collectively, "Amazon Services"). By using the Amazon Services, you agree, on behalf of yourself and all members of your household and others who use any Service under your account, to the following conditions.
+Welcome to Amazon.com. Amazon.com Services LLC and/or its affiliates ("Amazon") provide website features and other products and services to you when you visit or shop at Amazon.com, use Amazon products or services, use Amazon applications for mobile, or use software provided by Amazon in connection with any of the foregoing (collectively, "Amazon Services"). By using the Amazon Services, you agree, on behalf of yourself and all members of your household and others who use any Service under your account, to the following conditions.
 
 Please read these conditions carefully.
 ---------------------------------------
@@ -34,7 +30,7 @@ All content included in or made available through any Amazon Service, such as te
 TRADEMARKS
 ----------
 
-[Click here to see a non-exhaustive list of Amazon trademarks.](https://www.amazon.com/gp/help/customer/display.html/?nodeId=200738910) In addition, graphics, logos, page headers, button icons, scripts, and service names included in or made available through any Amazon Service are trademarks or trade dress of Amazon in the U.S. and other countries. Amazon's trademarks and trade dress may not be used in connection with any product or service that is not Amazon's, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits Amazon. All other trademarks not owned by Amazon that appear in any Amazon Service are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by Amazon.
+[Click here to see a non-exhaustive list of Amazon trademarks](https://www.amazon.com/gp/help/customer/display.html/?nodeId=200738910). In addition, graphics, logos, page headers, button icons, scripts, and service names included in or made available through any Amazon Service are trademarks or trade dress of Amazon in the U.S. and other countries. Amazon's trademarks and trade dress may not be used in connection with any product or service that is not Amazon's, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits Amazon. All other trademarks not owned by Amazon that appear in any Amazon Service are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by Amazon.
 
 LICENSE AND ACCESS
 ------------------
@@ -48,8 +44,6 @@ You may need your own Amazon account to use certain Amazon Services, and you may
 
 REVIEWS, COMMENTS, COMMUNICATIONS, AND OTHER CONTENT
 ----------------------------------------------------
-
- 
 
 You may post reviews, comments, photos, videos, and other content; send e-cards and other communications; and submit suggestions, ideas, comments, questions, or other information, so long as the content is not illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights (including publicity rights), or otherwise injurious to third parties or objectionable, and does not consist of or contain software viruses, political campaigning, commercial solicitation, chain letters, mass mailings, or any form of "spam" or unsolicited commercial electronic messages. You may not use a false e-mail address, impersonate any person or entity, or otherwise mislead as to the origin of a card or other content. Amazon reserves the right (but not the obligation) to remove or edit such content, but does not regularly review posted content.
 
@@ -68,8 +62,6 @@ All purchases of physical items from Amazon are made pursuant to a shipment cont
 RETURNS, REFUNDS AND TITLE
 --------------------------
 
- 
-
 Amazon does not take title to returned items until the item arrives at our fulfillment center. At our discretion, a refund may be issued without requiring a return. In this situation, Amazon does not take title to the refunded item. For more information about our returns and refunds, please see our [Returns Center](https://www.amazon.com/returns).
 
 PRODUCT DESCRIPTIONS
@@ -80,8 +72,6 @@ Amazon attempts to be as accurate as possible. However, Amazon does not warrant 
 PRICING
 -------
 
- 
-
 "List Price" means the suggested retail price of a product as provided by a manufacturer, supplier, or seller. We regularly check List Prices against prices recently found on Amazon and other retailers. Certain products may have a "Was Price" displayed, which is determined using recent price history of the product on Amazon.
 
 With respect to items sold by Amazon, we cannot confirm the price of an item until you order. Despite our best efforts, a small number of the items in our catalog may be mispriced. If the correct price of an item sold by Amazon is higher than our stated price, we will, at our discretion, either contact you for instructions before shipping or cancel your order and notify you of such cancellation. Other merchants may follow different policies in the event of a mispriced item. 
@@ -91,7 +81,7 @@ We generally do not charge your credit card until after your order has entered t
 APP PERMISSIONS
 ---------------
 
-When you use apps created by Amazon, such as the Amazon App or Kindle App, you may grant certain permissions to us for your device. Most mobile devices provide you with information about these permissions. To learn more about these permissions, [click here](https://www.amazon.com/gp/help/customer/display.html/?nodeId=201818880)
+When you use apps created by Amazon, such as the Amazon App or Kindle App, you may grant certain permissions to us for your device. Most mobile devices provide you with information about these permissions. To learn more about these permissions, [click here](https://www.amazon.com/gp/help/customer/display.html/?nodeId=201818880).
 
 SANCTIONS AND EXPORT POLICY
 ---------------------------
@@ -106,8 +96,6 @@ Parties other than Amazon operate stores, provide services or software, or sell 
 DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY
 ----------------------------------------------------
 
- 
-
 THE AMAZON SERVICES AND ALL INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) AND OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE AMAZON SERVICES ARE PROVIDED BY AMAZON ON AN "AS IS" AND "AS AVAILABLE" BASIS, UNLESS OTHERWISE SPECIFIED IN WRITING. AMAZON MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THE AMAZON SERVICES, OR THE INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE AMAZON SERVICES, UNLESS OTHERWISE SPECIFIED IN WRITING. YOU EXPRESSLY AGREE THAT YOUR USE OF THE AMAZON SERVICES IS AT YOUR SOLE RISK.
 
 TO THE FULL EXTENT PERMISSIBLE BY LAW, AMAZON DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. AMAZON DOES NOT WARRANT THAT THE AMAZON SERVICES, INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE AMAZON SERVICES, AMAZON'S SERVERS OR ELECTRONIC COMMUNICATIONS SENT FROM AMAZON ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. TO THE FULL EXTENT PERMISSIBLE BY LAW, AMAZON WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF ANY AMAZON SERVICE, OR FROM ANY INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH ANY AMAZON SERVICE, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, AND CONSEQUENTIAL DAMAGES, UNLESS OTHERWISE SPECIFIED IN WRITING.
@@ -115,14 +103,12 @@ TO THE FULL EXTENT PERMISSIBLE BY LAW, AMAZON DISCLAIMS ALL WARRANTIES, EXPRESS 
 DISPUTES
 --------
 
- Any dispute or claim relating in any way to your use of any Amazon Service will be adjudicated in the state or Federal courts in King County, Washington, and you consent to exclusive jurisdiction and venue in these courts. We each waive any right to a jury trial.  
+Any dispute or claim relating in any way to your use of any Amazon Service will be adjudicated in the state or Federal courts in King County, Washington, and you consent to exclusive jurisdiction and venue in these courts. We each waive any right to a jury trial.
 
 APPLICABLE LAW
 --------------
 
- 
-
- By using any Amazon Service, you agree that applicable federal law, and the laws of the state of Washington, without regard to principles of conflict of laws, will govern these Conditions of Use and any dispute of any sort that might arise between you and Amazon.
+By using any Amazon Service, you agree that applicable federal law, and the laws of the state of Washington, without regard to principles of conflict of laws, will govern these Conditions of Use and any dispute of any sort that might arise between you and Amazon.
 
 SITE POLICIES, MODIFICATION, AND SEVERABILITY
 ---------------------------------------------
@@ -132,18 +118,12 @@ Please review our other policies, such as our [pricing policy](https://www.amazo
 OUR ADDRESS
 -----------
 
- 
-
 Amazon.com, Inc.
 P.O. Box 81226
 Seattle, WA 98108-1226
 
-  
-
 ADDITIONAL AMAZON SOFTWARE TERMS
 --------------------------------
-
- 
 
 The following terms (“Software Terms”) apply to any software (including any updates or upgrades to the software) and any related documentation we make available to you in connection with Amazon Services (the "Amazon Software").  
 
@@ -154,12 +134,10 @@ The following terms (“Software Terms”) apply to any software (including any 
 5.  **Government End Users.** If you are a U.S. Government end user, we are licensing the Amazon Software to you as a "Commercial Item" as that term is defined in the U.S. Code of Federal Regulations (see 48 C.F.R. § 2.101), and the rights we grant you to the Amazon Software are the same as the rights we grant to all others under these Conditions of Use.
 6. **Conflicts.** In the event of any conflict between these Conditions of Use and any other Amazon or third-party terms applicable to any portion of Amazon Software, such as open-source license terms, such other terms will control as to that portion of the Amazon Software and to the extent of the conflict.
 
-  
-
 HOW TO SERVE A SUBPOENA OR OTHER LEGAL PROCESS
 ----------------------------------------------
 
- Amazon accepts service of subpoenas or other legal process only through Amazon's national registered agent, Corporation Service Company (CSC). Subpoenas or other legal process may be served by sending them to CSC at the following address:
+Amazon accepts service of subpoenas or other legal process only through Amazon's national registered agent, Corporation Service Company (CSC). Subpoenas or other legal process may be served by sending them to CSC at the following address:
 
 Amazon.com, Inc.
 Corporation Service Company
@@ -167,14 +145,12 @@ Corporation Service Company
 Tumwater, WA 98501
 Attn: Legal Department – Legal Process
 
-  
-
- Please note also that providing detailed and accurate information at the outset will facilitate efficient processing of your request. That information will include, for example, e-mail and/or credit card number used to make purchases for retail purchase information; the name, e-mail, and physical address of a seller for seller information; device serial number for Amazon devices; and IP address and complete time stamps.
+Please note also that providing detailed and accurate information at the outset will facilitate efficient processing of your request. That information will include, for example, e-mail and/or credit card number used to make purchases for retail purchase information; the name, e-mail, and physical address of a seller for seller information; device serial number for Amazon devices; and IP address and complete time stamps.
 
 NOTICE AND PROCEDURE FOR MAKING CLAIMS OF INTELLECTUAL PROPERTY INFRINGEMENT
 ----------------------------------------------------------------------------
 
-If you believe that your intellectual property rights have been infringed, please submit your complaint using our online [form](https://www.amazon.com/gp/help/reports/infringement). This form may be used to report all types of intellectual property claims including, but not limited to, copyright, trademark, and patent claims.
+If you believe that your intellectual property rights have been infringed, please submit your complaint using our online [form](https://www.amazon.com/report/infringement). This form may be used to report all types of intellectual property claims including, but not limited to, copyright, trademark, and patent claims.
 
 We respond quickly to the concerns of rights owners about any alleged infringement, and we terminate repeat infringers in appropriate circumstances.
 
@@ -193,8 +169,6 @@ Amazon.com Legal Department
 2021 7th Avenue
 Seattle, WA 98121
 USA
-
-  
 
 Written claims concerning copyright infringement must include the following information:
 
