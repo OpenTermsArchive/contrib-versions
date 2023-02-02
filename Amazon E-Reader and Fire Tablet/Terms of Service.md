@@ -11,7 +11,6 @@ If you place an order for, register, or use any Kindle e-reader, or any Fire tab
 * [Amazon Device Terms of Use](https://www.amazon.com/deviceterms)
 * [Amazon Photos Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201376540)
 * [Audible Conditions of Use](https://www.audible.com/conditions-of-use)
-* [Kindle Personal Documents Distributor Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201124320)
 * [Alexa Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740)
 
 If you purchase or use Amazon Prime, Amazon Kids or Amazon Kids+, Kindle Unlimited or comiXology Unlimited with your compatible Kindle e-reader, Fire tablet or any other Kindle software or reading application, then you agree to the following terms:
@@ -31,7 +30,7 @@ If you place an order for or register any Fire tablet or the Amazon app suite, y
 * [Amazon Prime Video Terms of Use](https://www.primevideo.com/help?nodeId=202095490&view-type=content-only)
 * [Amazon Appstore for Android Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201485660)
 * [Amazon Silk Terms & Conditions](https://www.amazon.com/gp/help/customer/display.html?nodeId=200775270)
-* [Amazon GameCircle Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201487670)
+
 * [IMDb Terms of Use](https://www.imdb.com/android_app/legal/US/index)
 * [Amazon Coins Terms](https://www.amazon.com/gp/help/customer/display.html?nodeId=201434520)
 * [Amazon Maps Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201544030)
