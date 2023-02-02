@@ -76,4 +76,4 @@ These Amazon Business Accounts Terms & Conditions (the "**Agreement**") are betw
     **15.7. Notices.** You consent to receive communications from us electronically, including through e-mails, text messages, in-app push notices, notices and messages posted on Amazon Business or in your [Message Center](https://www.amazon.com/gp/message?ref_=ya_d_l_msg_center#!/inbox) and other communications made available to you on a desktop or mobile device. You agree that all agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing. You may retain copies of all of these communications for your records. We may also send you notices at the address provided when registering your Business Account, which you agree is a proper and valid address for any legal or contractual purpose. If you are sending Amazon a legal or contractual notice, you must comply with our notice procedures available [here](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=GJ7ZW236CUM9WGF2).
     
 
-**Last Updated:** June 15, 2018
+**Last Updated:** January 1, 2020
