@@ -227,7 +227,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     
     * [Support](https://ubuntu.com/pricing/infra)
     * [Consulting](https://ubuntu.com/pricing/consulting)
-    * [Desktops](https://ubuntu.com/pricing/desktops)
+    * [Desktops](https://ubuntu.com/pricing/desktop)
     * [Devices](https://ubuntu.com/pricing/devices)
 * Sectors
     -------
