@@ -1,9 +1,9 @@
-Last modified on 02/01/2023
+Last modified on 02/02/2023
 
-**Twitch.tv** **Privacy Notice**
-================================
+**Twitch.tv****Privacy Notice**
+===============================
 
-Last updated: February 2, 2023. To see prior versions, [click here](https://www.twitch.tv/p/legal/privacy-notice/archive/). 
+Last updated: February 2, 2023. To see prior versions, [click here](https://www.twitch.tv/p/legal/privacy-notice/archive/).
 
 Twitch Interactive Inc. and its affiliates are subsidiaries of Amazon.com, Inc. (“Amazon”).
 
@@ -181,7 +181,7 @@ Twitch UK Limited has been designated by Twitch Interactive, Inc. as its represe
 Additional Information for Certain Jurisdictions
 ------------------------------------------------
 
-### **Additional State-Specific Privacy Disclosures** 
+### **Additional State-Specific Privacy Disclosures**
 
 Visit the [State-Specific Privacy Disclosures](https://www.twitch.tv/p/legal/state-specific-privacy-disclosures/) page to read additional disclosures required under applicable laws.
 
