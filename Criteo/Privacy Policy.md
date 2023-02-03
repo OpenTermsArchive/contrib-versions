@@ -130,7 +130,8 @@ In order to help our partners meet their legal and contractual obligations, we r
 [Understand my rights](https://www.criteo.com/privacy/your-rights/) in relation to my personal data.  
 Learn more about [how we use your data](https://www.criteo.com/privacy/how-we-use-your-data/).  
 [Disable Criteo services](https://www.criteo.com/privacy/disable-criteo-services-on-internet-browsers/).  
-[Contact us](mailto:dpo@criteo.com).
+[Contact us](mailto:dpo@criteo.com).  
+ 
 
 #### Changes to our privacy policy
 
