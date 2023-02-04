@@ -20,7 +20,7 @@ Telegram is a **free application** that provides a wide range of services, inclu
 
 ### [](#1-introduction)1\. Introduction
 
-Telegram Premium is a subscription membership that unlocks **exclusive features** and **improved functionality**. By purchasing Telegram Premium, you agree that you are authorizing recurring monthly payments, which will be made to Telegram using the payment method you selected until the subscription is canceled by you or Telegram.
+Telegram Premium is a subscription membership that unlocks **exclusive features** and **improved functionality**. By purchasing Telegram Premium, you agree that you are authorizing recurring monthly or yearly payments, which will be made to Telegram using the payment method you selected until the subscription is canceled by you or Telegram.
 
 > Telegram uses third-party payment processors to securely facilitate purchases of Telegram Premium.
 
@@ -94,11 +94,13 @@ Some Premium Services may require the latest version of the Telegram application
 
 In general, users you interact with will not have to purchase a Telegram Premium subscription in order to view the content you share with them by the use of Premium Services.
 
-#### [](#7-4-voice-to-text-conversion)7.4. Voice-to-text conversion
+#### [](#7-4-chat-translation-and-voice-to-text-conversion)7.4. Chat translation and Voice-to-text conversion
 
-Premium Services include the optional ability to request the conversion of any voice message on Telegram to text. This technology is still evolving and there is no guarantee that every voice message you attempt to convert to text will be transcribed correctly or transcribed at all. The accuracy and availability of this technology depends on a third party (Google LLC, subsidiary of Alphabet Inc.), and we can not guarantee that it will always be accurate and available.
+Premium Services include the optional ability to request the conversion of any video and voice message on Telegram to text. Additionally, the services include optional live translation for any chat, group or channel.
 
-> Read more about the privacy of this data in our [Privacy Policy](https://telegram.org/privacy#8-5-transcription-of-voice-messages-at-the-request-of-the-user).
+These technologies are still evolving and there is no guarantee that every message you attempt to either transcribe or translate will be processed correctly, or at all. The accuracy and availability of these technologies depend on a third party (Google LLC, subsidiary of Alphabet Inc.), and we can not guarantee that they will always be accurate and available.
+
+> Read more about the privacy of this data in our [Privacy Policy](https://telegram.org/privacy#8-5-transcription-of-voice-messages-at-the-request-of-the-user)
 
 #### [](#7-5-increased-download-speed)7.5. Increased Download Speed
 
