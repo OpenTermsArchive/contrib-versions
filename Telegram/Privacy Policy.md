@@ -113,7 +113,7 @@ Telegram is a cloud service. We will process your data to deliver your cloud cha
 
 #### [](#5-2-safety-and-security)5.2. Safety and Security
 
-Telegram supports massive communities which we have to police against abuse and Terms of Service violations. Telegram also has more than [400 million](https://telegram.org/blog/400-million) users which makes it a lucrative target for spammers. To improve the security of your account, as well as to prevent [spam](https://telegram.org/faq_spam), abuse, and other violations of our Terms of Service, we may collect metadata such as your IP address, devices and Telegram apps you've used, history of username changes, etc. If collected, this metadata can be kept for 12 months maximum.
+Telegram supports massive communities which we have to police against abuse and Terms of Service violations. Telegram also has more than [700 million](https://telegram.org/blog/700-million-and-premium) users which makes it a lucrative target for spammers. To improve the security of your account, as well as to prevent [spam](https://telegram.org/faq_spam), abuse, and other violations of our Terms of Service, we may collect metadata such as your IP address, devices and Telegram apps you've used, history of username changes, etc. If collected, this metadata can be kept for 12 months maximum.
 
 #### [](#5-3-spam-and-abuse)5.3. Spam and Abuse
 
@@ -201,13 +201,17 @@ We may share your personal data with: _(1)_ our parent company, Telegram Group I
 
 If Telegram receives a court order that confirms you're a terror suspect, we may disclose your IP address and phone number to the relevant authorities. So far, this has never happened. When it does, we will include it in a semiannual transparency report published at: [](https://t.me/transparency)[https://t.me/transparency](https://t.me/transparency).
 
-#### [](#8-4-translation-of-messages-at-the-request-of-the-user)8.4. Translation of Messages at the Request of the User
+#### [](#8-4-translation-of-chats-channels-and-specific-messages-at-the-r)8.4. Translation of Chats, Channels and specific Messages at the Request of the User
 
-Users can choose to translate a specific text message into a different language by tapping “Translate” in the action menu of the message (to enable this option, a user should first turn on Translation services in the Settings > Languages section of the Telegram application). Since Telegram may rely on a third-party, Google LLC, subsidiary of Alphabet Inc, for automatic translation of messages, the text of specific messages that users choose to translate may be shared with Google in order to obtain their translated versions. The third-party service owner (Google) may also receive the IP of the user requesting the translation – this is true for any equivalent translation service and the IP cannot be traced back to any Telegram user account or ID. Google will only access the data to provide a translation and will not use it for any other Google products, services, or advertising.
+Users can choose to translate a specific text message into a different language by tapping “Translate” in the action menu of the message (to enable this option, a user should first turn on Translation services in the Settings > Languages section of the Telegram application). Telegram Premium users can also optionally enable automatic live translation on any chat, group or channel.
 
-#### [](#8-5-transcription-of-voice-messages-at-the-request-of-the-user)8.5. Transcription of Voice Messages at the Request of the User
+Since Telegram may rely on a third-party, Google LLC, subsidiary of Alphabet Inc, for automatic translation of messages, the text of any message or set of messages that users choose to translate may be shared with Google in order to obtain their translated versions. Google will only access the data to provide a translation and will not use it for any other Google products, services, or advertising.
 
-Some users can choose to convert a voice message to text by tapping on the Voice-to-Text icon (“->A”) displayed in voice messages (to be able to use this option, users should subscribe to Telegram Premium in the Settings > Telegram Premium section of the Telegram application). Since Telegram may rely on a third party, Google LLC, subsidiary of Alphabet Inc, for voice-to-text conversion, the audio data of voice messages that users choose to convert to text may be shared with Google in order to obtain their transcribed versions. Only audio data may be shared for this purpose (no other data, such as the user's IP address or any information about their account is shared). According to the agreement between Telegram and Google, Telegram will pay for the transcriptions on behalf of its users and Google will only access the audio data to provide a transcribed version – it will not log audio data or transcripts, and will not use the data for any other Google products, services, or advertising.
+#### [](#8-5-transcription-of-voice-and-video-messages-at-the-request-of)8.5. Transcription of Voice and Video Messages at the Request of the User
+
+Some users can choose to convert a voice or video message to text by tapping on the Voice-to-Text icon (“->A”) displayed on eligible messages (to be able to use this option, users should subscribe to Telegram Premium in the Settings > Telegram Premium section of the Telegram application).
+
+Since Telegram may rely on a third party, Google LLC, subsidiary of Alphabet Inc, for voice-to-text conversion, the **audio data** of voice and video messages that users choose to convert to text may be shared with Google in order to obtain their transcribed versions. Only audio data may be shared for this purpose (no other data, such as the user's IP address or any information about their account is shared). According to the agreement between Telegram and Google, Telegram will pay for the transcriptions on behalf of its users and Google will only access the audio data to provide a transcribed version – it will not log audio data or transcripts, and will not use the data for any other Google products, services, or advertising.
 
 ### [](#9-your-rights-regarding-the-personal-data-you-provide-to-us)9\. Your Rights Regarding the Personal Data You Provide to Us
 
@@ -270,6 +274,10 @@ We will review and may update this Privacy Policy from time to time. Any changes
 **September 8, 2022**
 
 * Expanded [3.2. Your Email Address](https://telegram.org/privacy#3-2-your-email-address) with information on login emails, available as of Telegram 9.0
+
+**February 3, 2022**
+
+* Updated 8.4 and 8.5 to reflect the new premium feature that allows translating entire chats.
 
 Important changes made to this Privacy Policy will be notified to you via Telegram.
 
