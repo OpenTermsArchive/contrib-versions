@@ -1,7 +1,7 @@
 Palantir's Privacy and Security Statement
 =========================================
 
-_Last updated September 2021_
+_Last updated February 2022_
 
 The Highlights
 --------------
@@ -39,54 +39,54 @@ _General business-related information_. We may also receive other personal infor
 
 We use information that we collect about you or that you provide to us, including personal information:
 
-*   To present our websites, products and services to you and continuously improve upon them.
+* To present our websites, products and services to you and continuously improve upon them.
     
-*   To provide you with information, products or services that you request from us, or to market our products or services to you. This may include “remarketing,” which enables the delivery of our marketing content to you on websites across the internet after you visit our websites through use of cookies installed on your browser.
+* To provide you with information, products or services that you request from us, or to market our products or services to you. This may include “remarketing,” which enables the delivery of our marketing content to you on websites across the internet after you visit our websites through use of cookies installed on your browser.
     
-*   To notify you about changes to our website, products or services (including new offerings) and promotions or events.
+* To notify you about changes to our website, products or services (including new offerings) and promotions or events.
     
-*   To maintain the integrity and security of our websites, products, and services.
+* To maintain the integrity and security of our websites, products, and services.
     
-*   For our ordinary business operations, including human resources, recruiting, equity investments, and business research and outreach.
+* For our ordinary business operations, including human resources, recruiting, equity investments, and business research and outreach.
     
 
 _Legal basis for the processing_. We are not allowed to process personal data if we do not have a valid legal ground. Therefore, we will only process your personal data if:
 
-*   the processing is necessary to perform our contractual obligations towards you or to take pre-contractual steps at your request, such as when we authenticate your log-in to our services or ensure that you only have access to the services and data we have agreed to provide you with;
+* the processing is necessary to perform our contractual obligations towards you or to take pre-contractual steps at your request, such as when we authenticate your log-in to our services or ensure that you only have access to the services and data we have agreed to provide you with;
     
-*   the processing is necessary to comply with our legal or regulatory obligations, such as tax reporting or regulatory requirements;
+* the processing is necessary to comply with our legal or regulatory obligations, such as tax reporting or regulatory requirements;
     
-*   the processing is necessary for the legitimate interests of Palantir, and does not unduly affect your interests or fundamental rights and freedoms (see below);
+* the processing is necessary for the legitimate interests of Palantir, and does not unduly affect your interests or fundamental rights and freedoms (see below);
     
-*   the processing is necessary for the performance of a task carried out in the public interest; or
+* the processing is necessary for the performance of a task carried out in the public interest; or
     
-*   in some cases, and as may be requested from you from time to time, we have obtained prior consent.
+* in some cases, and as may be requested from you from time to time, we have obtained prior consent.
     
 
 To the extent that we process any special categories of data relating to you, we will do so because:
 
-*   the data has been manifestly made public;
+* the data has been manifestly made public;
     
-*   the processing is necessary for the establishment, exercise or defense of a legal claim;
+* the processing is necessary for the establishment, exercise or defense of a legal claim;
     
-*   the processing is necessary for reasons of substantial public interest; or
+* the processing is necessary for reasons of substantial public interest; or
     
-*   you have given your explicit consent to us to process that information (where legally permissible).
+* you have given your explicit consent to us to process that information (where legally permissible).
     
 
 ### Disclosure of Your Information
 
 Protecting your personal information is important to us and we neither rent nor sell your personal information to anyone. We may disclose or transfer personal information that we collect or you provide as described in this Privacy and Security Statement, including:
 
-*   To a buyer or other successor in the event of a merger, acquisition, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Palantir’s assets, in which personal information held by Palantir about our websites’ users is among the assets transferred.
+* To a buyer or other successor in the event of a merger, acquisition, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Palantir’s assets, in which personal information held by Palantir about our websites’ users is among the assets transferred.
     
-*   To our subsidiaries, affiliates, agents, contractors, service providers and other third parties we use to support our business or collaborate with and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes of providing services for or with us.
+* To our subsidiaries, affiliates, agents, contractors, service providers and other third parties we use to support our business or collaborate with and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes of providing services for or with us.
     
-*   To comply with court order, law or legal process, including to respond to government or regulatory requests.
+* To comply with court order, law or legal process, including to respond to government or regulatory requests.
     
-*   To enforce or apply our Terms of Use and other agreements that govern the sale or use of our products and services.
+* To enforce or apply our Terms of Use and other agreements that govern the sale or use of our products and services.
     
-*   To protect the rights, property or security of Palantir, our employees, our users or others.
+* To protect the rights, property or security of Palantir, our employees, our users or others.
     
 
 ### Onward Transfer of Your Information
@@ -99,9 +99,9 @@ If your personal data is transferred outside the EEA, we will put in place suita
 
 We strive to provide you with choices regarding the personal information you provide to us. Here are a couple of ways you can have control over your information:
 
-*   Tracking Technologies and Advertising. Depending on your browser, you may be able to change settings to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of the site may then be inaccessible or not function properly. In relation to email, you can disable most email tracking technology by preventing the loading of embedded pictures in the email. You can do this using your email software settings.
+* Tracking Technologies and Advertising. Depending on your browser, you may be able to change settings to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of the site may then be inaccessible or not function properly. In relation to email, you can disable most email tracking technology by preventing the loading of embedded pictures in the email. You can do this using your email software settings.
     
-*   Promotional Offers from the Company. If you do not wish to receive promotional e-mail messages from us, you can opt-out by sending us an e-mail at privacy@palantir.com asking to be omitted from future e-mail distributions.
+* Promotional Offers from the Company. If you do not wish to receive promotional e-mail messages from us, you can opt-out by sending us an e-mail at privacy@palantir.com asking to be omitted from future e-mail distributions.
     
 
 ### Data Integrity and Proportionality
@@ -114,13 +114,13 @@ You may have a right to access and to obtain a copy of your personal data as pro
 
 You may also have the right to:
 
-*   object to the processing of your personal data;
+* object to the processing of your personal data;
     
-*   request the erasure of your personal data;
+* request the erasure of your personal data;
     
-*   request restriction on the processing of your personal data; and/or
+* request restriction on the processing of your personal data; and/or
     
-*   withdraw your consent where Palantir obtained your consent to process personal data (without this withdrawal affecting the lawfulness of any processing that took place prior to the withdrawal).
+* withdraw your consent where Palantir obtained your consent to process personal data (without this withdrawal affecting the lawfulness of any processing that took place prior to the withdrawal).
     
 
 We will honor such requests, withdrawal or objection as required under applicable data protection rules but these rights are not absolute: they do not always apply and exemptions may be engaged. We will usually, in response to a request, ask you to verify your identity and/or provide information that helps us to better understand your request. If we do not comply with your request, we will explain why.
@@ -170,3 +170,5 @@ If you have any questions or comments about this Privacy and Security Statement,
 or by writing to us at:
 
 Palantir Technologies Inc. Attention: Legal Department, Privacy Statement Issues 100 Hamilton Ave., Suite 300 Palo Alto, CA 94301
+
+This Statement has been designed to be accessible to people with disabilities. If you experience any difficulties accessing the information here, please contact us at [accommodations@palantir.com](mailto:accommodations@palantir.com).
