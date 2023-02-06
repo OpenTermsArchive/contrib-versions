@@ -288,7 +288,7 @@ YOU AND SPOTIFY AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR 
 
 ### [](#arbitration-rules)Arbitration rules
 
-Either you or we may start arbitration proceedings. Any arbitration between you and Spotify will take place under the Consumer Arbitration Rules of the American Arbitration Association ("**AAA**") then in force (the "**AAA Rules**"), as modified by this Arbitration Agreement. You and Spotify agree that the Federal Arbitration Act applies and governs the interpretation and enforcement of this provision (despite the choice of law provision above). The AAA Rules, as well as instructions on how to file an arbitration proceeding with the AAA, appear at [adr.org](https://adr.org/), or you may call the AAA at 1-800-778-7879.
+Either you or we may start arbitration proceedings. Any arbitration between you and Spotify will take place under the Consumer Arbitration Rules of the American Arbitration Association ("**AAA**") then in force (the "**AAA Rules**"), as modified by this Arbitration Agreement. You and Spotify agree that the Federal Arbitration Act applies and governs the interpretation and enforcement of this provision (despite the choice of law provision above). The AAA Rules, as well as instructions on how to file an arbitration proceeding with the AAA, appear at [adr.org](https://adr.org/).
 
 Any arbitration hearings will be conducted by phone or videoconference to the extent possible, but if the arbitrator determines that a hearing should be conducted in person, the locale for such hearing shall be determined by the arbitrator in accordance with the AAA Rules.
 
