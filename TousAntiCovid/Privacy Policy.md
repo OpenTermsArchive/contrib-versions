@@ -23,59 +23,11 @@ The data will be used in order to:
 
 5° To notify users in the event of invalidation of their health certificate following the observation of fraudulent use of the health certificate by a third party, without the user's knowledge or not;
 
-6° To aggregate several Covid-19 certificates in EU digital format recorded in the Wallet module of TousAntiCovid, in order to generate a valid health certificate.
-
 ### Legal basis and regulatory nature of the processing
 
 This processing and its statistics are part of the public interest missions (article 6.1.e of the GDPR) entrusted to the Direction générale de la santé in the fight against health threats.
 
 It also benefits from a regulatory framework – decree of July 30, 2022 modifying decree n ° 2020-650 of May 29, 2020 relating to the processing of data called “StopCovid” (renamed since TousAntiCovid) taken after advice from the CNIL.
-
-### Personal data processed on the Central server
-
-The aggregation of several certificates is done on the central servers of Orange Business Services.
-
-The data processed in the aggregation process are listed below.
-
-Identification data (common to vaccine evidence, screening tests, recovery from Covid-19 and exemption to vaccination):
-
-* List of first names
-* Last name
-* Date of Birth
-
-Certificate of vaccination:
-
-* Date of the last status of the vaccination cycle (date of vaccination)
-* Rank of the last vaccination status carried out
-* Number of doses expected for a complete cycle
-* Name of covered disease
-* Prophylactic agent
-* Vaccine name
-* Manufacturer
-
-Certificate of Covid test:
-
-* Date and time of sample
-* Test result
-* Test type
-* Name of covered disease
-* Test name
-* Test Device & Manufacturer
-* Test center
-
-Certificate of recovery:
-
-* Date of the first positive sample
-* Starting date of validity
-* Expiration date
-* Name of covered disease
-
-Data relating to the digital signature certificate (common to all certificates):
-
-* Country
-* Certification authority
-* Expiration date
-* Certificate identifier
 
 ### Personal data processed in the TousAntiCovid application
 
@@ -86,8 +38,6 @@ For the storage of the vaccination certificate, negative / positive tests for Co
 For the notification of eligibility for the vaccine booster or the expiration of the health certificate, the information is processed locally, on the user's phone, and does not make the subject to no transfer.
 
 To fight against fraudulent use of health certificates, information is processed locally, on the user's phone, and is not subject to any transfer. This local processing is based on the comparison of a hash of the certificate with those of a reference database hosted by Orange Business Services, previously downloaded in the mobile application.
-
-For the aggregation of several digital certificates from the European Union, the Wallet module of TousAntiCovid carries out an initial filtering based on the last name, first name and date of birth.
 
 #### Using the camera
 
@@ -107,10 +57,6 @@ When displaying the certificates in the Wallet module:
 
 * Public authorities and persons empowered, in accordance with the decree, to carry out health certificate checks
 
-For the aggregation of several European Union digital Covid-19 certificates:
-
-* Orange Business Services by providing an aggregation API
-
 To fight against the fraudulent use of health certificates:
 
 * IN Groupe as a subcontractor of the Direction générale de la santé du ministère de la Santé et de la Prévention and responsible for providing the TousAntiCovid application, TAC Verif or third party device, the reference base of validated fraudulent health certificates by the Direction générale de la santé
@@ -120,8 +66,6 @@ To fight against the fraudulent use of health certificates:
 For obtaining health information related to Covid-19 relating to a place of interest: the postal code is not recorded on the central server, but only in the user's application. It is retained until modified or deleted by the user.
 
 For the storage of vaccination certificates, recovery certificates or negative / positive tests for Covid-19: certificates can be deleted by the user at any time in the application.
-
-For the aggregation of vaccination certificates, recovery certificates or negative / positive Covid-19 tests, by Orange Business Services: no data is recorded by the central server during the aggregation process
 
 ### Exercising your rights
 
