@@ -317,6 +317,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * [Public transport network, timetable information and traffic bulletins](https://www.hsl.fi/en/opendata) in modified form licensed from Helsingin seudun liikenne (Helsinki Regional Transport Authority) under a [Creative Commons Attribution 4.0 licence](https://creativecommons.org/licenses/by/4.0/legalcode), which includes disclaimers of warranties. © Helsingin seudun liikenne (Helsinki Regional Transport Authority)
             
+        * Source: [City of Helsinki road map](https://hri.fi/data/en_GB/dataset/helsingin-liikennevaylat). The maintainer of the dataset is Helsinki's urban environment industry / Urban measurement services. The dataset has been downloaded from [Helsinki Region Infoshare](https://hri.fi/fi/) service on 06.01.2023 under the license [Creative Commons Attribution 4.0.](https://creativecommons.org/licenses/by/4.0/)
+            
     9. **France and Monaco**
         * © IGN France © 2009 IGN France BD Topo ® IGN, © 2007 IGN France BD Ortho ® IGN 50cm, © 2011 IGN France - Ortho HR® IGN 20cm (Paris region)
             
@@ -522,6 +524,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             * Fluo Grand Est - réseau TGL. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tgl-syndicat-intercommunal-des-transports-collectifs-du-bassin-de-longwy](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tgl-syndicat-intercommunal-des-transports-collectifs-du-bassin-de-longwy))
                 
         * Muséum national d'Histoire Naturelle: [https://inpn.mnhn.fr/accueil/mentions-legales](https://inpn.mnhn.fr/accueil/mentions-legales)
+            
+        * Réseau urbain A Citadina - ([https://transport.data.gouv.fr/datasets/horaires-temps-reels-reseau-a-citadina](https://transport.data.gouv.fr/datasets/horaires-temps-reels-reseau-a-citadina))
+            
+        * Réseau urbain et scolaire SEMO - ([https://transport.data.gouv.fr/datasets/gtfs-semo](https://transport.data.gouv.fr/datasets/gtfs-semo))
             
     10. **Germany**
         * Bundesamt für Kartographie und Geodäsie - © Vermessungsverwaltungen der Bundesländer und Bundesamt für Kartographie und Geodäsie: [/www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
@@ -931,6 +937,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * © Norwegian Polar Institute
             
         * Contains data under the Norwegian licence for Open Government data (NLOD) distributed by Entur AS
+            
+        * Geonorge https: [https://www.geonorge.no/](https://www.geonorge.no/) - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
     34. **Poland**
         * © MGGP Aero
@@ -1657,6 +1665,14 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
     65. **Dominican Republic**
         
         OCHA Field Information Services Section (FISS) - [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
+        
+    66. **Latvia**
+        
+        Latvian Open Data Portal - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+        
+    67. **Slovenia**
+        
+        Javni Geodetski Podatki - Public Geodetic Data Slovenia - [https://creativecommons.org/licenses/by/4.0/deed.sl](https://creativecommons.org/licenses/by/4.0/deed.sl)
         
 4. **Business Listings Data.**
     
