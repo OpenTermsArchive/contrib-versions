@@ -2,6 +2,8 @@ Welcome! This is where you can learn about Criteo, the technologies and services
 
 [Disable Criteo services](https://www.criteo.com/privacy/disable-criteo-services-on-internet-browsers/)
 
+[![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=5f32f66b-aff3-4986-b4a3-b33ea7c0c7b7)](https://privacy.truste.com/privacy-seal/validation?rid=5f32f66b-aff3-4986-b4a3-b33ea7c0c7b7)
+
 #### Our activity
 
 Criteo helps brands, e-commerce sites and other advertisers (“Advertisers”) promote their products and services. We do that by enabling Advertisers to tailor their campaigns and/or offers to audiences that they want to reach with content that they wish to promote, which in turns means that you may receive advertising that may be of interest to you on the websites, mobile applications and other platforms of our partners (the “Publishers” or “Partners”).
@@ -130,8 +132,7 @@ In order to help our partners meet their legal and contractual obligations, we r
 [Understand my rights](https://www.criteo.com/privacy/your-rights/) in relation to my personal data.  
 Learn more about [how we use your data](https://www.criteo.com/privacy/how-we-use-your-data/).  
 [Disable Criteo services](https://www.criteo.com/privacy/disable-criteo-services-on-internet-browsers/).  
-[Contact us](mailto:dpo@criteo.com).  
- 
+[Contact us](mailto:dpo@criteo.com).
 
 #### Changes to our privacy policy
 
