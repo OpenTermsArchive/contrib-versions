@@ -6,7 +6,7 @@ _Last updated: 10 June 2022_
 Introduction
 ------------
 
-At GitLab, we take the privacy and security of your information seriously. This privacy statement (“Privacy Statement”) will explain how GitLab B.V. and GitLab, Inc. ("GitLab", "we", "our", "us") handles your personal data. "Personal Data," as used in this Privacy Statement, is information that identifies or can reasonably be linked directly or indirectly to an identifiable person. The privacy practices and standards detailed in this Privacy Statement apply to all data subjects globally, unless specifically noted otherwise. In particular, this Privacy Statement will touch on the following sections:
+At GitLab, we take the privacy and security of your information seriously. This privacy statement (“Privacy Statement”) will explain how GitLab B.V. and GitLab, Inc. ("GitLab", "we", "our", "us") handle your personal data. "Personal Data," as used in this Privacy Statement, is information that identifies or can reasonably be linked directly or indirectly to an identifiable person. The privacy practices and standards detailed in this Privacy Statement apply to all data subjects globally, unless specifically noted otherwise. In particular, this Privacy Statement will touch on the following sections:
 
 * [What Personal Data does GitLab collect about me?](https://about.gitlab.com/privacy/#what-personal-data-does-gitlab-collect-about-me)
     
@@ -37,9 +37,9 @@ We collect the Personal Data you provide to us, for example:
 
 _Account Information:_ When you register for an account with GitLab, we collect information that identifies you such as your name, username, email address and password. This is collected for free and paid users of the SaaS product.
 
-_Profile Information:_ We collect information that you voluntarily provide in your user profile; this may include your public avatar (which may be a photo), additional email addresses, company/organization name, job title, country, social media handles, and biography. Please note this information may be visible to other users of the Services and to the public depending on the privacy setting you apply. This is colleted for free and paid users of the SaaS product.
+_Profile Information:_ We collect information that you voluntarily provide in your user profile; this may include your public avatar (which may be a photo), additional email addresses, company/organization name, job title, country, social media handles, and biography. Please note this information may be visible to other users of the Services and to the public depending on the privacy setting you apply. This is collected for free and paid users of the SaaS product.
 
-_Payment Information:_ If you purchase a paid subscription from GitLab, we will collect payment information from you that may include your name, billing address and credit card or bank information. We may also use your credit card information to verify your identify and prevent abuse of our pipelines. Please note that GitLab does not directly process or store your entire credit card number, but we do direct that information to our third-party payment processors for processing. This is collected for paid users of the Self-managed and SaaS products.
+_Payment Information:_ If you purchase a paid subscription from GitLab, we will collect payment information from you that may include your name, billing address and credit card or bank information. We may also use your credit card information to verify your identity and prevent abuse of our pipelines. Please note that GitLab does not directly process or store your entire credit card number, but we do direct that information to our third-party payment processors for processing. This is collected for paid users of the Self-managed and SaaS products.
 
 _Marketing Contact Information:_ If you request GitLab to contact you, or sign up for marketing materials or events, GitLab may collect information such as name, address, email address, telephone number, company name, and size of company. This may be collected through the Websites as well as through the use of the Self-managed or SaaS products.
 
