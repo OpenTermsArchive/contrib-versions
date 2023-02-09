@@ -42,7 +42,7 @@ Make sure you:
 * [App Extensions](https://developer.apple.com/app-extensions/)
 * [iOS Data Storage Guidelines](https://developer.apple.com/icloud/documentation/data-storage/)
 * [Apple File System](https://developer.apple.com/documentation/foundation/file_system/about_apple_file_system)
-* [App Store Connect Help](https://help.apple.com/app-store-connect/)
+* [App Store Connect Help](https://developer.apple.com/help/app-store-connect/)
 * [Developer Account Help](https://developer.apple.com/help/account/)
 
 **Design Guidelines**
