@@ -477,33 +477,50 @@ Attention: Customer Service Team,
 
 24\. EV Tariff (Our Electric Vehicle Plan)
 
-Eligibility:  
+### Eligibility:
+
+### Smart MCC12 meters EV SMART Charge Time and EV Bundle
+
   
-New Energia Domestic customers with a Nightsaver Meter (Day/Night/Smart interval meter), either Dual Fuel or single fuel electricity.  
+Energia Domestic customers with a Smart interval meter, either Dual Fuel or single fuel electricity.  
   
 Customers must agree to receive their bills online and pay their bills by direct debit to receive the full discount.  
   
-The normal thresholds for nightsaver apply in terms of the kWh usage (Above 3,000kWh day usage and 2,000kWh night usage each billing period).  
-  
 For SMART interval customers a new charge time has been introduced from 2am to 6am with a threshold of 1000kWh usage per billing period, no thresholds apply to the day, night or peak usage.   
+ 
+
+### MCC02 Customers Variable EV product
+
+   
+Energia Domestic customers with a Nightsaver Meter (Day/Night meter), either Dual Fuel or single fuel electricity.  
+   
+Customers must agree to receive their bills online and pay their bills by direct debit to receive the full discount.  
   
-Contract length/Type  
+The normal thresholds for nightsaver apply in terms of the kWh usage (Above 3,000kWh day usage and 2,000kWh night usage each billing period).  
+   
+Once the discount period is complete the customer will revert to standard day/night meters rates.  
+ 
+
+### Charges/Discounts
+
   
-For Nightsaver customers, the contract duration is 12 months, after which the customer will revert to Energia’s standard Nightsaver plan.  
+Discounts apply for an agreed duration and are against the Energia **EV Bundle time of use rates** **or against the EV SMART Charge Time rate** depending on the product signed up to by the customer, subject to the customer continuing to pay by direct debit and receiving their bills online.  
   
-For SMART interval customers the contract duration is 24 months.  
+  
+Once the discount period is complete the customer will revert to the standard **EV Bundle time of use rates or against the EV SMART Charge Time rate** depending on the product signed up to by the customer.
+
+### Contract length/Type
+
+  
   
 The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier.  
   
-The unit rates and standing charges are subject to change in accordance with our General Terms and Conditions.  
-  
-Charges/Discounts  
-  
-Discounts apply for the contract duration and are against the Energia **EV Tariff Our Electric Vehicle Plan**, subject to the customer continuing to pay by direct debit and receiving their bills online.  
-  
-Taxes and Pass through charges  
-  
-VAT applies at 9%.  The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier.
+The unit rates, time bands, contract duration and standing charges are subject to change in accordance with our General Terms and Conditions.  
+ 
+
+### Taxes and Pass-through charges
+
+VAT applied at current rates. The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier.
 
 25\. Product Terms & Conditions
 
