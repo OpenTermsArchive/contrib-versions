@@ -48,7 +48,7 @@ _Some features of our Services may be subject to additional terms and conditions
 
  Viber additional terms and specifications (“**Additional Terms**”):
 
-* **Viber Pay Terms of Service**
+* [**Viber Pay Terms of Service**](https://www.viber.com/en/terms/viber-pay-terms-main-page)
 * [**Viber Developer Agreement**](https://www.viber.com/en/terms/viber-developer-distribution-agreement/)
 
 In the event there is a conflict between these Terms and the Additional Terms, the Additional Terms will prevail.  
