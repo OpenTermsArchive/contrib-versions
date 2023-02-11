@@ -283,18 +283,19 @@ A noter : la commande sera expédiée après l’étude du dossier complet du so
 
 Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager.
 
-Pour en savoir plus sur la Solution de Crédit - "Payez en plusieurs fois", [cliquez ici](https://www.cdiscount.com/payment/paymentinfo.html).
+Pour en savoir plus sur la Solution de Crédit - "Payez en plusieurs fois", [cliquez ici](https://www.cdiscount.com/payment/paymentinfo.html).  
+  
+(vi) Solution de crédit affecté : Cdiscount, en partenariat avec FLOA Bank, peut vous proposer, pour certains produits de la marque Apple, de régler votre commande en plusieurs fois à l'aide d'une offre de crédit affecté.
 
-(vi)               Par Paypal : Vous pouvez régler votre commande par PayPal, dans la limite de 1000 euros. Pour bénéficier de ce mode de paiement, vous devez avoir un compte auprès de la société PayPal. En cas de paiement par PayPal, ce sont les conditions générales d'utilisation de PayPal qui s'appliquent. Elles sont accessibles [en cliquant ici](https://www.paypal.com/fr/webapps/mpp/ua/useragreement-full?locale.x=fr_FR).  
+(vii) Par Paypal : Vous pouvez régler votre commande par PayPal, dans la limite de 1000 euros. Pour bénéficier de ce mode de paiement, vous devez avoir un compte auprès de la société PayPal. En cas de paiement par PayPal, ce sont les conditions générales d'utilisation de PayPal qui s'appliquent. Elles sont accessibles [en cliquant ici](https://www.paypal.com/fr/webapps/mpp/ua/useragreement-full?locale.x=fr_FR).  
   
+(viii) Par Bancontact/Mistercash : Ce mode de paiement n’est pas disponible pour les paniers contenant des produits de la Marketplace Cdiscount.  Pour bénéficier de ce mode de paiement, vous devez disposer d’une adresse de facturation située en Belgique. En cas de paiement par Bancontact/Mistercash, ce sont les conditions générales d'utilisation de Bancontact/Mistercash qui s'appliquent. Elles sont accessibles en cliquant [ici](https://www.bancontact.com/).  
   
-(vii)               Par Bancontact/Mistercash : Ce mode de paiement n’est pas disponible pour les paniers contenant des produits de la Marketplace Cdiscount.  Pour bénéficier de ce mode de paiement, vous devez disposer d’une adresse de facturation située en Belgique. En cas de paiement par Bancontact/Mistercash, ce sont les conditions générales d'utilisation de Bancontact/Mistercash qui s'appliquent. Elles sont accessibles en cliquant [ici](https://www.bancontact.com/).  
+(ix) Par bons d'achat : Il est possible d’utiliser les bons d’achat émis par CDISCOUNT pour le paiement de toute ou partie de votre commande. Ces bons d’achats ne sont utilisables qu’une seule fois. Dans l’hypothèse où un client tenterait d’utiliser frauduleusement plusieurs fois l’un de ses bons d’achat, les commandes concernées par cette fraude seraient automatiquement annulées par CDISCOUNT.  
   
-(viii)                 Par bons d'achat : Il est possible d’utiliser les bons d’achat émis par CDISCOUNT pour le paiement de toute ou partie de votre commande. Ces bons d’achats ne sont utilisables qu’une seule fois. Dans l’hypothèse où un client tenterait d’utiliser frauduleusement plusieurs fois l’un de ses bons d’achat, les commandes concernées par cette fraude seraient automatiquement annulées par CDISCOUNT.  
-  
-(ix)                  Paiement PAYLIB : Vous pouvez également régler votre commande via l'application PAYLIB sur votre téléphone. Pour bénéficier de ce mode de paiement, vous devez télécharger et créer un compte sur l'application de votre banque. En cas de paiement par PAYLIB, ce sont les conditions générales d'utilisation de PAYLIB qui s'appliquent.
+(x) Paiement PAYLIB : Vous pouvez également régler votre commande via l'application PAYLIB sur votre téléphone. Pour bénéficier de ce mode de paiement, vous devez télécharger et créer un compte sur l'application de votre banque. En cas de paiement par PAYLIB, ce sont les conditions générales d'utilisation de PAYLIB qui s'appliquent.
 
-(x)         Par carte(s) cadeau(x) : Vous pouvez également utiliser une ou plusieurs carte(s) cadeau(x) telles que :   
+(xi) Par carte(s) cadeau(x) : Vous pouvez également utiliser une ou plusieurs carte(s) cadeau(x) telles que :   
   
 \- la carte ILLICADO pour le paiement de tout ou partie de votre commande, dans la limite de deux-cents cinquante (250) euros (produits de la Marketplace inclus, à l’exception des produits dématérialisés et des offres de services tels que, notamment : voyages, forfaits mobiles, électricité/fioul, billetterie, etc.). Pour en savoir plus sur ce mode de paiement, [cliquez ici](https://www.illicado.com/utilisation-carte).
 
@@ -305,9 +306,9 @@ En cas d'abandon, de rétractation, ou tout autre motif d’annulation d’une c
 Les cartes ILLICADO sont cumulables avec les cartes UP CADHOC si les cartes ILLICADO sont utilisées en premier dans le parcours de paiement.
 
   
-(xi) Paiement par virement sécurisé par Bridge powered by Bankin’ : ce mode de paiement n’est disponible que pour les règlements effectués depuis la plateforme de recouvrement de Cdiscount. Vous avez la possibilité de régulariser votre commande par virement bancaire en validant votre demande de virement directement depuis l’interface de votre banque, grâce à la solution Bridge powered by Bankin’, éditée par Perspecteev SAS - société par actions simplifiée immatriculée au RCS Paris numéro B 529 196 313 dont le siège social est 4 rue de la Pierre Levée - 75011 Paris. Perspecteev est un établissement de paiement agréé par l'ACPR sous le numéro 16918P, et est immatriculé à l'ORIAS sous le numéro 18003177 en tant que mandataire d'intermédiaire d'assurance. Perspecteev ne peut être assimilé à un établissement de crédit. Pour en savoir plus sur ce mode de paiement, [cliquez ici](https://pay.bridgeapi.io/docs/mention-information.pdf).  
+(xii) Paiement par virement sécurisé par Bridge powered by Bankin’ : ce mode de paiement n’est disponible que pour les règlements effectués depuis la plateforme de recouvrement de Cdiscount. Vous avez la possibilité de régulariser votre commande par virement bancaire en validant votre demande de virement directement depuis l’interface de votre banque, grâce à la solution Bridge powered by Bankin’, éditée par Perspecteev SAS - société par actions simplifiée immatriculée au RCS Paris numéro B 529 196 313 dont le siège social est 4 rue de la Pierre Levée - 75011 Paris. Perspecteev est un établissement de paiement agréé par l'ACPR sous le numéro 16918P, et est immatriculé à l'ORIAS sous le numéro 18003177 en tant que mandataire d'intermédiaire d'assurance. Perspecteev ne peut être assimilé à un établissement de crédit. Pour en savoir plus sur ce mode de paiement, [cliquez ici](https://pay.bridgeapi.io/docs/mention-information.pdf).  
   
-(xii)  Par e\-carte cadeau Cdiscount, soumise aux conditions ci-après :   
+(xiii)  Par e\-carte cadeau Cdiscount, soumise aux conditions ci-après :   
         - la contrevaleur de la e-Carte cadeau Cdiscount est utilisable de façon non sécable : la e-Carte cadeau Cdiscount n’est pas fractionnable et n’est pas convertible en numéraire. Elle doit être utilisée dans son intégralité et en une seule fois.  
         - la e-Carte cadeau est valable et utilisable sur le site www.cdiscount.com, hors frais de port, abonnements, Cdiscount à volonté ou « Services » (tels que notamment Cdiscount Voyages, Cdiscount Mobile, Cdiscount Pro, Cdiscount Billetterie, Disneyland, livres, développement photo, téléchargement musique, etc.).  
 
