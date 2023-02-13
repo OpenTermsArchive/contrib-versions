@@ -11,10 +11,10 @@ In event of dispute, account ownership is determined as follows: If a paid accou
 
 #### Freedom of discussion and personal attacks
 
+* LibraryThing has no speech code per se.
 * LibraryThing prohibits all personal attacks on members. As [Wikipedia's](http://en.wikipedia.org/wiki/Wikipedia:No_personal_attacks) policy states, "Comment on content, not on the contributor."
 * Personal attacks are attacks on a person. To dispute or disparage someone's words is not a personal attack. It is the line between "You are a liar" and "Your recent post was a lie." The former is a violation of the TOS. The latter is not.
 * Personal attacks include name-calling. Name-calling is not restricted to pure insults (e.g., "asshole"), but also ones that imply both a personal and a content problem (e.g., "liar," "Nazi").
-* LibraryThing has no speech code per se. You can dispute ideas and words without limitation.
 
 #### Good advice
 
@@ -51,7 +51,7 @@ In event of dispute, account ownership is determined as follows: If a paid accou
 
 * You may not post any content that violates copyright or other intellectual property law.
 * Do not plagiarize another member's content.
-* LibraryThing prohibits members from posting AI-created content (for example, produced by ChatGPT), unless clearly and prominently labelled as such for the purpose of discussion. All such content is prohibited in book reviews and summaries, even if labelled. This prohibition does not apply to posting AI-generated cover images, if they are the actual cover images, or to cataloging material created by AI.
+* LibraryThing prohibits members from posting AI-created content (for example, produced by ChatGPT), unless clearly and prominently labelled as such for the purpose of discussion. All such content is prohibited in book reviews and summaries, even if labelled. This prohibition does not extend to the use of AI-generated cover images, as long as they are the actual cover images, or to cataloging material created by AI.
 
 #### System integrity
 
