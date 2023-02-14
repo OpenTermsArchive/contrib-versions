@@ -66,9 +66,11 @@ Sendinblue shall store messages sent through its platform on behalf of the Users
 
 By subscribing to Sendinblue Services, the Users agree to pay the price corresponding to the Services selected and to their country of residence.
 
-Unless specifically otherwise stipulated, the prices of the Services subscribed shall be paid at the time of subscription and in the currency in which they were invoiced.
+Unless specifically otherwise stipulated, the prices of the Services subscribed shall be paid at the time of subscription and in the currency in which they were invoiced, **_in accordance with the financial conditions  detailed here :_** **_[https://www.sendinblue.com/pricing/](https://www.sendinblue.com/pricing/)_****_._**
 
 The prices displayed on the Site are exclusive of charges, and they do not include VAT. Additional charges shall be applied on the invoice according to the Users’ country of residence and applicable legal and regulatory provisions. If the User’s organization subjects invoicing and/or payment to the creation or update by Sendinblue of an account on a specific invoicing platform, and/or if the User’s orgnaization only accepts payment via wire transfer, Sendinblue reserves the right to charge an annual additional fee of 100 euros.
+
+Once logged in the platform, or by subscribing via our Pay as you go page ([https://www.sendinblue.com/pricing/pay-as-you-go/](https://www.sendinblue.com/pricing/pay-as-you-go/)), the User can also purchase SMS or WhatsApp messages on a pay as you go basis, with a unit price fixed country by country. Unit prices of SMS and WhatsApp messages depend on the market prices, applied by our suppliers and third parties, and may therefore evolve during the performance of the contract. Once notified to us by our suppliers or WhatsApp, the price increase shall immediately be applied to the Users. Users can request the communication of the current price list relevant to the destination countries for which they purchased SMS and/or WhatsApp messages at **[support@sendinblue.com](mailto:support@sendinblue.com)****.** When using WhatsApp messages, the User might benefit from a fixed monthly volume of free WhatsApp messages, as described as the case may be on our Pay as you go page : this offer is only valid as long as (i) the User owns a verified WhatsApp  Business account and (ii) WhatsApp provides those messages for free. The monthly volume of free WhatsApp messages resets at the end of each month.
 
 ### 4) Use of the Services
 
