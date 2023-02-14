@@ -51,8 +51,8 @@ Disclaimer[](#disclaimer "Permalink to this headline")
 
 ALL USE OF THE SERVICE AND ANY CONTENT IS UNDERTAKEN ENTIRELY AT YOUR OWN RISK. THE SERVICE (INCLUDING, WITHOUT LIMITATION, THE BRAVE BROWSER AND ANY CONTENT) IS PROVIDED “AS IS” AND “AS AVAILABLE” AND IS WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES IMPLIED BY ANY COURSE OF PERFORMANCE OR USAGE OF TRADE, ALL OF WHICH ARE EXPRESSLY DISCLAIMED. SOME STATES DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS, SO THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU.
 
-Idemnification[](#idemnification "Permalink to this headline")
---------------------------------------------------------------
+Indemnification[](#indemnification "Permalink to this headline")
+----------------------------------------------------------------
 
 You shall defend, indemnify, and hold harmless Brave, its affiliates and each of its, and its affiliates employees, contractors, directors, suppliers and representatives from all liabilities, losses, claims, and expenses, including reasonable attorneys’ fees, that arise from or relate to (i) your use or misuse of, or access to, the Service, or (ii) your violation of the Terms of Use or any applicable law, contract, policy, regulation or other obligation. Brave reserves the right to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you will assist and cooperate with Brave in connection therewith.
 
