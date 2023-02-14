@@ -512,9 +512,6 @@ Once the discount period is complete the customer will revert to the standard **
 ### Contract length/Type
 
   
-  
-The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier.  
-  
 The unit rates, time bands, contract duration and standing charges are subject to change in accordance with our General Terms and Conditions.  
  
 
