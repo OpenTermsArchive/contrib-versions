@@ -1,4 +1,4 @@
-California Residents: Please see our California Privacy Statement and Notice at Collection here. 
+**California Residents: Please see our California Privacy Statement and Notice at Collection here.** 
 
 Summary of changes
 
