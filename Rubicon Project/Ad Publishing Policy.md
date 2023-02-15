@@ -1,7 +1,7 @@
 Ad Quality Guidelines
 =====================
 
-Last Updated: March 14, 2022
+Last Updated: February 14, 2023
 
 Description
 
@@ -17,7 +17,7 @@ Magnite maintains the right, but not the obligation, to review and approve all a
 
 Legal & Regulatory Compliance Requirements
 
-* Your use of Magnite’s services, and every ad placed in connection with those services, must comply with all applicable laws, regulations, and self-regulatory group guidelines in any relevant jurisdiction, including but not limited to.. all laws, rules, and regulations that relate to the placement of ads through online behavioral advertising and to the delivery of ads to children; the current Network Advertising Initiative (“NAI”) Code of Conduct, including the NAI Viewed Content Advertising guidance; the Digital Advertising Alliance (“DAA”)’s Self-Regulatory Principles (as updated from time to time, the “DAA Principles); the Interactive Advertising Bureau (“IAB”) Europe EU Framework for Online Behavioral Advertising; [UK Code of Non-broadcast Advertising and Direct & Promotional Marketing](https://www.asa.org.uk/codes-and-rulings/advertising-codes/non-broadcast-code.html) (CAP Code); the Australian Digital Advertising Alliance’s (“ADAA”) Best Practice Guideline for Online Behavioural Advertising; and the Asia-Pacific Economic Cooperation (“APEC”) Privacy Framework, regardless of your membership status with any of these organizations.
+* Your use of Magnite’s services, and every ad placed in connection with those services, must comply with all applicable laws, regulations, and self-regulatory group guidelines in any relevant jurisdiction, including but not limited to.. all laws, rules, and regulations that relate to the placement of ads through online behavioral advertising and to the delivery of ads to children; the current Network Advertising Initiative (“NAI”) Code of Conduct, including the NAI Viewed Content Advertising guidance; the Digital Advertising Alliance (“DAA”)’s Self-Regulatory Principles (as updated from time to time, the “DAA Principles); the Interactive Advertising Bureau (“IAB”) Europe EU Framework for Online Behavioral Advertising; the Australian Digital Advertising Alliance’s (“ADAA”) Best Practice Guideline for Online Behavioural Advertising; and the Asia-Pacific Economic Cooperation (“APEC”) Privacy Framework, regardless of your membership status with any of these organizations.
 * All ads placed through the Magnite platforms must comply with the Ad Standards and Creative Guidelines set out by the Internet Advertising Bureau at [http://www.iab.com/guidelines/iab-standard-ad-unit-portfolio/](http://www.iab.com/guidelines/iab-standard-ad-unit-portfolio/) unless otherwise authorized. Ads must also comply with the [Better Ads Standards](https://www.betterads.org/standards/) and not engage in any of the “least preferred ad experiences” as identified by the Coalition for Better Ads.
 * Buyers must provide consumers with comprehensible notice of their privacy practices, including, where appropriate, enhanced notice of behavioral targeting through mechanisms such as the Digital Advertising Alliance’s “AdChoices” icon. Advertisers that engage in behavioral advertising must also provide consumers with the ability to opt out of such targeted advertising. Buyers must respect all user opt out and/or privacy signals.
 
@@ -30,7 +30,7 @@ _AD BEHAVIOR:_
 * Ads may not auto-refresh. Only one ad creative may be served per impression purchased.
 * Ads may not include pop-up windows, JavaScript dialogs, or other features that obscure content.
 * Pop-unders are not permitted.
-* Except for ad units specifically designated as expandable, ads may not grow beyond the dimensions of their designated ad slots.
+* Except for ad units specifically designated as expandable, ads may not grow beyond the dimensions of their designated ad slots. Close buttons must be present for any ad units that interrupt or obstruct the publisher content experience, such as expandable creatives, takeover, etc.
 * Ads may not contain viruses, spyware, trojan horses, or malware of any sort. Ads may not attempt to download executable files without user initiation.
 * Ads may not falsify any user interaction, such as faking clicks.
 * Ads may not send an SMS message, or initiate a charge, without explicitly notifying a user and requiring a tap or other intentional action. Click-to-call or click-to-SMS ads must clearly indicate that clicking the ad will initiate the call or SMS message. Conventions such as a phone number that looks like a hyperlink are acceptable notifications.
@@ -59,6 +59,7 @@ Ads and ad landing pages must not include or contain:
     * Any medical or health claims
     * Any link to a landing page that provides for the sale of federally illegal products
     * Giveaways or samples
+* Illegal Gambling
 * Content that promotes or encourages harassment, bullying, threats, or similar content that advocates against any group, organization, or individual.
 * Discriminatory content, including content that promotes discrimination by race, ethnicity, nationality, religion, disability, gender, age, or sexual orientation.
 * Deceptive or fraudulent content, and must not encourage criminal or any otherwise illegal behavior.
@@ -78,15 +79,14 @@ Bid Response Requirements
 
 POLITICAL ADVERTISING
 
-Buyers must comply with all applicable federal and state laws regarding political advertising, including obligations with respect to ensuring required disclosures regarding the source of political advertisements and maintaining certain archives and providing reporting.
+Buyers must comply with all applicable federal and state laws regarding political advertising, including obligations with respect to ensuring required disclosures regarding the source of political advertisements and maintaining certain archives.
 
 All buyers purchasing inventory for the display of political ads through the Magnite platforms will be obligated to include a DAA Political Ad or similar icon within those advertisements, which link to information regarding the political advertiser’s name, contact information, contribution records, and other disclosures required by applicable state law.
 
-Magnite makes certain data about US state political advertisements served via our platform for public disclosure, as legally required, and such data may be accessed at [this page](https://www.magnite.com/political-ads/).
+Political ads and political ad landing pages must not include or contain:
 
-Without Magnite’s prior written consent, political ads and political ad landing pages must not include or contain:
-
-* Content promoting candidates for state or local elections and/or ballot measures in the following states: California, New York, New Jersey, Maryland, Nevada, and Washington.
+* Content promoting candidates for state or local elections and/or ballot measures in the following states: New York, New Jersey, Maryland, Nevada, and Washington.
+* Content promoting candidates for state or local elections and/or ballot measures in California, other than ads that are: (a) a graphic, image, animated graphic, or animated image that the online platform hosting the advertisement allows to hyperlink to an internet website, or (b) all video or all audio.
 * Any political advertisement in the United States if the advertiser is not located in the United States. Any political advertisement in any other jurisdiction if the advertiser is not located in that jurisdiction.
 
 Kid’s Sites
