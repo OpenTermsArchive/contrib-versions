@@ -1,14 +1,14 @@
 Palantir's Privacy and Security Statement
 =========================================
 
-_Last updated February 2022_
+_Last updated February 2023_
 
 The Highlights
 --------------
 
-Palantir Technologies Inc. and our subsidiaries (“**Palantir**” or “**we**”) are committed to complying with data protection legislation, including the data protection regime introduced by the General Data Protection Regulation (EU Regulation 2016/679, the “GDPR”). This privacy notice contains information on what personal data we collect, what we do with that information, and what rights you have.
+Palantir Technologies Inc. and our subsidiaries (“**Palantir**” or “**we**”) are committed to complying with data protection legislation, including the data protection regime introduced by the General Data Protection Regulation (EU Regulation 2016/679, the “GDPR”), California Consumer Privacy Act of 2018 (the “CCPA”) as amended by the California Privacy Rights Act of 2020, and other applicable US consumer privacy laws. This privacy notice contains information on what personal data we collect, what we do with that information, and what rights you have.
 
-We process some personal data in order to run our business. There are a limited number of circumstances where we may share your information with third parties (for example, pursuant to a court order, if we are part of a merger, or with our business partners and service providers who support our business or collaborate with us). We take the security of your information seriously and take steps to keep your information secure. Please read the full Privacy and Security Statement below and you can always contact us if you have questions.
+We process some personal data in order to run our business. There are a limited number of circumstances where we may share your information with third parties (for example, pursuant to a court order, for our marketing purposes, if we are part of a merger, or with our business partners and service providers who support our business or collaborate with us). We take the security of your information seriously and take steps to keep your information secure. Please read the full Privacy and Security Statement below and you can always contact us if you have questions.
 
 The Details
 -----------
@@ -49,6 +49,10 @@ We use information that we collect about you or that you provide to us, includin
     
 * For our ordinary business operations, including human resources, recruiting, equity investments, and business research and outreach.
     
+
+_Training and Certification._ Palantir will process the personal information provided by you, or on your behalf, in the course of signing up for, or taking part in, a Palantir training course or quiz. Palantir may receive the personal information directly from you if you apply directly through Palantir’s training properties; from your employer if carried out in the course of your employment; or one of our third-party training providers if you have signed up for the training through them. We will share your information with our third-party training platform and certification providers, as our service providers, for the purposes of enabling the provision of the training courses, quizzes and examinations. The information processed includes information you provide in the course of your application for a training course or quiz, together with the information collected as you progress through your learning journey (including your taking of the final test/examination and any certification you may receive as a result). The information collected and processed includes your name, contact details, your employer or quiz, the country in which you are located, your progress through the course, the results of any course or quiz and whether you have signed up to training marketing communications. Where you successfully complete a Palantir certified course or quiz, we will process your information for the purposes of certifying your successful participation in the applicable course or quiz. Where your training is part of the services provided to your employer, you employer’s privacy notice will apply to the processing of your data. Where you engage with our services through your employer, we may provide the result of any training course or quiz to your employer, where requested. The information will be processed to provide you with the training course you have signed up to and we may use your information to improve our courses, for troubleshooting, for customer service, to investigate complaints, or for legal claims.
+
+_Payment Information._ If you are purchasing products or services on our websites, and you submit payment information in the course of your purchase, you acknowledge such information will be handled by Stripe according to Stripe’s Global Privacy Policy which can be found [here](https://stripe.com/privacy), or as may be provided by Stripe when you complete your transaction.
 
 _Legal basis for the processing_. We are not allowed to process personal data if we do not have a valid legal ground. Therefore, we will only process your personal data if:
 
@@ -131,13 +135,40 @@ To exercise the above rights, you may send an email to [data-subject-request@pa
 
 If you are not satisfied with our response, you have the right to make a complaint to the data protection authority in the jurisdiction where you live or work, or in the place where you think an issue in relation to your data has arisen. The contact details of each Data Protection Authority can be found at the following website: [http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index\_en.htm](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
 
-### California Consumer Privacy Act
+### Additional Disclosures for California Residents
 
-This section provides additional information regarding the California Consumer Privacy Act of 2018 (the “**CCPA”**), and supplements the disclosures and information throughout this Privacy and Security Statement. The commitments in this section apply only to individuals covered by the CCPA, and are subject to certain statutory exceptions laid out in the CCPA itself.
+This section provides additional information regarding the California Consumer Privacy Act of 2018 (the “**CCPA**”) as amended by the California Privacy Rights Act of 2020, and supplements the disclosures and information throughout this Privacy and Security Statement. The commitments in this section apply only to individuals covered by CCPA and are subject to certain statutory exceptions laid out in the CCPA.
 
-The personal information we generally collect, use, and disclose regarding California residents, as well as the categories of sources of such information, is described above in the section, “Notice About How We Use and Protect Personal Information.” Palantir does not sell California residents’ personal information (and will not do so without presenting an opportunity to opt-out, as would be required under the CCPA). Any disclosures of such information to third parties over the preceding 12 months have been in accordance with the permitted categories in the “Disclosure of Your Information” section above. Palantir also does not sell the personal information of minors under 16 years of age, and if it ever did would require affirmative authorization to do so.
+**Notice of Collection**
 
-The CCPA creates a right for covered individuals to request that a company disclose what, if any, personal information that company collects, uses, discloses, and sells about them specifically, or to request the deletion of personal information the company has collected or maintained about them. If you believe you have such a right under the CCPA and would like to exercise that right with respect to Palantir, please [complete the form here](https://www.palantir.com/privacy-and-security/data-request) or submit an email request to [ccpa-requests@palantir.com](mailto:ccpa-requests@palantir.com) with “California Request to Know” or “California Request to Delete” in the subject line. For a “Request to Know,” please specify what details you would like to know, including any specific pieces of personal information you would like to access. For a “Request to Delete,” please specify what information you would like to have deleted (which may be all your information as required by the CCPA). If you submit a request, we may ask for information necessary to verify your identity and eligibility to assert this right, and we will respond to verified requests in accordance with the CCPA. You may also utilize an authorized agent to exercise your CCPA rights on your behalf. You may not be discriminated against because you exercise any of your rights under the CCPA, and Palantir is committed to this principle.
+The personal information we generally collect, use, and disclose regarding California residents as a Business (as defined under CCPA) is described above in the section, “Notice About How We Use and Protect Personal Information” and as follows:
+
+_Collection_: In the past 12 months, we have collected the following categories of personal information enumerated in the CCPA:
+
+* _Identifiers_, including name, postal address, email address, and online identifiers (such as IP address).
+    
+* _Customer records_, including company name, phone number, and company address.
+    
+* _Characteristics of protected classifications under California or federal law_, including race, gender, and country of residence.
+    
+* _Commercial or transactions information_, including products or services purchased, obtained or considered, or other purchasing or consumption histories or preferences.
+    
+* _Internet activity_, including browsing history, search history, and your interactions with our websites, emails, applications, and advertisements.
+    
+* _Employment and education information_.
+    
+* _Inferences drawn_ from the above information about your predicted characteristics and preferences.
+    
+
+_Sources_: We collect the information directly from you, from other persons or entities (e.g. if another person or your employer provides your contact information in the course of a booking at one of our events), or third-party providers. In limited circumstances we may collect information from third-party services, where legally permitted to do so. We collect electronic personal information automatically as you interact our websites and advertisements.
+
+_Purposes of Collection_: We collect and use these categories of personal information for the business purposes described in the “Use of Information” section above.
+
+_Disclosure_: Any disclosures of such information to third parties over the preceding 12 months have been in accordance with the permitted categories in the “Disclosure of Your Information” section above.
+
+_Sale_: We are a software company and not a data broker, and we do not sell your personal information in the course of providing our services and products to our customers. However, we use third party marketing companies that collect certain information about you through website cookies and similar online technologies which we use for marketing purposes. These third parties may collect information about you that they then aggregate with data collected about you through cookies placed on other websites/mobile apps. Under the CCPA, this type of sharing of information could be deemed a “sale”. We also disclose your information to carefully selected marketing partners, advertising technology vendors and social media platforms. This type of disclosure only occurs in limited markets and California consumers may opt out of the sale of your personal information, where applicable, by us to third parties at any time. You may submit a request to opt-out by emailing us at [ccpa-requests@palantir.com](mailto:ccpa-requests@palantir.com).
+
+_California Consumer Rights_: The CCPA creates a right for certain covered individuals to request that a company disclose what, if any, personal information that company collects, uses, discloses, and sells about them specifically, or to request the deletion of personal information the company has collected or maintained about them. If you believe you have such a right under the CCPA and would like to exercise that right with respect to Palantir, please [complete the form here](https://www.palantir.com/privacy-and-security/data-request) or submit an email request to ccpa-requests@palantir.com with “California Request to Know” or “California Request to Delete” in the subject line. For a “Request to Know,” please specify what details you would like to know, including any specific pieces of personal information you would like to access. For a “Request to Delete,” please specify what information you would like to have deleted (which may be all your information as required by the CCPA). If you submit a request, we may ask for information necessary to verify your identity and eligibility to assert this right, and we will respond to verified requests in accordance with the CCPA. You may also utilize an authorized agent to exercise your CCPA rights on your behalf. You may not be discriminated against because you exercise any of your rights under the CCPA, and Palantir is committed to this principle.
 
 ### Security
 
