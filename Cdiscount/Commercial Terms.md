@@ -1146,17 +1146,16 @@ Cdiscount se réserve le droit de modifier le prix de l’Abonnement du Service 
 
 En cas de reconduction de l'Abonnement conformément aux stipulations de l'article 5 ci-après, le paiement du prix de l'Abonnement sera exigible au jour du renouvellement de l'Abonnement.
 
-  
+3.3 En cas d’offre promotionnelle portant sur le prix de l’Abonnement au Service lors de la souscription, l’Abonné reconnait que le prix promotionnel n’est applicable que pour la première année de souscription à l’Abonnement et ne saurait s’appliquer en cas de tacite reconduction pour les années suivantes.
+
+   
  
 
 **ARTICLE 4 - OFFRE D'ESSAI GRATUIT**
 
-   
+Cdiscount est susceptible de proposer une offre d’essai gratuit dans les conditions décrites ci-après. Cdiscount se réserve le droit d’arrêter l’offre d’essai gratuit à tout moment ; le cas échéant, l’offre d’essai gratuit ne sera pas visible sur le Site au moment de la souscription au service.  
 
 **4.1** **Conditions d'éligibilité à l'Offre d'essai gratuit**
-
-  
- 
 
 Tout nouvel Abonné Cdiscount à volonté qui passe simultanément commande sur le Site d'un Abonnement à Cdiscount à volonté et d'un ou plusieurs produit(s), profitera, en sus du délai légal de rétractation, de six (6) jours d'essai gratuits (ci-après, la "Période d'essai") sur son Abonnement Cdiscount à volonté (ci-après, l'"Offre d'essai gratuit").  
   
@@ -1587,7 +1586,7 @@ Conformément au RGPD, le Client dispose de droits sur ses données à caractèr
 
 Le Client bénéficie d’un droit d’accès à ses données, d’un droit de rectification ou d’effacement (« droit à l’oubli ») de ses données, d’un droit à la limitation du traitement, d’un droit à la portabilité de ses données et d’un droit à ne pas faire l’objet d’une décision individuelle automatisée (y compris le profilage).
 
-Pour exercer l’un de ses droits, le Client doit adresser une réclamation par courrier à l’attention d’Un Rien C’est Tout au 30, rue Desse à Bordeaux (33000), France ou par courrier électronique à l’adresse suivante : contact@unriencesttout.org. URCT s’engage à donner une suite à la réclamation dans un délai de 30 jours ouvrés. 
+Pour exercer l’un de ses droits, le Client doit adresser une réclamation par courrier à l’attention d’Un Rien C’est Tout au 30, rue Desse à Bordeaux (33000), France ou par courrier électronique à l’adresse suivante : contact@unriencesttout.org. URCT séengage à donner une suite à la réclamation dans un délai de 30 jours ouvrés. 
 
 **5.**          **ENGAGEMENT ET RESPONSABILITES**
 
