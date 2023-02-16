@@ -738,7 +738,7 @@ _Article 9 : GARANTIES_
 
 Pour les produits directement vendus par Cdiscount (à l’exclusion des produits vendus par les vendeurs inscrits sur la Marketplace de Cdiscount), Cdiscount est tenue des défauts de conformité du bien au contrat dans les conditions de [l'article L. 217-3 et suivants](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000006292208&dateTexte=&categorieLien=cid) du Code de la consommation et des défauts cachés de la chose vendue dans les conditions prévues aux [articles 1641 et suivants](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006441924&dateTexte=&categorieLien=cid) du code civil. S’agissant de la garantie des vices cachés, le consommateur peut décider de mettre en œuvre cette garantie au sens de l’article 1641 du code civil et, dans cette hypothèse, il peut choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l’article 1644 du code civil.
 
-**Attention, pour les produits achetés auprès d’un vendeur de la Marketplace, vous devez vous rapprocher du vendeur concerné pour exercer vos droits, CDISCOUNT ne pouvant se substituer au vendeur.** 
+**Attention, pour les produits achetés auprès d'un vendeur de la Marketplace, vous devez vous rapprocher du vendeur concerné pour exercer vos droits, CDISCOUNT ne pouvant se substituer au vendeur.** 
 
   
 Il est rappelé que le consommateur, dans le cadre de la garantie légale de conformité :  
@@ -1586,7 +1586,7 @@ Conformément au RGPD, le Client dispose de droits sur ses données à caractèr
 
 Le Client bénéficie d’un droit d’accès à ses données, d’un droit de rectification ou d’effacement (« droit à l’oubli ») de ses données, d’un droit à la limitation du traitement, d’un droit à la portabilité de ses données et d’un droit à ne pas faire l’objet d’une décision individuelle automatisée (y compris le profilage).
 
-Pour exercer l’un de ses droits, le Client doit adresser une réclamation par courrier à l’attention d’Un Rien C’est Tout au 30, rue Desse à Bordeaux (33000), France ou par courrier électronique à l’adresse suivante : contact@unriencesttout.org. URCT s’engage à donner une suite à la réclamation dans un délai de 30 jours ouvrés. 
+Pour exercer l’un de ses droits, le Client doit adresser une réclamation par courrier à l’attention d’Un Rien C’est Tout au 30, rue Desse à Bordeaux (33000), France ou par courrier électronique à l’adresse suivante : contact@unriencesttout.org. URCT séengage à donner une suite à la réclamation dans un délai de 30 jours ouvrés. 
 
 **5.**          **ENGAGEMENT ET RESPONSABILITES**
 
