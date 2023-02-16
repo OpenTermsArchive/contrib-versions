@@ -533,6 +533,14 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Réseau urbain SYLVIA. ([https://transport.data.gouv.fr/datasets/fr-200052264-t0016-0000-1](https://transport.data.gouv.fr/datasets/fr-200052264-t0016-0000-1))
             
+        * Data Nantes Métropole - [https://www.etalab.gouv.fr/licence-ouverte-open-licence/](https://www.etalab.gouv.fr/licence-ouverte-open-licence/)
+            
+        * Métropole de Lyon - [https://www.etalab.gouv.fr/licence-ouverte-open-licence/](https://www.etalab.gouv.fr/licence-ouverte-open-licence/)
+            
+        * Métropole de Toulouse - [https://www.etalab.gouv.fr/licence-ouverte-open-licence/](https://www.etalab.gouv.fr/licence-ouverte-open-licence/)
+            
+        * Métropole Européenne de Lille - [https://www.etalab.gouv.fr/licence-ouverte-open-licence/](https://www.etalab.gouv.fr/licence-ouverte-open-licence/)
+            
     10. **Germany**
         * Bundesamt für Kartographie und Geodäsie - © Vermessungsverwaltungen der Bundesländer und Bundesamt für Kartographie und Geodäsie: [/www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
             
@@ -600,7 +608,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Offenes Datenportal Aachen - [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
             
-        * Offene Daten Wuppertal - [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
+        * Offene Daten Wuppertal - [https://www.govdata.de/dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
         * Stadtverwaltung Gera - [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
             
@@ -611,6 +619,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Stadt Bielefeld Amt für Geoinformation und Kataster - [https://www.govdata.de/dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0)
             
         * VRN Agency of Rhein-Neckar Link to their license: [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
+            
+        * City of Cologne - [https://offenedaten-koeln.de/nutzungsbedingungen](https://offenedaten-koeln.de/nutzungsbedingungen), [https://www.govdata.de/dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0)
             
     11. **Great Britain**
         * This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
@@ -1576,6 +1586,12 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         193. California State Geoportal - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
+        194. City of Denver Open Data Catalog - [https://creativecommons.org/licenses/by/3.0/legalcode](https://creativecommons.org/licenses/by/3.0/legalcode)
+            
+        195. City of Miami GIS Open Data - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        196. Hillsborough County, Florida - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
     51. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
     52. **United Arab Emirates / Abu Dhabi**
@@ -1646,9 +1662,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         OCHA FIS ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
         
     59. **Papua New Guinea**
-        
-        WFP - World Food Programme ([https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode))
-        
+        * WFP - World Food Programme ([https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode))
+            
+        * Papua New Guinea National Statistics Office - [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
+            
     60. **Yemen**
         
         OCHA Yemen ([https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode))
