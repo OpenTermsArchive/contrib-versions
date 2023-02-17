@@ -136,8 +136,8 @@ We suggest that you take some of the following actions which may help to clean y
 
 * Update your computer via Windows Update (found in the Tools menu in your Internet Explorer web browser).
 * Install a SpyWare Removal Tool such as [**Spybot Search and Destroy**](https://www.safer-networking.org/en/index.html) or [**AdAware**](http://www.lavasoft.com/?domain=lavasoftusa.com) to clean your computer of Malware.
-* Install antivirus software, such as [**Norton anti-virus**](https://www.symantec.com/norton/products/index.jsp) or [**McAfee Virus-shield**](https://us.mcafee.com/).
-* Install [**Microsoft Defender**](https://www.microsoft.com/windows/products/winfamily/defender/default.mspx) (for Windows computers).
+* Install antivirus software, such as [**Norton anti-virus**](http://www.symantec.com/norton/products/index.jsp) or [**McAfee Virus-shield**](http://us.mcafee.com/).
+* Install [**Microsoft Defender**](http://www.microsoft.com/windows/products/winfamily/defender/default.mspx) (for Windows computers).
 
 Please note that we cannot be responsible for the effects of any third-party software including Malware on your computer system. Please make sure to carefully read the Help or Customer Support areas of any software download site.
 
