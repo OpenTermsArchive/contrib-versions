@@ -73,6 +73,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Incorporates or developed using [G-NAF Core](https://geoscape.com.au/data/g-naf-core/) [© Geoscape Australia](https://geoscape.com.au/) \[2022\] [Copyright and Disclaimer Notice.](https://geoscape.com.au/legal/data-copyright-and-disclaimer/) Licensed by Geoscape Australia under the [Open G-NAF Core End User Licence Agreement.](https://geoscape.com.au/wp-content/uploads/2022/08/EULA-G-NAF-Core-1.pdf)
             
+        * Queensland Government Transport & Main Roads [https://www.data.qld.gov.au/dataset/131940-traffic-and-travel-information-geojson-api](https://www.data.qld.gov.au/dataset/131940-traffic-and-travel-information-geojson-api), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
     3. **Austria**
         * BEV - BA fuer Eich und Vermessungswesen (Geocodes) © Österreichisches Adressregister, 2009. You are not permitted, at any one time, to use Austrian Postal Data to provide, display or provide access to mass downloads or bulk feeds of numerical latitude and longitude coordinates.
             
