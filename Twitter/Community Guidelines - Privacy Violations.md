@@ -108,25 +108,27 @@ When reporting private media, we need a first person report in order to make the
 You can report this content for review in-app as follows:
 
 1. Select **Report Tweet** from the  icon.
-2. Select **It’s abusive or harmful**.
-3. Select **Includes private information**.
-4. Select the type of information that you’re reporting.
-5. Select the relevant option depending on who owns the information you are reporting.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
+2. Choose who you're reporting the Tweet for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five Tweets or add any additional context to support your report.
+7. Tap **Submit**.  
      
 
 **Desktop**
 
 You can report this content for review via desktop as follows:
 
-1. Select **Report Tweet** from the  icon.
-2. Select **It’s abusive or harmful**.
-3. Select **Includes private information**.
-4. Select the type of information that you’re reporting. 
-5. Select the relevant option depending on who owns the information you are reporting.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.
+1. Select **Report Tweet** from the  icon.
+2. Choose who you're reporting the Tweet for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five Tweets or add any additional context to support your report.
+7. Click **Submit**.
 
 You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
   
