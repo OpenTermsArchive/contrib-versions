@@ -287,6 +287,10 @@ The processing of your profile and activity information in order to make Hive re
 
 Please note that if you upload and choose to share sensitive information (such as sexuality and beliefs), you are explicitly consenting to sharing that information with other BFF members.
 
+### Profile Sharing on Our Bumble For Friends App
+
+If you are a member of BFF, your BFF profile will automatically be visible both on BFF mode in Bumble and on our separate app, Bumble For Friends. Bumble For Friends is a separate app for finding friendship and is owned by Bumble Group. We automatically show BFF profiles both on BFF mode in Bumble and on our Bumble For Friends app to provide you with a richer pool of potential friends to connect with. Please note that this profile sharing only applies to BFF members in the jurisdictions where our Bumble For Friends app is available. If you object to your BFF profile being shown on our Bumble For Friends app, please see this [help page](https://bumble.com/en/help/opt-out-of-profile-sharing).
+
 9\. YOUR CALIFORNIA PRIVACY RIGHTS.
 -----------------------------------
 
@@ -359,4 +363,4 @@ As Bumble evolves, we may revise this Privacy Policy from time to time. The most
 
 ### Effective date
 
-This Privacy Policy was last updated 7th February 2023.
+This Privacy Policy was last updated 17th February 2023.
