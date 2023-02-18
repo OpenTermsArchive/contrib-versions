@@ -163,3 +163,7 @@ You consent to receive communications from us electronically, and you agree that
 The Services are operated by Sketchfab, Inc., a Delaware corporation. General inquiries may be directed to [our support team](https://help.sketchfab.com/hc/en-us/requests/new?utm_source=website&utm_campaign=terms_page).
 
 The effective date of these Terms of Use is January 3, 2023.
+
+**Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated February 17, 2023)**  
+The estimated average monthly active recipients in the European Union of Sketchfab for the past six months was 802,000.  
+Users who accessed more than one of Epic’s services or products in a given month are counted as a user for each service or product.
