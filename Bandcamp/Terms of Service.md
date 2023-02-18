@@ -220,3 +220,12 @@ July 20, 2015: Modified [Acceptance of Terms](#acceptance) section and changed d
 November 17, 2017: Added [Fees and Payments – General](#fees) and modified [Fees and Payments – Fans](#feesfans) and [Fees and Payments – Artists](#feesartists) sections in connection with updated payment system.
 
 March 17, 2022: Simplified the terms to remove redundant language already addressed in our [privacy](#privacy) policy, so that our privacy practices are described in a single location where our users typically expect to find them. Also, clarified how [taxes](#feesfans) are [handled](#feesartists) for certain transactions, provided additional information related to how [payments are processed](#feesartists), updated Bandcamp’s [contact](#contact) information, modified governing law and venue for [dispute resolution](#disputes) from California to North Carolina, and changed the Company entity to Bandcamp LLC.
+
+  
+  
+
+### Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated February 17, 2023).
+
+The estimated average monthly active recipients in the European Union of Bandcamp for the past six months was 3.3 million.
+
+Users who accessed more than one of Epic’s services or products in a given month are counted as a user for each service or product.
