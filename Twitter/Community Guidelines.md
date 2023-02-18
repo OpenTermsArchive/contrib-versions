@@ -9,7 +9,7 @@ Twitter's purpose is to serve the public conversation. Violence, harassment and 
   
 Violence: You may not threaten violence against an individual or a group of people. We also prohibit the glorification of violence. Learn more about our [violent threat](https://help.twitter.com/en/rules-and-policies/violent-threats-glorification.html) and [glorification of violence](https://help.twitter.com/en/rules-and-policies/glorification-of-violence.html) policies. 
 
-Terrorism/violent extremism: You may not threaten or promote terrorism or violent extremism. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-entities.html).
+Violent and hateful entities: You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-entities.html).
 
 Child sexual exploitation: We have zero tolerance for child sexual exploitation on Twitter. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).
 
