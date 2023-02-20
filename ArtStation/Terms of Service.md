@@ -307,11 +307,11 @@ Epic and our service providers, members, users and licensees may use, copy, disp
 
 You represent and warrant to Epic that:
 
-(a) you own Your Content;
+(a) you have sufficient rights to grant the Licenses to Your Content;
 
-(b) you have the right to grant the Licenses; and
+(b) the use, communication, sharing, display, copying, reformatting and distribution of Your Content as permitted by the Licenses will not infringe or violate the rights of any third party; and
 
-(c) the use, communication, sharing, display, copying, reformatting and distribution of Your Content as permitted by the Licenses will not infringe or violate the rights of any third party.
+(c) where Your Content is sold as a Digital Product on the Marketplace and is created using Generative AI Programs, you have applied the “CreatedWithAI” tag.
 
 > Basically...
 > 
@@ -603,11 +603,19 @@ No delay or failure to act by Epic regarding any default will impair any of our 
 
 ### 46\. Artificial Intelligence
 
-We care about protecting artists and providing the tools to protect their art. You are able to tag your projects containing Your Content with “NoAI” if you would like Your Content to be prohibited from use with AI. This tag will not be applied to your projects or Your Content by default; you must actively designate your projects containing Your Content for the “NoAI” tag to apply. Any content uploaded to the Site that has been tagged, labeled, or otherwise marked “NoAI” via the tagging functionality provided by the platform will be known as “NoAI Content.”
+(a) Identifying where Your Content should not be used with Generative AI Programs
 
-For purposes of this Agreement, "Generative AI Programs" means artificial intelligence, machine learning, deep learning, neural networks, or similar technologies designed to automate the generation of or aid in the creation of new content, including but not limited to audio, visual, or text-based content. You shall not collect, aggregate, mine, scrape, or otherwise use NoAI Content (i) in datasets utilized by Generative AI Programs; (ii) in the development of Generative AI Programs; or (iii) as inputs to Generative AI Programs.
+We care about protecting artists and providing the tools to protect their art. You are able to tag your projects containing Your Content with “NoAI” if you would like Your Content to be prohibited from use (a) in datasets utilized by Generative AI Programs, (b) in the development of Generative AI Programs, or (c) as inputs to Generative AI Programs. This tag will not be applied to your projects or Your Content by default; you must actively designate your projects containing Your Content for the “NoAI” tag to apply. Any content uploaded to the Site that has been tagged, labeled, or otherwise marked “NoAI” via the functionality provided by the platform will be known as “NoAI Content.”
 
-Epic agrees, whether or not Your Content is NoAI Content, not to use any of Your Content or to license any of Your Content to third parties for use in connection with Generative AI Programs.
+For purposes of this Agreement, “Generative AI Programs” means artificial intelligence, machine learning, deep learning, neural networks, or similar technologies designed to automate the generation of or aid in the creation of new content, including but not limited to audio, visual, or text-based content. You shall not collect, aggregate, mine, scrape, or otherwise use NoAI Content (a) in datasets utilized by Generative AI Programs; (b) in the development of Generative AI Programs; or (c) as inputs to Generative AI Programs.
+
+Epic agrees, whether or not Your Content is NoAI Content, not to use any of Your Content or to license any of Your Content to third parties for use (a) in datasets utilized by Generative AI Programs, (b) in the development of Generative AI Programs, or (c) as inputs to Generative AI Programs.
+
+(b) Identifying where Your Content is created with Generative AI Programs.
+
+Where Your Content is sold as a Digital Product in the Marketplace and is created using Generative AI Programs, you must tag Your Content using the “CreatedWithAI” tag. Where Your Content is not being sold as a Digital Product in the Marketplace and is created using Generative AI Programs, we recommend using the “CreatedWithAI” tag. Any content uploaded to the Site that has been tagged, labeled, or otherwise marked “CreatedWithAI” via the functionality provided by the platform will be known as “CreatedWithAI Content.” Epic will not apply the “CreatedWithAI” tag to Your Content; you are solely responsible for complying with the requirement to tag your Digital Products in the Marketplace.
+
+Under this Agreement, Your Content is considered to be created using Generative AI Programs where a material portion of Your Content is generated with Generative AI Programs, whether characters, backgrounds, or other material elements. Your Content is not considered to be created using Generative AI Programs merely for use of features that solely operate on Your Content (e.g., content-aware fill) or that don't introduce material Generative AI elements into your work (e.g. AI based image upscaling).
 
 > Basically...
 > 
