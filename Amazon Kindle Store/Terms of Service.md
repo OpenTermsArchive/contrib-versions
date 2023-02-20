@@ -1,5 +1,3 @@
-Find more solutions
-
 Kindle Store Terms of Use
 =========================
 
