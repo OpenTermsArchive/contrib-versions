@@ -142,6 +142,8 @@ You can find more information about the individual first-party cookies used for 
 | Performance (Analytics) Cookies | abLdr | Supports routine technical and performance improvements for Taboola’s browser-based Services. | taboola.com | 3 hours |
 | abMbl | Supports routine technical and performance improvements for Taboola’s mobile SDK Services. | taboola.com | 3 hours |
 | tb\_click\_param | Used on websites of our publisher Customers that utilize the Taboola Newsroom services. It measures performance of the publisher’s homepage articles that are clicked. | Publisher’s Domain | 50 seconds |
+| taboola global:last-external | Used for attribution purposes to see what link or page led a user to the current page. | Publisher or Advertiser Domain | Local Storage (deleted when the user deletes it) |
+| global:last-external-referrer | Used for attribution purposes to see what link or page led a user to the current page. | Publisher or Advertiser Domain | Local Storage (deleted when the user deletes it) |
 
 4\. How To Manage Cookies
 -------------------------
