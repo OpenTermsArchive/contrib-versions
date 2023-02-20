@@ -21,9 +21,9 @@ Overview of our policies
 
 We want to support a healthy digital advertising ecosystem—one that is trustworthy and transparent, and works for users, advertisers, and publishers. The purpose of this help center is to help you build Google Ads campaigns that align with our advertising policies listed below. These policies are designed not only to abide by laws but to ensure a safe and positive experience for our users. This means that our policies prohibit some content that we believe to be harmful to users and the overall advertising ecosystem.
 
-We use a combination of automated and human evaluation to ensure Google Ads comply with these policies. 
+We use a combination of automated and human evaluation to ensure Google Ads comply with these policies.
 
-Our advertising policies cover four broad areas:
+Our advertising policies cover 4 broad areas:
 
 > |     |     |
 > | --- | --- |
@@ -32,7 +32,7 @@ Our advertising policies cover four broad areas:
 > | ![Google Ads policies \| restricted content](//storage.googleapis.com/support-kms-prod/tNErobNFH6ZkSwZtpMfEXrQkhCi1uMdPn3ur) | **[Restricted content and features](#res):** Content you can advertise, but with limitations |
 > | ![Google Ads policies \| Editorial and technical](//storage.googleapis.com/support-kms-prod/hza1ZDCgK38me1XBTkYHl7o1eUaDUDjNGfVT) | **[Editorial and technical](#ed):** Quality standards for your ads, websites, and apps |
 > 
-> Click through the policies below for policy definitions, examples, and troubleshooting steps. 
+> Click through the policies below for policy definitions, examples, and troubleshooting steps.
 > 
 > Prohibited content
 > ------------------
@@ -111,7 +111,7 @@ Our advertising policies cover four broad areas:
 > > 
 > > Learn about [what happens if you violate our policies](https://support.google.com/adspolicy/answer/7187501).
 > > 
-> > _Examples of restricted sexual content:_ Visible genitalia and female breasts, hook-up dating, sex toys, strip clubs, sexually suggestive live chat, and models in sexualized poses.
+> > _Examples of restricted sexual content:_ Visible genitalia and female breasts, hook-up dating, sex toys, strip clubs, sexually suggestive live chat, and models in sexualized poses.
 > 
 > ### [Alcohol](https://support.google.com/adspolicy/answer/6012382)
 > 
@@ -230,8 +230,6 @@ Our advertising policies cover four broad areas:
 > 
 > * * *
 > 
->  
-> 
 > About our policies
 > ------------------
 > 
@@ -239,7 +237,7 @@ Our advertising policies cover four broad areas:
 > 
 > Google requires that advertisers comply with all [applicable laws and regulations](https://support.google.com/adspolicy/answer/6023676) and the Google policies described above. It's important that you familiarize yourself with and keep up to date on these requirements for the places where your business operates, as well as any other places your ads are showing. When we find content that violates these requirements, we may block it from appearing, and in cases of repeated or egregious violations, we may stop you from advertising with us.
 > 
->  
+> __Advertisers have a responsibility not to promote content or engage in behavior that risks harm to our users, employees, or the Ads ecosystem. If we see such content or behavior, we may take action, including but not limited to restricting or blocking your ads or suspending your account.__
 > 
 > Need help?
 > ----------
