@@ -110,7 +110,7 @@ Nous utilisons les informations à notre disposition, les informations fournies 
 
 Plus d’informations dans la Politique de confidentialité
 
-[Finalités et moyens de traitement de vos informations](https://fr-fr.facebook.com/privacy/policy/?section_id=19-WhyAndHowWe)
+[Finalités et moyens du traitement de vos informations](https://fr-fr.facebook.com/privacy/policy/?section_id=19-WhyAndHowWe)
 
 Comment vos informations sont-elles partagées sur les Produits Meta ou avec nos Partenaires intégrés ?
 
@@ -318,7 +318,7 @@ Meta Platforms, Inc.
 
 Menlo Park, CA 94025, États-Unis
 
-Finalités et moyens de traitement de vos informations
+Finalités et moyens du traitement de vos informations
 
 Les catégories d’informations que nous utilisons, les raisons pour lesquelles elles sont traitées et la manière dont elles le sont, sont définies ci-dessous :
 
