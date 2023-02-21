@@ -2,11 +2,6 @@ _The Facebook company is now Meta. We’ve updated our Terms of Use, Data Policy
 
   
   
-  
-
-These terms reflect our updated [European Data Transfer Addendum](https://www.facebook.com/legal/EU_data_transfer_addendum/update) incorporating new Standard Contractual Clauses effective September 27, 2021.
-
-  
 
 **Meta Commercial Terms ("Commercial Terms")**
 
