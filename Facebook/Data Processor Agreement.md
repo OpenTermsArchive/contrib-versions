@@ -1,4 +1,4 @@
-This European Data Transfer Addendum is effective September 27, 2021. A list of Facebook sub-processors is available [here](https://facebook.com/legal/ads-subprocessors).
+We’re updating the European Data Transfer Addendum. The updates go into effect on 25 April 2023. [Read the new terms.](https://www.facebook.com/legal/EU_data_transfer_addendum_Preview)
 
   
 
