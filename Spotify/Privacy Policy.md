@@ -1,4 +1,4 @@
-Effective as of 1 January 2023
+Effective as of 22 February 2023
 
 [1\. About this Policy](#1-about-this-policy)
 
@@ -129,7 +129,7 @@ The following chart contains statistics about global verifiable requests we rece
 | Right to Know / Access | 457,465 | 457,465 | 0   | 4 days |
 | Request to Delete | 2,298,607 | 2,298,607 | 0   | 15.5 days |
 
-[](#3-personal-data-we-collect-about-you)**3\. Personal data we collect about you**
+[**3\. Personal data we collect about you**](#3-personal-data-we-collect-about-you)
 -----------------------------------------------------------------------------------
 
 These tables set out the categories of personal data we collect from you. You can also watch our video about [Personal Data at Spotify](https://www.spotify.com/privacy).
@@ -166,7 +166,7 @@ We receive some of the data mentioned above from third parties. The below table 
 
 If you download the Spotify mobile app and try Spotify using a logged out user experience, we will collect limited information about your usage of the Spotify Service, including Usage Data. We do this to understand how you are accessing and using the Service. We also do this to ensure we provide the right experience for you, for example based on your country or region. If you decide to create a Spotify account to experience our service in full, then we will combine this data with your Spotify account data.
 
-[](#4-our-purpose-for-using-your-personal-data)**4\. Our purpose for using your personal data**
+[**4\. Our purpose for using your personal data**](#4-our-purpose-for-using-your-personal-data)
 -----------------------------------------------------------------------------------------------
 
 The table below sets out:
@@ -188,10 +188,10 @@ Here is a general explanation of each 'legal basis' to help you understand the t
 
 | **Purpose for processing your data** | **Legal basis that permits the purpose** | **Categories of personal data used for the purpose** |
 | --- | --- | --- |
-| To provide the Spotify Service in accordance with our contract with you. See [Section 1 ‘About this Policy’](#1-about-this-policy) for what we mean by the Spotify Service.<br><br>For example, when we use your personal data to:<br><br>* set up an account for you<br>* personalize your account, or<br>* provide the Spotify app when you download it onto your device | Performance of a Contract | * User Data<br>* Street Address Data<br>* Usage Data<br>* Voice Data<br>* Payment and Purchase Data |
+| To provide the Spotify Service in accordance with our contract with you.<br><br>For example, when we use your personal data to:<br><br>* set up an account for you<br>* personalize your account, or<br>* provide the Spotify app when you download it onto your device | Performance of a Contract | * User Data<br>* Street Address Data<br>* Usage Data<br>* Voice Data<br>* Payment and Purchase Data |
 | To provide further parts of the Spotify Service.<br><br>For example, when we use your personal data to enable you to share a link to Spotify content with someone else. | Legitimate Interest<br><br>Our legitimate interests here include:<br><br>* keeping the Spotify Service running and functional<br>* allowing users to access and use the Spotify Service | * User Data<br>* Street Address Data<br>* Usage Data<br>* Voice Data<br>* Payment and Purchase Data |
 | To provide certain additional voluntary features of the Spotify Service. When this is the case, we will clearly ask for your consent. | Consent | * User Data<br>* Usage Data<br>* Survey and Research Data<br>* Payment and Purchase Data |
-| To understand, diagnose, troubleshoot, and fix issues with the Spotify Service.<br><br>For example, we use your personal data to:<br><br>* respond to your messages when you contact customer services<br>* spot unusual data or behavior in our logs which might indicate a bug or other issue, or<br>* check and verify accounts to find and prevent unauthorized users | Performance of a Contract | * User Data<br>* Usage Data |
+| To diagnose, troubleshoot, and fix issues with the Spotify Service. | Performance of a Contract | * User Data<br>* Usage Data |
 | To evaluate and develop new features, technologies, and improvements to the Spotify Service.<br><br>For example:<br><br>* we use personal data to develop and improve our personalized recommendation algorithms<br>* we analyze how our users react to a particular new feature and see whether we should make any changes | Legitimate Interest<br><br>Our legitimate interests here include developing and improving products and features for our users. | * User Data<br>* Usage Data<br>* Voice Data<br>* Survey and Research Data |
 | For marketing or advertising where the law requires us to collect your consent.<br><br>For example, when we use cookies to understand your interests or the law requires consent for email marketing. | Consent | * User Data<br>* Usage Data<br>* Survey and Research Data |
 | For other marketing, promotion and advertising purposes where the law does not require consent.<br><br>For example, when we use your personal data to tailor advertising to your interests. | Legitimate Interest<br><br>Our legitimate interests here include using advertising to fund the Spotify Service, so that we can offer much of it for free. | * User Data<br>* Usage Data<br>* Survey and Research Data |
@@ -202,10 +202,10 @@ Here is a general explanation of each 'legal basis' to help you understand the t
 | To establish, exercise, or defend legal claims.<br><br>For example, if we are involved in litigation and we need to provide information to our lawyers in relation to that legal case. | Legitimate Interest<br><br>Our legitimate interests here include:<br><br>* seeking legal advice<br>* protecting ourselves, our users or others in legal proceedings | * User Data<br>* Street Address Data<br>* Usage Data<br>* Voice Data<br>* Payment and Purchase Data<br>* Survey and Research Data |
 | To conduct business planning, reporting, and forecasting.<br><br>For example, when we look at aggregated user data like the number of new sign ups in a country in order to plan new locations to launch our products and features in. | Legitimate Interest<br><br>Our legitimate interests here include researching and planning so that we can keep running our business successfully. | * User Data<br>* Usage Data<br>* Payment and Purchase Data |
 | To process your payment.<br><br>For example, when we use your personal data to let you purchase a Spotify subscription. | Performance of a Contract, and consent | * User Data<br>* Payment and Purchase Data<br>* Street Address Data |
-| To detect and prevent fraud.<br><br>For example, when we analyze Usage Data to check for fraudulent use of the Spotify Service. | Legitimate Interest<br><br>Our legitimate interests here include protecting the Spotify Service and our users against fraud and other illegal activity. | * User Data<br>* Street Address Data<br>* Usage Data<br>* Payment and Purchase Data |
+| To keep the Spotify Service secure and to detect and prevent fraud.<br><br>For example, when we analyze Usage Data to check for fraudulent use of the Spotify Service. | Legitimate Interest<br><br>Our legitimate interests here include protecting the Spotify Service and our users against fraud and other illegal activity. | * User Data<br>* Street Address Data<br>* Usage Data<br>* Payment and Purchase Data |
 | To conduct research and surveys.<br><br>For example, when we contact our users to ask for your feedback. | Legitimate Interest<br><br>Our legitimate interests here include to understand more about how users think about and use the Spotify Service. | * User Data<br>* Usage Data<br>* Voice Data<br>* Survey and Research Data |
 
-[](#5-sharing-your-personal-data)**5\. Sharing your personal data**
+[**5\. Sharing your personal data**](#5-sharing-your-personal-data)
 -------------------------------------------------------------------
 
 This section sets out who receives personal data which is collected or generated through your use of the Spotify Service.
@@ -260,7 +260,7 @@ See this table for details of who we share to and why.
 | Law enforcement and other authorities, or other parties to litigation | * User Data<br>* Usage Data | When we believe in good faith it’s necessary for us to do so, for example:<br><br>* to comply with a legal obligation<br>* to respond to a valid legal process (such as a search warrant, court order, or subpoena)<br>* for our own or a third party’s justifiable interest, relating to:<br>    * national security<br>    * law enforcement<br>    * litigation (a court case)<br>    * criminal investigation<br>    * protecting someone’s safety<br>    * preventing death or imminent bodily harm |
 | Purchasers of our business | * User Data<br>* Street Address Data<br>* Usage Data<br>* Voice Data<br>* Payment and Purchase Data<br>* Survey and Research Data | If we were to sell or negotiate to sell our business to a buyer or possible buyer.<br><br>In this case, we may transfer your personal data to a successor or affiliate as part of that transaction. |
 
-[](#6-data-retention)**6\. Data retention**
+[**6\. Data retention**](#6-data-retention)
 -------------------------------------------
 
 We keep your personal data only as long as necessary to provide you with the Spotify Service and for Spotify's legitimate and essential business purposes, such as:
@@ -302,7 +302,7 @@ This also helps us investigate potential breaches of our [User Guidelines](https
 
 * **Is Spotify subject to a legal or contractual obligation to keep or delete the data?** Examples include mandatory data retention laws, government orders to preserve data relevant to an investigation or data kept for the purposes of litigation. Conversely, we will remove unlawful content if the law requires us to do so.
 
-[](#7-transfer-to-other-countries)**7\. Transfer to other countries**
+[**7\. Transfer to other countries**](#7-transfer-to-other-countries)
 ---------------------------------------------------------------------
 
 Because of the global nature of our business, Spotify shares personal data internationally with Spotify group companies, subcontractors and partners when carrying out the activities described in this Policy. They may process your data in countries whose data protection laws are not considered to be as strong as EU laws or the laws which apply where you live. For example, they may not give you the same rights over your data.
@@ -322,7 +322,7 @@ We also identify and use additional protections as appropriate for each data tra
 * technical protections, such as encryption and pseudonymization
 * policies and processes to challenge disproportionate or unlawful government authority requests
 
-[](#8-keeping-your-personal-data-safe)**8\. Keeping your personal data safe**
+[**8\. Keeping your personal data safe**](#8-keeping-your-personal-data-safe)
 -----------------------------------------------------------------------------
 
 We're committed to protecting our users' personal data. We put in place appropriate technical and organizational measures to help protect the security of your personal data. However, be aware that no system is ever completely secure.
@@ -343,7 +343,7 @@ If other individuals have access to your Spotify account, then they can access p
 
 It's your responsibility to only allow individuals to use your account where you're comfortable sharing this personal data with them. Anyone else's use of your Spotify account may impact your personalized recommendations and be included in your data download.
 
-[](#9-children)**9\. Children**
+[**9\. Children**](#9-children)
 -------------------------------
 
 Note: This Policy doesn't apply to Spotify Kids unless the [Spotify Kids Privacy Policy](https://www.spotify.com/legal/kids-privacy-policy/) says so. Spotify Kids is a separate Spotify application.
@@ -362,14 +362,14 @@ If we learn that we've collected the personal data of a child under the applicab
 
 When using a shared device on the main Spotify Service, be cautious about playing or recommending any inappropriate content to individuals under 18 years old.
 
-[](#10-changes-to-this-policy)**10\. Changes to this Policy**
+[**10\. Changes to this Policy**](#10-changes-to-this-policy)
 -------------------------------------------------------------
 
 We may occasionally make changes to this Policy.
 
 When we make material changes to this Policy, we'll provide you with prominent notice as appropriate under the circumstances. For example, we may display a prominent notice within the Spotify Service or send you an email or device notification.
 
-[](#11-how-to-contact-us)**11\. How to contact us**
+[**11\. How to contact us**](#11-how-to-contact-us)
 ---------------------------------------------------
 
 For any questions or concerns about this Policy, contact our Data Protection Officer any one of these ways:
