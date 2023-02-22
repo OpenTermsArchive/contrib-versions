@@ -1,27 +1,13 @@
 Terms of Service
-
-* [Terms of Service](https://miro.com/legal/terms-of-service)
-* [Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement)
-* [Privacy Policy](https://miro.com/legal/privacy-policy)
-* [Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
-* [Developer Terms of Use](https://miro.com/legal/developer-terms-of-use)
-* [Cookies Policy](https://miro.com/legal/cookies-policy)
-* [Online Community Terms of Use](https://miro.com/legal/online-community-terms-of-use)
-* [Open Source Software - Site](https://miro.com/legal/open-source-software-site)
-* [Open Source Software - Client](https://miro.com/legal/open-source-software-client)
-* [Current Subprocessors List](https://miro.com/legal/subprocessors-list)
-* [Vendor Data Processing Addendum](https://miro.com/legal/vendor-data-processing-addendum)
-* [Code of Conduct](https://miro.com/legal/code-of-conduct)
-* [Customer Data Processing Addendum](https://miro.com/legal/customer-data-processing-addendum)
-* [Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
-* [Miro Marketplace Terms of Use](https://miro.com/legal/miro-marketplace-terms-of-use)
-
-Terms of Service
 ----------------
 
 Publication date July 19, 2021
 
 Effective date September 1, 2021
+
+These are the standard terms of service applicable to all Miro self-serve and reseller customers. If you have subscribed to an Enterprise Plan, please visit our [Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement/).
+
+These are the standard terms of service applicable to all Miro self-serve and reseller customers. If you have subscribed to an Enterprise Plan, please visit our [Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement/).
 
 These are the standard terms of service applicable to all Miro self-serve and reseller customers. If you have subscribed to an Enterprise Plan, please visit our [Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement/).
 
@@ -344,7 +330,3 @@ This Section applies to any access to the Service purchased by Customer through 
 “**Usage Data**” means Miro’s technical logs, data and learnings about Customer’s use of the Service, but excluding Customer Content.
 
 “**User**” means any individual that Customer or its Affiliate permits or invites to use the Service, as further described in the [Documentation](https://help.miro.com/hc/en-us?flash_digest=bfda2c343061082eb1856eccce466eabf0618fcf).
-
-##### Do you have any questions?
-
-[Contact Sales](https://miro.com/contact/sales/?lead_source=Legal)
