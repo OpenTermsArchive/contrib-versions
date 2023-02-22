@@ -1,22 +1,4 @@
 Privacy Policy
-
-* [Terms of Service](https://miro.com/legal/terms-of-service)
-* [Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement)
-* [Privacy Policy](https://miro.com/legal/privacy-policy)
-* [Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
-* [Developer Terms of Use](https://miro.com/legal/developer-terms-of-use)
-* [Cookies Policy](https://miro.com/legal/cookies-policy)
-* [Online Community Terms of Use](https://miro.com/legal/online-community-terms-of-use)
-* [Open Source Software - Site](https://miro.com/legal/open-source-software-site)
-* [Open Source Software - Client](https://miro.com/legal/open-source-software-client)
-* [Current Subprocessors List](https://miro.com/legal/subprocessors-list)
-* [Vendor Data Processing Addendum](https://miro.com/legal/vendor-data-processing-addendum)
-* [Code of Conduct](https://miro.com/legal/code-of-conduct)
-* [Customer Data Processing Addendum](https://miro.com/legal/customer-data-processing-addendum)
-* [Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
-* [Miro Marketplace Terms of Use](https://miro.com/legal/miro-marketplace-terms-of-use)
-
-Privacy Policy
 --------------
 
 **Last updated: September 20 2022**
@@ -256,9 +238,4 @@ If you are based in California, the following provisions apply:
         
     * Providing you a different level or quality of goods or services. 
         
-    * Suggesting that you may receive a different price or rate for goods or services or a different level or quality of goods or services. 
-        
-
-##### Do you have any questions?
-
-[Contact Sales](https://miro.com/contact/sales/?lead_source=Legal)
+    * Suggesting that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
