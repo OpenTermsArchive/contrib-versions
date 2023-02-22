@@ -346,7 +346,7 @@ The use of certain Wix Services may be subject to payment of particular fees, as
     
 2. Wix reserves the right to change its Fees at any time in its sole discretion. Wix will send a notice regarding the change to you or your Reseller if such a change will affect your existing subscriptions
     
-3. f you received a discount or other promotional offer, either from Wix or from a Reseller, Wix or the Reseller, respectively, shall have the right at the end of the applicable discounted period, to, automatically and without notice, renew your subscription to such Wix Service(s) at the full then-current applicable Fee.
+3. you received a discount or other promotional offer, either from Wix or from a Reseller, Wix or the Reseller, respectively, shall have the right at the end of the applicable discounted period, to, automatically and without notice, renew your subscription to such Wix Service(s) at the full then-current applicable Fee.
     
 4. All Fees paid directly to Wix shall be deemed to be in U.S. Dollars, except as specifically stated otherwise in writing by Wix. To the extent permitted by law (and unless specified otherwise by Wix in writing), all Fees are exclusive of all taxes (including value-added tax, sales tax, goods and services tax, etc.), levies or duties imposed by taxing authorities (“Taxes”), and you shall be responsible for payment of all applicable Taxes relating to your use of the Wix Services, or to any payments or purchases made by you. If Wix is obligated to collect or pay Taxes for the Fees payable by you, and whether or not such Taxes were added and collected from you for previous transactions, such Taxes may be added to the payment of any outstanding Fees and will be reflected in the Invoice for such transaction. We recommend that you verify the existence of any additional fees you may be charged by third parties in connection with the purchase of Paid Services or in connection with the renewal thereof (such as international transaction fees, currency exchange fees, or fees due to banks or credit card companies). Wix is not responsible for any such additional fees or costs.
     
@@ -398,6 +398,8 @@ Some services whether on purpose or mistake may not automatically renew. You sho
 
 ### 5.4. Money-Back Guarantee
 
+#### #ItsThatEasy
+
 If you are a Reseller User, and you pay the Reseller and not directly to Wix,  Section 5.4 does not apply to you.
 
 ​
@@ -406,8 +408,6 @@ If you are a Reseller User, and you pay the Reseller and not directly to Wix,  
     
 2. Please note: Certain services purchased on or through the Wix Services may be non-refundable altogether. These include Third Party Services such as domains, business tools and applications. The terms of each purchased service or application are indicated on the Wix Website and/or as part of or during the process of purchasing such services or applications. It is your responsibility to verify the ability to cancel a service prior to its purchase. Wix will not refund any amounts paid for non-refundable Paid Services, applications or Third Party Services.
     
-
-#### #ItsThatEasy
 
 We are happy to offer a 14-day money-back guarantee for our monthly or annual paid services when first purchased. This may be extended according to the law. If you are a Reseller User and pay the Reseller, this Section does not apply to you.  
   
