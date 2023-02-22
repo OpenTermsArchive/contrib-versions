@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: January 20, 2023
+#### Last Updated: February 21, 2023
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -382,13 +382,25 @@ The Amazon DynamoDB Reserved Capacity program allows you to purchase reserved th
 
 **20.4.** Professional services offered on AWS Marketplace by third parties are subject to separate terms and conditions specified by the respective third party. AWS has no control over and makes no guarantees about such services. 
 
-**20.5.** If you are a buyer on AWS Marketplace, you are responsible for collecting tax documentation, withholding as required, and filing all tax forms with your applicable tax authorities for your AWS Marketplace transactions. If you are a buyer making a payment of U.S. source services or royalty income to a non-U.S. third party provider, all such collection, withholding, and filing obligations are yours as we do not act as a Withholding Agent as defined by U.S. Treas. Reg. 1.1441-7(a).  
+**20.5.** If you are a buyer on AWS Marketplace, you are responsible for collecting tax documentation, withholding as required, and filing all tax forms with your applicable tax authorities for your AWS Marketplace transactions. If you are a buyer making a payment of U.S. source services or royalty income to a non-U.S. third party provider, all such collection, withholding, and filing obligations are yours as we do not act as a Withholding Agent as defined by U.S. Treas. Reg. 1.1441-7(a).
 
-**20.6.** If the applicable AWS Contracting Party is AWS India, parties agree that this Section 20.6 will be applicable:   
+**20.6.** For purposes of facilitating your purchases from third parties on AWS Marketplace, the applicable AWS Contracting Party under the Agreement is set out in the table below. Notwithstanding the foregoing, Amazon Web Services, Inc. continues to be the invoicing party for third party products that are resold by Amazon Web Services, Inc. on AWS Marketplace.  
 
-**20.6.1.** If you have provided your Goods and Services Tax (GST) registration number to us so that it can be applied to your purchases, then the information you provide with your registration (including your GST registration number and the name and address associated with your GST registration) will be shared with third parties from whom you have purchased software on the AWS Marketplace to the extent necessary for those third parties to comply with GST invoicing regulations and requirements.   
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Account Country** | **AWS Contracting Party** | **Facsimile** | **Mailing Address** |
+| Australia<br><br>(w.e.f. 1 October 2022) | Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891) | N/A | Level 37, 2-26 Park Street, Sydney, NSW, 2000, Australia |
+| Japan<br><br>(w.e.f. 1 October 2022) | Amazon Web Services Japan G.K. | N/A | 1-1, Kamiosaki 3-chome, Shinagawa-ku, Tokyo, 141-0021, Japan |
+| The countries within Europe, the Middle East, and Africa (except South Africa and Turkey) listed at1: [https://aws.amazon.com/legal/aws-emea-countries/](https://aws.amazon.com/legal/aws-emea-countries/)<br><br>(w.e.f. 1 January 2022) | Amazon Web Services EMEA SARL | 352 2789 0057 | 38 Avenue John F. Kennedy, L-1855, Luxembourg |
+| Any other country that is not listed in this table above, excluding China | Amazon Web Services, Inc. | 206-266-7010 | 410 Terry Avenue North,  <br>Seattle, WA 98109-5210  <br>U.S.A. |
 
-**20.6.2.** The purchase fees and charges payable by you will be exclusive of all applicable Taxes, and will be made free and clear of any deduction or withholding, as may be required by law. For clarity, if any such deduction or withholding (including but not limited to cross-border withholding taxes) is required on any payment, you will pay such additional amount, as necessary, to ensure that the net amount received by AWS or its affiliates is equal to the amount then due and payable by you for your purchases on the AWS Marketplace. AWS or its affiliates will provide you with such tax forms, as are reasonably requested, in order to reduce or eliminate the amount of any withholding or deduction for taxes, in respect of the payments made by you for purchases on the AWS Marketplace. AWS or its affiliates may charge, and you will pay, all applicable Taxes that it or we are legally obligated or authorized to collect from you. AWS or its affiliates will not collect, and you will not pay, any Taxes for which you furnish us a properly completed exemption certificate, or a direct payment permit certificate, for which AWS or its affiliates may claim an available exemption from such Taxes.  
+1 Excludes professional services, for which the applicable AWS Contracting Party is Amazon Web Services, Inc. Additionally, this applies only if your purchase on AWS Marketplace is from a third party that has been onboarded to Amazon Web Services EMEA SARL. Otherwise, Amazon Web Services, Inc. is the applicable AWS Contracting Party.
+
+**20.7.** If you are an AWS customer located in India, parties agree that this Section 20.7 will be applicable:   
+
+**20.7.1.** If you have provided your Goods and Services Tax (GST) registration number to us so that it can be applied to your purchases, then the information you provide with your registration (including your GST registration number and the name and address associated with your GST registration) will be shared with third parties from whom you have purchased software on the AWS Marketplace to the extent necessary for those third parties to comply with GST invoicing regulations and requirements.   
+
+**20.7.2.** The purchase fees and charges payable by you will be exclusive of all applicable Taxes, and will be made free and clear of any deduction or withholding, as may be required by law. For clarity, if any such deduction or withholding (including but not limited to cross-border withholding taxes) is required on any payment, you will pay such additional amount, as necessary, to ensure that the net amount received by AWS or its affiliates is equal to the amount then due and payable by you for your purchases on the AWS Marketplace. AWS or its affiliates will provide you with such tax forms, as are reasonably requested, in order to reduce or eliminate the amount of any withholding or deduction for taxes, in respect of the payments made by you for purchases on the AWS Marketplace. AWS or its affiliates may charge, and you will pay, all applicable Taxes that it or we are legally obligated or authorized to collect from you. AWS or its affiliates will not collect, and you will not pay, any Taxes for which you furnish us a properly completed exemption certificate, or a direct payment permit certificate, for which AWS or its affiliates may claim an available exemption from such Taxes.
 
 ### 21\. AWS Ground Station
 
@@ -554,7 +566,7 @@ Amazon OpenSearch Service creates daily automated snapshots of your Amazon OpenS
 
 #### 37\. AWS Database Migration Service
 
-**37.1.** The AWS Database Migration Service (DMS), including DMS Fleet Advisor and the AWS Schema Conversion Tool, is AWS Content under the [Intellectual Property License](https://aws.amazon.com/legal/aws-ip-license-terms/), and you and all End Users may install and/or use it solely for the purpose of migrating or moving data, provided that: (i) at least one of the source data store and target data store resides in AWS; and (ii) the source and target data stores are both listed in the DMS Documentation of supported [sources](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.html) and [targets](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.html).
+**37.1.** The AWS Database Migration Service (DMS), including DMS Fleet Advisor and the AWS Schema Conversion Tool, is AWS Content under the [Intellectual Property License](https://aws.amazon.com/legal/aws-ip-license-terms/), and you and all End Users may install and/or use it solely for the purpose of migrating or moving data, provided that: (i) at least one of the source data store and target data store resides in AWS; and (ii) the source and target data stores are both listed in the DMS documentation of supported [sources](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.html) and [targets](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.html).
 
 **37.2.** The AWS Database Migration Service (DMS), including DMS Fleet Advisor and the AWS Schema Conversion Tool, collects performance metrics and usage patterns, including: the types of database engines and related configurations used; number of rows processed; and information related to schema, queries, compatibility, performance, and task duration and status; which when combined with database license and feature information are used to provide, maintain, and improve the quality of the Services and recommendations on potential database engine and instance migrations. DMS Fleet Advisor collects information about resources on your network that you designate for discovery.  
 
@@ -919,19 +931,9 @@ If your messages sent through Amazon MQ are blocked, delayed, or prevented from 
 
 You agree not to and will not attempt to perform any network discovery or load testing of Your Content inside AWS AppSync unless expressly authorized by us in writing.  
 
-#### 62\. Amazon Sumerian
+#### 62\. AWS Telco Network Builder
 
-**62.1.** Amazon Sumerian consists of an integrated development environment and related assets and tools we make available here (collectively, “Sumerian Materials”).  
-
-**62.2.** In addition to the rights granted to AWS Content under the [Intellectual Property License](https://aws.amazon.com/legal/aws-ip-license-terms/), AWS, Inc. also grants you a limited, revocable, non-exclusive, non-sublicensable (except to End Users as provided below), non-transferrable license to do the following during the Term:  
-
-(a) Use, reproduce, modify, and create derivative works of the Sumerian Materials to develop and support 3D, augmented reality (“AR”) and virtual reality (“VR”) applications that run on AR- or VR- enabled (or compatible) platforms, mobile devices and web browsers (each such work, a “Sumerian Scene”);
-
-(b) Use, reproduce, modify, create derivative works of, publicly display, publicly perform, and distribute (including via third party distributors as long as such distribution is done through the applicable Sumerian Scenes’ published URL) to End Users the Sumerian Materials (including any permitted modifications and derivatives) as part of a Sumerian Scene; and
-
-(c) Sublicense the rights set forth in this Section 62.2 to your End Users solely for the purpose of enabling your End Users to use and modify your Sumerian Scene.
-
-**62.3.** Each Sumerian Scene must provide material content or functionality beyond that provided by the Sumerian Materials, and the Sumerian Materials must be integrated into each Sumerian Scene such that they are not separately usable by End Users.  
+**AWS Support.** You will remain enrolled in [Business Support](https://aws.amazon.com/premiumsupport/plans/business/) or better during the entire period of your use of AWS Telco Network Builder.  
 
 #### 63\. AWS RoboMaker
 
@@ -1230,3 +1232,11 @@ You may not use AWS Clean Rooms or any information obtained from your use of AWS
 **93.4.** Unless you delegate administrative permissions over your CodeCatalyst Space to another CodeCatalyst account owner, you agree that termination of your CodeCatalyst account or deletion of any of Your Content or Contributed Content in your Space, whether by you or by us, may also terminate your End Users’ access to Your Content and Contributed Content in your Space. In order to access billable services within or in connection with your CodeCatalyst account, you must link an AWS account. If you delete your CodeCatalyst account but have delegated administrative permissions to another CodeCatalyst account owner, your AWS account will continue to be billed for the billable services unless you also un-link your AWS account.
 
 **93.5.** When an End User you have invited to collaborate in your CodeCatalyst Space deletes their CodeCatalyst account, their Contributed Content will not be deleted from your Space. However, identifications of that End User, including those associated with issues, comments, and Contributed Content, may be deleted.
+
+### 94\. Integrated Private Wireless on AWS
+
+**94.1.** AWS may stop providing the Integrated Private Wireless on AWS portal (or remove any offerings on the [Integrated Private Wireless on AWS site](https://aws.amazon.com/telecom/integrated-private-wireless/) (or any successor site)), without prior notice to you.  
+
+**94.2.** The offerings on the [Integrated Private Wireless on AWS site](https://aws.amazon.com/telecom/integrated-private-wireless/) (or any successor site) are offered by third parties and subject to separate terms and conditions specified by the respective third party. AWS has no control and makes no guarantees about such offerings. 
+
+[Previous version(s)](https://aws.amazon.com/service-terms/historical/)[](https://aws.amazon.com/service-terms/historical/)
