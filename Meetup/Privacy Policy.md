@@ -1,4 +1,4 @@
-June 2, 2020
+June 2020
 
 Privacy Policy
 ==============
