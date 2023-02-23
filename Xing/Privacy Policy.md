@@ -417,7 +417,9 @@ In order to be able to identify you as a valuable business contact or potential 
 
 We use the tracking tool Adobe Digital Analytics. Whenever you are logged in as a user on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) your data is matched with your user ID during the tracking process. If you are not logged in as a user, tracking is pseudonymous, i.e. we are not able to directly deduce information regarding your identity from information we obtain from tracking. The [cookies](https://privacy.xing.com/en/privacy-policy/glossary/cookies) used for the web analysis contain an ID which allows us to identify your end device’s browser. We have closed a data processing agreement with the provider and your IP addresses are anonymised immediately after collection.
 
-You can opt out of tracking by Adobe Digital Analytics at any time, simply by clicking on the following link and opting to exclude yourself from visitor session aggregation and analysis: [https://nats.xing.com/optout.html?popup=1](https://nats.xing.com/optout.html?popup=1)  
+You can opt out of tracking by Adobe Digital Analytics at any time, simply by clicking on the following link and opting to exclude yourself from visitor session aggregation and analysis:  
+xing.com: [https://consent.xing.com/adobe/optout.en.html](https://consent.xing.com/adobe/optout.en.html)  
+onlyfy.io: [https://consent.onlyfy.io/adobe/optout.en.html](https://consent.onlyfy.io/adobe/optout.en.html)  
   
 Please note that this opt-out option installs a [cookie](https://privacy.xing.com/en/privacy-policy/glossary/cookies) on the end device you’re using when you click on the link. You therefore might not be excluded from tracking if you then delete the [cookie](https://privacy.xing.com/en/privacy-policy/glossary/cookies) in question. When using mobile apps, you need to opt out in the respective app settings.
 
