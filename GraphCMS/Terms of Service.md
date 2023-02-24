@@ -5,7 +5,7 @@ This page contains Hygraph terms of service and acceptable use policies.
 
 ### 1\. Your Agreement with Hygraph
 
-1.1 Your use of the Hygraph service is governed by this agreement (the "Terms"). "Hygraph" means GraphCMS GmbH and its subsidiaries or affiliates involved in providing the Hygraph Service. The "Hygraph Services" means the services Hygraph makes available through this website, including this website, the Hygraph cloud computing platform, the Hygraph API, the Hygraph Add-ons, and any other software or services offered by Hygraph in connection to any of those.
+1.1 Your use of the Hygraph service is governed by this agreement (the "Terms"). "Hygraph" means Hygraph GmbH and its subsidiaries or affiliates involved in providing the Hygraph Service. The "Hygraph Services" means the services Hygraph makes available through this website, including this website, the Hygraph cloud computing platform, the Hygraph API, the Hygraph Add-ons, and any other software or services offered by Hygraph in connection to any of those.
 
 1.2 In order to use the Hygraph Services, you must first agree to the Terms. You can agree to the Terms by actually using the Hygraph Services. You understand and agree that Hygraph will treat your use of the Hygraph Services as acceptance of the Terms from that point onwards.
 
