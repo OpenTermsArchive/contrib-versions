@@ -3,14 +3,14 @@ Privacy Policy
 
 This page contains Hygraph privacy policies.
 
-We, GraphCMS GmbH, Dircksenstraße 47, 10178 Berlin, Germany (hereinafter "we/our"), take the protection of your personal data very seriously and strictly adhere to all applicable laws and regulations on data protection, in particular the General Data Protection Regulation (GDPR), the German Data Protection Act (Bundesdatenschutzgesetz - BDSG) and the German Telemedia Act (Telemediengesetz - TMG). The following explanations will give you an overview of how we ensure this protection and which data we process for which purpose.
+We, Hygraph GmbH, Dircksenstraße 47, 10178 Berlin, Germany (hereinafter "we/our"), take the protection of your personal data very seriously and strictly adhere to all applicable laws and regulations on data protection, in particular the General Data Protection Regulation (GDPR), the German Data Protection Act (Bundesdatenschutzgesetz - BDSG) and the German Telemedia Act (Telemediengesetz - TMG). The following explanations will give you an overview of how we ensure this protection and which data we process for which purpose.
 
 1\. Name and address of the Controller
 --------------------------------------
 
 The Controller within the meaning of Art. 4 No. 7 of the GDPR is:
 
-GraphCMS GmbH Dircksenstraße 47, 10178 Berlin, Germany
+Hygraph GmbH Dircksenstraße 47, 10178 Berlin, Germany
 
 Phone: +49 641 580 988 14 Email: [\[email protected\]](https://graphcms.com/cdn-cgi/l/email-protection)
 
