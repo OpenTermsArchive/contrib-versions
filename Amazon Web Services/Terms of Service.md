@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: February 21, 2023
+#### Last Updated: February 24, 2023
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -1020,6 +1020,8 @@ Migration Evaluator collects performance and usage metrics and data about your 
 **71.1.** AWS Cloud WAN in Japan is sold and provided by AMCS LLC, an affiliate of AWS, and not AWS, but is otherwise subject to the terms of the Agreement.
 
 **71.2.** AWS Cloud WAN in Singapore is sold and provided by AMCS SG PRIVATE LIMITED, an affiliate of AWS, and not AWS, but is otherwise subject to the terms of the Agreement.
+
+**71.3.** Your use of AWS Cloud WAN in South Korea is subject to the applicable [Country Specific Communications Service Terms](https://aws.amazon.com/service-terms/country-specific-communications-service-terms/).  
 
 #### 72\. AWS CodeStar Notifications
 
