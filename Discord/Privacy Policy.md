@@ -76,14 +76,14 @@ How we use your information
 
 We use your information for the following purposes:
 
-‍To fulfill our contract with you
+‍**_To fulfill our contract with you_**
 
 * **To provide you with the services**. We use your information to provide you with the Discord services. For example, when you start a video call, we process your images and audio to make that work. We similarly collect and store the messages you send and display them as you direct. We also use the information you provide to us to create and manage your account and to facilitate purchases. When you enable optional features (like connecting your Discord account to other platforms), we use information from those services to power the feature (like displaying what song you are listening to on another service within the Discord app).
 * **To meet our commitments to the Discord community**. We work hard to try to make Discord a safe, positive, and inclusive place. To do so, we use your information to monitor for and take action against users and content that violate our Terms of Service, Community Guidelines, and other policies. This includes responding to user reports, generating transcriptions of content as part of our investigation, detecting fraud and malware, and proactively scanning attachments and other content for illegal or harmful content. We also use certain information, which may include content reported to us, content that violates the Terms, and certain other content widely available on the service (such as public posts, usernames, avatars, banners, user profiles, server names, server icons, and server banners), to create systems and models that can be automated to more swiftly detect, categorize, and take action against prohibited content or conduct.
 * **To contact you**. We use your information to contact you in connection with your account, such as to verify or secure it with two-factor authentication. We may also use your information to contact you about important product or policy changes and to send you information about products you have purchased.
 * **To provide customer service**. We use your information to respond to your questions about our products and services, and to investigate bugs or other issues.
 
-For our legitimate business interests
+**_For our legitimate business interests_**
 
 * **To protect our services**. We use information to keep our services secure, to prevent misuse, and to enforce our Terms of Service and other policies against users who violate them.
 * **To report on our company’s performance**. We use your information to track the fundamental metrics of our business, to perform financial reporting, to respond to regulatory obligations, and to debug billing issues.
@@ -92,15 +92,15 @@ For our legitimate business interests
 * **To advertise our services on Discord and other platforms**. We are proud of the product we've built. We may tell you about our paid services and other features directly in the services and through our own channels, and we spend money advertising Discord on other platforms. As part of that, we use certain information to assist in the delivery of our advertising, to measure the effectiveness of advertisements for our own products, and to improve such advertisements in the future.
 * **To contact you**. We may use your information to let you know about new products or features we think you’ll like. You may opt-out of receiving such marketing communications. Where local law requires, we will obtain your consent before sending such communications.
 
-To comply with our legal obligations
+**_To comply with our legal obligations_**
 
 We retain and use your information in connection with potential legal claims when necessary and for compliance, regulatory, and auditing purposes. For example, we retain information where we are required by law or if we are compelled to do so by a court order or regulatory body. Also, when you exercise any of your applicable legal rights to access, amend, or delete your personal information, we may request additional information from you for the purpose of confirming your identity.
 
-‍With your consent
+‍**_With your consent_**
 
 ‍We may also collect and use personal information with your consent, such as to send you marketing communications where legally required. You can revoke your consent at any time (mostly through our services directly), though note that you might not be able to use any service or feature that requires collection or use of that personal information.
 
-‍To protect someone’s vital interests
+‍**_To protect someone’s vital interests_**
 
 We may collect or share personal data if we think someone’s life is in danger—for example, to help resolve an urgent medical situation.
 
@@ -185,8 +185,6 @@ To control how information is collected and used from cookies on the services, y
 If you disable or remove cookies, some parts of the services may not function properly. Information may be collected to remember your opt-out preferences.
 
 Questions or concerns about your privacy? You can email us at [privacy@discord.com](mailto:privacy@discord.com).
-
-‍
 
 ‍
 
@@ -285,10 +283,6 @@ California’s “Shine the Light” law gives residents of California the right
 
   
 
-‍
-
-‍
-
 Changes to this Privacy Policy
 ------------------------------
 
@@ -299,7 +293,7 @@ We will update this Privacy Policy from time to time. We always indicate the dat
 Contact us
 ----------
 
-Email us at privacy@discord.com with any questions about this Privacy Policy or how we process your information. We’ll be happy to help.
+Email us at [privacy@discord.com](mailto:privacy@discord.com) with any questions about this Privacy Policy or how we process your information. We’ll be happy to help.
 
 To contact Discord’s Data Protection Officer, please email [dpo@discord.com](mailto:dpo@discord.com).
 
@@ -334,5 +328,3 @@ VeraSafe United Kingdom Ltd. 
 37 Albert Embankment 
 
 London SE1 7TL United Kingdom
-
-‍
