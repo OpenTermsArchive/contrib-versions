@@ -35,7 +35,7 @@ Discord’s services are provided by Discord Inc. We’re located at 444 De Haro
 Age requirements and responsibility of parents and legal guardians
 ------------------------------------------------------------------
 
-By accessing our services, you confirm that you’re at least 13 years old and meet the minimum age required by the laws in your country. We maintain a [list of minimum ages](https://support.discord.com/hc/en-us/articles/360040724612) around the world as a resource for you, but we aren’t able to guarantee that it is always accurate. If you are old enough to access our services in your country, but not old enough to have authority to consent to our terms, your parent or legal guardian must agree to our terms on your behalf. Please ask your parent or legal guardian to read these terms with you. If you’re a parent or legal guardian, and you allow your child (who meets the minimum age for your country) to use the services, then these terms also apply to you and you’re responsible for your child’s activity on the services, including purchases made by them. For more information on purchases, see <a href="discords-paid-services">"Discord’s Paid Services"</a> below.
+By accessing our services, you confirm that you’re at least 13 years old and meet the minimum age required by the laws in your country. We maintain a [list of minimum ages](https://support.discord.com/hc/en-us/articles/360040724612) around the world as a resource for you, but we aren’t able to guarantee that it is always accurate. If you are old enough to access our services in your country, but not old enough to have authority to consent to our terms, your parent or legal guardian must agree to our terms on your behalf. Please ask your parent or legal guardian to read these terms with you. If you’re a parent or legal guardian, and you allow your child (who meets the minimum age for your country) to use the services, then these terms also apply to you and you’re responsible for your child’s activity on the services, including purchases made by them. For more information on purchases, see "Discord’s Paid Services" below.
 
 ‍
 
@@ -118,8 +118,6 @@ Although we are granting you this license, we retain any intellectual property r
 
 **_Third-Party Services_**. Discord may allow you to access apps, bots, or other products, features, or services developed by third parties (“third-party services”). It’s your choice whether to use these third-party services and whether to participate in Discord servers that incorporate them. You should review any terms and policies provided by the third parties before doing so as they govern your use of their services. While these third parties do need to follow all policies that apply to them (which may include these Terms, our [Community Guidelines](https://discord.com/guidelines), [Developer Terms of Service](https://discord.com/developers/docs/legal), and [Developer Policy](https://discord.com/developers/docs/policy)), Discord is not responsible for any third-party services.
 
-‍
-
 Copyright
 ---------
 
@@ -148,11 +146,11 @@ We encourage you to [report content](https://support.discord.com/hc/en-us/articl
 Termination
 -----------
 
-**_Your right to terminate_**. You’re free to stop using Discord’s services at any time and for any reason. To terminate this agreement, you may delete your Discord account through the Settings page in the Discord app (the gear icon next to your username) and discontinue use of the services. Certain provisions of these terms will survive termination as outlined below in the “Survival” section.  
-  
+**_Your right to terminate_**. You’re free to stop using Discord’s services at any time and for any reason. To terminate this agreement, you may delete your Discord account through the Settings page in the Discord app (the gear icon next to your username) and discontinue use of the services. Certain provisions of these terms will survive termination as outlined below in the “Survival” section.
+
 Disabling your account limits the processing of your personal information as described in our [Privacy Policy](https://discord.com/terms/privacy-policy). Disabling your account does not terminate this agreement.
 
-**_Our right to terminate_**. Subject to applicable law, we reserve the right to suspend or terminate your account and/or your access to some or all of our services with or without notice, at our discretion for the following reasons:
+**_Our right to terminate._** Subject to applicable law, we reserve the right to suspend or terminate your account and/or your access to some or all of our services with or without notice, at our discretion for the following reasons:
 
 * You breach these terms, [our policies](https://support.discord.com/hc/articles/4420312247575), or additional terms that apply to specific products.
 * We’re required to do so to comply with a legal requirement or court order.
@@ -233,8 +231,6 @@ In all arbitrations, unless otherwise required by law or the AAA Rules, you’re
 
 **_Mass filings._** If, at any time, 30 or more similar demands for arbitration are asserted against Discord or related parties by the same or coordinated counsel or entities (“Mass Filing”), these additional rules will apply:
 
-‍
-
 If you or your counsel file a demand for arbitration that fits within the definition of Mass Filing, you agree that your demand for arbitration will be subject to the additional protocols set forth in this mass filing subsection.
 
 Bellwether proceedings are encouraged by courts and arbitration administrators when there are multiple disputes involving similar claims against the same or related parties. You and Discord agree to jointly ask the arbitrator to agree to the following procedures: The arbitrator will randomly assign sequential numbers to each of the claims included in a Mass Filing, after which the claims numbered 1-10 will be designated the “Initial Test Cases” and will proceed to arbitration. The Parties agree to decide on a single arbitrator for all Initial Test Cases and to consolidate the cases for pre-hearing procedures and the pre-hearing conference. Unless the claims are resolved in advance or the schedule is extended, the arbitrator will render final awards for the Initial Test Cases within 120 days of the initial pre-hearing conference. If fewer than 5 Initial Test Cases resolve without a final decision of the arbitrator because they are resolved in advance, cases will be selected in batches of 10 and will proceed to arbitration until at least 5 have been resolved by a final arbitrator decision. The arbitrator’s decisions for the Initial Test Cases shall be in writing and shall contain the essential findings and conclusions of fact and law upon which the arbitrator based the decision.  
@@ -249,15 +245,11 @@ If your demand for arbitration is included in the Mass Filing, any statute of li
 
 **_‍Opt-out._** You can decline this agreement to arbitrate by emailing an opt-out notice to arbitration-opt-out@discord.com within 30 days of March 27, 2023 or when you first register your Discord account, whichever is later, otherwise you shall be bound to arbitrate disputes in accordance with the terms of these paragraphs. If you opt out of these arbitration provisions, Discord also will not be bound by them.
 
-‍**_Exceptions._** You or Discord may still pursue claims, if they qualify, in small claims court in San Francisco County, California, or any U.S. county where you live or work. The small claims court, and not any arbitrator or AAA, shall have the exclusive authority to resolve disputes regarding whether a dispute is properly within the jurisdiction of a small claims court. Additionally, disputes concerning patents, copyrights, moral rights, trademarks, and trade secrets and claims of piracy or unauthorized use of our services will not be subject to arbitration. Either party may also seek a declaratory judgment or other equitable relief in a court of competent jurisdiction regarding whether a party’s claims are time-barred or may be brought in small claims court. Seeking such relief shall not waive a party’s right to arbitration under this agreement, and any filed arbitrations related to any action filed pursuant to this paragraph shall automatically be stayed (and any applicable statute of limitations tolled) pending the outcome of such action.
-
-  
+‍**_Exceptions._** You or Discord may still pursue claims, if they qualify, in small claims court in San Francisco County, California, or any U.S. county where you live or work. The small claims court, and not any arbitrator or AAA, shall have the exclusive authority to resolve disputes regarding whether a dispute is properly within the jurisdiction of a small claims court. Additionally, disputes concerning patents, copyrights, moral rights, trademarks, and trade secrets and claims of piracy or unauthorized use of our services will not be subject to arbitration. Either party may also seek a declaratory judgment or other equitable relief in a court of competent jurisdiction regarding whether a party’s claims are time-barred or may be brought in small claims court. Seeking such relief shall not waive a party’s right to arbitration under this agreement, and any filed arbitrations related to any action filed pursuant to this paragraph shall automatically be stayed (and any applicable statute of limitations tolled) pending the outcome of such action.  
 
 **_Class waiver._** IF YOU’RE A U.S. RESIDENT, EXCEPT AS PROVIDED HEREIN, YOU AND DISCORD AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN OUR INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING, UNLESS DISCORD PROVIDES ITS CONSENT TO CONSOLIDATE IN WRITING. If this specific paragraph is found unenforceable, then the “Agreement to arbitrate” section will be null and void. If there is a final judicial determination that applicable law precludes enforcement of this paragraph’s limitations as to a particular remedy, then that remedy (and only that remedy) must be severed from the arbitration and may be sought in court. The parties agree, however, that any adjudication of remedies not subject to arbitration shall be stayed pending the outcome of any arbitrable claims and remedies.  This subsection does not prevent you or Discord from participating in a class-wide settlement of claims.
 
 **_Changes to this Dispute Section:_** Discord will provide 30 days’ notice of the date of any material changes to this clause. Changes will become effective on the 30th day and apply to all claims not yet filed. If you continue to use the site after the 30th day, you agree that any unfiled claims of which Discord does not have actual notice are subject to the revised clause. If you reject any such changes by opting out of the arbitration agreement, you may exercise your right to a trial by jury or judge, as permitted by applicable law, but any prior existing agreement to arbitrate disputes under a prior version of the arbitration agreement will not apply to claims not yet filed. If Discord changes this “Dispute Resolution” section after the date you first accepted this agreement (or accepted any subsequent changes to this agreement), you agree that your continued use of the Discord product(s) or services 30 days after such change will be deemed acceptance of those changes. If you do not agree to such change, you may opt out by providing notice as described in this section.
-
-‍
 
 More important stuff
 --------------------
