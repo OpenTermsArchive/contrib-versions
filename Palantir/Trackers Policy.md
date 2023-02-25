@@ -1,56 +1,61 @@
-#### Strictly Necessary Cookies
+Cookies at Palantir.com
+=======================
 
-These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+_Last updated_ _February 2023_
 
-|     |     |     |     |
-| --- | --- | --- | --- |Strictly Necessary Cookies
-| Cookie Subgroup | Cookies | Cookies used | Lifespan |
-| --- | --- | --- | --- |
-| .palantir.com | [OptanonAlertBoxClosed](https://cookiepedia.co.uk/cookies/OptanonAlertBoxClosed) , [OptanonConsent](https://cookiepedia.co.uk/cookies/OptanonConsent) | First Party | 365 Days, 365 Days |
-| blog.palantir.com | [cf\_chl\_cc\_xxxxxxxxxxxxxxxxxxxxx](https://cookiepedia.co.uk/cookies/cf_chl_cc_xxxxxxxxxxxxxxxxxxxxx) , [dd\_cookie\_test\_](https://cookiepedia.co.uk/cookies/dd_cookie_test_) | First Party | A few seconds, A few seconds |
-| [www.google.com](https://cookiepedia.co.uk/host/www.google.com) | \_GRECAPTCHA, rc::a, rc::c | Third Party | 179 Days, A few seconds, A few seconds |
-| [myfonts.net](https://cookiepedia.co.uk/host/myfonts.net) | \_\_cf\_bm | Third Party | A few seconds |
-| [palantir2020ipo.q4web.com](https://cookiepedia.co.uk/host/palantir2020ipo.q4web.com) | \_\_cf\_bm | Third Party | A few seconds |
-| [resources.palantir.com](https://cookiepedia.co.uk/host/resources.palantir.com) | \_session\_id | Third Party | 730 Days |
-| [prnewswire.com](https://cookiepedia.co.uk/host/prnewswire.com) | \_\_cf\_bm | Third Party | A few seconds |
-| [120-gkj-051.mktoweb.com](https://cookiepedia.co.uk/host/120-gkj-051.mktoweb.com) | \_\_cf\_bm | Third Party | A few seconds |
-| [vimeo.com](https://cookiepedia.co.uk/host/vimeo.com) | \_\_cf\_bm | Third Party | A few seconds |
+This Cookie Statement (“**Statement**”) explains how Palantir Technologies Inc. and our subsidiaries (collectively “**Palantir**”, “**we**“, “**us**“, and “**our**“) use cookies to recognize you when you visit our website at www.palantir.com (“**Site(s)**“). It explains what cookies are and why we use them, as well as your rights to control our use of them.
 
-#### Functional Cookies
+What are Cookies?
+-----------------
 
-These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+Cookies are small data files that are placed on your computer or mobile device when you visit a website. Cookies are widely used by website owners in order to make their websites work, or to work more efficiently, as well as to provide reporting information.
 
-|     |     |     |     |
-| --- | --- | --- | --- |Functional Cookies
-| Cookie Subgroup | Cookies | Cookies used | Lifespan |
-| --- | --- | --- | --- |
-| learn.palantir.com | [sj\_ubid](https://cookiepedia.co.uk/cookies/sj_ubid) | First Party | 7299 Days |
-| [vimeo.com](https://cookiepedia.co.uk/host/vimeo.com) | player, vuid | Third Party | 364 Days, 729 Days |
+Cookies set by the website owner (in this case, Palantir) are called “first party cookies”. Cookies set by parties other than the website owner are called “third party cookies”. Third-party cookies enable third party features or functionality to be provided on or through the website (e.g. interactive content and analytics). The parties that set these third-party cookies may recognize your computer both when it visits the website in question and also when it visits certain other websites.
 
-#### Performance Cookies
+Why Do We Use Cookies?
+----------------------
 
-These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+We and our third-party partners use first-party and third-party cookies for different reasons, including to see which areas and features are popular and to count visits to our Site. Some cookies are required for technical reasons in order for our Sites to operate, and we refer to these as “Strictly Necessary” cookies. Other cookies enable us to track and target the interests and engagement of our users to enhance the experience on our Site. Third parties serve cookies through our Sites for analytics, improving user experience, targeting our sales and marketing outreach, and other purposes.
 
-|     |     |     |     |
-| --- | --- | --- | --- |Performance Cookies
-| Cookie Subgroup | Cookies | Cookies used | Lifespan |
-| --- | --- | --- | --- |
-| [120-gkj-051.mktoweb.com](https://cookiepedia.co.uk/host/120-gkj-051.mktoweb.com) | BIGipServersj39web-nginx-app\_https | Third Party | Session |
-| [nr-data.net](https://cookiepedia.co.uk/host/nr-data.net) | JSESSIONID | Third Party | Session |
+The specific types of first and third-party cookies served through our Sites, the purposes they perform, and their duration can be found on our [cookie list](https://www.palantir.com/cookie-list).
 
-#### Targeting Cookies
+Your Choices Regarding Cookies
+------------------------------
 
-These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+You can set the cookies we use in two ways. First, you can choose to deactivate the cookies at any time by using the Cookie Settings tool, except for the Strictly Necessary cookies needed for the operation of the Site as indicated above. You can access the Cookie Settings at any time at the footer in the bottom left hand of any page.
 
-|     |     |     |     |
-| --- | --- | --- | --- |Targeting Cookies
-| Cookie Subgroup | Cookies | Cookies used | Lifespan |
-| --- | --- | --- | --- |
-| www.google.com | [IDE](https://cookiepedia.co.uk/cookies/IDE) , [test\_cookie](https://cookiepedia.co.uk/cookies/test_cookie) | First Party | 1 Year, 1 Day |
-| blog.palantir.com | [cf\_chl\_2](https://cookiepedia.co.uk/cookies/cf_chl_2) , [cf\_chl\_prog](https://cookiepedia.co.uk/cookies/cf_chl_prog) | First Party | A few seconds, A few seconds |
-| .linkedin.com | [AnalyticsSyncHistory](https://cookiepedia.co.uk/cookies/AnalyticsSyncHistory) , [bcookie](https://cookiepedia.co.uk/cookies/bcookie) , [bscookie](https://cookiepedia.co.uk/cookies/bscookie) , [lang \[x2\]](https://cookiepedia.co.uk/cookies/lang%20[x2]) , [li\_gc](https://cookiepedia.co.uk/cookies/li_gc) , [li\_sugr](https://cookiepedia.co.uk/cookies/li_sugr) , [lidc](https://cookiepedia.co.uk/cookies/lidc) , [UserMatchHistory](https://cookiepedia.co.uk/cookies/UserMatchHistory) | First Party | 29 Days, 1 Year, 1 Year, Session, 179 Days, 3 Months, 1 Day, 29 Days |
-| palantir.com | [\_ga](https://cookiepedia.co.uk/cookies/_ga) , [\_gid](https://cookiepedia.co.uk/cookies/_gid) , [vid](https://cookiepedia.co.uk/cookies/vid) | First Party | 729 Days, A few seconds, A few seconds |
-| .palantir.com | [\_an\_uid](https://cookiepedia.co.uk/cookies/_an_uid) , [\_gat](https://cookiepedia.co.uk/cookies/_gat) , [\_gcl\_au](https://cookiepedia.co.uk/cookies/_gcl_au) , [\_gd\_svisitor](https://cookiepedia.co.uk/cookies/_gd_svisitor) , [\_hp2\_#](https://cookiepedia.co.uk/cookies/_hp2_#) , [\_hp2\_id.#](https://cookiepedia.co.uk/cookies/_hp2_id.#) , [\_hp2\_ses\_props.#](https://cookiepedia.co.uk/cookies/_hp2_ses_props.#) | First Party | 6 Days, A few seconds, 3 Months, 399 Days, 1 Day, 1 Year, 1 Day |
-| [youtube.com](https://cookiepedia.co.uk/host/youtube.com) | CONSENT, DEVICE\_INFO, VISITOR\_INFO1\_LIVE, YSC | Third Party | 729 Days, 179 Days, 179 Days, Session |
-| [mathtag.com](https://cookiepedia.co.uk/host/mathtag.com) | uuid | Third Party | 392 Days |
-| [.palantir.com](https://cookiepedia.co.uk/host/.palantir.com) | \_mkto\_trk | Third Party | 399 Days |
+Second, most web browsers give you the ability to manage cookies (i.e. accept or reject) in your terminal. Please see the links below for more information:
+
+* [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB)
+    
+* [Internet Explorer](https://support.microsoft.com/en-us/kb/260971)
+    
+* [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
+    
+* [Safari (Desktop)](https://support.apple.com/en-us/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
+    
+* [Safari (Mobile)](https://support.apple.com/en-us/HT201265)
+    
+* [Android Browser](http://support.google.com/ics/nexus/bin/answer.py?hl=en&answer=2425067)
+    
+* [Opera](http://www.opera.com/help)
+    
+* [Opera Mobile](http://www.opera.com/help/mobile/android#privacy)
+    
+
+Please note that removing the cookies from your computer and other devices may affect your subsequent visits to our Sites, by requiring that, for example, you restate your cookie preferences when you return to our Site.
+
+Do You Serve Targeted Advertising?
+----------------------------------
+
+We may implement cookies with the purpose of targeted advertising in order to better connect with our customers and potential customers.
+
+How Often Will You Update This Statement?
+-----------------------------------------
+
+We may update this Statement from time to time in order to reflect, for example, changes to the cookies we use or for other operational, legal or regulatory reasons. Please therefore re-visit this Statement regularly to stay informed about our use of cookies and related technologies. The date at the top of this Statement indicates when it was last updated.
+
+Where Can I Get Further Information?
+------------------------------------
+
+If you have any questions about our use of cookies or other technologies, please review our Personal Data and Security Policy at this address: [https://www.palantir.com/privacy-and-security/](https://www.palantir.com/privacy-and-security/) or email us at [privacy@palantir.com](mailto:privacy@palantir.com).
