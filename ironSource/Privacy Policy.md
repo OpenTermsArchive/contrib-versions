@@ -47,7 +47,7 @@ What are the Purposes of the Collection of Information?
 
 1. We use the information we collect for the following purposes:
 
-![](/wp-content/uploads/2022/12/privacy-policy-1-1.png) ![](/wp-content/uploads/2022/12/privacy-policy-2-1.png)
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 Sharing Information with Third Parties
 
