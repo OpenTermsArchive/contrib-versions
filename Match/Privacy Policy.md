@@ -48,7 +48,9 @@ The company responsible for your information under this Privacy Policy is:
 
 Match.com International Limited  
 MATCH  
-C/O Skadden 40 Bank Street, Canary Wharf, London, E14 5DS  
+c/o Skadden, Arps, Slate, Meagher & Flom (UK) LLP  
+22 Bishopsgate  
+London, EC2N 4BQ  
 United Kingdom
 
 Our Representative in the European Union is:
@@ -296,10 +298,9 @@ Data Protection Officer
 
 Match.com International Limited  
 MATCH  
-WeWork Aviation House  
-2nd floor  
-125 Kingway  
-London WC2b 6NH  
+c/o Skadden, Arps, Slate, Meagher & Flom (UK) LLP  
+22 Bishopsgate  
+London, EC2N 4BQ  
 United Kingdom
 
 **Or, if you live in the European Union:**
