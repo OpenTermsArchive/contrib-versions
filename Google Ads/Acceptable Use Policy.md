@@ -16,12 +16,12 @@ Welcome to the Google Advertising Policies Center
 | --- | --- | --- |
 | [![This is the first button for the Google Ads policy options, select this to manage your account using the Policy manager.](//storage.googleapis.com/support-kms-prod/k1MH7t2ydWQaQ0AqYe2v3Og4i4xjvbIBaBtE)](https://ads.google.com/aw/policymanager/issues) | [![This is the second button for the Google Ads policy options, select to learn how to appeal a suspended account.](//storage.googleapis.com/support-kms-prod/K2X2pe8IVRbfC2d6COKed6eeMpwfRPecCnJ0)](https://ads.google.com/nav/login?dst=/aw/overview?supportResource%3Dsuspension_help) | [![This is the third button for the Google Ads policy options, select to report an ad violation.](//storage.googleapis.com/support-kms-prod/beGVAEgSbnM1YzJAsX0lZ0Z8okdo2CTZGukk)](https://support.google.com/ads/troubleshooter/4578507) |
 
-Overview of our policies
-------------------------
+Overview of our policies and how we enforce them
+------------------------------------------------
 
-We want to support a healthy digital advertising ecosystem—one that is trustworthy and transparent, and works for users, advertisers, and publishers. The purpose of this help center is to help you build Google Ads campaigns that align with our advertising policies listed below. These policies are designed not only to abide by laws but to ensure a safe and positive experience for our users. This means that our policies prohibit some content that we believe to be harmful to users and the overall advertising ecosystem.
+We strive to support a healthy digital advertising ecosystem—one that's trustworthy and transparent, and works for users, advertisers, and publishers. The purpose of this help center is to help you build Google Ads campaigns that align with our advertising policies listed below.
 
-We use a combination of automated and human evaluation to ensure Google Ads comply with these policies.
+These policies are designed to ensure a safe and positive experience for our users and abide by applicable laws. This means that our policies prohibit content that is harmful to users and the overall advertising ecosystem.
 
 Our advertising policies cover 4 broad areas:
 
@@ -33,10 +33,13 @@ Our advertising policies cover 4 broad areas:
 > | ![Google Ads policies \| Editorial and technical](//storage.googleapis.com/support-kms-prod/hza1ZDCgK38me1XBTkYHl7o1eUaDUDjNGfVT) | **[Editorial and technical](#ed):** Quality standards for your ads, websites, and apps |
 > 
 > Click through the policies below for policy definitions, examples, and troubleshooting steps.
-> 
-> Prohibited content
-> ------------------
-> 
+
+We use a combination of automated and human evaluation to ensure that ads comply with these policies. Our enforcement technologies use algorithms and machine learning, modeled on human reviewers’ decisions, to help protect our users and keep our ad platforms safe. More complex, nuanced or severe cases are often reviewed and evaluated by our specially-trained experts.
+
+We take action on content that violates our policies. This may include disapproving violating ads so they don’t serve, as well as suspending accounts for repeat or egregious violations. We take repeat violations of our policies seriously and continue to expand a strike system for repeat offenders.
+
+We will provide you with information on our decision for any policy violation enforcement actions we take. If one of your ads is disapproved, you can [fix that ad or appeal the decision](https://ads.google.com/aw/policymanager/issues). You can also [appeal an account suspension decision](https://ads.google.com/nav/login?dst=/aw/overview?supportResource%3Dsuspension_help). For these links to work, you’ll need to be signed into your Google Ads account.
+
 > ### [Counterfeit goods](https://support.google.com/adspolicy/answer/176017)
 > 
 > > Google Ads prohibits the sale or promotion for sale of counterfeit goods. Counterfeit goods contain a trademark or logo that is identical to or substantially indistinguishable from the trademark of another. They mimic the brand features of the product in an attempt to pass themselves off as a genuine product of the brand owner. This policy applies to the content of your ad and your website or app. 
@@ -237,7 +240,7 @@ Our advertising policies cover 4 broad areas:
 > 
 > Google requires that advertisers comply with all [applicable laws and regulations](https://support.google.com/adspolicy/answer/6023676) and the Google policies described above. It's important that you familiarize yourself with and keep up to date on these requirements for the places where your business operates, as well as any other places your ads are showing. When we find content that violates these requirements, we may block it from appearing, and in cases of repeated or egregious violations, we may stop you from advertising with us.
 > 
-> __Advertisers have a responsibility not to promote content or engage in behavior that risks harm to our users, employees, or the Ads ecosystem. If we see such content or behavior, we may take action, including but not limited to restricting or blocking your ads or suspending your account.__
+> Advertisers have a responsibility not to promote content or engage in behavior that risks harm to our users, employees, or the Ads ecosystem. If we see such content or behavior, we may take action, including but not limited to restricting or blocking your ads or suspending your account.
 > 
 > Need help?
 > ----------
