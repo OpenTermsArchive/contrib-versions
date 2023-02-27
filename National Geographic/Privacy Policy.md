@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last Modified: 12/29/2022
+Last Modified: 02/27/2023
 
 **SCOPE OF THIS POLICY**
 
@@ -78,7 +78,8 @@ We provide you the ability to exercise certain controls and choices regarding ou
 * Controlling targeted advertising from many ad networks and partners; data exchanges; and marketing analytics and digital advertising and marketing service providers (by visiting the [Digital Advertising Alliance](http://www.aboutads.info/choices));
 * Choosing to control targeted advertising you receive within applications by using the settings and choices made available to you through your device(s), for example, by re-setting your device’s advertising identifier and/or opting out of interest based ads;
 * Choosing to limit participation in [Nielsen digital measurement research](https://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html) (for non-Panelists);
-* Choosing to limit participation in Nielsen Digital Ad Ratings when viewing Hulu on certain living room devices by logging into Hulu on your computer and clicking “Manage Nielsen Measurement” on your [Hulu Account page](https://secure.hulu.com/account);
+* Choosing to limit participation in Nielsen Digital Ad Ratings when viewing Hulu on certain living room devices and mobile applications by logging into Hulu on your computer and clicking “Manage Nielsen Measurement” on your [Hulu Account page](https://secure.hulu.com/account);
+* Choosing to limit participation in Nielsen Digital Ad Ratings (in markets where available) when viewing Disney+ on certain living room devices and mobile applications by logging into Disney+ on your computer and clicking “Manage Nielsen Measurement” on your [Disney+ Account page](https://www.disneyplus.com/account).
 * Managing your Hulu preferences regarding the sharing of your viewing information together with certain personal information by logging into Hulu on your computer, going to your account settings, and editing your profile;
 * Requesting removal of your personal information from a public forum on one of our sites or [application](#)<p>Application means a program or service operated by us (or on our behalf) that may be displayed on various online, mobile, or other platforms and environments, including those operated by third parties, which permits us to interact directly with our guests.</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Application'>Learn More</a>; and
 * Requesting access to the personal information we hold about you and that we amend or delete it.
