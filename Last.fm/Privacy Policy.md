@@ -348,7 +348,7 @@ To opt out of certain tracking by our analytics providers, you may visit the lin
 * [Adobe Omniture](http://www.adobe.com/privacy/opt-out.html)
 * [Nielsen](https://optout.networkadvertising.org/?c=1)
 
-Some of our services may feature Nielsen proprietary measurement software that will allow you to contribute to market research, such as Nielsen’s TV Ratings. For more information about Nielsen’s digital measurement products, please review Nielsen’s privacy statement [here](http://www.nielsen.com/digitalprivacy).
+Some of our services may feature Nielsen proprietary measurement software that will allow you to contribute to market research, such as Nielsen’s TV Ratings. For more information about Nielsen’s digital measurement products, please review Nielsen’s privacy statement [here](https://www.nielsen.com/digitalprivacy).
 
 ### Interest-based advertising
 
