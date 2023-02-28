@@ -44,7 +44,7 @@ Specific details about personal data collection can be found in the relevant pri
 * [Events privacy notice ›](https://ubuntu.com/legal/data-privacy/events)
 * [Online competitions privacy notice ›](https://ubuntu.com/legal/data-privacy/online-competitions)
 * [Confidentiality agreement privacy notice ›](https://ubuntu.com/legal/data-privacy/unilateral-nda)
-* [CUBE Beta privacy notice ›](https://ubuntu.com/legal/data-privacy/cube-beta)
+* [Canonical Credentials privacy notice ›](https://ubuntu.com/legal/data-privacy/credentials)
 * [Recruitment privacy notice ›](https://ubuntu.com/legal/data-privacy/recruitment)
 
 Information we collect from you
