@@ -1,7 +1,7 @@
 WECHAT – ACCEPTABLE USE POLICY
 ==============================
 
-Last updated – 2022-01-28
+**Last updated:** 2023-03-01
 
 Welcome to WeChat!
 
@@ -49,6 +49,14 @@ We engage with our users and third-party experts from time to time, to ensure th
 1.4 **How we may detect harmful content**
 
 We develop and deploy automated processes to detect and prevent harmful content that breaches this Policy (including content that breaches any applicable laws or regulations) from entering, utilizing or remaining on WeChat, subject to our obligations under applicable laws (including international laws applicable to our affiliates’ services). We may refuse or remove any harmful content available on or transmitted through WeChat in breach of this Policy. You may contact us at [policy@wechat.com](mailto:policy@wechat.com) if you have any questions on the actions taken in accordance with this Section 1.4.
+
+1.5 **Interoperability with Weixin**
+
+WeChat is interoperable with Weixin, such that you are able to communicate with Weixin users and use certain features operated by Weixin. When you use features operated by Weixin, you are subject to the relevant [_Weixin Terms of Service_](https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&t=weixin_agreement&s=default&cc=CN) or service agreement applicable to such feature. A violation of such terms may result in a restriction on the interoperability of WeChat with Weixin at our discretion, including restrictions on your use of features operated by Weixin.
+
+Please note that the Weixin users you interact with are subject to the [_Weixin Terms of Service_](https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&t=weixin_agreement&s=default&cc=CN), [_Standards of Weixin Account Usage_](https://weixin.qq.com/cgi-bin/readtemplate?&t=page/agreement/personal_account&lang=en_US) and any applicable laws and regulations. This means that if your interaction with Weixin users potentially causes such Weixin users to violate the [_Weixin Terms of Service_](https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&t=weixin_agreement&s=default&cc=CN), [_Standards of Weixin Account Usage_](https://weixin.qq.com/cgi-bin/readtemplate?&t=page/agreement/personal_account&lang=en_US) and any applicable laws and regulations, Weixin may at its discretion restrict or limit the interoperability of Weixin with WeChat, including restricting or limiting Weixin users from interacting with WeChat users.
+
+Finally, where you have (or we reasonably believe you have) breached this Policy, we may, at our discretion, also take action in accordance with this Policy.
 
 2\. VIOLENCE AND CRIME
 ----------------------
@@ -133,6 +141,7 @@ To that end, we prohibit the following content:
 * b. Any manipulation or disruption of WeChat – including manipulating or disrupting other users' use of WeChat.
 * c. Coordinating, spreading, distributing or participating in inauthentic behaviour, including in relation to false news, disinformation or misinformation and in relation to a topic or individual).
 * d. Using WeChat on behalf of governmental entities, without full disclosure.
+* e. Synthetic or manipulated content that may deceive, confuse or harm others (including deepfakes).
 
 Various jurisdictions have implemented laws in this area. We will comply with such laws where required to do so (including governmental requests and court orders made in accordance with such laws). For further information regarding how we deal with governmental requests, please see our [Law Enforcement Data Request Guidelines](https://www.wechat.com/en/law_enforcement_data_request.html) and [Governmental Request Policy](https://www.wechat.com/en/government_request_policy.html).
 
