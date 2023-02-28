@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: February 24, 2023
+#### Last Updated: February 27, 2023
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -193,7 +193,8 @@ If during the previous 6 months you have incurred no fees for Amazon SimpleDB an
 
 **8.1.** Amazon CloudWatch collects and stores certain information for the Services you are monitoring, including CPU utilization, data transfer, and disk usage and activity (collectively, “CloudWatch Metric Data”). CloudWatch Metric Data may be used by AWS to maintain and provide the Services (including development and improvement of the Services).  
 
-**8.2. Amazon CloudWatch Internet Monitor (Preview)**
+**8.2. Amazon CloudWatch Internet Monitor  
+**
 
 **8.2.1.** You may not, and may not allow any third party to, use Amazon CloudWatch Internet Monitor, or any data or information made available through Amazon CloudWatch Internet Monitor, to, directly or indirectly, develop, improve, or offer a similar or competing product or service. You may not resell or redistribute Amazon CloudWatch Internet Monitor or any metrics provided by Amazon CloudWatch Internet Monitor unless you have been authorized as an AWS reseller, you add material value as part of the resale or redistribution, you restrict recipients from further reselling or redistributing to any additional entities, and for each monitor, you do not resell or redistribute metrics provided by the monitor to more than one entity.
 
