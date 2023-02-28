@@ -6,7 +6,7 @@ Twitter's purpose is to serve the public conversation. Violence, harassment and 
 
 ### Safety
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-threats-glorification.html).
+Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-entities.html).
 
