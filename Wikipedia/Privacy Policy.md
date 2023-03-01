@@ -8,7 +8,7 @@ It may not be circumvented, eroded, or ignored by local policies.
 
 Privacy Policy
 
-[![Wikimedia-logo.svg](//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/75px-Wikimedia-logo.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo.svg)
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/75px-Wikimedia-logo.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo.svg)
 
 This is a summary of the Privacy Policy. To read the full terms, scroll down or [click here](#introduction).
 
