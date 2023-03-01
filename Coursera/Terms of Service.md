@@ -319,8 +319,8 @@ To avoid being charged during a free trial period, you must cancel your subscrip
 
 Your subscription will continue on a month-to-month basis unless and until you [cancel](https://www.google.com/url?q=https://learner.coursera.help/hc/articles/216348123&sa=D&source=docs&ust=1670977696504773&usg=AOvVaw0Iw82fmmwJzsWWchpQ2cDt) or the subscription is suspended or discontinued by Coursera. If you cancel your subscription, cancellation will be effective at the end of the current monthly period. You will continue to have access to your subscription for the remainder of that period, but you will not receive a refund. For subscriptions to individual specializations, Coursera will automatically discontinue your subscription at the end of the monthly period during which you earn a certificate for the specialization.
 
-3\. Coursera Plus
------------------
+3\. Coursera Lite and Coursera Plus
+-----------------------------------
 
 #### General Refunds
 
@@ -329,6 +329,10 @@ To get a full refund of your Coursera Plus subscription payment, submit a refund
 #### Refunds for Trials
 
 Some Coursera Plus subscriptions may have a free trial period instead of a refund period. If you do not cancel during the free trial, you will be billed the full amount for the subscription you signed up for and be unable to request a refund.
+
+#### Refunds for Upgrades
+
+If you upgrade from Coursera Lite to Coursera Plus, you have 14 days from the date of the upgrade to either not be charged on the next billing date or receive a refund.
 
 #### Cancellation
 
