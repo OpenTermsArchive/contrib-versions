@@ -652,7 +652,10 @@ View the November Leinster v Connacht tickets competition terms and conditions [
   
 **View the November Energia AIL Women's Final tickets competition terms and conditions [here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/Comp-3-Nov-2022-Two-tickets-to-the-Energia-AIL-Women-s-Final-and-a-Voucher-for-Dinner-at-Layla-s-Rooftop-Restaurant.pdf.aspx;?lang=en-IE)  
   
-View the February 2023 NL Competitions terms and conditions [_here_](https://www.energia.ie/getmedia/94302682-e37c-4de6-b601-d95051625d68/February-NL-Two-tickets-to-Ireland-vs-England-2023-Guinness-Six-Nations-Competition.pdf.aspx;).**   
+View the February 2023 NL Competitions terms and conditions [_here_](https://www.energia.ie/getmedia/94302682-e37c-4de6-b601-d95051625d68/February-NL-Two-tickets-to-Ireland-vs-England-2023-Guinness-Six-Nations-Competition.pdf.aspx;).   
+  
+View the March 2023 Six Nation Tickets Competition terms and conditions [_here_](https://www.energia.ie/getmedia/37a7d482-3d2a-4aac-b471-e184c01a6865/Two-tickets-to-Ireland-vs-England-2023-Guinness-Six-Nations-Social-Competition-(1).pdf.aspx;).**   
+  
   
   
   
