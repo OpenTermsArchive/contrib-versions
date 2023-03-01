@@ -31,7 +31,7 @@ Private Information: You may not publish or post other people's private informat
 
 Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
 
-Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any Twitter account other than your own (or those you have been directly authorized to do so via Twitter’s Teams authorization, OAuth authorization or similar mechanism). [Learn more](https://help.twitter.com/en/rules-and-policies/account-compromise.html).  
+Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any Twitter account other than your own (or those you have been directly authorized to do so via Twitter’s Teams authorization, OAuth authorization or similar mechanism).   
   
 
 ### Authenticity
