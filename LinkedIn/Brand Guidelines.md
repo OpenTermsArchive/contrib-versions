@@ -84,9 +84,18 @@ You may also not use a screenshot of LinkedIn’s personal profile pages or grou
 ### Books or printed materials
 
   
-LinkedIn does not allow the use of its logos or the name “LinkedIn” in the title or otherwise on the cover of books or other publications without prior written permission of LinkedIn. If you are interested in using the LinkedIn name or logos in a publication, please contact [TrademarkRequest@linkedin.com](mailto:TrademarkRequest@linkedin.com)  
+LinkedIn does not allow the use of its trademarks in books or other printed materials without permission.  
+If you would like to display the LinkedIn trademark in a book title, book cover, and or other printed materials please email [trademarkrequest@linkedin.com](mailto:trademarkrequest@linkedin.com)  
   
-For use of screenshots in a book or other printed materials, see “Screenshots” above.
+Book covers and titles must follow the below guidance:  
+  
+• ”LinkedIn” must not be utilized as the first word in the title.  
+Only refer to the word “LinkedIn”, do not utilize the LinkedIn logo.   
+• “LinkedIn” cannot be placed in a different color than the rest of the title (i.e., no use of blue font for LinkedIn).  
+• “LinkedIn” must be used in the same font, color, and size as the rest of the words.  
+• “LinkedIn” must be accompanied by the ® symbol.  
+  
+Lastly, the following disclaimer must be included: _“**LinkedIn is the registered trademark of LinkedIn Corporation or its affiliates. The use of the LinkedIn trademark in connection with this product does not signify any affiliation with or endorsement by LinkedIn Corporation or its affiliates.**”_ Please email [trademarkrequest@linkedin.com](mailto:TrademarkRequest@linkedin.com) with a mockup to receive final approval.
 
 ### VI.
 
