@@ -812,7 +812,7 @@ Ce délai de garantie s'applique sans préjudice des articles 2224 et suivants d
 **Article L217-5 du Code de la Consommation**   
 I.-En plus des critères de conformité au contrat, le bien est conforme s'il répond aux critères suivants :  
   
-1° Il est propre à l'usage habituellement attendu d'un bien de méme type, compte tenu, s'il y a lieu, de toute disposition du droit de l'Union européenne et du droit national ainsi que de toutes les normes techniques ou, en l'absence de telles normes techniques, des codes de conduite spécifiques applicables au secteur concerné ;  
+1° Il est propre à l'usage habituellement attendu d'un bien de même type, compte tenu, s'il y a lieu, de toute disposition du droit de l'Union européenne et du droit national ainsi que de toutes les normes techniques ou, en l'absence de telles normes techniques, des codes de conduite spécifiques applicables au secteur concerné ;  
 2° Le cas échéant, il possède les qualités que le vendeur a présentées au consommateur sous forme d'échantillon ou de modèle, avant la conclusion du contrat ;  
 3° Le cas échéant, les éléments numériques qu'il comporte sont fournis selon la version la plus récente qui est disponible au moment de la conclusion du contrat, sauf si les parties en conviennent autrement ;  
 4° Le cas échéant, il est délivré avec tous les accessoires, y compris l'emballage, et les instructions d'installation que le consommateur peut légitimement attendre ;  
