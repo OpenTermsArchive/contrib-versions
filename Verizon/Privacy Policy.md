@@ -704,7 +704,7 @@ Open all Close all
     
     **Reporting.** You can access our [2021 Record-Keeping report](https://www.verizon.com/about/privacy/ccpa-reporting) to find out more about the CCPA requests we received during the year.
     
-    **Questions.** If you have questions about your rights under California Law or questions or concerns about our privacy policies and practices, please [submit a privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries) or call 800-922-0204 if you are a Mobile customer or 800-837-4966 if you have Hombe-based services, such as Verizon Fios.
+    **Questions.** If you have questions about your rights under California Law or questions or concerns about our privacy policies and practices, please provide the information requested in this [form](https://www.verizon.com/about/privacy/privacy-inquiries) or call 800-922-0204 if you are a Mobile customer or call 800-837-4966 if you have Home-based services, such as Verizon Fios.
     
     ### Additional California Privacy Rights
     
@@ -766,7 +766,7 @@ Open all Close all
     
     Nevada law defines "sale" as the exchange of certain personally identifiable customer information for money. Personally identifiable information includes name, address, phone number, SSN, or any identifier that can be used to contact you electronically.  
     
-    Verizon doesn’t sell personally identifiable information today and we don’t have plans to start. If Verizon ever starts selling such personal information, current Verizon customers will be opted out. If you have any questions, please contact us at nevada.privacy@verizon.com.
+    Verizon doesn’t sell personally identifiable information today and we don’t have plans to start. If Verizon ever starts selling such personal information, current Verizon customers will be opted out. If you have questions, provide the information requested in this [form](https://www.verizon.com/about/privacy/privacy-inquiries).
     
     ### Virginia Consumer Data Protection Act
     
