@@ -149,12 +149,20 @@ French law applies to the content and data transmission on and related to this w
 * [CCM: Online Services](https://ccm.net/apps-sites/internet-archeology/ccm/10151-ccm-online-services/)
 * [How to register for CCM Membership?](https://ccm.net/apps-sites/internet-archeology/ccm/10029-ccm-membership-registration/)
 * [CCM: My profile has been blocked, what to do?](https://ccm.net/apps-sites/internet-archeology/ccm/10195-ccm-my-profile-has-been-blocked/)
-* [CCM: Moderation of defamatory posts](https://ccm.net/apps-sites/internet-archeology/ccm/10197-ccm-moderation-of-defamatory-posts/)
 * [How to contribute to the development of CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/10135-contributing-to-the-development-of-ccm-net/)
 * [Advice for writing messages on CCM](https://ccm.net/apps-sites/internet-archeology/ccm/10137-advice-for-writing-messages-on-ccm/)
 * [CCM: Community Management](https://ccm.net/apps-sites/internet-archeology/ccm/10143-community-management/)
 * [CCM: Commercial, religious, politics terms of use](https://ccm.net/apps-sites/internet-archeology/ccm/10149-terms-of-use-for-ccm-commercial-religious-politics/)
+* [CCM: Moderation of defamatory posts](https://ccm.net/apps-sites/internet-archeology/ccm/10197-ccm-moderation-of-defamatory-posts/)
 * [CCM: User Guide](https://ccm.net/apps-sites/internet-archeology/ccm/10121-user-guide/)
 * [How to browse CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/10129-browsing-ccm/)
 * [Moderation Guidelines](https://ccm.net/apps-sites/internet-archeology/ccm/10125-moderation-guidelines/)
 * [CCM: Copyright Information](https://ccm.net/apps-sites/internet-archeology/ccm/10145-copyright-information/)
+
+[Internet Archaeology](https://ccm.net/apps-sites/internet-archeology/)
+-----------------------------------------------------------------------
+
+* [The history of memes: timeline, meaning, evolution](https://ccm.net/apps-sites/internet-archeology/9755-the-history-of-memes/)
+* [History of blogging: scripting news, weblog](https://ccm.net/apps-sites/internet-archeology/9801-how-the-word-blog-first-appeared/)
+* [A brief history of Microsoft Windows: timeline, versions](https://ccm.net/apps-sites/internet-archeology/myths-and-legends/10053-introduction-to-microsoft-windows/)
+* [What is 5G technology and how it works?](https://ccm.net/apps-sites/internet-archeology/myths-and-legends/2541-what-is-5g-and-what-are-the-advantages/)
