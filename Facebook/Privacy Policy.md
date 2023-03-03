@@ -312,7 +312,7 @@ Vous pouvez nous contacter [en ligne](https://www.facebook.com/help/contact/5077
 
 Meta Platforms, Inc.
 
-À l’attention de : Privacy Operations
+ATTN : Privacy Operations
 
 1601 Willow Road
 
