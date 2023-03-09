@@ -64,7 +64,7 @@ Note that we may process your personal data for more than one lawful ground depe
   
 d.
 
-![](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png)
+[![](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png)](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png)
 
 **6\. DISCLOSURES OF YOUR PERSONAL DATA**  
 a. We may sell or share your personal data with the parties set out below for the purposes set out in the table in the previous section.
@@ -111,14 +111,17 @@ We are required to publish statistics on how many people exercised their privacy
     
     * Number of these requests that were not actioned because the requestor did not complete the verification process: 13
         
+    
 * Number of requests for data deletion: 387
     
     * Number of these requests that were not actioned because the requestor did not complete the verification process: 30
         
+    
 * Number of requests for opt-out (Do Not Sell): 45
     
     * Number of these requests that were not actioned because the requestor did not complete the verification process: 9
         
+    
 
 **11\. INTERNATIONAL DATA TRANSFERS.**  
 For users based in the European Economic Area (EEA) we may share your personal data within the Disqus Group or with external third parties. This may involve transferring your data outside the EEA. Specifically, data will be processed by technical support teams in the United States, India, and the Philippines.
