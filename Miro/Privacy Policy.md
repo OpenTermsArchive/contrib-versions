@@ -1,7 +1,9 @@
 Privacy Policy
 --------------
 
-**Last updated: September 20 2022**
+**Privacy Policy**
+
+**Last updated: 8 March 2023** 
 
 This Privacy Policy describes how RealtimeBoard, Inc. dba Miro, including its affiliates and subsidiaries (collectively, **Miro** and also referred to as **our**, **us** and **we**) collects, uses and discloses personal data, as well as any choices you have with respect to this personal data.
 
@@ -9,9 +11,9 @@ When we refer to “Miro”, we mean the Miro entity that acts as the controller
 
 ### **Applicability of this Privacy Policy**
 
-This Privacy Policy applies to Miro’s online collaboration tools and platform, including the associated Miro mobile and desktop applications (collectively, the “**Services**”), miro.com and other Miro websites (collectively, the “**Websites**”) and other interactions (e.g. customer support, the Miro Community, etc.) you may have with Miro, including the processing of any messages, files, video or audio recordings or other content submitted through our Services (collectively, “**Customer Content**”). This Privacy Policy does not apply to any third-party applications or software that integrate with our Services (“**Third-Party Services**”), or any other third-party products, services or businesses. 
+This Privacy Policy applies to Miro’s online collaboration tools and platform, including the associated Miro mobile and desktop applications (collectively, the “**Services**”), miro.com and other Miro websites (collectively, the “**Websites**”) and other interactions (e.g. customer support, the Miro Community, etc.) you may have with Miro, including the processing of any messages, files, video or audio recordings, prompts or other content submitted through our Services (collectively, “**Customer Content**”). This Privacy Policy does not apply to any third-party applications or software that integrate with our Services (“**Third-Party Services**”), or any other third-party products, services or businesses. 
 
-The organization (e.g., your employer or another entity or person) (“**Customer**”) that entered into the [Terms of Service](https://miro.com/legal/terms-of-service/) or the [Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement/) (“**Customer Agreement”**) controls its instance of the Services (its “**Organization**”) and any associated Customer Content. Individuals that are granted access to an Organization by a Customer (“**Authorized Users**”) routinely submit Customer Content to Miro when using the Services.
+The organization (e.g., your employer or another entity or person) (“**Customer**”) that entered into the [Terms of Service](https://miro.com/legal/terms-of-service/) or the [Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement/), and any product-specific Terms (together, the “**Customer Agreement”**) controls its instance of the Services (its “**Organization**”) and any associated Customer Content. Individuals that are granted access to an Organization by a Customer (“**Authorized Users**”) routinely submit Customer Content to Miro when using the Services.
 
 If you have any questions about specific Organization settings and privacy practices, please contact the Customer whose Organization you use. If you have received an invitation to join an Organization but have not yet created an account, you should request assistance from the Customer that sent the invitation.
 
@@ -45,7 +47,7 @@ Miro may collect and receive Customer Content and other personal data (“**Othe
         
     * **Device data.** Miro collects information about devices accessing the Services, including the type of device, operating system used, device settings, application IDs, unique device identifiers and crash data. Whether we collect some or all of this Other Data often depends on the type of device used and its settings.
         
-    * **Location data.** We receive information from you, the relevantCustomer and other third-parties that helps us approximate your location. We may, for example, use a business address submitted by your employer or an IP address received from your browser or device to determine approximate location. Miro may also collect location information from devices in accordance with the consent provided by your device.
+    * **Location data.** We receive information from you, the relevant Customer and other third-parties that helps us approximate your location. We may, for example, use a business address submitted by your employer or an IP address received from your browser or device to determine approximate location. Miro may also collect location information from devices in accordance with the consent provided by your device.
         
     * **Third-party data.** Miro may receive data about organizations, industries, lists of companies that are customers, Website visitors, marketing campaigns and other matters relevant to our business from parent corporations, affiliates and subsidiaries, our partners, or other third parties that we use to make our own information more useful. This data may be combined and may include aggregate-level data. For example, information about how well an online marketing or email campaign performed, or to create a business contacts directory.
         
@@ -74,7 +76,7 @@ Customer Content will be used by Miro in accordance with Customer’s instructio
 
 Miro uses Other Data for the purposes of our legitimate interests in operating our Services, Websites and business. More specifically, Miro uses Other Data:
 
-* **To provide, update, maintain and protect our Services, Websites and business.** This includes the use of Other Data to support delivery of the Services under a Customer Agreement, including to create or update an Organization, to prevent or address service errors, security or technical issues, and to analyze and monitor usage, trends and other activities.
+* **To provide, update, maintain and protect our Services, Websites and business.** This includes the use of Other Data to support delivery of the Services under a Customer Agreement, including to create or update an Organization, to prevent or address service errors, security or technical issues, and to analyze and monitor usage of the product and its features, trends and other activities.
     
 * **To provide, update, maintain and otherwise operate the Miro Community, Miro Academy and Miroverse.** This includes facilitating collaboration and interaction between Users when engaging with the Miro Community or Miroverse, and/or recording learners’ progress and certifications in Miro Academy.
     
@@ -82,7 +84,7 @@ Miro uses Other Data for the purposes of our legitimate interests in operating o
     
 * **To support and communicate with you by responding to your requests, comments and questions.** If you contact us, we may use your Other Data to respond.
     
-* **To develop, test and provide search, learning and productivity tools and additional features.** Miro tries to make the Services as useful as possible. For example, we make Services suggestions based on historical use and predictive models, identify organizational trends and insights, customize your experience of the Services, or to create new features and products.
+* **To develop, test and provide search, learning and productivity tools and additional features.** Miro tries to make the Services as useful as possible. For example, we make Services suggestions based on historical use and predictive models, identify organizational trends and insights, customize your experience of the Services, or to create and develop new features and products.
     
 * **To conduct market and user research.** To improve our Services and troubleshoot new products and features, we may carry out research. For example we may survey Customers (including Admins, Users and other contacts) or third parties about customer satisfaction, user experience, the effectiveness of our marketing campaigns, and their broader interests.
     
@@ -100,6 +102,23 @@ Miro uses Other Data for the purposes of our legitimate interests in operating o
     
 
 If information is aggregated or de-identified so that it can no longer reasonably be associated with an identified or identifiable natural person, Miro may use it for any business purpose. To the extent information is associated with an identified or identifiable natural person and is protected as personal data under applicable data protection law, it is referred to in this Privacy Policy as “Personal Data.”
+
+### **Miro AI**
+
+In order to improve efficiency, take care of routine tasks and work with teams as part of your creative process, Miro offers certain AI-supported functionalities within the product, Miro AI.
+
+If you choose to use these features, Customer Content (including user-generated prompts) will be processed by AI and machine learning models in order to generate content or make changes to your board. Some of these models sit internally within our product, and some are provided by a third party. We will not use your data to train the models.
+
+In order to provide Miro AI, Miro uses the following types of personal data:
+
+* User-generated prompts submitted by Users, which the models will use to generate content or make changes to your board. This is Customer Content, and we process it as a data processor on your instructions in order to provide the Services. Please be aware that any personal data you submit as a prompt will be processed by Miro AI.
+    
+* Usage metadata about how Users engage with Miro AI, which Miro processes as a data controller in order to prevent or address service errors, security or technical issues, and to analyze and monitor usage of Miro AI. Usage metadata does not contain Customer Content.
+    
+
+Miro AI might share limited data with Microsoft for the above purposes and to monitor compliance with codes of conduct.
+
+More information about Miro AI works and how to disable the AI feature is available in our Help Center.
 
 ### **Data Retention**
 
@@ -160,7 +179,7 @@ Miro may change this Privacy Policy from time to time. Laws, regulations, and in
 
 ### **Local Provisions**
 
-#### **European Union**
+**European Union**
 
 If you are based in the European Union, the following provisions also apply:
 
@@ -191,7 +210,7 @@ If you are based in the European Union, the following provisions also apply:
 * If you exercise the rights above and there is any question about who you are, we may require you to provide information in order to satisfy ourselves as to your identity. 
     
 
-#### **United Kingdom**
+**United Kingdom**
 
 If you are based in the United Kingdom, the following provisions apply:
 
@@ -202,7 +221,7 @@ If you are based in the United Kingdom, the following provisions apply:
 * In relation to your data subject rights, paragraph 11(d) above applies, except that references to the "GDPR" will be read as references to the "UK GDPR", and in case wish to lodge a complaint with a supervisory authority, you may direct your complaint to the UK supervisory authority, the [Information Commissioner’s Office](https://ico.org.uk/make-a-complaint/your-personal-information-concerns/personal-information-concerns/).
     
 
-#### **United States**
+**United States**
 
 If you are based in California, the following provisions apply:
 
