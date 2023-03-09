@@ -1720,7 +1720,7 @@ Au moment de la validation de votre première commande de Produits Eligibles, vo
 
 A titre informatif, vous serez prélevés des sommes correspondant au prix de vos livraisons généralement dans les trois (3) jours précédant l’expédition de vos Produits Eligibles.
 
-Comme indiqué précédemment, vous recevrez chaque mois, au plus tard huit (8) jours avant l’expédition de votre Produit Eligible, un email récapitulatif des Produits Eligibles sur le point d’étre expédiés, de leur prix et de leur date de livraison prévisionnelle.
+Comme indiqué précédemment, vous recevrez chaque mois, au plus tard huit (8) jours avant l’expédition de votre Produit Eligible, un email récapitulatif des Produits Eligibles sur le point d’être expédiés, de leur prix et de leur date de livraison prévisionnelle.
 
 Vous pourrez alors modifier la fréquence de votre abonnement. Vous pouvez également à tout moment consulter et gérer vos abonnements via votre Espace client ainsi que modifier les coordonnées bancaires liées à votre Abonnement. 
 
