@@ -1,7 +1,7 @@
 Terms of Service
 ----------------
 
-_Last Updated: July 5, 2022_
+_Last Updated: March 3, 2023_
 
 The Gist
 --------
@@ -21,7 +21,7 @@ These Terms govern your access to and use of the products and services we provid
 
 These Terms also govern visitors’ access to and use of any websites that use our Services, like the websites that our users create on WordPress.com. Please note though that the operators of those websites may also have their own separate terms of use.
 
-For some of Automattic’s other products, services, and programs, such as [Akismet](https://akismet.com/), [Crowdsignal](https://crowdsignal.com/), [Newspack](https://newspack.pub/), [WordPress VIP](https://wpvip.com/), our [Affiliate Program](https://refer.wordpress.com/), and our [Refer-A-Friend Program](https://wordpress.com/refer-a-friend-program-terms-of-service/), additional or separate terms may apply.
+For some of Automattic’s other products, services, and programs, such as [Akismet](https://akismet.com/), [Crowdsignal](https://crowdsignal.com/), [Newspack](https://newspack.pub/), [WordPress VIP](https://wpvip.com/), our [Affiliate Program](https://refer.wordpress.com/), and our [Refer-A-Friend Program](https://wordpress.com/refer-a-friend-program-terms-of-service/), additional or separate terms and policies may apply.
 
 Please read these Terms carefully before accessing or using our Services. By accessing or using any part of our Services, you agree to be bound by all of the Terms and all other operating rules, policies, and procedures that we may publish via the Services from time to time (collectively, the “Agreement”). You also agree that we may automatically change, update, or add on to our Services as stated in the Terms, and the Agreement will apply to any changes.
 
@@ -88,7 +88,7 @@ Please note that additional third-party terms and conditions may apply to Conten
 
 **Fees for Paid Services.** Some of our Services are offered for a fee, like certain [WordPress.com plans](https://wordpress.com/pricing/) or [WooCommerce themes or extensions](https://woocommerce.com/) (collectively, “Paid Services”). This section applies to any purchases of Paid Services.
 
-By using a Paid Service, you agree to pay the specified fees. Depending on the Paid Service, there may be one-time fees, recurring fees, or revenue-based fees. For recurring fees (AKA subscriptions), your subscription begins on your purchase date, and we’ll bill or charge you in the automatically-renewing interval (such as monthly, annually, or biennially) you select, on a pre-pay basis until you cancel, which you can do at any time by contacting the relevant support team. For revenue-based fees — such as [fees for the Payments feature](https://wordpress.com/support/wordpress-editor/blocks/payments/#related-fees) — you pay us a percentage of the revenue your website generates. Revenue-based fees are ongoing.
+By using a Paid Service, you agree to pay the specified fees. Depending on the Paid Service, there may be different kinds of fees, like some that are one-time, recurring, revenue-based, or based on an advertising campaign budget that you set. For recurring fees (AKA subscriptions), your subscription begins on your purchase date, and we’ll bill or charge you in the automatically-renewing interval (such as monthly, annually, or biennially) you select, on a pre-pay basis until you cancel, which you can do at any time by contacting the relevant support team. For revenue-based fees — such as [fees for the Payments feature](https://wordpress.com/support/wordpress-editor/blocks/payments/#related-fees) — you pay us a percentage of the revenue your website generates. Revenue-based fees are ongoing.
 
 **Taxes.** To the extent permitted by law, or unless explicitly stated otherwise, all fees do not include applicable federal, provincial, state, local or other governmental sales, value-added, goods and services, harmonized or other taxes, fees, or charges (“Taxes”). You’re responsible for paying all applicable Taxes relating to your use of our Services, your payments, or your purchases. If we’re obligated to pay or collect Taxes on the fees you’ve paid or will pay, you’re responsible for those Taxes, and we may collect payment from you.
 
@@ -159,11 +159,11 @@ If you find a WordPress.com website that you believe violates these Terms, pleas
 
 **Web Traffic.** We may use a third-party service to measure WordPress.com’s audience and usage. By having your website on WordPress.com, you agree to assign the traffic for your website to Automattic, and you authorize us to sign a Traffic Assignment Letter on your behalf. This means that your website’s traffic may be included under Automattic, your website may not receive credit for traffic in the respective reports, and you must not assign your website’s traffic to any other party. If we require additional documentation to verify ownership of your website or domain name, you agree to make reasonable efforts to provide it.
 
-**Prohibited Uses.** Your Content and conduct must not violate the [WordPress.com User Guidelines](https://en.support.wordpress.com/user-guidelines/) or the [VideoPress Service Guidelines](https://videopress.com/service-guidelines) if you use our Services to upload videos.
+**Prohibited Uses.** Your Content and conduct must not violate the [WordPress.com User Guidelines](https://en.support.wordpress.com/user-guidelines/) or the [VideoPress Service Guidelines](https://videopress.com/service-guidelines) if you use our Services to upload videos. You must comply with our [advertising policy](https://automattic.com/advertising-policy/) if you use our advertising features, like Blaze.
 
 **HTTPS.** We offer free HTTPS on all WordPress.com websites by default, including those using custom domains, via [Let’s Encrypt](https://letsencrypt.org/). By signing up and using a custom domain on WordPress.com, you authorize us to represent that you have the power and authority to act on the domain name registrant’s behalf (by requesting the necessary certificates, for example) for the sole purpose of providing HTTPS on your website.
 
-**Advertisements.** We may display advertisements on your website unless you have purchased a plan that includes the removal of ads.
+**Advertisements.** We may display advertisements on your website and domain unless you have purchased a plan that includes the removal of ads.
 
 **Attribution.** We may display attribution text or links in your website footer or toolbar, noting that your website is powered by WordPress.com or attributing the creator of your theme, for example. For more details about these attributions, and under which circumstances (if any) you may alter or remove them, please see our [Footer Credit Options support page](https://wordpress.com/support/footer-credits/).
 
@@ -199,7 +199,7 @@ Even when your saved WooPay information is used for a transaction, the transacti
 
 ### d. Jetpack
 
-Jetpack is a plugin that connects your website to WordPress.com’s infrastructure to give you powerful WordPress.com features. To take advantage of the performance-boosting features of Jetpack, certain information about the Content, settings, and setup of your website are synced with our servers, as described on our [What Data Does Jetpack Sync? support page](https://jetpack.com/support/what-data-does-jetpack-sync/). Any content you publish on a self-hosted website connected to Jetpack (“Jetpack Content”) remains under your ownership and control.
+Jetpack supercharges your site by connecting to our infrastructure via various Jetpack plugins developed by Automattic (like Jetpack, Jetpack Boost, and Jetpack Search). To take advantage of the valuable features of Jetpack, your website is synced with our servers, as described on our [What Data Does Jetpack Sync? support page](https://jetpack.com/support/what-data-does-jetpack-sync/). Any content you publish on a self-hosted website connected to Jetpack (“Jetpack Content”) remains under your ownership and control.
 
 **Features and Enhanced Distribution.** Jetpack includes various features, some of which are [on by default](https://jetpack.com/support/default-features/) when you activate Jetpack, and others that you need to enable manually. You can see your active features and choose which to activate or deactivate on your dashboard.
 
@@ -209,7 +209,7 @@ The [Enhanced Distribution](https://jetpack.com/support/enhanced-distribution/) 
 
 You grant us a worldwide, royalty-free, transferable, sub-licensable, non-exclusive license to use, reproduce, modify, distribute, adapt, publicly display, publish, copy, and store Jetpack Content for the purpose of providing and improving our products and Services and promoting your websites. This license also allows us to make any publicly-posted Content available to select third parties (through [Firehose](https://developer.wordpress.com/docs/firehose/), for example) so that these third parties can analyze and distribute (but not publicly display) the Content through their services.
 
-**Prohibited Uses.** Your website and Jetpack Content must comply with [Jetpack’s Service Guidelines](https://jetpack.com/service-guidelines/).
+**Prohibited Uses.** Your website and Jetpack Content must comply with [Jetpack’s Service Guidelines](https://jetpack.com/service-guidelines/), and you must comply with our [advertising policy](https://automattic.com/advertising-policy/) if you use our advertising features, like Blaze.
 
 ### e. Jetpack CRM
 
@@ -246,6 +246,7 @@ If you use Ecommerce Services, the terms in this subsection apply, along with th
 * must provide contact information so customers can contact you with questions or complaints.
 * must maintain fair and legally compliant return, refund, cancellation, and adjustment policies and clearly explain how customers can request a refund.
 * are responsible for all questions, complaints, disputes (including chargebacks), refunds, reversals, or fines that arise from your use of Ecommerce Services.
+* should not encourage customers to submit chargebacks.
 * are responsible for investigating any transaction you believe may be erroneous, suspicious, or prohibited by law, or otherwise pose unacceptable compliance risks to us or you and, if appropriate, obtaining adequate information and assurances from your customer before fulfilling or completing the transaction.
 * are solely responsible for ensuring that your transactions with customers comply with applicable export, import, and sanctions laws and regulations, including obtaining any required licenses or other authorizations or making required filings.
 * must comply with Payment Card Industry Data Security Standard (PCI DSS) if applicable to you.
@@ -291,10 +292,14 @@ Unless a refund is required by law, there are no refunds for POS terminals and a
 
 **More on Shipping Services Specifically.** Our shipping Services allow you to check shipping rates or buy shipping labels from certain mailing services, like [UPS](https://www.ups.com/), [USPS](https://www.usps.com/), [DHL](https://www.dhl.com/), and [Canada Post](https://www.canadapost.ca/). We’re only an intermediary between you and these third parties; we aren’t involved in any way with your product or its shipment. We also don’t guarantee that the results you obtain from the use of these services (like rates, labels, or delivery timeframes) will be accurate or reliable.
 
-You’re solely responsible for compliance with all applicable rules and regulations, including domestic and international shipping and customs regulations and any regulations imposed by the mailing service(s) you use. For example:
+You’re solely responsible for compliance with all applicable rules and regulations, including domestic and international shipping and customs regulations and any regulations imposed by the mailing service(s) you use.
 
-* If you use USPS postage, you need to comply with their [shipping restrictions](https://www.usps.com/ship/shipping-restrictions.htm) and [mailing standards](http://pe.usps.com/text/dmm300/dmm300_landing.htm), among others.
-* When using DHL’s services, you are responsible for compliance with all applicable [DHL rules and terms](http://www.dhl-usa.com/), such as the DHL Express Terms and Conditions of Carriage.
+If you use services provided by the US Postal Service (“USPS”):
+
+* You agree to comply with their [shipping restrictions](https://www.usps.com/ship/shipping-restrictions.htm) and [mailing standards](http://pe.usps.com/text/dmm300/dmm300_landing.htm), among others.
+* The following Privacy Act Statement applies to information you provide to USPS: Your information will be used to facilitate the purchase of USPS postage and fulfill transactional reporting requirements for USPS postage systems. Collection is authorized by 39 U.S.C. 401, 403, and 404. Providing the information is voluntary, but if not provided, your transaction may not be processed. USPS does not disclose your information to third parties without your consent except to facilitate the transaction, to act on your behalf or request, or as legally required. This includes the following limited circumstances: to a congressional office on your behalf; to financial entities regarding financial transaction issues; to a US Postal Service (USPS) auditor; to entities, including law enforcement, as required by law or in legal proceedings; and to contractors and other entities aiding us to fulfill the service (service providers). For more information regarding USPS privacy policies, visit [http://www.usps.com/privacypolicy](http://www.usps.com/privacypolicy)
+
+When using DHL’s services, you are responsible for compliance with all applicable [DHL rules and terms](http://www.dhl-usa.com/), such as the DHL Express Terms and Conditions of Carriage.
 
 In addition, you’re solely responsible for customs charges, import taxes or duties, and any other charges related to your shipments. If we incur any charges as a result of your use of the shipping services, you agree to reimburse us for the full amount within 7 days.
 
@@ -387,6 +392,6 @@ The Agreement (together with any other terms we provide that apply to any specif
 
 Automattic may assign its rights under the Agreement without condition. You may only assign your rights under the Agreement with our prior written consent.
 
-[Print friendly version](https://en.support.files.wordpress.com/2022/07/tos-07-05-22.pdf)
+[Print friendly version](https://wpcom.files.wordpress.com/2023/03/tos-03-03-2023.pdf)
 
 [**Change log**](https://wordpress.com/tos-change-log)
