@@ -144,6 +144,7 @@ The open source software platform that runs everywhere from the smartphone, the 
 * [Cloud](https://ubuntu.com/cloud) [Cloud](#)
     --------------------------------------------
     
+    * [What is cloud computing](https://ubuntu.com/cloud/cloud-computing)
     * [What is private cloud](https://ubuntu.com/cloud/private-cloud)
     * [What is hybrid cloud](https://ubuntu.com/cloud/hybrid-cloud)
     * [What is multi-cloud](https://ubuntu.com/cloud/multi-cloud)
