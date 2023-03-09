@@ -104,9 +104,9 @@ content is the sole responsibility of the person who originated the content, and
 
 Parler does not take responsibility for such content.
 
-While Parler’s Direct Messaging feature is encrypted, the content of any message
+While Parler’s Direct Messaging feature is private, the sender of any message may
 
-may be reported by its recipient, using a “franking” feature provided. Accordingly,
+be reported by its recipient, using the reporting feature provided. Accordingly,
 
 Parler’s prohibitions against illegal content, including fraud, threats or incitement,
 
