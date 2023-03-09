@@ -612,7 +612,7 @@ Total discount is based on opting in to our Renewal Price Plan.  You must pay y
    
 The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier  
    
-Your renewal discount will be applied for 12 months and will begin on either your next bill or the one following that, depending on your billing cycle. After one year you will revert to Energia standard unit rates.  Once you have signed up to an Energia Renewal Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to renew. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee may apply.   
+Your renewal discount will be applied for 12 months. After one year you will revert to Energia standard unit rates.  Once you have signed up to an Energia Renewal Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to renew. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee may apply.   
    
 All prices are subject to change as per our General Terms and Conditions above.
 
