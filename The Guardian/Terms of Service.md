@@ -25,9 +25,11 @@ You agree to notify us immediately if you become aware of any unauthorised use o
 
 **2\. Termination of registration**
 
-If you no longer wish to have a registered account, you may terminate your account by sending an email to [userhelp@theguardian.com](mailto:userhelp@theguardian.com). If you no longer accept these terms and conditions, or any future modification to these terms and conditions, you must cease using the Guardian Site. Continued use of the Guardian Site indicates your continued acceptance of these terms and conditions.
+If you no longer wish to have a registered account, you may terminate your account by logging into your account settings and selecting [‘delete account’](https://profile.theguardian.com/delete). Please note that if you make payments to us on a recurring basis through an active membership, contribution or subscription you will not be able to automatically delete your account online. Please follow the instructions you are given on the [account deletion page](https://profile.theguardian.com/delete) and try again if you still want to delete your account. Otherwise please contact us using the contact details for your region that can be found on the [help centre.](https://manage.theguardian.com/help-centre)
 
-We may terminate your registered account, at our sole discretion, by emailing you at the address you have registered stating that the agreement has terminated.
+If you no longer accept these terms and conditions, or any future modification to these terms and conditions, you must cease using the Guardian Site. Continued use of the Guardian Site indicates your continued acceptance of these terms and conditions.
+
+We may terminate your registered account, at our sole discretion, by emailing you at the address you have registered stating that the agreement has terminated.  
 
 **3\. Use of material appearing on the Guardian Site**
 
@@ -194,5 +196,7 @@ In Section 6 the licence granted in respect of graphical and photographic works 
 25 May 2018: Updated reference to privacy policy in Section 8.
 
 22 February 2023: Various amendments, including to draw users’ attention to specific sections, to make clear that reproduction and/or extraction of Guardian content for commercial text and data mining is not permitted and that the Guardian is the sole seller of advertising on the Guardian Site.
+
+09 March 2023: Section 2 amended to update account termination process
 
 © 2013 Guardian News and Media Limited or its affiliated companies. All rights reserved.
