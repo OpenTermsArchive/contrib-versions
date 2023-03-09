@@ -8,7 +8,7 @@ Ce site est opéré  par :
 CDISCOUNT  
 Société anonyme au capital social de 6.642.912,78€  
 Immatriculée au RCS Bordeaux n° B 424 059 822  
-Représentée par M. Emmanuel Grenier, en qualité de Président Directeur Général  
+Représentée par M. Thomas METIVIER , en qualité de Directeur Général  
 Siège social : 120-126 Quai de Bacalan - 33000 Bordeaux (siège administratif uniquement, aucun colis ne doit être retourné à cette adresse)  
   
 Le site cdiscount.com propose une offre réservée aux personnes physiques agissant en qualité de consommateurs et une offre réservée aux clients professionnels, à savoir toutes personnes physiques ou morales agissant à des fins qui entrent dans le cadre de leur activité professionnelle.  
@@ -270,7 +270,7 @@ Les modes de paiement listés ci-après peuvent être proposés par CDISCOUNT :
   
 (i) Cartes bancaires : Visa, Mastercard.  
   
-(ii) Paiement en « 4 fois » : le paiement en « 4 fois » peut être effectué par carte bancaire conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande.  Les conditions générales du paiement en « 4 fois » sont accessibles [en cliquant ici](https://i2.cdscdn.com/resources/ImagesOK/cgv/4f.pdf).
+(ii) Paiement en « 4 fois » : le paiement en « 4 fois » peut être effectué par carte bancaire conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande.  Les conditions générales du paiement en « 4 fois » sont accessibles en [cliquant ici](https://i2.cdscdn.com/resources/ImagesOK/cgv/4f.pdf).
 
   Le paiement en "4 fois" n'est pas proposé de manière systématique à tous nos clients et/ou pour toutes les commandes. Nous mettons en œuvre une décision individuelle automatisée afin d'identifier les clients et les commandes éligibles au paiement en "4 fois".  
  (iii) Paiement Flash : ce système vous permet, pour les paiements par carte bancaire, de ne plus saisir votre numéro de Carte de Paiement lors de vos prochaines commandes passées sur le Site et livrées à la ou les adresse(s) associée(s) à votre numéro de Carte de Paiement. A noter : votre numéro de Carte de Paiement est visible en totalité lors de la saisie de celui-ci, mais seuls les 4 derniers chiffres seront visibles dans votre Compte Client Cdiscount. Le service paiement flash est entièrement sécurisé, pour en savoir plus sur le Paiement Flash, [cliquez ici](https://www.cdiscount.com/payment/paymentinfo.html).
@@ -321,6 +321,8 @@ CDISCOUNT se réserve le droit de ne pas proposer un ou plusieurs des modes de p
 
   
 Dans le cas où vous utilisez les coordonnées bancaires d'un tiers sur le Site, vous garantissez à Cdiscount que vous disposez des droits nécessaires pour utiliser la carte de paiement dont vous n'êtes pas le titulaire.
+
+Dans le cas où le client aurait reçu un remboursement indu de la part de Cdiscount (par exemple, un retour non conforme dans le cadre de l'exercice du droit de rétractation, etc.) alors Cdiscount se réserve le droit de récupérer les sommes qui lui sont dues, par tous moyens, au titre du paiement initial de la commande concernée.
 
 **4.2. Factures  
   
@@ -812,7 +814,7 @@ Ce délai de garantie s'applique sans préjudice des articles 2224 et suivants d
 **Article L217-5 du Code de la Consommation**   
 I.-En plus des critères de conformité au contrat, le bien est conforme s'il répond aux critères suivants :  
   
-1° Il est propre à l'usage habituellement attendu d'un bien de méme type, compte tenu, s'il y a lieu, de toute disposition du droit de l'Union européenne et du droit national ainsi que de toutes les normes techniques ou, en l'absence de telles normes techniques, des codes de conduite spécifiques applicables au secteur concerné ;  
+1° Il est propre à l'usage habituellement attendu d'un bien de même type, compte tenu, s'il y a lieu, de toute disposition du droit de l'Union européenne et du droit national ainsi que de toutes les normes techniques ou, en l'absence de telles normes techniques, des codes de conduite spécifiques applicables au secteur concerné ;  
 2° Le cas échéant, il possède les qualités que le vendeur a présentées au consommateur sous forme d'échantillon ou de modèle, avant la conclusion du contrat ;  
 3° Le cas échéant, les éléments numériques qu'il comporte sont fournis selon la version la plus récente qui est disponible au moment de la conclusion du contrat, sauf si les parties en conviennent autrement ;  
 4° Le cas échéant, il est délivré avec tous les accessoires, y compris l'emballage, et les instructions d'installation que le consommateur peut légitimement attendre ;  
@@ -888,6 +890,8 @@ Vous trouverez ci-dessous la liste des garanties proposées :
 * Garantie Erreur de Montage
 * 60 jours pour vous décider
 * 100 nuits pour vous décider
+
+En cas de souscription à une garantie commerciale Cdiscount, vous disposez d'un délai de renonciation de trente (30) jours sur le contrat souscrit en vertu de l'article L. 112-10 du code des assurances.
 
 Pour en savoir plus sur ces garanties et consulter les notices d’information, [cliquez ici](https://www.cdiscount.com/ct-garantie.html).
 
@@ -1061,7 +1065,7 @@ De faire bénéficier : des avantages de son Abonnement à toute personne physi
 
  La disponibilité et le contenu des avantages décrits ci-dessus peuvent varier en cours d’Abonnement, sans préavis ni indemnité au profit de l’Abonné. L’Abonné sera informé de l’évolution desdits avantages par tout moyen. 
 
-**2.1 Livraison offerte des Produits Eligibles** 
+**2.1 Livraison offerte des Produits Eligibles (France métropolitaine, Belgique, Luxembourg)**
 
   
 Les Produits Eligibles sont reconnaissables sur le Site du fait de la présence de la mention " Produit **C****discount** **à v****o**l**o**nté****" sur la fiche produit du Produit Eligible.  
@@ -1069,7 +1073,7 @@ Il est précisé que les modes de livraison éligibles à la gratuité ne porten
 Cdiscount propose la livraison gratuite en express (jusqu'à 72heures ouvrées maximum).  
 En savoir plus sur notre page dédiée à la livraison en [cliquant ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft) et sur notre page dédiée à notre abonnement Cdiscount à Volonté en [cliquant ici](https://www.cdiscount.com/cdav/livraison-a-volonte?cm_sp=Site:PrivilegeLivP:CDAV).  
 
-La livraison offerte s’applique sur les modes de livraison listés ci-dessous.
+La livraison offerte s’applique sur les modes de livraison listés ci-dessous et pour un minimum d'achat qui varie en fonction du mode de livraison choisi.
 
 **Pour une livraison en France métropolitaine** :
 
@@ -1090,7 +1094,7 @@ Modes de livraison express (entre 24heures et 72heures ouvrées):
 * Mondial Relay
 * Relais Colis
 
-**Pour une livraison en Belgique, au Luxembourg, en Allemagne, en Espagne et en Italie** :
+**Pour une livraison en Belgique et au Luxembourg** :
 
    
 Mode de livraison express (entre 24heures et 72heures ouvrées) :
@@ -1101,7 +1105,9 @@ Modes de livraison standard :
 
 * Mondial Relay 
 
-   
+ Pour une livraison en Italie, Allemagne et Espagne :  
+  
+La livraison offerte n'est pas applicable. En savoir plus sur notre page dédiée à la livraison en [cliquant ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft)  
   
 
 **2.2 Prix réduits**
@@ -1714,7 +1720,7 @@ Au moment de la validation de votre première commande de Produits Eligibles, vo
 
 A titre informatif, vous serez prélevés des sommes correspondant au prix de vos livraisons généralement dans les trois (3) jours précédant l’expédition de vos Produits Eligibles.
 
-Comme indiqué précédemment, vous recevrez chaque mois, au plus tard huit (8) jours avant l’expédition de votre Produit Eligible, un email récapitulatif des Produits Eligibles sur le point d’être expédiés, de leur prix et de leur date de livraison prévisionnelle.
+Comme indiqué précédemment, vous recevrez chaque mois, au plus tard huit (8) jours avant l’expédition de votre Produit Eligible, un email récapitulatif des Produits Eligibles sur le point d’étre expédiés, de leur prix et de leur date de livraison prévisionnelle.
 
 Vous pourrez alors modifier la fréquence de votre abonnement. Vous pouvez également à tout moment consulter et gérer vos abonnements via votre Espace client ainsi que modifier les coordonnées bancaires liées à votre Abonnement. 
 
