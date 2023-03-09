@@ -116,15 +116,15 @@ Nous fournissons ces services à vous et à d’autres personnes pour faire prog
         
         En particulier, lorsque vous partagez, publiez ou importez du contenu protégé par des droits de propriété intellectuelle sur ou en rapport avec nos Produits, vous nous accordez une licence non exclusive, transférable, sous-licenciable, gratuite et mondiale pour héberger, utiliser, distribuer, modifier, exécuter, copier, représenter publiquement ou afficher publiquement, traduire et créer des œuvres dérivées de votre contenu (conformément à vos paramètres de [confidentialité](https://www.facebook.com/help/325807937506242?ref=tos) et d’[application](https://www.facebook.com/help/1727608884153160?ref=tos)). Cela signifie, par exemple, que si vous partagez une photo sur Facebook, vous nous autorisez à la conserver, à la copier et à la partager avec d’autres (encore une fois, conformément à vos paramètres), tels que les Produits Meta ou des fournisseurs de services qui prennent en charge ces produits et services. La licence prend fin lorsque votre contenu est supprimé de nos systèmes.
         
-        Vous pouvez à tout moment supprimer du contenu individuel que vous partagez, publiez et importez. En outre, tout le contenu publié sur votre compte personnel sera supprimé si vous supprimez votre compte. [Découvrez](https://www.facebook.com/help/250563911970368/?helpref=hc_fnav) comment supprimer votre compte. La suppression d’un compte n’entraîne pas forcément la suppression du contenu que vous avez publié en tant qu’admin d’une page ou du contenu que vous avez créé collectivement avec d’autres utilisateurs, tel que les photos d’albums partagés, que les autres membres des albums pourront continuer à voir.
+        Vous pouvez à tout moment supprimer du contenu individuel que vous partagez, publiez et importez. En outre, tout le contenu publié sur votre compte personnel sera supprimé si vous supprimez votre compte. [Découvrez](https://www.facebook.com/help/250563911970368/?helpref=hc_fnav) comment supprimer votre compte. La suppression d’un compte n’entraîne pas forcément la suppression du contenu que vous avez publié en tant qu’admin d’une page ou du contenu que vous avez créé collectivement avec d’autres utilisateurs, comme les photos d’albums partagés que les autres membres des albums pourront continuer à voir.
         
-        Une fois que nous commençons le processus de suppression du compte ou que nous recevons une demande de suppression de contenu, la suppression peut prendre jusqu’à 90 jours. Si vous placez du contenu dans la corbeille, le processus de suppression commencera automatiquement 30 jours plus tard, sauf si vous choisissez de supprimer le contenu plus tôt. Lorsque le processus de suppression d’un tel contenu débute, les autres utilisateurs ne peuvent plus voir ce contenu. Après la suppression du contenu, sa suppression des systèmes de sauvegarde et de récupération en cas de sinistre peut prendre jusqu’à 90 jours supplémentaires.
+        Une fois que nous commençons le processus de suppression du compte ou que nous recevons une demande de suppression de contenu, la suppression peut prendre jusqu’à 90 jours. Si vous placez du contenu dans la corbeille, le processus de suppression commencera automatiquement 30 jours plus tard, sauf si vous choisissez de supprimer le contenu plus tôt. Lorsque le processus de suppression d’un tel contenu débute, les autres utilisateurs ne peuvent plus voir ce contenu. Une fois le contenu supprimé, son retrait des systèmes de sauvegarde et de récupération en cas de sinistre, peut prendre jusqu’à 90 jours supplémentaires.
         
-        Le contenu ne sera pas supprimé dans les 90 jours suivant la suppression du compte ou le processus de suppression du contenu lorsqu’il débute dans les situations suivantes :
+        Le contenu ne sera pas supprimé dans les 90 jours suivant le début du processus de suppression du compte ou du contenu dans les cas suivants :
         
         * votre contenu a été utilisé par des tiers conformément à la présente licence, et ces derniers ne l’ont pas supprimé (dans ce cas, cette licence continuera de s’appliquer jusqu’à la suppression du contenu) ;
         * la suppression dans les 90 jours n’est pas possible en raison de limitations techniques de nos systèmes, auquel cas nous procéderons à la suppression dès que ce sera possible d’un point de vue technique ; ou
-        * la suppression immédiate limiterait notre faculté à :
+        * lorsque la suppression immédiate limiterait notre faculté à :
             
             * identifier ou enquêter sur des activités illégales ou des violations de nos conditions et politiques (par exemple, identifier ou enquêter sur une utilisation détournée de nos Produits ou systèmes) ;
             * protéger la sécurité et l’intégrité de nos produits, systèmes, services, employés et utilisateurs, et nous défendre ;
@@ -133,7 +133,7 @@ Nous fournissons ces services à vous et à d’autres personnes pour faire prog
             
         
     
-    auquel cas, le contenu ne sera pas conservé plus longtemps qu’il n’est nécessaire aux fins pour lesquelles il a été conservé (la durée exacte variant au cas par cas).
+    dans ce cas, le contenu ne sera pas conservé plus longtemps qu’il n’est nécessaire aux fins pour lesquelles il l’a été (la durée exacte variant au cas par cas).
     
     Dans chacun des cas mentionnés ci-dessus, cette licence sera maintenue jusqu’à la suppression complète du contenu.
     
