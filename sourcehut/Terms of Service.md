@@ -59,13 +59,13 @@ You may use automated tools to obtain public information from the services for t
 
 ##### Content rights
 
-When uploading content to SourceHut, you must have the right to do so. You grant SourceHut sufficient rights for the operation of the services in relation to your content, such as the right to display the content on the website. These rights are revoked upon the removal of your content from our services. We may retain your content in system (e.g. for backups) for up to six weeks, but it will not displayed on our website during this period.
+When uploading content to SourceHut, you must have the right to do so. You grant SourceHut sufficient rights for the operation of the services in relation to your content, such as the right to display the content on the website. These rights are revoked upon the removal of your content from our services. We may retain your content in our system (e.g. for backups) for up to six weeks, but it will not displayed on our website during this period.
 
 If you own the copyright for the content you upload, these rights are granted automatically when you upload the content. If you do not own the copyright, in part or in full, you must have received a license which provides for these rights. You may not upload content for which you do not own the copyright and have not received a suitable license.
 
-\*"Free software" and "open source" licenses (defined respectively by the Free Software Foundation and the Open Source Initiative) provide for these rights, as well as all Creative Commons licenses. Other licenses may or may not provide these rights, and it is your responsibility to check.
+_"Free software" and "open source" licenses (defined respectively by the Free Software Foundation and the Open Source Initiative) provide for these rights, as well as all Creative Commons licenses. Other licenses may or may not provide these rights, and it is your responsibility to check._
 
-You are encouraged to add a free software license to your project. [Read our recommendations here](https://man.sr.ht/license.md).\*
+_You are encouraged to add a free software license to your project. [Read our recommendations here](https://man.sr.ht/license.md)._
 
 You may request an archive of all of your content on the service by writing an email to Drew DeVault [sir@cmpwn.com](mailto:sir@cmpwn.com) and allowing up to 2 weeks for an archive to be prepared.
 
