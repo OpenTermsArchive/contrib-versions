@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: February 27, 2023
+#### Last Updated: March 8, 2023
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -1140,7 +1140,7 @@ b. Layer routes from HERE on top of a map from another third-party provider, or 
 
 **82.7.** If we determine you are using Amazon Location Service in a manner intended to avoid incurring appropriate usage fees, we may suspend or terminate your access to, or limit your use of, Amazon Location Service.
 
-**82.8.** Open Data uses OpenStreetMap data. OpenStreetMap is licensed under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation. You agree to comply with the ODbL and acknowledge the attribution and share-alike provisions therein.
+**82.8.** Open Data uses OpenStreetMap data. [OpenStreetMap](https://www.openstreetmap.org/copyright) is licensed under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation. You agree to comply with the ODbL and acknowledge the attribution and share-alike provisions therein.
 
 **82.9.** Attribution for Location Data can be found [here](https://docs.aws.amazon.com/location/latest/developerguide/data-attribution.html). You must pass through attribution for Location Data that you make available to others via your application or its product documentation. If any Location Data has attribution details attached or incorporated, you may not remove, modify, or obscure (or permit any End Users to remove, modify, or obscure) any copyright, trademark notice, restrictive legend, or other proprietary right notices supplied to you.
 
@@ -1241,5 +1241,11 @@ You may not use AWS Clean Rooms or any information obtained from your use of AWS
 **94.1.** AWS may stop providing the Integrated Private Wireless on AWS portal (or remove any offerings on the [Integrated Private Wireless on AWS site](https://aws.amazon.com/telecom/integrated-private-wireless/) (or any successor site)), without prior notice to you.  
 
 **94.2.** The offerings on the [Integrated Private Wireless on AWS site](https://aws.amazon.com/telecom/integrated-private-wireless/) (or any successor site) are offered by third parties and subject to separate terms and conditions specified by the respective third party. AWS has no control and makes no guarantees about such offerings. 
+
+### 95\. AWS Diode
+
+**95.1.** AWS Diode allows You to map Your account to another Diode account (“Mapped Account”), enabling Your Content to be moved and stored by the Mapped Account to an AWS region of a different classification level.  You acknowledge and agree that using the Service may result in Your Content being moved and stored in AWS regions other than the AWS regions where You initially stored Your Content.
+
+**95.2.** You are responsible for all data transferred through AWS Diode, including, but not limited to: (i) compliance with all laws, regulations, and policies related to the control, disclosure, and transfer of classified information; and (ii) transferring data only to AWS regions of appropriate classification levels. Your failure to do so may result in Amazon incurring sanitization costs for which You will be responsible, and which will be exempt from any limitations of liability in any of your agreements with AWS.  
 
 [Previous version(s)](https://aws.amazon.com/service-terms/historical/)[](https://aws.amazon.com/service-terms/historical/)
