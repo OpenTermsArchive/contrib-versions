@@ -181,7 +181,7 @@ _Links to Other Sites; Transactions with Third Parties_
 The Site may contain links to other sites that are not owned or controlled by Simplifi. Please be aware that we are not responsible for the privacy practices of these other sites. We encourage you to review the privacy policies and statements of other sites to understand their information practices. This Privacy Policy applies only to information collected by our Site.
 
 _Analytics_  
-The Site uses third-party analytics services including Google Analytics. For more information about Google analytic cookies, please see Google’s help pages and privacy policy: Google Privacy Policy: [http://www.google.com/intl/en/policies/privacy/;](http://www.google.com/intl/en/policies/privacy/;)  
+The Site uses third-party analytics services including Google Analytics. For more information about Google analytic cookies, please see Google’s help pages and privacy policy: Google Privacy Policy: [http://www.google.com/intl/en/policies/privacy/](http://www.google.com/intl/en/policies/privacy/),  
 Google Analytics Help: [https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage). Google has developed the Google Analytics opt-out browser add-on for the Google Analytics JavaScript (ga.js, analytics.js, dc.js). If you want to opt out of Google Analytics, you can download and install the add-on for your web browser at [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
 
 13\. DATA RETENTION
