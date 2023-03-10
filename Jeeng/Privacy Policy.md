@@ -68,7 +68,7 @@ Third Parties: We transfer personal data to third parties in a variety of circum
 
 We periodically add and remove third party providers. At present, third-party providers to whom we transfer personal data include also the following:
 
-* Website analytics;
+* Website and platform analytics;
 * Document management and sharing services;
 * Customer ticketing and support;
 * On-site and cloud-based database services;
