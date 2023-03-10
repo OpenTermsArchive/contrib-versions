@@ -22,7 +22,7 @@ Les données à caractère personnel concernées sont les suivantes :
 2\. Finalités
 -------------
 
-Les traitements ont pour finalités la gestion des comptes, la gestion des services transverses d’échange de messages et l’exploitation de l’Application, la mise à disposition des administrations d'un service numérique d'usage partagé de messagerie collaborative.
+Les traitements ont pour finalité la mise à disposition des administrations d'un service numérique d'usage partagé de messagerie collaborative. Ils comprennent les traitements nécessaires à la gestion des comptes, à la gestion des services transverses d’échanges de messages et l’exploitation et l'amélioration de l’Application.
 
 3.Base légale
 -------------
@@ -34,10 +34,6 @@ Le traitement est nécessaire à l’exécution d’une mission d’intérêt pu
   
 
 La mission d’intérêt public constitue la mise à disposition et le développement d’outils collaboratifs par la DINUM en vue de leur intégration dans les ministères[(article 6 du décret n°2019-1088 du 25 octobre 2019 relatif au système d’information et de communication de l’Etat et à la direction interministérielle du numérique).](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039281619/2019-10-28#_blank)
-
-  
-
-Les données de profil permettent également de réaliser des statistiques anonymisées sur l’usage de la plateforme.
 
 ### 3.2 Données de contenus du service de messagerie instantanée
 
