@@ -3,7 +3,7 @@
 
 Welcome to our digital information network. These are our terms and conditions for use of the network, which you may access in several ways, including but not limited to the World Wide Web via [theguardian.com](https://www.theguardian.com/uk), digital television, PDA, mobile phone and RSS feeds. In these terms and conditions, when we say the “Guardian Site” or “our site” we mean the digital information network operated by or on behalf of Guardian News & Media Limited or its parent companies, subsidiaries and affiliates (collectively “Guardian”), including without limitation, www.theguardian.co.uk, www.theguardian.com and any other domains, websites or apps owned or operated by Guardian, and the material on such domains, websites and apps, in each case as may be updated from time to time. However you access the Guardian Site (whether via a third party site, app, link or otherwise), you agree to be bound by these terms and conditions.
 
-Though you should read all sections carefully, your attention is specifically drawn to the following sections of these terms and conditions: section 3 (which concerns your use of material on the Guardian Site), section 4 (which sets out our disclaimers of liability), section 6 (which concerns the content you submit to us) and section 11 (the indemnification you provide to us for your breach of these terms and conditions).
+Though you should read all sections carefully, your attention is specifically drawn to the following sections of these terms and conditions: section 3 (which concerns your use of material on the Guardian Site), section 4 (which sets out our disclaimers of liability), section 6 (which concerns the content you submit to us) and section 12 (the indemnification you provide to us for your breach of these terms and conditions).
 
 If you have accessed the Guardian Site from the United States or Australia, you also agree to be bound by the additional terms contained at the end of these terms and conditions.
 
@@ -29,7 +29,7 @@ If you no longer wish to have a registered account, you may terminate your accou
 
 If you no longer accept these terms and conditions, or any future modification to these terms and conditions, you must cease using the Guardian Site. Continued use of the Guardian Site indicates your continued acceptance of these terms and conditions.
 
-We may terminate your registered account, at our sole discretion, by emailing you at the address you have registered stating that the agreement has terminated.  
+We may terminate your registered account, at our sole discretion, by emailing you at the address you have registered stating that the agreement has terminated.
 
 **3\. Use of material appearing on the Guardian Site**
 
@@ -57,7 +57,7 @@ We give no warranties of any kind concerning the Guardian Site or the Guardian C
 
 Although we will do our best to provide constant, uninterrupted access to the Guardian Site, we do not guarantee this. We accept no responsibility or liability for any unavailability, interruption or delay.
 
-If you are accessing the Guardian Site from the United States or Australia, the additional disclaimers and limitations of liability in Sections 16 and 17 and apply.
+If you are accessing the Guardian Site from the United States or Australia, the additional disclaimers and limitations of liability in Sections 14 onwards apply.
 
 **5\. Third party advertising on the Guardian Site**
 
@@ -91,38 +91,51 @@ Readers of our print products submitting content to Guardian News & Media should
 
 **7\. Apps**
 
-You may download certain Guardian apps (“Apps”) either from Guardian Sites or from third party app stores or shops. All of these terms apply to the maximum extent relevant to your use of the Apps (and in particular, the terms of section 6 apply where you are using an App to submit user content to the Guardian Sites).
+You may download certain Guardian apps, including “The Guardian News App” (the “App”), either from Guardian Sites or from third party app stores or shops (“Apps”). All of these terms apply to the maximum extent relevant to your use of the Apps (and in particular, the terms of section 6 apply where you are using an App to submit user content to the Guardian Sites).
 
-In addition to the limitations on our liability set out in Section 4, 16 and 17, we shall not be liable for any damage caused to or interference with any equipment or other apps or content of any description.
+In addition to the limitations on our liability set out in Sections 4, 17 and 18, we shall not be liable for any damage caused to, or interference with, any equipment or other apps or content of any description.
 
-**8\. Data protection**
+**8\. App Meter**
+
+The Live App contains a meter, which places a limit on the Guardian Content you may access on the Live App without charge (“App Meter”). If you have an existing subscription with the Guardian which includes access to Guardian Content on the Live App, the App Meter will not apply to you and you will just need to sign into your Guardian account to continue your unlimited access.
+
+The App Meter will specify the amount of free content (“Content Allowance”) that you may access within a specified time period (the “Access Period”) when using the Live App. Your Content Allowance and the Access Period will refresh within the time period shown on the App Meter (the “Refresh Period”).
+
+Once you have reached the Content Allowance within the Access Period, you will not be able to access any further content on the Live App: (i) unless you subscribe to the Live App; or (ii) until a new Content Allowance and Access Period apply following a Refresh Period. Before you incur any charges via the Live App, we will make it clear that charges apply and specify the services that we will provide to you in return for payment.
+
+From time to time, we may vary the Guardian Content that is subject to the App Meter, the Content Allowance, the Access Period and the Refresh Period on the Live App. At times, this may mean that different Guardian Content, Content Allowances, Access Periods and Refresh Periods apply to different users at any time. If you do not agree with changes to any of these things, you must stop using the Live App.
+
+We reserve the right to introduce temporary offers and discounts from time to time, to enable users to access the Live App without an App Meter for a reduced cost or without charge. These promotional offers will be subject to their own terms, which will be published together with the relevant offer, and subject to availability.
+
+All Guardian Content will remain freely available on [theguardian.com](https://www.theguardian.com/uk).
+
+**9\. Data protection**
 
 To find out what personal data we collect and how we use it, please visit our privacy policy at [theguardian.com/help/privacy-policy](https://www.theguardian.com/help/privacy-policy).
 
-**9\. Changes to these terms and conditions of use**
+**10\. Changes to these terms and conditions of use**
 
 Please note that we may change these terms and conditions from time to time at our sole discretion and we reserve the right to do so without your consent. Any revised terms and conditions will be applicable at the time of posting on the Guardian Site. Please ensure that you review these terms and conditions regularly as you will be deemed to have accepted a variation if you continue to use the Guardian Site after it has been posted.
 
-**10\. Governing law & jurisdiction (except for US users)**
+**11\. Governing law & jurisdiction (except for US users)**
 
 These terms and conditions are governed by English law and the parties agree to submit to the exclusive jurisdiction of the English courts, provided that use of the Guardian Site in the United States is governed by the Section below entitled _Governing law & jurisdiction (for US users)._
 
-**11\. Indemnification**
+**12\. Indemnification**
 
 You agree to defend, indemnify, and hold harmless Guardian, its parents, subsidiaries, and affiliates, and each of their respective officers, directors, and employees, in full from any and all damages, losses, demands, claims, liabilities, costs, and expenses (including, but not limited to, loss of profits, loss of revenue and attorneys’ fees and expenses), arising out of, or in connection with, a breach by you or any user of your account of: (i) these terms and conditions or privacy policy or (ii) your obligations, representation and warranties under these terms and conditions.
 
-**12\. No waiver**
+**13\. No waiver**
 
 Our failure to insist upon or enforce any provision of these terms of service shall not be construed as a waiver of any provision or right of Guardian.
 
 **Additional terms of use for users in the United States and Australia**
-------------------------------------------------------------------------
 
-**13\. Additional restrictions on user content for US users**
+**14\. Additional restrictions on user content for US users**
 
 In addition to section 6 above, you agree not to use the Guardian Site to upload, post, e-mail, or otherwise transmit any content that you do not have a right to transmit under any law or regulation or under any contractual or fiduciary relationship (such as insider information, intellectual, proprietary or confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements and to intentionally or unintentionally violate any applicable local, state, national, or international law, including, but not limited to, regulations promulgated by the U.S. Securities and Exchange Commission, any rules of any national or other securities exchange, including, without limitation, the New York Stock Exchange, the American Stock Exchange, or the NASDAQ, and any rules, regulations, orders, directives and the like having the force of law).
 
-**14\. DMCA notice for US users**
+**15\. DMCA notice for US users**
 
 If you are a US copyright owner or an agent of a US copyright owner and believe that any user content or other content on the Guardian Site infringes upon your copyrights, you may submit a notification pursuant to Title 17, United States Code, Section 512(c)(3), the Digital Millennium Copyright Act (“DMCA”) by providing our designated copyright agent with the following information in writing:
 
@@ -135,29 +148,32 @@ If you are a US copyright owner or an agent of a US copyright owner and believe 
 
 Guardian’s designated copyright agent to receive notifications of claimed infringement is: [dmca@theguardian.com](mailto:dmca@theguardian.com). Only DMCA notices should go to the designated copyright agent. You acknowledge that if you fail to comply with all of the requirements of this Section, your DMCA notice may not be valid.
 
-**15\. Governing law & jurisdiction (for US users)**
+**16\. Governing law & jurisdiction (for US users)**
 
 If you have accessed the Guardian Site from the US, these terms and conditions are governed by the laws of the United States of America and the laws of the State of New York. You agree that exclusive jurisdiction for any claim or dispute with Guardian or relating in any way to your use of the Guardian Site resides in the courts of the County of New York, State of New York, and you further agree and expressly consent to the exercise of personal jurisdiction in the courts of the County of New York, State of New York, in connection with any such dispute and including any claim involving Guardian News & Media LLC or its affiliates, subsidiaries, employees, contractors, officers, directors, telecommunication providers and content providers. You agree that any cause of action or claim that you may have with respect to your use of the Guardian Site must be commenced within one year after the act or omission giving rise to the claim or cause of action arose.
 
-**16\. Additional disclaimers (for US and Australian users)**
+**17\. Additional disclaimers (for US and Australian users)**
 
 Visitors to the Guardian Site agree that their use of the Guardian Site is at their own sole risk. The Guardian Site is provided “as is” and “as available,” without warranty of any kind, either express or implied including but not limited to: (i) any warranties concerning the availability, accuracy, appropriateness, reliability, timeliness, or usefulness of the content of the Guardian Site; and (ii) any warranties of title, warranty of non-infringement, or warranties of merchantability or fitness for a particular purpose. Guardian also makes no representations and warranties as to any linked sites and Guardian has no liability or responsibility with respect to your use of such sites. In some instances, content made available on the Guardian Site may represent the opinions and judgments of providers or users, such as user content. Guardian and its affiliates do not endorse nor shall they be responsible or liable for the accuracy or reliability of any statement made on the Guardian Site by anyone other than authorised Guardian employees acting in such capacity.  
+
 This disclaimer of liability applies to any damages or injuries caused by the Guardian Site, including, without limitation, those damages or injuries occurring as a result of: (i) any error, omission, deletion, or defect in the content available on the Guardian Site; or (ii) any failure of performance, error, omission, interruption, deletion, defect, delay in operation or transmission, computer virus, communication line failure, theft or destruction of records, information or data, unauthorised access to, alteration of, or use of records, information or data, whether for breach of contract, tort, negligence, defamation, or any other cause of action. Guardian does not warrant or guarantee that access to the Guardian Site will be uninterrupted or error-free.  
+  
+
 Applicable law may not allow the exclusion of implied warranties, so the above exclusion may not apply to you.
 
-**17\. Limitation of liability (for US and Australian users)**
+**18\. Limitation of liability (for US and Australian users)**
 
 YOU ACKNOWLEDGE AND AGREE THAT, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, IN NO EVENT WILL GUARDIAN OR ITS AFFILIATES, INCLUDING, WITHOUT LIMITATION, THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, SUCCESSORS AND ASSIGNS, BE LIABLE TO YOU OR ANY OTHER PARTY FOR ANY DIRECT OR INDIRECT LOSS, DAMAGE, COST, EXPENSE OR LIABILITY OF ANY KIND (“LOSS”) ARISING IN ANY WAY OUT OF OR IN CONNECTION WITH THE AVAILABILITY, USE, RELIANCE ON, OR INABILITY TO USE THE GUARDIAN SITE, INCLUDING (WITHOUT LIMITATION): (i) DAMAGES FOR BUSINESS INTERRUPTION, LOSS OF BUSINESS AND OTHER PROFITS, LOSS OF PROGRAMS, COST OF REPLACING EQUIPMENT OR SOFTWARE OR LOSS OF RECORDS, INFORMATION OR DATA, LOSS OF USE OF DATA, LOSS OF REVENUE, LOSS OF GOODWILL, LOSS OF CUSTOMERS, LOSS OF OR DAMAGE TO REPUTATION, LOSS OF CAPITAL, DOWNTIME COSTS, LOSS UNDER OR IN RELATION TO ANY OTHER CONTRACT, OR LOSS OF ANTICIPATED SAVINGS OR BENEFITS; (ii) ANY INDIRECT, SPECIAL, EXEMPLARY, PUNITIVE, INCIDENTAL OR CONSEQUENTIAL LOSS; OR (iii) ANY LOSS ATTRIBUTABLE TO ERRORS, OMISSIONS, OR OTHER INACCURACIES IN THE GUARDIAN SITE. THE EXCLUSION OF LIABILITY IN THIS SECTION 17 APPLIES EVEN IF GUARDIAN SHALL HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS.
 
 BECAUSE SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR PARTICULAR KINDS OF LOSS, IN SUCH STATES OR JURISDICTIONS, GUARDIAN’S LIABILITY SHALL BE LIMITED TO THE EXTENT PERMITTED BY LAW (THEREBY MINIMIZING GUARDIAN’S LIABILITY TO YOU TO THE LOWEST AMOUNT THAT APPLICABLE LAW PERMITS).
 
-**18\. Exclusion of warranties (for Australian users)**
+**19\. Exclusion of warranties (for Australian users)**
 
 The Australian Consumer Law may confer certain rights and remedies on you in relation to the provision by Guardian of goods and services under these terms and conditions. Notwithstanding the disclaimers and limitations of liability in Sections 4, 16 and 17 above, these terms and conditions do not exclude, restrict or modify the application of any condition, warranty, guarantee, right or remedy conferred by or implied under any provision of the Australian Consumer Law or any other statute where to do so would: (i) contravene the relevant statute; or (ii) cause any part of these terms and conditions to be void and/or unenforceable (“Non-Excludable Obligation”).
 
 Except in relation to Non-Excludable Obligations, all conditions, warranties and other provisions implied or conferred by statute, custom, or the general law that impose any liability or obligation on Guardian are expressly excluded under these terms and conditions.
 
-**19\. Non-Excludable Obligations (for Australian users)**
+**20\. Non-Excludable Obligations (for Australian users)**
 
 In relation to Non-Excludable Obligations (other than a guarantee as to title, encumbrances or quiet possession conferred by the Australian Consumer Law), except for goods or services of a kind ordinarily acquired for personal, domestic or household use or consumption (in respect of which our liability is not so limited under these terms and conditions), Guardian’s liability to you for a failure to comply with any Non-Excludable Obligation is limited to: (i) in the case of services, the lowest of the cost of supplying the services again and payment of the cost of having the services supplied again; and (ii) in the case of goods, the lowest of the cost of replacing the goods, supplying equivalent goods or having the goods repaired, or payment of the cost of replacing the goods, supplying equivalent goods or having the goods repaired.
 
@@ -198,5 +214,7 @@ In Section 6 the licence granted in respect of graphical and photographic works 
 22 February 2023: Various amendments, including to draw users’ attention to specific sections, to make clear that reproduction and/or extraction of Guardian content for commercial text and data mining is not permitted and that the Guardian is the sole seller of advertising on the Guardian Site.
 
 09 March 2023: Section 2 amended to update account termination process
+
+10 March 2023: New section 8 to reflect the introduction of the App Meter, and corresponding changes made to section 7. Subsequent paragraphs renumbered.
 
 © 2013 Guardian News and Media Limited or its affiliated companies. All rights reserved.
