@@ -7,25 +7,23 @@ Terms of Use
 
  Add languages
 
-* [Page](https://foundation.wikimedia.org/wiki/Terms_of_Use/en "View the content page [c]")
-* [Discussion](https://foundation.wikimedia.org/wiki/Talk:Terms_of_Use/en "Discussion about the content page [t]")
+* [Policy](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use)
+* [Discussion](https://foundation.wikimedia.org/wiki/Policy_talk:Terms_of_Use "Discussion about the content page [t]")
 
  English
 
-* [Read](https://foundation.wikimedia.org/wiki/Terms_of_Use/en)
-* [View source](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use/en&action=edit "This page is protected.
+* [Read](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use)
+* [View source](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=edit "This page is protected.
     You can view its source [e]")
-* [View history](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use/en&action=history "Past revisions of this page [h]")
+* [View history](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=history "Past revisions of this page [h]")
 
  More
 
-* [Read](https://foundation.wikimedia.org/wiki/Terms_of_Use/en)
-* [View source](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use/en&action=edit)
-* [View history](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use/en&action=history)
+* [Read](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use)
+* [View source](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=edit)
+* [View history](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=history)
 
 From Wikimedia Foundation Governance Wiki
-
-< [Terms of Use](https://foundation.wikimedia.org/wiki/Terms_of_Use "Terms of Use")
 
 (Redirected from [Terms of Use](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use&redirect=no "Terms of Use"))
 
@@ -325,7 +323,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 ![](//foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Terms\_of\_Use/en&oldid=130886](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use/en&oldid=130886)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=165166](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=165166)"
 
 [Categories](https://foundation.wikimedia.org/wiki/Special:Categories "Special:Categories"):
 
