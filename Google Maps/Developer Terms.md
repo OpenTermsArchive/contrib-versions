@@ -334,7 +334,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * © Principauté de Monaco
             
-        * Contains information from [IDFM Open Data](https://data.iledefrance-mobilites.fr/page/home/), which is made available here under the Open Data License (ODbL). Modifications and improvements to the database made available in GTFS format [here.](https://gtech-transit-prod.apigee.net/v1/google/gtfs/odbl/paris.zip?apikey=BasyG6OFZXgXnzWdQLTwJFGcGmeOs204&secret=gNo6F5PhQpsGRBCK)
+        * Contains information from Ile-de-France Mobilités open data: [source 1](https://prim.iledefrance-mobilites.fr/fr/donnees-statiques/offre-horaires-tc-gtfs-idfm), [source 2](https://prim.iledefrance-mobilites.fr/fr/donnees-statiques/informations-trafic), [source 3](https://prim.iledefrance-mobilites.fr/fr/donnees-dynamiques/idfm-ivtr-requete_globale), [source 4](https://prim.iledefrance-mobilites.fr/fr/donnees-dynamiques/idfm-ivtr-requete_unitaire), [source 5](https://prim.iledefrance-mobilites.fr/fr/donnees-dynamiques/idfm-ivtr-info_trafic) subject to [Licence Mobilités](https://cloud.fabmob.io/s/eYWWJBdM3fQiFNm) under which share alilke data updates and modifications are made available on the French National Access Point
             
         * © DIREN Centre
             
@@ -548,6 +548,18 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Métropole de Toulouse - [https://www.etalab.gouv.fr/licence-ouverte-open-licence/](https://www.etalab.gouv.fr/licence-ouverte-open-licence/)
             
         * Métropole Européenne de Lille - [https://www.etalab.gouv.fr/licence-ouverte-open-licence/](https://www.etalab.gouv.fr/licence-ouverte-open-licence/)
+            
+        * Réseau urbain Tact. ([https://transport.data.gouv.fr/datasets/gtfs-du-reseau-tact](https://transport.data.gouv.fr/datasets/gtfs-du-reseau-tact))
+            
+        * Réseau urbain T2C. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-de-transport-public-gtfs-du-syndicat-mixte-des-transports-en-commun-de-lagglomeration-clermontoise-smtc-ac](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-de-transport-public-gtfs-du-syndicat-mixte-des-transports-en-commun-de-lagglomeration-clermontoise-smtc-ac))
+            
+        * Réseau urbain Envia. ([https://transport.data.gouv.fr/datasets/reseau-envia](https://transport.data.gouv.fr/datasets/reseau-envia))
+            
+        * Réseau urbain de la zone Centre (CACEM). ([https://transport.data.gouv.fr/datasets/gtfs-urbain-de-la-zone-centre](https://transport.data.gouv.fr/datasets/gtfs-urbain-de-la-zone-centre))
+            
+        * Réseau urbain de la zone Sud (CAESM). ([https://transport.data.gouv.fr/datasets/gtfs-urbain-de-la-zone-sud](https://transport.data.gouv.fr/datasets/gtfs-urbain-de-la-zone-sud))
+            
+        * Réseau urbain de la zone Nord (CAP NORD). ([https://transport.data.gouv.fr/datasets/gtfs-urbain-de-la-zone-nord-cap-nord](https://transport.data.gouv.fr/datasets/gtfs-urbain-de-la-zone-nord-cap-nord))
             
     11. **Germany**
         * Bundesamt für Kartographie und Geodäsie - © Vermessungsverwaltungen der Bundesländer und Bundesamt für Kartographie und Geodäsie: [/www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
