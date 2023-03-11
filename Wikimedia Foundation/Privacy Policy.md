@@ -411,23 +411,23 @@ This version was approved by [Amanda Keton](https://meta.wikimedia.org/wiki/User
 * **[Privacy policy (June 2006 - August 2008)](https://foundation.wikimedia.org/wiki/Special:PermanentLink/14088 "Special:PermanentLink/14088"): effective from June 21, 2006 until August 19, 2008**
 * **[Privacy policy (April 2005 to June 2006)](https://foundation.wikimedia.org/wiki/Special:PermanentLink/4834 "Special:PermanentLink/4834"): effective from April 2005 until June 21, 2006**
 
-[Template:Edi](https://foundation.wikimedia.org/w/index.php?title=Template:Edi&action=edit&redlink=1 "Template:Edi (page does not exist)")
+[+/-](https://foundation.wikimedia.org/w/index.php?title=Template:Privacy_policy_navigation_2&action=edit)
 
 [Translate](https://foundation.wikimedia.org/w/index.php?title=Special:Translate/page-Template:Privacy_policy_navigation_2&language=en&action=page)
 
-<translate> Privacy-related pages</translate>
+Privacy-related pages
 
-* [<translate> Privacy policy</translate>](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy "Special:MyLanguage/Policy:Privacy policy")
-* [<translate> FAQ</translate>](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/FAQ "Special:MyLanguage/Policy:Privacy policy/FAQ")
-* [<translate> Glossary of key terms</translate>](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms")
-* [<translate> Subpoena FAQ</translate>](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Subpoena_FAQ "Special:MyLanguage/Policy:Privacy policy/Subpoena FAQ")
-* [<translate> Data retention guidelines</translate>](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_retention_guidelines "m:Special:MyLanguage/Data retention guidelines")
-* [<translate> Cookie statement</translate>](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement "Special:MyLanguage/Policy:Cookie statement")
-* [<translate> Access to nonpublic personal data</translate>](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy "Special:MyLanguage/Policy:Access to nonpublic personal data policy")
-    * [<translate> Confidentiality agreement</translate>](https://meta.wikimedia.org/wiki/Special:MyLanguage/Policy:Confidentiality_agreement_for_nonpublic_information "m:Special:MyLanguage/Policy:Confidentiality agreement for nonpublic information")
-    * [<translate> How to sign</translate>](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Confidentiality_agreement_for_nonpublic_information/How_to_sign "Special:MyLanguage/Policy:Confidentiality agreement for nonpublic information/How to sign")
-    * [<translate> Underage exemptions</translate>](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy/Underage_exemptions "Special:MyLanguage/Policy:Access to nonpublic personal data policy/Underage exemptions")
-* [<translate> Donor privacy policy</translate>](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Donor_privacy_policy "Special:MyLanguage/Policy:Donor privacy policy")
+* [Privacy policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy "Special:MyLanguage/Policy:Privacy policy")
+* [FAQ](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/FAQ "Special:MyLanguage/Policy:Privacy policy/FAQ")
+* [Glossary of key terms](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms")
+* [Subpoena FAQ](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Subpoena_FAQ "Special:MyLanguage/Policy:Privacy policy/Subpoena FAQ")
+* [Data retention guidelines](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_retention_guidelines "m:Special:MyLanguage/Data retention guidelines")
+* [Cookie statement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement "Special:MyLanguage/Policy:Cookie statement")
+* [Access to nonpublic personal data](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy "Special:MyLanguage/Policy:Access to nonpublic personal data policy")
+    * [Confidentiality agreement](https://meta.wikimedia.org/wiki/Special:MyLanguage/Policy:Confidentiality_agreement_for_nonpublic_information "m:Special:MyLanguage/Policy:Confidentiality agreement for nonpublic information")
+    * [How to sign](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Confidentiality_agreement_for_nonpublic_information/How_to_sign "Special:MyLanguage/Policy:Confidentiality agreement for nonpublic information/How to sign")
+    * [Underage exemptions](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy/Underage_exemptions "Special:MyLanguage/Policy:Access to nonpublic personal data policy/Underage exemptions")
+* [Donor privacy policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Donor_privacy_policy "Special:MyLanguage/Policy:Donor privacy policy")
 
 ![](//foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
