@@ -114,22 +114,36 @@ For [Sonic.net](https://www.sonic.com/), LLC services where customer premise eq
 8\. Technical Support Policy
 ============================
 
-The function of the [Sonic.net](https://www.sonic.com/), LLC technical support staff is to assist customers with initial connection, Internet browser and email account setup. Support is only available for computers running recent versions of Macintosh or Windows operating systems. [Sonic.net](https://www.sonic.com/), LLC does not offer over-the-phone tech support for issues such as CGI programming, Linux use, your web site, or any other issue not directly related to your dialing software or to the basic functions of your web browser and email program. While at its discretion the support staff may sometimes assist our customers with non-connectivity or non-email issues, any such extra service is strictly 'added value' service and provision of such service does not obligate [Sonic.net](https://www.sonic.com/), LLC to continue to provide such service. [Sonic.net](https://www.sonic.com/), LLC also provides some online discussion groups (web forums) [here](https://forums.sonic.net/); these are an excellent resource and answers to many questions that lie outside of the [Sonic.net](https://www.sonic.com/), LLC support model may be found in these forums.
+The function of the [Sonic.net](https://www.sonic.com/), LLC technical support staff is to assist customers with initial connection, Internet browser, and email account setup. Support is only available for computers running recent versions of Macintosh or Windows operating systems. [Sonic.net](https://www.sonic.com/), LLC does not offer over-the-phone tech support for issues such as CGI programming, Linux use, your website, or any other issue not directly related to your dialing software or to the basic functions of your web browser and email program. While at its discretion, the support staff may sometimes assist our customers with non-connectivity or non-email issues, any such extra service is strictly 'added value service, and provision of such service does not obligate [Sonic.net](https://www.sonic.com/), LLC to continue to provide such service. [Sonic.net](https://www.sonic.com/), LLC also provides some online discussion groups (web forums) [here](https://forums.sonic.net/); these are an excellent resource, and answers to many questions that lie outside of the [Sonic.net](https://www.sonic.com/), LLC support model may be found in these forums.
 
 [Sonic.net](https://www.sonic.com/), LLC will use its best efforts to provide all services to get your computer connected to the Internet but can not be held responsible for hardware or software malfunctions or assist in servicing or repairing your equipment. In such cases, the technical support staff will gladly refer you to outside sources for assistance. Customers should have a copy of their current operating system available when calling technical support; there will be limits to the amount of assistance that technical support representatives can offer if you do not have a copy of your current operating system. [Sonic.net](https://www.sonic.com/), Inc. reserves the right to cease providing over-the-phone technical support to any customer.
 
 Please call the [Sonic.net](https://www.sonic.com/), LLC tech support number at 1-707-547-3400 if you need assistance in the Santa Rosa calling area. If you are outside the Santa Rosa calling area, you can contact us at 1-888-766-4233. Technical support can also be reached via email at [support@sonic.net](mailto:support@sonic.net).
 
-You are entitled to free assistance with setting up your connection, an Internet browser (Internet Explorer or Safari) and an email client (Windows live Mail, Microsoft Outlook, Thunderbird, or Apple Mail) on one computer. Support is only available for computers running recent versions of the Macintosh or Windows operating systems. We offer telephone technical assistance everyday, 8am-10pm (closed major holidays and from 2pm - 2:30pm on Fridays).
+You are entitled to free assistance with setting up your connection, an Internet browser (Internet Explorer or Safari), and an email client (Windows live Mail, Microsoft Outlook, Thunderbird, or Apple Mail) on one computer. Support is only available for computers running recent versions of the Macintosh or Windows operating systems. We offer telephone technical assistance every day, 8 am-10 pm (closed on major holidays and from 2pm - 2:30 pm on Fridays).
 
-If you can email, we encourage you to write to [support@sonic.net](mailto:support@sonic.net) for assistance. If you are able to get online and have other questions, the answers may be in our support pages located at [http://www.sonic.net/support/](http://www.sonic.net/support) - we encourage you to check there first. Also, the help files in the program you are using may have the answers to your questions so please do investigate these resources before calling tech support.
+If you can email, we encourage you to write to [support@sonic.net](mailto:support@sonic.net) for assistance. If you are able to get online and have other questions, the answers may be in our support pages located at [http://www.sonic.net/support/](http://www.sonic.net/support) - we encourage you to check there first. Also, the help files in the program you are using may have the answers to your questions, so please do investigate these resources before calling tech support.
 
 9\. Text Messaging (SMS)
 ========================
 
 Sonic may send you text messages about your service to your mobile number on file. Any telephone number you have with or provide to Sonic will be eligible to receive text messages.
 
-You may opt out of receiving SMS by replying STOP to a message you receive. Note that if you opt out you may miss important communications regarding your account or service, such as communications regarding outages or payment issues.
+You may opt out of receiving SMS by replying STOP to a message you receive. Note that if you opt-out, you may miss important communications regarding your account or service, such as communications regarding outages or payment issues.
+
+**Sonic Outage Notification System**
+
+This service provides outage notifications and updates for your sonic internet service.
+
+ You can cancel the SMS service at any time. Just text "STOP" to the shortcode. After you send the SMS message "STOP" to us, we will send you an SMS message to confirm that you have been unsubscribed. After this, you will no longer receive SMS messages from us. If you want to join again, sign up as you did the first time, and we will start sending SMS messages to you again.
+
+If you are experiencing issues with the messaging program, you can reply with the keyword HELP for more assistance, or you can get help directly at [support@sonic.com](mailto:support@sonic.com).
+
+Carriers are not liable for delayed or undelivered messages
+
+As always, message and data rates may apply for any messages sent to you from us and to us from you. You will only receive messages from this number directly related to the status of your internet service. If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
+
+If you have any questions regarding privacy, please read our privacy policy: [https://help.sonic.com/hc/en-us/articles/235963988-Sonic-net-Policies#sonic.net,\_llc.\_general\_policy](https://help.sonic.com/hc/en-us/articles/235963988-Sonic-net-Policies#sonic.net,_llc._general_policy "https://help.sonic.com/hc/en-us/articles/235963988-sonic-net-policies#sonic.net,_llc._general_policy").
 
 10\. Bandwidth and Disk use quotas
 ==================================
