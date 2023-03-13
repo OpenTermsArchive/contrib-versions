@@ -1,7 +1,20 @@
-Branding Guidelines: WebSearch, AdSense for Search, AdSense for Shopping, and Product Placement Ads
-===================================================================================================
+Branding Guidelines: WebSearch, AdSense for Search, and AdSense for Shopping
+============================================================================
 
-**Revised:** February 16, 2017
+**Revised:** March 13, 2023
+
+Introduction
+------------
+
+These guidelines apply to the use of Google's WebSearch (WS), AdSense for Search (AFS), and AdSense for Shopping (AFSH) services.
+
+For clarity, for the purposes of these guidelines:
+
+* "ads" means advertisements provided by Google. It does not mean any advertisements (or other advertising products or services) that are not provided by Google;
+* "content" means everything presented to users by you, including publisher-generated content, syndicated content, user-generated content, organic search results, advertisements (whether provided by Google or a third party), and links to other sites or apps; and
+* where it has been indicated that Google’s approval is required, such requirement only applies to the use of Google services, including ads provided by Google.
+
+You must ensure that your use of Google services, including any content on properties where Google services are implemented, is in compliance with these policies. Google may take corrective action(s) for any non-compliance, including but not limited to the following: (1) suspending provision of any Google services, (2) requiring you to cease or modify the use or implementation of any Google services, or (3) exercising any of its rights under the applicable Google Services Agreement, or any other relevant agreement between you and Google.
 
 Display of search box
 ---------------------
@@ -40,7 +53,7 @@ Even if there is no other content or sponsored listings on the page, the header 
 
 If a page contains any content in addition to Google search results, all content must be labeled in such a way as to enable users to clearly distinguish between Google-provided and non-Google provided content.
 
-This policy applies regardless of whether the other content is comprised of Google AdSense for Search (“AFS”) ads, Google AdSense for Shopping (“AFSH”) ads, or non-Google provided sponsored listings or non-Google provided search results.
+This policy applies regardless of whether the other content is comprised of ads (delivered via AdSense for Search or AdSense for Shopping), or non-Google provided sponsored listings or non-Google provided search results.
 
 Display of sponsored listings
 -----------------------------
@@ -49,22 +62,22 @@ Display of sponsored listings
 
 * Sponsored listings (AFS ads, AFSH ads, or non-Google provided sponsored listings) must always be clearly identified as separate from Google-provided search results.
 * Sponsored listings (AFS ads, AFSH ads, or non-Google provided sponsored listings) may not be intermingled with Google-provided search results.
-* AFS ads or AFSH ads may not be intermingled with non-Google provided search results, unless approved by Google in writing.
-* You must include all elements of AFS ads, AFSH ads, or PPA ads and the full text of the listings.
-* You must preserve the ordering of AFS ads or AFSH ads and must not implement ads in a way that could lead to confusion regarding ads position ranking.
-* You may not alter the content or format received in AFS or AFSH response in any way, other than via standard service functionality.
-* Each AFS ad or AFSH ad must be shown only once, unless otherwise approved by Google in writing.
+* Ads may not be intermingled with non-Google provided search results, unless approved by Google in writing.
+* You must include all elements of ads and the full text of the listings.
+* You must preserve the ordering of ads and must not implement ads in a way that could lead to confusion regarding ads position ranking.
+* You may not alter the content or format received in ad response in any way, other than via standard service functionality.
+* Each ad must be shown only once, unless otherwise approved by Google in writing.
 
-### Labeling of Google AFS ads
+### Labeling of AFS ads
 
-By default, Google will provide the appropriate label within the AFS ad frame. Where you have been approved to manage your own labeling, these guidelines must be followed to properly identify sponsored listings on the site:
+By default, Google will provide the appropriate label within the AFS ad frame. Where you have been approved to manage your own labeling, these guidelines must be followed to properly identify the ads:
 
 * _Labeling_: AFS ads must be clearly labeled as, “Ads by Google,” “Ads,” "Sponsored Links," "Sponsored Listings" or "Paid Listings." Wording other than these is subject to approval by Google.
 * _Location_: Unless otherwise approved by Google, AFS ad attribution must be displayed in the upper left-hand corner of the ad unit on desktop implementations (for right-to-left languages, upper right-hand corner), and in the upper right-hand or upper left-hand corner of the ad unit on mobile implementations.
 
-### Labeling of Google AFSH ads
+### Labeling of AFSH ads
 
-By default, Google will provide the appropriate label within the AFSH ad frame. Where you have been approved to manage your own labeling or where a double attribution is required (e.g., multiple format), these guidelines must be followed to properly identify sponsored listings on the site:
+By default, Google will provide the appropriate label within the AFSH ad frame. Where you have been approved to manage your own labeling or where a double attribution is required (e.g., multiple format), these guidelines must be followed to properly identify the ads:
 
 * _Desktop and Tablet Labeling:_ AFSH ads must be clearly labeled as, “Ads," "Sponsored Links," or "Sponsored Products." Wording other than this is subject to approval by Google.
 
@@ -74,7 +87,7 @@ In order to distinguish non-Google sponsored listings from Google-provided searc
 
 ### Differentiation between ads and results
 
-AFS ads and AFSH ads must always be clearly differentiated from any search results on the page. In addition to clearly and prominently labeling ads, here are some techniques that you can use to differentiate Google ads from search results:
+Ads must always be clearly differentiated from any search results on the page. In addition to clearly and prominently labeling ads, here are some techniques that you can use to differentiate ads from search results:
 
 * Shading the ad unit background a color that clearly contrasts with the page background color
 * Placing a border around the ad unit
