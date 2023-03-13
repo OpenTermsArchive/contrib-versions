@@ -397,7 +397,7 @@ Honor Code
 
 * * *
 
-_Effective as of January 1, 2023._
+_Effective as of January 1, 2022_
 
 All users participating in Content Offerings must agree to abide by the following code:
 
