@@ -1,7 +1,7 @@
 How we use cookies
 ------------------
 
-At Deliveroo we and our third-party partners use cookies and other similar technologies described in this Cookie Policy to allow our websites and apps to work, to analyse and improve our websites, apps and communications, to personalise your experience on Deliveroo and to show you relevant advertising. Please read this Cookie Policy together with our [Customer](https://deliveroo.co.uk/privacy) and/or [Rider](https://rider.deliveroo.co.uk/rider-privacy) Privacy Policies for details of what that means for you.
+At Deliveroo we and our third-party partners use cookies and other similar technologies described in this Cookie Policy to allow our websites and apps to work, to analyse and improve our websites, apps and communications, to personalise your experience on Deliveroo and to show you relevant advertising. Please read this Cookie Policy together with our [Customer](https://deliveroo.ie/privacy) and/or [Rider](https://rider.deliveroo.ie/rider-privacy) Privacy Policies for details of what that means for you.
 
 What are cookies and similar technologies?
 ------------------------------------------
@@ -21,8 +21,8 @@ How long do cookies last?
 
 Cookies usually have expiry dates that determine how long they stay in your browser or on your device:
 
-*   Session cookies are temporary cookies that expire automatically whenever you close your browser.
-*   Persistent cookies usually stay in your browser for a set period, or until you manually delete them.
+* Session cookies are temporary cookies that expire automatically whenever you close your browser.
+* Persistent cookies usually stay in your browser for a set period, or until you manually delete them.
 
 You can learn more about the duration of individual cookies we use in our Cookies Settings.
 
@@ -35,16 +35,16 @@ You can also manage and delete cookies through most internet browsers by changin
 
 Here are the instructions for desktop browsers:
 
-*   [Google Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop)
-*   [Firefox](https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox)
-*   [Safari](https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
-*   [Internet Explorer](https://support.microsoft.com/help/17442/windows-internet-explorer-delete-manage-cookies) 
+* [Google Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop)
+* [Firefox](https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox)
+* [Safari](https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
+* [Internet Explorer](https://support.microsoft.com/help/17442/windows-internet-explorer-delete-manage-cookies) 
 
 And here are the instructions for mobile browsers:
 
-*   [Google Chrome on Android](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid)
-*   [Firefox on Android](https://support.mozilla.org/en-US/kb/clear-your-browsing-history-and-other-personal-data)
-*   [Safari on iOS](https://support.apple.com/en-gb/HT201265)
+* [Google Chrome on Android](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid)
+* [Firefox on Android](https://support.mozilla.org/en-US/kb/clear-your-browsing-history-and-other-personal-data)
+* [Safari on iOS](https://support.apple.com/en-gb/HT201265)
 
 To opt out of being tracked by Google Analytics across all websites, visit [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout).
 
@@ -77,15 +77,15 @@ These cookies (also known as targeting cookies or social media cookies) may be s
 
 Information about our third party partners and how they collect and use your information through their cookies, and how to further control your ad preferences (where offered by the third party), is available in the links below:
 
-*   [Google](https://policies.google.com/technologies/ads?hl=en-GB)
-*   [Microsoft/Bing](https://account.microsoft.com/privacy/ad-settings/signedout?refd=www.bing.comru%3Dhttps:%2F%2Faccount.microsoft.com%2Fprivacy%2Fad-settings%3Frefd%3Dwww.bing.com&lang=en-GB)
-*   [Facebook](https://en-gb.facebook.com/help/109378269482053/?helpref=hc_fnav)
-*   [Snapchat](https://www.snap.com/en-GB/cookie-policy/#settings-links)
-*   [LinkedIn](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out?trk=)
-*   [Twitter](https://help.twitter.com/en/rules-and-policies/twitter-cookies)
-*   [theTradeDesk](https://www.thetradedesk.com/general/privacy)
-*   [Captify](https://www.captify.co.uk/privacy-policy-opt/)
-*   [TikTok](https://ads.tiktok.com/i18n/official/policy/privacy)
+* [Google](https://policies.google.com/technologies/ads?hl=en-GB)
+* [Microsoft/Bing](https://account.microsoft.com/privacy/ad-settings/signedout?refd=www.bing.comru%3Dhttps:%2F%2Faccount.microsoft.com%2Fprivacy%2Fad-settings%3Frefd%3Dwww.bing.com&lang=en-GB)
+* [Facebook](https://en-gb.facebook.com/help/109378269482053/?helpref=hc_fnav)
+* [Snapchat](https://www.snap.com/en-GB/cookie-policy/#settings-links)
+* [LinkedIn](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out?trk=)
+* [Twitter](https://help.twitter.com/en/rules-and-policies/twitter-cookies)
+* [theTradeDesk](https://www.thetradedesk.com/general/privacy)
+* [Captify](https://www.captifytechnologies.com/cookie-notice/)
+* [TikTok](https://ads.tiktok.com/i18n/official/policy/privacy)
 
 How we track emails
 -------------------
