@@ -15,8 +15,8 @@ To report an issue or concern regarding closed captioning on foxnews.com, please
 
 Written complaints concerning captioning on Fox News programs made available online or through mobile apps may be sent to:
 
-* Paula Firestone
-* Vice President Program Operations
+* Michael Ser
+* Vice President, Technical Operations
 * Fox News Network
 * 1211 Avenue of the Americas
 * New York, NY 10036
