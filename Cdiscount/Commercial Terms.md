@@ -1402,7 +1402,7 @@ Il en sera de même dans le cas où le Bénéficiaire ne pourrait bénéficier d
   
 **
 
-Le privilège « Ma cagnotte à volonté » (ci-après le « **Privilège** ») offre la possibilité pour l’Abonné de cumuler du crédit sur la Cagnotte consultable dans son Espace Client pour l’achat de produits éligibles sur le Site (ci-après les « Offres Site »).   
+Le privilège « Ma cagnotte é volonté » (ci-après le « **Privilège** ») offre la possibilité pour l’Abonné de cumuler du crédit sur la Cagnotte consultable dans son Espace Client pour l’achat de produits éligibles sur le Site (ci-après les « Offres Site »).   
   
  
 
