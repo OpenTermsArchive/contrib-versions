@@ -315,4 +315,4 @@ Zillow Closing Services, LLC, Zillow Closing Services AZNV, LLC and Zillow Closi
 
 See our previous Terms of Use:
 
-[2021 Terms of Use](https://wp-tid.zillowstatic.com/bedrock/app/uploads/sites/21/2022/09/Zillow-Terms-of-Use-Jan-2021.pdf)
+[2021 Terms of Use](https://www.zillowgroup.com/wp-content/uploads/sites/21/2022/09/Zillow-Terms-of-Use-Jan-2021.pdf)
