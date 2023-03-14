@@ -2131,7 +2131,7 @@ _ARTICLE 10 :  FORCE MAJEURE ET CAS FORTUIT_
   
 10.1    Cdiscount sera libérée de ses obligations pour tout événement constitutif d'une force majeure ou d’un cas fortuit qui empêcherait ou retarderait la livraison des Produits.   
   
-10.2    Dans l’hypothèse où toutes les commandes seraient totalement suspendues pendant une durée supérieure à un (1) mois en raison d’un cas de force majeure ou d’un cas fortuit, chaque Partie aura la faculté de résilier les commandes suspendues, sans devoir aucune indemnité à ce titre à l’autre Partie, à la condition de notifier cette résiliation à l’autre partie par lettre recommandée avec accusé de réception.
+10.2    Dans l'hypothèse où toutes les commandes seraient totalement suspendues pendant une durée supérieure à un (1) mois en raison d’un cas de force majeure ou d’un cas fortuit, chaque Partie aura la faculté de résilier les commandes suspendues, sans devoir aucune indemnité à ce titre à l’autre Partie, à la condition de notifier cette résiliation à l’autre partie par lettre recommandée avec accusé de réception.
 
 _ARTICLE 11 :  CONFIDENTIALITE_
 -------------------------------
