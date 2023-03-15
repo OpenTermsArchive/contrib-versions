@@ -48,7 +48,7 @@ We respect the intellectual property rights of others. If you believe that any c
 (e) a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and  
 (f) a statement by you, under penalty of perjury, that the information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.  
 Our designated Copyright Agent for notice of claims of copyright infringement is:  
-Copyright Agent DistroKid LLC 34 Third Ave #183 New York, NY 10003 Email: [\[email protected\]](https://distrokid.com/cdn-cgi/l/email-protection)  
+Copyright Agent DistroKid LLC 34 Third Ave #183 New York, NY 10003 Email: le[\[email protected\]](https://distrokid.com/cdn-cgi/l/email-protection)  
 In accordance with the DMCA and other applicable law, DistroKid has adopted a policy of terminating, in appropriate circumstances and in DistroKid's sole discretion, users who are deemed to be repeat infringers. For the avoidance of doubt, the foregoing sentence in no way limits DistroKid's right to limit access to the Services and/or terminate the Accounts of any users for any reason, in DistroKid's sole discretion, including, without limitation, in the case of users who infringe, or allegedly infringe, any Intellectual Property Rights of others, whether or not there is any repeat infringement.  
 Please be advised that pursuant to federal law you may be held liable for damages if you make material misrepresentations in a Notice. Thus, if you are not sure that material located on or linked to by the Services infringes your copyright, you should consider first contacting an attorney.  
 **Links to Third-Party Websites or Services**  
