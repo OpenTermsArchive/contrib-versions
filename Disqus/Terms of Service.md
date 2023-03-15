@@ -1,10 +1,10 @@
 DISQUS TERMS
-------------
+============
 
 **_If you create an account with Disqus, you agree to the User Terms of Service. If you are using Disqus comments on your website you are a “Publisher” and you also agree to the [Publisher Terms of Service](https://help.disqus.com/terms-and-policies/terms-of-service#publisher-terms-of-service-agreement)_** **_which follow the User Terms of Service below._**
 
 DISQUS USER TERMS OF SERVICE.
------------------------------
+=============================
 
 Disqus, Inc. (“Disqus”, “we”, “us” or “our”) offers an online public comment sharing platform where you may login and create profiles to participate in conversations with peers and enjoy an interactive experience. These Terms of Service (the “Terms”) govern your use of and access to our comment sharing platform, software and website (collectively the “Service”) by using the Service you understand and agree to be bound by these Terms. 
 
@@ -143,7 +143,7 @@ Contact Disqus:
 [Click here](https://help.disqus.com/customer/portal/articles/466259-privacy-policy) to view the Privacy Policy.
 
 PUBLISHER TERMS OF SERVICE AGREEMENT
-------------------------------------
+====================================
 
 **This Publisher Terms of Service Agreement (the, "Agreement")  is entered into by and between Disqus, Inc. (“Licensor”) and the publisher ("Publisher") as of the date of executing this Agreement electronically through the Licensor’s website (Effective Date"). Therefore, in consideration of the mutual covenants of the parties and other valuable considerations, the sufficiency and receipt of which is hereby acknowledged, the parties agree as follows:**
 
