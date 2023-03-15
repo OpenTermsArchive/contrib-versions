@@ -413,7 +413,7 @@ This version was approved by [Amanda Keton](https://meta.wikimedia.org/wiki/User
 
 [+/-](https://foundation.wikimedia.org/w/index.php?title=Template:Privacy_policy_navigation_2&action=edit)
 
-[Translate](https://foundation.wikimedia.org/w/index.php?title=Special:Translate/page-Template:Privacy_policy_navigation_2&language=en&action=page)
+[translate](https://foundation.wikimedia.org/w/index.php?title=Special:Translate/page-Template:Privacy_policy_navigation_2&language=en&action=page)
 
 Privacy-related pages
 
@@ -421,12 +421,13 @@ Privacy-related pages
 * [FAQ](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/FAQ "Special:MyLanguage/Policy:Privacy policy/FAQ")
 * [Glossary of key terms](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms")
 * [Subpoena FAQ](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Subpoena_FAQ "Special:MyLanguage/Policy:Privacy policy/Subpoena FAQ")
-* [Data retention guidelines](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_retention_guidelines "m:Special:MyLanguage/Data retention guidelines")
+* [Data retention guidelines](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Data_retention_guidelines "Special:MyLanguage/Legal:Data retention guidelines")
 * [Cookie statement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement "Special:MyLanguage/Policy:Cookie statement")
 * [Access to nonpublic personal data](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy "Special:MyLanguage/Policy:Access to nonpublic personal data policy")
     * [Confidentiality agreement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Confidentiality_agreement_for_nonpublic_information "Special:MyLanguage/Legal:Confidentiality agreement for nonpublic information")
     * [How to sign](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Confidentiality_agreement_for_nonpublic_information/How_to_sign "Special:MyLanguage/Legal:Confidentiality agreement for nonpublic information/How to sign")
     * [Underage exemptions](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy/Underage_exemptions "Special:MyLanguage/Policy:Access to nonpublic personal data policy/Underage exemptions")
+    * [Noticeboard](https://meta.wikimedia.org/wiki/Access_to_nonpublic_personal_data_policy/Noticeboard "meta:Access to nonpublic personal data policy/Noticeboard")
 * [Donor privacy policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Donor_privacy_policy "Special:MyLanguage/Policy:Donor privacy policy")
 
 ![](//foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
