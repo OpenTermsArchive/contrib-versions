@@ -60,7 +60,7 @@ You can find more information about the individual cookies used on our Sites, an
 
 |     |     |     |
 | --- | --- | --- |
-| Cookie Category | Cookie Name | **Purpose** |
+| Cookie Category | Cookie Name | Purpose |
 | Strictly Necessary Cookies | siteCountry | Maintains a record of the user’s country for site speed performance. |
 | siteCountryCode | Maintains a record of the user’s country code for site speed performance. |
 | siteState | Maintains a record of the user’s US state for legal compliance purposes. |
@@ -69,6 +69,7 @@ You can find more information about the individual cookies used on our Sites, an
 | siteCookiesConfirmation | Provides a cookie message confirmation flag. |
 | DNS | Maintains a record of a California user’s instruction not to sell or disclose their personal data to non-service providers. |
 | DNT | Maintains a record of the user’s instruction to not make use of their personal data. |
+| tbp-consent | Maintains a record of the user’s cookie consent collection. |
 | Functionality | mysite\_referrer | Maintains referral information on any forms submitted through our sites. |
 | ta\_user | Indicates if the user had logged in to Taboola Ads in the past |
 | Performance (Analytics) Cookies | ufcStatus | Describes if and when the user exposed to certain marketing activities |
