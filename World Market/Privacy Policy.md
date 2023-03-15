@@ -4,7 +4,7 @@ World Market Safety, Security, and Privacy
 World Market Privacy Notice
 ---------------------------
 
-Last Revised: January 1, 2023
+Last Revised: March 31, 2023
 
 Effective Date: September 7, 2021
 
@@ -88,13 +88,11 @@ We collect information from you, including your browser type, operating system, 
 
 ### World Market Credit Card
 
-If you apply for and/or use a World Market branded credit card, we may receive basic identifying information, payment information, demographic data, and information regarding products or services you have purchased, returned, or exchanged, from the credit card issuer. Additionally, if you have given World Market permission to store your payment information, your credit card issuer may provide us with updated payment information (including credit card number and expiration date) in connection with the credit card issuer’s account updater service. We use this information to perform our contract with you.
+If you apply for and/or use a World Market branded credit card, we may receive basic identifying and contact information, and information regarding products or services you have purchased, returned, or exchanged, from the credit card issuer. Additionally, if you have given World Market permission to store your payment information, your credit card issuer may provide us with updated payment information (including credit card number and expiration date) in connection with the credit card issuer's account updater service . We use this information to perform our contract with you, to carry out our obligation of providing you with points for purchases made, and to detect security incidents and protect against malicious, deceptive, fraudulent, or illegal activity. We also use this information to offer you more relevant marketing and promotions.
 
 ### World Market Rewards
 
 When you register for World Market Rewards we collect your name, birthday, email address, address, and phone number. We use this information to carry out our obligation of providing you with points for purchases made and allowing you to redeem your points for rewards. We also use this information to offer you more relevant marketing and promotions. In addition, we use this information to detect security incidents and protect against malicious, deceptive, fraudulent, or illegal activity.
-
-In addition to the information that we collect from you directly, we may also receive information about you from other sources, such as data analytics providers, marketing or advertising service providers, fraud prevention service providers, vendors that provide services on our behalf, or publicly available sources. We also create information based on our analysis of the information we have collected from you.
 
 ### Sources of Information
 
@@ -104,7 +102,7 @@ We collect your personal information in the following ways, pursuant to applicab
 * **Through Our Use of Cookies and Other Automatic Data Collection Technologies.**When you visit our websites, open or click on emails we send you, or interact with our advertisements. We or third parties we work with automatically collect certain information using technologies such as cookies, web beacons, clear GIF, pixels, internet tags, web server logs, and other data collection tools. For more information, please see the "Cookies and Similar Tracking Technologies" section below.
 * **Through in-store and other offline technologies.** In some cases, we record customer service calls for quality assurance. We also use Closed Circuit Television or CCTV in our stores for safety, security, fraud, loss prevention, and operational purposes.
 * **From Our Third Party Partners,** including from third parties that we have partnered with to provide you the products and services that you have requested from us.
-* **Other Sources,** including data analytics providers or publicly available sources.
+* **Other Sources.** We may also receive information about you from other sources, such as data analytics providers, marketing or advertising service providers, fraud prevention service providers, vendors that provide services on our behalf, the World Market credit card issuer, or publicly available sources. We also create information based on our analysis of the information we have collected from you.
 
 ### Use And Processing Of Your Personal Information
 
@@ -148,7 +146,8 @@ In addition to the specific situations discussed elsewhere in this policy, we di
 4. **Public.** Some of our websites provide the opportunity to post comments, or reviews, in a public forum. If you decide to submit information on these pages, that information may be publicly available.
 5. **Partner Promotion.** We may offer contests, sweepstakes, or other promotions with third party partners. If you decide to enter a contest, sweepstakes, or promotion that is sponsored by a third party partner the information that you provide will be disclosed with us and with them. Their use of your information is not governed by this privacy policy.
 6. **Service Providers.** We share your personal information with service providers. Among other things service providers may help us to administer our website, conduct surveys, provide technical support, and assist in the fulfillment of orders, or the provision of services.
-7. **De-identified Personal Information.** We may disclose or use aggregated or de-identified data for any lawful purpose. De-identified information is generally not considered to be Personal Information under applicable laws.
+7. **Card Issuing Bank.** We may disclose the information we collect with our banking partner, Comenity Capital Bank, which issues the World Market Credit Card.
+8. **De-identified Personal Information.** We may disclose or use aggregated or de-identified data for any lawful purpose. De-identified information is generally not considered to be Personal Information under applicable laws.
 
 ### Your Rights & Choices
 
@@ -168,9 +167,9 @@ Pursuant to applicable data protection law, you can make the following choices r
 
 Please note that many of the above rights are subject to exceptions and limitations. Your rights and our responses will vary based on the circumstances of the request. If you choose to assert any of these rights under applicable law, we will respond within the time period prescribed by such law.
 
-In the State of California, a person authorized to act on your behalf may make a verifiable request related to your Personal Information. If you designate an authorized person to submit requests to exercise certain privacy rights on your behalf, we will require verification that you provided the authorized agent permission to make a request on your behalf. In any circumstance, your request must: (i) provide sufficient information that allows us to reasonably verify that you are the person about whom we collected Personal Information or an authorized representative of that person; and (ii) describe the request with sufficient detail that allows us to properly understand, evaluate, and respond to it. We will only use Personal Information provided in a verifiable consumer request to verify the requestor’s identity or authority to make the request.
+In the State of California, a person authorized to act on your behalf may make a verifiable request related to your Personal Information. If you designate an authorized person to submit requests to exercise certain privacy rights on your behalf, we will require verification that you provided the authorized agent permission to make a request on your behalf. In any circumstance, your request must: (i) provide sufficient information that allows us to reasonably verify that you are the person about whom we collected Personal Information or an authorized representative of that person; and (ii) describe the request with sufficient detail that allows us to properly understand, evaluate, and respond to it. We will only use Personal Information provided in a verifiable consumer request to verify the requestor's identity or authority to make the request.
 
-To exercise your rights, please call us at 877-967-5362, or submit an online [Request Form.](https://worldmarket.zendesk.com/hc/en-us/requests/new?ticket_form_id=360002045994)
+To exercise your rights, please call us at 877-967-5362, or submit an online [Request Form.](https://worldmarket.zendesk.com/hc/en-us/requests/new?ticket_form_id=360002045994) In certain jurisdictions, you may appeal our decision to your request regarding your personal information. To do so, pleasure contact us in any of the ways listed in the "Contact Information" section. We respond to all appeal requests as soon as we reasonably can, and no later than legally required.
 
 ### How We Protect Personal Information
 
@@ -190,7 +189,7 @@ You may withdraw from participating in the Rewards Program at any time by contac
 
 ### Information for Nevada Residents
 
-Subject to certain exceptions, Nevada residents may opt-out of the "sale" of personal information. This may apply when we share certain names and mailing addresses of direct mail recipients with third parties whose catalogues may be of interest to you. You may opt-out by clicking “Do Not Sell or Share My Personal Information” link at the bottom of our website and setting your preferences, or by contacting us at [1-877-967-5362](tel:/(877)%20967-5362).
+Subject to certain exceptions, Nevada residents may opt-out of the "sale" of personal information. This may apply when we share certain names and mailing addresses of direct mail recipients with parties whose catalogues may be of interest to you. You may opt-out by clicking "Do Not Sell or Share My Personal Information" link at the bottom of our website and setting your preferences, or by contacting us at [1-877-967-5362](tel:/(877)%20967-5362).
 
 ### Other Important Information
 
