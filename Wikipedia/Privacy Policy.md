@@ -424,8 +424,8 @@ Privacy-related pages
 * [Data retention guidelines](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_retention_guidelines "m:Special:MyLanguage/Data retention guidelines")
 * [Cookie statement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement "Special:MyLanguage/Policy:Cookie statement")
 * [Access to nonpublic personal data](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy "Special:MyLanguage/Policy:Access to nonpublic personal data policy")
-    * [Confidentiality agreement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Confidentiality_agreement_for_nonpublic_information "Special:MyLanguage/Policy:Confidentiality agreement for nonpublic information")
-    * [How to sign](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Confidentiality_agreement_for_nonpublic_information/How_to_sign "Special:MyLanguage/Policy:Confidentiality agreement for nonpublic information/How to sign")
+    * [Confidentiality agreement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Confidentiality_agreement_for_nonpublic_information "Special:MyLanguage/Legal:Confidentiality agreement for nonpublic information")
+    * [How to sign](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Confidentiality_agreement_for_nonpublic_information/How_to_sign "Special:MyLanguage/Legal:Confidentiality agreement for nonpublic information/How to sign")
     * [Underage exemptions](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy/Underage_exemptions "Special:MyLanguage/Policy:Access to nonpublic personal data policy/Underage exemptions")
 * [Donor privacy policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Donor_privacy_policy "Special:MyLanguage/Policy:Donor privacy policy")
 
