@@ -1,7 +1,7 @@
 Google Play Terms of Service
 ============================
 
-March 15, 2023 ([View archived version](https://play.google.com/intl/en_US/about/play-terms/eea/archive/))
+March 15, 2023 ([View archived version](https://play.google.com/intl/en_US/about/play-terms/archive/))
 
 **1\. Introduction**
 --------------------
