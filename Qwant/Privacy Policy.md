@@ -165,6 +165,13 @@ To evaluate its audience and understand the use of its services in order to impr
 
 This processing is necessary for the purposes of Qwant’s legitimate interest in developing statistics and measuring its audience, based on article 6.1.f of the GDPR.
 
+Robot detection and cybersecurity
+---------------------------------
+
+To prevent fraudulent use of the search engine and counterfeiting of the Qwant index, which is protected by sui generis law (database producer’s rights), Qwant may need to collect and verify certain personal data such as IP addresses and user agents. To this end, Qwant uses a technology partner to carry out these tasks in accordance with data protection regulations.
+
+The data collected may not be reused for other purposes.
+
 Translation module
 ------------------
 
@@ -333,4 +340,4 @@ What data is processed for the Qwant mobile application on Android and iOS?
 
 We do not integrate any tracker in our applications nor any advertising ID. Qwant does not process any specific personal data when you use the Qwant application for Android or iOS. The processing of personal data carried out by Qwant during your navigation and use of our Services from the application are exclusively those described above.
 
-* Last update: June 28, 2022
+* Last update: March 16, 2023
