@@ -367,11 +367,11 @@ Email: legal@weheartit.com
 
 _DMCA Notices Only._ Only DMCA notices should go to the Copyright Agent; any other feedback, comments, requests for technical support, and other communications should be directed to We Heart It customer support at hello@weheartit.com and identified below.
 
-_Counter-Notices._ If you believe that your Content that has been removed from our Services is not infringing, or that you have the authorization from the copyright owner, the copyright owner’s agent, or pursuant to the law, to Post and use the Content in the manner so Posted or used, you may send a counter-notice containing the following information to our Copyright Agent using the contact information set forth above:
+_Counter-Notices._ If you believe that your Content that has been removed from our Services is not infringing, or that you have the authorization from the copyright owner, the copyright owner’s agent, or pursuant to the law, to Post and use the Content in the manner so Posted or used, you may send a counter-notice containing the following information to our Copyright Agent using the contact information set forth above. The counter notice form is available [here](https://assets.whicdn.com/assets/DMCACounternoticeForm-ed89eaf89287528bd24ebb9cdd39a19cc32a70c8e5a13a3a888dac57656b9308.pdf) for download and should be completed in full.
 
 * your physical or electronic signature
 * a description of the Content that has been removed and the location at which the content appeared before it was removed
-* a statement that you have a good faith belief that the Content was removed as a result of mistake or a misidentification of the Content and
+* a statement under penalty of perjury that you have a good faith belief that the Content was removed as a result of mistake or a misidentification of the Content and
 * your name, address, telephone number, and email address, a statement that you consent to the jurisdiction of the federal court in the State of New York, and a statement that you will accept service of process from the person who provided notification of the alleged infringement.
 
 _Counter-Notice Process._ If a counter-notice is received by our copyright agent, We Heart It may send a copy of the counter-notice to the original complaining party informing such person that We Heart It may reinstate the removed Content in ten (10) business days. Unless the copyright owner files an action seeking a court order against the Content provider, member or user, the removed Content may (in We Heart It’s discretion) be reinstated on our Services by We Heart It in ten (10) to fourteen (14) business days or more after receipt of the counter-notice.
