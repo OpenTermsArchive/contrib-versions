@@ -4,7 +4,7 @@ Policy:Privacy policy
 This policy is approved by the Wikimedia Foundation [Board of Trustees](https://foundation.wikimedia.org/wiki/Board_of_Trustees "Board of Trustees") to apply to all [Wikimedia projects](https://foundation.wikimedia.org/wiki/Our_projects "Our projects").  
 It may not be circumvented, eroded, or ignored by local policies.
 
-**Want to help translate? [Translate the missing messages](https://meta.wikimedia.org/wiki/Special:Translate/agg-Privacy_policy_2014_draft "m:Special:Translate/agg-Privacy policy 2014 draft").**
+**Want to help translate? [Translate the missing messages](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=agg-Policies&filter=%21translated&action=page&language=).**
 
 Privacy Policy
 
@@ -41,7 +41,7 @@ Disclaimer: This summary is not a part of the Privacy Policy and is not a legal 
 * Any content you add or any change that you make to a Wikimedia Site will be [publicly and permanently available](#your-public-contribs).
 * If you add content or make a change to a Wikimedia Site [without logging in](#noaccount), that content or change will be publicly and permanently attributed to the IP address used at the time rather than a username.
 * Our community of volunteer editors and contributors is a self-policing body. Certain administrators of the Wikimedia Sites, who are chosen by the community, use tools that grant them limited access to nonpublic information about recent contributions so they may protect the Wikimedia Sites and enforce policies.
-* This Privacy Policy [does not apply](#coverage) to all sites and services run by the Wikimedia Foundation, such as sites or services that have their own privacy policy (like the [Wikimedia Shop](https://shop.wikimedia.org/)) or sites or services run by third parties (like third-party developer projects on [Wikimedia Cloud Services](https://wikitech.wikimedia.org/wiki/ "wikitech:")).
+* This Privacy Policy [does not apply](#coverage) to all sites and services run by the Wikimedia Foundation, such as sites or services that have their own privacy policy (like the [Wikimedia Shop](https://shop.wikimedia.org/)) or sites or services run by third parties (like third-party developer projects on [Wikimedia Cloud Services](https://wikitech.wikimedia.org/)).
 * As part of our commitment to education and research around the world, we occasionally release public information and aggregated or non-personal information to the general public through data dumps and data sets.
 * For the protection of the Wikimedia Foundation and other users, if you do not agree with this Privacy Policy, you may not use the Wikimedia Sites.
 
@@ -87,7 +87,9 @@ Because everyone (not just lawyers) should be able to easily understand how and 
 | "this Policy" / "this Privacy Policy" | This document, entitled the "Wikimedia Foundation Privacy Policy". |
 | "contributions" | Content you add or changes you make to any Wikimedia Sites. |
 | "Personal information" | Information you provide us or information we collect that could be used to personally identify you. To be clear, while we do not necessarily collect all of the following types of information, we consider at least the following to be "personal information" if it is otherwise nonpublic and can be used to identify you:<br><br>(a) your real name, address, phone number, email address, password, identification number on government-issued ID, IP address, user-agent information, payment account number;<br><br>(b) when associated with one of the items in subsection (a), any sensitive data such as date of birth, gender, sexual orientation, racial or ethnic origins, marital or familial status, medical conditions or disabilities, political affiliation, and religion. |
-| "third party" / "third parties" | Individuals, entities, websites, services, products, and applications that are not controlled, managed, or operated by the Wikimedia Foundation. This includes other Wikimedia users and independent organizations or groups who help promote the Wikimedia movement such as [Wikimedia chapters](https://meta.wikimedia.org/wiki/Wikimedia_chapters "m:Wikimedia chapters"), [thematic organizations](https://meta.wikimedia.org/wiki/Wikimedia_Thematic_Organizations "m:Wikimedia Thematic Organizations"), and [user groups](https://meta.wikimedia.org/wiki/Wikimedia_User_Groups "m:Wikimedia User Groups") as well as volunteers, employees, directors, officers, [grant recipients](https://meta.wikimedia.org/wiki/Grants:Start/About "m:Grants:Start/About"), and contractors of those organizations or groups. |
+| "third party" / "third parties" | Individuals, entities, websites, services, products, and applications that are not controlled, managed, or operated by the Wikimedia Foundation. This includes other Wikimedia users and independent organizations or groups who help promote the Wikimedia movement such as [Wikimedia chapters](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_chapters "m:Special:MyLanguage/Wikimedia chapters"), [thematic organizations](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Thematic_Organizations "m:Special:MyLanguage/Wikimedia Thematic Organizations"), and [user groups](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_User_Groups "m:Special:MyLanguage/Wikimedia User Groups") as well as volunteers, employees, directors, officers, [grant recipients](https://meta.wikimedia.org/wiki/Special:MyLanguage/Grants:Start/About "m:Special:MyLanguage/Grants:Start/About"), and contractors of those organizations or groups. |
+
+  
 
 #### What This Privacy Policy Does & Doesn't Cover
 
