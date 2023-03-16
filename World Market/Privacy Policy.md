@@ -4,7 +4,7 @@ World Market Safety, Security, and Privacy
 World Market Privacy Notice
 ---------------------------
 
-Last Revised: March 31, 2023
+Last Revised: March 21, 2023
 
 Effective Date: September 7, 2021
 
