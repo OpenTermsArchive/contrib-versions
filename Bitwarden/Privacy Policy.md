@@ -12,7 +12,7 @@ Bitwarden Inc. ("Bitwarden") complies with the EU-U.S., Swiss-U.S. Privacy Shiel
 
 * [Notice](#notice)
 * [Data Integrity and Purpose Limitation](#data-integrity-and-purpose-limitation)
-* [Choice; Access](#choice-access)
+* [Choice; Access](#choice;-access)
 * [Accountability and Onward Transfer](#accountability-and-onward-transfer)
 * [Recourse and Enforcement](#recourse-and-enforcement)
 * [Security](#security)
