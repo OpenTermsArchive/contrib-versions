@@ -41,7 +41,7 @@ Other languages:
 * [español](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es "Términos y condiciones de uso (99% translated)")
 * [français](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr "Conditions d’utilisation (99% translated)")
 * [galego](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/gl "Termos de uso (95% translated)")
-* [italiano](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/it "Policy:Terms of Use/it (0% translated)")
+* [italiano](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/it "Policy:Terms of Use/it (98% translated)")
 * [polski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pl "Policy:Terms of Use/pl (0% translated)")
 * [português do Brasil](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pt-br "Policy:Terms of Use/pt-br (0% translated)")
 * [suomi](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fi "Policy:Terms of Use/fi (0% translated)")
