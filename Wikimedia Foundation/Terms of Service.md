@@ -57,7 +57,7 @@ Other languages:
 * [বাংলা](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bn "Policy:Terms of Use/bn (0% translated)")
 * [മലയാളം](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ml "Policy:Terms of Use/ml (0% translated)")
 * [ไทย](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/th "Policy:Terms of Use/th (0% translated)")
-* [日本語](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja "Policy:Terms of Use/ja (0% translated)")
+* [日本語](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja "Policy:Terms of Use/ja (8% translated)")
 * [한국어](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ko "Policy:Terms of Use/ko (0% translated)")
 
   
