@@ -27,25 +27,25 @@ From Wikimedia Foundation Governance Wiki
 
 (Redirected from [Terms of Use](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use&redirect=no "Terms of Use"))
 
-[Translate this page](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=page-Policy%3ATerms+of+Use&action=page&filter= "Special:Translate"); This page contains [changes](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=174612&diff=174644) which are not marked for translation.
+[Translate this page](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=page-Policy%3ATerms+of+Use&action=page&filter= "Special:Translate")
 
 Other languages:
 
-* [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/id "Policy:Terms of Use/id (0% translated)")
-* [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de "Policy:Terms of Use/de (0% translated)")
+* [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/id "Ketentuan Penggunaan Kami (98% translated)")
+* [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de "Nutzungsbedingungen (99% translated)")
 * English
-* [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nl "Policy:Terms of Use/nl (0% translated)")
-* [Tiếng Việt](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/vi "Policy:Terms of Use/vi (0% translated)")
-* [asturianu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ast "Policy:Terms of Use/ast (0% translated)")
-* [català](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ca "Policy:Terms of Use/ca (0% translated)")
-* [español](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es "Policy:Terms of Use/es (0% translated)")
-* [français](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr "Policy:Terms of Use/fr (0% translated)")
-* [galego](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/gl "Policy:Terms of Use/gl (0% translated)")
+* [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nl "Gebruiksvoorwaarden (99% translated)")
+* [Tiếng Việt](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/vi "Điều khoản Sử dụng (99% translated)")
+* [asturianu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ast "Términos d'usu (95% translated)")
+* [català](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ca "Policy:Terms of Use/ca (94% translated)")
+* [español](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es "Términos y condiciones de uso (99% translated)")
+* [français](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr "Conditions d’utilisation (99% translated)")
+* [galego](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/gl "Termos de uso (95% translated)")
 * [italiano](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/it "Policy:Terms of Use/it (0% translated)")
 * [polski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pl "Policy:Terms of Use/pl (0% translated)")
 * [português do Brasil](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pt-br "Policy:Terms of Use/pt-br (0% translated)")
 * [suomi](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fi "Policy:Terms of Use/fi (0% translated)")
-* [čeština](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cs "Policy:Terms of Use/cs (0% translated)")
+* [čeština](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cs "Policy:Podmínky používání (7% translated)")
 * [Ελληνικά](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/el "Policy:Terms of Use/el (0% translated)")
 * [беларуская (тарашкевіца)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/be-tarask "Policy:Terms of Use/be-tarask (0% translated)")
 * [български](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bg "Policy:Terms of Use/bg (0% translated)")
@@ -62,7 +62,7 @@ Other languages:
 
   
 
-**This is a summary of the Terms of Use. To read the full terms, scroll down or [click here](https://foundation.wikimedia.org/wiki/Terms_of_Use#Our_Terms_of_Use "Terms of Use").**
+**This is a summary of the Terms of Use. To read the full terms, scroll down or [click here](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use#introduction "Special:MyLanguage/Policy:Terms of Use").**
 
   
 
@@ -348,7 +348,7 @@ _**Please note that in the event of any differences in meaning or interpretation
 
 ![](//foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=174644](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=174644)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=174880](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=174880)"
 
 [Categories](https://foundation.wikimedia.org/wiki/Special:Categories "Special:Categories"):
 
