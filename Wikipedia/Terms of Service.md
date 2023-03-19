@@ -27,7 +27,7 @@ From Wikimedia Foundation Governance Wiki
 
 (Redirected from [Terms of Use](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use&redirect=no "Terms of Use"))
 
-[Translate this page](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=page-Policy%3ATerms+of+Use&action=page&filter= "Special:Translate")
+[Translate this page](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=page-Policy%3ATerms+of+Use&action=page&filter= "Special:Translate"); This page contains [changes](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=181016&diff=181301) which are not marked for translation.
 
 Other languages:
 
@@ -35,7 +35,7 @@ Other languages:
 * [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de "Nutzungsbedingungen (100% translated)")
 * English
 * [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nl "Gebruiksvoorwaarden (99% translated)")
-* [Tiếng Việt](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/vi "Điều khoản Sử dụng (99% translated)")
+* [Tiếng Việt](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/vi "Điều khoản Sử dụng (100% translated)")
 * [asturianu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ast "Términos d'usu (95% translated)")
 * [català](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ca "Policy:Terms of Use/ca (94% translated)")
 * [español](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es "Términos y condiciones de uso (99% translated)")
@@ -53,7 +53,7 @@ Other languages:
 * [русский](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru "Условия использования (99% translated)")
 * [українська](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/uk "Policy:Terms of Use/uk (98% translated)")
 * [עברית](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/he "Policy:Terms of Use/he (98% translated)")
-* [العربية](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ar "Policy:Terms of Use/ar (96% translated)")
+* [العربية](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ar "Policy:Terms of Use/ar (99% translated)")
 * [বাংলা](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bn "ব্যবহারের শর্তাবলী (4% translated)")
 * [മലയാളം](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ml "Policy:Terms of Use/ml (93% translated)")
 * [ไทย](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/th "ข้อกำหนดการใช้งาน (100% translated)")
@@ -313,7 +313,7 @@ The Wikimedia Foundation will not be liable to you or to any other party for any
 
 Just as the Wikimedia community's input is essential for the growth and maintenance of the Projects, we believe that community input is essential for these Terms of Use to properly serve our users. It is also essential for a fair contract. Therefore, we will provide these Terms of Use, as well as any substantial future revisions of these Terms of Use, to the community for comment at least thirty (30) days before the end of the comment period. If a future proposed revision is substantial, we will provide an additional 30 days for comments after posting a translation of the proposed revision in at least three languages (selected at our discretion). The community will be encouraged to translate the proposed revision in other languages as appropriate. For changes for legal or administrative reasons, to correct an inaccurate statement, or changes in response to community comments, we will provide at least three (3) days' notice.
 
-Because it may be necessary to modify these Terms of Use from time to time, we will provide notice of such modifications and the opportunity to comment via the Project websites, and via a notification on [WikimediaAnnounce-L](https://lists.wikimedia.org/mailman/listinfo/WikimediaAnnounce-l). However, we ask that you please periodically review the most up-to-date version of these Terms of Use (available at [https://foundation.wikimedia.org/wiki/Policy:Terms\_of\_Use](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use "Special:MyLanguage/Policy:Terms of Use")). Your continued use of our services after the new Terms of Use become official following the notice and review period constitutes an acceptance of these Terms of Use on your part. For the protection of the Wikimedia Foundation and other users like yourself, if you do not agree with our Terms of Use, you cannot use our services.
+Because it may be necessary to modify these Terms of Use from time to time, we will provide notice of such modifications and the opportunity to comment via the Project websites, and via a notification on [WikimediaAnnounce-l](https://lists.wikimedia.org/postorius/lists/wikimediaannounce-l.lists.wikimedia.org/ "mail:wikimediaannounce-l"). However, we ask that you please periodically review the most up-to-date version of these Terms of Use (available at [https://foundation.wikimedia.org/wiki/Policy:Terms\_of\_Use](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use "Special:MyLanguage/Policy:Terms of Use")). Your continued use of our services after the new Terms of Use become official following the notice and review period constitutes an acceptance of these Terms of Use on your part. For the protection of the Wikimedia Foundation and other users like yourself, if you do not agree with our Terms of Use, you cannot use our services.
 
 17\. Other Terms
 ----------------
@@ -342,13 +342,13 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 **These Terms of Use went into effect on June 16, 2014. Previous versions of the terms:**
 
 * **[Terms of Use (2012-2014)](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=82013): effective from May 24, 2012 until June 16, 2014**
-* **[Terms of Use (2009)](https://foundation.wikimedia.org/wiki/Archive:Terms_of_Use_(2009)): effective from 2009 until May 24, 2012.**
+* **[Terms of Use (2009)](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Archive:Terms_of_Use_(2009) "Special:MyLanguage/Archive:Terms of Use (2009)"): effective from 2009 until May 24, 2012.**
 
 _**Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.**_
 
 ![](//foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=181016](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=181016)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=181301](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=181301)"
 
 [Categories](https://foundation.wikimedia.org/wiki/Special:Categories "Special:Categories"):
 
