@@ -118,7 +118,7 @@ TikTok Law Enforcement Frequently Asked Questions (“FAQS”)
 
   
 
-_These FAQS should be read together with TikTok’s_ [Law Enforcement Guidelines](#Guidelines)  
+_These FAQS should be read together with TikTok’s_ [Law Enforcement Guidelines](#Guidelines)
 
   
 
