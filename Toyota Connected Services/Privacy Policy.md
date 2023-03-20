@@ -234,7 +234,7 @@ Toyota may collect Personal Information from you in different ways and for diffe
 
 **Selling or Sharing of Personal Information**
 
-We may sell your Personal Information to third parties or share your Personal Information with third parties for targeted advertising. However, we do not knowingly sell, share, use for targeted advertising, or disclose the Personal Information of minors under the age of 16. For more information about opting out of the sale or sharing of your Personal Information, please see the [**Your Privacy Rights**](#_prvri) section below.
+We may sell your Personal Information to third parties or share your Personal Information with third parties for targeted advertising. However, we do not knowingly sell, share, use for targeted advertising, or disclose the Personal Information of minors under the age of 16. For more information about opting out of the sale or sharing of your Personal Information, please see the [**Privacy Notice**](#_prvri) section below.
 
 **Sensitive Personal Information**
 
