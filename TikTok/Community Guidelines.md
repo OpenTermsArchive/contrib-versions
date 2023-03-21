@@ -31,6 +31,8 @@
 
   
 
+On April 21, 2023, we are updating our Community Guidelines to help keep TikTok safe, inclusive, and welcoming for everyone. Check out the new Community Guidelines [here](https://www.tiktok.com/community-guidelines/en/?cgversion=2023).
+
 Introduction
 ------------
 
