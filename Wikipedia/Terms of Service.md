@@ -60,9 +60,11 @@ Other languages:
 * [日本語](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja "Policy:Terms of Use/ja (98% translated)")
 * [한국어](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ko "이용 약관 (100% translated)")
 
+**Want to help translate? [Translate the missing messages](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=agg-Terms_of_Use&filter=%21translated&action=page&language=).**
+
   
 
-**This is a summary of the Terms of Use. To read the full terms, scroll down or [click here](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use#introduction "Special:MyLanguage/Policy:Terms of Use").**
+**This is a [summary](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/Summary "Special:MyLanguage/Policy:Terms of Use/Summary") of the Terms of Use. To read the full terms, scroll down or [click here](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use#introduction "Special:MyLanguage/Policy:Terms of Use").**
 
   
 
@@ -348,7 +350,7 @@ _**Please note that in the event of any differences in meaning or interpretation
 
 ![](//foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=182153](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=182153)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=182762](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=182762)"
 
 [Categories](https://foundation.wikimedia.org/wiki/Special:Categories "Special:Categories"):
 
