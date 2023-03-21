@@ -1,7 +1,7 @@
 Terms of Use
 ============
 
-Download a copy of the Momentive TOU [here](https://prod.smassets.net/assets/content/sm//Terms-of-Use-Momentive-2022-10-10-US-EN.pdf).
+Download a copy of the Momentive TOU [here](https://prod.smassets.net/assets/content/sm/Terms-of-Use-Momentive-2022-10-10-US-EN.pdf).
 
 These terms apply to services purchased or signed-up for on Momentive’s websites. For terms applicable to services offered through our enterprise sales team, please see our [Governing Services Agreement](https://www.surveymonkey.com/mp/legal/gsa/).
 
