@@ -1,7 +1,7 @@
 Websites, Communications & Cookies Privacy Notice
 =================================================
 
-November 29, 2022
+March 8, 2023
 
 We care about your privacy. When Mozilla (that's us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
@@ -40,7 +40,6 @@ We may use cookies, clear GIFs, third party web analytics, device information, a
     * Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites. This helps us to improve site content.
     * Convert.com and ShareProgress, which place a cookie on your device, to help us test variations of web content. This helps us offer better web experiences to users.
     * DoubleClick and Flashtalking, each of which uses a clear GIF on our download Firefox page. This helps us measure the effectiveness of our advertising campaigns.
-    * Yahoo Dot Pixel, which uses JavaScript on our download Firefox page. This helps us measure the effectiveness of our advertising campaigns.
     * HTTP Referral Data, which may be included with Firefox’s installer, to understand the website domain or advertising campaign that referred you to our download page. This information helps us understand the effectiveness of our advertising campaigns and improve them.
     * Other metrics tools from time to time, on an experimental basis. For example, we may do this to help evaluate a new metrics tool, or test existing metrics collection.
 * **Fraud Prevention**: Mozilla has implemented third-party technology, Google’s Invisible reCAPTCHA, that operates in the background on some of our websites in order to identify fraudulent activity. Use of the Invisible reCAPTCHA is governed by the [Google Privacy Policy](https://www.google.com/intl/policies/privacy/) and [Terms of Use](https://policies.google.com/terms).
@@ -61,7 +60,6 @@ You can control individual cookie preferences, indicate your cookie preferences 
     * Mozilla first-party tools: [Opt-out on www.mozilla.org](https://www.mozilla.org/privacy/websites/data-preferences/).
     * Google: Install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), which prohibits data transmission to Google Analytics. Some Mozilla.org pages use clear GIFs which communicate with DoubleClick to understand the effectiveness of our advertising campaigns; you can control personalized ads from DoubleClick in Google's ad settings (you will be prompted to sign into your Google Account).
     * Convert.com: [Opt-out on www.mozilla.org](https://www.mozilla.org/exp/opt-out/).
-    * Yahoo: Visit the [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) to opt-out.
     * ShareProgress and Fathom.com: You can [turn on Do Not Track in your browser](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature).
 * **Social Media**: The social sharing buttons on Mozilla websites are designed not to share data with the social media provider until you specifically click the button.
     
