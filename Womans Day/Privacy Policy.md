@@ -4,7 +4,7 @@ Privacy Notice
 Privacy Notice – Highlights 
 ----------------------------
 
-**Last Updated**: January 3, 2023
+**Last Updated**: March 20, 2023
 
 When you use or interact with a U.S. website, mobile app or other digital service or when you subscribe to a print or online publication or service (each a “**Magazine Service**”) operated or owned by Hearst Magazine Media, Inc. or its affiliates, we and third parties may obtain certain information about you. In this Highlights section, we provide an overview of our privacy practices related to the Magazine Services. Please review our full [Privacy Notice](#_PRIVACY_NOTICE) below for a detailed explanation of our practices. 
 
@@ -66,7 +66,7 @@ If you have questions about our Privacy Notice or the privacy rights described i
 **PRIVACY NOTICE**
 ------------------
 
-**Last Updated:** January 3, 2023
+**Last Updated:** March 20, 2023
 
 1. [Introduction](#_INTRO)
 2. [What Information We Obtain](#_WHAT_INFO)
@@ -418,5 +418,7 @@ Where changes to this Privacy Notice have a fundamental impact on the nature of 
 #### **Privacy Officer and Complaints**
 
 Our Privacy Officer can be contacted at [magsdatarequests@hearst.com.](mailto:magsdatarequests@hearst.com.)
+
+We have appointed Hearst España S.L as our data protection representative in the EEA. You can contact Hearst España S.L at [dpo@Hearst.es](mailto:dpo@hearst.es) or Avda. Cardenal Herrera Oria 3 28034, Madrid, Spain. Please mark all correspondence “ATTN: EEA Representative (Legal Department).”
 
 We are committed to working with you to obtain a fair resolution in the event you have a complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you have the right to make a complaint to a data protection authority.
