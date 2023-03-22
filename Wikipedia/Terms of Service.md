@@ -52,6 +52,7 @@ Other languages:
 * [македонски](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mk "Услови на употреба (97% translated)")
 * [русский](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru "Условия использования (99% translated)")
 * [українська](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/uk "Policy:Terms of Use/uk (98% translated)")
+* [հայերեն](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hy "Policy:Terms of Use/hy (5% translated)")
 * [עברית](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/he "Policy:Terms of Use/he (98% translated)")
 * [العربية](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ar "Policy:Terms of Use/ar (97% translated)")
 * [বাংলা](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bn "ব্যবহারের শর্তাবলী (21% translated)")
