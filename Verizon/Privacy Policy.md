@@ -141,6 +141,8 @@ Open all Close all
     
     ### We use some types of information for additional purposes:
     
+    |     |     |
+    | --- | --- |Information we use for additional purposes
     | Information: | Additional uses: |
     | --- | --- |
     | Clicks, opens and other interactions with our advertisements, emails, sites and apps | * To personalize your experiences and make our marketing more relevant to you<br>* To help you when you request assistance with website or app navigation<br>* To protect you and us against fraud |
@@ -320,6 +322,8 @@ Open all Close all
     
     The programs described here use information to predict whether you fit within an audience an advertiser is trying to reach and help them show relevant advertising to you. The programs may also measure advertising campaign effectiveness. [You can opt out of participating in these programs.](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34)
     
+    |     |     |     |
+    | --- | --- | --- |Types of advertising programs
     |     | Relevant Online Advertising | Relevant TV Advertising |
     | --- | --- | --- |
     | Who can participate? | Verizon Wireline Internet customers | Fios TV customers |
