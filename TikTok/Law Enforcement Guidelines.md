@@ -3,13 +3,17 @@ TikTok Law Enforcement Guidelines
 
   
 
-_Last updated: May 24, 2022_
+_Last updated: March 22, 2023_
 
   
 
 These guidelines (“**Guidelines**”) are a reference for law enforcement officials seeking the data of users of the TikTok platform (the “**Platform**”) from any of the TikTok entities listed in Section 1 below (together “**TikTok**”). For additional information, see our [Law Enforcement FAQS](#FAQ).
 
-TikTok is committed to cooperating with law enforcement while respecting the privacy and other rights of its users. To achieve this, TikTok has internal policies and procedures governing how TikTok handles and responds to law enforcement requests. These require that TikTok disclose user data only where a request is based on a valid legal process or in emergency circumstances.
+In line with our [human rights statement](https://www.tiktok.com/transparency/en-us/upholding-human-rights/), TikTok is committed to cooperating with law enforcement while respecting the privacy, freedom of expression, and other rights of its users.
+
+To achieve this, in addition to these Guidelines, TikTok has internal policies and procedures governing how TikTok handles and responds to law enforcement requests. These procedures are informed by legal and human rights standards and have been developed in a way that seeks to limit adverse human rights impacts, while enabling TikTok to comply with legitimate, valid legal requests from law enforcement to disclose user data.
+
+We reject requests which go against our policies and procedures.
 
   
 
@@ -109,7 +113,7 @@ In submitting a request, law enforcement officials are required to ensure that a
 
 TikTok reserves the right to seek reimbursement for the costs associated with responding to law enforcement requests.
 
-TikTok may update or replace these Guidelines from time to time at its sole discretion and without notice to any party.
+TikTok may update these Guidelines from time to time, and such changes may be informed by a range of factors, including legal or human rights developments, operational and/or product changes to the Platform. All relevant updates will be reflected on the TikTok website.
 
   
 
@@ -124,13 +128,13 @@ _These FAQS should be read together with TikTok’s_ [Law Enforcement Guideline
 
 ### **Q: What is TikTok’s approach to handling data requests from law enforcement authorities?**
 
-TikTok is committed to cooperating with law enforcement while respecting the privacy and other rights of our users. To achieve this, we have internal policies and procedures governing how we handle and respond to law enforcement requests. These require that we disclose user data only where a request is based on a valid legal process or in emergency circumstances.
+TikTok is committed to cooperating with law enforcement while respecting the privacy, freedom of expression, and other rights of our users. To achieve this, in addition to these Guidelines, TikTok has internal policies governing how TikTok handles and responds to law enforcement requests. These procedures are informed by legal and human rights standards and have been developed in a way that seeks to limit adverse human rights impacts, while enabling TikTok to comply with legitimate, valid legal requests from law enforcement to disclose user data.
 
 All requests received undergo a case-by-case assessment by TikTok’s dedicated law enforcement response team before any user data is disclosed. This team is trained to evaluate requests from law enforcement authorities and frequently engages in outreach to communicate TikTok’s requirements for disclosing user data to law enforcement authorities.
 
 ### **Q: What are TikTok’s requirements for disclosing user data to law enforcement authorities?**
 
-TikTok’s requirements for disclosing user data to law enforcement authorities are clearly set out in our [Law Enforcement Guidelines](#Guidelines) (in particular see Sections 1 and 3). These requirements reflect our internal policies and procedures for handling requests from law enforcement authorities, and are based on applicable legal requirements. Because the applicable laws vary from one country to another, the rules on when data can legally be disclosed will also vary to some extent and our internal policies and procedures reflect this.
+TikTok’s requirements for disclosing user data to law enforcement authorities are clearly set out in our [Law Enforcement Guidelines](#Guidelines) (in particular see Sections 1 and 3). These requirements reflect our internal policies and procedures for handling requests from law enforcement authorities, and are based on applicable legal requirements and our commitment to international human rights, including the International Bill of Human Rights. Because the applicable laws vary from one country to another, the rules on when data can legally be disclosed will also vary to some extent and our internal policies and procedures reflect this while at the same time reflecting our global commitments to freedom of expression and privacy.
 
 ### **Q: How do I find the TikTok username?**
 
