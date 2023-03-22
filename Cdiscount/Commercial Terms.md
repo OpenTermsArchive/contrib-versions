@@ -1160,6 +1160,9 @@ En cas de reconduction de l'Abonnement conformément aux stipulations de l'artic
 **ARTICLE 4 - OFFRE D'ESSAI GRATUIT**
 
 Cdiscount est susceptible de proposer une offre d’essai gratuit dans les conditions décrites ci-après. Cdiscount se réserve le droit d’arrêter l’offre d’essai gratuit à tout moment ; le cas échéant, l’offre d’essai gratuit ne sera pas visible sur le Site au moment de la souscription au service.  
+  
+
+En cas d‘offre d’essai gratuit, la durée de l’essai gratuit sera susceptible d’être modifiée par Cdiscount. La durée de l’essai gratuit sera alors celle indiquée par Cdiscount au jour de la souscription à l’Abonnement. 
 
 **4.1** **Conditions d'éligibilité à l'Offre d'essai gratuit**
 
@@ -1167,10 +1170,7 @@ Tout nouvel Abonné Cdiscount à volonté qui passe simultanément commande sur 
   
 Seuls les nouveaux Abonnés sont éligibles à l'Offre d'essai gratuit, c'est-à-dire les Abonnés n'ayant pas bénéficié du Service au cours des douze (12) derniers mois précédant leur commande.
 
-Nous nous réservons le droit de vérifier l'historique de souscription d'un Abonné au Service afin de vérifier son éligibilité à l'Offre d'essai gratuit.
-
-   
-  
+Nous nous réservons le droit de vérifier l'historique de souscription d'un Abonné au Service afin de vérifier son éligibilité à l'Offre d'essai gratuit.  
 
 **4.2 Interruption de la Période d'essai**
 
@@ -1193,7 +1193,7 @@ Cdiscount procèdera au remboursement du prix de l'Abonnement au Service dans un
 
 **5.1 Dans le cas où l'Abonné bénéficie de l'Offre d'essai gratuit**
 
-L'Abonnement au Service est valable douze (12) mois et six (6) jours à compter de la Date de souscription au Service.  
+L'Abonnement au Service est valable douze (12) mois et six (6) jours (ou toute autre durée de l'essai gratuit mentionnée par Cdiscount) à compter de la Date de souscription au Service.  
   
 Il sera ensuite renouvelé pour des périodes successives de douze (12) mois, par tacite reconduction chaque année, dans les conditions prévues aux articles L.215-1 et L.241-3 du Code de la consommation reproduits ci-après.
 
@@ -1317,7 +1317,7 @@ Pour que le Partage soit valable, l‘Abonné doit :
 Sont considérés comme faisant partie de la même « famille », deux personnes physiques majeures ayant l’un des liens de parenté suivants :
 
   
-\-           Conjoint(e) /
+\-           Conjoint(e)
 
 \-           Concubin(e)
 
@@ -1402,7 +1402,7 @@ Il en sera de même dans le cas où le Bénéficiaire ne pourrait bénéficier d
   
 **
 
-Le privilège « Ma cagnotte é volonté » (ci-après le « **Privilège** ») offre la possibilité pour l’Abonné de cumuler du crédit sur la Cagnotte consultable dans son Espace Client pour l’achat de produits éligibles sur le Site (ci-après les « Offres Site »).   
+Le privilège « Ma cagnotte à volonté » (ci-après le « **Privilège** ») offre la possibilité pour l’Abonné de cumuler du crédit sur la Cagnotte consultable dans son Espace Client pour l’achat de produits éligibles sur le Site (ci-après les « Offres Site »).   
   
  
 
@@ -1412,7 +1412,7 @@ La Cagnotte est personnelle : en cas de Partage d’Abonnement dans les conditi
 
 La Cagnotte sera automatiquement créée et consultable dans la rubrique « Ma cagnotte à volonté » de l’Espace Client de l’Abonné dès la Souscription au Service ou à la date de lancement du Privilège si cette date est postérieure.
 
-En cas de partage d’Abonnement dans les conditions précisées à l’article 8 ci-avant, la Cagnotte du Bénéficiaire sera créée et consultable dans son Espace Client à compter de l’Activation du Service à son profit ou à la date de lancement du Privilège si cette date est postérieure.
+En cas de partage d’Abonnement dans les conditions précisées à l’article 8 ci-avant, la Cagnotte du Bénéficiaire sera créée et consultable dans son Espace Client à compter de l’Activation du Service à son profit ou à la date de lancement du Privilège si cette date est postérieure. 
 
 **9.2 Cumul du crédit sur la Cagnotte**
 
@@ -1425,8 +1425,6 @@ Le montant du crédit auquel donne droit une Offre Site est précisé sur la fic
 \- d’un montant en euros ; ou
 
 \- d’un pourcentage de son prix de vente effectif (c’est-à-dire hors bons de réduction éventuels) ;
-
-   
 
  
 
