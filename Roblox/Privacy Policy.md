@@ -18,7 +18,7 @@
 
 [](https://www.kidsafeseal.com/certifiedproducts/roblox.html)
 
-Please find the shortened version of our Privacy Policy below. Please click the title of each section to expand for the full details of our Privacy Policy. You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/article_attachments/12018251095956).
+Please find the shortened version of our Privacy Policy below. Please click the title of each section to expand for the full details of our Privacy Policy. You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/article_attachments/13960393399700). 
 
 [Expand All +](#/)
 
@@ -44,7 +44,7 @@ Address: 970 Park Place, Suite 100
 San Mateo, California, 94403  
 privacy@roblox.com
 
-For users based in the European Economic Area, the United Kingdom, or Switzerland, you may also contact our Representative according to Articles 17 EU and UK GDPR in the European Union:
+For users based in the European Economic Area (EEA), the United Kingdom, or Switzerland, you may also contact our Representative according to Articles 17 EU and UK GDPR in the European Union:
 
 roblox@gdpr-rep.com
 
@@ -107,8 +107,8 @@ Users may be asked to provide or may choose to add an email address to their acc
 
 In addition to account setup on Roblox, we may collect and process Personal Information from you directly if you use the following features and activities (as applicable):
 
-* When you make purchases on the Service. Users can purchase virtual currency or premium subscriptions, for example, in the form of Robux, Premium memberships, etc., and may use a variety of payment methods. When making purchases, users or their parents will be required to enter billing information, which may include name, billing address, credit card or other payment information, and billing email. Our payment processors will process all purchases, and you will be subject to their terms and conditions and privacy policy. Your billing information, transaction details, and purchase history may be retained and used by our payment processors to resolve subsequent billing disputes and inquiries.
-* When you post, share, or otherwise transmit comments, messages, or content on Roblox via community features, such as public chat or private chat, forums, group walls, personal posts, portfolios, etc. We may collect these comments, messages, posts, and they may be monitored, filtered and moderated for purposes such as removal of profanity, Personal Information, and other inappropriate content. Where permitted by law, we may use pre-filtered chat, comments and messages for purposes such as training and improving our filter technology to increase the safety on our platform.
+* When you make purchases on the Service. Users can purchase virtual currency or premium subscriptions, for example, in the form of Robux, premium memberships, etc., and may use a variety of payment methods. When making purchases, users or their parents will be required to enter billing information, which may include name, billing address, credit card or other payment information, and billing email. Our payment processors will process all purchases, and you will be subject to their terms and conditions and privacy policy. Your billing information, transaction details, and purchase history may be retained and used by our payment processors to resolve subsequent billing disputes and inquiries.
+* When you post, share, or otherwise transmit comments, messages, or content on Roblox via community features, such as public chat or private chat, forums, group walls, personal posts, portfolios, etc. We may collect these comments, messages, posts, and they may be monitored, filtered and moderated for purposes such as removal of profanity, Personal Information, and other inappropriate content. Where permitted by law, we may use pre-filtered chat, comments and messages for purposes such as training and improving our filter technology to increase the safety on our platform. For more information about our efforts to promote safety and civility, see our [Community Standards](https://en.help.roblox.com/hc/articles/203313410).
 * When you use or interact with Roblox for additional features that require the use of your camera or upload of files. If you decide to use these features and upload content, we will collect, process, and store that content only for as long as needed to accomplish the purpose of the feature.
 * When you participate in our Roblox Developer Exchange Program. We require you to provide us with an IRS W-9 form (for U.S. taxpayers) or W-8 form (for non-U.S. taxpayers). We may also ask you to verify your identity by providing a government issued photo ID through a third-party vendor. For more information on the Developer Exchange program, please visit our [Developer Exchange Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115005718246).
 * When you provide us with your phone number. If you choose to provide a phone number for verification, you may receive a verification SMS after sign-up to confirm your ownership of the number, which will allow you to log in via mobile. Your phone number may also be used to recover a lost or forgotten password. Additionally, with your explicit and informed consent, we may use your phone number to recommend you as a friend to others using Roblox. You will be recommended with your contact name as stored on your friends’ devices, which may include also your real name. If you do not want us to use your phone number to be found by your friends on Roblox, please do not activate this feature or deactivate it at any time. Please note that the Discoverability feature may not be available in certain locations.
@@ -120,7 +120,7 @@ In addition to account setup on Roblox, we may collect and process Personal Info
 * When you respond to or participate in voluntary research or surveys or studies. These surveys may collect information about your likes and dislikes, experience interests and habits, general hobbies and interests, and other lifestyle information or preferences. These surveys may ask for Personal Information.
 * When you request or agree to voice based services from Roblox. With your consent, we may collect, process and store your voice recording to provide services and to increase the safety of our voice related services. We may use your voice recording for purposes such as training and improving our filter technology to increase the safety on our platform, except that we will not engage in these activities with private server voice chat recordings of EEA users.
 * When you subscribe to other features or activities, which may be available to our users other than children. We may offer other features or activities on our Services from time to time, and you may be able to submit or upload Personal Information in connection with such features. The data being collected for such features and their intended uses will be evident at the time of data collection.
-* When you browse, navigate, or otherwise interact with the Service. We collect information about your interactions with the Service and connect the information collected with your account to provide you a better user experience. For example, we may collect information from your search history to provide you with similar recommendations. We may also collect information from your device when you visit our websites, as outlined in the “[Cookies and Similar Technologies](#cookies)” section below.
+* When you browse, navigate, or otherwise interact with the Service.  We collect information about your interactions with the Service and connect the information collected with your account to provide you a better user experience and ensure user safety. For example, we may collect information from a user's game state to detect violations of our Terms and to improve our ability to detect such violations. We also may collect information from your search history to provide you with similar recommendations or use your regional location to help you find friends on Roblox. In addition, we may collect information from your device when you visit our websites, as outlined in the “[Cookies and Similar Technologies](#cookies)” section below. If you purchase, share, trade, or otherwise engage in a transaction involving UGC, information like your username and transaction details may be provided to the UGC creator.
 * Information processed to enable advertising. To market our services, inter alia, via social media platforms in order to bring new users to our websites and to maintain and increase our user base, we may process Personal Information such as IP addresses, information on users’ browsers or operating systems, including language settings, regional location information and user names or user IDs.
 
 You are under no obligation to provide Personal Information to Roblox when requested. However, if you choose to withhold any requested information, we may not be able to provide you with certain services and features.
@@ -263,7 +263,7 @@ We offer users the ability to use forums and similar means of public discussion.
 
 #### Creators
 
-The creators of the experiences you access will be provided your username, display name, game metrics, user ID, and the regional location you are based in. We offer creators a tool that allows them to review the regional location of origin of players to enable them to determine their player base, so they can adjust their experiences to the legal requirements of the respective regional location. For this purpose, we will determine the user’s regional location of access to the Roblox website based on the IP address. We will not share your IP address with the creators.
+The creators of the experiences you access will be provided your username, display name, game metrics, which may be tied back to individual users, regional location you are located in, UGC transaction details, and user ID of the experiences you access or content you engage with. We offer creators a tool that allows them to review the regional location of origin of players to enable them to determine their player base, so they can adjust their experiences to the legal requirements of the respective regional location. For this purpose, we will determine the user’s regional location of access to the Roblox website based on the IP address. We will not share your IP address with the creators.
 
 #### Legal disclosures
 
@@ -289,7 +289,7 @@ There are some areas on Roblox such as in game chat where you can communicate wi
 
 #### Creators
 
-We share your username, display name, game metrics, regional location and user ID with the creators of the experiences you access.
+We share your username, display name, game metrics, which may be tied back to individual users, regional location, UGC transaction details, and user ID with the creators of the experiences you access or content you engage with.
 
 #### Legal disclosures, business transfers, and other important content
 
@@ -585,4 +585,4 @@ We update this privacy policy sometimes, so you should review this site regularl
 
 If we make any major changes, we will let you know by email (if we have your email address) or by showing a prominent notice on this website or in app prior to the change becoming effective. If required by law, we will obtain your parent’s consent if any of these changes impact the data we’ve collected from you in a less protective way.
 
-Last Update: December 31, 2022
+Last Update: March 15, 2023
