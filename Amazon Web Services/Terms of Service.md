@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: March 8, 2023
+#### Last Updated: March 21, 2023
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -1220,7 +1220,7 @@ Amazon FinSpace is a tool to help you analyze data for investment and business d
 
 **91.3.** For purposes of your use of AWS Builder ID, Amazon Web Services, Inc. is the AWS Contracting Party under the Agreement.
 
-### 92\. AWS Clean Rooms (Preview)
+### 92\. AWS Clean Rooms
 
 You may not use AWS Clean Rooms or any information obtained from your use of AWS Clean Rooms to identify a person or associate such information with an identifiable person, unless otherwise permitted by the applicable third party contributor of the data.
 
