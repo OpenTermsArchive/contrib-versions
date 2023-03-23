@@ -17,11 +17,31 @@ Terms of Use
     You can view its source [e]")
 * [View history](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=history "Past revisions of this page [h]")
 
- More
+ Tools
+
+Tools
+
+move to sidebar hide
+
+Actions
 
 * [Read](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use)
 * [View source](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=edit)
 * [View history](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=history)
+
+General
+
+* [What links here](https://foundation.wikimedia.org/wiki/Special:WhatLinksHere/Policy:Terms_of_Use "A list of all wiki pages that link here [j]")
+* [Related changes](https://foundation.wikimedia.org/wiki/Special:RecentChangesLinked/Policy:Terms_of_Use "Recent changes in pages linked from this page [k]")
+* [Special pages](https://foundation.wikimedia.org/wiki/Special:SpecialPages "A list of all special pages [q]")
+* [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=183879 "Permanent link to this revision of this page")
+* [Page information](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=info "More information about this page")
+
+Print/export
+
+* [Create a book](https://foundation.wikimedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Policy%3ATerms+of+Use)
+* [Download as PDF](https://foundation.wikimedia.org/w/index.php?title=Special:DownloadAsPdf&page=Policy%3ATerms_of_Use&action=show-download-screen)
+* [Printable version](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&printable=yes "Printable version of this page [p]")
 
 From Wikimedia Foundation Governance Wiki
 
