@@ -235,9 +235,9 @@ Independent Advertisement Publishing Instead of using Roblox Immersive Ads, deve
 * Advertisements cannot falsely represent the content being advertised to encourage user engagement (e.g., offer free Robux).
 
   
-For more information on how to independently advertise, please see our [Creator guidance here.](https://create.roblox.com/docs/production/promotion/complying-with-advertising-standards)
+For more information on how to independently advertise, please see our [Creator guidance here.](https://create.roblox.com/docs/production/promotion/advertising-on-roblox#independent-advertising)
 
-Prohibited Advertising Practices and Content All advertisements on Roblox must adhere to Roblox’s Advertising Standards, which can be found [here](https://en.help.roblox.com/hc/articles/13722260778260).
+Prohibited Advertising Practices and Content All advertisements on Roblox must adhere to Roblox’s [Advertising Standards](https://en.help.roblox.com/hc/articles/13722260778260). Creator guidance for complying with the Advertising Standards can be found [here](https://create.roblox.com/docs/production/promotion/complying-with-advertising-standards).
 
 Roblox Economy
 
