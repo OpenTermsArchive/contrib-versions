@@ -1,6 +1,6 @@
 **Privacy Notice**
 
-**Last modified March 2022**
+**Last modified March 2023**
 
 This Privacy Notice will help you understand what personal information FEDERATION INTERNATIONALE DE HOCKEY, Nagravision Sarl, collect and use when providing Services to you and your privacy rights associated with that personal information.
 
@@ -95,6 +95,10 @@ When you access the Services by or through a mobile device (including but not li
 9\. Location data
 
 When you access the Service by or through a mobile device, we may access, collect, monitor and/or remotely store location data, which may include GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device (“Location Data”). Location Data may convey to us information about how you browse and use the Service. Location Data may be used to personalize and customize your experience when using the Service, facilitate the functionality of certain features within the Service, and to improve the Service. Some features of the Service, particularly location-based services, may not function properly if use or availability of Location Data is impaired or disabled. Your device configuration settings allow you to disable location tracking. Please refer to the instructions for your mobile device’s operating system.
+
+10\. Facebook/Meta conversion tracking pixel
+
+With your permission, our website utilizes the Conversion Tracking Pixel service of Facebook Inc, 1601 S. California Ave., Palo Alto, CA 94304, USA (“Facebook”). This tool allows us to follow the action of users after they are redirected to a provider’s website by clicking on a Facebook advertisement. We are thus able to record the efficacy of Facebook advertisement for a statistical and market research purposes. The collected data are saved and processed by Facebook. Facebook is able to connect the data with your Facebook account and use the data for their own advertising purposes, in accordance with Facebook’s Data User Policy found under: [**https://www.facebook.com/about/privacy**](https://www.facebook.com/about/privacy). Facebook Conversion Tracking also allows Facebook and its partners to show you advertisements on and outside Facebook. In addition, a cookie will be saved onto your computer for their purposes.
 
 **Do Not Track signals**
 
