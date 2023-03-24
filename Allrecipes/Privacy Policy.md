@@ -1,7 +1,7 @@
 Brand Privacy Policy
 --------------------
 
-Effective Date: September 01, 2022
+Last Updated: September 01, 2022
 
 At Dotdash Meredith, we take privacy seriously and we respect the privacy concerns of our community of users. This Privacy Policy (the “**Privacy Policy**”) describes how the Dotdash Meredith publishing family and any other digital properties that link to this Privacy Policy (collectively, the “**Company**,” “**we**,” “**us**,” or “**our**”) collect, use, disclose, and otherwise process personal information in connection with our websites (the “**Sites**”), mobile applications (the “**Apps**”), and the related content, services, products, and other features and functionality offered on or through those Sites and Apps (collectively, the “**Services**”). 
 
