@@ -228,7 +228,7 @@ To the fullest extent permitted by applicable law, the parties agree to waive an
 
 ### [](#arbitration-agreement)**ARBITRATION AGREEMENT**
 
-ThisArbitration Agreement section sets forth the terms and conditions pursuant to which Disputes between you and Spotify will be resolved through individual arbitration ("**Arbitration Agreement**").
+This Arbitration Agreement section sets forth the terms and conditions pursuant to which Disputes between you and Spotify will be resolved through individual arbitration ("**Arbitration Agreement**").
 
 #### [](#dispute-resolution-and-arbitration)**Dispute resolution and arbitration**
 
@@ -244,7 +244,7 @@ YOU AND SPOTIFY AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER IN ARBITRATIO
 
 #### [**Pre-arbitration notice of dispute and informal resolution period**](#pre-arbitration-notice-of-dispute-and-informal-resolution-period)
 
-A party who intends to seek arbitration must first send a written notice of the Dispute ("**Notice**") to the other. Notices to Spotify must be sent by email to [leg](mailto:legal@spotify.com)al@spotify.com, and Notices to you must be sent to the email address associated with your Spotify account. All Notices must: (1) be personally signed by the party sending the Notice; (2) provide the relevant user's name, email address associated with the user's Spotify account, and Spotify username; (3) describe with specificity the nature and basis of the Dispute; and (4) set forth the alleged damage and harm suffered and the specific relief sought with a calculation for it.
+A party who intends to seek arbitration must first send a written notice of the Dispute ("**Notice**") to the other. Notices to Spotify must be sent by email to [legal@spotify.com](mailto:legal@spotify.com), and Notices to you must be sent to the email address associated with your Spotify account. All Notices must: (1) be personally signed by the party sending the Notice; (2) provide the relevant user's name, email address associated with the user's Spotify account, and Spotify username; (3) describe with specificity the nature and basis of the Dispute; and (4) set forth the alleged damage and harm suffered and the specific relief sought with a calculation for it.
 
 After a Notice containing all of the information required above is received, the parties agree to engage in good faith for a period of sixty (60) days in an effort to resolve the Dispute (this time period may be extended by agreement of the parties) ("**Informal Resolution Period**"). The party receiving the Notice may request a telephone or video settlement conference during the Informal Resolution Period in an effort to facilitate resolution of the Dispute ("**Informal Settlement Conference**"). The Informal Settlement Conference, if any, will take place at a mutually agreeable time, which can be after the sixty (60) day Informal Resolution Period if needed to accommodate the parties' schedules. During the Informal Settlement Conference, you and a Spotify representative must both personally participate in a good-faith effort to resolve the Dispute without the need to proceed with arbitration. Any counsel representing the parties also may participate. Personal participation in an Informal Settlement Conference will not be required if both you and Spotify agree in writing.
 
