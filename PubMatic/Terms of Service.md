@@ -132,23 +132,23 @@ We recommend that you read this entire Agreement carefully.  However, to make i
 
 13.5 “Demand Partner” means PubMatic’s media buying advertisers, and addressability partners, including but not limited to demand side platforms, ad exchanges, agencies, agency trading desks, and ad networks.
 
-13.6 “Publisher Revenue” represents revenue earned by Publisher based on Publisher Inventory monetized via the PubMatic Products as determined by PubMatic.
+13.6 “EU Data Protection Addendum” means the data protection addendum located at [https://pubmatic.com/legal/publisher-data-processing-addendum/](https://pubmatic.com/legal/publisher-data-processing-addendum/).
 
-13.7 “EU Data Protection Addendum” means the data protection addendum located at [https://pubmatic.com/legal/publisher-data-processing-addendum/](https://pubmatic.com/legal/publisher-data-processing-addendum/).
+13.7 “Marks” means a party’s names, logos, trademarks, service marks, domain names, trade names, logos, other creative or product materials, or identifying insignia, or symbols and abbreviations thereof.
 
-13.8 “Marks” means a party’s names, logos, trademarks, service marks, domain names, trade names, logos, other creative or product materials, or identifying insignia, or symbols and abbreviations thereof.
+13.8 “Order Form” means each written order for PubMatic Products executed by and between PubMatic and Publisher and which documents commercial and contact details.
 
 13.9 “Outstanding Receivables” means any Publisher Revenue that (a) remains unpaid by a Demand Partner for a period greater than one-hundred twenty (120) days of the invoice date, or (b) will not be paid, in PubMatic’s reasonable and good faith discretion, by a Demand Partner. To the fullest extent permitted by applicable law, Publisher shall then have the right to pursue collection of the Outstanding Receivable directly from the applicable Demand Partner, with reasonable assistance from PubMatic upon request. The PubMatic Fees related to an Outstanding Receivable shall only be payable as to the portion of the Outstanding Receivable collected by Publisher or PubMatic from the Demand Partner.
 
 13.10 “Prohibited Content” means all content displayed on any Publisher Property that is forbidden pursuant to the Supply Policy.
 
-13.11 “Publisher Inventory” means the advertising inventory or slots made available by Publisher and Publisher’s third-party Publishers in the Publisher Properties.
+13.11 “Publisher Data” means data it provides to or makes available to PubMatic under this Agreement.
 
-13.12 “Publisher Data” means data it provides to or makes available to PubMatic under this Agreement.
+13.12 “Publisher Inventory” means the advertising inventory or slots made available by Publisher and Publisher’s third-party Publishers in the Publisher Properties.
 
-13.13 “Publisher Inventory” means the advertising inventory or slots made available by Publisher and Publisher’s third-party Publishers in the Publisher Properties.
+13.13 “Publisher Properties” means the websites, video, mobile applications and other digital media properties owned, operated, controlled, or made available by Publisher or Publisher’s third-party Publishers.
 
-13.14 “Publisher Properties” means the websites, video, mobile applications and other digital media properties owned, operated, controlled, or made available by Publisher or Publisher’s third-party Publishers.
+13.14 “Publisher Revenue” represents revenue earned by Publisher based on Publisher Inventory monetized via the PubMatic Products as determined by PubMatic.
 
 13.15 “PubMatic Data” means data derived from or related to the PubMatic Products, including all data collected by PubMatic or its Demand Partners in connection with the PubMatic Products, and any data provided or made available by PubMatic, its Demand Partners or third-party service providers.
 
@@ -156,9 +156,7 @@ We recommend that you read this entire Agreement carefully.  However, to make i
 
 13.17 “PubMatic Products” means PubMatic’s online advertising services, products, and features described at [https://pubmatic.com/legal/program-descriptions](https://pubmatic.com/legal/program-descriptions).
 
-13.18 “Order Form” means each written order for PubMatic Products executed by and between PubMatic and Publisher and which documents commercial and contact details.
-
-13.19 “Supply Policy” means the supply policy located at [https://pubmatic.com/legal/supply-policy/](https://pubmatic.com/legal/supply-policy).
+13.18 “Supply Policy” means the supply policy located at [https://pubmatic.com/legal/supply-policy/](https://pubmatic.com/legal/supply-policy).
 
 **In the Absence of a Order Form or Mutually Agreed upon Publisher Master Services Agreement:**
 
