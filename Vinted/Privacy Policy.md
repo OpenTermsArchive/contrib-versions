@@ -3,7 +3,7 @@ Expand all
 Vinted Privacy Policy
 =====================
 
-Date last updated: 01-21-2022
+Date last updated: 03-27-2023
 
 When it comes to your personal data, safety and transparency take top priority here at Vinted. To help you understand what information we collect about you, how we use it and what rights you have, we’ve prepared this detailed Privacy Policy.
 
@@ -156,24 +156,24 @@ If you list items on the Platform, we will collect and use the following data fo
 9. Item photos;
 10. Item number;
 11. Metadata of the photos you upload (geolocation, device ID number, date and time of photo taken, etc.);
-12. ISBN (when you sell or swap books);
+12. ISBN (when you sell books);
 13. Information as to whether the item is unisex;
 14. Price;
 15. Discount;
-16. Information on whether you are interested in swapping your items;
-17. Information as to whether the item is marked as reserved;
-18. Shipping options;
+16. Information as to whether the item is marked as reserved;
+17. Shipping options;
+18. Parcel size;
 19. Reasons for deleting the item.
 
 Legal basis for such collection and use of your personal data is our legitimate interest to enable you to create, publish and delete listings on the Platform when you so decide (Art. 6 (1) (f) of the GDPR).
 
-Personal data collected and used for this purpose is kept for eighteen (18) months and seven (7) days of inactivity. Photos are kept for three (3) months after the item is deleted. Photo metadata containing personal data is deleted immediately.
+Personal data collected and used for this purpose is kept for eighteen (18) months and seven (7) days of inactivity. Deleted items and their photos are stored for 6 months. Photo metadata containing personal data is deleted immediately.
 
 **2.1.6. To enable notifications on the Platform for you**
 
 When you are a registered member on the Platform, we will provide you with notifications on the Platform regarding your new followers, your favorited items, your activity on the forum and other important messages.
 
-Legal basis for the collection and use of data is the fulfillment of a contract (GTC) to which you are party (Art. 6 (1) (b) of the GDPR).
+The legal basis for the collection and use of data for the purposes of sending you inbox notifications within the Platform is the performance of a contract (GTC) to which you are party (Art. 6(1)(b) of the GDPR), and the legal basis for sending you push notifications is our legitimate interest to facilitate sales on the Platform (Art. 6(1)(f) of the GDPR).
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
@@ -249,7 +249,23 @@ You can delete and edit your own forum topics and posts at any time.
 
 Unless you delete your forum topics or posts beforehand, we collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
-**2.1.11. To send you important communication regarding the Platform**
+**2.1.11. To address your public feedback about us** 
+
+If you leave a public review or other feedback about the Platform, we collect and use the following data for the purpose of addressing your feedback:
+
+1. Full name;
+2. Country;
+3. Language (if you leave your feedback on the App Store or Google Play);
+4. Feedback;
+5. Date and time of feedback;
+6. Link to feedback;
+7. Technical data related to browser, device type and operating system (if you leave your feedback on the App Store or Google Play).
+
+The legal basis for such collection and use is our legitimate interest to manage Vinted’s reputation (Art. 6 (1) (f) of the GDPR).
+
+We collect and use your personal data for this purpose for up to 4 months.
+
+**2.1.12. To send you important communication regarding the Platform**
 
 If you register on the Platform, we will send you emails and messages via the Platform’s messaging system for the purpose of providing important notifications such as GTC, Privacy Policy changes.
 
@@ -257,7 +273,7 @@ Legal basis for the collection and use of data is the performance of a contract 
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
-**2.1.12. To send you offers via the Platform’s messaging system**
+**2.1.13. To send you offers via the Platform’s messaging system**
 
 If you register on the Platform, we will send you offers related to Vinted services via the Platform’s messaging system (“Offers”).
 
@@ -267,13 +283,13 @@ In order to send Offers, Vinted uses the service provider, Braze, Inc. (USA), es
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
-**2.1.13. To provide you with customer support service**
+**2.1.14. To provide you with customer support service**
 
 If you send us questions, requests or complaints, we will collect and use the following data for the purpose of providing you with customer support services you request on the Platform:
 
 1. Your profile information;
 2. Platform usage information;
-3. Transaction information;
+3. Transaction and pay-out information;
 4. Shipment information;
 5. Communications;
 6. Age;
@@ -290,26 +306,28 @@ Legal basis for the collection and use of data is the fulfillment of a contract 
 
 In order to respond to your inquiries, Vinted provides your data to customer support service providers.
 
-The following service providers are established outside the European Economic Area, which may result in your data being shared with our customer support agents outside the European Economic Area. In these instances, the personal data is protected by the service providers entering into the [EU standard contractual clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission.
+The following service providers are operating outside the European Economic Area, which may result in your data being shared with our customer support agents outside the European Economic Area. In these instances, the personal data is protected by the service providers entering into the [EU standard contractual clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission.
 
-1. Transcom Worldwide Albania SH.P.K. (Albania);
-2. Transcom Worldwide Tunis Sarl (Tunisia);
-3. Transcom Worldwide Italy SpA (Italy, Colombia);
-4. Phoneact S.A.R.L (Tunisia);
-5. Helpware Inc. (USA, Ukraine, Mexico);
-6. Teleperformance Portugal, S.A. (Egypt).
+1. Transcom Worldwide Italy SPA (Albania)
+2. Transcom Worldwide Tunis S.a.r.l. (Tunisia)
+3. Transcom Worldwide SAS (Colombia)
+4. Helpware Inc. (Ukraine)
+5. Teleperformance Portugal S.A (Egypt)
+6. Teleperformance Guyana INC. (Guyana)
+7. Outsourcia Société par actions simplifiée (Morocco)
+8. PhoneAct S.A.R.L. (Tunisia)
 
 Personal data collected and used for this purpose is kept for 2 years after the last update related to your inquiry. If your account is deleted, personal data collected and used for this purpose will be deleted along with your account.
 
-**2.1.14. To resolve any purchase-related disputes between members**
+**2.1.15. To resolve any purchase-related disputes between members**
 
-If you purchase and/or sell and/or swap items on the platform and are involved in a dispute with another member, we will collect and use any of your personal data held by Vinted necessary to solve the dispute.
+If you purchase and/or sell items on the Platform and are involved in a dispute with another member, we will collect and use any of your personal data held by Vinted necessary to solve the dispute.
 
 We base such collection and use on a legitimate interest in settling disputes between our members and defending the rights and interests of Vinted (Art. 6 (1) (f) of the GDPR) and, where relevant, compliance with the legal obligations to which Vinted is subject (Art. 6 (1) (c) of the GDPR).
 
 Personal data collected and used for this purpose is kept for 1 year after the conclusion of a dispute.
 
-**2.1.15. To temporarily retain your deactivated account**
+**2.1.16. To temporarily retain your deactivated account**
 
 If you decide to deactivate your account, we will take all reasonable efforts to make sure it is no longer viewable on the Platform and restrict the use of your personal data. For up to 3 months, it is still possible to restore your account if it was accidentally or wrongfully deactivated or in case you change your mind and wish to return to the Platform and take action in the event that someone other than yourself gained access to and deleted your account without your knowledge.
 
@@ -374,7 +392,15 @@ Legal basis for such collection and use of your personal data is our legitimate 
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
-**2.2.5. To improve search results on the Platform**
+**2.2.5. To suggest relevant item descriptions**
+
+When you create item listings on the Platform, we collect and analyze the data you provide in the listing (see 2.1.5 above) to suggest the most appropriate description for your listing.
+
+The legal basis for such collection and use of data is our legitimate interest to improve the Platform and ensure that our members receive relevant suggestions (Art. 6 (1) (f) of the GDPR).
+
+We collect and use your personal data for this purpose until the deactivation of your Vinted account or for 5 years of inactivity on your account.
+
+**2.2.6. To improve search results on the Platform**
 
 We collect and use data provided in the item listings (see 2.1.5 above) with no seller-related information in order to improve search results by evaluating the degree of relevance of certain items with respect to a specific search keyword and to automatically suggest relevant categories for new listings. For this, we only use the item listing without any link to a particular seller.
 
@@ -384,7 +410,7 @@ Vinted uses service providers who provide data analysis services to Vinted.
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for 5 years.
 
-**2.2.6. To save your recent searches**
+**2.2.7. To save your recent searches**
 
 In order to help you find previously searched items on the Platform, we save your search keywords. We collect and use the following data for the purpose of providing information about newly listed items on the Platform based keywords from your previous searches:
 
@@ -396,9 +422,9 @@ Legal basis for such collection and use is the legitimate interest of our member
 
 You can delete your search history at any time.
 
-Unless you delete your search history beforehand, we collect and use your personal data for this purpose until the deactivation of your Vinted account or until 5 years of inactivity on your account have lapsed.
+Unless you delete your search history earlier, we collect and use your personal data for this purpose for up to 6 months.
 
-**2.2.7. To help you draw more attention to your listings**
+**2.2.8. To help you draw more attention to your listings**
 
 Should you order extra services, i.e. bumps or the “Wardrobe Spotlight” in order to increase your items’ visibility on the Platform, we collect and use the following data:
 
@@ -418,7 +444,7 @@ Personal data is required to fulfill a contract (GTC) with you. If you do not pr
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for 5 years.
 
-**2.2.8. To suggest a price upon creation of an item listing**
+**2.2.9. To suggest a price upon creation of an item listing**
 
 If you choose to create an item listing on the Platform, our algorithms will analyze its price in addition to the item category, item brand and item condition. We will then use that information to show you pictures and prices of similar items sold in the last three months in order to help you determine the selling price for your item.
 
@@ -430,7 +456,7 @@ To perform the above function, we collect and use pictures and prices of items s
 
 Upon listing your items, we collect and use such information to analyze your items throughout the item listing process. Upon sale of your items, we collect and use the data mentioned above for three (3) months after the item’s sale.
 
-**2.2.9. To enable notifications about your favorite items**
+**2.2.10. To enable notifications about your favorite items**
 
 If you favorite an item listed by another member on the Platform, Vinted will inform you when the price of your favorited goes down or when the item is sold. For this reason, we will collect and use the following data:
 
@@ -445,7 +471,7 @@ Legal basis for such collection and use is the legitimate interest of our member
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
-**2.2.10. To notify sellers when you favorite their items**
+**2.2.11. To notify sellers when you favorite their items**
 
 If you favorite an item on the Platform, Vinted will inform the seller that you have favorited their item.
 
@@ -455,7 +481,7 @@ You can disable these notifications by logging in to the Platform, going to Priv
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
-**2.2.11. To allow you to follow other members**
+**2.2.12. To allow you to follow other members**
 
 If a member you followed listed a new item on the Platform, we will notify you about it.
 
@@ -463,7 +489,7 @@ Legal basis for such collection and use of your personal data is our legitimate 
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
-**2.2.12. To improve our Platform**
+**2.2.13. To improve our Platform**
 
 Vinted is committed to the Platform’s optimal performance. While the Platform is in use, Vinted gathers information about actions performed on the Platform (button clicks, visiting time, notifications read, other information based on a given business case) and other data described under 2.1, 2.2, 2.5, 2.6 and 5 of this Privacy Policy in order to help us make decisions on how to improve the Platform and make it a better experience for our members.
 
@@ -471,7 +497,7 @@ Legal basis for such collection and use is our legitimate interest in maintainin
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
-**2.2.13. To conduct surveys**
+**2.2.14. To conduct surveys**
 
 We are always looking for ways to improve your user experience with Vinted. As such, you may be invited to participate in a survey and your feedback may be used. For this purpose, we collect and use the following data:
 
@@ -491,7 +517,7 @@ For our surveys we use a service provider Widgix Limited (United Kingdom, [which
 
 We will anonymize your responses after 3 months – this means that the responses will no longer be associated with you.
 
-**2.2.14. To conduct interviews**
+**2.2.15. To conduct interviews**
 
 In order to understand our users' needs and improve your experience on the Platform, we conduct on-site or online interviews with you. For this purpose, we collect and use the following data:
 
@@ -499,7 +525,7 @@ In order to understand our users' needs and improve your experience on the Platf
 2. Your gender;
 3. Your age;
 4. Your interests;
-5. Audio recording of your interview;
+5. Recording of your interview;
 6. Other data you voluntarily submitted during the interview.
 
 Legal basis for inviting you to participate in the interview is our legitimate interest in receiving feedback from our members and using it to improve the Platform (Art. 6 (1) (f) of the GDPR).
@@ -510,7 +536,7 @@ If you wish to participate in the interview, the information above will be colle
 
 We will anonymize your responses after three (3) months – this means that the responses will no longer be associated with you.
 
-**2.2.15. To enable you to share your user journey**
+**2.2.16. To enable you to share your user journey**
 
 We are making constant improvements to our Platform and look for ways to improve your experience while using Vinted. If you agree, we enable you to share your user journey through our Platform. In so doing, we will collect and use the following data:
 
@@ -530,7 +556,7 @@ If you wish to participate in the survey, the information above will be collecte
 
 We will anonymize your responses after three (3) months – this means that the responses will no longer be associated with you.
 
-**2.2.16. To enable automatic content translation**
+**2.2.17. To enable automatic content translation**
 
 To make the content available in all preferred member languages, we have integrated an automatic translation solution into the Platform. We collect and use the following data if you or another member wishes to have translated:
 
@@ -543,7 +569,7 @@ For automatic translation, Vinted uses service provider Google LLC (USA) which i
 
 Legal basis for such collection and use of the personal data is the legitimate interest of Vinted and its members (Art. 6 (1) (f) of the GDPR) in making the Platform more convenient and intuitive for our members.
 
-We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
+We collect and use your personal data for this purpose for 2 weeks after the translation has been completed.
 
 2.3. To ensure the security of your account and the Platform
 
@@ -661,7 +687,25 @@ We may share photos of listings or other proofs of authenticity free of your per
 
 Personal data collected and used for this purpose is kept for 2 years when it is necessary to solve disputes between our users.
 
-**2.3.9. To carry out account ownership checks**
+**2.3.9. To facilitate the exercise of intellectual property rights**
+
+Intellectual property right holders (or their representatives) can complete our Intellectual Property Infringement Report. Within this report, Vinted collects and uses the following personal data:
+
+1. Full name;
+2. Email;
+3. Address;
+4. Postcode
+5. Country;
+6. Name of the organization represented;
+7. Relationship with the rights owner;
+8. IP right / copyright / patent / trademark / design data;
+9. Infringement data.
+
+The legal basis for such collection and use of your personal data is our legitimate interest to protect the Platform and our members from intellectual property infringements (Art. 6 (1) (f) of the GDPR).
+
+Personal data collected and used for this purpose are kept for 5 years.
+
+**2.3.10. To carry out account ownership checks**
 
 As part of the security process, we may ask our members to verify ownership of their Vinted account. To confirm your identity, we will need one of the following as proof:
 
@@ -674,7 +718,7 @@ Legal basis for such collection and use of your personal data is our legitimate 
 
 Personal data collected and used for this purpose is kept for 3 days from receipt of the proof.
 
-**2.3.10. To allow you to report inappropriate behavior or content**
+**2.3.11. To allow you to report inappropriate behavior or content**
 
 If you would like to report inappropriate messages, forum activity, members, items, spam or spoof mail, we will collect and use the following data for the purpose of ensuring the security of the Platform and its members:
 
@@ -687,7 +731,7 @@ Legal basis for such collection and use of your personal data is our legitimate 
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
-**2.3.11. To report suicidal posts**
+**2.3.12. To report suicidal posts**
 
 In exceptional cases, where we notice suicidal posts on our Platform, we may report them to the police. In such cases we will collect and use and disclose the following data for the purpose of reporting suicidal posts:
 
@@ -708,7 +752,7 @@ Vinted actively supervises compliance with and enforces GTC for the purpose of e
 
 **2.4.1. To calculate the trust score**
 
-In order to ensure the security of the Platform and its members, Vinted makes automated decisions and assigns each member a "trust score" calculated with an algorithm and maintaining a black base of member’s personal data suggestive of unlawful activities. The "trust score" indicates the likelihood of improper use of the Platform.
+In order to ensure the security of the Platform and its members, Vinted gives each member a "trust score" calculated using an algorithm, and maintains a database of unlawful activities typically performed by bad actors. The "trust score" indicates the likelihood of improper use of the Platform.
 
 Our algorithm takes into account members’ comments on a forum, messages to other members, items listed on the platform, transactions, reports from other members on that member, the member's profile and contact information, the member's violations of our GTC, IP addresses, and browser fingerprints, other content provided to use by the member.
 
@@ -718,7 +762,15 @@ Legal basis for such collection and use is our legitimate interest to protect th
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
-**2.4.2. To enforce spam filtering**
+**2.4.2. To identify and prevent malicious accounts and activities**
+
+In order to ensure the security of the Platform and its members, Vinted collects and maintains a database of keywords indicating malicious accounts and activities. This database may contain emails, certain words or phrases found in messages, and other relevant data. By matching members’ activity against the keywords in the database, we can identify and prevent bad actors more effectively.
+
+The legal basis for such collection and use is our legitimate interest to protect the Platform and its users and ensure its security and the legitimate interest of our members to ensure their safety on the Platform (Art. 6 (1) (f) of the GDPR).
+
+The database entries containing personal data are retained for 13 months.
+
+**2.4.3. To enforce spam filtering**
 
 In order to protect our members and the Platform, we use spam filtering tools. These tools include a list of keywords that are commonly associated with spam. If your messages include these keywords, they are stopped by the above-referenced tools and reviewed manually before being sent to other members.
 
@@ -726,7 +778,7 @@ Legal basis for such collection and use is our legitimate interest to protect th
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
-**2.4.3. To moderate your activity on the Platform**
+**2.4.4. To moderate your activity on the Platform**
 
 In order to ensure the security of the Platform and its members we regularly moderate your activity on the Platform. We may check your listings automatically or we may check your listings, comments, and messages upon receipt of reports from other members or third parties.
 
@@ -736,7 +788,7 @@ Legal basis for such collection and use is our legitimate interest to protect th
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
-**2.4.4. To issue and enforce warnings**
+**2.4.5. To issue and enforce warnings**
 
 As a member, if you violate our GTC or take other actions that result in a warning being issued to you, we collect and use the following data to issue and enforce the warning:
 
@@ -748,7 +800,7 @@ Legal basis for such collection and use is our legitimate interest to protect th
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
-**2.4.5. To delete or hide items that violate Vinted GTC**
+**2.4.6. To delete or hide items that violate Vinted GTC**
 
 If you list items that violate our GTC, we will remove or hide them. However, we will retain deleted listings as proof of the violation. For this purpose, Vinted uses personal data included in the listing as specified under 2.1.5.
 
@@ -756,7 +808,7 @@ Legal basis for such collection and use is our legitimate interest to protect th
 
 Deleted listings are stored for 30 days after their removal.
 
-**2.4.6. To detect and lock compromised accounts**
+**2.4.7. To detect and lock compromised accounts**
 
 In order to protect our members and the Platform, we regularly check for suspicious activities to detect compromised accounts. If we determine that your account may be compromised or at your request, we may lock your account.
 
@@ -764,7 +816,7 @@ Legal basis for such collection and use of your personal data is our legitimate 
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
-**2.4.7. To suspend members**
+**2.4.8. To suspend members**
 
 If you send too many messages in a short period of time, you may get suspended for between one (1) and six (6) hours. For this purpose, Vinted collects and uses the time and duration of the suspension.
 
@@ -772,7 +824,7 @@ Legal basis for such collection and use is our legitimate interest to protect th
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
-**2.4.8. To enforce bans**
+**2.4.9. To enforce bans**
 
 If you violate Vinted GTC in a way that results in your ban, we will use the reason for your ban, its time and your profile data.
 
@@ -780,13 +832,21 @@ Legal basis for such collection and use is our legitimate interest to protect th
 
 Personal data collected and used for this purpose is kept for three (3) months from the time you were blocked.
 
-**2.4.9. To enforce IP blocks**
+**2.4.10. To enforce IP blocks**
 
 If there are signs of cyber-attacks or other risks to the Platform’s security coming from your IP address, in order to protect the platform, we will collect and use your IP address and block it.
 
 Legal basis for such collection and use is our legitimate interest to protect the Platform and its users and ensure its security and the legitimate interest of our members to ensure their safety on the Platform (Art. 6 (1) (f) of the GDPR).
 
 Personal data collected and used for this purpose is kept for five (5) years.
+
+**2.4.11. To restrict the fraudulent use of payment instruments** 
+
+If there are signs of any fraudulent activity with your payment instrument (e.g. credit/debit card), we will collect and use your payment instrument and order data to protect the Platform by restricting the use of your payment instrument.
+
+The legal basis for such collection and use is our legitimate interest to protect the Platform and its members and ensure its security and the legitimate interest of our members to keep them safe on the Platform (Art. 6 (1) (f) of the GDPR).
+
+Personal data collected and used for this purpose are kept for the duration of the restrictions applied.
 
 2.5. To enable your payment for items
 
@@ -895,7 +955,19 @@ Personal data is required to fulfill contracts (GTC and STRIPE Terms and Conditi
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
-**2.5.5. To implement Know Your Customer (KYC) checks on our Platform**
+**2.5.5. To enable donations**
+
+When you make a donation via our Platform, we collect and use the following data for the purpose of allowing you to make the donation:
+
+1. Amount donated;
+2. Date and time of donation;
+3. Name of the organization receiving the donation.
+
+The legal basis for such collection and use is our legitimate interest to bring value to our members by empowering them to support their causes (Art. 6 (1) (f) of the GDPR).
+
+We collect and use your personal data for this purpose until the deactivation of your Vinted account or if your account is inactive for 5 years.
+
+**2.5.6. To implement Know Your Customer (KYC) checks on our Platform**
 
 Whenever you reach the KYC thresholds which are set by ADYEN, ADYEN will ask you to provide a copy of your passport, ID card or driver’s license, including temporary licenses. In that case, we will enable ADYEN to collect the following data from you in order to allow ADYEN, as payment service provider, to perform an identity check (so-called Know Your Customer, KYC):
 
@@ -918,7 +990,7 @@ For this purpose, Vinted implemented ADYEN’s API – a technical measure that 
 
 This is necessary in order to fulfill our legitimate interest to provide ADYEN with necessary information for their compliance with the legal obligations to which ADYEN is subject (Art. 6 (1) (f) of the GDPR).
 
-**2.5.6. To implement Know Your Customer (KYC) checks on our old.vinted.com Platform**
+**2.5.7. To implement Know Your Customer (KYC) checks on our old.vinted.com Platform**
 
 Please note, this section only applies to our old Platform.
 
@@ -938,7 +1010,7 @@ For this purpose, Vinted implemented STRIPE’s API – a technical measure that
 
 This is necessary in order to fulfill our legitimate interest to provide STRIPE with necessary information for their compliance with the legal obligations to which STRIPE is subject (Art. 6 (1) (f) of the GDPR).
 
-**2.5.7. To issue refunds**
+**2.5.8. To issue refunds**
 
 If you purchase an item and it is never shipped, arrives damaged or is not as described and you issue a claim, we collect and use the data used to make a purchase (see 2.5.3 and 2.5.4) for the purpose of issuing a refund.
 
@@ -948,7 +1020,7 @@ Personal data is required to fulfill a contract (GTC) with you. If you do not pr
 
 Transaction data is kept for 13 months from the day of transaction.
 
-**2.5.8. To keep financial records**
+**2.5.9. To keep financial records**
 
 If you participate in purchase-sale and/or other transactions when using the Platform, Vinted will collect and use the following data in order to carry out its accounting-related duties:
 
@@ -972,7 +1044,7 @@ This data is also used for improvement of the Platform in order to make it a bet
 
 **2.6.1. To enable you to ship or receive items**
 
-If you choose to enter your shipping information or when you buy, sell or swap items, we collect and use the following data that you provide for dispatch and shipping purposes:
+If you choose to enter your shipping information or when you buy or sell items, we collect and use the following data that you provide for dispatch and shipping purposes:
 
 1. Full name;
 2. Country;
@@ -997,11 +1069,11 @@ We provide personal data collected and used for this purpose to the following re
 
 Otherwise, it is up to the seller to follow the instructions and provide your data to the shipping provider.
 
-Personal data collected and used for this purpose is kept for 10 years.
+Personal data collected and used for this purpose is kept for 6 months.
 
 **2.6.2. To track your parcel**
 
-When you buy, sell or swap items on the Platform, we collect and use the following data for shipment tracking purposes:
+When you buy or sell items on the Platform, we collect and use the following data for shipment tracking purposes:
 
 1. Date and time of package delivery;
 2. Package tracking number;
@@ -1014,7 +1086,7 @@ Legal basis for the collection and use of your personal data is the legitimate i
 
 Personal data is required to fulfill a contract (GTC) with you. If you do not provide us with this personal data, we will not be able to enter into and fulfill a contract (GTC) with you.
 
-Personal data collected and used for this purpose is kept for 10 years.
+Personal data collected and used for this purpose is kept for 6 months.
 
 2.7. To carry out marketing activities
 
@@ -1121,7 +1193,7 @@ Information is collected for this purpose by advertising service partners and is
 
 **2.7.7. To evaluate efficiency of promotional campaigns**
 
-When you use the Platform, Vinted analyzes its marketing activities and how you use the Platform (when you register, login, create a listing, make a sale, swap or purchase, upload an item’s photo, open our App, register or install the app, etc.) for the purpose of evaluating the efficiency of promotional campaigns, and to better comprehend visitor behavior after they have viewed a certain ad and visited our Platform or downloaded our App.
+When you use the Platform, Vinted analyzes its marketing activities and how you use the Platform (when you register, login, create a listing, make a sale or purchase, upload an item’s photo, open our App, register or install the app, etc.) for the purpose of evaluating the efficiency of promotional campaigns, and to better comprehend visitor behavior after they have viewed a certain ad and visited our Platform or downloaded our App.
 
 We base such collection and use on our legitimate business interest to evaluate the efficiency of our promotional campaigns in order to improve upon them (Art. 6 (1)(f) of the GDPR).
 
@@ -1235,7 +1307,7 @@ We collect and use your personal data for this purpose until your Vinted account
 
 If you exercise your statutory rights regarding your data (see 6 below), we will collect and use the data contained in your request in addition to any other personal data held by Vinted for the purpose of examining the request, responding to it and, when necessary, taking necessary action.
 
-We base such collection and use on a legitimate interest to exercise our members’ rights (Art. 6 (1) (f) of the GDPR).
+This is necessary in order to comply with the legal obligations to which Vinted is subject (Art. 6 (1) (c) of the GDPR).
 
 Personal data collected and used for this purpose are kept for two (2) years from the day we respond to your request.
 
@@ -1285,7 +1357,8 @@ The following service providers are established outside the European Economic Ar
 7. Chronicle, LLC (USA);
 8. True Partners Consulting, LLC (USA);
 9. Arcaris, Inc. (USA);
-10. Havas Edge, Inc. (USA).
+10. Havas Edge, Inc. (USA);
+11. Cloudflare, Inc. (USA).
 
 We transfer personal data to attorneys, attorney assistants, notaries, bailiffs, auditors, accountants, bookkeepers, debt collectors, consultants, translation agencies, IT service providers, insurance companies, and archiving services that provide services to Vinted.
 
