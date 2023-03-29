@@ -177,7 +177,7 @@ The types of data we will use for such purpose will mainly include (as detailed 
 As part of the Viber Pay service, Viber provides limited financial services via a licensed partner. In order to provide this, we use certain information and share it with the licensed partner. This includes, for example:
 
 * Identify you in order to enable you the use of the Viber Pay Services;
-* Share certain KYC data you provide with the Payment Service Provider, where it may in turn share with downstream banks, payment service providers, messaging systems, i.e., SWIFT, etc., to enable the payment processing. Viber will not share information more than is strictly necessary;
+* Share certain KYC data you provide with the Payment Service Provider, the Payment Service Provider may in turn may in turn share this with downstream banks, payment service providers, messaging systems, i.e., SWIFT, etc., to enable the payment processing. Viber will not share information more than is strictly necessary;
 * Enabling you to easily make future transfers to a beneficiary’s bank account, to which you have previously made a payment transfer.
 
 The types of data we will use for such purpose will mainly include (as detailed in the “**[**Data We Collect**](#data-we-collect)**” section above):
@@ -253,7 +253,7 @@ The types of data we will use for such purpose will mainly include (as detailed 
 Viber uses different types of personal data in order to provide customer service and customer support. This may include, for example:
 
 * We will use your contact details to communicate with you, give you information about your account, and respond to your requests;
-* We may use your contact history and correspondence with usfor the purpose of improving our Services, training our support team as well as internal management operation.
+* We may use your contact history and correspondence with us for the purpose of improving our Services, training our support team as well as internal management operation.
 
 The types of data we will use for such purpose will mainly include (as detailed in the “**[**Data We Collect**](#data-we-collect)**” section above):
 
@@ -381,7 +381,7 @@ If you use our Viber Out Credit and subscriptions, we will share your email addr
 
 Due to our global operations, your personal data will be shared with Viber corporate family, as well as our service providers and business partners around the world. We take measures to ensure the transfer of such data will provide sufficient safeguards. These measures include compliance with Binding Corporate Rules of the Rakuten Group, as well as contractual commitments of our partners and service providers.  We further explain below why we transfer personal data, the measures we take to ensure your personal data will be secure upon transfer, and your rights in this regard.
 
-Due to our global nature, your personal data may need to be processed in countries where data protection and privacy regulations may not offer the same level of protection as in your home country. Depending on the territory from which you use our Services, we may store and process all categories of your personal data on our computers located globally, including in the United States, Asia, Europe, Russia, Australia and Brazil. In addition, our communications servers are located globally in order to enable the operation of our communications servicesand we use service providers that may be located in various locations.
+Due to our global nature, your personal data may need to be processed in countries where data protection and privacy regulations may not offer the same level of protection as in your home country. Depending on the territory from which you use our Services, we may store and process all categories of your personal data on our computers located globally, including in the United States, Asia, Europe, Russia, Australia and Brazil. In addition, our communications servers are located globally in order to enable the operation of our communications services and we use service providers that may be located in various locations.
 
 Transfers of your personal data will be made in accordance with applicable data protection laws, and among others, we have put in place appropriate safeguards (such as contractual commitments) in accordance with applicable legal requirements to ensure that your personal data is adequately protected.
 
@@ -467,7 +467,7 @@ Our App may contain links to other third-party websites or you may access Apps f
 
 **Third parties’ websites and apps:**
 
-If you access or Services and App from any third-party website or other digital source, or access any third-party site from our Services and App, note that, your use and the personal data collected will be subject to such third party’s practices and we do not monitor, nor responsible for the privacy practices of these third parties.
+If you access or Services and App from any third-party website or other digital source, or access any third-party site from our Services and App, note that, your use and the personal data collected will be subject to such third party’s practices and we do not monitor, nor are we responsible for the privacy practices of these third parties.
 
 **Back-ups:**
 
@@ -483,7 +483,7 @@ Starting the end of June 2021 we added a new face lens feature that uses camera 
 
 Our Services are not intended for children under the age of 13 and we do not knowingly collect personal data from individuals under this age.
 
-Our Services are not intended for children under the age of 13. Therefore, we do not knowingly collect personal data via our websites, applications, services, or tools from anyone under 13. In the EEA, certain default privacy settings will be /applied to users under the age of 16 and can only be changed if the legal guardian instructs so in writing.
+Our Services are not intended for children under the age of 13. Therefore, we do not knowingly collect personal data via our websites, applications, services, or tools from anyone under 13. In the EEA, certain default privacy settings will be applied to users under the age of 16 and can only be changed if the legal guardian instructs so in writing.
 
 [Back to top](#top)  
 
