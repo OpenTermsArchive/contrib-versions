@@ -1670,10 +1670,14 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Landsat / Copernicus
             
+        * Global Energy Monitor [https://globalenergymonitor.org/creative-commons-public-license/](https://globalenergymonitor.org/creative-commons-public-license/)
+            
     57. **Chile**
         * Biblioteca del Congreso Nacional de Chile ([https://creativecommons.org/licenses/by/3.0/cl/](https://creativecommons.org/licenses/by/3.0/cl/))
             
         * IDE del Gobierno Regional de Coquimbo
+            
+        * Ministerio de Obras Públicas, Dirección de Vialidad [https://vialidad.mop.gob.cl/Paginas/default.aspx](https://vialidad.mop.gob.cl/Paginas/default.aspx)
             
     58. **Zambia**
         
