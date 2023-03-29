@@ -1,7 +1,7 @@
 Hugging Face Privacy Policy
 ===========================
 
-**🗓 Effective Date: December 7, 2021**
+**🗓 Effective Date: March 28, 2023**
 
 We have implemented this Privacy Policy because your privacy is important to us. This Privacy Policy (the “Policy”) describes the type of information that Hugging Face, Inc. (the “Company”) gathers from users of the Hugging Face services (the “Services”), and how the Company uses that information.
 
@@ -172,6 +172,8 @@ The Company does not use false or misleading subjects or email addresses. The Co
 ### 9\. CONTACT US
 
 If you have questions about this Policy, please contact privacy@huggingface.co.
+
+The main establishment in the European Union is Hugging Face, SAS, a French société par actions simplifiée à associé unique registered in the Paris Trade and Companies Register under the number 822 168 043, and whose headquarters are located on 9 rue des Colonnes, 75002 Paris, France. The designation of this main establishment in the European Union gives full authority to the French Data Protection Agency, la Commission Nationale de l'Informatique et des Libertés (CNIL) per the General Data Protection Regulation (GDPR).
 
 ### 10\. LIST OF THIRD-PARTY SERVICE PROVIDERS
 
