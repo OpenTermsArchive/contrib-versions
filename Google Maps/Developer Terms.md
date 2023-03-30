@@ -75,6 +75,14 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Queensland Government Transport & Main Roads [https://www.data.qld.gov.au/dataset/131940-traffic-and-travel-information-geojson-api](https://www.data.qld.gov.au/dataset/131940-traffic-and-travel-information-geojson-api), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
+        * EPA Northern territory [https://data.nt.gov.au/dataset/air\_quality/resource/e0f979a7-4939-4c2c-86e0-090a999848d5](https://data.nt.gov.au/dataset/air_quality/resource/e0f979a7-4939-4c2c-86e0-090a999848d5)
+            
+        * Queensland Government [https://www.qld.gov.au/legal/copyright](https://www.qld.gov.au/legal/copyright)
+            
+        * SA.GOV.AU [https://www.sa.gov.au/copyright](https://www.sa.gov.au/copyright)
+            
+        * Port Hedland Air Quality [http://airodis.ecotech.com.au/porthedlandairqualitymonitoringnetwork/index.html?site=9&station=0](http://airodis.ecotech.com.au/porthedlandairqualitymonitoringnetwork/index.html?site=9&station=0)
+            
     3. **Austria**
         * BEV - BA fuer Eich und Vermessungswesen (Geocodes) © Österreichisches Adressregister, 2009. You are not permitted, at any one time, to use Austrian Postal Data to provide, display or provide access to mass downloads or bulk feeds of numerical latitude and longitude coordinates.
             
@@ -328,6 +336,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * [Public transport network, timetable information and traffic bulletins](https://www.hsl.fi/en/opendata) in modified form licensed from Helsingin seudun liikenne (Helsinki Regional Transport Authority) under a [Creative Commons Attribution 4.0 licence](https://creativecommons.org/licenses/by/4.0/legalcode), which includes disclaimers of warranties. © Helsingin seudun liikenne (Helsinki Regional Transport Authority)
             
         * Source: [City of Helsinki road map](https://hri.fi/data/en_GB/dataset/helsingin-liikennevaylat). The maintainer of the dataset is Helsinki's urban environment industry / Urban measurement services. The dataset has been downloaded from [Helsinki Region Infoshare](https://hri.fi/fi/) service on 06.01.2023 under the license [Creative Commons Attribution 4.0.](https://creativecommons.org/licenses/by/4.0/)
+            
+        * ilmatieteen laitos [https://en.ilmatieteenlaitos.fi/licence-valid-for-data-downloaded-before-28-february-2015](https://en.ilmatieteenlaitos.fi/licence-valid-for-data-downloaded-before-28-february-2015)
             
     10. **France and Monaco**
         * © IGN France © 2009 IGN France BD Topo ® IGN, © 2007 IGN France BD Ortho ® IGN 50cm, © 2011 IGN France - Ortho HR® IGN 20cm (Paris region)
@@ -695,6 +705,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Natural England Open Data Publication: [http://www.nationalarchives.gov.uk/doc/open-government-licence/version](http://www.nationalarchives.gov.uk/doc/open-government-licence/version)
             
+        * © Crown 2023 copyright Defra via [uk-air.defra.gov.uk](https://uk-air.defra.gov.uk/) - [https://uk-air.defra.gov.uk/about-these-pages](https://uk-air.defra.gov.uk/about-these-pages)
+            
+        * LondonAir [https://www.londonair.org.uk/LondonAir/API/](https://www.londonair.org.uk/LondonAir/API/), [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/)
+            
     14. **Greece**
         * EuroGeographics; Copyright Geomatics Ltd.
             
@@ -777,6 +791,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Smart Dublin ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
             
         * Ireland's Open Data Portal - [Data.Gov.IE](https://data.gov.ie/) - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        * Northern Ireland Air [https://www.airqualityni.co.uk/about/copyright](https://www.airqualityni.co.uk/about/copyright)
             
     22. **Isle of Man**
         
@@ -893,6 +909,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * 国立公園区域等（環境省生物多様性センター [http://gis.biodic.go.jp/webgis/sc-026.html?kind=nps](http://gis.biodic.go.jp/webgis/sc-026.html?kind=nps) : [https://creativecommons.org/licenses/by/4.0/legalcode.ja](https://creativecommons.org/licenses/by/4.0/legalcode.ja)
             
+        * Soramame [https://www.env.go.jp/mail.html](https://www.env.go.jp/mail.html)
+            
     27. **Liechtenstein**
         
         “Liechtensteinische Landesverwaltung“ - [https://service.geo.llv.li/download//officialStreet/AbiOGDLizenz.pdf](https://service.geo.llv.li/download//officialStreet/AbiOGDLizenz.pdf)
@@ -964,6 +982,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * This work is based on/includes [Constituency 2020 Provisional Data](https://datafinder.stats.govt.nz/layer/103481-constituency-2020-provisional/) and [Urban Rural 2019 (generalised)](https://datafinder.stats.govt.nz/layer/98752-urban-rural-2019-generalised/) which are licensed by Stats NZ for reuse under the [Creative Commons Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/). Crown copyright ©.
             
         * Linz Data Service - Land Information New Zealand - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        * (CC-BY-4.0) - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
     34. **Northern Ireland**
         
@@ -1142,6 +1162,12 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * EMT of Valencia Link to their license: [https://smartcity.valencia.es/aviso-legal/](https://smartcity.valencia.es/aviso-legal/)
             
         * NAP-MITMA Link to their license: [https://nap.mitma.es/licencia-datos](https://nap.mitma.es/licencia-datos)
+            
+        * MeteoGalicia and the Ministry of the Environment, Territory and Housing of the Xunta de Galicia [https://www.meteogalicia.gal/web/informacion/notaIndex.action](https://www.meteogalicia.gal/web/informacion/notaIndex.action)
+            
+        * Madrid Comunidad [https://www.comunidad.madrid/gobierno/datos-abiertos/reutiliza-datos-abiertos-comunidad-madrid#condiciones-uso](https://www.comunidad.madrid/gobierno/datos-abiertos/reutiliza-datos-abiertos-comunidad-madrid#condiciones-uso)
+            
+        * EMT de Madrid Link to their license: [https://mobilitylabs.emtmadrid.es/sip/terms-of-use](https://mobilitylabs.emtmadrid.es/sip/terms-of-use)
             
     45. **Sweden**
         * © 2009 Cartesia GIS AB
@@ -1671,6 +1697,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Landsat / Copernicus
             
         * Global Energy Monitor [https://globalenergymonitor.org/creative-commons-public-license/](https://globalenergymonitor.org/creative-commons-public-license/)
+            
+        * Global Models - CAMS [https://www.ecmwf.int/en/forecasts/dataset/cams-global-reanalysis](https://www.ecmwf.int/en/forecasts/dataset/cams-global-reanalysis) - Contains modified Copernicus Atmosphere Monitoring Service information.
+            
+        * EEA [https://creativecommons.org/licenses/by/2.5/dk/deed.en\_GB](https://creativecommons.org/licenses/by/2.5/dk/deed.en_GB)
             
     57. **Chile**
         * Biblioteca del Congreso Nacional de Chile ([https://creativecommons.org/licenses/by/3.0/cl/](https://creativecommons.org/licenses/by/3.0/cl/))
