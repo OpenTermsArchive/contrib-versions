@@ -54,10 +54,10 @@ Digital Millennium Copyright Act ("DMCA") Notice
 If you believe any material available via the Sites infringes a copyright you own or control, you may file a notification of such infringement with our Designated Agent as set forth below.
 
 Starbucks Corporation  
-Customer Care  
-2401 Utah Ave. S., S-CR1, Seattle, WA 98134  
+Law & Corporate Affairs  
+2401 Utah Ave S, MS:S-LA1, Seattle, WA 98134  
 1-800-Starbuc (782-7282)  
-[info@starbucks.com](mailto:info@starbucks.com)
+[dmca@starbucks.com](mailto:dmca@starbucks.com)
 
 Please see 17 U.S.C. §512(c)(3) for the requirements of a proper notification. You should note that if you knowingly misrepresent in your notification that the material or activity is infringing, you will be liable for any damages, including costs and attorneys' fees, incurred by us or the alleged infringer as the result of our relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing.
 
