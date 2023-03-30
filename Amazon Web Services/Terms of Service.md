@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: March 28, 2023
+#### Last Updated: March 30, 2023
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -1218,6 +1218,10 @@ Amazon FinSpace is a tool to help you analyze data for investment and business d
 **87.1.** “Malware Content” is Your Content that the Amazon GuardDuty Malware Protection feature processes and identifies as being malicious or harmful. 
 
 **87.2.** You agree and instruct that: (a) we may use and store Malware Content to maintain and provide Amazon GuardDuty (including development and improvement of Amazon GuardDuty and its underlying technologies); (b) we may use and store Malware Content that is not personal data to develop and improve other AWS security services; and (c) solely in connection with the development and improvement described in clauses (a) and (b), we may store such Malware Content in an AWS region outside the AWS region where you are using the Amazon GuardDuty Malware Protection feature. You may instruct AWS not to use and store Malware Content to develop and improve Amazon GuardDuty or other AWS security services by configuring an AI services opt out policy using AWS Organizations.
+
+**87.3.** “Runtime Monitoring Content” means Your Content that is processed by the Amazon GuardDuty EKS Runtime Monitoring feature.  
+  
+**87.4.** You agree and instruct that: (a) we may use and store Runtime Monitoring Content to maintain and provide Amazon GuardDuty (including development and improvement of Amazon GuardDuty and its underlying technologies); and (b) we may use and store Runtime Monitoring Content that is not personal data to develop and improve other AWS security services. You may instruct AWS not to use and store Runtime Monitoring Content to develop and improve Amazon GuardDuty or other AWS security services by configuring an AI services opt out policy using AWS Organizations.  
 
 ### 88\. AWS Wickr
 
