@@ -56,7 +56,6 @@ Prohibited Categories
 * Content cannot promote:
 
 * Ads must not promote the sale or use of illegal, prescription, or recreational drugs.
-* Tobacco-related products such as e-cigarettes, cigarettes, cigars, chewing tobacco, vaporizers, hookahs
 
 * Promotion of hemp-based CBD (cannabidiol) products with little to no THC is acceptable in countries where CBD is legal
 * Promotion of investments or stocks relating to marijuana is acceptable
@@ -119,6 +118,11 @@ Content can promote the sale of alcohol only in countries that allow the sale an
 * use celebrities or people/icons/cartoons or any other image that may be appealing to minors.
 
 Marketers are solely responsible for complying with applicable federal, state and local laws and regulatory guidelines (including age-gating where necessary). As a reminder, marketers are solely responsible for the content that they wish to run in our network.
+
+#### Tobacco products
+
+* Content can promote the sale of tobacco-related products only in countries that allow the sale and advertisement of tobacco. Such offers can be promoted by managed accounts only, and upon verification by the Outbrain team.
+* Marketers are solely responsible for complying with applicable federal, state and local laws and regulatory guidelines (including age-gating where necessary).
 
 #### Dating & Personals
 
