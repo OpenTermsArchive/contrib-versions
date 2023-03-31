@@ -21,7 +21,7 @@ This Notice should therefore be read together with our Cookie Notice, which prov
 | France | Digital Asset Services Provider | Binance France SAS | 17 rue de la Vanne 92129, Montrouge, France. |
 | Italy | Digital Asset Services Provider | Binance Italy S.R.L | Via Generale Francesco Poli, 31, 73100, Lecce, Lecce, Italy. |
 | Spain | Virtual Assets Services Provider | Binance Spain SL | C/ Don Ramón de la Cruz, 38, 28001, Madrid, Spain. |
-| Sweden | Financial Institution | Binance Nordics AB | Birger Jarlsgatan 12 114 34 Stockholm Sverige. |
+| Sweden | Financial Institution | Binance Nordics AB | Mailbox 625, 114 11 Stockholm Sverige. |
 | Poland | Digital Asset Services | Binance Poland Spółka z Ograniczoną Odpowiedzialnością | Ul. Aleje Ujazdowskie, No. 41, apt., locality Warsaw, 00-540, Poland. |
 
 The Binance operating entity you contract with determines the means and purposes of processing of your personal information in relation to the services provided to you (typically referred to as a “data controller”). For most jurisdictions in the European Economic Area, this is Binance (Services) Holdings Limited, a company registered at 6th Floor, South Bank House, Barrow Street, 4 Dublin, Ireland.
