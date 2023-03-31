@@ -29,19 +29,19 @@ By accessing or using any Licensed Material (defined below), or clicking on a bu
 
 **7\.** “**Services**” means your services, websites, applications, and other offerings (including research) that display Twitter Content or otherwise use the Licensed Material.
 
-**7\.**   “**Tweet**” means a short-form text and multimedia-based message distributed via the Twitter Applications.
+**8\.**   “**Tweet**” means a short-form text and multimedia-based message distributed via the Twitter Applications.
 
-**8.**   “**Twitter**” means (a)X Corp.. (1355 Market Street, Suite 900, San Francisco, CA, 94103, USA) if your principal place of business is in North America (including Hawaii) or South America; or (b) Twitter International Unlimited Company (One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland) if your principal place of business is in any country or territory outside of North America (including Hawaii) or South America.
+**9.**   “**Twitter**” means (a) Twitter, Inc. (1355 Market Street, Suite 900, San Francisco, CA, 94103, USA) if your principal place of business is in North America (including Hawaii) or South America; or (b) Twitter International Unlimited Company (One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland) if your principal place of business is in any country or territory outside of North America (including Hawaii) or South America.
 
-**9\.**   “**Twitter API**” means Twitter Application Programming Interfaces (each, an **“API”**), Software Development Kits (each, an **“SDK”**), and the related tools, documentation, data, technology, code, and other materials provided by Twitter through the Developer Site.
+**10\.**   “**Twitter API**” means Twitter Application Programming Interfaces (each, an **“API”**), Software Development Kits (each, an **“SDK”**), and the related tools, documentation, data, technology, code, and other materials provided by Twitter through the Developer Site.
 
-**10.** “**Twitter Applications**” means Twitter’s real-time information service, commonly referred to as “Twitter,” which includes those services currently provided by Twitter at its websites and Twitter-owned, operated or controlled mobile applications, social plug-ins, and application programming interfaces.
+**11.** “**Twitter Applications**” means Twitter’s real-time information service, commonly referred to as “Twitter,” which includes those services currently provided by Twitter at its websites and Twitter-owned, operated or controlled mobile applications, social plug-ins, and application programming interfaces.
 
-**11.** “**Twitter Content**” means Tweets, the unique identification number generated for each Tweet, Twitter end user profile information, and any other data and information made available to you through the Twitter API or by any other means authorized by Twitter, and any copies and derivative works thereof.
+**12.** “**Twitter Content**” means Tweets, the unique identification number generated for each Tweet, Twitter end user profile information, and any other data and information made available to you through the Twitter API or by any other means authorized by Twitter, and any copies and derivative works thereof.
 
-**12.** **“Twitter Marks**” means the Twitter name, trademarks, and logos that Twitter makes available to you, including via the Developer Site, solely for use in accordance with this Agreement.
+**13.** **“Twitter Marks**” means the Twitter name, trademarks, and logos that Twitter makes available to you, including via the Developer Site, solely for use in accordance with this Agreement.
 
-**13.** “**Users**” means visitors, users or customers of your Services.
+**14.** “**Users**” means visitors, users or customers of your Services.
 
 **II. Twitter API and Twitter Content**
 
