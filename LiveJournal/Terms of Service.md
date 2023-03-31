@@ -1,8 +1,8 @@
 User Agreement
 ==============
 
-Effective: January 20 2022, 11:18 GMT  
-Location: [https://www.livejournal.com/legal/tos-en.bml?r=15269](https://www.livejournal.com/legal/tos-en.bml?r=15269)
+Effective: March 31 2023, 13:45 GMT  
+Location: [https://www.livejournal.com/legal/tos-en.bml?r=15270](https://www.livejournal.com/legal/tos-en.bml?r=15270)
 
 1. #### Subject of the Agreement
     
@@ -128,7 +128,7 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15269](https://www.liv
     5. The Administration may send to User information related to the Service as well as third-party advertising using the email address provided by User.
 13. #### The procedure for considering Users’ requests
     
-    1. All requests related to the Content shall be submitted to the Administration via the contact form.
+    1. All requests related to the Content shall be submitted to the Administration via the [contact form](https://www.livejournal.com/support/submit).
     2. User’s requests are considered by the Administration within a period not exceeding 30 calendar days from the date of their receipt through the contact form.
     3. Through the contact form, User provides a contact e-mail, the URL of the page that violates User’s rights and legitimate interests.
     4. The request shall contain a reasoned justification for the presence of the violation of User’s rights and legitimate interests.
@@ -138,11 +138,12 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15269](https://www.liv
     
     1. The following addresses shall be used to send legally significant communications:
         1. to the Administration:
-            1. in respect of communications related to Content: [contact form](https://www.livejournal.com/support/submit),
-            2. in respect of other communications: bldg. 1, 9 Varshavskoye Highway, Moscow, 117105.
+            1. [ljlegal@rambler-co.ru](mailto:ljlegal@rambler-co.ru)
+            2. bldg. 1, 9 Varshavskoye Highway, Moscow, 117105.
         2. to User: the address provided for registration:
     2. All disputes arising out of this Agreement and/or related to the Service and Content may be resolved in court after the Parties have taken steps to settle the dispute by negotiation, 30 calendar days upon the date when the claim (request) was sent to the addresses defined in clause 12.1 hereof.
     3. If the dispute is not resolved by the time defined in clause 14.2 hereof it may be resolved by the Court in the Administration’s place of incorporation.
     4. The Agreement is drawn up in [Russian language](https://www.livejournal.com/legal/tos-ru.bml). The English version is a translation and is provided solely for the convenience of reading the Agreement. In the event of any inconsistency between the [Russian version](https://www.livejournal.com/legal/tos-ru.bml) and its translation, the [Russian version](https://www.livejournal.com/legal/tos-ru.bml) of the Agreement shall prevail.
 
+[Previous version January 20 2022, 11:18 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15269) (archived)  
 [Previous version December 17 2021, 09:47 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15268) (archived)
