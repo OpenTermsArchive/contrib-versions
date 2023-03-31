@@ -4,9 +4,9 @@ Platform manipulation and spam policy
 ### Overview
 
 **  
-April 2022**
+March 2023**
 
-**You may not use Twitter’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on Twitter.**
+**You may not use Twitter’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience or platform manipulation defenses on Twitter.**
 
 We want Twitter to be a place where people can make human connections, find reliable information, and express themselves freely and safely. To make that possible, we do not allow spam or other types of platform manipulation. We define platform manipulation as using Twitter to engage in bulk, aggressive, or deceptive activity that misleads others and/or disrupts their experience.  
 
@@ -14,11 +14,11 @@ Platform manipulation can take many forms and our rules are intended to address 
 
 * commercially-motivated spam, that typically aims to drive traffic or attention from a conversation on Twitter to accounts, websites, products, services, or initiatives;
 * inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
-* coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting; and
-* coordinated harmful activity that encourages or promotes behavior which violates the [Twitter Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html).  
-     
+* coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting;
+* coordinated harmful activity that encourages or promotes behavior which violates the [Twitter Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html); and
+* leveraging Twitter’s open source code to circumvent remediations or platform defenses.
 
-### What is in violation of this policy?
+What is in violation of this policy?  
 
   
 Under this policy we prohibit a range of behaviors in the following areas:  
@@ -28,18 +28,42 @@ Under this policy we prohibit a range of behaviors in the following areas:
 
 **You can’t mass-register Twitter accounts or use automation to create Twitter accounts.**
 
-**You can’t artificially amplify or disrupt conversations through the use of multiple accounts or by coordinating with others to violate the Twitter Rules.** This includes:  
+Twitter allows users to create and/or operate up to ten (10) accounts for different, non-duplicative purposes. Users who already own or operate more than ten accounts will not be impacted by these new limits unless a violation of the Twitter Rules takes place. Some examples of what Twitter considers to be non-duplicative uses include:
 
-* overlapping accounts – operating multiple accounts with overlapping use cases, such as identical or similar personas or substantially similar content;
-* mutually interacting accounts – operating multiple accounts that interact with one another in order to inflate or manipulate the prominence of specific Tweets or accounts; and
-* coordination – creating multiple accounts to post duplicative content or create fake engagement, including:
-    * posting identical or substantially similar Tweets or hashtags from multiple accounts you operate; 
-    * engaging (Retweets, Likes, mentions, Twitter Poll votes) repeatedly with the same Tweets or accounts from multiple accounts that you operate;
-    * coordinating with or compensating others to engage in artificial engagement or amplification, even if the people involved use only one account; and
-    * coordinating with others to engage in or promote violations of the Twitter Rules, including violations of our [abusive behavior policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).  
-         
+* Accounts tracking when objects in space travel over a specific location on Earth, e.g. New York, Hong Kong
+    
+* Accounts sharing news about different professional teams in the same sport or league, e.g. NFL, NBA, Premier League
+    
+* Accounts for personal projects, hobbies/interests, or for your business(es)
+    
+* Accounts for branded entities specific to unique locations or languages, e.g. brand accounts in English, Spanish and French
+    
 
-### Engagement and metrics  
+In addition, users are allowed to control multiple accounts on behalf of a third-party (e.g. “Social Media Managers”), provided that no violations of the Twitter Rules (including this policy) occurs.
+
+Twitter may approve exceptions to multiple account limits at its discretion. 
+
+What is in violation of the Multiple Accounts policy?
+
+You can’t artificially amplify or disrupt conversations through the use of multiple accounts or by coordinating with others to violate the Twitter Rules. This includes:
+
+* operating multiple accounts that interact with the same or substantially similar content or Twitter account(s) in order to inflate or manipulate the prominence of content and/or accounts; for example:
+    
+    * Do not create multiple accounts to “boost” trending topics or hashtags
+    * Do not create multiple accounts to engage with the same tweets, accounts, or polls
+    * Do not create multiple accounts to misuse the mention/reply feature
+    * Do not create multiple accounts to boost or amplify one of your own accounts by misusing engagement features (likes, retweets)
+* operating multiple accounts that post substantially similar or identical content to one another; for example:
+    
+    * Do not cross-post content across multiple accounts; content that is cross-posted but localized into another language is permitted
+    * Do not cross-post similar or duplicate content to the same trending topics or hashtags
+    
+* Employing workarounds to exceed the technical limits of account creation (e.g. [account phone number limits](https://help.twitter.com/en/managing-your-account/phone-number-faqs.html))
+
+  
+Multiple accounts that exhibit a pattern or sole purpose of the preceding behaviors may be suspended by Twitter. Users operating multiple accounts are still subject to all other Twitter Rules, particularly our rules surrounding Platform Manipulation and Spam, and [Ban Evasion](https://help.twitter.com/en/rules-and-policies/ban-evasion.html). Any other violations of the Twitter Rules may also result in all of your accounts being suspended.
+
+Engagement and metrics  
 
 **  
 You can’t artificially inflate your own or others’ followers or engagement.** This includes:
@@ -48,9 +72,9 @@ You can’t artificially inflate your own or others’ followers or engagement.*
 * apps – using or promoting third-party services or apps that claim to add followers or add engagements to Tweets;
 * reciprocal inflation – trading or coordinating to exchange follows or Tweet engagements (including but not limited to participation in “follow trains,” “decks,” and “Retweet for Retweet” behavior); and
 * account transfers or sales – selling, purchasing, trading, or offering the sale, purchase, or trade of Twitter accounts, usernames, or temporary access to Twitter accounts.  
-     
+    
 
-### Misuse of Twitter product features  
+Misuse of Twitter product features  
 
 **  
 You can’t misuse Twitter product features to disrupt others’ experience.** This includes:  
@@ -64,7 +88,16 @@ You can’t misuse Twitter product features to disrupt others’ experience.** T
 * repeatedly posting Tweets or sending Direct Messages consisting of links shared without commentary, so that this comprises the bulk of your Tweet/Direct Message activity; and
 * Tweeting an existing phrase or content in a duplicative manner, whether individually or in concert with other accounts. Learn more in our [copypasta and duplicate content policy](https://help.twitter.com/en/rules-and-policies/copypasta-duplicate-content.html).
 
-**Following**  
+**  
+Editing Tweets**  
+
+* editing Tweets to artificially amplify content or deceive people. Examples include, but are not limited to:
+    * using a Tweet's existing engagement to amplify substantially different content (e.g. editing a Tweet from “What’s better? Pancakes or waffles?” to “Thousands of people trust my service. Like my post and subscribe to my channel to get tips on investing”)
+    * editing links (URLs) so that the final destination page has significantly changed, either in content or location (e.g. domain, URL path)
+    * editing media (e.g. images, videos, audios, gifs, or URLs hosting relevant content) so the Tweet is meaningfully or entirely different or irrelevant to the previous versions.
+
+**  
+Following**  
 
 * “follow churn” – following and then unfollowing large numbers of accounts in an effort to inflate one’s own follower count;
 * indiscriminate following – following and/or unfollowing a large number of unrelated accounts in a short time period, particularly by automated means; and
@@ -87,9 +120,14 @@ You can’t misuse Twitter product features to disrupt others’ experience.** T
 
 * publishing or linking to malicious content intended to damage or disrupt another person’s browser (malware) or computer or to compromise a person’s privacy (phishing); and 
 * posting misleading or deceptive links; e.g., affiliate links and clickjacking links.  
-     
+    
 
-### What is not a violation of this policy?
+**Open Source Code**  
+
+* exploiting Twitter’s open source code, including the logic behind visibility filtering or ML Model training, to circumvent policy enforcement for violations of [Twitter Rules](https://help.twitter.com/content/help-twitter/en/rules-and-policies).
+    
+
+What is not a violation of this policy?  
 
   
 The following are not in violation of this policy:
@@ -100,15 +138,13 @@ The following are not in violation of this policy:
     * organizations with related but separate chapters or branches, such as a business with multiple locations;
     * operating a personal account in addition to pseudonymous accounts or accounts associated with your hobbies or initiatives; and
     * hobby/artistic bots.  
-         
+        
 
-### Who can report violations of this policy?
+Who can report violations of this policy?
 
-  
 Anyone can report accounts or Tweets via our dedicated reporting flow. These reports are used in aggregate to help refine our enforcement systems and identify new and emerging trends and patterns of behavior.   
- 
 
-### How can I report violations of this policy?
+### How can I report violations of this policy?  
 
 **  
 In-app**
@@ -121,21 +157,16 @@ You can report this content in-app as follows:
 4. Submit your report.  
      
 
-**Desktop**  
+**Web**  
 
-You can report this content via desktop as follows:
+You can report this content via web as follows:
 
 1. Select **Report Tweet** from the  icon.
 2. Select **It's suspicious or spam**.
 3. Select the option that best tells us how the Tweet is suspicious or spreading spam.
-4. Submit your report.  
-    
+4. Submit your report.
 
-Report form
-
-You can also report this content for review via our [spam reporting form](https://help.twitter.com/forms/spam) by selecting the I want to report spam on Twitter option.
-
-### What happens if you violate this policy?
+### What happens if you violate this policy?  
 
   
 The consequences for violating this policy depend on the severity of the violation as well as any previous history of violations. Our action is also informed by the type of spammy activity that we have identified. The actions we take may include the following:  
@@ -151,12 +182,23 @@ When we detect suspicious levels of activity, accounts may be locked and prompte
 We denylist or provide warnings about URLs we believe to be unsafe. Read more about [unsafe links](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links.html), including how to appeal if we’ve falsely identified your URL as unsafe.  
  
 
+**Limiting the visibility of Tweets**
+
+Tweets which we believe to be in violation of these policies may not appear in certain parts of the Twitter product, and/or may not be recommended or amplified by Twitter. [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-reach-limited.html) about other instances when a Tweet’s visibility may be limited.   
+ 
+
 **Tweet deletion and temporary account locks**  
 
 * If the platform manipulation or spam offense is an isolated incident or first offense, we may take a number of actions ranging from requiring deletion of one of more Tweets to temporarily locking account(s). Any subsequent platform manipulation offenses will result in permanent suspension.
 * In the case of a violation centering around the use of multiple accounts, you may be asked to choose one account to keep. The remaining accounts will be permanently suspended.
 
-**Permanent suspension**
+**  
+Temporary loss of access to Twitter features or products**
+
+* We may temporarily limit or restrict access to Twitter features or products, including (but not limited to) Tweets, Edit Tweet, Direct Messages, Spaces, Communities, or Live.
+
+**  
+Permanent suspension**
 
 For severe violations, accounts will be permanently suspended at first detection. Examples of severe violations include:
 
@@ -167,9 +209,8 @@ For severe violations, accounts will be permanently suspended at first detection
 * operating accounts that Twitter is able to reliably attribute to entities known to violate the [Twitter Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html).
 
 If you believe that your account was locked or suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
 
-### Additional resources
+### Additional resources  
 
   
 Learn more about our [automation rules](https://help.twitter.com/en/rules-and-policies/twitter-automation.html) for developers, our [election integrity](https://about.twitter.com/en/values/elections-integrity.html) efforts, our [financial scam policy](https://help.twitter.com/en/rules-and-policies/financial-scam.html), our [hacked materials policy](https://help.twitter.com/en/rules-and-policies/hacked-materials.html), our approach to [coordinated harmful activity](https://help.twitter.com/en/rules-and-policies/coordinated-harmful-activity.html), and our [guidelines for promotions and contests](https://help.twitter.com/en/rules-and-policies/twitter-contest-rules.html).
