@@ -3,7 +3,7 @@ Illegal or certain regulated goods or services
 
 ### Overview 
 
-**April 2019**
+**March 2023**
 
 **You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
 
@@ -25,9 +25,7 @@ Goods or services covered under this policy include, but are not limited to:
 
 ### What happens if you violate this policy? 
 
-The consequences for violating this policy depends on the severity of the violation and the account’s previous history of violations.
-
-If you violate this policy more than once and/or if your account is dedicated to the sale of illegal or regulated goods and/or services, your account may be suspended permanently.
+If we determine that you violated this policy, we may suspend your account, including upon first review.
 
 Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
 
