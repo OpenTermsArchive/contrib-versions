@@ -58,7 +58,7 @@ _**We process your personal information to operate, provide, and improve the Ama
 4\. What About Cookies and Other Identifiers?
 ---------------------------------------------
 
-We use cookies and similar tools to enhance your shopping experience, provide our services, understand how customers use our services so we can make improvements, and display ads. Approved third parties also use these tools in connection with our display of ads. To enable our systems to recognise your browser or device and to provide Amazon Services to you, we use cookies. For more information about cookies and how we use them, please read our [Cookies Notice](https://www.amazon.co.uk/gp/help/customer/display.html/?nodeId=GVASXV5UZ64R4Y25). You can manage your cookie preferences [here](https://www.amazon.co.uk/cookieprefs?).
+We use cookies and similar tools to enhance your shopping experience, provide our services, understand how customers use our services so we can make improvements, and display ads. Approved third parties also use these tools in connection with our display of ads. To enable our systems to recognise your browser or device and to provide Amazon Services to you, we use cookies. For more information about cookies and how we use them, please read our [Cookies Notice](https://www.amazon.co.uk/gp/help/customer/display.html/?nodeId=GVASXV5UZ64R4Y25). You can manage your cookie preferences [here](https://www.amazon.co.uk/privacyprefs/retail).
 
 5\. Does Amazon Europe Share Your Personal Information?
 -------------------------------------------------------
