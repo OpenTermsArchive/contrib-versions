@@ -1,10 +1,12 @@
-Teads Ad Guidelines will apply to all content provided by Agencies or Advertisers (the “Partner”) for use on Teads inventory. These guidelines are meant to create a minimum standard in order to provide quality advertisements and content.
+Teads Ad Guidelines will apply to all content provided by Agencies or Advertisers (the “Partner”) for use on Teads inventory. These guidelines are meant to create a minimum standard in order to provide quality advertisements and content. These Ad Guidelines are not a substitute for legal advice and Teads cannot be held responsible for content published by the advertiser or its media agency.
 
-These guidelines are divided into two sections, the Prohibited Content and the Restricted Content.
+These guidelines are divided into three sections, the Prohibited Content, the Restricted Content and the Standard Content.
 
 Prohibited content is content that will not be allowed on Teads Inventory or Networks, at any time. There shall be no exceptions for the restrictions in this category.
 
 Restricted content is content that is considered sensitive and therefore requires particular guidelines for each sub-category as well as, in appropriate cases, review and approval by Teads of any creative.
+
+The Standard Content is intended to remind you of the current regulations or self-regulation that apply to specific areas, and its content is not exhaustive.
 
 These guidelines may be amended at any time, at the sole discretion of Teads and will be binding on all Partners providing content to be placed on the Teads inventory.
 
@@ -24,6 +26,10 @@ This category may include drugs, weapons, fireworks, etc.
 Content promoting any illegal drugs (in the territory where the ad will be displayed) and paraphernalia shall be prohibited at all times.
 
 Drug paraphernalia includes any equipment, products and materials of any kind which are used, intended for use or designed for use, in planting, propagating, cultivating, growing, harvesting, manufacturing, compounding, converting, producing, processing, preparing, testing, analyzing, packaging, repackaging, storing, concealing, containing, ingesting, inhaling or otherwise introducing into the human body a controlled substance.
+
+**India:**  
+Advertisements relating to use of a ‘magic remedy’ (including but not limited to talismans, mantra, kavacha, or any other charm of any kind which is alleged to possess miraculous powers) for procurement of miscarriage, prevent of contraception for women, correction of menstrual disorders, or maintenance or improvement of sexual pleasure shall be prohibited at all times.  
+Advertisements suggesting use of a ‘magic remedy’ for the diagnosis, cure, mitigation, treatment or prevention of diseases and conditions shall be prohibited at all times.
 
 ### Weapons, ammunition and explosives
 
@@ -53,9 +59,15 @@ Risqué advertisements shall be prohibited at all times. Risqué advertisements 
 
 Content that gives information which is misleading or false, whether intentional or otherwise, shall be prohibited at all times.
 
+Bait advertisements shall be prohibited at all times unless expressly specified as legal under applicable regulations. Where allowed, bait advertisements must comply with all regulatory restrictions.
+
 No advertisements shall be accepted for any product or service that promises a cure, prevention, treatment or reversal of any disease, condition or illness, especially those with no cure.
 
 No advertisements will be accepted for any product or services that have a high likelihood of being a scam or fraud.
+
+**India:**  
+Content that deliberately conceals important information to consumers shall be prohibited at all times.  
+Content that does not comply with the Guidelines for Prevention of Misleading Advertisements and Endorsements for Misleading Advertisements, 2022 issued under the Consumer Protection Act, 2019 shall be prohibited at all times.
 
 ### Profane, Vulgar and Graphic Content
 
@@ -87,13 +99,17 @@ Counterfeit documents include, but are not limited to: falsified licenses, passp
 
 Counterfeit products shall include, but are not limited to: “knock-off” products, pirated products (videos, records, CDs), grey market products (without the consent of the brand), products using a copyright or trademark without the brands knowledge or consent and products with confusingly similar logos or names (ex. Coach vs. Goach, Gucci vs. Guccy).
 
-### Prohibited Financial Services
+### Prohibited Financial and Legal Services
 
 Content that promotes investment offers, solicits money, bail bonds, currency exchanges, services for credit repair or loan products shall not be accepted on the Teads network.
 
 Cryptocurrency shall be prohibited at this time on the Teads network.
 
 Additionally, any products or services that promise to remove items from a person’s credit report shall be banned.
+
+**India:**  
+Advertisements promoting prize chits or money circulation schemes are prohibited at all times.  
+Advertisements of legal practice or accounting services, whether directly or indirectly, is prohibited at all times.
 
 Other financial services shall be discussed further in the Restricted Content section.
 
@@ -113,9 +129,19 @@ Dangerous Products or services shall include any product or service that is know
 
 Any content that expresses hatred for a group, expressions that intend to demean or brutalize a person or a group, incites to hatred against a group of persons because of race, ethnicity, national origin, gender, religion, sexual orientation, etc., cruel and derogatory language, gestures or vandalism toward an individual or group or any communication that is likely to incite violence is strictly forbidden on the Teads network. This prohibition also includes any content that links to a webpage or landing page with such offensive content.
 
+**India:**  
+Any content containing words, sound, gestures, objects or messaging which insult the modesty of a woman shall be prohibited at all times.
+
 ### Defamatory Content
 
-Content that is false or unprivileged that is harmful to someone’s reputation and published as a result of malice or negligence will not be allowed on the Teads inventory.
+Content that is false or unprivileged that is harmful to someone’s reputation and published as a result of an intent to cause harm, malice or negligence will not be allowed on the Teads inventory.
+
+### Content Causing Public Unrest
+
+Any advertisement that is likely to cause public mischief, fear or alarm to the public, or induce commission of an offence against the relevant authorities shall be prohibited at all times.
+
+**India:**  
+Content that is prejudicial to national integration, sovereignty or integrity of India, including but not limited to content that brings or attempts to bring hatred, contempt or excites disaffection, disloyalty or feelings of enmity, towards the government shall be prohibited at all times.
 
 ### Spyware or Malware
 
@@ -134,19 +160,26 @@ Advertisements in this category shall include specific and limited targeting res
 
 Additional geographical restrictions and prohibitions can be found [**HERE**](https://www.teads.com/ad-policies/alcohol-specific-guidelines/).
 
+**India:**  
+Advertisements of alcoholic products or services are prohibited in the following states/union territories: Andaman and Nicobar Islands. Andhra Pradesh, Bihar, Chandigarh, Chhattisgarh, Dadra and Nagar Haveli and Daman and Diu, Delhi, Goa, Gujarat, Haryana, Jammu and Kashmir and Ladakh, Jharkhand, Karnataka, Kerala, Madhya Pradesh, Maharashtra, Manipur, Meghalaya, Nagaland, Odisha, Pondicherry, Punjab, Rajasthan, Tamil Nadu, Telangana, Uttar Pradesh, Assam, Himachal Pradesh, and Mizoram.
+
 ### Tobacco Products
 
 Tobacco products include: cigars, cigarettes, smokeless tobacco, pipe tobacco and roll-your-own tobacco, among others.
 
-Tobacco products and accessories shall be prohibited on the Teads inventory for all countries where national legislation prohibits this type of advertising content and for all publishers that impose similar restrictions. For the United States and Japan, the following applies:
+Tobacco products and accessories shall be prohibited on the Teads inventory for all countries except for the United States, Japan and Philippines.
 
-**United States:**
+**United States:  
+**Must be targeted to 21+. Content must include the required legal warning which must occupy at least 20% of the advertisement and printed at least 12 point font.
 
-Must be targeted to 21+. Content must include the required legal warning which must occupy at least 20% of the advertisement and printed at least 12 point font.
+**Japan:  
+**Advertisers must abide by the Tobacco Business Act which are self-regulating principles.
 
-**Japan:**
+**Philippines:**  
+Advertisers must abide by all requirements in tobacco-related regulations, including targeting to 18+ and, for vaping-related advertisements, comply with Republic Act No. 11900.
 
-Advertisers must abide by the Tobacco Business Act which are self-regulating principles.
+**India:**  
+Depictions of use of tobacco products or smoking situations when advertising other non-smoking-related goods or services shall be prohibited at all times.
 
 ### [Gambling](https://www.teads.com/ad-policies/gambling-specific-guidelines/)
 
@@ -157,6 +190,10 @@ Examples of gambling include internet bingo, online casinos, offline casinos and
 Advertisements promoting free games or applications shall be allowed.
 
 For all other types of gambling, please refer to our specific gambling guidelines **[HERE](https://www.teads.com/ad-policies/gambling-specific-guidelines/).**
+
+**India:**  
+Advertisements related to the publication, distribution and circulation of any news, information facilitating games of skill shall be prohibited in Telangana, Andhra Pradesh, Nagaland, Sikkim and Meghalaya.  
+Advertisements related to the publication, distribution and circulation of any news, information facilitating games of change shall be prohibited in Karnataka and Pondicherry.
 
 ### Dating
 
@@ -244,6 +281,15 @@ Teads may accept the use of the word free in advertisements if the product is cl
 
 Teads will not accept advertisements for the sale any products or services that are available for free. For example, certain government services are available for free and the advertiser wants to charge a fee for these services.
 
+**India:**  
+The term “free trial” shall not be used where a non-refundable purchase is required.
+
+### Background Searches
+
+Advertisements for background checks and people searches may be accepted on the Teads inventory provided that they do not promote access to arrest records or criminal history checks.
+
+Content can never include mug shots or references to any criminal or questionable activity.
+
 ### Motion Picture, Video Game and Television
 
 Advertisements for motion pictures, theater and events may be acceptable if they follow the requirements below:
@@ -276,11 +322,18 @@ Advertisements cannot include clearly and excessively photoshopped images that c
 
 Advertisements cannot include claims that the products or services are as effective as prescription or medical services.
 
+**India:**  
+Advertisements should adhere to all regulations on advertising skin lightening or fairness improving products.
+
 ### [Healthcare, Pharmacies and Medications](https://www.teads.com/ad-policies/healthcare-pharmacies-and-medications-specific-guidelines/)
 
 Advertisements for healthcare, pharmacies and medications are subject to additional guidelines that can be found [**HERE**](https://www.teads.com/ad-policies/healthcare-pharmacies-and-medications-specific-guidelines/).
 
 Any advertisement in this category will have to be approved by Teads before it is displayed.
+
+**India:**  
+Advertisements in relation to human organ transplants or pre-natal sex determination is prohibited.  
+Advertisements for medical practices and services which has the effect of soliciting patients, whether directly or indirectly, is prohibited.
 
 ### Food
 
@@ -296,17 +349,22 @@ Advertisements for food in China must not include any endorsements or recommenda
 
 Advertisements for psychic services, tarot readings and fortune tellers shall be prohibited on the Teads network unless these services are just for the purpose of entertainment. However, these shall never be accepted in Algeria, Bahrain, Egypt, India, Iraq, Jordan, Kuwait, Lebanon, Libya, Morocco, Oman, Qatar, Saudi Arabia, Tunisia, United Arab Emirate and Yemen.
 
-### Religion
+### Religion and Community
 
 Advertisements for religion shall be limited on the Teads network and shall require previous approval from Teads.
 
 Any advertisement promoting one religion over another shall never be allowed.
+
+Advertisements cannot include any content that is likely to offend or upset consumers which includes but is not limited to language, visual representation, signage or messaging being used to promote a particular religion, or promote disharmony or feeling or enmity/ill-will amongst religious and/or caste/community groups, as the case may be.
 
 Advertisements cannot include any content that is likely to offend or upset consumers which includes language being used to promote a particular religion.
 
 Advertisements must accurately represent the religion and the content of the website.
 
 The advertisements may never request or solicit funds for a religious group and may not link to a fundraising landing page.
+
+**India:**  
+Advertisements must not contain statements, visual representation, signage or messaging causing discord or enmity amongst castes, communities or religious groups, or upset public tranquility.
 
 Content Standards
 -----------------
@@ -351,6 +409,8 @@ Images cannot employ deceptive tactics to lure a user to click. For instance:
 * Images that use irrelevant sensational tactics
 * Images that uses video player icon
 
+Use of national emblems such as flags, seals, etc for commercial purposes shall be prohibited at all times unless expressly specified as legal by applicable regulations. Where expressly specified as legal for use by applicable regulations for commercial purposes, any content depicting burning, mutilation, defacement, defiling, disfiguring, destroying, trampling upon or otherwise shows disrespect or brings into contempt, whether by words, symbols, messaging or acts, to a national emblem or any part thereof shall be prohibited at all times.
+
 ### Video
 
 Video and audio must be of clear quality, must contain recognizable visuals, and content must be clearly understandable.
@@ -364,6 +424,50 @@ Videos cannot employ deceptive tactics to lure a user to click. For instance:
 ### Endorsements and Testimonials
 
 In the cases that advertisements include endorsements and/or testimonials, the content must make it clear that it is and advertisement. If using the image of a celebrity or prominent person, the advertiser must have the appropriate permissions to use said likeness.
+
+**India:**  
+Where content involves an influencer, the advertisement must be compliant with the Advertising Standard Council of India’s Code for Self-Regulation, and carry a disclosure label identifying it as an advertisement that is upfront and prominent so it is not missed by an average consumer, and is presented in a manner that is well understood by the average consumer.
+
+### Environment and sustainability
+
+We draw your attention to the fact that some countries have adopted legislation or created independent authorities to ensure self-regulation of the advertising sector with regard to the environment and sustainable development. We list here a few examples to illustrate this and direct you to the appropriate bodies.
+
+**France:**  
+In France the self-regulation authority operated by the industry is the Autorité de régulation professionnelle de la publicité ([ARPP](https://www.arpp.org/the-arpp/)). The ARPP can be consulted to validate that a specific Ad complies with [deontological rules](https://www.arpp.org/nous-consulter/regles/regles-de-deontologie/developpement-durable/). This is something that is only mandatory for TV and VoD ads.
+
+In addition, several laws apply to advertising in France and more specifically to environmental claims. See this [list of legal resources](https://www.arpp.org/nous-consulter/regles/regles-de-droit/) from the ARPP.
+
+Some laws are dedicated to specific sectors:
+
+* Law 2020-105 of 10 February 2020, known as the “AGEC” law, expressly prohibited all-encompassing claims such as “biodegradable” or “environmentally friendly”.
+* Automotive ads need to showcase a [standardized carbon emissions label](https://www.legifrance.gouv.fr/download/pdf?id=1Acbcyj7-Ii_D2boWgiQWet-kY10cdxfMgkK7daNs9c=) since december 2021.
+
+Starting from the 1st of Jan 2023, all sectors need to comply with [rules](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045570611) regarding carbon offsetting and carbon neutrality claims in their messaging. These rules require to be able to justify these claims. Concretely it means that we can no longer have ads saying a product, a service or even a company is carbon neutral as they wouldn’t be able to justify it. Such neutrality claims should be avoided in the French market (and beyond for ethical reasons).
+
+Additional resources to avoid greenwashing: [anti greenwashing guide](https://communication-responsable.ademe.fr/antigreenwashing) shared by the ADEME.
+
+**UK**  
+In the UK the self-regulation body is the Advertising Standards Authority (ASA). The ASA applies the Advertising Codes, which are written by the Committees of Advertising Practice (CAP and BCAP), to advertising across all different types of media.
+
+Resources:
+
+* General Information on Climate Change and Environmental Claims – [Link](https://www.asa.org.uk/general/climate-change-and-environmental-claims.html)
+* Advertising Guidance – misleading environmental claims and social responsibility – [Guide](https://www.asa.org.uk/static/d819e399-3cf9-44ea-942b82d5ecd6dff3/b142fdf6-ec36-4172-8b3321f3ebb9b53b/CAP-guidance-on-misleading-environmental-claims-and-social-responsibility.pdf)
+* Making environmental claims on goods and services – [Guide](https://www.gov.uk/government/publications/green-claims-code-making-environmental-claims/environmental-claims-on-goods-and-services)
+
+For pre-publication advice on specific non-broadcast advertisements, consult the CAP Copy Advice team via their [online request form](https://www.asa.org.uk/advice-and-resources/bespoke-copy-advice.html).
+
+The Competition and Markets Authority (CMA) has also developed a [Green Claims Code](https://greenclaims.campaign.gov.uk/) – which sets out 6 key points to check your environmental claims are genuinely green.
+
+**Belgium**  
+In Belgium the [Association of Communication Companies](https://www.acc.be/tools-services/advertising-self-regulation-jep) (ACC) is the self-regulatory body. They published a specific [code for environmental](https://www.jep.be/sites/default/files/rule_reccommendation/milieu_fr.pdf) claims.
+
+They also initiated the [Towards Zero Greenwashing](https://commtozero.be/en/guide-zero-greenwashing/) initiative detailing principles to apply and a guide.
+
+The Jury for Ethical Practices in advertising ([JEP](https://www.jep.be/fr/)) can be [consulted](https://www.jep.be/fr/info-sur-la-procedure-davis) before a campaign is launched to proof an ad.
+
+**USA**  
+The FTC published in 2012 a [Guides for the Use of Environmental Marketing Claims](https://www.ftc.gov/sites/default/files/documents/federal_register_notices/guides-use-environmental-marketing-claims-green-guides/greenguidesfrn.pdf) (“Green Guides”). These guides are planned to evolve in the short term.
 
 Ad Policies
 ===========
