@@ -1,9 +1,9 @@
-Effective as of March 1, 2023 | Posted: December 1, 2022
+Effective as of April 4, 2023 | Posted: April 3, 2023
 
 Terms of Service
 ----------------
 
-([View Previous Version](https://www.grammarly.com/terms-2022))  
+([View Previous Version](https://www.grammarly.com/terms-december-2022))  
   
 **_Note: If your organization has signed up for Grammarly Business or Grammarly for Education, our online (available_** [**_here_**](https://www.grammarly.com/terms/customer-business-agreement)**_) or offline Grammarly Customer Business Agreement will govern your use of your Grammarly team account._**  
   
@@ -82,6 +82,26 @@ Some of our products allow you to download client software. So long as you compl
   
 Our products are protected by copyright, trademark, and other laws. Except for this limited license, we reserve all right, title, and interest in our products, trademarks, logos, and other brand features. We welcome feedback, but you agree that we can use that feedback without restriction or any obligation to you.  
 
+Your Use of GrammarlyGO
+-----------------------
+
+Additional terms apply when you use GrammarlyGO.  **GrammarlyGO** refers to our generative AI services and features.  
+  
+_Generated Content._ You may use GrammarlyGO to submit inputs and receive generated outputs. When you use GrammarlyGO, the inputs and outputs are your User Data. You are responsible for your User Data and will not use GrammarlyGO in a way that infringes, violates, or misappropriates any of our rights or the rights of any third party. You acknowledge that due to the nature of machine learning and the technology powering GrammarlyGO, outputs may not be unique and Grammarly may generate the same or similar output for third parties.  
+  
+_Usage Limits._ Depending on your subscription plan, you may have a limit on your use of GrammarlyGO. You acknowledge and agree that if you exceed the usage limit allotted by your subscription plan: (i) you may be required to purchase additional usage to continue accessing and using GrammarlyGO and (ii) Grammarly may suspend or degrade performance of the GrammarlyGO features. You acknowledge that any purchased usage for GrammarlyGO is tied to your Grammarly subscription plan, and account termination will invalidate any remaining purchased usage.  
+  
+_Usage Restrictions._ You may not use GrammarlyGO:  
+
+* To develop foundation or large language models that compete with Grammarly or GrammarlyGO;   
+    
+* To mislead any third party that any output from GrammarlyGO was solely human generated;  
+    
+* In a manner that violates these terms, Grammarly documentation, usage guidelines, or our Acceptable Use Policy.  
+    
+
+  
+
 Grammarly Business and Grammarly for Education Users
 ----------------------------------------------------
 
@@ -143,6 +163,8 @@ Warranty Disclaimers
 --------------------
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, GRAMMARLY, ITS AFFILIATES, AND ITS AND THEIR SUPPLIERS AND DISTRIBUTORS (COLLECTIVELY, THE “GRAMMARLY ENTITIES”), EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES AND CONDITIONS, EXPRESS OR IMPLIED, REGARDING OUR PRODUCTS, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, MERCHANTABLE QUALITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NONINFRINGEMENT, SATISFACTORY QUALITY OR ARISING FROM A COURSE OF DEALING, LAW, USAGE, OR TRADE PRACTICE, OR REGARDING SECURITY, QUIET ENJOYMENT, RELIABILITY, TIMELINESS, AND PERFORMANCE. YOU AGREE THAT YOUR USE OF OUR PRODUCTS ARE AT YOUR OWN SOLE RISK AND THAT OUR PRODUCTS ARE PROVIDED ON AN “AS IS,” “WHERE IS,” “AS AVAILABLE,” “WITH ALL FAULTS” BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. WITHOUT LIMITING THE FOREGOING, THE GRAMMARLY ENTITIES DO NOT WARRANT THAT THE OPERATION OF OUR PRODUCTS WILL MEET YOUR REQUIREMENTS OR WILL BE UNINTERRUPTED OR ERROR-FREE. GRAMMARLY’S AFFILIATES AND THE GRAMMARLY ENTITIES’ SUPPLIERS, LICENSORS, AND DISTRIBUTORS ARE INTENDED THIRD-PARTY BENEFICIARIES OF THIS SECTION.  
+  
+THE GRAMMARLY ENTITIES DO NOT MAKE ANY WARRANTY REGARDING THE OUTPUTS THAT MAY BE GENERATED FROM USE OF GRAMMARLYGO, INCLUDING WITH RESPECT TO THE FACTUAL ACCURACY OF ANY OUTPUTS OR SUITABILITY FOR YOUR USE CASE. YOU UNDERSTAND AND AGREE THAT YOUR USE OF ANY GRAMMARLYGO OUTPUTS IS DONE AT YOUR SOLE RISK. DUE TO THE CURRENT NATURE OF GENERATIVE TECHNOLOGY, YOU SHOULD NOT RELY ON GRAMMARLYGO AS A SINGLE SOURCE OF FACTUAL INFORMATION. NO INFORMATION OR ADVICE, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM GRAMMARLY OR THROUGH GRAMMARLYGO SHALL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN.  
 
 Limitation of Liability
 -----------------------
