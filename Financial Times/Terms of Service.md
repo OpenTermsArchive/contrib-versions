@@ -33,7 +33,7 @@ The above are referred together as "**the Subscriptions**" and individually as a
 
 **2.3.** You may purchase a Subscription by submitting an order and providing the sign up details on FT.com, by phone, email, using our Live Chat on FT.com or by letter. We will only accept your order when we have successfully verified your email address, processed your payment details and emailed you to confirm this.
 
-**2.4.** We will try to process your Subscription order promptly but cannot guarantee activation by any specified time. We may reject any Subscription order in our discretion. You confirm that your sign up and payment details are complete and accurate, and that you are entitled to purchase a Subscription using those sign up and payment details.  It is your responsibility to update and maintain changes to your sign up details on our [Manage Your Account](https://registration.ft.com/youraccount/details/core/view?execution=e2s1). Each Subscription is for a single user only. We may cancel or suspend your Subscription account if you share your access rights with any third parties, or attempt to allow third parties to avoid our control of access to FT.com. 
+**2.4.** We will try to process your Subscription order promptly but cannot guarantee activation by any specified time. We may reject any Subscription order in our discretion. You confirm that your sign up and payment details are complete and accurate, and that you are entitled to purchase a Subscription using those sign up and payment details.  It is your responsibility to update and maintain changes to your sign up details on our [Manage Your Account](https://www.ft.com/myaccount). Each Subscription is for a single user only. We may cancel or suspend your Subscription account if you share your access rights with any third parties, or attempt to allow third parties to avoid our control of access to FT.com. 
 
 **Fees and Payment**
 
@@ -41,7 +41,7 @@ The above are referred together as "**the Subscriptions**" and individually as a
 
 **2.6.** If we do not receive payment authorisation or any authorisation is subsequently cancelled, we may immediately terminate or suspend your Subscription. 
 
-**2.7.** If you take a Trial Subscription, we will inform you of the full Subscription price payable at the start of the trial period. Your Subscription will renew automatically at the end of that trial period at the full Subscription price unless you cancel your Subscription before the end of the trial period. To cancel your Subscription during the trial period please go to [Manage Your Account](https://registration.ft.com/youraccount/details/core/view?execution=e2s1) and follow the simple cancellation instructions.
+**2.7.** If you take a Trial Subscription, we will inform you of the full Subscription price payable at the start of the trial period. Your Subscription will renew automatically at the end of that trial period at the full Subscription price unless you cancel your Subscription before the end of the trial period. To cancel your Subscription during the trial period please go to [Manage Your Account](https://www.ft.com/myaccount) and follow the simple cancellation instructions.
 
 **2.8.** We will give you at least 14 days’ notice of any increase in the price of your Subscription, which will take effect at your next renewal date.
 
@@ -112,7 +112,7 @@ You may also use your [regional telephone number](https://help.ft.com/contact/)
 
 **2.26.** If you are entitled to a refund, we will make the reimbursement without undue delay, and not later than 14 days after the day on which we are informed about your decision to cancel your Subscription.
 
-**2.27.** We will make the reimbursement using your registered payment details detailed within [Manage Your Account](https://registration.ft.com/youraccount/details/core/view?execution=e2s1). Additional charges may apply if we are required to reimburse to any other credit card or bank. 
+**2.27.** We will make the reimbursement using your registered payment details detailed within [Manage Your Account](https://www.ft.com/myaccount). Additional charges may apply if we are required to reimburse to any other credit card or bank. 
 
 **2.28.** If you have received copies of the Newspaper as part of your Subscription, you will not be expected to return these copies, but we will retain payment for such in accordance with these Terms and Conditions.
 
@@ -137,7 +137,7 @@ You may also use your [regional telephone number](https://help.ft.com/contact/)
 
 **3.4.** You agree to comply with our [Copyright Policy](https://help.ft.com/legal-privacy/copyright-policy/) when using FT Content. You are responsible for all use of FT Content whether accessed without a Subscription as a registered user, under your Subscription, or under your organisation’s Subscription.
 
-**3.5.** The amount and types of FT Content that you can view depend on what type of subscription you have. If you already have a subscription, details of your access rights can be found at [Your Account](https://registration.ft.com/youraccount/subscriptions). We may vary or cancel the access rights of non-paying users at any time.  
+**3.5.** The amount and types of FT Content that you can view depend on what type of subscription you have. If you already have a subscription, details of your access rights can be found at [Your Account](https://www.ft.com/myaccount). We may vary or cancel the access rights of non-paying users at any time.  
 
 **3.6.** Your access to FT Content will vary depending on whether you have a FT Standard or FT Premium Digital Subscription. An FT Standard Subscription provides an overview of the most important business, political and economic stories from around the world whereas an FT Premium Subscription gives readers full access to FT journalism, including exclusive additional analysis and insight. 
 
