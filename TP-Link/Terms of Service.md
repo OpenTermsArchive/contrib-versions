@@ -179,7 +179,7 @@ We reserve the right at any time without liability to you to suspend, modify or 
 
 ### **Limitations of Services and Product Software**
 
-You acknowledge and agree that Services and Product Software are not intended to be 100% reliable or available 24 hours a day, 7 days a week. The Services/Product Software may be suspended temporarily without notice for security reasons, system failure, maintenance and repair, updates, or other circumstances. You agree that you will not be entitled to any refund or rebate for such suspensions. TP-Link does not offer any specific uptime guarantee for the Services/Product’ Software.
+You acknowledge and agree that Services and Product Software are not intended to be 100% reliable or available 24 hours a day, 7 days a week. The Services/Product Software may be suspended temporarily without notice for security reasons, system failure, maintenance and repair, updates, or other circumstances. You agree that you will not be entitled to any refund or rebate for such suspensions. TP-Link does not offer any specific uptime guarantee for the Services/Product’ Software. 
 
 ### **Assignment**
 
