@@ -11,7 +11,7 @@ Outbrain is committed to protecting your personal data. This privacy policy (“
 
 This privacy policy applies to Outbrain Inc., a Delaware, USA corporation with headquarters in New York; and its affiliated subsidiaries (collectively, “Outbrain,” or “we“, “us“, “our“). We operate in various offices around the world and we partner with publishers and marketers across the globe.
 
-Please note that Outbrains’ subsidiary Zemanta Inc has a separate Privacy Policy, which can be found [here](https://www.zemanta.com/privacy-policy).
+Please note that Outbrains’ subsidiary Zemanta Inc has a separate Privacy Policy, which can be found [here](https://www.zemanta.com/privacy).
 
 **What we do:**
 
