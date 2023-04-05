@@ -78,6 +78,7 @@ Other languages:
 * [বাংলা](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bn "ব্যবহারের শর্তাবলী (22% translated)")
 * [മലയാളം](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ml "Policy:Terms of Use/ml (94% translated)")
 * [ไทย](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/th "ข้อกำหนดการใช้งาน (99% translated)")
+* [中文](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh "使用条款 - 概述 (1% translated)")
 * [日本語](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja "Policy:Terms of Use/ja (97% translated)")
 * [한국어](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ko "이용 약관 (99% translated)")
 
