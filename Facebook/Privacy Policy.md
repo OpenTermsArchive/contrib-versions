@@ -30,7 +30,7 @@ Voici les informations que nous recueillons :
 
 * * *
 
-[Amis, abonnés et autres relations](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
+[Amis, followers et autres relations](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
 
 * * *
 
