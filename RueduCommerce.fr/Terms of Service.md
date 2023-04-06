@@ -93,7 +93,7 @@ Une fois l’identification faite, sélectionnez les produits qui vous intéress
 
 Dès que vous validez votre commande, nous la transmettons au Partenaire Marchand. Vous recevrez alors un email de confirmation de commande.
 
-Rue du Commerce ne débitera votre compte bancaire du montant de la commande que si le Partenaire Marchand confirme son expédition. La facture sera générée par le Partenaire Marchand qui vous la fera parvenir par email et/ou par voie postale lors de l’expédition de votre commande.
+Rue du Commerce ne débitera votre compte bancaire du montant de la commande que si le Partenaire Marchand accepte la commande. Tant qu'elle n'est pas acceptée, vous pouvez instantanément annuler votre commande en toute autonomie via votre espace client. La facture sera générée par le Partenaire Marchand qui vous la fera parvenir par email et/ou par voie postale lors de l’expédition de votre commande.
 
 ### 4.5 Les garanties que vous pouvez souscrire pour les produits de la Galerie Marchande Rue du Commerce
 
@@ -442,7 +442,7 @@ Une fois l’identification faite, sélectionnez les produits qui vous intéress
 
 Dès que vous validez votre commande, nous la transmettons au Partenaire Marchand. Vous recevrez alors un email de confirmation de commande.
 
-Rue du Commerce ne débitera votre compte bancaire du montant de la commande que si le Partenaire Marchand confirme son expédition. La facture sera générée par le Partenaire Marchand qui vous la fera parvenir par email et/ou par voie postale lors de l’expédition de votre commande.
+Rue du Commerce ne débitera votre compte bancaire du montant de la commande que si le Partenaire Marchand accepte la commande. Tant qu'elle n'est pas acceptée, vous pouvez instantanément annuler votre commande en toute autonomie via votre espace client. La facture sera générée par le Partenaire Marchand qui vous la fera parvenir par email et/ou par voie postale lors de l’expédition de votre commande.
 
 ### 4.5 Les garanties que vous pouvez souscrire pour les produits de la Galerie Marchande Rue du Commerce
 
