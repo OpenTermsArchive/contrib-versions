@@ -5,6 +5,8 @@ Terms of Use
 
 Copy link
 
+We’re updating our Terms of Service. The updates go into effect on 5 July 2023. Read new terms [here](https://help.instagram.com/929024151466738?ref=tou&helpref=faq_content).
+
 _Facebook Ireland Limited has changed its name to Meta Platforms Ireland Limited. We’ve updated our Terms of Use, Data Policy, and Cookies Policy to reflect the new name on January 4, 2022. While our company name has changed, we are continuing to offer the same products, including Instagram from Meta. Our Data Policy and Terms of Use remain in effect, and this name change does not affect how we use or share data. [_Learn more about Meta_](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fabout.facebook.com%2Fmeta&e=removed) and our vision for the metaverse._
 
 Terms of Use  
