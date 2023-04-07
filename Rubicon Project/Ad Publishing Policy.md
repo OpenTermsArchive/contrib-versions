@@ -26,7 +26,7 @@ Ad & Landing Page Behavior Requirements
 _AD BEHAVIOR:_
 
 * Ads may not force a full-page redirect that takes users away from the seller’s content without user initiation (i.e. the ad may not attempt to navigate the browser to any other page unless the user explicitly clicks or taps the ad). This restriction includes app-store redirects on mobile devices.
-* In-banner video and VAST content may not run in traditional display formats. Without limitation, this means that if you purchase a display impression, you may not serve a VAST video ad as part of that banner ad.
+* In-banner video ads are supported on the Magnite DV+ platform on a case-by-case basis. It’s prohibited to purchase a display impression and run VAST video ads as part of that banner ad. If you are unsure if a unit is supported, please contact [demandquality@magnite.com](mailto:demandquality@magnite.com) for approvals. [](mailto:demandquality@magnite.com)
 * Ads may not auto-refresh. Only one ad creative may be served per impression purchased.
 * Ads may not include pop-up windows, JavaScript dialogs, or other features that obscure content.
 * Pop-unders are not permitted.
@@ -95,6 +95,4 @@ Sellers may designate some of their media as directed to or otherwise frequented
 
 Similarly, the regs.ext.s22580 field is set by the seller to note that an impression falls within the scope of California Business and Professions Code Section 22580. You are responsible for ensuring that you comply with these laws, to the extent applicable.
 
-Take Down Policy
-
-If a seller raises a concern about an undesired and/or malicious ad serving on their media, or a buyer raises a concern about an ad serving against undesired and/or malicious content, they can contact Magnite via [globalsupport@magnite.com](mailto:globalsupport@magnite.com). Once notified, Magnite will initiate an investigation into the complaint within 24 hours and make a commercially reasonable effort to take down the ad, either by internal actions or by contacting the applicable DSP, if necessary.
+Take Down PolicyIf a seller raises a concern about an undesired and/or malicious ad serving on their media, or a buyer raises a concern about an ad serving against undesired and/or malicious content, they can contact Magnite via [globalsupport@magnite.com](mailto:globalsupport@magnite.com). Once notified, Magnite will initiate an investigation into the complaint within 24 hours and make a commercially reasonable effort to take down the ad, either by internal actions or by contacting the applicable DSP, if necessary.
