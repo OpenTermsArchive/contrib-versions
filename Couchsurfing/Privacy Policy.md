@@ -1,7 +1,7 @@
 Couchsurfing.com Privacy Policy
 ===============================
 
-Effective Date: November **26, 2022**
+Effective Date: April **06, 2023**
 
 Please read this Global Privacy Policy (“**Privacy Policy**”) carefully to get a clear understanding of how Couchsurfing International, Inc. (“**Couchsurfing**,” “**we**,” “**us**” or “**our**”) collects, uses, discloses, protects and otherwise handles information about you. Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements. In this Privacy Policy, we also provide a supplementary privacy notice for [California residents](#NoticetoCAResidents) and a supplementary privacy notice for data subjects in the [EEA, Switzerland and the UK (collectively, “Europe”)](#NoticeToEuropeanDataSubjects).
 
@@ -23,7 +23,7 @@ From time to time, we may change the provisions of this Privacy Policy. If we ma
 
 #### Information You Provide to Us
 
-We collect information you provide to us, such as when you create an account, update your profile, use the interactive features of our Services, participate in contests, promotions or surveys, request customer support or otherwise communicate with us.
+We collect information you provide to us, such as when you create an account, verify your identity, update your profile, use the interactive features of our Services, participate in contests, promotions or surveys, request customer support or otherwise communicate with us.
 
 The types of information we may collect include:
 
@@ -32,7 +32,7 @@ The types of information we may collect include:
 * **Other background, contact and demographic information**, such as your occupation, personal URL, IM username, emergency contact, home descriptions, travel history and plans and other interests and self-descriptions you choose to provide;
 * **Payment and transactional data** when you pay for our Services, including name, payment card information, bank account number, billing information, and your transaction history. This information is collected and processed by our payment providers, Stripe, PayPal  , Google and Apple, and we do not have access to payment card numbers. In addition to this Privacy Policy and our [Terms of Use](https://about.couchsurfing.com/about/terms-of-use), information related to your payments or purchases is also processed according to Stripe’s, PayPal’s, Google’s, and Apple’s service agreements and privacy policies.
 * **Information stored on your mobile device (if you have given us permission to access this information)**, such as your photos, calendar information and your contacts’ name, phone numbers and image thumbnail (if available). In particular, to help users connect with people they know, we offer them the option to invite friends to join them on Couchsurfing. To take advantage of this feature, users can opt in to share phone numbers from their address book or add phone numbers manually.
-* **Identity verification data that you may provide if you elect to use the identity verification service**. This includes the identity document and images used in the process, as well as the information included on the identity document provided, as permitted by the applicable law. This information is collected and processed by a third party identity verification service provided by Onfido. For more information on how Onfido may handle your data please review [Onfido’s privacy policy](https://www.onfido.com/privacy/).
+* **Identity verification and biometric information, if you elect to use the identity verification service**. If you choose to verify your identity when using the Services, we will ask you to provide a photo of your government-issued ID as well as a selfie to our biometric verification service provider Onfido. Onfido collects, uses, and stores facial geometry extracted from the selfie and the ID to confirm that the two facial images match. This match enables Onfido to verify the user’s identity. Onfido also processes this data as an independent controller to improve its facial recognition technology. Couchsurfing does not retain the facial geometry derived from your ID image and selfie, and we require Onfido to delete this facial geometry after your identity has been verified. For more information, please also see [Onfido’s Facial Scan Policy](https://onfido.com/facial-scan-policy-and-release/), [Privacy Policy](https://onfido.com/privacy/) and [Terms of Service](https://onfido.com/terms-of-service/).
 
 #### Information We Collect Automatically
 
@@ -224,7 +224,7 @@ Provision of some of this data is necessary to establish an account on Couchsurf
 | Payment and transactional data | To authorize our payment processors to process your transactions | **Contractual Necessity** |
 | Information collected from other Services Users | To improve your experience when using the Services and promote trust and safety while using the Services. | **Legitimate Interests:**<br><br>Improving and developing the Services |
 | Information collected from third party services | To enable you to easily communicate and connect with other users while on the Services | **Legitimate Interests:**<br><br>Improving and developing the Services |
-| Verification Data | To verify your identity | **Legitimate Interests:**<br><br>To help confirm your identity and enhance the chances of finding an host |
+| Identity verification and biometric information | To verify your identity when using the Services | **Consent** |
 | Information Collected Automatically | To provide functionality, security, and for analytics and marketing purposes | **Legitimate Interests:**<br><br>Developing and improving the Services |
 
 **Recipients of Data**. We may disclose your personal data to the recipients described in the [Sharing of Information](#SharingOfInformation) section above.
