@@ -3,13 +3,13 @@ Hateful Conduct
 
 ### Overview 
 
-**February 2023**
+**April 2023**
 
 You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
 
 Twitter’s mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
 
-We recognize that if people experience abuse on Twitter, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. This includes: women, people of color, lesbian, gay, bisexual, transgender, queer, intersex, asexual individuals, and marginalized and historically underrepresented communities. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+We recognize that if people experience abuse on Twitter, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
 
 We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
 
@@ -39,7 +39,7 @@ Note: content intended to incite violence against a protected category is prohib
 
 **Slurs and Tropes**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. This includes targeted misgendering or deadnaming of transgender individuals.In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Tweet removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Tweet visibility as further described below.
+We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Tweet removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Tweet visibility as further described below.
 
 **Dehumanization**
 
@@ -73,10 +73,19 @@ Under this policy, we take action against behavior that targets individuals or a
 
 When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
 
-* Downranking Tweets in replies, except when the user follows the Tweet author.  
-    
-* Making Tweets ineligible for amplification in Top search results and/or on timelines for users who don’t follow the Tweet author.
+* Making content less visible on Twitter by:
+    * Removing the Tweet from search results, in-product recommendations, trends, notifications, and home timelines 
+        
+    * Restricting the Tweet’s discoverability to the author’s profile
+        
+    * Downranking the Tweet in replies
+        
+    * Restricting Likes, replies, Retweets, Quote Tweets, bookmarks, share, pin to profile, or engagement counts 
+        
+    * Excluding the Tweet from having ads adjacent to it
+        
 * Excluding Tweets and/or accounts in email or in-product recommendations. 
+    
 * Requiring Tweet removal.
     * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Tweet again.
 * Suspending accounts that violate our Hateful Profile policy.
