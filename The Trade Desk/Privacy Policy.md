@@ -1,7 +1,7 @@
 Website Privacy Policy
 ======================
 
-_Last updated: May 20, 2021_  
+_Last updated: April 7, 2023_  
 
 **WHAT THIS POLICY COVERS**
 
@@ -124,7 +124,9 @@ DNT is a privacy preference that you may set in certain browsers or may be prese
 
 **YOUR RIGHTS**
 
-You have the right to request access to or deletion of the information we have collected about you through our Websites. If you’d like to access, update, correct, or request deletion of your information that you have provided to us on our Websites or elsewhere, please send your request to us at [\[email protected\]](https://www.thetradedesk.com/cdn-cgi/l/email-protection). We may take reasonable steps to confirm your identity. You will not be discriminated against for the exercise of such rights (for example, we will not provide you with a different level or quality of goods or services).
+Depending upon where you live, you may have certain legal rights with respect to data The Trade Desk collects and processes about you through our Websites. These rights may include the right to request access, deletion, and correction of personal data. You may also have the right to opt out of activities that constitute “sales” or “sharing” as such terms are defined under certain state privacy laws in the United States. These rights may be limited, for example if fulfilling your request would reveal personal data about another person or infringe the rights of a third party (including our rights) or if you ask us to delete information that we are required by law to keep or have compelling legitimate interest in keeping. We will inform you of relevant exemptions we rely upon when responding to any request you make. We will not discriminate against you if you exercise your rights under applicable law.
+
+**­**If you’d like to access, update, correct, or request deletion of your information that you have provided to us on our Websites or elsewhere, please fill out this [webform](https://privacyportal-eu.onetrust.com/webform/2abc1a63-35c5-4ef7-b11b-1c55714738b5/61b81601-fe65-4dfe-a922-e1c5a68fa8cb) or send your request to us at [\[email protected\]](https://www.thetradedesk.com/cdn-cgi/l/email-protection)[](mailto:). We may take reasonable steps to confirm your identity. To opt out of data processing activities may be considered “sales” or “sharing” of your personal information under the law that applies to you, please visit [http://www.adsrvr.org](http://www.adsrvr.org/).  
 
 **INTERNATIONAL TRANSFERS**
 
