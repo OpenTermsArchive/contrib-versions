@@ -311,6 +311,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         81. Contains information licensed under the Open Government Licence – City of Ottawa - [https://ottawa.ca/en/city-hall/open-transparent-and-accountable-government/open-data#open-data-licence-version-2-0](https://ottawa.ca/en/city-hall/open-transparent-and-accountable-government/open-data#open-data-licence-version-2-0)
             
+        82. RAC
+            
     7. **Czechia**
         
         Prague PID Agency - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
