@@ -62,4 +62,4 @@ When determining the penalty for violating this policy, we consider a number of 
 
 Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/content/help-twitter/en/forms/account-access/appeals).
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
