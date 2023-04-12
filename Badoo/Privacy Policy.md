@@ -115,7 +115,7 @@ Our main goal is to ensure your experience on Badoo is an enjoyable one and in o
 * test new technologies and processes designed to enhance and develop the App/Sites;
 * resolve disputes, troubleshoot problems and enforce our [Terms and Conditions of Use](https://badoo.com/terms/);
 * investigate fraud, protect our legal rights, and to enforce our [Terms and Conditions of Use](https://badoo.com/terms/);
-* to send you information about the promotions and offers we have available - if you’ve signed up for our communications or otherwise told us it’s ok (you can withdraw from marketing at any time via Settings in the App or by using the opt-out mechanisms and links provided in each message); and
+* to send you information about the promotions and offers we have available (e.g., specify the types of goods/services/offers to be provided via direct marketing) by direct marketing or other modes of communication - if you’ve signed up for our communications or otherwise told us it’s ok. We will not use your information in email direct marketing unless you give us your consent during the Account creating process or via Settings in the App (you can withdraw from marketing at any time via Settings in the App or by using the opt-out mechanisms and links provided in each message); and
 * protect our Users and third parties from harm.
 
 ### Moderation Practices
@@ -215,27 +215,6 @@ This data referred to above can include actions that you take on our website suc
 To protect the input and comment areas of our App against spam and abuse, we use the reCAPTCHA verification tool. This service is provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA and is subject to Google’s [privacy policy](https://policies.google.com/privacy) and [terms of service](https://policies.google.com/terms).
 
 reCAPTCHA makes it possible to differentiate between inputs of human origin and those that are carried out improperly by a bot. Certain device and application data will be transmitted to Google’s servers in order to determine whether actions on our App really come from humans. Google may also use this data to improve the reCAPTCHA service. This data may include: URLs; user IP address; Google account information if the user is logged in to their Google account at the same time; browser information, including browser type, browser size, browser resolution, browser plug-ins, language settings and date; mouse and touch events within the page; and information collected from cookies. This processing is based on our predominant legitimate interests in protecting our App from abusive bots.
-
-### Badoo’s Partnership with The Meet Group, Inc. to Provide Live Video Streaming
-
-The collection and transmission of your personal data as part of live video streaming services (“Live”) on the App is carried out by Badoo and The Meet Group, Inc. (“TMG”). For Live, Badoo and TMG act as joint controllers, meaning that Badoo and TMG are both responsible for any personal data that either organisation collects and uses in the context of Live. Badoo has entered into a joint controller agreement with TMG which sets out the allocation of data protection obligations between Badoo and TMG. In this agreement, Badoo and TMG have agreed, among other things:
-
-* your data protection rights may be invoked against either Badoo or TMG. If you contact Badoo, then Badoo leads in responding to you, but may need to check in with TMG to ensure that it is responding to your query in full. The same goes if you contact TMG;
-* both parties shall implement appropriate technical and organisational measures to ensure an adequate level of security for personal data processed as joint controllers;
-* we will rely on the standard contractual clauses approved by the European Commission and UK ICO if your personal data is transferred out of the EEA or UK to a country without adequate levels of privacy protection; and
-* Badoo and TMG will jointly process your personal data only for the reasons given below.
-
-**Legal Grounds for Processing.** For the provision of Live and related functionalities, our legal basis for processing is that this is necessary for the performance of our contract with you. For moderation of live streams, we rely on the legal basis of legitimate interests. In this regard, TMG and Badoo pursue their interests and the interests of users in ensuring Live is provided in a safe and secure environment. If you upload and choose to provide sensitive information about yourself, such as information about your health or beliefs, you are explicitly consenting to our processing of this information and making it public to other users of Live.
-
-**Categories of Personal Data Processed.** If you use Live, Badoo and TMG will process the following personal data about you: user identifier (such as User ID); name, age and gender; language; voice and images; actions taken or contributions made (e.g., via chat); about text; location related data; and who you are interested in (men, women or both), which reveals your sexual orientation.
-
-**Purposes of Processing.** Your personal data will be processed under joint control as necessary for purposes of providing the following functionalities related to Live: enable participation in the chat related to Live to communicate with other users; enable participation in live streams via Live; moderation of the use of live streams; supporting (e.g., training) users with respect to becoming live streamers via Live; and management of virtual gifts in the context of live streams. This processing only takes place if you are using Live.
-
-**Recipients.** Your live video stream can be seen by anyone who chooses to access Live. This includes users of Badoo and users of other applications who have access to Live.
-
-**Duration of Processing.** Your live video stream will not be retained after the stream ends, unless some information needs to be retained to comply with legal obligations or as part of live streaming moderation activities.
-
-You can contact [DPO@corp.badoo.com](mailto:DPO@corp.badoo.com) if you have questions about our joint controller arrangement with TMG. Please note that for other data processing activities, Badoo and TMG are separate controllers. For example, Badoo acts as a separate controller in relation to personal data collected from you for purposes of providing and operating the Badoo App.
 
 4\. WHAT OTHERS MAY SEE ABOUT YOU
 ---------------------------------
@@ -361,4 +340,4 @@ Thanks for reading, we hope we didn’t drone on for too long!
 
 As Badoo evolves, we may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at https://badoo.com/privacy/. If we make a change to this policy that, in our sole discretion, is material, we will notify you, for example, via an email to the email associated with your Account or by posting a notice within Badoo.
 
-**Effective date.** This Privacy Policy was last updated on 20 February 2023.
+**Effective date.** This Privacy Policy was last updated on 12 April 2023.
