@@ -112,7 +112,7 @@ Our main goal is to ensure your experience on Bumble is an enjoyable one and you
 * to test new technologies and processes designed to enhance and improve the App/Sites;
 * resolve disputes, troubleshoot problems and to enforce our Terms & Conditions;
 * investigate fraud, protect our legal rights, and to enforce our Terms & Conditions.
-* to send you information about the promotions and offers we have available - if you’ve signed up for our communications or otherwise told us it’s OK (you can withdraw from marketing at any time via Settings in the App or by using the opt-out mechanisms and links provided in each message); and
+* to send you information about the promotions and offers we have available (e.g., specify the types of goods/services/offers to be provided via direct marketing) by direct marketing or other modes of communication - if you’ve signed up for our communications or otherwise told us it’s OK. We will not use your information in email direct marketing unless you give us your consent during the Account creating process or via Settings in the App (you can withdraw from marketing at any time via Settings in the App or by using the opt-out mechanisms and links provided in each message); and
 * protect our Users and third parties from harm.
 
 ### Our Matching Algorithms
@@ -149,7 +149,7 @@ Under EU and UK data protection laws, we are required to tell you our lawful bas
 
 ### Processing We Perform To Improve Services For Students
 
-We process personal data to understand which of our users may be in college or university. To do this, we look at historic location data to understand whether your device’s coordinates match to a general university or college area. For this activity, we use recent historic data regarding where you opened the Bumble app and we’ll keep a simple “at campus yes/no” result based on our findings. We do not engage in tracking of your real-time movements as part of this activity and we do not identify or store information about where you are studying. To protect your privacy, we do not retain any of the location data used for this activity and it is permanently deleted once the results are generated. We’ll combine the results of this processing with other relevant information we hold for the following purposes: so we can send the right offers, events and features to the right users; to understand which Bumble events are popular with the student demographic and which aren’t working so well; and to improve the design of the App to meet the needs of students, based on the way they like to use the App. The legal basis for this processing is our legitimate interests. We have a legitimate interest in providing a more tailored app experience for student users and in optimising their chances of finding the right connections. Please note this processing only affects Bumble app users in the 18 to 24 age group whose registered location is the United States.
+We process personal data to understand which of our users may be in college or university. To do this, we look at historic location data to understand whether your device’s coordinates match to a general university or college area. For this activity, we use recent historic data regarding where you opened the Bumble app and we’ll keep a simple “at campus yes/no” result based on our findings. We do not engage in tracking of your real-time movements as part of this activity and we do not identify or store information about where you are studying. To protect your privacy, we do not retain any of the location data used for this activity and it is permanently deleted once the results are generated. We’ll combine the results of this processing with other relevant information we hold for the following purposes: so we can send the right offers, events and features to the right users; to understand which Bumble events are popular with the student demographic and which aren’t working so well; and to improve the design of the App to meet the needs of students, based on the way they like to use the App. The legal basis for this processing is our legitimate interests. We have a legitimate interest in providing a more tailored app experience for student users and in optimising their chances of finding the right connections. Please note this data processing only affects Bumble App users who identified the United States or Canada as their location when registering for the App (we exclude users in Quebec) and who are in the 18 to 24 age group.
 
 3\. DISCLOSURE OF INFORMATION.
 ------------------------------
@@ -167,8 +167,6 @@ Our policy is to not disclose your Registration Information or personal data, ex
 | **Anti-Spam and Anti-Fraud** – Your data may be shared with other Bumble Group companies, for example, to block accounts and suspected fraudulent payment transactions as part of our anti-spam and anti-fraud procedures. | Email address, phone number, IP address and IP session information, social network ID, username, user agent string, and transaction and payment data (CCPA Categories B, F and D). |
 
 **Aggregated Information** – We may share aggregated information with third parties that includes your personal data (but which doesn’t identify you directly) together with other information including log data for industry analysis and demographic profiling.
-
-Bumble does not sell your data and has not sold your personal data in the previous 12 months.
 
 ### MORE INFORMATION ABOUT DISCLOSURES
 
@@ -363,4 +361,4 @@ As Bumble evolves, we may revise this Privacy Policy from time to time. The most
 
 ### Effective date
 
-This Privacy Policy was last updated 17th February 2023.
+This Privacy Policy was last updated 12th April 2023.
