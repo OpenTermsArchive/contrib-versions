@@ -747,6 +747,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * National Land Survey of Iceland: [https://www.lmi.is/is/moya/page/licence-for-national-land-survey-of-iceland-free-data](https://www.lmi.is/is/moya/page/licence-for-national-land-survey-of-iceland-free-data)
             
+        * Landmælingar Íslands (Geodesy of Iceland) [https://www.lmi.is/is/landupplysingar/gagnagrunnar/nidurhal](https://www.lmi.is/is/landupplysingar/gagnagrunnar/nidurhal)
+            
     20. **India**
         
         Google’s maps of India include data licensed from the following:
@@ -1759,9 +1761,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         OCHA Field Information Services Section (FISS) - [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
         
     69. **Latvia**
-        
-        Latvian Open Data Portal - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
-        
+        * Latvian Open Data Portal - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        * Open Data Latvia - [https://data.gov.lv/lv](https://data.gov.lv/lv)
+            
     70. **Slovenia**
         
         Javni Geodetski Podatki - Public Geodetic Data Slovenia - [https://creativecommons.org/licenses/by/4.0/deed.sl](https://creativecommons.org/licenses/by/4.0/deed.sl)
