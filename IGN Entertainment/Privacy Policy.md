@@ -62,7 +62,6 @@ This Privacy Policy covers information collected through the following websites 
 * [Salesify](http://www.salesify.com/), [B2BSignals](http://www.b2bsignals.com/)
 * [Revenu8](https://revenu8.com/), [MarTechAdvisor](https://www.martechadvisor.com/), [ReadITQuik](https://www.readitquik.com/), [HRTechnologist](https://www.hrtechnologist.com/)
 * [DemandShore](https://www.demandshore.com/), [Technology Signals](https://www.technology-signals.com/)
-* [Ziff Davis Data](http://www.ziffdavisdata.net/)
 * [Best Black Friday](https://bestblackfriday.com/)
 * [The Black Friday](https://theblackfriday.com/)
 * [Deals of America](https://dealsofamerica.com/)
