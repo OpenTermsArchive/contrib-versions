@@ -139,9 +139,9 @@ This service provides outage notifications and updates for your sonic internet s
 
 If you are experiencing issues with the messaging program, you can reply with the keyword HELP for more assistance, or you can get help directly at [support@sonic.com](mailto:support@sonic.com).
 
-Carriers are not liable for delayed or undelivered messages
+Carriers are not liable for delayed or undelivered messages.
 
-As always, message and data rates may apply for any messages sent to you from us and to us from you. You will only receive messages from this number directly related to the status of your internet service. If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
+As always, message and data rates may apply for any messages sent to you from us and to us from you. You will only receive messages from this number directly related to the status of your internet service. Message frequency varies. If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
 
 If you have any questions regarding privacy, please read our privacy policy: [https://help.sonic.com/hc/en-us/articles/235963988-Sonic-net-Policies#sonic.net,\_llc.\_general\_policy](https://help.sonic.com/hc/en-us/articles/235963988-Sonic-net-Policies#sonic.net,_llc._general_policy "https://help.sonic.com/hc/en-us/articles/235963988-sonic-net-policies#sonic.net,_llc._general_policy").
 
