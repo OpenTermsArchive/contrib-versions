@@ -5,6 +5,8 @@ Stay organized with collections Save and categorize content based on your prefer
 Google Cloud Platform Terms of Service
 ======================================
 
+New to Google Cloud? A quick overview of Google Cloud’s online contracting can be found [here](https://cloud.google.com/terms/overview).
+
 If you are accessing the Google Cloud Platform Services as a customer of an unaffiliated Google Cloud Platform reseller, the terms below do not apply to you, and your agreement with your reseller governs your use of the Google Cloud Platform Services.
 
 If you signed an offline variant of this Agreement for use of the Google Cloud Platform services under the same Google Cloud Platform Account, the terms below do not apply to you, and your offline terms govern your use of the Google Cloud Platform Services.
@@ -286,7 +288,7 @@ Section 14.12 (U.S. Governing Law) is replaced as follows:
 
 **Asia Pacific - India**
 
-Google Cloud India Private Limited has been appointed by Google Asia Pacific Pte. Ltd. (‘GAP’) as a non-exclusive reseller of the Services (as defined below) in India. For avoidance of any doubts, whilst in the Agreement, both the entities have been referred  to as ‘Google.’ It is hereby clarified that wherever the provisions refer to Google for sales or rights and obligations in relation thereto (including any terms relating to invoicing for sale of services, credit limit, termination of this Agreement, etc.),  ‘Google’ shall mean Google Cloud India Private Limited, and wherever in the Agreement, the provisions refer to  ‘Google’ as a provider of the Services or rights and obligations in relation thereto shall mean  ‘GAP’.
+Google Cloud India Private Limited has been appointed by Google Asia Pacific Pte. Ltd. (‘GAP’) as a non-exclusive reseller of the Services (as defined below) in India. For avoidance of any doubts, whilst in the Agreement, both the entities have been referred to as ‘Google.’ It is hereby clarified that wherever the provisions refer to Google for sales or rights and obligations in relation thereto (including any terms relating to invoicing for sale of services, credit limit, termination of this Agreement, etc.), ‘Google’ shall mean Google Cloud India Private Limited, and wherever in the Agreement, the provisions refer to ‘Google’ as a provider of the Services or rights and obligations in relation thereto shall mean ‘GAP’.
 
 Google Cloud India Private Limited may execute Order Form(s) referencing the Agreement, but the Order Form will form a separate contract between Google Cloud India Private Limited and the Customer, and incorporate all of the terms of this Agreement. Under the agreement, whereas, as a reseller of Services, Google Cloud India Private Limited purchases the Services from GAP for resale to the Customer, the entire obligation to provide such Services under the Agreement will be met by GAP and as such, Google Cloud India Private Limited will not have any obligation related to performance of Services.
 
