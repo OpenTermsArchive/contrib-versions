@@ -5,7 +5,7 @@ Developer Agreement
 
 **Twitter Developer Agreement**
 
-Last Updated: March 29, 2023  
+Last Updated: April 18, 2023  
 
 By clicking “Accept & Subscribe”, continuing to pay the recurring subscription fee for Paid Services, and by otherwise accessing or using any Licensed Material,  you agree to the terms of  our [](https://legal.twitter.com/purchaser-terms)Developer Agreement. Subscriptions auto-renew until canceled, as described in the Terms. A verified phone number is required to subscribe. If you've subscribed on another platform, manage your subscription through that platform.
 
@@ -31,7 +31,7 @@ By accessing or using any Licensed Material (defined below), or clicking on a bu
 
 **8\.**   “**Tweet**” means a short-form text and multimedia-based message distributed via the Twitter Applications.
 
-**9.**   “**Twitter**” means (a) Twitter, Inc. (1355 Market Street, Suite 900, San Francisco, CA, 94103, USA) if your principal place of business is in North America (including Hawaii) or South America; or (b) Twitter International Unlimited Company (One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland) if your principal place of business is in any country or territory outside of North America (including Hawaii) or South America.
+**9.**   “**Twitter**” means (a) X Corp. (1355 Market Street, Suite 900, San Francisco, CA, 94103, USA) if your principal place of business is in North America (including Hawaii) or South America; or (b) Twitter International Unlimited Company (One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland) if your principal place of business is in any country or territory outside of North America (including Hawaii) or South America.
 
 **10\.**   “**Twitter API**” means Twitter Application Programming Interfaces (each, an **“API”**), Software Development Kits (each, an **“SDK”**), and the related tools, documentation, data, technology, code, and other materials provided by Twitter through the Developer Site.
 
