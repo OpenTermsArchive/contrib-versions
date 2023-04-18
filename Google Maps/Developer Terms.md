@@ -413,31 +413,33 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Contient des informations des producteurs de données suivants, sujettes à la Licence Ouverte ([source](https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Open_Licence.pdf)) et mises à jour régulièrement à partir d'octobre 2022 :
             
-            * [Région Réunion](https://transport.data.gouv.fr/datasets/horaires-theoriques-au-format-gtfs-et-horaires-temps-reel-au-format-gtfs-rt-du-reseau-car-jaune-a-la-reunion/)
+            * Région Réunion. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-au-format-gtfs-et-horaires-temps-reel-au-format-gtfs-rt-du-reseau-car-jaune-a-la-reunion/](https://transport.data.gouv.fr/datasets/horaires-theoriques-au-format-gtfs-et-horaires-temps-reel-au-format-gtfs-rt-du-reseau-car-jaune-a-la-reunion/))
                 
-            * [Métropole Toulon Provence Méditerranée](https://transport.data.gouv.fr/datasets/reseau-de-transport-urbain-de-la-metropole-toulon-provence-mediterranee/)
+            * Métropole Toulon Provence Méditerranée . ([https://transport.data.gouv.fr/datasets/reseau-de-transport-urbain-de-la-metropole-toulon-provence-mediterranee/](https://transport.data.gouv.fr/datasets/reseau-de-transport-urbain-de-la-metropole-toulon-provence-mediterranee/))
                 
-            * [Eurométropole de Metz](https://transport.data.gouv.fr/datasets/transport-donnees-gtfs/)
+            * Eurométropole de Metz. ([https://transport.data.gouv.fr/datasets/transport-donnees-gtfs/](https://transport.data.gouv.fr/datasets/transport-donnees-gtfs/))
                 
-            * [Zenbus](https://transport.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-du-reseau-la-reunion-carsud-gtfs-gtfs-rt/)
+            * Zenbus. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-du-reseau-la-reunion-carsud-gtfs-gtfs-rt/](https://transport.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-du-reseau-la-reunion-carsud-gtfs-gtfs-rt/))
                 
-            * [Communauté d'agglomération du Pays de Grasse](https://transport.data.gouv.fr/datasets/lignes-regulieres-de-transports-en-pays-de-grasse/)
+            * Communauté d'agglomération du Pays de Grasse. ([https://transport.data.gouv.fr/datasets/lignes-regulieres-de-transports-en-pays-de-grasse/](https://transport.data.gouv.fr/datasets/lignes-regulieres-de-transports-en-pays-de-grasse/))
                 
-            * [Communauté de la Riviera Française](https://transport.data.gouv.fr/datasets/horaires-du-reseau-de-transport-public-zest)
+            * Communauté de la Riviera Française. ([https://transport.data.gouv.fr/datasets/horaires-du-reseau-de-transport-public-zest](https://transport.data.gouv.fr/datasets/horaires-du-reseau-de-transport-public-zest))
                 
-            * [Communauté d'Agglomération du Grand Dole](https://transport.data.gouv.fr/datasets/reseau-de-transport-du-grand-dole/)
+            * Communauté d'Agglomération du Grand Dole. ([https://transport.data.gouv.fr/datasets/reseau-de-transport-du-grand-dole/](https://transport.data.gouv.fr/datasets/reseau-de-transport-du-grand-dole/))
                 
-            * [Agglomération Montargoise Et Rives Du Loing](https://transport.data.gouv.fr/datasets/offre-de-transports-urbain-du-reseau-amelys-gtfs/)
+            * Agglomération Montargoise Et Rives Du Loing ([https://transport.data.gouv.fr/datasets/offre-de-transports-urbain-du-reseau-amelys-gtfs/](https://transport.data.gouv.fr/datasets/offre-de-transports-urbain-du-reseau-amelys-gtfs/))
                 
-            * [Rodez Agglomération](https://transport.data.gouv.fr/datasets/offre-2022-de-transport-du-reseau-urbain-agglobus-et-de-transports-scolaires-gtfs/)
+            * Rodez Agglomération. ([https://transport.data.gouv.fr/datasets/offre-2022-de-transport-du-reseau-urbain-agglobus-et-de-transports-scolaires-gtfs/](https://transport.data.gouv.fr/datasets/offre-2022-de-transport-du-reseau-urbain-agglobus-et-de-transports-scolaires-gtfs/))
                 
-            * [Communauté d'Agglomération Privas Centre Ardèche](https://transport.data.gouv.fr/datasets/reseau-urbain-interurbain-et-scolaire-de-la-communaute-dagglomeration-privas-centre-ardeche)
+            * Communauté d'Agglomération Privas Centre Ardèche. ([https://transport.data.gouv.fr/datasets/reseau-urbain-interurbain-et-scolaire-de-la-communaute-dagglomeration-privas-centre-ardeche](https://transport.data.gouv.fr/datasets/reseau-urbain-interurbain-et-scolaire-de-la-communaute-dagglomeration-privas-centre-ardeche))
                 
-            * [Alternéo](https://transport.data.gouv.fr/datasets/donnees-du-reseau-alterneo/)
+            * Alternéo. ([https://transport.data.gouv.fr/datasets/donnees-du-reseau-alterneo/](https://transport.data.gouv.fr/datasets/donnees-du-reseau-alterneo/))
                 
-            * [Communauté de Communes de l'Ouest Vosgien](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-neobus-communaute-de-communes-de-louest-vosgien-gtfs)
+            * Communauté de Communes de l'Ouest Vosgien. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-neobus-communaute-de-communes-de-louest-vosgien-gtfs](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-neobus-communaute-de-communes-de-louest-vosgien-gtfs))
                 
-            * [Transdev Mont Blanc Bus](https://transport.data.gouv.fr/datasets/chamonix-bus-1)
+            * Transdev Mont Blanc Bus. ([https://transport.data.gouv.fr/datasets/chamonix-bus-1](https://transport.data.gouv.fr/datasets/chamonix-bus-1))
+                
+            * Réseau urbain EVA'D. ([https://transport.data.gouv.fr/datasets/donnees-du-reseau-evad-1](https://transport.data.gouv.fr/datasets/donnees-du-reseau-evad-1))
                 
         * Contient des informations des producteurs de données suivants, sujettes à la Licence Ouverte v2 ([source](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)) et mises à jour régulièrement à partir d'octobre 2022 :
             
@@ -544,6 +546,16 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             * Occitanie Pyrénées en Intelligence Géomatique - Grand Narbonne. ([https://transport.data.gouv.fr/datasets/arrets-de-bus-communaute-dagglomeration-le-grand-narbonne-2](https://transport.data.gouv.fr/datasets/arrets-de-bus-communaute-dagglomeration-le-grand-narbonne-2))
                 
             * Fluo Grand Est - réseau TGL. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tgl-syndicat-intercommunal-des-transports-collectifs-du-bassin-de-longwy](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tgl-syndicat-intercommunal-des-transports-collectifs-du-bassin-de-longwy))
+                
+            * Réseau urbain Move. ([https://transport.data.gouv.fr/datasets/gtfs-move-vendome](https://transport.data.gouv.fr/datasets/gtfs-move-vendome))
+                
+            * Réseau urbain Bandol - Sanary-sur-mer. ([https://transport.data.gouv.fr/datasets/transports-urbains-bandol-sanary-s-mer](https://transport.data.gouv.fr/datasets/transports-urbains-bandol-sanary-s-mer))
+                
+            * Réseau urbain A Berlina. ([https://transport.data.gouv.fr/datasets/gtfs-transport-horaires-des-lignes-de-la-communaute-de-communes-corse-du-sud-a-berlina](https://transport.data.gouv.fr/datasets/gtfs-transport-horaires-des-lignes-de-la-communaute-de-communes-corse-du-sud-a-berlina))
+                
+            * Réseau urbain A Balanina. ([https://transport.data.gouv.fr/datasets/gtfs-transport-horaires-des-lignes-de-la-communaute-dile-rousse-balagne-a-balanina](https://transport.data.gouv.fr/datasets/gtfs-transport-horaires-des-lignes-de-la-communaute-dile-rousse-balagne-a-balanina))
+                
+            * Bacs de Loire en Loire-Atlantique (44). ([https://transport.data.gouv.fr/datasets/horaires-des-bacs-de-loire-en-loire-atlantique-gtfs/](https://transport.data.gouv.fr/datasets/horaires-des-bacs-de-loire-en-loire-atlantique-gtfs/))
                 
         * Muséum national d'Histoire Naturelle: [https://inpn.mnhn.fr/accueil/mentions-legales](https://inpn.mnhn.fr/accueil/mentions-legales)
             
