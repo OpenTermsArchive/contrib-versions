@@ -107,29 +107,3 @@ You may also provide us with a counter-notification via our online [Counter Noti
 ----------------
 
 As a TikTok user, you are responsible for the content you post. If you have questions about copyright law or trademark law, such as questions about whether your content or your use of another person’s name or brand infringes or otherwise violates another person’s rights, you may want to contact an attorney. If you are unsure whether the material you plan to report to us is infringing or otherwise violating another person’s right, you may also want to first seek legal advice before reporting such content to us.
-
-Additional languages (please also see the language settings for other available languages)
-------------------------------------------------------------------------------------------
-
-* Bulgarian: [български](https://www.tiktok.com/legal/bul-ip-policy-eea?lang=en)  
-    
-
-* Croatian: [Cruatu](https://www.tiktok.com/legal/hr-ip-policy-eea?lang=en)  
-    
-
-* Danish: [Dansk](https://www.tiktok.com/legal/da-ip-policy-eea?lang=en)  
-    
-
-* Estonian: [Eesti keel](https://www.tiktok.com/legal/et-ip-policy-eea?lang=en)  
-    
-
-* Latvian: [Latviski](https://www.tiktok.com/legal/lv-ip-policy-eea?lang=en)  
-    
-
-* Lithuanian: [Lietuvių](https://www.tiktok.com/legal/lt-ip-policy-eea?lang=en)  
-    
-
-* Norwegian: [Norsk](https://www.tiktok.com/legal/nb-ip-policy-eea?lang=en)  
-    
-
-* Slovak: [Slovenský](https://www.tiktok.com/legal/sk-ip-policy-eea?lang=en)
