@@ -1,5 +1,3 @@
-Privacy Policy [ykaneva](https://lingualeo.com/blog/author/ykaneva/ "Posts by ykaneva") 2018-02-07T08:58:38+00:00
-
 Privacy Policy
 ==============
 
@@ -13,8 +11,8 @@ This Privacy Policy uses terms in the same way they are defined in the End-user 
 
 3\. The Website Owner (Licensor) requests the following information for the Website user:  
 
-* email address – to create an account and for communication purposes
-* contacts – for recommendation to friends
+* email address — to create an account and for communication purposes
+* contacts — for recommendation to friends
 * data from the User’s Google account to fill out the User’s profile on the website.
 
 4\. By signing up on our Website and using our Website, You fully agree with the terms specified in this Provision.
