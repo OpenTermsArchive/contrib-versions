@@ -1,5 +1,3 @@
-[lingua](https://lingualeo.com/blog/author/lingua/ "Posts by lingua") 2015-07-17T12:54:59+00:00
-
 END USER LICENSE AGREEMENT
 ==========================
 
