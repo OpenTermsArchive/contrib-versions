@@ -42,9 +42,9 @@ Choose a Google product
 * [![](//www.gstatic.com/images/branding/product/1x/family_link_64dp.png)
     
     ### Google For Families](https://support.google.com/families/?hl=en-GB)
-* [![](//fonts.gstatic.com/s/i/productlogos/fi/v6/web-64dp/logo_fi_color_1x_web_64dp.png)
+* [![](//fonts.gstatic.com/s/i/productlogos/fi_2023q2/v2/web-64dp/logo_fi_2023q2_color_1x_web_64dp.png)
     
-    ### Google Fi](https://support.google.com/fi/?hl=en-GB)
+    ### Google Fi Wireless](https://support.google.com/fi/?hl=en-GB)
 * [![](//www.gstatic.com/images/branding/product/1x/google_home_64dp.png)
     
     ### Google Nest](https://support.google.com/googlenest/?hl=en-GB)
@@ -101,7 +101,7 @@ Consumer
 * [### Snapseed](https://support.google.com/snapseed/?hl=en-GB)
 * [### Google Keep](https://support.google.com/keep/?hl=en-GB)
 * [### Starbucks WiFi](https://support.google.com/starbuckswifi/?hl=en-GB)
-* [### Google Fi](https://support.google.com/fi/?hl=en-GB)
+* [### Google Fi Wireless](https://support.google.com/fi/?hl=en-GB)
 * [### Waze](https://support.google.com/waze/?hl=en-GB)
 * [### Wear OS by Google](https://support.google.com/wearos/?hl=en-GB)
 * [### Google Fit](https://support.google.com/fit/?hl=en-GB)
