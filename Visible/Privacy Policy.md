@@ -1,8 +1,8 @@
 Privacy Policy
 ==============
 
-Effective Date: December, 2022
-------------------------------
+Effective Date: April, 2023
+---------------------------
 
 Visible values your business and is committed to protecting your privacy. This Privacy Policy sets forth our policies and practices for the collection, use and sharing of your information. Visible is a member of the Verizon family of companies.
 
@@ -18,7 +18,7 @@ We, and service providers acting on our behalf, collect information when you vis
 
 We and our partners also automatically collect information about your use of our sites or apps using cookies, pixels, web beacons, scripts, and other similar technologies. We use the information collected in this way to analyze trends, administer websites, analyze users’ movements around our websites, and to gather demographic information about our customer base as a whole. We and our partners also use these tools to collect and store information about our users. You can control the use of cookies using browser controls, but if you choose to disable cookies, you may limit your use of certain features or functions on our websites or services.
 
-We also allow advertising companies to collect information about your activity on our websites and in our app, for example through cookies, mobile ad identifiers, pixels, web beacons and social network plugins, to help us provide more relevant Visible advertisements on our website and on others’ sites and apps. The use of information collected about your visits over time and across different websites, apps and devices is known as “interest-based advertising.” Please see Section V below for more information with regard to the use of your information for these purposes.
+We also allow advertising companies to collect information about your activity on our websites and in our app, for example through cookies, mobile ad identifiers, pixels, web beacons and social network plugins, to help us provide more relevant Visible advertisements on our website and on others’ sites and apps. These advertising companies may also use information they collect for others’ advertising purposes. The use of information collected about your visits over time and across different websites, apps and devices is known as “cross-contextual interest-based advertising.” Please see Section V below for more information about the use of your information for these purposes.
 
 **We collect info when you contact us.** When you contact us or we contact you, we may monitor or record that communication for quality assurance, training and security purposes.
 
@@ -50,9 +50,11 @@ We share information about you with vendors and partners who do work on our beha
 
 If you access third-party services, such as Facebook, Google, or Twitter, through our sites or apps, to log in or to share information about your experience with others, these third-party services may be able to collect information about you and they may notify your connections on the third-party services about your use of the site or app, in accordance with their own privacy policies.
 
-### IV. SECURITY
+### IV. INFORMATION SECURITY AND RETENTION
 
 We use reasonable measures to help protect information from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. You should understand that no data storage system or transmission of data over the Internet or any other public network can be guaranteed to be 100 percent secure.
+
+Our policies require that we retain records for as long they are needed to provide you service or for legal, tax, audit, investigative, and/or security purposes and then securely delete or destroy them.
 
 ### V. COOKIES, SOCIAL MEDIA PLUGINS AND OTHER WEBSITE AND APP TOOLS
 
@@ -60,17 +62,15 @@ You may see Visible ads on others’ sites, services, apps and devices, as well 
 
 To accomplish this type of advertising, advertising entities place and access cookies and similar technologies on browsers you use and access advertising identifiers from your mobile device operating systems. Information about your activities on the websites and in the apps where the entities are present can be combined and used to determine whether you fall into an audience advertisers wish to reach.
 
-Advertising that is customized based on information about your visits over time and across different websites, apps and devices is known as “interest-based” advertising. In accordance with the [Digital Advertising Alliance](https://digitaladvertisingalliance.org/) self-regulatory principles, we require that advertising companies disclose when they are using interest-based advertising techniques to deliver interest-based ads on our sites and apps as well as when they deliver Visible ads on other sites. We also require them to offer you an ability to [opt out](https://optout.aboutads.info/) of this use of your information. You can visit the industry-wide [Digital Advertising Alliance opt-out page](https://optout.aboutads.info/) to learn more and opt out. Additionally, you will see an icon ![](/images/add-choices.jpg?t=0024bf63581498e264df4a3278f6a82c) in or around online advertisements placed using interest-based advertising techniques. You can click on the icon to learn more and opt out. You can also opt out of the use of your device identifiers for interest-based advertising by selecting “Limit Ad Tracking” or “Opt out of Interest-Based Ads” in your device Settings.
-
 Visible websites may also include social network or other third-party plug-ins, widgets, or other similar technology that may provide information to associated social networks or third parties even if you do not click on or otherwise interact with the plug-ins and widgets. Visible and our service providers may also analyze visitor activity on our site to understand website traffic patterns and engagement, measure advertising effectiveness, and for other business purposes.
 
 ### VI. YOUR CHOICES
 
 You have choices about certain ways we use and share information about you.
 
-**Marketing.** You have choices about receiving marketing from Visible. If you would like to be removed from Visible’s email marketing list, you can opt out by following the unsubscribe instructions, usually found at the bottom of the emails.
+**Marketing.** You have choices about receiving marketing from Visible. If you would like to be removed from Visible’s email marketing list, you can opt out using the unsubscribe instructions, usually found at the bottom of the emails.
 
-**Website information used for interest based advertising.** We and our advertising partners use cookies and similar technologies to help tailor the ads you see on our sites and to help make decisions about ads you see on other sites. These companies may place and access cookies, pixels, tags, web beacons and scripts, or use similar technologies, on our pages and the browsers you use and may access advertising identifiers from your mobile device operating systems. These companies employ these technologies to determine whether you fall into an audience advertisers wish to reach and measure advertising effectiveness. You have a choice about whether certain information collected on websites, including Visible sites, is used to customize advertisements you see on the internet. Click on this icon ![](/images/add-choices.jpg?t=0024bf63581498e264df4a3278f6a82c) in or around an advertisement and follow the instructions for opting out. Similarly, settings on your mobile devices let you limit the collection and use of information from your device for advertising purposes. You can also set up cookie controls through many browser settings. Because each web browser is different, please consult the instructions provided by your web browser (typically in the “help” section). If you choose to refuse, disable, or delete these technologies, some of the functionality of our apps or sites may no longer be available to you.
+**Website information used for interest based advertising.** We and our advertising partners use cookies and similar technologies to help tailor the ads you see on our sites and to help make decisions about ads you see on other sites. These companies may place and access cookies, pixels, tags, web beacons and scripts, or use similar technologies, on our pages and the browsers you use and may access advertising identifiers from your mobile device operating systems. These companies employ these technologies to determine whether you fall into an audience advertisers wish to reach and measure advertising effectiveness. You have the choice to limit the information collected from your activity on Visible sites and used to customize advertisements you see on the internet. Please visit [Your Privacy Choices ![](/images/svgs/privacy-choice-toggle.svg?t=2cf107d75d293b36bb0961e36e5b2d26)](https://www.visible.com/legal/privacy-choices "Privacy Choices") or enable a Global Privacy Control signal when visiting our sites.
 
 ### VII. INTERNATIONAL USERS
 
