@@ -1,7 +1,7 @@
 Who are we?
 -----------
 
-We are an affiliate member of Philip Morris International, a collective group of businesses. All affiliate members of the group are listed [here](https://pmiprivacy.com/global/en/consumer/affiliates) along with data protection officer contact points where relevant. Please use these details if you wish to contact us.  
+We are an affiliate member of Philip Morris International, a collective group of businesses. All affiliate members of the group are listed [here](https://pmiprivacy.com/global/en/consumer/affiliates/) along with data protection officer contact points where relevant. Please use these details if you wish to contact us.  
 
 Our details (name, address, etc.) will have been given to you separately at the time of (or to confirm) the collection of information about you, for example, in a notice on an app or a website, or in an e-mail, containing a link to this notice.
 
@@ -158,7 +158,7 @@ We share information about you with others only in accordance with applicable la
 * Information about you may be shared with the PMI affiliate that is responsible for the country in which you live (if it wasn’t the PMI affiliate that first collected the information) for all the purposes described in this notice.
 * Information about you may be shared with any other PMI affiliate that you contact (for example, if you travel and you want to know where to buy PMI products in a new country, or where to find service or support for PMI products) in order to enhance our service to you.
 
-[Details of PMI affiliates](https://pmiprivacy.com/global/en/consumer/affiliates) and the countries in which they are established are available via our website.
+[Details of PMI affiliates](https://pmiprivacy.com/global/en/consumer/affiliates/) and the countries in which they are established are available via our website.
 
 _**Country-specific additional points**_
 
@@ -184,7 +184,7 @@ If you are in Germany, we share information about you with SCHUFA Holding AG, Ko
 
 _**If you are in Japan, find out more…**_
 
-If you are in Japan, note that we share information about you described in this notice as being collected by us, for the purposes described in this notice, with Dentsu Promotion Plus Inc. (“Dentsu”), the operator of IQOS Stores, IQOS Online Store and IQOS Telesales Center, on the basis of “joint use” under Japanese data protection laws. When we do this, Philip Morris Japan Limited ([](https://pmiprivacy.com/en/consumer/affiliates)[here](https://pmiprivacy.com/global/en/consumer/affiliates) for details) continues to manage your personal information responsibly, and we require Dentsu to do the same.
+If you are in Japan, note that we share information about you described in this notice as being collected by us, for the purposes described in this notice, with Dentsu Promotion Plus Inc. (“Dentsu”), the operator of IQOS Stores, IQOS Online Store and IQOS Telesales Center, on the basis of “joint use” under Japanese data protection laws. When we do this, Philip Morris Japan Limited ([](https://pmiprivacy.com/en/consumer/affiliates)[here](https://pmiprivacy.com/global/en/consumer/affiliates/) for details) continues to manage your personal information responsibly, and we require Dentsu to do the same.
 
 Where might information about you be sent?
 ------------------------------------------
@@ -307,4 +307,4 @@ Changes to this notice
 
 We may update this notice (and any supplemental privacy notice), from time to time. Where the law requires it, we will notify you of the changes; further, where the law requires it, we will also obtain your consent to the changes.
 
-Last modified 1 April 2022. You can find [previous versions](https://pmiprivacy.com/global/en/consumer/legal-documents) of this notice.
+Last modified 1 April 2022. You can find [previous versions](https://pmiprivacy.com/global/en/consumer/legal-documents/) of this notice.
