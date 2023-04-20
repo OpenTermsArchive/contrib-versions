@@ -1,122 +1,151 @@
-Conditions d'utilisation
-========================
+Conditions générales d'utilisation en date du 21 avril 2022
+===========================================================
 
-Tchap est la messagerie instantanée de l’administration française. Elle permet d’échanger des messages textes et multimédia, en bilatéral ou dans des conversations de groupe.
+1\. Champ d'application
+-----------------------
 
-Tchap est mis à disposition sur deux réseaux indépendants : Tchap « agent », mis à disposition des agents publics et utilisable par leurs correspondants externes sur invitation, et Tchap « secure » disponible uniquement sur des terminaux sécurisés.
+Le présent document définit les conditions générales d'utilisation (CGU) de Tchap (ci-après, Tchap ou l'Application), messagerie instantanée de l'administration française, par ses utilisateurs et utilisatrices (ci-après les Utilisateurs et Utilisatrices).
 
-Un compte Tchap est associé à une adresse de messagerie électronique que l’utilisateur doit périodiquement valider. Le compte est sinon automatiquement suspendu, puis révoqué.
+L'Application permet d'échanger des messages textes et multimédia, avec un ou plusieurs autres Utilisateurs et Utilisatrices.
 
-La création de compte avec une adresse électronique n’appartenant pas à un domaine déclaré dans Tchap s’effectue uniquement suite à une invitation électronique. Elle est associée à un profil « invité » permettant uniquement de participer à des échanges privés auxquels l’utilisateur est convié.  En cas d’intégration ultérieure du domaine, l’utilisateur pourra révoquer son compte invité et créer un compte « Agent » pour bénéficier des fonctionnalités complètes de Tchap.
+Tchap est développée et opérée par la direction interministérielle du numérique de l'Etat (DINUM) des services du Premier ministre. Toute utilisation de Tchap doit respecter les présentes conditions générales d'utilisation.
 
-Tchap est développé et opéré par la Direction interministérielle du numérique de l'Etat (DINUM) – Services du Premier ministre.
+L'utilisation de l'Application est libre et gratuite.
 
-Toute utilisation de l’application Tchap (ci-après, l’application) est subordonnée au respect des présentes conditions générales d'utilisation (CGU).
+2.Modalités d'utilisation
+-------------------------
 
-Objet
-=====
+### 2.1 L'accès à l'application Tchap
 
-L’application permet de :
+Tchap est mise à disposition des agents publics et est utilisable par leurs correspondants externes sur invitation.
 
-\- Echanger des messages texte et multimédia,
+### 2.2 L'inscription
 
-\- Echanger avec un groupe d’utilisateurs,
+L'Utilisateur ou Utilisatrice veille à choisir un mot de passe qui ne peut pas être deviné ou retrouvé par quelqu'un d'autre. Il est déconseillé d'utiliser un mot de passe déjà utilisé sur une autre application.
 
-\- Echanger en bilatéral.
+L'Utilisateur ou Utilisatrice s'inscrit sur l'Application en créant un profil. Cette inscription est personnelle.
 
-Code de conduite et responsabilités des Utilisateurs
-====================================================
+Un compte Tchap est associé à une adresse de messagerie électronique que l'Utilisateur ou Utilisatrice doit périodiquement valider. En l'absence de validation, le compte est désactivé. Après 6 mois de désactivation, le compte est révoqué.
 
-L'utilisation de l’application est libre et gratuite.
+Les domaines des adresses électroniques de l'administration centrale sont automatiquement autorisés sur l'Application. Les autres domaines éligibles sont autorisés après validation de leur demande d'inscription par la DINUM (contact : tchap@beta.gouv.fr).
 
-Inscription
------------
+La création de compte avec une adresse électronique appartenant à un domaine autorisé permet la création d'un profil « Agent ». Toute personne ayant une adresse de domaine autorisé peut s'inscrire. Dès validation de son inscription, les différentes fonctionnalités sont disponibles.
 
-L'Utilisateur s'inscrit sur l’application. Cette inscription est personnelle. En s'inscrivant, l'Utilisateur crée un profil. Pour plus de précisions, voir la rubrique « données à caractère personnel ».
+La création de compte avec une adresse électronique n'appartenant pas à un domaine autorisé dans Tchap s'effectue uniquement à la suite d'une invitation électronique. Elle est associée à un profil « Externe » permettant uniquement de participer à des échanges privés auxquels l'Utilisateur ou Utilisatrice est convié. En effet certaines restrictions sont appliquées aux utilisateurs et utilisatrices avec un profil « Externe » :
 
-Dès validation de son inscription, les différentes fonctionnalités sont disponibles.
+* Les profils « Externes » ne peuvent pas accéder à la liste des salons publics, rejoindre ou être invités dans un salon public.
+* Ils ne peuvent pas créer de salons publics ou privés, ni engager de conversations.
+* Ils ne peuvent pas consulter l'annuaire des utilisateurs et utilisatrices.
 
-L’Utilisateur veille à choisir un mot de passe qui ne puisse être ni deviné ni retrouvé facilement par un tiers. Il est donc recommandé d’éviter de dériver son code d’authentification d’informations ou d’un autre mot de passe utilisé sur un système différent
+Si le domaine de l'adresse de l'Utilisateur ou Utilisatrice « Externe » devient autorisé, l'Utilisateur ou Utilisatrice doit fermer son compte « Externe » pour créer un compte « Agent » afin de bénéficier des fonctionnalités complètes de Tchap.
 
-Si l’Utilisateur estime que son mot de passe a été compromis, il se doit de le modifier sans délai.
+3\. Engagements et responsabilités des Utilisateurs et Utilisatrices
+--------------------------------------------------------------------
 
-L’application a vocation à être utilisée à des fins professionnelles.
+### 3.1 Usages conformes
 
-Les Utilisateurs sont seuls responsables des données ou contenus qu'ils échangent sur l’application. Ils se doivent de respecter les principes de la netiquette. Ils peuvent engager leur responsabilité sur ces échanges et contenu.
+L'Application est mise à disposition pour faciliter les échanges professionnels entre les agents publics et entre ces derniers et leurs collaborateurs extérieurs à l'administration.
 
-Un usage professionnel
-----------------------
+L'Utilisateur ou l'Utilisatrice est responsable des données ou contenus qu'il ou elle échange sur l'Application. Il ou elle veille à ne proposer que des contenus multimédias appropriés dans le cadre de relations professionnelles et à respecter les principes de la netiquette.
 
-L’application est mise à disposition pour un usage professionnel. L’Utilisateur veille à ne proposer des contenus multimédias adaptés et dont la source est authentifiée.
+L'Utilisateur ou l'Utilisatrice assure la confidentialité de ses identifiants et veille à éviter toute imprudence pouvant favoriser un usage frauduleux de l'Application.
 
-Seule une utilisation relevant de la vie courante est tolérée, l'utilisateur est attentif à ce que celle-ci demeure raisonnable et ne mette pas en péril les conditions d'accès professionnel à l’application.
+L'Utilisateur ou l'Utilisatrice utilise l'Application dans le respect du secret professionnel et doit faire preuve de discrétion professionnelle pour tous les faits, informations ou documents dont il ou elle a connaissance dans l'exercice ou à l'occasion de ses fonctions.
 
-Des usages interdits
---------------------
+Si l'Utilisateur ou l'Utilisatrice estime que son mot de passe est compromis, il ou elle doit le modifier sans délai.
 
-Certains usages et contenus sont interdits pour des raisons de performance ou de sécurité. Parmi ceux-là, on trouvera notamment les jeux, tout contenu illégal et les contenus pour adultes.
+En cas de compromission de son compte, l'Utilisateur ou l'Utilisatrice doit contacter l'équipe Tchap à l'adresse : tchap@beta.gouv.fr.
 
-L’échange de messages est effectué pour des communications interpersonnelles dont la vocation est éphémère et exclut les usages à fins d’archivage ou d’historisation.
+### 3.2 Usages interdits
 
-L’application ne sécurise pas le téléphone, celui-ci reste exposé aux menaces informatiques. L’échange d’informations et de documents sensibles ne doit pas être effectué sur Tchap « Agent », même dans une conversation à deux.
+L'Utilisateur ou l'Utilisatrice s'engage à ne pas mettre en ligne et communiquer de contenus ou informations contraires aux dispositions légales et réglementaires en vigueur. Il ou elle veille notamment à ne jamais tenir de propos ou échanger de contenus insultants, diffamatoires ou indécents.
 
-Tchap « Secure » n’est, à ce jour, pas qualifié par un niveau de sécurité. Pour l’échange d’informations et documents classifiés, il revient à l’Utilisateur d’utiliser les moyens qualifiés par son autorité de sécurité des systèmes d’information.
+L'Utilisateur ou l'Utilisatrice n'envoie pas de pièces jointes qui contiennent des virus, des fichiers corrompus ou tout autre logiciel ou programme similaire susceptible d'endommager le fonctionnement d'un autre ordinateur et de mettre en péril la sécurité informatique de l'Application ou aux fins de commettre des infractions.
 
-Modération des salons
----------------------
+### 3.3 Limites d'utilisation du Service
 
-L’Utilisateur qui a créé le salon, que ce dernier soit public ou fermé, est chargé de la modération de son contenu. Il est ainsi responsable de l’animation et de la suppression des contenus contraires aux présentes modalités d’utilisation.
+L'Application ne sécurise pas le téléphone, celui-ci reste exposé aux menaces informatiques.
 
-L’Utilisateur est ainsi responsable conjointement du traitement des données réalisé dans le cadre du salon créé.
+Les données de travail sans sensibilité particulière peuvent être traitées sur cette Application.
 
-Engagements et responsabilités de la DINUM
-==========================================
+L'échange d'informations et de documents sensibles ne doit pas être effectué sur l'Application, même dans une conversation à deux.
 
-La DINUM s'efforce d’assurer la disponibilité de l’application.
+Pour l'échange d'informations et de documents classifiés, il revient à l'Utilisateur ou l'Utilisatrice d'utiliser les moyens qualifiés par son autorité de sécurité des systèmes d'information.
+
+Il y a obligation de prévoir les moyens de protection conformes à la réglementation, tels que ceux définis par l'article 14 de l'instruction interministérielle n °901, pour les données portant une mention de protection « Diffusion restreinte ».
+
+Le caractère « sensible » des informations stockées ou traitées sur l'Application est soumis à l'appréciation de l'Utilisateur ou l'Utilisatrice.
+
+La conservation des échanges sur Tchap est limitée dans le temps. Tchap n'est pas destiné à conserver les informations échangées sur la messagerie à des fins d'archivage.
+
+### 3.4 Modération des salons
+
+Les salons peuvent être publics ou privés. Un salon public, aussi appelé forum, peut être trouvé par tout utilisateur depuis un moteur de recherche et peut être rejoint sans invitation. Il peut cependant être limité à un domaine de rattachement (ex. : développement-durable, social, culture, etc.). Un salon privé est visible uniquement de ses participants. Par mesure de confidentialité, le nouveau membre d'un salon privé n'accède pas aux messages antérieurs à son arrivée.
+
+L'Utilisateur ou l'Utilisatrice, qui crée un salon public ou privé, est chargé de la modération de son contenu. Il ou elle est ainsi responsable de l'animation et de la suppression des contenus contraires aux présentes modalités d'utilisation. Le créateur ou la créatrice du salon peut donner des droits d'administrateur aux autres participants, ainsi que les exclure ou les bannir. Il est préférable de prévoir au moins deux administrateurs. Plus d'informations sur les salons sont disponibles dans la [FAQ](https://tchap.beta.gouv.fr/faq).
+
+Tout utilisateur ou utilisatrice qui constate la présence de contenus illicites, inappropriés ou contraires aux présentes conditions d'utilisation sur un salon privé ou un forum peut le signaler à la DINUM à l'adresse : support@tchap.beta.gouv.fr.
+
+4\. Engagements et responsabilités de la DINUM
+----------------------------------------------
+
+La DINUM s'efforce d'assurer la disponibilité de l'Application.
 
 La DINUM s'engage à prendre toutes précautions utiles pour préserver l'intégrité des informations échangées.
 
-La DINUM se réserve le droit de suspendre ou supprimer un compte utilisateur qui aurait méconnu les présentes modalités d’utilisation.
+La DINUM se réserve le droit de suspendre ou supprimer un compte Utilisateur ou Utilisatrice qui aurait méconnu les présentes modalités d'utilisation, sans préjudice des éventuelles actions en responsabilité pénale et civile qui pourraient être engagées à l'encontre de l'Utilisateur ou l'Utilisatrice.
 
-Sécurité
---------
+La DINUM peut également fermer un salon public ou privé en cas de comportements contraires aux présentes modalités d'utilisation.
 
-Pour des raisons de sécurité, les contenus privés sont chiffrés et inaccessibles à un quelconque tiers. Toutes les interactions réalisées sur l’application sont protégées. Ainsi, aucun travail de modération n’est possible, la DINUM ne traitera aucune demande de suppression de contenu.
+5\. Sécurité
+------------
 
-Un contrôle les documents échangés est effectué avant leur remise au(x) destinataire(s), et le document n’est pas remis tant que le contenu n’est pas vérifié. Il donne lieu à un déchiffrement du document dans une zone technique isolée, une vérification du type de fichier et des signatures virales, immédiatement suivie d’une destruction sécurisée de sa copie. Il ne constitue pas un engagement de la DINUM sur son innocuité.
+Les messages privés sont chiffrés de bout en bout et inaccessibles à un quelconque tiers.
 
-Evolution des conditions d'utilisation
---------------------------------------
+Le chiffrement de bout en bout consiste à chiffrer et déchiffrer les messages sur les appareils des Utilisateurs et Utilisatrices. Lorsqu'un message est envoyé, il est chiffré avant de sortir de l'appareil de l'Utilisateur ou l'Utilisatrice.
 
-Les termes des présentes conditions d'utilisation peuvent être amendés à tout moment, sans préavis, en fonction des modifications apportées à l’Application, de l'évolution de la législation ou pour tout autre motif jugé nécessaire.
+Les traces d'activité (« métadonnées ») sur des réseaux non sécurisés sont protégées par un chiffrement du canal de transmission entre l'application et le serveur Tchap.
 
-Données à caractère personnel
-=============================
+Un contrôle des fichiers échangés est effectué avant leur remise aux destinataires, et le fichier n'est pas remis tant que le contenu n'est pas vérifié. Il donne lieu à un déchiffrement du document dans une zone technique isolée, une vérification du type de fichier et des signatures virales, immédiatement suivie d'une destruction sécurisée de sa copie. Il ne constitue pas un engagement de la DINUM sur son innocuité.
 
-En utilisant Tchap vous allez fournir des informations personnelles :
+6\. Evolution des conditions d'utilisation
+------------------------------------------
 
-\- A l’inscription vous devez saisir votre adresse courriel professionnelle
+La DINUM se réserve le droit de faire évoluer, de modifier ou de suspendre, sans préavis, l'Application pour des raisons de maintenance ou pour tout autre motif jugé nécessaire.
 
-\- Par la suite vous pouvez fournir une photo
+Les termes des présentes conditions d'utilisation peuvent être modifiés ou complétés à tout moment, sans préavis, en fonction des modifications apportées à l'Application, de l'évolution de la législation ou pour tout autre motif jugé nécessaire. Ces modifications et mises à jour s'imposent à l'Utilisateur ou l'Utilisatrice qui doit, en conséquence, se référer régulièrement à cette rubrique pour vérifier les conditions générales en vigueur.
 
-Ces informations de profil sont visibles par :
+7\. Accessibilité
+-----------------
 
-\- Les utilisateurs de l’application lorsqu’ils utilisent la fonction de recherche annuaire, sauf si l’utilisateur paramètre son compte en l’inscrivant sur « liste rouge ». Dans ce cas, les autres utilisateurs ne pourront pas découvrir son compte lors de leurs recherches
+Si vous constatez un défaut d'accessibilité vous empêchant d'accéder à un contenu ou une fonctionnalité du site, que vous nous le signalez et que vous ne parvenez pas à obtenir une réponse rapide de notre part, vous êtes en droit de faire parvenir vos doléances ou demande de saisine au défenseur des droits par courrier gratuit, sans affranchissement à l'adresse :
 
-\- Les participants des salons que vous avez rejoints
+Défenseur des droits
 
-Aucune donnée récoltée par l’application ne saurait être mise à disposition de tiers ou rendues accessibles à d’autres Utilisateurs que ceux désignés par vos soins.
+Libre réponse 71120
 
-Les messages d’un salon ne sont pas conservés au delà d’une durée paramétrable et inférieure à un an.
+75342 Paris CEDEX 07,
 
-Par respect pour votre vie privée, la DINUM supprimera tout compte inactif depuis 6 mois révolus.
+par Téléphone : 09 69 39 00 00 ou via le formulaire en ligne.
 
-Accès à la liste des contacts locaux de votre téléphone
--------------------------------------------------------
+8\. Mentions légales
+--------------------
 
-Lors de son utilisation sur un téléphone, Tchap vous demande l’autorisation d’accéder à la liste de vos contacts locaux.  
-Il n’y a pas d’obligation à autoriser cet accès, l’application fonctionne tres bien même si vous refusez.  
-Lorsque vous autorisez cet accès, Tchap l’utilise de deux manières:  
-  
-1/ Tchap parcourt les adresses emails de vos contacts pour découvrir d’autres utilisateurs inscrits sur Tchap. Ces utilisateurs sont listés dans la section ’Contacts’ de l’application. Ils vous sont proposés également lorsque vous souhaitez inviter des nouveaux membres à un salon. Aucune adresse email n’est stockée sur les serveurs.  
-2/ Lorsque vous souhaitez inviter des nouvelles personnes à rejoindre Tchap, les coordonnées de vos contacts locaux vous sont proposées.
+Sites : [www.tchap.gouv.fr](https://www.tchap.gouv.fr/) et [tchap.beta.gouv.fr](https://tchap.beta.gouv.fr/)
+
+Editeur : Direction interministérielle du numérique de l'Etat (DINUM). 20 avenue de Ségur 75007 Paris - Tel. Accueil : 01.71.21.01.70 SIRET : 12000101100010 (secrétariat général du gouvernement) SIREN : 120 001 011
+
+Directeur de la publication : Monsieur Xavier ALBOUY, Directeur par intérim de la Direction interministérielle du numérique.
+
+Conception et gestion : Le suivi éditorial et graphique est assuré par la DINUM.
+
+Code source : Tout site public ou privé est autorisé à établir, sans autorisation préalable, un lien (y compris profond) vers les informations diffusées sur le site.
+
+Hébergement de la messagerie Tchap (tchap.gouv.fr) : Ministère de l'Intérieur, Place Beauvau, 75800 Paris CEDEX 08
+
+Prestataire d'hébergement du site vitrine (tchap.beta.gouv.fr) : Scalingo SAS, 15 avenue du Rhin, 67100 Strasbourg, France.
+
+9\. Contact
+-----------
+
+L'adresse mail de contact est la suivante : tchap@beta.gouv.fr
