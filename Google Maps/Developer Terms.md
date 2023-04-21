@@ -371,8 +371,6 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Toulouse Métropole : [source](https://data.toulouse-metropole.fr/explore/dataset/tisseo-gtfs/information/)
             
-        * Conseil départemental de la Haute-Garonne : [source](https://data.haute-garonne.fr/explore/dataset/lignes-regulieres-format-gtfs/information/)
-            
         * [data.gouv.fr](https://www.data.gouv.fr/fr/) ([https://www.etalab.gouv.fr/licence-ouverte-open-licence](https://www.etalab.gouv.fr/licence-ouverte-open-licence))
             
         * Bordeaux Keolis:
@@ -422,8 +420,6 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             * Zenbus. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-du-reseau-la-reunion-carsud-gtfs-gtfs-rt/](https://transport.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-du-reseau-la-reunion-carsud-gtfs-gtfs-rt/))
                 
             * Communauté d'agglomération du Pays de Grasse. ([https://transport.data.gouv.fr/datasets/lignes-regulieres-de-transports-en-pays-de-grasse/](https://transport.data.gouv.fr/datasets/lignes-regulieres-de-transports-en-pays-de-grasse/))
-                
-            * Communauté de la Riviera Française. ([https://transport.data.gouv.fr/datasets/horaires-du-reseau-de-transport-public-zest](https://transport.data.gouv.fr/datasets/horaires-du-reseau-de-transport-public-zest))
                 
             * Communauté d'Agglomération du Grand Dole. ([https://transport.data.gouv.fr/datasets/reseau-de-transport-du-grand-dole/](https://transport.data.gouv.fr/datasets/reseau-de-transport-du-grand-dole/))
                 
@@ -477,8 +473,6 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
                 
             * Fluo Grand Est - réseau SITAC. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-sitac-communaute-dagglomeration-de-chalons-en-champagne/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-sitac-communaute-dagglomeration-de-chalons-en-champagne/))
                 
-            * Fluo Grand Est - réseau Lunéo. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-luneo-petr-du-pays-du-lunevillois/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-luneo-petr-du-pays-du-lunevillois/))
-                
             * Fluo Grand Est - réseau Ticéa. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-ticea-communaute-dagglomeration-de-st-dizier-der-et-blaise/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-ticea-communaute-dagglomeration-de-st-dizier-der-et-blaise/))
                 
             * Fluo Grand Est - réseau Aube. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-10-region-grand-est-dga-mobilites/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-10-region-grand-est-dga-mobilites/))
@@ -493,7 +487,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
                 
             * Fluo Grand Est - réseau Marne. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-51-region-grand-est-dga-mobilites/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-51-region-grand-est-dga-mobilites/))
                 
-            * Fluo Grand Est - réseau Soléa. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-solea-communaute-dagglomeration-mulhouse-alsace-agglomeration/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-solea-communaute-dagglomeration-mulhouse-alsace-agglomeration/))
+            * Réseau urbain Soléa. ([https://transport.data.gouv.fr/datasets/offre-de-transport-solea-et-tram-train-en-format-gtfs-1](https://transport.data.gouv.fr/datasets/offre-de-transport-solea-et-tram-train-en-format-gtfs-1))
                 
             * Fluo Grand Est - réseau Haut-Rhin. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-68-region-grand-est-dga-mobilites/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-68-region-grand-est-dga-mobilites/))
                 
@@ -505,11 +499,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
                 
             * Decazeville Communauté - TUB. ([https://transport.data.gouv.fr/datasets/transport-urbain-du-bassin/](https://transport.data.gouv.fr/datasets/transport-urbain-du-bassin/))
                 
-            * Fluo Grand Est - Troyes/Châlons-en-Champagne/Reims. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-c140-region-grand-est-dga-mobilites/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-c140-region-grand-est-dga-mobilites/))
-                
             * Fluo Grand Est - réseau Meuse. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-55-region-grand-est-dga-mobilites/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-55-region-grand-est-dga-mobilites/))
-                
-            * Fluo Grand Est - réseau Transavold. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-transavold-communaute-dagglomeration-saint-avold-synergie/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-transavold-communaute-dagglomeration-saint-avold-synergie/))
                 
             * Fluo Grand Est - réseau Vosges. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-88-region-grand-est-dga-mobilites/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-88-region-grand-est-dga-mobilites/))
                 
@@ -519,7 +509,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
                 
             * Fluo Grand Est - réseau Distribus. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-distribus-communaute-dagglomeration-saint-louis-agglomeration/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-distribus-communaute-dagglomeration-saint-louis-agglomeration/))
                 
-            * Fluo Grand Est - réseau Le Bus. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-le-bus-communaute-de-communes-du-bassin-de-pont-a-mousson/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-le-bus-communaute-de-communes-du-bassin-de-pont-a-mousson/))
+            * Réseau urbain Le Bus. ([https://transport.data.gouv.fr/datasets/fr-200052264-t0023-0000-1](https://transport.data.gouv.fr/datasets/fr-200052264-t0023-0000-1))
                 
             * Fluo Grand Est - réseau Forbus. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-forbus-agglomeration-de-forbach/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-forbus-agglomeration-de-forbach/))
                 
@@ -533,13 +523,11 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
                 
             * Fluo Grand Est - réseau Imagine. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-imagine-communaute-dagglomeration-depinal/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-imagine-communaute-dagglomeration-depinal/))
                 
-            * Fluo Grand Est - réseau SUB Nancy. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-sub-syndicat-mixte-des-transports-suburbains-de-nancy/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-sub-syndicat-mixte-des-transports-suburbains-de-nancy/))
+            * Réseau urbain SUB - Nancy. ([https://transport.data.gouv.fr/datasets/fr-200052264-t0039-0000-1](https://transport.data.gouv.fr/datasets/fr-200052264-t0039-0000-1))
                 
             * Fluo Grand Est - réseau Le SIT. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-le-sit-communaute-de-communes-du-bassin-de-pompey](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-le-sit-communaute-de-communes-du-bassin-de-pompey))
                 
             * Communauté d'Agglomération Hérault Méditerranée - Cap'Bus. ([https://transport.data.gouv.fr/datasets/gtfs-du-reseau-capbus-en-lien-avec-le-temps-reel-zenbus/](https://transport.data.gouv.fr/datasets/gtfs-du-reseau-capbus-en-lien-avec-le-temps-reel-zenbus/))
-                
-            * Fluo Grand Est - Pays du Sel et du Vermois. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-cc-des-pays-du-sel-et-du-vermois/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-cc-des-pays-du-sel-et-du-vermois/))
                 
             * Fluo Grand Est - réseau TUB. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tub-communaute-dagglomeration-bar-le-duc-sud-meuse/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tub-communaute-dagglomeration-bar-le-duc-sud-meuse/))
                 
