@@ -247,7 +247,7 @@ Visualiser et gérer vos informations
 
 * * *
 
-[Préférences publicitaires](https://www.facebook.com/adpreferences/?entry_product=account_settings_menu)
+[Préférences publicitaires](https://www.facebook.com/privacy/center/interstitial/?next_url=https%3A%2F%2Fwww.facebook.com%2Fadpreferences%2F%3Fentry_product%3Daccount_settings_menu&logout_url=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252Fadpreferences%252F%253Fentry_product%253Daccount_settings_menu%26ref%3Dhttps%253A%252F%252Fwww.facebook.com%252Fadpreferences%252F%253Fentry_product%253Daccount_settings_menu)
 
 * * *
 
