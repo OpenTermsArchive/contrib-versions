@@ -300,7 +300,7 @@ Le partage avec d'autres personnes de l'utilisation de votre terminal et la conf
 
 « Adobe Flash Player »™ est une application informatique qui permet le développement rapide des contenus dynamiques utilisant le langage informatique « Flash ». Flash (et les applications de même type) mémorise les paramètres, les préférences et l'utilisation de ces contenus grâce à une technologie similaire aux cookies. Toutefois, « Adobe Flash Player »™ gère ces informations et vos choix via une interface différente de celle fournie par votre logiciel de navigation.
 
-Dans la mesure où votre terminal serait susceptible de visualiser des contenus développés avec le langage Flash, nous vous invitons à accéder à vos outils de gestion des cookies Flash, directement depuis le site [http://www.adobe.com/fr/](https://www.adobe.com/fr/).
+Dans la mesure où votre terminal serait susceptible de visualiser des contenus développés avec le langage Flash, nous vous invitons à accéder à vos outils de gestion des cookies Flash, directement depuis le site [https://www.adobe.com/fr/](https://www.adobe.com/fr/).
 
 ### Comment paramétrer le dépôt des cookies ?
 
@@ -316,7 +316,7 @@ Cet outil vous permet de désactiver la collecte d’informations vous concernan
 
 **Paramétrer le dépôt de cookies directement via votre terminal**
 
-Vous pouvez autoriser ou refuser l'enregistrement de cookies dans votre terminal avec les paramètres appropriés de votre logiciel de navigation sur Internet. Sur ce point, nous vous invitons à consulter les conseils d'utilisation de ces paramètres, selon le navigateur utilisé, accessibles sur la page du site internet de la Commission Nationale de l'Informatique et des Libertés : [http://www.cnil.fr/vos-libertes/vos-traces/les-cookies/](https://www.cnil.fr/fr/cookies-les-outils-pour-les-maitriser).
+Vous pouvez autoriser ou refuser l'enregistrement de cookies dans votre terminal avec les paramètres appropriés de votre logiciel de navigation sur Internet. Sur ce point, nous vous invitons à consulter les conseils d'utilisation de ces paramètres, selon le navigateur utilisé, accessibles sur la page du site internet de la Commission Nationale de l'Informatique et des Libertés : [https://www.cnil.fr/vos-libertes/vos-traces/les-cookies/](https://www.cnil.fr/fr/cookies-les-outils-pour-les-maitriser).
 
 Paramétrage le dépôt de cookie via le système d’exploitation de votre smartphone
 
@@ -655,7 +655,7 @@ Le partage avec d'autres personnes de l'utilisation de votre terminal et la conf
 
 « Adobe Flash Player »™ est une application informatique qui permet le développement rapide des contenus dynamiques utilisant le langage informatique « Flash ». Flash (et les applications de même type) mémorise les paramètres, les préférences et l'utilisation de ces contenus grâce à une technologie similaire aux cookies. Toutefois, « Adobe Flash Player »™ gère ces informations et vos choix via une interface différente de celle fournie par votre logiciel de navigation.
 
-Dans la mesure où votre terminal serait susceptible de visualiser des contenus développés avec le langage Flash, nous vous invitons à accéder à vos outils de gestion des cookies Flash, directement depuis le site [http://www.adobe.com/fr/](https://www.adobe.com/fr/).
+Dans la mesure où votre terminal serait susceptible de visualiser des contenus développés avec le langage Flash, nous vous invitons à accéder à vos outils de gestion des cookies Flash, directement depuis le site [https://www.adobe.com/fr/](https://www.adobe.com/fr/).
 
 ### Comment paramétrer le dépôt des cookies ?
 
@@ -671,7 +671,7 @@ Cet outil vous permet de désactiver la collecte d’informations vous concernan
 
 **Paramétrer le dépôt de cookies directement via votre terminal**
 
-Vous pouvez autoriser ou refuser l'enregistrement de cookies dans votre terminal avec les paramètres appropriés de votre logiciel de navigation sur Internet. Sur ce point, nous vous invitons à consulter les conseils d'utilisation de ces paramètres, selon le navigateur utilisé, accessibles sur la page du site internet de la Commission Nationale de l'Informatique et des Libertés : [http://www.cnil.fr/vos-libertes/vos-traces/les-cookies/](https://www.cnil.fr/fr/cookies-les-outils-pour-les-maitriser).
+Vous pouvez autoriser ou refuser l'enregistrement de cookies dans votre terminal avec les paramètres appropriés de votre logiciel de navigation sur Internet. Sur ce point, nous vous invitons à consulter les conseils d'utilisation de ces paramètres, selon le navigateur utilisé, accessibles sur la page du site internet de la Commission Nationale de l'Informatique et des Libertés : [https://www.cnil.fr/vos-libertes/vos-traces/les-cookies/](https://www.cnil.fr/fr/cookies-les-outils-pour-les-maitriser).
 
 Paramétrage le dépôt de cookie via le système d’exploitation de votre smartphone
 
