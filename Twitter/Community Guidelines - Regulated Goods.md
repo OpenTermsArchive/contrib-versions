@@ -7,7 +7,7 @@ Illegal or certain regulated goods or services
 
 **You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
 
-Twitter takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of Twitter for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+Twitter takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of Twitter for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
 
 Goods or services covered under this policy include, but are not limited to:
 
@@ -16,7 +16,7 @@ Goods or services covered under this policy include, but are not limited to:
 * human trafficking;
 * products made from endangered or protected species;
 * sexual services;
-* stolen goods; and
+* illicitly obtained materials; and
 * weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
      
 
