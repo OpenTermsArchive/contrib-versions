@@ -83,6 +83,8 @@ This information is collected to provide you with access, to operate the service
 
 Where we provide products and services as a business-to-business provider, the client is responsible for the collection and use of personal information while using our products or services, unless otherwise described. Our agreement with clients may also allow us to request and collect information about authorized users of our products or services for reasons of contract management.
 
+As a public cloud provider, IBM does not use personal information processed under a contract for the purposes of marketing and advertising without express consent.
+
 Mobile application privacy notices may provide details about the information that is collected by the app, such as geo-location information or the unique User-ID of a device. Unique User-IDs are used to connect to servers and to connect the use of the device across apps. Depending on the functions of the app, you can tailor your privacy settings by using the settings menu or in your user profile.
 
 IBM Learning offers education services and collects information on course completions to be able to provide you with credentials, certificates, or further information when needed.
@@ -93,22 +95,29 @@ We accept no responsibility for the content provided on, or privacy practices, o
 
 Subject to your preferences, we use the information that we collect to communicate with you about relevant products, services, and offerings. We also use this information to personalize your online experience with our content and advertisements and to develop internal marketing and business intelligence. To set or update your preferences with regards to marketing communications by email, phone, or postal, visit the [IBM Privacy Preference Center](https://myibm.ibm.com/profile/dataprivacypreferences/welcome/us-en "IBM Privacy Preference Center"). You may also submit an [opt-out request](https://www.ibm.com/account/reg/us-en/signup?formid=urx-42537 "opt-out request"), or select **Unsubscribe** at the bottom of each marketing email. To review or set your preferences regarding the information that we collect about you online on our websites, select **Cookie Preferences** in the website footer.
 
-We use contact information that we collect directly from you or third-party data providers, to communicate with you about our products, services, and offerings.
+We use information that we collect for marketing purposes. This may include information:
 
-When we obtain information about you directly, we may also ask you if you are interested in receiving marketing communications about our products, services, or offerings by email, phone, or postal, and we will communicate with you subject to your preferences. You can visit the [IBM Privacy Preference Center](https://myibm.ibm.com/profile/dataprivacypreferences/welcome/us-en "IBM Privacy Preference Center") to update or change your preferences at any time.
+* Collected directly from you through your interactions with IBM, such as attendance at events or submission of online registration forms,
+* Received from third-party data providers, subject to controls confirming that the third party legally acquired the information and has the right to provide the information to IBM for use in our marketing communications,
+* Collected on [our websites](#Our_Websites "our websites") or from your interactions with IBM emails and content, including content on third-party sites. For more information on the technologies that we use to collect this information, see [Cookies and Similar Technologies](#Cookies_and_Similar_Technologies "Cookies and Similar Technologies.").
 
-When we obtain information about you indirectly from third parties, we implement checks and controls to confirm that this information was legally acquired by the third party and that the third party has the right to provide the information to us for our use in marketing communications.
+Subject to your preferences, we may use this information to market to you regarding IBM products, services, and offerings. For example, we may:
 
-In select geographies, we and our advertising partners may also rely on activity linked to your hashed email address to personalize your experience with IBM products and services, and to deliver targeted IBM advertisements on third-party websites.  To opt out of this personalization and targeted advertising, you can withdraw your email consent by submitting an [opt-out form](https://www.ibm.com/account/reg/us-en/signup?formid=urx-42537 "opt-out form") or by visiting the [Privacy Preference Center](https://myibm.ibm.com/profile/dataprivacypreferences/welcome/us-en "Privacy Preference Center").
+* Contact you by using email, telephone, or postal mail
+* Personalize your experience with IBM products and services, such as sharing more relevant content or pre-filling registration forms on our websites.
+* Deliver targeted IBM advertisements on third-party websites based on information we or authorized third parties collect about your interactions with IBM websites, our content, emails, or, in select geographies, activity linked to your hashed email address.
 
-We may, subject to your cookie preferences, collect information about your interactions with [our websites](#Our_Websites "our websites") and other IBM content, including content on third-party sites. We may also collect information about your interactions with our emails (such as whether emails are opened) and content you interact with. For more information on the technologies that we use to collect this information, see [Cookies and Similar Technologies](#Cookies_and_Similar_Technologies "Cookies and Similar Technologies").
+To set or update your preferences with regards to marketing activities using your email address, phone, or postal address, visit the [IBM Privacy Preference Center](https://myibm.ibm.com/profile/dataprivacypreferences/welcome/us-en "IBM Privacy Preference Center").  You may also submit an [opt-out request](https://www.ibm.com/account/reg/us-en/signup?formid=urx-42537 "opt-out request"), or select **Unsubscribe** in each marketing email.
 
-We use all of this information to develop internal marketing and business intelligence which is essential for our business operations. We also use this information, subject to your respective preferences, to personalize your experience with IBM websites, and to deliver targeted advertising on third-party websites. For example, we may:
+To opt out of the use of your hashed email for personalization or targeted advertising, you can withdraw your email consent by using any of these options.
 
-* Combine the information collected to better understand your interests and potential business needs, such as IBM events you attend, content you review, or any of our websites that you visit.
-* Aggregate the information that is collected about website visitors for the purposes of developing and modelling marketing audiences.
-* Leverage insights from the information collected to personalize content and advertisements across multiple interactions and devices.
-* Subject to your preferences, share data with advertising partners, such as publishers and social media companies, engaged by IBM to deliver targeted IBM advertisements on their platforms, aggregate information for analysis, and track engagement with those advertisements. These advertising partners may also be engaged by IBM to track your interactions with us on our websites.
+To review or set your preferences regarding the information that we collect about you online on our websites, select **Cookie Preferences** in the website footer.
+
+We also use this information to develop marketing and business intelligence, which is essential for our business operations. For example, we may:
+
+* Combine the information we collect to better understand your interests and potential business needs,
+* Use aggregated data to measure effectiveness of our marketing campaigns and events, and to proceed to informed business decisions and investments,
+* Aggregate the information that is collected about IBM website visitors for the purposes of developing and modelling marketing audiences.
 
 #### Contractual Relationships
 
@@ -117,6 +126,8 @@ A contractual relationship is created when you order a trial, or a product or se
 The information collected in a contractual relationship may include the business contact information of the requester, an IBMid, and the order details. Information that is required for shipment and payment, for the implementation of services, or to grant access to the product or service may also be collected.
 
 This information may be collected for various purposes, depending on the nature of the products or services, for example, for contractual management and compliance, to provide support, for the improvement or development of our products and services, to contact you for customer satisfaction surveys, and to generate technical and market insights. For more information, see [IBM Cloud and Online Services](#IBM_Cloud_and_Online_Services).
+
+The information collected in a contractual relationship is not used for the purposes of marketing and advertising without obtaining consent before processing.
 
 #### Support Services
 
@@ -200,7 +211,9 @@ When sharing personal information, we implement appropriate checks and controls 
 
 If we decide to sell, buy, merge, or otherwise reorganize businesses in some countries, such a transaction may involve disclosing some personal information to prospective or actual business purchasers, or the collection of personal information from those selling such businesses.
 
-Internally, personal information is shared for our legitimate business purposes, such as managing our relationship with you and other external parties, compliance programs, or systems and networks security. We do this to improve efficiency, for cost savings, and internal collaboration between our subsidiaries. Our internal access to personal information is restricted and granted only on a need-to-know basis. Sharing of this information is subject to the appropriate intracompany arrangements, our policies, and security standards.
+Internally, personal information is shared for our business purposes: to improve efficiency, for cost savings, and internal collaboration between our subsidiaries (such as Red Hat). For example, we may share personal information such as managing our relationship with you and other external parties, compliance programs, or systems and networks security.
+
+Our internal access to personal information is restricted and granted only on a need-to-know basis. Sharing of this information is subject to the appropriate intracompany arrangements, our policies, and security standards. For more information, see [Legal Basis](#LegalBasis "Legal Basis").
 
 Externally,
 
@@ -208,6 +221,7 @@ Externally,
 * our business model includes cooperation with independent Business Partners for marketing, selling, and the provision of IBM products and services. Where appropriate (for example, when necessary for the fulfilment of an order), we share business contact information with selected Business Partners.
 * we may share personal information with professional advisors, including lawyers, auditors, and insurance companies to receive their services.
 * we may share contractual relationship information with others, for instance, our Business Partners, financial institutions, shipping companies, postal, or government authorities, such as the customs authorities that are involved in fulfillment.
+* We may share personal information with third parties, such as advertising technology partners, data analytics providers and social networks engaged by IBM to deliver targeted IBM advertisements on their platforms, to aggregate information for analysis, and to track engagement with those advertisements.
 
 In certain circumstances, personal information may be subject to disclosure to government agencies in accordance with judicial proceedings, court orders, or legal processes. We may also share personal information to protect the rights of IBM or others when IBM believes that such rights may be affected, for example to prevent fraud.
 
@@ -277,7 +291,7 @@ Your Rights
 
 You have certain rights when it comes to the handling of your personal information. The **Contact Us** form in the header of this page can be used to:
 
-* request access to the personal information that we have on you, or have it updated. Depending on the applicable law, you may have additional rights concerning your personal information.
+* request access to the personal information that we have on you, or have it updated or corrected. Depending on the applicable law, you may have additional rights concerning your personal information.
 * Request to obtain your personal information in a usable format and transmit it to another party (also known as the right to data portability).
 * Request to delete the personal information we hold about you.
 * Opt-out of specific personal information processing types, such as targeted advertising.
