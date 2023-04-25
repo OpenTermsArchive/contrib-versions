@@ -83,10 +83,9 @@ Menlo Park, CA 94025.
 
 For Law Enforcement outside of the U.S.:
 
-Please note that for users of the Instagram services in the European region, the service provider and data controller is Meta Platforms Ireland Ltd. If your request is for Meta Platforms Ireland Ltd., it must be addressed to:  
+Please note that for users of the Instagram services in the European region (excluding the United Kingdom), the service provider and data controller is Meta Platforms Ireland Ltd. If your request is for Meta Platforms Ireland Ltd., it must be addressed to:  
 Meta Platforms Ireland Ltd.,  
-4 Grand Canal Square  
-Dublin 2, Ireland.
+Merrion Road, Dublin 4, D04 X2K5, Ireland  
 
 For Instagram users in countries outside of the European region, the service provider is Meta Platforms, Inc., please ensure that any requests for Instagram or Facebook user data are correctly addressed to:  
 Meta Platforms, Inc.  
