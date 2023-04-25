@@ -1,8 +1,6 @@
 [**Spotify Terms of Use**](#spotify-terms-of-use)
 =================================================
 
-_By continuing to use Spotify, you accept the updated Terms of Use below. Premium Subscribers who do not wish to accept the updated Terms must [close](https://support.spotify.com/us/article/how-can-i-close-my-spotify-account/) their Spotify account prior to their next billing cycle or April 23, 2023, whichever comes first._
-
 Effective as of: March 24, 2023
 
 1. [Introduction](#1-introduction)
