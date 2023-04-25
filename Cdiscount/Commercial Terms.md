@@ -668,7 +668,7 @@ b)      **ou en nous retournant, à l’adresse postale indiquée, le formu
 — Adresse du (des) consommateur(s) …………………………………………………………………………………………………...... ........ …………………………………………………………………………………………………… …………………………………………………….  
 — Signature du (des) consommateur(s) (uniquement en cas de notification du présent formulaire sur papier)
 
-— Date……………………………
+— Date…………'………………
 
 (\*) Rayez la mention inutile
 
