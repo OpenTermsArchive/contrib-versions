@@ -123,6 +123,12 @@ We collect and hold personal data about our customers, users and enthusiasts, em
 
 Effective January 1, 2020, the California Consumer Privacy Act (CCPA) allows California residents, upon a verifiable consumer request, certain rights with respect to our collection of their PI. If you are a California resident, please see the [CCPA Addendum to Wolfram's Privacy Policies](https://www.wolfram.com/legal/privacy/ccpa-addendum/). It outlines how you may contact us to exercise your rights under California law. Please note that you must verify your identity before further action is taken.
 
+### Japan Residents
+
+Wolfram Research Asia Ltd. and its wholly related corporate affiliate, Wolfram Research, Inc., which is located in the United States, along with all other Wolfram corporations worldwide, are committed to honoring the privacy rights as identified in the [Act on the Protection of Personal Information Law](https://www.ppc.go.jp/files/pdf/APPI_english.pdf) (APPI) and the [Law Concerning the Proper Transmission of Specified Electronic Mail](https://www.soumu.go.jp/main_sosiki/cybersecurity/kokumin/basic/basic_legal_08.html) (Anti-spam Law).
+
+Wolfram Research Asia Limited and/or Wolfram Research, Inc. may obtain email addresses listed within websites owned and operated by your institution with which Wolfram has a preexisting business relationship. Accordingly, an email may be sent with the singular purpose of advising the recipient of the existence of this business relationship and benefits and support the recipient has access to.
+
 ### Our Policy toward Children
 
 Wolfram's Services are not directed at children under 13. We do not knowingly collect PI from children under 13. If a parent or guardian becomes aware that their child has provided us with PI without their consent, they should contact us at [myprivacy@wolfram.com](mailto:myprivacy@wolfram.com). If we become aware that a child under 13 has provided us with PI, we will delete such information from our files.
