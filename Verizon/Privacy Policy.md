@@ -6,7 +6,7 @@ Our Privacy Policy describes the information we collect, how it is used and shar
 [View recent changes](https://www.verizon.com/about/privacy/changes-privacy-policy)  
 [Print this policy](https://www.verizon.com/about/privacy/)
 
-Open all Close all
+Open all
 
 * [What information does Verizon collect?
     --------------------------------------
