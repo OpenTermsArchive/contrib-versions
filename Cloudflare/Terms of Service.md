@@ -1,20 +1,20 @@
 Cloudflare Self-Serve Subscription Agreement
 ============================================
 
-Last Updated \[DATE\], 2023
+Effective November 10, 2022
 
-PLEASE READ THE FOLLOWING CAREFULLY AS IT AFFECTS YOUR LEGAL RIGHTS. THIS AGREEMENT CONTAINS PROVISIONS REQUIRING THAT YOU AGREE TO THE USE OF ARBITRATION TO RESOLVE ANY DISPUTES ARISING UNDER THIS AGREEMENT RATHER THAN A JURY TRIAL OR ANY OTHER COURT PROCEEDINGS, AND TO WAIVE YOUR PARTICIPATION IN CLASS ACTION OF ANY KIND AGAINST CLOUDFLARE.  
-  
-This Self-Serve Subscription Agreement (the “Agreement") is an agreement between Cloudflare (also referred to as “we,” “us,” or “our”) and you, or the Entity you represent, (“you” or “your”) and governs your use of our Services (as defined below). This Agreement is effective when you click to accept it, use or access the Services, or otherwise indicate your acceptance of the Agreement.
+PLEASE READ THE FOLLOWING CAREFULLY AS IT AFFECTS YOUR LEGAL RIGHTS. THIS SELF-SERVE SUBSCRIPTION AGREEMENT (“SUBSCRIPTION AGREEMENT”), [SUPPLEMENTAL TERMS](https://www.cloudflare.com/supplemental-terms/), [DOMAIN REGISTRATION AGREEMENT](https://www.cloudflare.com/domain-registration-agreement/), ANY PLAN OR FEATURE LIMITS, PRODUCT DISCLAIMERS, OR OTHER RESTRICTIONS PRESENTED TO YOU ON THE CLOUDFLARE WEBSITE OR DOCUMENTATION, AND ALL OTHER APPLICABLE TERMS (COLLECTIVELY, THE “AGREEMENT”) GOVERN YOUR USE OF OUR SERVICES (AS DEFINED BELOW), INCLUDING BUT NOT LIMITED TO, ANY FREE, TRIAL, OR PAID CLOUDFLARE SERVICES OR SOFTWARE WHERE THE SUBSCRIPTION AGREEMENT APPEARS OR IS LINKED TO. THE [SUPPLEMENTAL TERMS](https://www.cloudflare.com/supplemental-terms/) AND [DOMAIN REGISTRATION AGREEMENT](https://www.cloudflare.com/domain-registration-agreement/) (EACH WHERE APPLICABLE), WHICH MAY BE UPDATED BY US FROM TIME TO TIME, ARE HEREBY INCORPORATED BY REFERENCE INTO THE SUBSCRIPTION AGREEMENT.
 
-If you are entering into this Agreement on behalf of a company, organization, or another legal entity (an “Entity”), you are agreeing to this Agreement for that Entity and representing to Cloudflare that you have the authority to bind such Entity to this Agreement.
+THIS AGREEMENT CONTAINS PROVISIONS REQUIRING THAT YOU AGREE TO THE USE OF ARBITRATION TO RESOLVE ANY DISPUTES ARISING UNDER THIS AGREEMENT RATHER THAN A JURY TRIAL OR ANY OTHER COURT PROCEEDINGS, AND TO WAIVE YOUR PARTICIPATION IN CLASS ACTION OF ANY KIND AGAINST CLOUDFLARE.
 
-1\. Overview; Service Terms
----------------------------
+By clicking on the “Create Account” button (or any similar button) that is presented to you at the time of sign-up, by using or accessing the Services (as defined below), or by otherwise indicating your acceptance of this Agreement, you agree to be bound by this Agreement. Cloudflare may modify this Agreement from time to time, subject to the terms in Section 14 (Changes to this Agreement) below.
+
+If you are entering into this Agreement on behalf of a company, organization, or another legal entity (an “Entity”), you are agreeing to this Agreement for that Entity and representing to Cloudflare that you have the authority to bind such Entity to this Agreement, in which case the terms “you,” “your,” "Customer", or a related capitalized term herein will refer to such Entity. If you do not have such authority, or if you do not agree with this Agreement, you must not accept this Agreement and must not use the Services (as defined below).
+
+1\. Overview
+------------
 
 This Agreement governs the use of Cloudflare’s cloud-based solutions that are provided as part of a subscription or require a Cloudflare account, along with any software made available by Cloudflare in connection with such services, including software development kits and Cloudflare’s application programming interfaces (“APIs”) made available in connection with such cloud-based solutions (collectively, the “Services”).
-
-Your use of the Services is subject to the applicable provisions in the [Service-Specific Terms](https://www.cloudflare.com/supplemental-terms/), the [Domain Registration Agreement](https://www.cloudflare.com/domain-registration-agreement/) (for Registrar customers), and any applicable plan or product limits, disclaimers, or other terms presented to you on our website or [documentation](https://developers.cloudflare.com/), each of which are incorporated by reference into the Agreement.
 
 2\. Services
 ------------
@@ -23,31 +23,25 @@ Your use of the Services is subject to the applicable provisions in the [Service
 
 Subject to your compliance with this Agreement (including, without limitation, all payment obligations), Cloudflare hereby grants to you a limited, revocable, non-exclusive, non-transferable, and non-sublicensable (except to Affiliates) right, to access and use the Services. If you are agreeing to this Agreement on behalf of an Entity, such Entity’s Affiliates may also access and use the Services provided that such Affiliates agree to be bound by the terms of this Agreement, and the Entity remain fully liable for such Affiliates’ actions and omissions in connection with this Agreement as if the Entity had performed such acts and omissions itself. “Affiliate” means any means an entity which, directly or indirectly, owns or controls, is owned or is controlled by or is under common ownership or control with a party, where “control” means the power to direct the management or affairs of an entity, and “ownership” means the beneficial ownership of 50% (or, if the applicable jurisdiction does not allow majority ownership, the maximum amount permitted under such law) or more of the voting equity securities or other equivalent voting interests of the entity.
 
-### 2.2 Use of Services
-
-### 2.2.1 Restrictions
+### 2.2 Restrictions
 
 Unless otherwise expressly permitted in writing by Cloudflare, you will not and you have no right to:
 
 (a) rent, lease, loan, export, or sell access to the Services to any third party, or sign up for the Services on behalf of a third party;
 
-(b) interfere with, disrupt, alter, or modify the Services or any part thereof, or create an undue burden on the Services or the networks (including Cloudflare’s peering partners’ networks) or services connected to the Services, including, but not limited to, causing (whether directly or indirectly) traffic for your Cloudflare-proxied domain to be sent to an IP address that was not assigned by Cloudflare for the domain;
+(b) interfere with, disrupt, alter, or modify the Services or any part thereof, or create an undue burden on the Services or the networks or services connected to the Services, including, but not limited to, causing (whether directly or indirectly) traffic for your Cloudflare-proxied domain to be sent to an IP address that was not assigned by Cloudflare for the domain;
 
-(c) access or use the Services in a manner that violates or is intended to circumvent Service-specific usage limits, quotas, or other restrictions set forth in the Agreement;
+(c) utilize any framing techniques to enclose any Cloudflare trademark, logo, service mark, or other trade dress (“Cloudflare Marks”) or Materials (defined below) or use any meta tags or other “hidden text” utilizing the Cloudflare Marks or Materials without Cloudflare’s written consent
 
-(d) utilize any framing techniques to enclose any Cloudflare trademark, logo, service mark, or other trade dress (“Cloudflare Marks”) or Materials (defined below) or use any meta tags or other “hidden text” utilizing the Cloudflare Marks or Materials without Cloudflare’s written consent
+(d) introduce software or automated agents or scripts into the Services so as to produce multiple accounts, generate automated searches, requests or queries, or to strip or mine data from the Services;
 
-(e) introduce software or automated agents or scripts into the Services so as to produce multiple accounts, generate automated searches, requests or queries, or to strip or mine data from the Services;
+(e) cover or obscure any page or part of the Services via HTML/CSS, scripting, or any other means;
 
-(f) cover or obscure any page or part of the Services via HTML/CSS, scripting, or any other means;
+(f) reverse engineer the Services;
 
-(g) reverse engineer the Services;
+(g) process or collect personal or business credit card information on any web property that is receiving Free Services (as defined below); or
 
-(h) process or collect personal or business credit card information on any web property that is receiving Free Services (as defined below); or
-
-(i) use the Services to store or transmit any “protected health information” as that term is defined in 45 C.F.R. 160.103 without Cloudflare’s written consent.
-
-### 2.2.2 Benchmarking
+(h) use the Services to store or transmit any “protected health information” as that term is defined in 45 C.F.R. 160.103 without Cloudflare’s written consent.
 
 You are permitted to perform benchmark tests of our Services. If you disclose results of any benchmark tests of our Services performed by you or a third party under your direction, you (i) will include in any disclosure or otherwise make available all information necessary to replicate such benchmark tests, and (ii) agree that we may perform and disclose the results of benchmark tests of your services, irrespective of any restrictions on benchmarks in the terms governing your services.
 
@@ -83,7 +77,7 @@ By transmitting Customer Content to or through the Services, you represent and w
 
 #### 2.5.5
 
-Cloudflare retains all right, title, and interest in all models, observations, reports, analyses, statistics, databases and other information created, compiled, analyzed, generated or derived by Cloudflare from server, network or traffic data generated by Cloudflare in the course of providing the Service (“Network Data”), and shall have the right to use Network Data for purposes of providing, maintaining, developing, and improving its Services. Cloudflare may monitor and inspect the traffic on the Cloudflare network, including any related logs, as necessary to perform the Services or protect the security or integrity of Cloudflare’s network. To the extent the Network Data includes any Personal Data (as defined below), Cloudflare will handle such Personal Data in compliance with applicable data protection laws.
+Cloudflare retains all right, title, and interest in all models, observations, reports, analyses, statistics, databases and other information created, compiled, analyzed, generated or derived by Cloudflare from server, network or traffic data generated by Cloudflare in the course of providing the Service (“Network Data”), and shall have the right to use Network Data for purposes of providing, maintaining, developing, and improving its Services. Cloudflare may monitor and inspect the traffic on the Cloudflare network, including any related logs, as necessary to perform the Services. To the extent the Network Data includes any Personal Data (as defined below), Cloudflare will handle such Personal Data in compliance with applicable data protection laws.
 
 ### 2.6 Free & Trial Services
 
@@ -92,6 +86,10 @@ We may offer free or trial versions of the Services (“Free Services”) from t
 ### 2.7 Acceptable Use
 
 You agree not to, and not to allow third parties to use the Services to: (a) falsely imply any sponsorship or association with Cloudflare; (b) post, transmit, store or link to any files, materials, data, text, audio, video, images or other content that infringe on any person’s intellectual property rights or that are otherwise unlawful; (c) distribute viruses, worms, time bombs, Trojan horses, or other malicious code, files, scripts, software agents and programs; (d) facilitate phishing, spamming, or other technical abuse; or (e) engage in any activities that are illegal, including disseminating, promoting or facilitating child sexual abuse material or engaging in human trafficking.
+
+### 2.8 Limitation on Serving Non-HTML Content
+
+The Services are offered primarily as a platform to cache and serve web pages and websites. Unless explicitly included as part of a Paid Service purchased by you, you agree to use the Services solely for the purpose of (i) serving web pages as viewed through a web browser or other functionally equivalent applications, including rendering Hypertext Markup Language (HTML) or other functional equivalents, and (ii) serving web APIs subject to the restrictions set forth in this Section 2.8. Use of the Services for serving video or a disproportionate percentage of pictures, audio files, or other non-HTML content is prohibited, unless purchased separately as part of a Paid Service or expressly allowed under our [Supplemental Terms](https://www.cloudflare.com/supplemental-terms/) for a specific Service. If we determine you have breached this Section 2.8, we may immediately suspend or restrict your use of the Services, or limit End User access to certain of your resources through the Services.
 
 3\. Third-Party Products and Services
 -------------------------------------
@@ -147,7 +145,7 @@ If you are an agency, department or entity of the United States Government (“G
 8\. Termination of Use; Discontinuation and Modification of the Service
 -----------------------------------------------------------------------
 
-You will lose your license to use the Service if you violate any provision of this Agreement. Cloudflare reserves the right to investigate violations of this Agreement. We reserve the right to disable or limit your access to or use of the Service ("Suspend") or terminate your user account upon receiving any number of DMCA notifications from content owners regarding your website(s), or upon learning through other means that you are a repeat infringer. We may at our sole discretion terminate your user account or Suspend or terminate your use or access to the Service at any time, with or without notice for any reason or no reason at all. If we determine you have breached Section 2.2, we may immediately Suspend or terminate all or part of your use of the Services, or limit End User access to certain of your resources through the Services. We also reserve the right to modify or discontinue the Service at any time (including, without limitation, by limiting or discontinuing certain features of the Service) without notice to you. We will have no liability whatsoever on account of any change to the Service or any suspension or termination of your access to or use of the Service. You may terminate your account at any time through the Service’s account dashboard.
+You will lose your license to use the Service if you violate any provision of this Agreement. Cloudflare reserves the right to investigate violations of this Agreement. We reserve the right to suspend or terminate your user account upon receiving any number of DMCA notifications from content owners regarding your website(s), or upon learning through other means that you are a repeat infringer. Additionally, we may at our sole discretion terminate your user account or suspend or terminate your access to the Service at any time, with or without notice for any reason or no reason at all. We also reserve the right to modify or discontinue the Service at any time (including, without limitation, by limiting or discontinuing certain features of the Service) without notice to you. We will have no liability whatsoever on account of any change to the Service or any suspension or termination of your access to or use of the Service. You may terminate your account at any time through the Service’s account dashboard.
 
 9\. Ownership; Proprietary Rights
 ---------------------------------
@@ -196,7 +194,7 @@ Cloudflare reserves the right to make modifications to this Agreement at any tim
 15\. Versions
 -------------
 
-The authoritative version of this document is available at: [www.cloudflare.com/terms](https://www.cloudflare.com/terms/). While translations of this document may be provided in multiple languages for your convenience, the English language version hosted at the link above is binding for all users of the Service.
+The authoritative version of this document is available at: [www.cloudflare.com/subscriptionagreement](https://www.cloudflare.com/subscriptionagreement). While translations of this document may be provided in multiple languages for your convenience, the English language version hosted at the link above is binding for all users of the Service.
 
 16\. General
 ------------
