@@ -3,7 +3,7 @@ Expand all
 Vinted Privacy Policy
 =====================
 
-Date last updated: 03-27-2023
+Date last updated: 04-27-2023
 
 When it comes to your personal data, safety and transparency take top priority here at Vinted. To help you understand what information we collect about you, how we use it and what rights you have, we’ve prepared this detailed Privacy Policy.
 
@@ -674,7 +674,29 @@ Legal basis for such collection and use is our legitimate interest to protect th
 
 Personal data collected and used for this purpose is kept for 4 days after the security check.
 
-**2.3.8. To ensure listing compliance with our Authenticity Policy**
+**2.3.8. To prevent fraudulent payments**
+
+To ensure secure payments on the Platform and uphold our GTC, we may check payments for any signs of fraudulent activities, such as unauthorized use of credit/debit card or payment information, fake transactions, etc.
+
+If we come across such payments, we take appropriate measures as outlined in our GTC, which may include a thorough review of the transaction, cancellation of the payment, or even blocking the associated member's account.
+
+To detect and cancel suspicious payments, we may use fully automated tools. By doing so, we can prevent fraudulent activities in an efficient and timely manner, ultimately protecting our members from harm. We use means to ensure a high precision rate and accuracy of our automated tools, including manual reviews of automated decisions.
+
+The following categories of data are used to prevent fraudulent payments, including making the automated decisions for detecting and cancelling suspicious transactions:
+
+1. Credit/debit card data;
+2. Transaction data;
+3. Registration data;
+4. Session data;
+5. Activity on the Platform data;
+6. Delivery data;
+7. Security data.
+
+Legal basis for such collection and use of data is the performance of a contract (GTC) to which you are a party (Art. 6 (1) (b) of the GDPR).
+
+We collect and use your personal data for this purpose for 2 years after the payment verification procedure.
+
+**2.3.9. To ensure listing compliance with our Authenticity Policy**
 
 For some listings, we collect and use the following data in order to ensure that such listings comply with our [Authenticity Policy](https://www.vinted.com/help/307-what-is-vinted-s-authenticity-policy):
 
@@ -687,7 +709,7 @@ We may share photos of listings or other proofs of authenticity free of your per
 
 Personal data collected and used for this purpose is kept for 2 years when it is necessary to solve disputes between our users.
 
-**2.3.9. To facilitate the exercise of intellectual property rights**
+**2.3.10. To facilitate the exercise of intellectual property rights**
 
 Intellectual property right holders (or their representatives) can complete our Intellectual Property Infringement Report. Within this report, Vinted collects and uses the following personal data:
 
@@ -705,7 +727,7 @@ The legal basis for such collection and use of your personal data is our legitim
 
 Personal data collected and used for this purpose are kept for 5 years.
 
-**2.3.10. To carry out account ownership checks**
+**2.3.11. To carry out account ownership checks**
 
 As part of the security process, we may ask our members to verify ownership of their Vinted account. To confirm your identity, we will need one of the following as proof:
 
@@ -718,7 +740,7 @@ Legal basis for such collection and use of your personal data is our legitimate 
 
 Personal data collected and used for this purpose is kept for 3 days from receipt of the proof.
 
-**2.3.11. To allow you to report inappropriate behavior or content**
+**2.3.12. To allow you to report inappropriate behavior or content**
 
 If you would like to report inappropriate messages, forum activity, members, items, spam or spoof mail, we will collect and use the following data for the purpose of ensuring the security of the Platform and its members:
 
@@ -731,7 +753,7 @@ Legal basis for such collection and use of your personal data is our legitimate 
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
-**2.3.12. To report suicidal posts**
+**2.3.13. To report suicidal posts**
 
 In exceptional cases, where we notice suicidal posts on our Platform, we may report them to the police. In such cases we will collect and use and disclose the following data for the purpose of reporting suicidal posts:
 
