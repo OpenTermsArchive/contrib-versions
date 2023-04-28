@@ -1215,6 +1215,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * EMT de Madrid Link to their license: [https://mobilitylabs.emtmadrid.es/sip/terms-of-use](https://mobilitylabs.emtmadrid.es/sip/terms-of-use)
             
+        * National Geographic Information Center (CNIG) - CartoCiudad 2022-2023 CC-BY 4.0 [ign.es](http://www.ign.es/web/ign/portal) [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
     47. **Sweden**
         * © 2009 Cartesia GIS AB
             
@@ -1705,6 +1707,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         198. This product uses the Census Bureau Data API but is not endorsed or certified by the Census Bureau, [https://www.census.gov/data.html.](https://www.census.gov/data.html)
             
         199. This site provides data that has been modified for use from its original source, [www.springfieldmo.gov](https://www.springfieldmo.gov/%20target=), the official website of the City of Springfield, Missouri. The City of Springfield makes no claims as to the content, accuracy, timeliness, or completeness of any of the data provided at this site. The data provided at this site is subject to change at any time. It is understood that the data provided at this site is being used at one’s own risk.
+            
+        200. New York State, Department of Environmental Conservation: The data displayed here includes data obtained from [http://www.nyaqinow.net/](http://www.nyaqinow.net/) that is preliminary and subject to change.
             
     56. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
