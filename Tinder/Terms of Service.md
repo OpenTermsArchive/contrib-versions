@@ -9,7 +9,7 @@ For a summary of our Terms of Use, go to [Summary of Terms](https://policies.tin
 
 Welcome to Tinder. If you live in the European Economic Area, the United Kingdom, or Switzerland, these Terms of Use are between you and:
 
-MTCH Technology Services Limited ("MTCH Technology") WeWork Charlemont Exchange 42 Charlemont Street Dublin 2, D02 R593 Ireland
+MTCH Technology Services Limited ("MTCH Technology") 1 Hatch Street Upper Dublin 2 Dublin D02 PY28 Ireland
 
 If you live in Japan, these Terms of Use apply between you and:
 
