@@ -50,7 +50,7 @@ Google Analytics sets the following cookies:
 
 | Name | Purpose |
 | --- | --- |
-| IDE  <br>1P\_JAR  <br>DSID  <br>DV  <br>SAPISID | Google advertising cookie used for user tracking and ad targeting purposes. [More information on Google cookies](https://policies.google.com/technologies/types?hl=en). |
+| IDE  <br>1P\_JAR  <br>DSID  <br>DV  <br>SAPISID | Google advertising cookie used for user tracking and ad targeting purposes. [More information on Google cookies](https://policies.google.com/technologies/cookies#types-of-cookies). |
 | AID | Used by Google to link your activity across devices if you've previously signed in to your Google account on another device. |
 | APISID | Used by Google to store user preferences and information of Google maps. |
 | SID  <br>SIDCC  <br>SSID  <br>HSID | Security cookies to authenticate users, prevent fraudulent use of login credentials, and protect user data from unauthorized parties. |
@@ -79,7 +79,7 @@ Find out how to manage cookies on popular browsers:
 
 * [Apple Safari](https://support.apple.com/en-us/guide/safari/sfri11471/mac)
 * [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en&co=GENIE.Platform%3DDesktop&oco=1)
-* [Microsoft Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies) & [Microsoft Edge](https://support.microsoft.com/en-us/help/4468242/microsoft-edge-browsing-data-and-privacy-microsoft-privacy)
+* [Microsoft Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies) & [Microsoft Edge](https://support.microsoft.com/en-us/windows/microsoft-edge-browsing-data-and-privacy-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd)
 * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
 * [Opera browser](https://blogs.opera.com/news/2015/08/how-to-manage-cookies-in-opera/)
 
