@@ -98,11 +98,13 @@ By post:
 > 
 > Tinder
 > 
-> WeWork Charlemont Exchange
+> 1 Hatch Street Upper
 > 
-> 42 Charlemont Street
+> Dublin 2
 > 
-> Dublin 2, D02 R593
+> Dublin
+> 
+> D02 PY28
 > 
 > Ireland
 
