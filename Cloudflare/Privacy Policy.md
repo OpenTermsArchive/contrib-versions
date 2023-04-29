@@ -442,7 +442,7 @@ Attention: Data Protection Officer
     
 * [Modern Slavery Act Statement](https://www.cloudflare.com/modern-slavery-act-statement)
     
-* [Third Party Code of Conduct](https://www.cloudflare.com/static/c36310da7314d803b14aef6e2bd9b808/Third_Party_Code_of_Conduct.pdf)
+* [Third Party Code of Conduct](https://cf-assets.www.cloudflare.com/slt3lc6tev37/284hiWkCYNc49GQpAeBvGN/e137cdac96d1c4cd403c6b525831d284/Third_Party_Code_of_Conduct.pdf)
     
 * [Candidate Privacy Policy](https://www.cloudflare.com/candidate-privacy-notice/)
     
