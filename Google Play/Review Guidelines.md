@@ -105,7 +105,7 @@ Consumer
 * [### Waze](https://support.google.com/waze/?hl=en-GB)
 * [### Wear OS by Google](https://support.google.com/wearos/?hl=en-GB)
 * [### Google Fit](https://support.google.com/fit/?hl=en-GB)
-* [### YouTube Kids Parental Guide](https://support.google.com/youtubekids/?hl=en-GB)
+* [### YouTube For Families Help](https://support.google.com/youtubekids/?hl=en-GB)
 * [### Google Store](https://support.google.com/store/?hl=en-GB)
 * [### Google Cast](https://support.google.com/chromecastbuiltin/?hl=en-GB)
 * [### Google Photos](https://support.google.com/photos/?hl=en-GB)
