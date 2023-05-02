@@ -19,9 +19,9 @@ TERMS OF USE FOR ALL USERS
     11. "**Terms of Service**" (also called "**your agreement with us**") means the legally binding agreement between you and us which consists of: (i) these [Terms of Use for all Users](#terms-use-all-users), (ii) [Terms of Use for Fans](#terms-use-fans), (iii) [Terms of Use for Creators](#terms-use-creators), (iv) [Privacy Policy](https://onlyfans.com/privacy), (v) [Acceptable Use Policy](#acceptable-use-policy), (vi) [Referral Program Terms](#referral-program-terms), (vii) [Complaints Policy](#complaints-policy), (viii) [Platform to Business Regulation Terms](#platform-business-regulation-terms); and (ix) [Community Guidelines](https://onlyfans.com/help);
     12. "**United Kingdom**" means the United Kingdom of Great Britain and Northern Ireland; and
     13. "**User**" means any user of OnlyFans, whether a Creator or a Fan or both (also referred to as "**you**" or "**your**").
-3. **Who we are and how to contact us:** OnlyFans is operated by Fenix International Limited. We are a limited company registered in England and Wales, with company registration number 10354575 and we have our registered office address at Fourth Floor, Imperial House, 8 Kean Street, London, WC2B 4AS. Our VAT number is 268196365.
+3. **Who we are and how to contact us:** OnlyFans is operated by Fenix International Limited. We are a limited company registered in England and Wales, with company registration number 10354575 and we have our registered office address at 9th Floor, 107 Cheapside, London, EC2V 6DN. Our VAT number is 268196365.
     
-    To contact us with any questions about OnlyFans, please email our support team at [support@onlyfans.com](mailto:support@onlyfans.com). If you are unable to contact us by email, please write to us at the following address: Fourth Floor, Imperial House, 8 Kean Street, London, WC2B 4AS.
+    To contact us with any questions about OnlyFans, please email our support team at [support@onlyfans.com](mailto:support@onlyfans.com). If you are unable to contact us by email, please write to us at the following address: 9th Floor, 107 Cheapside, London, EC2V 6DN.
     
 4. **How we may change the Terms of Service:** We may change any part of the Terms of Service without telling you beforehand in the following circumstances:
     
@@ -267,7 +267,7 @@ In compliance with regulation 3 of the Trading Scheme Regulations 1997 (as amend
     2. "**Referred Creator**" means the person who joins OnlyFans as a Creator via the Referring User's unique referral link.
 3. **What is the OnlyFans Referral Program?** OnlyFans offers a referral program by which existing Users can introduce people who are interested in becoming Creators to OnlyFans and receive referral payments from OnlyFans which are calculated and limited as described in these Referral Program Terms.
     
-    The OnlyFans Referral Program is operated by Fenix International Limited. We are a limited company registered in England and Wales, with company registration number 10354575 and we have our registered office address at Fourth Floor, Imperial House, 8 Kean Street, London, WC2B 4AS.
+    The OnlyFans Referral Program is operated by Fenix International Limited. We are a limited company registered in England and Wales, with company registration number 10354575 and we have our registered office address at 9th Floor, 107 Cheapside, London, EC2V 6DN.
     
 4. **The rules of the OnlyFans Referral Program:**
     
