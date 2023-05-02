@@ -3,6 +3,7 @@ TABOOLA PRIVACY POLICY
 
 Last Update: January 3rd, 2023
 
+You can find information below on Taboola’s data collection practices in our services. You can find more detailed information on our website data collection practices [here](https://www.taboola.com/pdf/taboola-website-privacy-notice).  
 If you would like to go directly to Taboola’s opt-out status options, please [click here](#user-choices-and-opting-out).  
 If you would like to learn more about Taboola’s region-specific processing of personal data, you can go directly to the applicable notices for individuals in [Brazil](#notice-to-individuals-in-brazil), [California](#notice-to-individuals-in-the-state-of-california), [Europe](#notice-to-individuals-within-the-european-economic-area-eea) (including the United Kingdom), [China](#notice-to-individuals-in-china), or [Thailand](#notice-to-individuals-in-thailand).
 
