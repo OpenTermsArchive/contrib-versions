@@ -177,7 +177,7 @@ Business
 * [### Global Market Finder](https://support.google.com/globalmarketfinder/?hl=en-GB)
 * [### Non-Profits](https://support.google.com/nonprofits/?hl=en-GB)
 * [### Search Ads 360](https://support.google.com/searchads/?hl=en-GB)
-* [### Chrome for business and education](https://support.google.com/chrome/a/?hl=en-GB)
+* [### Chrome Enterprise and Education](https://support.google.com/chrome/a/?hl=en-GB)
 * [### Google AdMob](https://support.google.com/admob/?hl=en-GB)
 * [### Google Vault](https://support.google.com/vault/?hl=en-GB)
 * [### Google Business Profile](https://support.google.com/business/?hl=en-GB)
