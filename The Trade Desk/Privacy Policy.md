@@ -65,7 +65,7 @@ Any PII you provide to or through the Websites shall be used for the purposes fo
 * We may use data that is not directly identifying to find other users who may have an interest in our products and services
 * We alert you to changes and provide updates on specific features, products and services that you may be receiving from us
 
-If you no longer wish to receive marketing email communications or wish to opt out, you can follow the unsubscribe instructions contained in the emails you receive or by contacting us at [\[email protected\]](https://www.thetradedesk.com/cdn-cgi/l/email-protection)_._
+If you no longer wish to receive marketing email communications or wish to opt out, you can follow the unsubscribe instructions contained in the emails you receive or by contacting us [here](https://privacyportal-eu.onetrust.com/webform/2abc1a63-35c5-4ef7-b11b-1c55714738b5/4c5ba598-b05c-4b1c-b3da-abab6ac1c9db).
 
 **HOW WE SHARE INFORMATION**
 
@@ -152,7 +152,7 @@ We may revise this policy at any time. However, if we make material changes, we 
 
 You may contact us regarding privacy.
 
-Email: **privacy** ((at)) **thetradedesk** ((dot)) **com**
+[Submit general inquiries form.](https://privacyportal-eu.onetrust.com/webform/2abc1a63-35c5-4ef7-b11b-1c55714738b5/4c5ba598-b05c-4b1c-b3da-abab6ac1c9db)
 
 **Global Data Protection Officer (DPO)** The Trade Desk, Global Privacy Office 42 N. Chestnut St., Ventura, CA 93001 Email: dpo ((at)) thetradedesk ((dot)) com
 
