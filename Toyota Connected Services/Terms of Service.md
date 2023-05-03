@@ -2,7 +2,7 @@ Legal Terms
 
 --------------
 
-_Last Updated Date: January 1, 2023_
+_Last Updated Date: May 2, 2023_
 
 These Terms of Use (the "Terms") set forth the legally binding terms governing your access to and use of the Toyota family of Web sites, Web pages, interactive features, applications, widgets, blogs and their respective contents and unless otherwise indicated, any other interactive content that links to the Toyota family of Web sites owned and/or U.S.A., Inc. (hereinafter referred to as "Toyota"), and any materials on the Sites are owned by Toyota or its operated by Toyota (as defined herein) (collectively, the "Sites"). The Sites are operated by Toyota Motor Sales, affiliated companies, or licensed by Toyota from third parties and posted on the Sites.
 
@@ -164,16 +164,16 @@ You may submit reviews or other feedback on the Sites. Any comments, suggestions
 
 9\. COPYRIGHT AGENT.
 
-We respect the intellectual property of others, and we ask all Visitors to the Sites to do the same. If you are the owner of a United States copyright and you believe that your work has been copied on any of the Sites in a way that constitutes copyright infringement, or your intellectual property rights have been otherwise violated, please contact and provide our Copyright Agent with the following information:
+If you are the owner of a United States copyright and you believe that your work has been copied on any of the Sites in a way that constitutes copyright infringement, please contact us and provide our Copyright Agent with the following information:
 
-1. a physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest;
-2. a description of the copyrighted work or other intellectual property that you claim has been infringed;
-3. a description of where the material that you claim is infringing is located on the Sites;
-4. your address, telephone number and email address;
-5. a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent or the law; and
-6. a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner's behalf.
+1\. a physical signature of the copyright owner or person authorized to act on behalf of the owner of the copyright;  
+1\. a description of the copyrighted work;  
+1\. a description of where the material that you claim is infringing is located on the Site(s);  
+1\. your address, telephone number and email address;  
+1\. a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent or the law; and  
+1\. a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.  
 
-Our agent for notice of claims of copyright or other intellectual property infringement can be reached as follows:
+Our agent for notice of claims of copyright can be reached as follows:  
 
 By Mail:
 
