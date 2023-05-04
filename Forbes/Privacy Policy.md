@@ -1,4 +1,4 @@
-* _Last updated: January 1, 2023_
+* _Last updated: May 4, 2023_
     
     Forbes Media LLC ("**Forbes**", "**Company**", "**we**", "**our**", or "**us**") understands that privacy is important to our users. This Privacy Statement describes our practices regarding the collection, use, sharing, and protection of your personal information in connection the services, products, features, and offerings we provide to you (the "**Services**"), including without limitation our print magazine subscriptions, and our digital Services like Forbes.com, Forbes mobile applications, Forbes newsletters, and Forbes' other digital sites, communications, and media (the "**Site**") (collectively, the "**Properties**"). This Privacy Statement also tells you about the rights and choices you have with respect to your personal information, how you can assert those rights, and how you can contact us to get answers to your questions.
     
@@ -382,7 +382,7 @@
     
     **PRIVACY DISCLOSURES FOR NEVADA RESIDENTS**
     
-    If you are a resident of Nevada, you have the right to opt out of the sale of certain personal information to third parties who intend to license or sell that personal information. If you wish to exercise this right, [click here](https://submit-irm.trustarc.com/services/validation/3b4a34c3-f529-46b1-bafc-954b79909d32) or contact us at 866-536-7262.
+    If you are a resident of Nevada, you have the right to opt out of the sale of certain personal information to third parties who intend to license or sell that personal information. If you wish to exercise this right, [click here](https://www.forbes.com/consent/editprivacy/?consent_limit=true) or contact us at 866-536-7262.
     
     #### CROSS-BORDER DATA TRANSFERS
     
@@ -499,14 +499,14 @@
     
     You have the right to opt out of the sale or sharing of your Personal Information, along with the right to opt in to the sale of such information. We do not sell or share the Personal Information of consumers we actually know are less than 16 years of age, unless we receive affirmative authorization (the "right to opt-in") from either the consumer who is less than 16 (but greater than 13) years of age, or the parent or guardian of a consumer less than 13 years of age. To our knowledge, we do not sell or share the Personal Information of minors under 16 years of age.
     
-    To exercise the right to opt out, you (or your authorized representative) may visit the following web page: [Do Not Sell or Share My Personal Information](https://submit-irm.trustarc.com/services/validation/0a4e0262-03b3-487a-952c-23a64ba40121). Alternatively, you may submit an opt-out request by contacting us at 866-536-7262.
+    To exercise the right to opt out, you (or your authorized representative) may visit the following web page: [Do Not Sell or Share My Personal Information](https://www.forbes.com/consent/editprivacy/?consent_do_not_sell=true). Alternatively, you may submit an opt-out request by contacting us at 866-536-7262.
     
     You may change your mind and opt back into Personal Information sales at any time by contacting us at [privacy@forbes.com](mailto:privacy@forbes.com).
     
     6. _Right to Limit the Use of Your Sensitive Personal Information_
         
     
-    You have the right to limit the use or disclosure of your sensitive personal information ("SPI") if we are using your SPI beyond what is reasonable and proportionate to provide the requested goods or services. You can make a request for us to limit the use or disclosure of your SPI by visiting the following Internet Web page: "[Limit the Use of My Sensitive Personal Information](https://submit-irm.trustarc.com/services/validation/f0ac1a81-d067-4013-a9df-f53b560c01ee)."
+    You have the right to limit the use or disclosure of your sensitive personal information ("SPI") if we are using your SPI beyond what is reasonable and proportionate to provide the requested goods or services. You can make a request for us to limit the use or disclosure of your SPI by visiting the following Internet Web page: "[Limit the Use of My Sensitive Personal Information](https://www.forbes.com/consent/editprivacy/?consent_limit=true)."
     
     7. _Right to Non-Discrimination_
         
@@ -530,7 +530,7 @@
     
     * Calling us at 866-536-7262; or
         
-    * Visiting our [California Resident CCPA Request Form](https://submit-irm.trustarc.com/services/validation/ec28d6e4-a8d1-4b45-ad21-c6e1c066369b) to submit a request.
+    * Visiting our [California Resident CCPA Request Form](https://www.forbes.com/consent/editprivacy/?consent_limit=true) to submit a request.
         
     
     After submitting a request, we will take steps to verify your identity in order for us to properly respond and confirm that it is not a fraudulent request. In order to verify your identity, we will ask, at a minimum, that you provide your name, email address, and mailing address so that we can match this information with the information existing in our systems. When providing us this information, you represent and affirm that all information provided is true and accurate.
@@ -574,7 +574,7 @@
             
         * We DO NOT engage in profiling decision based on your personal information that produce legal or similarly significant effects concerning you.
             
-        * If you wish to opt out of the processing of your personal information for the purposes of targeted advertising please [click here](https://submit-irm.trustarc.com/services/validation/80083d9c-ccb0-40fd-b5d6-291ee0a9ffa4).
+        * If you wish to opt out of the processing of your personal information for the purposes of targeted advertising please [click here](https://www.forbes.com/consent/editprivacy/?consent_do_not_sell=true).
             
     
     * **Right to correct.** You have the right to correct inaccuracies in the personal information we collect from you, taking into account the nature of the personal information and the purposes for which we process it.
@@ -596,7 +596,7 @@
     
     * Calling us at 866-536-7262; or
         
-    * Visiting our [Virginia CDPA Request Form](https://submit-irm.trustarc.com/services/validation/80083d9c-ccb0-40fd-b5d6-291ee0a9ffa4) to submit a request.
+    * Visiting our [Virginia CDPA Request Form](https://www.forbes.com/consent/editprivacy/?consent_limit=true) to submit a request.
         
     
     Verification of Your Identity. After submitting a request, we will take steps to verify your identity in order for us to properly respond and/or confirm that it is not a fraudulent request. In order to verify your identity, we will request, at a minimum, that you provide your name, email address, phone number, address, and relationship to us, so that we can seek to match this information with the information existing in our systems. When providing us this information, you represent and affirm that all information provided is true and accurate. If we are unable to verify using reasonably commercial efforts that the consumer submitting the request is the same individual about whom we have collected personal information, then we are not required to comply with the request; we may contact you for more information reasonably necessary to authenticate the request, but ultimately we may not be able to meet your request.
@@ -682,13 +682,13 @@
     * Withdraw consent at any time where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
         
     
-    To exercise your rights under the GDPR, [click here](https://submit-irm.trustarc.com/services/validation/f3efdcfe-1c07-49b6-96ad-10a792d52082) or contact us by using the information in the Contacting Us section in the Privacy Statement. Please note that in order for you to assert these rights, we may need to verify your identity to confirm your right to access your personal data. This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. In order to verify your identity, we may need to gather more personal data from you than we currently have.
+    To exercise your rights under the GDPR, [click here](https://www.forbes.com/consent/editprivacy/?consent_limit=true) or contact us by using the information in the Contacting Us section in the Privacy Statement. Please note that in order for you to assert these rights, we may need to verify your identity to confirm your right to access your personal data. This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. In order to verify your identity, we may need to gather more personal data from you than we currently have.
     
     #### PEOPLE'S REPUBLIC OF CHINA PRIVACY RIGHTS
     
     If you are a resident of the People's Republic of China ("PRC"), you have the right to access, correct, and delete your personal information under the Personal Information Protection Law ("PIPL"). You can also request to restrict or object to certain processing of your personal information, and request a copy of your personal information. If you are a close relative of a person in the PRC who is now deceased, you can request to access, correct, and delete their personal information. Finally, you have the right to request additional information about the third parties that Forbes shares your personal information with.
     
-    To exercise these rights under the PIPL, [click here](https://submit-irm.trustarc.com/services/validation/97a5d5ff-4078-43a2-829b-2dcd1ff0ebfd) or contact us at [privacy@forbes.com](mailto:privacy@forbes.com). We will need to verify your identify according to applicable law, which may require that we ask you for additional information to confirm your identity. We will do our best to respond to your request within 30 days and, in any event, we will respond within the timeframe required by applicable law. You can modify your cookie preferences by following the procedures outlined in the Your Rights section of the Privacy Statement above.
+    To exercise these rights under the PIPL, [click here](https://www.forbes.com/consent/editprivacy/?consent_limit=true) or contact us at [privacy@forbes.com](mailto:privacy@forbes.com). We will need to verify your identify according to applicable law, which may require that we ask you for additional information to confirm your identity. We will do our best to respond to your request within 30 days and, in any event, we will respond within the timeframe required by applicable law. You can modify your cookie preferences by following the procedures outlined in the Your Rights section of the Privacy Statement above.
     
     If you cannot understand this Privacy Statement, you are entitled to request explanations of how we process your personal information. If you have any questions, please contact us at [privacy@forbes.com](mailto:privacy@forbes.com).
     
