@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: April 28, 2023
+#### Last Updated: May 3, 2023
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -1292,5 +1292,9 @@ You may not use AWS Clean Rooms or any information obtained from your use of AWS
 **95.1.** AWS Diode allows You to map Your account to another Diode account (“Mapped Account”), enabling Your Content to be moved and stored by the Mapped Account to an AWS region of a different classification level.  You acknowledge and agree that using the Service may result in Your Content being moved and stored in AWS regions other than the AWS regions where You initially stored Your Content.
 
 **95.2.** You are responsible for all data transferred through AWS Diode, including, but not limited to: (i) compliance with all laws, regulations, and policies related to the control, disclosure, and transfer of classified information; and (ii) transferring data only to AWS regions of appropriate classification levels. Your failure to do so may result in Amazon incurring sanitization costs for which You will be responsible, and which will be exempt from any limitations of liability in any of your agreements with AWS.  
+
+### 96\. AWS Nitro System
+
+AWS personnel do not have access to Your Content on AWS Nitro System EC2 instances. There are no technical means or APIs available to AWS personnel to read, copy, extract, modify, or otherwise access Your Content on an AWS Nitro System EC2 instance or encrypted-EBS volume attached to an AWS Nitro System EC2 instance. Access to AWS Nitro System EC2 instance APIs – which enable AWS personnel to operate the system without access to Your Content - is always logged, and always requires authentication and authorization.
 
 [Previous version(s)](https://aws.amazon.com/service-terms/historical/)[](https://aws.amazon.com/service-terms/historical/)
