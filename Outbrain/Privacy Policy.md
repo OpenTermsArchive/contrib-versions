@@ -278,7 +278,6 @@ You may exercise your California privacy rights described above as follows:
 * **Right to information, access and deletion**. You can request to exercise your information, access and deletion rights by:
     * calling us toll free on 1-866-I-OPT-OUT and entering service code 253# to leave us a message.
     * emailing [privacy@outbrain.com](mailto:privacy@outbrain.com)
-    * using the [web form](https://pact.ly/iI1fxy) to submit your request(s) to us
 * **Right to opt-out of the “sale” of your Personal Information**. We do not sell your Personal Information in the conventional sense (i.e., for money). However, like many companies, we use services that help deliver interest-based ads to you. California law classifies our use of these services as a “sale” of your Personal Information to the companies that provide the services. This is because we allow them to collect information from our website users (e.g., online identifiers and browsing activity) so they can help serve ads more likely to interest you. To opt-out from this “sale”, click on this [link](https://my.outbrain.com/recommendations-settings/home) which will take you to our Interest Profile where you can opt out of personalised recommendations.
 
 We will need to confirm your identity and California residency to process your requests to exercise your information, access or deletion rights. We cannot process your request if you do not provide us with sufficient detail to allow us to understand and respond to it.
