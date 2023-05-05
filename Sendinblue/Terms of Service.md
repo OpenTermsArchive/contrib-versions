@@ -1,5 +1,5 @@
-General conditions of use of Brevo (ex Sendinblue) services
-===========================================================
+General conditions of use of Brevo (formerly Sendinblue) services
+=================================================================
 
 Table of contents
 -----------------
@@ -28,7 +28,7 @@ The terms used in this document are defined as follows:
 
 The “User” means any natural or legal person authorized to use the Brevo Services.
 
-The “Services” provided by Brevo are the features made available to Users via the Site, in accordance with the applicable Version of the Software, such as sending SMSs and emails, providing reports or optimising the deliverability of messages sent (the complete list of features is available at the following address: [https://sendinblue.com/features/](https://sendinblue.com/features/)).
+The “Services” provided by Brevo are the features made available to Users via the Site, in accordance with the applicable Version of the Software, such as sending SMSs and emails, providing reports or optimising the deliverability of messages sent (the complete list of features is available at the following address: [https://brevo.com/features/](https://sendinblue.com/features/)).
 
 The “data processor” is the company that performs data processing at the request of a data controller. Thus, Brevo (ex Sendinblue) acts as a data processor to make its Services available to Users, who define the purpose and the means of the processing. Brevo may also use secondary processors (“sub-processors”) to carry out data processing on its behalf.
 
@@ -42,7 +42,7 @@ The “User’s data” is understood as data processed by Brevo on behalf of th
 
 The “Parties” shall mean Brevo and the User.
 
-### 1) Purpose of Brevo (ex Sendinblue) Services
+### 1) Purpose of Brevo (formerly Sendinblue) Services
 
 Brevo provides solutions relating to marketing and/or transactional email and/or SMS , through its sending platform, marketed via the Site.
 
@@ -66,11 +66,11 @@ Brevo shall store messages sent through its platform on behalf of the Users. Dis
 
 By subscribing to Brevo Services, the Users agree to pay the price corresponding to the Services selected and to their country of residence.
 
-Unless specifically otherwise stipulated, the prices of the Services subscribed shall be paid at the time of subscription and in the currency in which they were invoiced, **_in accordance with the financial conditions detailed here:_** **_[https://www.sendinblue.com/pricing/](https://www.brevo.com/pricing/)_****_._**
+Unless specifically otherwise stipulated, the prices of the Services subscribed shall be paid at the time of subscription and in the currency in which they were invoiced, **_in accordance with the financial conditions detailed here:_** **_[https://www.brevo.com/pricing/](https://www.brevo.com/pricing/)_****_._**
 
-The prices displayed on the Site are exclusive of charges, and they do not include VAT. Additional charges shall be applied on the invoice according to the Users’ country of residence and applicable legal and regulatory provisions. If the User’s organization subjects invoicing and/or payment to the creation or update by Brevo (ex Sendinblue) of an account on a specific invoicing platform, and/or if the User’s organization only accepts payment via wire transfer, Brevo (ex Sendinblue) reserves the right to charge an annual additional fee of 100 euros.
+The prices displayed on the Site are exclusive of charges, and they do not include VAT. Additional charges shall be applied on the invoice according to the Users’ country of residence and applicable legal and regulatory provisions. If the User’s organization subjects invoicing and/or payment to the creation or update by Brevo of an account on a specific invoicing platform, and/or if the User’s organization only accepts payment via wire transfer, Brevo reserves the right to charge an annual additional fee of 100 euros.
 
-Once logged in the platform, or by subscribing via our Pay as you go page ([https://www.sendinblue.com/pricing/pay-as-you-go/](https://www.brevo.com/pricing/pay-as-you-go/)), the User can also purchase SMS or WhatsApp messages on a pay as you go basis, with a unit price fixed country by country. Unit prices of SMS and WhatsApp messages depend on the market prices, applied by our suppliers and third parties, and may therefore evolve during the performance of the contract. Once notified to us by our suppliers or WhatsApp, the price increase shall immediately be applied to the Users. Users can request the communication of the current price list relevant to the destination countries for which they purchased SMS and/or WhatsApp messages at **[\[email protected\]](https://www.sendinblue.com/cdn-cgi/l/email-protection)****.** When using WhatsApp messages, the User might benefit from a fixed monthly volume of free WhatsApp messages, as described as the case may be on our Pay as you go page : this offer is only valid as long as (i) the User owns a verified WhatsApp Business account and (ii) WhatsApp provides those messages for free. The monthly volume of free WhatsApp messages resets at the end of each month.
+Once logged in the platform, or by subscribing via our Pay as you go page ([https://www.brevo.com/pricing/pay-as-you-go/](https://www.brevo.com/pricing/pay-as-you-go/)), the User can also purchase SMS or WhatsApp messages on a pay-as-you-go basis, with a unit price fixed country by country. Unit prices of SMS and WhatsApp messages depend on the market prices, applied by our suppliers and third parties, and may therefore evolve during the performance of the contract. Once notified to us by our suppliers or WhatsApp, the price increase shall immediately be applied to the Users. Users can request the communication of the current price list relevant to the destination countries for which they purchased SMS and/or WhatsApp messages at **[\[email protected\]](https://www.sendinblue.com/cdn-cgi/l/email-protection)****.** When using WhatsApp messages, the User might benefit from a fixed monthly volume of free WhatsApp messages, as described as the case may be on our Pay as you go page: this offer is only valid as long as (i) the User owns a verified WhatsApp Business account and (ii) WhatsApp provides those messages for free. The monthly volume of free WhatsApp messages resets at the end of each month.
 
 ### 4) Use of the Services
 
@@ -78,7 +78,7 @@ Once logged in the platform, or by subscribing via our Pay as you go page ([http
 
 Each Party declares that it shall respect the regulations applicable to its activity.
 
-In general terms, the Users shall guarantee that the information sent via the Brevo (ex Sendinblue) Services does not contravene any legal or regulatory provision or a provision resulting from an international agreement applicable to them and in particular the provisions in force in France, in the State in which the User carries out their activity and in the State in which the persons appearing on the distribution lists reside, nor the rights of third parties.
+In general terms, the Users shall guarantee that the information sent via the Brevo Services does not contravene any legal or regulatory provision or a provision resulting from an international agreement applicable to them and in particular the provisions in force in France, in the State in which the User carries out their activity and in the State in which the persons appearing on the distribution lists reside, nor the rights of third parties.
 
 The sending of email and SMSs to customers and prospects is subject to the applicable data protection and digital marketing laws and regulations, in particular, without this list being exhaustive:
 
@@ -101,7 +101,7 @@ The Users guarantee to Brevo:
 
 In addition, the Users shall undertake to guarantee Brevo against any claim by third parties as well as any penalty that Brevo may find itself imposed against it resulting from any non-compliance with this article.
 
-##### 4.1.2 Brevo (ex Sendinblue)’s intellectual and industrial property rights
+##### 4.1.2 Brevo’s intellectual and industrial property rights
 
 All programs, services, processes, designs, software, technologies, trademarks and trade names and inventions appearing on the Site, accessible via the Site or via the Brevo Services, are the property of Brevo or its licensors.
 
@@ -109,11 +109,11 @@ The Users shall undertake not to use, in any way whatsoever, the Site, the Servi
 
 #### 4.2 Protection of the personal data of third parties
 
-For the purposes of providing the Services, Brevo (ex Sendinblue) has access to information contained in email distribution lists created by the Users via their personal account, as well as to the subject and content of emails sent to their distribution lists through the Services. This information contains personal data concerning third parties.
+For the purposes of providing the Services, Brevo has access to information contained in email distribution lists created by the Users via their personal account, as well as to the subject and content of emails sent to their distribution lists through the Services. This information contains personal data concerning third parties.
 
 ##### 4.2.1 Responsibility of the Users in relation to personal data
 
-As creators of the distribution lists, the Users are responsible for the processing of the personal data appearing in those lists within the meaning of the applicable regulations. As such, if the Users are domiciled in the European Union, or if their distribution lists contain personal data of citizens of the European Union, the User guarantees to Brevo (ex Sendinblue) that they shall comply with the provisions of Regulation No. 2016/679 of 27 April 2016 (the “GDPR”) as well as those of Law No. 78-17 of 6 January 1978 Information Technology, Data Files and Civil Liberties, and in particular:
+As creators of the distribution lists, the Users are responsible for the processing of the personal data appearing in those lists within the meaning of the applicable regulations. As such, if the Users are domiciled in the European Union, or if their distribution lists contain personal data of citizens of the European Union, the User guarantees to Brevo that they shall comply with the provisions of Regulation No. 2016/679 of 27 April 2016 (the “GDPR”) as well as those of Law No. 78-17 of 6 January 1978 Information Technology, Data Files and Civil Liberties, and in particular:
 
 * that the personal data contained in the files transmitted have been collected and processed in compliance with the applicable regulations;
 * that the Users have informed the data subjects in accordance with the applicable rules;
@@ -121,13 +121,13 @@ As creators of the distribution lists, the Users are responsible for the process
 * that the data subjects shall be allowed to exercise their rights in accordance with the applicable rules;
 * that the Users undertake that the information will be rectified, completed, clarified, updated or deleted if it is inaccurate, incomplete, ambiguous or out of date, or if the data subject wishes to prohibit its collection, use, communication or storage.
 
-It is specified that the Users are solely responsible for managing the retention periods of personal data that they upload onto the Brevo (ex Sendinblue) platform, and that it is incumbent on them to delete the data as and when its retention period expires. Brevo (ex Sendinblue) is responsible only for deleting this data at the end of its contractual relationship with the Users.
+It is specified that the Users are solely responsible for managing the retention periods of personal data that they upload onto the Brevo platform, and that it is incumbent on them to delete the data as and when its retention period expires. Brevo is responsible only for deleting this data at the end of its contractual relationship with the Users.
 
-In addition, the Users shall undertake not to include in the distribution lists uploaded onto the Brevo (ex Sendinblue) platform any personal data known as “sensitive” within the meaning of Article 9 of the GDPR, and in particular no health data, but also no data relating to criminal convictions and offences, any social security number, or any bank card number. Brevo (ex Sendinblue) can in no way be held responsible for the presence of such personal data on its platform, and the consequences that could result therefrom. In the event of a violation of this clause, the User shall be solely responsible for any consequences, and undertakes to guarantee, and if necessary indemnify, Brevo (ex Sendinblue).
+In addition, the Users shall undertake not to include in the distribution lists uploaded onto the Brevo platform any personal data known as “sensitive” within the meaning of Article 9 of the GDPR, and in particular no health data, but also no data relating to criminal convictions and offences, any social security number, or any bank card number. Brevo can in no way be held responsible for the presence of such personal data on its platform, and the consequences that could result therefrom. In the event of a violation of this clause, the User shall be solely responsible for any consequences, and undertakes to guarantee, and if necessary indemnify, Brevo.
 
 ##### 4.2.2 Protection of the User’s personal data
 
-Brevo (ex Sendinblue) has taken all the necessary precautions to preserve the security of personal data and, in particular, to prevent it from being distorted or damaged or from unauthorised third parties having access to it.
+Brevo has taken all the necessary precautions to preserve the security of personal data and, in particular, to prevent it from being distorted or damaged or from unauthorised third parties having access to it.
 
 These measures include the following:
 
@@ -146,7 +146,7 @@ Brevo (ex Sendinblue) acts as a data processor on behalf of the Users, and under
 
 In this context, it is specified that:
 
-* The Users can retrieve their distribution lists at any time by clicking on the “export button” from their personal Brevo (ex Sendinblue) account.
+* The Users can retrieve their distribution lists at any time by clicking on the “export button” from their personal Brevo account.
 * Personal data contained in the distribution lists may only be disclosed to third parties in the following cases:
     * with the authorization of the Users certifying that the data subject have themselves authorized this disclosure;
     * at the request of the competent legal authorities, on judicial requisition, or in the context of a legal dispute.
@@ -161,15 +161,15 @@ Finally, the Users expressly accept that the behavior of the recipients of these
 
 The User expressly understands and agrees that the Services are provided on an as-is-and-as-available basis with all faults and defects. Brevo (ex Sendinblue) makes no warranties regarding the Service whatsoever,  for itself and on behalf of its affiliates, licensors and service providers, other than the above and expressly disclaims any and all implied warranties, including any warranties of merchantability, fitness for a particular purpose, and non-infringement. Brevo (ex Sendinblue) makes no representation of any kind that the services will meet the User’s requirements, achieve any intended results, be compatible, or work with any other software, applications, systems, devices or services, operate without interruption, meet any performance or reliability standards, or be error free, or that any errors or defects can or will be corrected. Brevo (ex Sendinblue) makes no warranty that the Services will be uninterrupted, timely, secure, error free or virus free.
 
-The User acknowledges and accepts that its use of the Services shall comply with the guidelines detailed in the help center available at: [https://help.sendinblue.com/hc/en-us](https://help.sendinblue.com/hc/en-us) (hereinafter the “Documentation”). The Documentation shall be updated from time to time and it is advised that the User consults the Documentation on a regular basis. The User acknowledges and accepts that any use of the Service disregarding, non complying and/or breaching the guidelines provided in the Documentation might affect the performance of the Service and/or modify its pricing.
+The User acknowledges and accepts that its use of the Services shall comply with the guidelines detailed in the help center available at: [https://help.brevo.com/hc/en-us](https://help.sendinblue.com/hc/en-us) (hereinafter the “Documentation”). The Documentation shall be updated from time to time and it is advised that the User consults the Documentation on a regular basis. The User acknowledges and accepts that any use of the Service disregarding, non complying and/or breaching the guidelines provided in the Documentation might affect the performance of the Service and/or modify its pricing.
 
 #### 4.4 Prohibited uses
 
-The use of the Brevo (ex Sendinblue) Services resulting from the subscription to the said Services is strictly personal and may not be rented or transferred free of charge or for a fee to a third party. In the absence of prior authorization, the use of Brevo (ex Sendinblue) is limited to only one account per User.
+The use of the Brevo Services resulting from the subscription to the said Services is strictly personal and may not be rented or transferred free of charge or for a fee to a third party. In the absence of prior authorization, the use of Brevo is limited to only one account per User.
 
-Any use of the Services that may damage, disable, or overload Brevo (ex Sendinblue)’s infrastructure or networks connected to Brevo (ex Sendinblue)’s servers, or interfere with the enjoyment of the Services by other Users, is prohibited.
+Any use of the Services that may damage, disable, or overload Brevo’s infrastructure or networks connected to Brevo’s servers, or interfere with the enjoyment of the Services by other Users, is prohibited.
 
-Any attempt to access, without authorization, the Services, any other accounts, computer systems or other networks connected to a Brevo (ex Sendinblue) server or any of the Services via hacking or any other method is prohibited.
+Any attempt to access, without authorization, the Services, any other accounts, computer systems or other networks connected to a Brevo server or any of the Services via hacking or any other method is prohibited.
 
 The use of the Services for the purpose of selling products or services related to illegal or fraudulent activities or encouraging such activities and, in particular, without this list being exhaustive, activities related to illegal drugs, hacking programs, instructions for assembling or creating bombs, grenades or other weapons, materials containing violence against children or which encourages violence is prohibited.
 
@@ -177,11 +177,11 @@ Any use of the Services contrary to the applicable rules relating to telemarketi
 
 Any use of the Services in violation of the rights of third parties is prohibited.
 
-In the event of non-compliance with this article, Brevo (ex Sendinblue) reserves the right to immediately block the Users’ access to their Services and to remove all information from their account without notice and without refund or any other form of compensation.
+In the event of non-compliance with this article, Brevo reserves the right to immediately block the Users’ access to their Services and to remove all information from their account without notice and without refund or any other form of compensation.
 
 Brevo (ex Sendinblue) reserves the right to refuse or limit service to accounts not complying with its General Conditions of Use or with laws regulating communications companies, or accounts distributing unwanted communications.
 
-The following topics are prohibited on the Brevo (ex Sendinblue) platform:
+The following topics are prohibited on the Brevo platform:
 
 * Exchange of currencies, fraudulent shares and stock market transactions
 * Home job offers making “get rich fast” promises, financial packages and pyramid schemes
@@ -199,13 +199,13 @@ Accounts with the following activities will only be validated under certain cond
 
 ### 5) Responsibilities and guarantees
 
-#### 5.1 Responsibilities and guarantees of Brevo (ex Sendinblue)
+#### 5.1 Responsibilities and guarantees of Brevo
 
-Except in cases of force majeure, Brevo (ex Sendinblue) guarantees to the Users the proper performance of its service rendered in compliance with these General Conditions of Use.
+Except in cases of force majeure, Brevo guarantees to the Users the proper performance of its service rendered in compliance with these General Conditions of Use.
 
-Any potential compensation due from Brevo (ex Sendinblue), to the User or to a third party, due to the liability of Brevo (ex Sendinblue), its subsidiaries or its partners, in respect of the performance of these conditions, shall not exceed the price paid by the User in return for the Service(s) giving rise to the said liability.
+Any potential compensation due from Brevo, to the User or to a third party, due to the liability of Brevo, its subsidiaries or its partners, in respect of the performance of these conditions, shall not exceed the price paid by the User in return for the Service(s) giving rise to the said liability.
 
-In no case shall Brevo (ex Sendinblue) guarantee to the User the economic, image or information returns that the latter may expect from sending emails or SMSs in the context of these conditions.
+In no case shall Brevo guarantee to the User the economic, image or information returns that the latter may expect from sending emails or SMSs in the context of these conditions.
 
 Brevo (ex Sendinblue) does not systematically control the content of messages sent by the Users to their distribution lists, which remains the responsibility of the Users.
 
@@ -219,9 +219,9 @@ The Users may be held liable for non-compliance with these General Conditions of
 
 The Users guarantee Brevo (ex Sendinblue) against any damage, any claim and any recourse of third parties resulting from a violation, by the Users, of the present General Conditions of Use, of the privacy and anti-spam policies of Brevo (ex Sendinblue) or of any legal or regulatory provision, or a provision resulting from an applicable international agreement.
 
-### 6) Changes to the use conditions, to Brevo (ex Sendinblue) policies and to the offer
+### 6) Changes to the use conditions, to Brevo policies and to the offer
 
-Brevo (ex Sendinblue) may modify these Terms of Use, its anti-spam and privacy policies and its offer.
+Brevo may modify these Terms of Use, its anti-spam and privacy policies and its offer.
 
 In any event, the User’s continued use of the Services shall constitute acceptance of the changes.
 
@@ -235,11 +235,11 @@ Only the English language version of these Terms of Use is binding between Brevo
 
 The present General Conditions of Use are in force for an indefinite period.
 
-The Users may terminate their Brevo (ex Sendinblue) account directly from the Site at any time.
+The Users may terminate their Brevo account directly from the Site at any time.
 
-In the event of termination by the Users, the sums paid in consideration of the Brevo (ex Sendinblue) Services shall remain due to Brevo (ex Sendinblue) even if the Users did not exhaust the acquired mailing quotas.
+In the event of termination by the Users, the sums paid in consideration of the Brevo Services shall remain due to Brevo even if the Users did not exhaust the acquired mailing quotas.
 
-In the event of non-compliance by the Users with these General Conditions of Use, with Brevo (ex Sendinblue)’s privacy and anti-spam policies or with any legal or regulatory provision or one resulting from an applicable international agreement, Brevo (ex Sendinblue) reserves the right to terminate the Users’ account subject to 15 days’ notice.
+In the event of non-compliance by the Users with these General Conditions of Use, with Brevo’s privacy and anti-spam policies or with any legal or regulatory provision or one resulting from an applicable international agreement, Brevo reserves the right to terminate the Users’ account subject to 15 days’ notice.
 
 The termination will occur without notice in the event of non-compliance with the article “Use of Services” of these conditions.
 
@@ -255,7 +255,7 @@ Expressly, the following will be considered cases of force majeure, in addition 
 * general or partial strikes, internal or external to the company, affecting a supplier or a national operator, lockouts, blockades of transport facilities or procurement for any reason whatsoever,
 * natural disasters resulting in the destruction of infrastructure, such as fires, storms, floods, water damage,
 * governmental or legal restrictions, legal or regulatory changes to forms of marketing, cases involving the suspension, cancellation or revocation of any authorisation by any relevant competent authority,
-* interruptions of the network of Brevo (ex Sendinblue), its subcontractor or its supplier, as a result of computer breakdowns, blocking of telecommunications means, whether resulting from external attacks, interruptions to services by the access provider or other persons, and any other event not attributable to Brevo (ex Sendinblue), its subcontractor or its supplier, preventing the normal performance of the services rendered,
+* interruptions of the network of Brevo (ex Sendinblue), its subcontractor or its supplier, as a result of computer breakdowns, blocking of telecommunications means, whether resulting from external attacks, interruptions to services by the access provider or other persons, and any other event not attributable to Brevo, its subcontractor or its supplier, preventing the normal performance of the services rendered,
 * interruptions of the power supply of more than 48 hours.
 
 Each party shall notify the other party by registered letter with acknowledgement of receipt of any force majeure event.
@@ -277,20 +277,20 @@ Any dispute between the Parties arising from questions as to the validity, inter
 ANNEX 1 – Agreement on the processing of personal data
 ------------------------------------------------------
 
-In the context of the Services provided to the User, Brevo (ex Sendinblue) is required to carry out personal data processing operations on behalf of the User. This processing is carried out for the duration of the contractual relationship between Brevo (ex Sendinblue) and the User.
+In the context of the Services provided to the User, Brevo is required to carry out personal data processing operations on behalf of the User. This processing is carried out for the duration of the contractual relationship between Brevo and the User.
 
-The processing carried out by Brevo (ex Sendinblue) on behalf of the User is described below:
+The processing carried out by Brevo on behalf of the User is described below:
 
 * Storage of contact lists uploaded by Users
 * Sending messages by email or SMS, whether automated or not
 * Retention and analysis of email deliverability data
 * Retargeting display
 * Collection of unsubscriptions and User information affected
-* Collection of consents (in the event that the User uses the Brevo (ex Sendinblue) form to retrieve contact data from their own site)
+* Collection of consents (in the event that the User uses the Brevo form to retrieve contact data from their own site)
 
 In this respect, Brevo (ex Sendinblue) declares that it offers sufficient guarantees as to the implementation of appropriate technical and organizational measures so that the processing meets the requirements of the GDPR and ensures the protection of the data subject’s rights, and undertakes to respect the following obligations:
 
-### 1\. Brevo (ex Sendinblue)’s Obligations
+### 1\. Brevo’s Obligations
 
 #### a) User’s instructions
 
@@ -325,7 +325,7 @@ Brevo (ex Sendinblue) undertakes, as far as possible, to assist the User in fulf
 
 At any time during the implementation of the General Conditions of Use, the User may access the personal data processed by Brevo (ex Sendinblue) or delete it directly from the Site using the export and integrated deletion features.
 
-At the end of the contractual relationship, Brevo (ex Sendinblue) undertakes, at the User’s request, to destroy all personal data, or to return it to the User or another data processor designated by them if technically feasible and within a maximum period of 3 months. The return must be accompanied by the destruction of existing copies in Brevo (ex Sendinblue)’s information systems, unless any applicable law requires their retention.
+At the end of the contractual relationship, Brevo undertakes, at the User’s request, to destroy all personal data, or to return it to the User or another data processor designated by them if technically feasible and within a maximum period of 3 months. The return must be accompanied by the destruction of existing copies in Brevo’s information systems, unless any applicable law requires their retention.
 
 ### 2\. Audit
 
@@ -353,7 +353,7 @@ It is Brevo (ex Sendinblue)’s responsibility to ensure that sub-processors pro
 
 ### 4\. Transfers of personal data outside the EU for legal purposes
 
-If Brevo (ex Sendinblue) is required to make such transfers under the applicable law, it undertakes to immediately inform the User of this legal obligation before the processing, unless the applicable law prohibits such information for reasons of public interest.
+If Brevo is required to make such transfers under the applicable law, it undertakes to immediately inform the User of this legal obligation before the processing, unless the applicable law prohibits such information for reasons of public interest.
 
 II. Sendinblue Inc. Terms of Use
 --------------------------------
@@ -362,7 +362,7 @@ Last Updated 27th April, 2021
 
 For users incorporated in USA, Canada, Australia and New-Zealand
 
-The below Terms of Use (the “**Terms**”) are a binding contract between you and **Sendinblue Inc.** dba **Sendinblue**, (collectively **referred to as** “**Brevo**,” “**us**,” “**our**,” or “**we**”). These Terms, together with Sendinblue Inc. **[Privacy Notice](https://www.brevo.com/legal/privacypolicy/#privacysibinc) (**here after the **“Privacy Notice”)**, govern your use of sendinblue.com and other websites we own and/or operate (collectively, the “**Site**”), our suite of software and professional services owned and operated by Brevo, Inc. or its affiliates and/or delivered under the business name Brevo (the “**Software**”) for managing your contacts and designing, implementing, and administering email, SMS, and certain other marketing programs, our other digital properties or services, and your communications with us by any means (collectively the “**Services**”), whether as a Site user, customer of the Services, or representative of any legal entity that is a customer of the Services (in each case, a “**Customer**” and/or “**you**”, “**your**”). These Terms apply if the legal entity of which you are a representative is incorporated in the United-States of America, in Canada, Australia or in New-Zealand. In such cases, these Terms prevail over any other terms and conditions available on our Site. 
+The below Terms of Use (the “**Terms**”) are a binding contract between you and **Sendinblue Inc.** dba **Sendinblue**, (collectively **referred to as** “**Brevo**,” “**us**,” “**our**,” or “**we**”). These Terms, together with Sendinblue Inc. **[Privacy Notice](https://www.brevo.com/legal/privacypolicy/#privacysibinc) (**here after the **“Privacy Notice”)**, govern your use of brevo.com and other websites we own and/or operate (collectively, the “**Site**”), our suite of software and professional services owned and operated by Brevo, Inc. or its affiliates and/or delivered under the business name Brevo (the “**Software**”) for managing your contacts and designing, implementing, and administering email, SMS, and certain other marketing programs, our other digital properties or services, and your communications with us by any means (collectively the “**Services**”), whether as a Site user, customer of the Services, or representative of any legal entity that is a customer of the Services (in each case, a “**Customer**” and/or “**you**”, “**your**”). These Terms apply if the legal entity of which you are a representative is incorporated in the United-States of America, in Canada, Australia or in New-Zealand. In such cases, these Terms prevail over any other terms and conditions available on our Site. 
 
 Any terms we use in these Terms without defining them have the definitions given to them in the Privacy Notice. Additional, separate terms and conditions may apply to some Services, which shall be included and considered part of these Terms.
 
@@ -458,7 +458,7 @@ You hereby agree not to use any device, software, or routine to interfere or try
 
 By submitting your Customer Content, you hereby grant us an irrevocable, worldwide, fully paid-up and royalty free, non-exclusive, unlimited license, including the right to sublicense and assign to third parties, and the right to use and disclose your Customer Content, in order to provide you with the Services, during the performance of these Terms. To the extent permitted by applicable laws, you hereby covenant not to assert against Us any moral rights you may have in any of Your Customer Content.  You further hereby authorize Brevo (ex Sendinblue) to mention your business name and logos as trade references on any communication medium including social media. These mentions are granted free of charge. You may terminate this authorization at any time by sending a simple email to [\[email protected\]](https://www.sendinblue.com/cdn-cgi/l/email-protection)
 
-Brevo (ex Sendinblue) is not responsible for any Customer Content. We reserve the right to withhold approval, or remove Customer Content for any reason at our sole discretion, but we have no obligation to police Customer Content on the Services. We further reserve the right to remove any Customer Content for any reason and to interrupt or restrict the Services at any time, without notice to you or any other Customers, if we suspect activity that is unlawful, abusive, or otherwise in breach of these Terms. 
+Brevo is not responsible for any Customer Content. We reserve the right to withhold approval, or remove Customer Content for any reason at our sole discretion, but we have no obligation to police Customer Content on the Services. We further reserve the right to remove any Customer Content for any reason and to interrupt or restrict the Services at any time, without notice to you or any other Customers, if we suspect activity that is unlawful, abusive, or otherwise in breach of these Terms. 
 
 If your account is terminated, you acknowledge and agree that we may permanently delete your account and all the data associated with it, including Customer Data. If your account has been terminated, your username will no longer be available for use and may not be reclaimed or used for any future account.
 
@@ -500,7 +500,7 @@ WITHOUT LIMITING THE FOREGOING PROVISIONS OR THE PROVISIONS OF OUR PRIVACY NOTIC
 
 YOU AGREE TO GIVE UP ANY RIGHTS TO LITIGATE CLAIMS IN A COURT OR BEFORE A JURY OR TO PARTICIPATE IN A CLASS ACTION OR REPRESENTATIVE ACTION WITH RESPECT TO A CLAIM. OTHER RIGHTS THAT YOU WOULD HAVE IF YOU WENT TO COURT, SUCH AS ACCESS TO DISCOVERY, ALSO MAY BE UNAVAILABLE OR LIMITED IN ARBITRATION.
 
-Any claim or dispute brought by you arising from or relating to these Terms, or to the relationships that result from these Terms, including disputes about the validity, scope, or enforceability of this arbitration provision (collectively, “Covered Disputes”) may, at Brevo (ex Sendinblue)’s option and in its sole discretion, be settled exclusively by binding, individual arbitration, rather than in court, and to be held in King County, Washington, or another location mutually agreeable to the parties. The arbitration will be conducted by the American Arbitration Association under its rules and procedures. The Federal Arbitration Act governs the interpretation and enforcement of this Arbitration Agreement. Prior to initiating any arbitration, you will give Brevo (ex Sendinblue) at least 60 days’ advanced written notice of your intent to file for arbitration.  You must provide such notice by email to [\[email protected\]](https://www.sendinblue.com/cdn-cgi/l/email-protection) During such 60-day notice period, the parties will endeavor to settle amicably by mutual discussions any Covered Disputes. Failing such amicable settlement and expiration of the notice period, either party may initiate arbitration. The arbitrator will have the power to grant whatever relief would be available in court under law or in equity, and any award of the arbitrator(s) will be final and binding on each of the parties. Judgment upon the award rendered by an arbitrator may be entered in any court of competent jurisdiction. The arbitrator will apply applicable law and the provisions of these Terms, and the failure to do so will be deemed an excess of arbitral authority and grounds for judicial review. You are not entitled to arbitrate any Covered Dispute as a class, representative, or private attorney action, and the arbitrator(s) will have no authority to proceed on a class, representative, or private attorney general basis. If any provision of the agreement to arbitrate in this section is found illegal or unenforceable, the remaining arbitration terms shall continue to be fully valid, binding, and enforceable (but in no case will there be a class, representative, or private attorney general arbitration). These Terms and related transactions will be subject to and governed by the Federal Arbitration Act, 9 U.S.C. sec. 1-16 (FAA) and, where otherwise applicable, by the laws of the State of Washington. Brevo (ex Sendinblue) reserves all rights to pursue any and all claims and remedies, whether in a court of law or other tribunal, and in no way shall the foregoing be interpreted to limit Brevo (ex Sendinblue)’s rights in this regard. 
+Any claim or dispute brought by you arising from or relating to these Terms, or to the relationships that result from these Terms, including disputes about the validity, scope, or enforceability of this arbitration provision (collectively, “Covered Disputes”) may, at Brevo (ex Sendinblue)’s option and in its sole discretion, be settled exclusively by binding, individual arbitration, rather than in court, and to be held in King County, Washington, or another location mutually agreeable to the parties. The arbitration will be conducted by the American Arbitration Association under its rules and procedures. The Federal Arbitration Act governs the interpretation and enforcement of this Arbitration Agreement. Prior to initiating any arbitration, you will give Brevo (ex Sendinblue) at least 60 days’ advanced written notice of your intent to file for arbitration.  You must provide such notice by email to [\[email protected\]](https://www.sendinblue.com/cdn-cgi/l/email-protection) During such 60-day notice period, the parties will endeavor to settle amicably by mutual discussions any Covered Disputes. Failing such amicable settlement and expiration of the notice period, either party may initiate arbitration. The arbitrator will have the power to grant whatever relief would be available in court under law or in equity, and any award of the arbitrator(s) will be final and binding on each of the parties. Judgment upon the award rendered by an arbitrator may be entered in any court of competent jurisdiction. The arbitrator will apply applicable law and the provisions of these Terms, and the failure to do so will be deemed an excess of arbitral authority and grounds for judicial review. You are not entitled to arbitrate any Covered Dispute as a class, representative, or private attorney action, and the arbitrator(s) will have no authority to proceed on a class, representative, or private attorney general basis. If any provision of the agreement to arbitrate in this section is found illegal or unenforceable, the remaining arbitration terms shall continue to be fully valid, binding, and enforceable (but in no case will there be a class, representative, or private attorney general arbitration). These Terms and related transactions will be subject to and governed by the Federal Arbitration Act, 9 U.S.C. sec. 1-16 (FAA) and, where otherwise applicable, by the laws of the State of Washington. Brevo reserves all rights to pursue any and all claims and remedies, whether in a court of law or other tribunal, and in no way shall the foregoing be interpreted to limit Brevo (ex Sendinblue)’s rights in this regard. 
 
 **General.** No joint venture, partnership, employment, or agency relationship exists between you and Brevo (ex Sendinblue) as a result of these Terms or your use of the Services. If any part of this Agreement is held invalid or unenforceable, that portion shall be construed to reflect the parties’ original intent, and the remaining portions shall remain in full force and effect. You hereby consent to Brevo (ex Sendinblue) publicizing the existence (but not the terms) of the relationship contemplated hereunder as a part of Brevo (ex Sendinblue)’s promotional and marketing activities from time to time. These Terms, along with the agreements incorporated by reference herein, constitute the entire agreement between Brevo (ex Sendinblue) and you with respect to your access to and use of the Services and your Brevo (ex Sendinblue) account, and supersedes all prior or contemporaneous communications and proposals, whether oral or written, between Brevo (ex Sendinblue) and you with respect thereto and, with respect to your use of the Services, supersedes the terms of any other party’s terms and conditions. These Terms may be executed by the parties hereto in separate counterparts, as applicable to the Services, each of which when so executed and delivered shall be an original for all purposes, but all such counterparts shall together constitute but one and the same instrument. The failure of Brevo (ex Sendinblue) to exercise or enforce any right or provision of this Agreement shall not constitute a waiver of such right or provision.
 
