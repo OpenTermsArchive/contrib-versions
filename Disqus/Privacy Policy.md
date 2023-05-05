@@ -2,7 +2,9 @@ Disqus Privacy Policy
 
 ![Disqus avatar](https://static.intercomassets.com/avatars/512695/square_128/Disqus_d_icon_%28gray%29.svg-1472681159.png)
 
-Written by Disqus. Updated over a week ago
+Written by Disqus
+
+Updated over a week ago
 
 Disqus Privacy Policy
 
