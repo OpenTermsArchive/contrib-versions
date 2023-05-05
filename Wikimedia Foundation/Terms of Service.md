@@ -81,7 +81,7 @@ Other languages:
 * [ไทย](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/th "ข้อกำหนดการใช้งาน (99% translated)")
 * [中文](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh "使用条款 - 概述 (8% translated)")
 * [日本語](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja "Policy:Terms of Use/ja (97% translated)")
-* [한국어](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ko "이용 약관 (99% translated)")
+* [한국어](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ko "이용 약관 (100% translated)")
 
 **Want to help translate? [Translate the missing messages](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=agg-Terms_of_Use&filter=%21translated&action=page&language=).**
 
