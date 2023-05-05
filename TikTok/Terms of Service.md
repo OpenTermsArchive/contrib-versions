@@ -1,3 +1,5 @@
+EEA/UK/CH
+
 Terms of Service
 
 **(If you are a user having your residence in the European Economic Area, Switzerland and the UK)**
