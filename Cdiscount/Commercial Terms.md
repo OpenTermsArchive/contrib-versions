@@ -668,7 +668,7 @@ b)      **ou en nous retournant, à l’adresse postale indiquée, le formu
 — Adresse du (des) consommateur(s) …………………………………………………………………………………………………...... ........ …………………………………………………………………………………………………… …………………………………………………….  
 — Signature du (des) consommateur(s) (uniquement en cas de notification du présent formulaire sur papier)
 
-— Date'…………………………
+— Date……………………………
 
 (\*) Rayez la mention inutile
 
@@ -1889,7 +1889,7 @@ _ARTICLE 3 :  PASSATION D'UNE COMMANDE DE PRODUITS_
 • qui présenterait un caractère anormal (en termes de quantités commandées notamment) ;  
 • en cas de manquement du Client Pro à ses obligations ;  
 • en cas d’erreur manifeste de prix ;  
-• en cas d’absence d’information suffisante pour permettre à Cdiscount d’exécuter ladite commande.  
+• en cas déabsence d’information suffisante pour permettre à Cdiscount d’exécuter ladite commande.  
   
 3.4    Dès lors que le Client Pro achète les produits en qualité de revendeur, il garantit Cdiscount qu'il dispose de l'agrément de la marque dans le cas où les produits feraient partie d'un réseau de distribution fermé.   
 
