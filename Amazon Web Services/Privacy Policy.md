@@ -1,9 +1,9 @@
 Privacy Notice
 ==============
 
-#### Last Updated: January 10, 2023
+#### Last Updated: May 5, 2023
 
-To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20220901/).
+To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20230110/).
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -155,64 +155,6 @@ We provide additional information about our controllers and data protection offi
     
     **Transfers outside of Brazil**. When we transfer your personal information outside Brazil, we do so in accordance with the terms of this Privacy Notice and applicable data protection law. 
     
-* United States - California and Virginia
-    
-    These additional state-specific privacy disclosures are required by the California Consumer Privacy Act, as amended by the California Privacy Rights Act, and Virginia Consumer Data Protection Act and are effective as of December 30, 2022:
-    
-    **Categories of personal information collected**. The personal information that we may collect, or may have collected from consumers in the preceding twelve months, fall into the following categories established by the California Privacy Rights Act, depending on how you engage with the AWS Offerings:
-    
-    * Identifiers, such as your name, alias, address, phone numbers, or IP address, your AWS account log-in information, or a government-issued identifier (e.g., a state-issued ID number, which may be required to verify your identity when completing certain AWS certification courses);  
-        
-    * personal information as described in subdivision (e) of Section 1798.80 of the California Civil Code, such as a credit card number or other payment information;
-    * characteristics of protected classifications under California or US federal law, such as age, race, or gender, for example if we conduct user surveys or analysis;  
-        
-    * commercial information, such as purchase activity;
-    * internet or other electronic network activity information, including content interaction information, such as content downloads, streams, and playback details;
-    * biometric information, such as your voice or appearance, for example if you choose to participate in a demonstration of a speech or image recognition service;  
-        
-    * geolocation data, which may in some cases constitute precise geolocation information, such as the location of your device or computer, for example if you enable location services to enhance your experience through event applications we offer;
-    * audio, visual, electronic or other similar information, including when you communicate with us by phone or otherwise;
-    * professional or employment-related information, for example data you may provide about your business;
-    * inference data, such as information about your preferences; and
-    * education information, such as information about enrollment status, fields of study, or degrees, honors, and awards received.
-    
-    We collect this information from you, automatically through your interaction with the AWS Offerings, or from third parties. For more information about the personal information we collect, click [here](https://aws.amazon.com/privacy/#Personal_Information_We_Collect). We collect this information for the business and commercial purposes described in the “How We Use Personal Information” section above.  
-    
-    **Categories of personal information disclosed for a business purpose**. The personal information that we may have disclosed about consumers for a business purpose in the preceding twelve months fall into the following categories established by the California Privacy Rights Act, depending on how you engage with the AWS Offerings:
-    
-    * Identifiers, such as your name, address, or phone numbers, for example if we use a third party carrier to deliver AWS hardware, or government identifier, for example if we use a third-party service to verify your identity;
-    * personal information as described in subdivision (e) of Section 1798.80 of the California Civil Code, such as a credit card number or other payment information, for example if we use a third party payment processor;
-    * information that may reveal your age, gender, race, or other protected classifications under California or US federal law, for example if we conduct user surveys or analysis using a third party service provider;  
-        
-    * commercial information, such as the details of a product or service you purchased if a third party service provider is assisting to provide that product or service to you;
-    * Internet or other electronic network activity information, such as if we use a third party service provider to help us gather reports for analyzing the health of our devices and services;
-    * biometric information, for example if you choose to participate in a demonstration of certain AWS services facilitated by a third party service provider;  
-        
-    * geolocation data, which may constitute precise geolocation data, for example if we enable transportation services from a third party in connection with an AWS event;  
-        
-    * audio, visual, electronic or other similar information, for example if a third party service provider reviews recordings of customer support phone calls for quality assurance purposes;
-    * professional or employment-related information, for example if we provide information to a third party service provider for verification or registration as part of the AWS Offerings;  
-        
-    * education information, for example if we facilitate employment or internship recruitment activities for participants in the AWS Educate program; and
-    * inference data, for example if we use a third party service provider to store information about your preferences.  
-        
-    
-    For more information about the personal information we may disclose for a business purpose, click [here](https://aws.amazon.com/privacy/#How_We_Share_Personal_Information) and [here](https://aws.amazon.com/privacy/#Internet_Advertising_and_Third_Parties).
-    
-    **Your Data Rights**. You may have certain data rights under the California Privacy Rights Act or Virginia Consumer Data Protection Act, including to request information about the collection of your personal information by us, to access your personal information or to correct or delete your personal information. If you wish to do any of these things and you are an AWS customer, please contact us [here](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=k2xgcbrSF22NYXIq_NYk47-95DzdIyEpseijzwDkUlY&code_challenge_method=SHA-256). If you are not an AWS customer, or you are the authorized agent of an AWS customer, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html) or at the address under [Contacts, Notices, and Revisions](https://aws.amazon.com/privacy/#Contacts.2C_Notices.2C_and_Revisions) above. Additionally, you may have the right to appeal the denial of any of these rights by submitting a form that will be provided to you if we deny a data request. Depending on your data choices, certain services may be limited or unavailable.
-    
-    To ensure the security of your AWS account, we will generally ask you to verify your request using the contact information you have already provided.  If you are an authorized agent making a request on behalf of a consumer pursuant to the California Privacy Rights Act, we may ask you to provide information verifying you have proper authority to make the request on behalf of the consumer or we may ask the consumer to verify their identity with us directly.  
-    
-    **No sale or sharing of personal information**. We do not sell or share any personal information of consumers, as those terms are defined under the California Privacy Rights Act.
-    
-    **California Privacy Rights Act Sensitive Personal Information Disclosure**. The categories of data that we collect and disclose for a business purpose include “sensitive personal information” as defined under the California Privacy Rights Act.  We do not use or disclose sensitive personal information for any purpose not expressly permitted by the California Privacy Rights Act.
-    
-    **California Privacy Rights Act Retention Disclosure**. We keep your personal information to enable your continued use of AWS Services, for as long as it is required in order to fulfill the relevant purposes described in this AWS Privacy Notice, as permitted or as may be required by law, or as otherwise communicated to you.  
-    
-    **California Privacy Rights Act Non-Discrimination Statement**. We will not discriminate against any consumer for exercising their rights under the California Privacy Rights Act.
-    
-    **Virginia Consumer Data Protection Act De-identified Data Disclosure**.  AWS may use de-identified data in some instances.  AWS either maintains such data without attempting to re-identify it or treats such data as personal data subject to applicable law.  
-    
 * Canada
     
     **Your Rights**. Subject to applicable law, you have the right to:
@@ -222,7 +164,7 @@ We provide additional information about our controllers and data protection offi
     * request deletion of personal information that is no longer necessary for the purposes underlying the processing, processed based on withdrawn consent, or processed in non-compliance with applicable legal requirements; and
     * lodge a complaint with us regarding our practices related to your personal information.
     
-    If you wish to do any of these things and you are an AWS customer, please [contact us](https://console.aws.amazon.com/support/home). If you are not an AWS customer, please contact us at the address stated under [Contacts, Notices, and Revisions](https://aws.amazon.com/privacy/#Contacts.2C_Notices.2C_and_Revisions) above.
+    If you wish to do any of these things and you are an AWS customer, please [contact us](https://console.aws.amazon.com/support/home). If you are not an AWS customer, please contact us at the address stated under [Contacts, Notices, and Revisions](https://aws.amazon.com/privacy/#Contacts.2C_Notices.2C_and_Revisions) above. Further, the Amazon Web Services Canada, Inc. Privacy Officer can be contacted at aws-canada-privacy@amazon.com or by mail at the address noted above.
     
 * Costa Rica
     
@@ -421,6 +363,64 @@ We provide additional information about our controllers and data protection offi
     Email: aws-korea-privacy@amazon.com  
     
     Korean translation of this Privacy Notice can be found [here](https://aws.amazon.com/ko/privacy/).  
+    
+* United States - California and Virginia
+    
+    These additional state-specific privacy disclosures are required by the California Consumer Privacy Act, as amended by the California Privacy Rights Act, and Virginia Consumer Data Protection Act and are effective as of December 30, 2022:
+    
+    **Categories of personal information collected**. The personal information that we may collect, or may have collected from consumers in the preceding twelve months, fall into the following categories established by the California Privacy Rights Act, depending on how you engage with the AWS Offerings:
+    
+    * Identifiers, such as your name, alias, address, phone numbers, or IP address, your AWS account log-in information, or a government-issued identifier (e.g., a state-issued ID number, which may be required to verify your identity when completing certain AWS certification courses);  
+        
+    * personal information as described in subdivision (e) of Section 1798.80 of the California Civil Code, such as a credit card number or other payment information;
+    * characteristics of protected classifications under California or US federal law, such as age, race, or gender, for example if we conduct user surveys or analysis;  
+        
+    * commercial information, such as purchase activity;
+    * internet or other electronic network activity information, including content interaction information, such as content downloads, streams, and playback details;
+    * biometric information, such as your voice or appearance, for example if you choose to participate in a demonstration of a speech or image recognition service;  
+        
+    * geolocation data, which may in some cases constitute precise geolocation information, such as the location of your device or computer, for example if you enable location services to enhance your experience through event applications we offer;
+    * audio, visual, electronic or other similar information, including when you communicate with us by phone or otherwise;
+    * professional or employment-related information, for example data you may provide about your business;
+    * inference data, such as information about your preferences; and
+    * education information, such as information about enrollment status, fields of study, or degrees, honors, and awards received.
+    
+    We collect this information from you, automatically through your interaction with the AWS Offerings, or from third parties. For more information about the personal information we collect, click [here](https://aws.amazon.com/privacy/#Personal_Information_We_Collect). We collect this information for the business and commercial purposes described in the “How We Use Personal Information” section above.  
+    
+    **Categories of personal information disclosed for a business purpose**. The personal information that we may have disclosed about consumers for a business purpose in the preceding twelve months fall into the following categories established by the California Privacy Rights Act, depending on how you engage with the AWS Offerings:
+    
+    * Identifiers, such as your name, address, or phone numbers, for example if we use a third party carrier to deliver AWS hardware, or government identifier, for example if we use a third-party service to verify your identity;
+    * personal information as described in subdivision (e) of Section 1798.80 of the California Civil Code, such as a credit card number or other payment information, for example if we use a third party payment processor;
+    * information that may reveal your age, gender, race, or other protected classifications under California or US federal law, for example if we conduct user surveys or analysis using a third party service provider;  
+        
+    * commercial information, such as the details of a product or service you purchased if a third party service provider is assisting to provide that product or service to you;
+    * Internet or other electronic network activity information, such as if we use a third party service provider to help us gather reports for analyzing the health of our devices and services;
+    * biometric information, for example if you choose to participate in a demonstration of certain AWS services facilitated by a third party service provider;  
+        
+    * geolocation data, which may constitute precise geolocation data, for example if we enable transportation services from a third party in connection with an AWS event;  
+        
+    * audio, visual, electronic or other similar information, for example if a third party service provider reviews recordings of customer support phone calls for quality assurance purposes;
+    * professional or employment-related information, for example if we provide information to a third party service provider for verification or registration as part of the AWS Offerings;  
+        
+    * education information, for example if we facilitate employment or internship recruitment activities for participants in the AWS Educate program; and
+    * inference data, for example if we use a third party service provider to store information about your preferences.  
+        
+    
+    For more information about the personal information we may disclose for a business purpose, click [here](https://aws.amazon.com/privacy/#How_We_Share_Personal_Information) and [here](https://aws.amazon.com/privacy/#Internet_Advertising_and_Third_Parties).
+    
+    **Your Data Rights**. You may have certain data rights under the California Privacy Rights Act or Virginia Consumer Data Protection Act, including to request information about the collection of your personal information by us, to access your personal information or to correct or delete your personal information. If you wish to do any of these things and you are an AWS customer, please contact us [here](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=k2xgcbrSF22NYXIq_NYk47-95DzdIyEpseijzwDkUlY&code_challenge_method=SHA-256). If you are not an AWS customer, or you are the authorized agent of an AWS customer, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html) or at the address under [Contacts, Notices, and Revisions](https://aws.amazon.com/privacy/#Contacts.2C_Notices.2C_and_Revisions) above. Additionally, you may have the right to appeal the denial of any of these rights by submitting a form that will be provided to you if we deny a data request. Depending on your data choices, certain services may be limited or unavailable.
+    
+    To ensure the security of your AWS account, we will generally ask you to verify your request using the contact information you have already provided.  If you are an authorized agent making a request on behalf of a consumer pursuant to the California Privacy Rights Act, we may ask you to provide information verifying you have proper authority to make the request on behalf of the consumer or we may ask the consumer to verify their identity with us directly.  
+    
+    **No sale or sharing of personal information**. We do not sell or share any personal information of consumers, as those terms are defined under the California Privacy Rights Act.
+    
+    **California Privacy Rights Act Sensitive Personal Information Disclosure**. The categories of data that we collect and disclose for a business purpose include “sensitive personal information” as defined under the California Privacy Rights Act.  We do not use or disclose sensitive personal information for any purpose not expressly permitted by the California Privacy Rights Act.
+    
+    **California Privacy Rights Act Retention Disclosure**. We keep your personal information to enable your continued use of AWS Services, for as long as it is required in order to fulfill the relevant purposes described in this AWS Privacy Notice, as permitted or as may be required by law, or as otherwise communicated to you.  
+    
+    **California Privacy Rights Act Non-Discrimination Statement**. We will not discriminate against any consumer for exercising their rights under the California Privacy Rights Act.
+    
+    **Virginia Consumer Data Protection Act De-identified Data Disclosure**.  AWS may use de-identified data in some instances.  AWS either maintains such data without attempting to re-identify it or treats such data as personal data subject to applicable law.  
     
 
 #### Examples of Information Collected
@@ -501,9 +501,9 @@ Customers can access the information above through AWS Offerings, such as the [A
 Privacy Notice
 ==============
 
-#### Last Updated: January 10, 2023
+#### Last Updated: May 5, 2023
 
-To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20220901/).
+To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20230110/).
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -655,64 +655,6 @@ We provide additional information about our controllers and data protection offi
     
     **Transfers outside of Brazil**. When we transfer your personal information outside Brazil, we do so in accordance with the terms of this Privacy Notice and applicable data protection law. 
     
-* United States - California and Virginia
-    
-    These additional state-specific privacy disclosures are required by the California Consumer Privacy Act, as amended by the California Privacy Rights Act, and Virginia Consumer Data Protection Act and are effective as of December 30, 2022:
-    
-    **Categories of personal information collected**. The personal information that we may collect, or may have collected from consumers in the preceding twelve months, fall into the following categories established by the California Privacy Rights Act, depending on how you engage with the AWS Offerings:
-    
-    * Identifiers, such as your name, alias, address, phone numbers, or IP address, your AWS account log-in information, or a government-issued identifier (e.g., a state-issued ID number, which may be required to verify your identity when completing certain AWS certification courses);  
-        
-    * personal information as described in subdivision (e) of Section 1798.80 of the California Civil Code, such as a credit card number or other payment information;
-    * characteristics of protected classifications under California or US federal law, such as age, race, or gender, for example if we conduct user surveys or analysis;  
-        
-    * commercial information, such as purchase activity;
-    * internet or other electronic network activity information, including content interaction information, such as content downloads, streams, and playback details;
-    * biometric information, such as your voice or appearance, for example if you choose to participate in a demonstration of a speech or image recognition service;  
-        
-    * geolocation data, which may in some cases constitute precise geolocation information, such as the location of your device or computer, for example if you enable location services to enhance your experience through event applications we offer;
-    * audio, visual, electronic or other similar information, including when you communicate with us by phone or otherwise;
-    * professional or employment-related information, for example data you may provide about your business;
-    * inference data, such as information about your preferences; and
-    * education information, such as information about enrollment status, fields of study, or degrees, honors, and awards received.
-    
-    We collect this information from you, automatically through your interaction with the AWS Offerings, or from third parties. For more information about the personal information we collect, click [here](https://aws.amazon.com/privacy/#Personal_Information_We_Collect). We collect this information for the business and commercial purposes described in the “How We Use Personal Information” section above.  
-    
-    **Categories of personal information disclosed for a business purpose**. The personal information that we may have disclosed about consumers for a business purpose in the preceding twelve months fall into the following categories established by the California Privacy Rights Act, depending on how you engage with the AWS Offerings:
-    
-    * Identifiers, such as your name, address, or phone numbers, for example if we use a third party carrier to deliver AWS hardware, or government identifier, for example if we use a third-party service to verify your identity;
-    * personal information as described in subdivision (e) of Section 1798.80 of the California Civil Code, such as a credit card number or other payment information, for example if we use a third party payment processor;
-    * information that may reveal your age, gender, race, or other protected classifications under California or US federal law, for example if we conduct user surveys or analysis using a third party service provider;  
-        
-    * commercial information, such as the details of a product or service you purchased if a third party service provider is assisting to provide that product or service to you;
-    * Internet or other electronic network activity information, such as if we use a third party service provider to help us gather reports for analyzing the health of our devices and services;
-    * biometric information, for example if you choose to participate in a demonstration of certain AWS services facilitated by a third party service provider;  
-        
-    * geolocation data, which may constitute precise geolocation data, for example if we enable transportation services from a third party in connection with an AWS event;  
-        
-    * audio, visual, electronic or other similar information, for example if a third party service provider reviews recordings of customer support phone calls for quality assurance purposes;
-    * professional or employment-related information, for example if we provide information to a third party service provider for verification or registration as part of the AWS Offerings;  
-        
-    * education information, for example if we facilitate employment or internship recruitment activities for participants in the AWS Educate program; and
-    * inference data, for example if we use a third party service provider to store information about your preferences.  
-        
-    
-    For more information about the personal information we may disclose for a business purpose, click [here](https://aws.amazon.com/privacy/#How_We_Share_Personal_Information) and [here](https://aws.amazon.com/privacy/#Internet_Advertising_and_Third_Parties).
-    
-    **Your Data Rights**. You may have certain data rights under the California Privacy Rights Act or Virginia Consumer Data Protection Act, including to request information about the collection of your personal information by us, to access your personal information or to correct or delete your personal information. If you wish to do any of these things and you are an AWS customer, please contact us [here](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=k2xgcbrSF22NYXIq_NYk47-95DzdIyEpseijzwDkUlY&code_challenge_method=SHA-256). If you are not an AWS customer, or you are the authorized agent of an AWS customer, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html) or at the address under [Contacts, Notices, and Revisions](https://aws.amazon.com/privacy/#Contacts.2C_Notices.2C_and_Revisions) above. Additionally, you may have the right to appeal the denial of any of these rights by submitting a form that will be provided to you if we deny a data request. Depending on your data choices, certain services may be limited or unavailable.
-    
-    To ensure the security of your AWS account, we will generally ask you to verify your request using the contact information you have already provided.  If you are an authorized agent making a request on behalf of a consumer pursuant to the California Privacy Rights Act, we may ask you to provide information verifying you have proper authority to make the request on behalf of the consumer or we may ask the consumer to verify their identity with us directly.  
-    
-    **No sale or sharing of personal information**. We do not sell or share any personal information of consumers, as those terms are defined under the California Privacy Rights Act.
-    
-    **California Privacy Rights Act Sensitive Personal Information Disclosure**. The categories of data that we collect and disclose for a business purpose include “sensitive personal information” as defined under the California Privacy Rights Act.  We do not use or disclose sensitive personal information for any purpose not expressly permitted by the California Privacy Rights Act.
-    
-    **California Privacy Rights Act Retention Disclosure**. We keep your personal information to enable your continued use of AWS Services, for as long as it is required in order to fulfill the relevant purposes described in this AWS Privacy Notice, as permitted or as may be required by law, or as otherwise communicated to you.  
-    
-    **California Privacy Rights Act Non-Discrimination Statement**. We will not discriminate against any consumer for exercising their rights under the California Privacy Rights Act.
-    
-    **Virginia Consumer Data Protection Act De-identified Data Disclosure**.  AWS may use de-identified data in some instances.  AWS either maintains such data without attempting to re-identify it or treats such data as personal data subject to applicable law.  
-    
 * Canada
     
     **Your Rights**. Subject to applicable law, you have the right to:
@@ -722,7 +664,7 @@ We provide additional information about our controllers and data protection offi
     * request deletion of personal information that is no longer necessary for the purposes underlying the processing, processed based on withdrawn consent, or processed in non-compliance with applicable legal requirements; and
     * lodge a complaint with us regarding our practices related to your personal information.
     
-    If you wish to do any of these things and you are an AWS customer, please [contact us](https://console.aws.amazon.com/support/home). If you are not an AWS customer, please contact us at the address stated under [Contacts, Notices, and Revisions](https://aws.amazon.com/privacy/#Contacts.2C_Notices.2C_and_Revisions) above.
+    If you wish to do any of these things and you are an AWS customer, please [contact us](https://console.aws.amazon.com/support/home). If you are not an AWS customer, please contact us at the address stated under [Contacts, Notices, and Revisions](https://aws.amazon.com/privacy/#Contacts.2C_Notices.2C_and_Revisions) above. Further, the Amazon Web Services Canada, Inc. Privacy Officer can be contacted at aws-canada-privacy@amazon.com or by mail at the address noted above.
     
 * Costa Rica
     
@@ -921,6 +863,64 @@ We provide additional information about our controllers and data protection offi
     Email: aws-korea-privacy@amazon.com  
     
     Korean translation of this Privacy Notice can be found [here](https://aws.amazon.com/ko/privacy/).  
+    
+* United States - California and Virginia
+    
+    These additional state-specific privacy disclosures are required by the California Consumer Privacy Act, as amended by the California Privacy Rights Act, and Virginia Consumer Data Protection Act and are effective as of December 30, 2022:
+    
+    **Categories of personal information collected**. The personal information that we may collect, or may have collected from consumers in the preceding twelve months, fall into the following categories established by the California Privacy Rights Act, depending on how you engage with the AWS Offerings:
+    
+    * Identifiers, such as your name, alias, address, phone numbers, or IP address, your AWS account log-in information, or a government-issued identifier (e.g., a state-issued ID number, which may be required to verify your identity when completing certain AWS certification courses);  
+        
+    * personal information as described in subdivision (e) of Section 1798.80 of the California Civil Code, such as a credit card number or other payment information;
+    * characteristics of protected classifications under California or US federal law, such as age, race, or gender, for example if we conduct user surveys or analysis;  
+        
+    * commercial information, such as purchase activity;
+    * internet or other electronic network activity information, including content interaction information, such as content downloads, streams, and playback details;
+    * biometric information, such as your voice or appearance, for example if you choose to participate in a demonstration of a speech or image recognition service;  
+        
+    * geolocation data, which may in some cases constitute precise geolocation information, such as the location of your device or computer, for example if you enable location services to enhance your experience through event applications we offer;
+    * audio, visual, electronic or other similar information, including when you communicate with us by phone or otherwise;
+    * professional or employment-related information, for example data you may provide about your business;
+    * inference data, such as information about your preferences; and
+    * education information, such as information about enrollment status, fields of study, or degrees, honors, and awards received.
+    
+    We collect this information from you, automatically through your interaction with the AWS Offerings, or from third parties. For more information about the personal information we collect, click [here](https://aws.amazon.com/privacy/#Personal_Information_We_Collect). We collect this information for the business and commercial purposes described in the “How We Use Personal Information” section above.  
+    
+    **Categories of personal information disclosed for a business purpose**. The personal information that we may have disclosed about consumers for a business purpose in the preceding twelve months fall into the following categories established by the California Privacy Rights Act, depending on how you engage with the AWS Offerings:
+    
+    * Identifiers, such as your name, address, or phone numbers, for example if we use a third party carrier to deliver AWS hardware, or government identifier, for example if we use a third-party service to verify your identity;
+    * personal information as described in subdivision (e) of Section 1798.80 of the California Civil Code, such as a credit card number or other payment information, for example if we use a third party payment processor;
+    * information that may reveal your age, gender, race, or other protected classifications under California or US federal law, for example if we conduct user surveys or analysis using a third party service provider;  
+        
+    * commercial information, such as the details of a product or service you purchased if a third party service provider is assisting to provide that product or service to you;
+    * Internet or other electronic network activity information, such as if we use a third party service provider to help us gather reports for analyzing the health of our devices and services;
+    * biometric information, for example if you choose to participate in a demonstration of certain AWS services facilitated by a third party service provider;  
+        
+    * geolocation data, which may constitute precise geolocation data, for example if we enable transportation services from a third party in connection with an AWS event;  
+        
+    * audio, visual, electronic or other similar information, for example if a third party service provider reviews recordings of customer support phone calls for quality assurance purposes;
+    * professional or employment-related information, for example if we provide information to a third party service provider for verification or registration as part of the AWS Offerings;  
+        
+    * education information, for example if we facilitate employment or internship recruitment activities for participants in the AWS Educate program; and
+    * inference data, for example if we use a third party service provider to store information about your preferences.  
+        
+    
+    For more information about the personal information we may disclose for a business purpose, click [here](https://aws.amazon.com/privacy/#How_We_Share_Personal_Information) and [here](https://aws.amazon.com/privacy/#Internet_Advertising_and_Third_Parties).
+    
+    **Your Data Rights**. You may have certain data rights under the California Privacy Rights Act or Virginia Consumer Data Protection Act, including to request information about the collection of your personal information by us, to access your personal information or to correct or delete your personal information. If you wish to do any of these things and you are an AWS customer, please contact us [here](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=k2xgcbrSF22NYXIq_NYk47-95DzdIyEpseijzwDkUlY&code_challenge_method=SHA-256). If you are not an AWS customer, or you are the authorized agent of an AWS customer, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html) or at the address under [Contacts, Notices, and Revisions](https://aws.amazon.com/privacy/#Contacts.2C_Notices.2C_and_Revisions) above. Additionally, you may have the right to appeal the denial of any of these rights by submitting a form that will be provided to you if we deny a data request. Depending on your data choices, certain services may be limited or unavailable.
+    
+    To ensure the security of your AWS account, we will generally ask you to verify your request using the contact information you have already provided.  If you are an authorized agent making a request on behalf of a consumer pursuant to the California Privacy Rights Act, we may ask you to provide information verifying you have proper authority to make the request on behalf of the consumer or we may ask the consumer to verify their identity with us directly.  
+    
+    **No sale or sharing of personal information**. We do not sell or share any personal information of consumers, as those terms are defined under the California Privacy Rights Act.
+    
+    **California Privacy Rights Act Sensitive Personal Information Disclosure**. The categories of data that we collect and disclose for a business purpose include “sensitive personal information” as defined under the California Privacy Rights Act.  We do not use or disclose sensitive personal information for any purpose not expressly permitted by the California Privacy Rights Act.
+    
+    **California Privacy Rights Act Retention Disclosure**. We keep your personal information to enable your continued use of AWS Services, for as long as it is required in order to fulfill the relevant purposes described in this AWS Privacy Notice, as permitted or as may be required by law, or as otherwise communicated to you.  
+    
+    **California Privacy Rights Act Non-Discrimination Statement**. We will not discriminate against any consumer for exercising their rights under the California Privacy Rights Act.
+    
+    **Virginia Consumer Data Protection Act De-identified Data Disclosure**.  AWS may use de-identified data in some instances.  AWS either maintains such data without attempting to re-identify it or treats such data as personal data subject to applicable law.  
     
 
 #### Examples of Information Collected
