@@ -52,7 +52,7 @@ Periscope retains different types of information for different time periods. Bro
 ### Data Controller  
 
   
-For people who live in the United States or any other country outside of the European Union or the European Economic Area, the data controller responsible for personal data is Twitter, Inc. based in San Francisco, California. For people who live in the European Union or the European Economic Area, the data controller is Twitter International Unlimited Company based in Dublin, Ireland.
+For people who live in the United States or any other country outside of the European Union or the European Economic Area, the data controller responsible for personal data is X Corp. based in San Francisco, California. For people who live in the European Union or the European Economic Area, the data controller is Twitter International Unlimited Company based in Dublin, Ireland.
 
 ### Preservation requests
 
@@ -76,7 +76,7 @@ Law enforcement and government preservation requests for user information may be
 ### Requests for Twitter account information  
 
   
-Requests for user account information from law enforcement should be directed to Twitter, Inc. in San Francisco, California or Twitter International Unlimited Company in Dublin, Ireland. Twitter responds to valid legal process issued in compliance with applicable law.
+Requests for user account information from law enforcement should be directed to X Corp. in San Francisco, California or Twitter International Unlimited Company in Dublin, Ireland. Twitter responds to valid legal process issued in compliance with applicable law.
 
 ### **Private information requires a subpoena or court order**  
 
@@ -84,7 +84,7 @@ Non-public information about Twitter users will not be released to law enforceme
 
 ### **Contents of communications requires a search warrant**  
 
-Requests for the contents of communications (e.g., Tweets, Direct Messages, photos) require a valid search warrant or equivalent from an agency with proper jurisdiction over Twitter.
+Requests for the contents of communications (e.g., Tweets or photos) require a valid search warrant or equivalent from an agency with proper jurisdiction over Twitter.
 
 ### **Will Twitter notify users of requests for account information?**  
 
@@ -200,7 +200,7 @@ Receipt of correspondence by this means is for convenience only and does not wai
   
 Our address details are:
 
-**Twitter, Inc.  
+**X Corp.  
 **c/o Trust & Safety - Legal Policy  
 1355 Market Street, Suite 900  
 San Francisco, CA 94103
