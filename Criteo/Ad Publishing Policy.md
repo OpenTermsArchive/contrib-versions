@@ -171,9 +171,9 @@ Promotion of content, product or services that targets one or several of the fol
 * Financial status
 * Age (age range is acceptable)
 
-Click [here](https://www.criteo.com/privacy/) to view the current version of our Privacy Policy.
-
 To learn more about Criteo advertisers’ obligations related to the information of users and the collection of consent, please click [here](https://www.criteo.com/criteo-privacy-guidelines-for-clients-and-publisher-partners/).
+
+Click [here](https://www.criteo.com/privacy/) to view the current version of our Privacy Policy.
 
 * * *
 
