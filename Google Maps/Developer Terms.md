@@ -1780,6 +1780,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Biomes and Ecoregions, [https://ecoregions.appspot.com/,](https://ecoregions.appspot.com/) changes were made.
             
+        * Low-cost sensors data from PurpleAir, [https://aqs.epa.gov/aqsweb/airdata/download\_files.html#Meta.](https://aqs.epa.gov/aqsweb/airdata/download_files.html#Meta)
+            
     60. **Chile**
         * Biblioteca del Congreso Nacional de Chile ([https://creativecommons.org/licenses/by/3.0/cl/](https://creativecommons.org/licenses/by/3.0/cl/))
             
