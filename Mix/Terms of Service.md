@@ -111,7 +111,7 @@ Attn: Copyright Agent
 San Francisco, CA 94107  
 E-mail: [ip@mix.com](mailto:ip@mix.com)
 
-We reserve the right to remove Content alleged to be infringing in our sole discretion and without notice. It is our policy to terminate the account of any Mix User who repeatedly is accused of infringing copyrights.
+We reserve the right to remove Content alleged to be infringing in our sole discretion and without notice. It is our policy to terminate the account of any Mix User who repeatedly infringes copyrights.
 
 * * *
 
