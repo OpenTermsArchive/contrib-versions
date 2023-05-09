@@ -2,7 +2,7 @@
 
 **The french version of this document is available** [**here**](https://support.lydia-app.com/l/fr/article/6ogzqxbjos-politique-de-protection-des-donn-es-caract-re-personnel-lydia) **and prevails over the others.**
 
-Lydia Solutions ("Lydia") is a simplified joint-stock company registered in Paris under RCS number 534 479 589 with capital of € 1,785,979, established at 14, avenue d’Opéra, 75001 Paris. Lydia is registered with the Autorité de contrôle prudentiel et de résolution - ACPR under n°62677 REGAFI as an payment services provider agent.
+Lydia Solutions ("Lydia") is a simplified joint-stock company registered in Paris under RCS number 534 479 589 with capital of € 1,785,979, established at 14, avenue d’Opéra, 75001 Paris.
 
 Conscious of the importance of respecting the privacy and fundamental rights and freedoms of its customers, Lydia reaffirms its commitment to be a trusted actor in the processing of the personal data of its Individual Customers, by setting out its personal data protection policy below.
 
@@ -28,7 +28,6 @@ Lydia works with certified financial partners. Lydia and its Partners are jointl
 
 Lydia and its Partners jointly determine the treatment's purpose and means. The natural persons personal data are transferred to Lydia’s Partners in the only aim to properly perform the contract between the natural person and Lydia.
 
-* OKALI (formely SFPMEI) is an electronic money establishment in charge of the management of payment accounts, the execution of payment operations as well as the issuance of L-card (Visa). OKALI privacy policy is accessible [here](https://www.okali.eu/ppd#:~:text=Cette%20Politique%20de%20Protection%20des,(le%20%C2%AB%20Site%20%C2%BB).) (in French).
 * Budget Insight allows Lydia to supply bank accounts aggregation and information services. Budget insight Privacy Policy is accessible [here](https://www.powens.com/privacy-policy/). 
 * Tink AB allows Lydia to supply bank accounts aggregation and information services. Tink AB Privacy Policy is accessible [here](https://legal.tink.com/privacy-security/documentation?_gl=1*ff81wr*_ga*MTM0NzE3MTE2Mi4xNjczMDIwODI3*_ga_HYT25VB5GH*MTY3MzAyMDgyNi4xLjEuMTY3MzAyMDkzOC4wLjAuMA..). 
 * Treezor notably issues Lydia IBAN. Treezor Privacy Policy is accessible [here](https://www.treezor.com/privacy-policy/).
@@ -142,7 +141,7 @@ Lydia may use Clients’ personal data to:
 
 6.1 To Lydia's banking partners, suppliers and operational contractors 
 
-All of Clients’ personal data held by Lydia are protected and kept confidential in accordance with article L.511-33 of the monetary and financial code. Lydia Solutions may share Clients’ personal data with its Principals (OKALI, Budget Insight Treezor and Tink) and with its suppliers and operational service providers with whom Lydia is contractually tied, in order to provide certain services and process transactions, under condition that these third parties guarantee a sufficient level of protection of the data shared in compliance with article 561-7 II b of the monetary and financial code and in respect with the GDPR. These partners and service providers only have access to the data that is strictly necessary for the execution of the contracts established with Lydia Solutions.
+All of Clients’ personal data held by Lydia are protected and kept confidential in accordance with article L.511-33 of the monetary and financial code. Lydia Solutions may share Clients’ personal data with its Principals (Budget Insight Treezor and Tink) and with its suppliers and operational service providers with whom Lydia is contractually tied, in order to provide certain services and process transactions, under condition that these third parties guarantee a sufficient level of protection of the data shared in compliance with article 561-7 II b of the monetary and financial code and in respect with the GDPR. These partners and service providers only have access to the data that is strictly necessary for the execution of the contracts established with Lydia Solutions.
 
 Lydia may also share its Clients’ personal data to third party service providers or partners, under condition that these data are anonymised beforehand. Anonymising data means removing the following elements: phone number, address, and any other information that could identify the Client or allow him/her to be contacted directly.
 
