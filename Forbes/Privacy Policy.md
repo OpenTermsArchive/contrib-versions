@@ -18,7 +18,7 @@
     
     [**How We Collect Your Personal Information**](#how-we-collect-your-information)
     
-    [](#how-we-use-your-information)**How We Use Your Personal Information**
+    [**How We Use Your Personal Information**](#how-we-use-your-information)
     
     [**How We Disclose Your Personal Information**](#how-we-disclose-your-information)
     
