@@ -436,13 +436,15 @@ You can contact our Data Protection Officer (DPO) at privacy@wire.com. You can a
 
 ### 2\. Conversation content
 
-All conversation content is encrypted with strong encryption on the sender’s device and is only decrypted on the recipient’s device (also known as end-to-end encryption). Wire doesn’t hold the decryption keys, and our software contains no backdoor. Your conversations are yours — Wire has no access to them. You may delete the content of the conversations on your device specifically and generally at any time.
+All conversation content is encrypted with strong encryption on the sender’s device and is only decrypted on the recipient’s device (also known as end-to-end encryption). This includes the files, images, audio, video, and location you decide to share in conversations or calls, which may also be personal and sensitive user data. Wire doesn’t hold the decryption keys, and our software contains no backdoor. Your conversations are yours — Wire‘s server has no decrypted access to them. Your end-to-end encrypted conversation content is temporarily stored in our server.
+
+You may delete the content of the conversations on your device specifically and generally at any time.
 
 In addition, Wire also uses transport encryption to encrypt metadata.
 
 Wire only temporarily stores encrypted messages on its servers and automatically deletes them after they are sent to the recipient. This is done to enable Wire to send messages to users who are not currently online as soon as they are back online.
 
-The legal basis for the transmission and storage of conversations is Art. 6 Para. 1 lit. b) GDPR (fulfilment of contract).
+The legal basis for the transmission and storage of conversations is Art. 6 Para. 1 lit. b) GDPR (fulfillment of contract).
 
 ### 3\. Logs files
 
@@ -452,7 +454,7 @@ Log files are kept for a maximum of 72 hours, and only to facilitate troubleshoo
 
 ### 4\. Profile Information that you provide
 
-When you create an account with Wire, we ask you to provide a name and a mobile phone number or email address (“Profile Information”). The Profile Information you provide will be used for the purpose of providing Wire services and may be displayed to other Wire users when they search for you or connect to you through Wire services. If you have registered with a phone number, this information will not be displayed to other Wire users. If you registered with an email address, your email address may be visible to other users when using Wire Pro, depending on your preferences. We store your profile information only for the duration of your account usage. If you delete your account, we will delete your profile information immediately. You can change or delete your profile data at any time. The legal basis for the processing of your profile data is Art. 6 § 1 b) GDPR (fulfilment of contract).
+When you create an account with Wire, we ask you to provide a name and a mobile phone number or email address, and if you want, you can also upload a profile picture, which may also be personal and sensitive user data (“Profile Information”). The Profile Information you provide will be used for the purpose of providing Wire services and may be displayed to other Wire users when they search for you or connect to you through Wire services. If you have registered with a phone number, this information will not be displayed to other Wire users. If you registered with an email address, your email address may be visible to other users when using Wire Pro, depending on your preferences. We store your profile information only for the duration of your account usage in our servers. If you delete your account, we will delete your profile information immediately. You can change or delete your profile data at any time. The legal basis for the processing of your profile data is Art. 6 § 1 b) GDPR (fulfillment of contract).
 
 ### 5\. Data relevant to payment
 
