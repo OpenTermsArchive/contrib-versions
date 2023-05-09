@@ -12,41 +12,41 @@
     
     **Quick Links**
     
-    **What Our Privacy Statement Covers**
+    [**What Our Privacy Statement Covers**](#what-our-privacy-covers)
     
-    **Personal Information We Collect from You**
+    [**Personal Information We Collect from You**](#personal-information-we-collect)
     
-    **How We Collect Your Personal Information**
+    [**How We Collect Your Personal Information**](#how-we-collect-your-information)
     
-    **How We Use Your Personal Information**
+    [](#how-we-use-your-information)**How We Use Your Personal Information**
     
-    **How We Disclose Your Personal Information**
+    [**How We Disclose Your Personal Information**](#how-we-disclose-your-information)
     
-    **How We Protect Your Personal Information**
+    [**How We Protect Your Personal Information**](#data-security)
     
-    **Data Retention**
+    [**Data Retention**](#data-retention)
     
-    **Interest-Based Advertising**
+    [**Interest-Based Advertising**](#interest-based-avertising)
     
-    **Your Choices**
+    [**Your Choices**](#your-choices)
     
-    **Cross-Border Data Transfers**
+    [**Cross-Border Data Transfers**](#cross-border-data-transfers)
     
-    **Law Enforcement Requests**
+    [**Law Enforcement Requests**](#law-enforcement-requests)
     
-    **Children's Privacy**
+    [**Children's Privacy**](#children-privacy)
     
-    **Changes to This Policy**
+    [**Changes to This Policy**](#changes-to-this-policy)
     
-    **Contacting Us**
+    [**Contacting Us**](#contacting-us)
     
-    **California Privacy Rights**
+    [**California Privacy Rights**](#california-privacy-rights)
     
-    **Virginia Privacy Rights**
+    [**Virginia Privacy Rights**](#virginia-privacy-rights)
     
-    **European Privacy Rights**
+    [**European Privacy Rights**](#european-privacy-rights)
     
-    **People's Republic of China Privacy Rights**
+    [**People's Republic of China Privacy Rights**](#china-privacy-rights)
     
     #### WHAT OUR PRIVACY STATEMENT COVERS
     
