@@ -116,13 +116,13 @@ In addition to the personal data collected above, we may also collect personal d
 
 * **Affiliates**:  We may receive information about you collected by other Zillow Group companies, businesses, brands, and affiliated entities in our family of companies, so that information you provide to one brand may be used by us to better provide you services and communicate with you.
 * **Business Partners**: Our business partners, such as agent partners, lending partners, builders, property managers, and other real estate professionals collect personal data in connection with their services and often share some or all of this information with us. For example, we receive information about transactions you complete with partners with whom we’ve connected you through our services.
-* **Business Representatives**: We collect professional personal data about representatives of third-party businesses, including representatives of our customers and business partners, in connection with our services and the operation of our business, which may include: 
+* **Business Representatives**: We collect professional personal data about representatives of third-party businesses, including representatives of our customers and business partners, in connection with our services and the operation of our business, which may include:
     * _Contact Information_: Including full name, email address, mailing address, and telephone number.
     * _Professional Information_: Including job title, job function, company name and characteristics, professional background, and nature of the relationship with us. 
     * _Tax and Payment Information_: Including a personal tax identification number, bank account information, and payment information where you are a representative of a sole proprietor or similar legal structure that uses personal tax and account information in lieu of separate business information.
     * _Inquiry Information_: Including the contents of emails, texts, and other communications and, where permitted by law, recordings of calls with us. 
     * _Feedback Information_, including information provided in response to surveys we may conduct with customers or business partners, or unsolicited feedback received regarding our services and business. 
-* **Office and Event Visitors**: We collect personal data about visitors to our physical offices and events, which may include: 
+* **Office and Event Visitors**: We collect personal data about visitors to our physical offices and events, which may include:
     * _Contact Information_: Including full name, email address, mailing address, and telephone number.
     * _Professional Information_: Including job title, job function, company name, professional background, and nature of the relationship with us. 
     * _Visit Information_: Including the purpose of the visit and any restrictions or preferences while on premise (such as dietary restrictions). 
@@ -159,20 +159,14 @@ We disclose your personal data in the following ways:
 * **Service Providers**: We share information with third party vendors and service providers that perform services for or on our behalf, which may include identifying and serving targeted advertisements, providing mailing or email services, tax and accounting services, customer service, product fulfillment, payments processing, photo sharing, data processing and enhancement services, fraud prevention, web hosting, analytic services, or other online functionality, subject to appropriate contractual terms protecting the confidentiality and use of such data. We never allow service providers to use your personal data for their own purposes.
 * **Business Transaction or Reorganization**: We may take part in or be involved with a corporate business transaction, such as a merger, acquisition, joint venture, or financing or sale of company assets. We may disclose your personal data to a third party during negotiation of, in connection with, or as an asset in such a corporate business transaction. Your personal data may also be disclosed in the event of insolvency, bankruptcy, or receivership.
 * **Legal Obligations and Rights**: We may disclose your personal data to third parties, such as legal advisors and law enforcement:
-    
     * In connection with the establishment, exercise, or defense of legal claims;
-    
     * To comply with laws and regulations or to respond to lawful requests and legal process;
-    
     * To protect our rights and property and the rights and property of our agents, customers, and others, including to enforce our agreements, policies, and terms of use;
-    
     * To detect, suppress, or prevent fraud;
-    
     * To reduce credit risk and collect debts owed to us;
-    
     * To protect the health and safety of us, our customers, or any person; or
-    
     * As otherwise required by applicable law.
+    * For Zillow’s policy on government and civil requests for information, please see [Government and Civil Information Requests](https://www.zillowgroup.com/government-and-civil-information-requests/).
 * **Otherwise with Consent or At Your Direction**: We may disclose your personal data to certain other third parties or publicly with your consent or direction. If you post a comment or review our website or a comment on our social media sites, the information you provide may be displayed publicly online for others to view.
 
 **Choices About Your Data**
@@ -290,7 +284,7 @@ In certain circumstances, you are permitted by law to use an authorized agent to
 
 **Appealing Privacy Rights Decisions**
 
-Depending on your state of residence, you may be able to appeal a decision we have made in connection with your privacy rights request. All appeal requests should be submitted via email to [zgprivacy@zillowgroup.com](mailto:zgprivacy@zillowgroup.com). 
+Depending on your state of residence, you may be able to appeal a decision we have made in connection with your privacy rights request. All appeal requests should be submitted via email to [](mailto:zgprivacy@zillowgroup.com)[privacy@zillow.com](mailto:privacy@zillow.com). 
 
 **Minors**
 
