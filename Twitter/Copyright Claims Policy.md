@@ -11,7 +11,7 @@ If you are concerned about the use of your brand or entity’s name, please revi
 
 #### Am I a copyright holder? How do I know?
 
-If you are unsure whether you hold rights to a particular work, please consult an attorney or another adviser as Twitter cannot provide legal advice. There are plenty of resources to learn more about copyright law including [http://copyright.gov](http://copyright.gov/), [https://lumendatabase.org/](https://lumendatabase.org/), and [http://www.eff.org/issues/bloggers/legal/liability/IP](http://www.eff.org/issues/bloggers/legal/liability/IP), to name a few.
+If you are unsure whether you hold rights to a particular work, please consult an attorney or another adviser as Twitter cannot provide legal advice. There are plenty of resources to learn more about copyright law including [http://copyright.gov](http://copyright.gov/) and [http://www.eff.org/issues/bloggers/legal/liability/IP](http://www.eff.org/issues/bloggers/legal/liability/IP), just to name a few.
 
 #### What to consider before submitting a copyright complaint
 
@@ -51,7 +51,7 @@ Please be aware that under 17 U.S.C. § 512(f), you may be liable for any damage
 
 We process copyright complaints in the order in which they are received. Once you've submitted your ticket, we will email you a ticket confirmation. If you do not receive a ticket confirmation that means we did not receive your complaint and you should re-submit your complaint. However, please note, submitting duplicate copyright complaints will result in a delay in processing.
 
-If we decide to remove or disable access to the material, we will notify the affected user(s) and provide them with a full copy of the reporter’s complaint (including the provided contact information) along with instructions on how to file a counter-notice. We will also forward a redacted copy of the complaint to [Lumen](https://lumendatabase.org/twitter), with your personal information removed.
+If we decide to remove or disable access to the material, we will notify the affected user(s) and provide them with a full copy of the reporter’s complaint (including the provided contact information) along with instructions on how to file a counter-notice.
 
 #### What information gets forwarded to the reported user(s)?
 
@@ -65,7 +65,7 @@ Twitter’s response to copyright complaints may include the removal or restrict
 
 If you’ve not yet received a copy of the copyright complaint regarding the content removed from your account, please respond to the support ticket we sent you.
 
-In an effort to be as transparent as possible regarding the removal or restriction of access to user-posted content, we clearly mark withheld Tweets and media to indicate to viewers when content has been withheld (examples below). We also send a redacted copy of each copyright complaint and counter-notice that we process to Lumen, where they are posted to a public-facing website (with your personal information removed).
+In an effort to be as transparent as possible regarding the removal or restriction of access to user-posted content, we clearly mark withheld Tweets and media to indicate to viewers when content has been withheld (examples below).
 
   ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 530 86%22%3E%3C/svg%3E)
 
@@ -91,7 +91,7 @@ The DMCA complaint you received includes the contact information of the reporter
 
 #### When should I file a counter-notice?
 
-A counter-notice is a request for Twitter to reinstate the removed material, and is the start of a legal process that has legal consequences.  For example, submitting a counter notice indicates that you consent to the jurisdiction of a U.S. Federal court and that you consent to the disclosure of your personal information to the reporter and Lumen website.
+A counter-notice is a request for Twitter to reinstate the removed material, and is the start of a legal process that has legal consequences.  For example, submitting a counter notice indicates that you consent to the jurisdiction of a U.S. Federal court and that you consent to the disclosure of your personal information to the reporter.
 
 With these considerations in mind, you may file a counter-notice if you believe that this material was misidentified, or you have a good faith belief that the material should not have been removed.  If you’re unsure whether or not you should file a counter-notice, you may want to consult with an attorney.
 
