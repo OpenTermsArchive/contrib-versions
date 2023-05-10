@@ -116,6 +116,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Vienna Wiener Linien Agency - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
+        * BEV - Bundesamt für Eich- und Vermessungswesen [https://data.bev.gv.at/geonetwork/srv/eng/catalog.search#/home](https://data.bev.gv.at/geonetwork/srv/eng/catalog.search#/home)
+            
     4. **Belgium**
         * Institut Geographique National - IGN Belgium ([https://creativecommons.org/licenses/by/1.0/](https://creativecommons.org/licenses/by/1.0/))
             
@@ -136,6 +138,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Open Data Brussels ([https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence\_Ouverte.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence_Ouverte.pdf))
             
         * IRCEL - CELINE, [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/) changes were made.
+            
+        * Vlaanderen - Datavindplaats [https://www.vlaanderen.be/datavindplaats](https://www.vlaanderen.be/datavindplaats)
             
     5. **Brazil**
         * FUNAI (Fundação Nacional do Índio)
