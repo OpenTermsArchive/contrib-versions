@@ -1,7 +1,7 @@
 TP-LINK PRIVACY POLICY
 ----------------------
 
-Last Updated: Nov, 24 2022
+Last Updated: May, 4 2022
 
 TP-Link Corporation Limited (“TP-Link,” “we” “us,” or “our”), takes your privacy seriously. We want you to understand what information we collect, and how we use and share it. That’s why we encourage reading our Privacy Policy. This helps your use TP-Link Products and Services in a way that’s right for you. Some Products and Services of TP-Link can be used together or in ways that integrate with products and services from third parties. Using third-party products and services may allow the third party to collect or share data about you. We do not control these third-party products and services, and we encourage you to read the privacy notice of every third-party product and service you use.
 
@@ -13,7 +13,7 @@ Supplemental data protection information for specific countries and/or regions w
 
 (1) TP-Link branded hardware, firmware, and software products (“Products”);
 
-(2) website(s) that may be accessed at https://www.tp-link.com, https://www.kasasmart.com, and https://www.vigi.com (“Sites”);
+(2) website(s) that may be accessed at https://www.tp-link.com, https://www.kasasmart.com, https://www.tapo.com and https://www.vigi.com (“Sites”);
 
 (3) services, including on and through the Products, and technical support and services accessible through the Site(s) (“Web Apps”);
 
@@ -75,6 +75,8 @@ We use your personal information to operate, provide, develop, and improve the p
 * Fraud Prevention and Credit Risks. We use personal information to prevent and detect fraud and abuse in order to protect the security of our customers, TP-Link, and others.
 
 We will only process your personal data for the purposes of providing Products and Services in compliance with applicable laws, as may be amended from time to time.
+
+We will not use your information for automated decision-making. 
 
 ### **3\. WHAT ABOUT COOKIES AND OTHER IDENTIFIERS?**
 
@@ -141,18 +143,13 @@ These countries may have different privacy standards that differ from where you 
 
 The Services may include links to third-party websites whose privacy practices may differ from ours. Your usage of any such websites is governed by the privacy policies of those websites and not this Privacy Policy. You should carefully review the privacy policy of any website you visit. We will consider your decision to use those third-party products and services with our Products and Services to be a representation to us that you have consented to the third parties' terms and practices.
 
-### **8\.** **YOUR CHOICES**
+### **8\.** **YOUR RIGHTS**
 
-We offer you a variety of tools to view, manage, download, and delete your information below. You can also manage your information by visiting the settings of the Products you use. You may also have other privacy rights under applicable laws. To exercise your rights, visit your setting.. For example, you can:
+To the extent required by applicable law, you may (i) have the right to access certain personal data we maintain about you, (ii) request that we update or correct inaccuracies in that data, (iii) object or restrict to our use of your personal data, and (iv) ask us to delete your personal data from our database. To exercise these rights, please send us an email at [privacy@tp-link.com](mailto:privacy@tp-link.com) to give your feedback online. Your written request may be required for security. We will verify your personal identity as required by local laws. We may decline the request if we have reasonable grounds to believe that the request is a fraudulent, unfeasible, may jeopardize the privacy of others, or would violate any law or legal requirement or negatively impact the information's accuracy. 
 
-* Update your account information and settings at any time by accessing your Mobile Apps, Subscription Services, or Web Apps.
-* Control how and when you want to receive notifications from us in the Mobile Apps.
-* Opt-out of our email service by clicking the “unsubscribe” link at the bottom of our emails.
-* Not use features and Services that require you to provide your information and data, such as our community or video storage.
-* Request data deletion at [https://account-delete.tplinkcloud.com/](https://account-delete.tplinkcloud.com/ "https://account-delete.tplinkcloud.com/").
-* You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies.
+If allowed by applicable laws, you have the right to withdraw your consent at any time when we process your personal data based on your consent. However, withdrawal does not affect the legitimacy and effectiveness of how we process your personal data based on your consent before the withdrawal is made; nor does it affect any data processing based on another justification other than your consent.
 
-You may also send us an email at [privacy@tp-link.com](mailto:privacy@tp-link.com) to request access to, correct, or delete personal data that you have provided to us. However, with respect to the administrative emails for your registered account (e.g., emails about your transactions, policy changes, forgotten password, and confirmation emails), we cannot delete them except by also deleting your user account. We may not accommodate a request to change or delete information if we believe the change or deletion would violate any law or legal requirement or negatively impact the information's accuracy.
+If you think that the way we process your personal information does not comply with applicable data protection laws, you can contact the relevant competent data protection authority. You can obtain the information for contacting EU data protection authorities at [http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index\_en.htm](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm). 
 
 ### **9\.** **CHILDREN’S PRIVACY**
 
