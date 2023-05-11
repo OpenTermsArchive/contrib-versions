@@ -203,7 +203,7 @@ Accounts with the following activities will only be validated under certain cond
 
 Except in cases of force majeure, Brevo guarantees to the Users the proper performance of its service rendered in compliance with these General Conditions of Use.
 
-Any potential compensation due from Brevo, to the User or to a third party, due to the liability of Brevo, its subsidiaries or its partners, in respect of the performance of these conditions, shall not exceed the price paid by the User in return for the Service(s) giving rise to the said liability.
+Any potential compensation due from Brevo, to the User or to a third party, due to the liability of Brevo, its subsidiaries or its partners, in respect of the performance of these conditions, shall not exceed the price paid by the User for the Services giving rise to the liability in the six (6) months preceding the first incident out of which the liability arose.
 
 In no case shall Brevo guarantee to the User the economic, image or information returns that the latter may expect from sending emails or SMSs in the context of these conditions.
 
