@@ -442,7 +442,7 @@ Some contents representing or evoking one of the situations listed above can beÂ
 
 Any User who violates the rules set out above is subject to the consequences set out in Section III.
 
-For more information on this type of content, you can read [the dedicated article](https://corpostatic.dailymotion.com/corporate-cms-release-assets-prod/7c8b304/wp/wp-admin/post.php?post=30018&action=edit) on the Dailymotion help center.
+For more information on this type of content, you can read [the dedicated article](https://corpostatic.dailymotion.com/corporate-cms-release-assets-prod/46b03a8/wp/wp-admin/post.php?post=30018&action=edit) on the Dailymotion help center.
 
 ##### **J. INFRINGING COPYRIGHT CONTENTS**
 
