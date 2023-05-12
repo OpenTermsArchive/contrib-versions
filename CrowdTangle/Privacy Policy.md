@@ -157,4 +157,4 @@ If you have any questions about this Data Policy or our related practices, pleas
 
   
 
-Our Data Protection European Representative is FB Representative Services Designated Activity Company. You can contact them at 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland.
+Our Data Protection European Representative is FB Representative Services Designated Activity Company. You can contact them at Merrion Road, Dublin 4, D04 X2K5, Ireland.
