@@ -53,7 +53,7 @@ If you have given us your consent for the purpose of receiving our newsletter wi
 
 Wire stores additional technical data (such as the type of device through which you authorized the Wire application) to be able to route data between user devices. The Wire service is designed to keep additional technical data to the minimum required to operate the service.
 
-More information about additional data can be found in the Privacy Whitepaper and the Security Whitepaper.
+More information about additional data can be found in the [Privacy Whitepaper](https://wire-docs.wire.com/download/Wire+Privacy+Whitepaper.pdf) and the [Security Whitepaper](https://wire-docs.wire.com/download/Wire+Security+Whitepaper.pdf).
 
 ### 9\. Address book data
 
