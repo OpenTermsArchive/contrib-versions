@@ -3,9 +3,9 @@ June 2020
 Privacy Policy
 ==============
 
-_Effective:_ October 3, 2022
+_Effective:_ May 12, 2023
 
-(_View previous versions: [10/1/21](https://help.meetup.com/hc/en-us/articles/9556612582669),_ [_4/19/21_](https://help.meetup.com/hc/en-us/articles/4410440206349)_)_
+(_View previous versions: [10/3/22](https://help.meetup.com/hc/en-us/articles/15720512860045)_, _[10/1/21](https://help.meetup.com/hc/en-us/articles/9556612582669),_ [_4/19/21_](https://help.meetup.com/hc/en-us/articles/4410440206349)_)_
 
 Our Privacy Policy explains how Meetup collects, uses, and discloses information about you. The terms “Meetup,” “we,” “us,” and “our” include Meetup LLC and our affiliates. We use the terms “member,” “you,” and “your” to mean any person using our Platform or attending related events, including any organization or person using the Platform on an organization’s behalf. This Privacy Policy applies to the processing of information about members and other individuals that we collect when you use our “Platform,” which means any website, application, or services we offer, or when you communicate with us. For information about choices you may have under this policy, please see “Your Choices” below. This Privacy Policy does not apply to the information that you may provide to third parties, such as members, and others with whom you may share information about yourself. For more information about the scope of our Privacy Policy, please see [Section 4.5](https://help.meetup.com/hc/en-us/articles/360044422391#h_b87ea47b-8923-406a-a6cd-bbdcc083e47b). 
 
@@ -262,7 +262,12 @@ You can tag photos of yourself and others. When a photo has been tagged it means
 3. _You have the right to opt out of receiving Meetup’s promotional messages, but you may still receive other communications._
 4. _You can complain to your local data protection authority about the use of your information._
 
-We respond to all requests that we receive from individuals who wish to exercise their data protection rights in accordance with applicable data protection laws. You can contact us with your request by sending an email to privacy@meetup.com. You can also request deletion of your account and personal information by filling out the form available in this Help Center article: [**"Request permanent deletion of your data."**](https://help.meetup.com/hc/en-us/articles/360050018571) **You must be logged in to your Meetup account to view this article and access the form.**
+We respond to all requests that we receive from individuals who wish to exercise their data protection rights in accordance with applicable data protection laws. You can contact us with your request by sending an email to privacy@meetup.com. You can also request deletion of your account and personal information by:
+
+* Filling out the form available in this Help Center article: [**"Request permanent deletion of your data."**](https://help.meetup.com/hc/en-us/articles/360050018571) **You must be logged in to your Meetup account to view this article and access the form.**
+* Clicking the “Delete account and personal information” link in your profile settings on the Meetup iOS app.
+
+Organizers who want to delete their account and personal information from Meetup, should consult the [Organizer Deletion Requests](https://help.meetup.com/hc/en-us/articles/15702706691341) article in our Help Center for additional information, including information on how deleting your account will impact your groups. If you are an organizer, we will wait a few days to process your deletion request, and **your request will be withdrawn if you create an event or RSVP to an event within 7 days of submitting your deletion request.**
 
 Rights that you may have, depending on the jurisdiction in which you live, may include:
 
