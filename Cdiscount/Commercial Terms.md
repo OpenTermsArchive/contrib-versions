@@ -668,7 +668,7 @@ b)      **ou en nous retournant, à l’adresse postale indiquée, le formu
 — Adresse du (des) consommateur(s) …………………………………………………………………………………………………...... ........ …………………………………………………………………………………………………… …………………………………………………….  
 — Signature du (des) consommateur(s) (uniquement en cas de notification du présent formulaire sur papier)
 
-— Date……………………………
+— Date…………'………………
 
 (\*) Rayez la mention inutile
 
@@ -1765,7 +1765,7 @@ _CONDITIONS GENERALES DE PRECOMMANDE JEUX VIDEOS - TELEPHONIE (uniquement pour 
 ARTICLE 1 – CHAMP D’APPLICATION**  
   
   
-Les présentes conditions générales de précommande s’appliquent à toute commande passée à distance comprenant un ou plusieurs produits en précommande par une personne physique disposant de la capacité juridique et agissant à titre personnel en qualité de consommateur auprès de CDISCOUNT, soit directement sur le site internet de CDISCOUNT accessible à léadresse suivante : www.cidscount.com, soit par l’intermédiaire d'une application CDISCOUNT pour smartphones ou tablettes (ci-après, ensemble le « Site »), soit par téléphone au 3979 (0.70cts€/ min + prix de l'appel).  
+Les présentes conditions générales de précommande s’appliquent à toute commande passée à distance comprenant un ou plusieurs produits en précommande par une personne physique disposant de la capacité juridique et agissant à titre personnel en qualité de consommateur auprès de CDISCOUNT, soit directement sur le site internet de CDISCOUNT accessible à l’adresse suivante : www.cidscount.com, soit par l’intermédiaire d'une application CDISCOUNT pour smartphones ou tablettes (ci-après, ensemble le « Site »), soit par téléphone au 3979 (0.70cts€/ min + prix de l'appel).  
   
 Les produits en précommande sont les produits identifiés comme tels sur le Site dans le magasin Jeux Vidéos (ci-après les « Produits Jeux Vidéos ») et dans le magasin Téléphonie (ci-après les « Produits Téléphonie ») du Site et vendus uniquement par Cdiscount (hors produits vendus sur la Marketplace de Cdiscount) (ci-après ensemble les « Produits en Précommande »).  
   
