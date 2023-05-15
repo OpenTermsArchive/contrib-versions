@@ -72,25 +72,25 @@ EssentialAlways active
 
 These cookies are required for the website to function properly and to allow you to use its services and features. Without these cookies, we would be unable to provide certain requested services or features.
 
-Applicable cookies: Deskpro, Stripe, Sentry, Consent Manager
+Applicable cookies:
 
 Analytics
 
 These cookies are used to monitor the performance of our site and to enhance your browsing experience.
 
-Applicable cookies: Google Tag Manager, Google Analytics, Segment, Google optimize
+Applicable cookies: Amplitude (Actions), Sentry
 
 Marketing
 
 These cookies are used to understand user behavior in order to provide you with a more relevant browsing experience or personalize the content on our site.
 
-Applicable cookies: Google Ads, Twitter, Facebook, Linkedin insight, Reddit, Stackoverflow, Hotjar, Typeform, Amplitude, PostHog
+Applicable cookies: Facebook Pixel, Google AdWords New, Hotjar, Twitter Ads
 
 Advertising
 
 These cookies are used to personalize and measure the effectiveness of advertising on our site and other websites.
 
-Applicable cookies: Google Adwords Remarketing, Facebook custom audiences, Twitter Ads
+Applicable cookies:
 
 Refuse allAccept allValidate my choice
 
