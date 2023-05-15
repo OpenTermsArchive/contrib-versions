@@ -428,7 +428,7 @@ Attention: Data Protection Officer
     
 * [Self-Serve Subscription Agreement](https://www.cloudflare.com/terms)
     
-* [Supplemental Terms](https://www.cloudflare.com/supplemental-terms)
+* [Service-Specific Terms](https://www.cloudflare.com/service-specific-terms-overview/)
     
 * [Privacy Policy](https://www.cloudflare.com/privacypolicy)
     
