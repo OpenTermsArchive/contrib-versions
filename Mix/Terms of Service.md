@@ -85,7 +85,7 @@ As between Mix and you, Mix owns or controls all right, title and interest in th
 
 Content from third parties, including advertisers, is displayed through the Services (**“Third Party Content”**). You may add or recommend such Third Party Content to the Mix Services and you may share Third Party Content with others using the share feature. We do not filter or exercise control over Third Party Content and you agree that we are not responsible for any such Third Party Content, including advertising and/or information about products or services. We make no guarantees about the accuracy, currency, suitability, quality or legality of the information in such Third Party Content, and we assume no responsibility for unintended, objectionable, inaccurate, misleading or unlawful Third Party Content. By choosing your preferences, you can designate types and categories of Content you prefer to access, and you can report Content that you think is inappropriate, but Mix cannot guarantee that you will only access the types and categories of Content you designate. Mix is not responsible for Third Party Content that contains or delivers viruses, Trojan horses, worms, time bombs, cancelbots, corrupted files, spyware, malware, or other harmful content or code. Rather, you are responsible for installing, maintaining and using effective anti-virus and spyware prevention technologies.
 
-**YouTube.** Please note that YouTube services included in our products are covered by [YouTube's Terms of Service](https://www.youtube.com/t/terms).
+**YouTube.** By using Mix, you are agreeing to be bound by the[YouTube's Terms of Service](https://www.youtube.com/t/terms).
 
 ##### User Content
 
