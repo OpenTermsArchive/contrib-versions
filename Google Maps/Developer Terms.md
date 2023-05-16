@@ -61,7 +61,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Government of Western Australia [wa.gov.au](https://www.wa.gov.au/) ([https://creativecommons.org/licenses/by/3.0/au/legalcode](https://creativecommons.org/licenses/by/3.0/au/legalcode))
             
-        * Australian Bureau of Statistics [(https://www.abs.gov.au/website-privacy-copyright-and-disclaimer#copyright-and-creative-commons)](https://www.abs.gov.au/website-privacy-copyright-and-disclaimer#copyright-and-creative-commons)
+        * Australian Bureau of Statistics [https://www.abs.gov.au/website-privacy-copyright-and-disclaimer#copyright-and-creative-commons](https://www.abs.gov.au/website-privacy-copyright-and-disclaimer#copyright-and-creative-commons)
             
         * Data.NSW - [https://data.nsw.gov.au/](https://www.rfs.nsw.gov.au/about-us/privacy) - Licenses: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
@@ -338,6 +338,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         83. EPA-BELD4-Equivalent Landuse Database for Canada, [https://about.zenodo.org/terms/](https://about.zenodo.org/terms/), changes were made.
             
         84. British Columbia - Contains information licensed under the Open Government Licence.
+            
+        85. New Brunswick Canada [http://www.snb.ca/e/2000/data-E.html](http://www.snb.ca/e/2000/data-E.html)
             
     7. **Czechia**
         
@@ -993,6 +995,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * NDW - Nationaal Dataportaal Wegverkeer ([https://www.ndw.nu/copyright](https://www.ndw.nu/copyright))
             
+        * Netherlands Centraal Bureau voor de Statistiek [https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/geografische-data/gegevens-per-postcode](https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/geografische-data/gegevens-per-postcode)
+            
     35. **New Zealand**
         * © Auckland International Airport Ltd
             
@@ -1220,6 +1224,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * EMT de Madrid Link to their license: [https://mobilitylabs.emtmadrid.es/sip/terms-of-use](https://mobilitylabs.emtmadrid.es/sip/terms-of-use)
             
         * National Geographic Information Center (CNIG) - CartoCiudad 2022-2023 CC-BY 4.0 [ign.es](http://www.ign.es/web/ign/portal) [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        * Geoportal de Navarra [https://geoportal.navarra.es/es/idena/descargarl](https://www.google.com/url?q=https://geoportal.navarra.es/es/idena/descargarl&sa=D&source=buganizer&usg=AOvVaw2p6sFZUCsucHIpdgzjWxMg)
             
     47. **Sweden**
         * © 2009 Cartesia GIS AB
