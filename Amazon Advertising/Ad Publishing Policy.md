@@ -45,33 +45,34 @@ To view recent updates to these policies, please see our [Ad Policy Change Log](
 Advertising policies
 --------------------
 
-* <a href="https://advertising.amazon.com/resources/ad-policy/eu-data-protection-and-privacy?ref\_=a20m\_us\_spcs\_gdpr">Advertising and the EU general data protection regulation</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/lgpd?ref\_=a20m\_us\_spcs\_lgpd">Advertising and the BR general data protection law</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/alexa-home-screen?ref\_=a20m\_us\_spcs\_alxhs">Alexa Home Screen guidelines and acceptance policies</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/api?ref\_=a20m\_us\_spcs\_api">Amazon Ads API policies</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/creative-acceptance?ref\_=a20m\_us\_spcs\_cap">Amazon Ads guidelines and acceptance policies</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/amazon-ad-server?ref\_=a20m\_us\_spcs\_aas">Amazon Ad Server advertising policies</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/brand-usage?ref\_=a20m\_us\_spcs\_brdusg">Amazon brand usage guidelines</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/amazon-dsp-additional-policies?ref\_=a20m\_us\_spcs\_dspap">Amazon DSP additional policies</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/pixeling-policy?ref\_=a20m\_us\_spcs\_pxlg">Amazon pixelling guidelines</a>
-* <a href="https://advertising.amazon.com/resources/ad-specs/automated-guarantee?ref\_=a20m\_us\_spcs\_autgrt">Automated guaranteed platform policy</a>
-* <a href="https://advertising.amazon.com/en-us/resources/ad-policy/book-ads?ref\_=a20m\_us\_spcs\_bkad">Book advertising guidelines and acceptance policies</a>
-* <a href="https://advertising.amazon.com/resources/ad-specs/how-to-build-brand-creatives-to-engage-amazon-shoppers?ref\_=a20m\_us\_spcs\_bcag">Brand creative guidelines</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/brand-profile?ref\_=a20m\_us\_spcs\_brdprfl">Brand profile content guidelines and acceptance policies</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/catastrophic-events?ref\_=a20m\_us\_spcs\_ctsphevt">Catastrophic events advertising policy</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/production-timelines?ref\_=a20m\_us\_spcs\_crtdlv">Creative delivery lead times</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/fire-tv?ref\_=a20m\_us\_spcs\_ftv">Fire TV guidelines and acceptance policies</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/general-policies?ref\_=a20m\_us\_spcs\_gnrplc">General policies</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/mmp-measurement-urls?ref\_=a20m\_us\_spcs\_mmpmsr">MMP measurement URLs for app advertising</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/on-box-and-bag-ads?ref\_=a20m\_us\_spcs\_bxbg">On Box Ads, bags and inserts guidelines and acceptance policies</a>
-* <a href="https://advertising.amazon.com/legal/product-terms?ref\_=a20m\_us\_spcs\_prdtrm">Product terms</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/remarketing-conversion-pixel-requirements?ref\_=a20m\_us\_spcs\_rmktg">Remarketing and conversion pixel requirements</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/sponsored-ads-policies?ref\_=a20m\_us\_spcs\_spadcap">Sponsored ads guidelines and acceptance policies</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/sponsored-ads-additional-policies?ref\_=a20m\_us\_spcs\_spadcp">Sponsored ads additional policies</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/posts?ref\_=a20m\_us\_spcs\_ptscap">Posts content guidelines and acceptance policies</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/stores?ref\_=a20m\_us\_spcs\_stcap">Stores guidelines and acceptance policies</a>
-* <a href=" https://advertising.amazon.com/resources/ad-policy/streaming-tv-ads?ref\_=a20m\_us\_spcs\_sttvad">Streaming TV ad policies</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/technical-guidelines?ref\_=a20m\_us\_spcs\_tcpl">Technical guidelines</a>
-* <a href="https://advertising.amazon.com/resources/ad-policy/twitch?ref\_=a20m\_us\_spcs\_twtcgap">Twitch advertising guidelines and acceptance policies</a>
+* [ADSP account suspension for Malvertising Policy](https://advertising.amazon.com/resources/ad-policy/adsp-account-suspension-for-malvertising-policy?ref_=a20m_us_spcs_malpo)
+* [Advertising and the EU general data protection regulation](https://advertising.amazon.com/resources/ad-policy/eu-data-protection-and-privacy?ref_=a20m_us_spcs_gdpr)
+* [Advertising and the BR general data protection law](https://advertising.amazon.com/resources/ad-policy/lgpd?ref_=a20m_us_spcs_lgpd)
+* [Alexa Home Screen guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/alexa-home-screen?ref_=a20m_us_spcs_alxhs)
+* [Amazon Ads API policies](https://advertising.amazon.com/resources/ad-policy/api?ref_=a20m_us_spcs_api)
+* [Amazon Ads guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/creative-acceptance?ref_=a20m_us_spcs_cap)
+* [Amazon Ad Server advertising policies](https://advertising.amazon.com/resources/ad-policy/amazon-ad-server?ref_=a20m_us_spcs_aas)
+* [Amazon brand usage guidelines](https://advertising.amazon.com/resources/ad-policy/brand-usage?ref_=a20m_us_spcs_brdusg)
+* [Amazon DSP additional policies](https://advertising.amazon.com/resources/ad-policy/amazon-dsp-additional-policies?ref_=a20m_us_spcs_dspap)
+* [Amazon pixelling guidelines](https://advertising.amazon.com/resources/ad-policy/pixeling-policy?ref_=a20m_us_spcs_pxlg)
+* [Automated guaranteed platform policy](https://advertising.amazon.com/resources/ad-specs/automated-guarantee?ref_=a20m_us_spcs_autgrt)
+* [Book advertising guidelines and acceptance policies](https://advertising.amazon.com/en-us/resources/ad-policy/book-ads?ref_=a20m_us_spcs_bkad)
+* [Brand creative guidelines](https://advertising.amazon.com/resources/ad-specs/how-to-build-brand-creatives-to-engage-amazon-shoppers?ref_=a20m_us_spcs_bcag)
+* [Brand profile content guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/brand-profile?ref_=a20m_us_spcs_brdprfl)
+* [Catastrophic events advertising policy](https://advertising.amazon.com/resources/ad-policy/catastrophic-events?ref_=a20m_us_spcs_ctsphevt)
+* [Creative delivery lead times](https://advertising.amazon.com/resources/ad-policy/production-timelines?ref_=a20m_us_spcs_crtdlv)
+* [Fire TV guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/fire-tv?ref_=a20m_us_spcs_ftv)
+* [General policies](https://advertising.amazon.com/resources/ad-policy/general-policies?ref_=a20m_us_spcs_gnrplc)
+* [MMP measurement URLs for app advertising](https://advertising.amazon.com/resources/ad-policy/mmp-measurement-urls?ref_=a20m_us_spcs_mmpmsr)
+* [On Box Ads, bags and inserts guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/on-box-and-bag-ads?ref_=a20m_us_spcs_bxbg)
+* [Product terms](https://advertising.amazon.com/legal/product-terms?ref_=a20m_us_spcs_prdtrm)
+* [Remarketing and conversion pixel requirements](https://advertising.amazon.com/resources/ad-policy/remarketing-conversion-pixel-requirements?ref_=a20m_us_spcs_rmktg)
+* [Sponsored ads guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/sponsored-ads-policies?ref_=a20m_us_spcs_spadcap)
+* [Sponsored ads additional policies](https://advertising.amazon.com/resources/ad-policy/sponsored-ads-additional-policies?ref_=a20m_us_spcs_spadcp)
+* [Posts content guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/posts?ref_=a20m_us_spcs_ptscap)
+* [Stores guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/stores?ref_=a20m_us_spcs_stcap)
+* [Streaming TV ad policies](https://advertising.amazon.com/resources/ad-policy/streaming-tv-ads?ref_=a20m_us_spcs_sttvad)
+* [Technical guidelines](https://advertising.amazon.com/resources/ad-policy/technical-guidelines?ref_=a20m_us_spcs_tcpl)
+* [Twitch advertising guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/twitch?ref_=a20m_us_spcs_twtcgap)
 
 On this site, we use cookies and similar tools (collectively, “cookies”) to provide and improve services to you and to show ads. To learn more about how Amazon Ads uses cookies, please read the [Amazon Cookies Notice.](https://advertising.amazon.com/legal/cookie-policy?ref=a20m_us_ccb)
