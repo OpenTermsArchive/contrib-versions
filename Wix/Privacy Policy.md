@@ -193,7 +193,7 @@ Wix.com has further committed to refer unresolved Privacy Shield complaints to a
 
 For the avoidance of doubt, Wix does not rely on the Privacy Shield as a mechanism for transferring GDPR protected personal data. Currently, Wix only rely on other transfer mechanisms, as detailed above, such as the SCC or an adequacy decision.
 
-5.5.
+5.4
 
 6\. Users-of-Users
 
