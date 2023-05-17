@@ -3,7 +3,7 @@ Snap Group Limited Terms of Service
 
 (If you live outside the United States)
 
-Effective: 12 May 2023
+Effective: 30 September 2021
 
 Welcome!
 --------
@@ -58,8 +58,6 @@ We always love to hear from our users. But if you provide feedback or suggestion
 ----------------------------------------------
 
 Additional terms and conditions listed on the [Snap Terms & Policies](https://www.snap.com/en-GB/policies) page or that are otherwise made available to you may apply to specific Services. If you use those Services, then those additional terms become part of these Terms. If any of the applicable additional terms conflict with these Terms, the additional terms will prevail while you are using the Services to which they apply.
-
-Where you use any of our shopping assistant services on a third party retailer website (such as Fit Finder and Virtual Try On), you agree that we provide those Services to you in return for the right to collect and process data about your purchases and returns so that we may charge a commission to the third retailer as explained in our [Shopping Suite Privacy Notice](https://www.snap.com/en-GB/privacy/shopping-suite-privacy-notice). In addition, some of those Services are designed to provide personalised recommendations to you and, if you use them, it will be necessary and a condition of your use for us to collect and process your shopping data to provide those personalised recommendations as also explained in our [Shopping Suite Privacy Notice](https://www.snap.com/en-GB/privacy/shopping-suite-privacy-notice).
 
 5\. Privacy
 -----------
@@ -234,4 +232,4 @@ Contact us
 
 Snap Group Limited welcomes comments, questions, concerns or suggestions. You can contact us or get support by using [this online form](https://support.snapchat.com/i-need-help).
 
-The company responsible for the Services outside the United States is called Snap Group Limited and is located in the United Kingdom at 50 Cowcross street, Floor 2, London, EC1M 6AL. Registered company number: 09763672. VAT ID: GB 237218316.
+The company responsible for the Services outside the United States is called Snap Group Limited and is located in the United Kingdom at 77 Shaftesbury Avenue, London, W1D 5DU, United Kingdom. Registered company number: 09763672. VAT ID: GB 237218316.
