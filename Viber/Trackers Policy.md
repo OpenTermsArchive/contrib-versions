@@ -208,7 +208,7 @@ You may opt-out of additional third-party advertising networks using the tools o
 
 For any queries in relation to this Ads & Cookies Policy please contact us at:
 
-* **Our online form available at:** [**https://help.viber.com/en/contact**](https://help.viber.com/en/contact)**.**
+* **Our online form available at:** [**https://vb.me/ContactUs**](https://vb.me/ContactUs)**.**
 * **Using the “contact us” form on the App**.
 * **By Email**: [**privacy@viber.com**](mailto:privacy@viber.com)
 * **By mail:  
