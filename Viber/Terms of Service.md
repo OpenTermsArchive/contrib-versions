@@ -163,7 +163,7 @@ If you believe that Viber has charged you in error, you must contact Viber withi
 
 Viber reserves the right to refuse a refund request if it reasonably believes or suspects (i) that you are trying to unfairly exploit this refund policy, for example, by making repetitive refund requests in respect of the same product or feature; (ii) that you are in breach of these Terms or the Viber Privacy Policy; (iii) that you are using any of our products fraudulently or that your Account is being used by a third party fraudulently; or (iv) that you purchased your credit through a third party service and the terms of such third party do not allow such refund. This refund policy does not affect any of your statutory rights to pursue a claim.
 
-When signing up as a subscriber of the Viber Out, Viber Plus, or any other applicable subscription plan, and regardless of which subscription plan you choose, you have a right to a **_fourteen (14) day cooling-off period_** in accordance with the applicable laws and regulations. The cooling-off period applies from the date of signing up to a subscription plan. If you begin to use the Service in any way, you agree that you forfeit the right to cancel your purchase of the Service as per the cooling-off rights mentioned in this section. If you want to cancel the Service during the cooling-off period, we recommend that you notify us by using the form available here: [**https://help.viber.com/en/contact**](https://help.viber.com/en/contact).  
+When signing up as a subscriber of the Viber Out, Viber Plus, or any other applicable subscription plan, and regardless of which subscription plan you choose, you have a right to a **_fourteen (14) day cooling-off period_** in accordance with the applicable laws and regulations. The cooling-off period applies from the date of signing up to a subscription plan. If you begin to use the Service in any way, you agree that you forfeit the right to cancel your purchase of the Service as per the cooling-off rights mentioned in this section. If you want to cancel the Service during the cooling-off period, we recommend that you notify us by using the form available here: [**https://vb.me/ContactUs**](https://vb.me/ContactUs).  
 
 ###### **10\. Chatbot Purchases**
 
@@ -247,7 +247,7 @@ Viber is dedicated to facilitating the use of the Services by disabled end-users
 
 You may contact us, as follows:
 
-* **Our online form available at:** [**https://help.viber.com/en/contact**](https://help.viber.com/en/contact).
+* **Our online form available at:** [**https://vb.me/ContactUs**](https://vb.me/ContactUs).
 * **Using the “contact us” form on the App**.
 * **By mail:  
     **Viber Media S.à r.l.,  
