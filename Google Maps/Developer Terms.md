@@ -341,6 +341,18 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         85. New Brunswick Canada [http://www.snb.ca/e/2000/data-E.html](http://www.snb.ca/e/2000/data-E.html)
             
+        86. City of Calgary Open Data (CA) - [https://data.calgary.ca/d/Open-Data-Terms/u45n-7awa](https://data.calgary.ca/d/Open-Data-Terms/u45n-7awa)
+            
+        87. British Colombia Data Catalogue (CA) - [https://www.translink.ca/-/media/translink/documents/plans-and-projects/managing-the-transit-network/tspr/open-government-license-translink-tspr.pdf](https://www.translink.ca/-/media/translink/documents/plans-and-projects/managing-the-transit-network/tspr/open-government-license-translink-tspr.pdf)
+            
+        88. Nova Scotia Data Catalogue (CA) - [https://novascotia.ca/opendata/licence.asp](https://novascotia.ca/opendata/licence.asp)
+            
+        89. Yukon Open Data (CA) - [https://open.yukon.ca/open-government-licence-yukon](https://open.yukon.ca/open-government-licence-yukon)
+            
+        90. Open Data Portal City of Victoria (CA) - [https://opendata.victoria.ca/pages/open-data-licence](https://opendata.victoria.ca/pages/open-data-licence)
+            
+        91. Prince Edward Island (CA) - [https://www.princeedwardisland.ca/en/information/finance/open-government-licence-prince-edward-island](https://www.princeedwardisland.ca/en/information/finance/open-government-licence-prince-edward-island)
+            
     7. **Czechia**
         
         Prague PID Agency - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
@@ -978,6 +990,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         
         "Mapa de Ubicación de Códigos Postales para Jalisco" published by Correos de México. Accessed from [https://datos.gob.mx/busca/](https://datos.gob.mx/) on 28-03-2022
         
+        * INEGI (MX) - [https://www.inegi.org.mx/inegi/terminos.html](https://www.inegi.org.mx/inegi/terminos.html)
+            
     32. Datos Abiertos del Gobierno de México - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
         
     33. SPPIF-CONAFOR and CONABIO, [http://forestales.ujed.mx/incendios2/.](http://forestales.ujed.mx/incendios2/)
@@ -1226,6 +1240,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * National Geographic Information Center (CNIG) - CartoCiudad 2022-2023 CC-BY 4.0 [ign.es](http://www.ign.es/web/ign/portal) [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
         * Geoportal de Navarra [https://geoportal.navarra.es/es/idena/descargarl](https://www.google.com/url?q=https://geoportal.navarra.es/es/idena/descargarl&sa=D&source=buganizer&usg=AOvVaw2p6sFZUCsucHIpdgzjWxMg)
+            
+        * CNIG (ES) - [https://centrodedescargas.cnig.es/CentroDescargas/locale?request\_locale=en#](https://centrodedescargas.cnig.es/CentroDescargas/locale?request_locale=en#)
             
     47. **Sweden**
         * © 2009 Cartesia GIS AB
