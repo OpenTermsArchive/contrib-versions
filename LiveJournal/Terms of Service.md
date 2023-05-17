@@ -1,12 +1,12 @@
 User Agreement
 ==============
 
-Effective: March 31 2023, 13:45 GMT  
-Location: [https://www.livejournal.com/legal/tos-en.bml?r=15270](https://www.livejournal.com/legal/tos-en.bml?r=15270)
+Effective: May 17 2023, 14:26 GMT  
+Location: [https://www.livejournal.com/legal/tos-en.bml?r=15271](https://www.livejournal.com/legal/tos-en.bml?r=15271)
 
 1. #### Subject of the Agreement
     
-    1. “Rambler Group”, Limited Liability Company (the Administration) shall make the Service available to user of the information and telecommunications network Internet (User) under the terms and conditions defined in this User Agreement (the Agreement). The Service may be used only by individuals aged 14 and above.
+    1. SIM Limited Liability Company (the Administration) shall make the Service available to user of the information and telecommunications network Internet (User) under the terms and conditions defined in this User Agreement (the Agreement). The Service may be used only by individuals aged 14 and above.
     2. The Administration shall make the Service available to User for free.
 2. #### General Provisions
     
@@ -145,5 +145,6 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15270](https://www.liv
     3. If the dispute is not resolved by the time defined in clause 14.2 hereof it may be resolved by the Court in the Administration’s place of incorporation.
     4. The Agreement is drawn up in [Russian language](https://www.livejournal.com/legal/tos-ru.bml). The English version is a translation and is provided solely for the convenience of reading the Agreement. In the event of any inconsistency between the [Russian version](https://www.livejournal.com/legal/tos-ru.bml) and its translation, the [Russian version](https://www.livejournal.com/legal/tos-ru.bml) of the Agreement shall prevail.
 
+[Previous version March 31 2023, 13:45 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15270) (archived)  
 [Previous version January 20 2022, 11:18 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15269) (archived)  
 [Previous version December 17 2021, 09:47 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15268) (archived)
