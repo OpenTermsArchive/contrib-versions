@@ -8,7 +8,7 @@
     1. If you reside in Australia - Bit Trade Pty Limited, Unit 610, 478 George Street, Sydney, NSW 2000, Australia.
     2. If you reside in Canada - Payward Canada Inc., 1100-1959 Upper Water Street, Halifax, NS B3J 3N2, Canada.
     3. If you reside in the UK - Payward Ltd., 6th Floor, One London Wall, London, EC2Y 5EB, United Kingdom.
-    4. If you reside in the United States - Payward Ventures, Inc., 237 Kearny Street #102, San Francisco, CA 94108, USA.
+    4. If you reside in the United States - Payward Ventures, Inc., 100 Pine St., Suite 1250, Office 6, PMB A188, San Francisco, CA 94111, USA.
     5. If you reside in Italy - Payward Europe Solutions Limited, Italian Branch,  21 Via San Marco, Milan, MI, 20121, Italy (for VASP Services). Otherwise if you reside in the European Economic Area - Payward International Markets Limited, Trinity Chambers, PO BOX 4301, Road Town, Tortola, British Virgin Islands.
     6. If you reside in any other country not set forth in 1.1-1.5 above (other than Japan, in which case, you have been provided with a separate terms of service that is applicable to you) - Payward Trading Ltd., c/o SHRM Trustees (BVI) Limited, Trinity Chambers, Ora et Labora Building, Road Town, Tortola, VG1110, British Virgin Islands.
     
@@ -54,10 +54,8 @@
         
     3. **Compliance with legal obligations.** We are subject to various legal and regulatory obligations imposed by the laws and supervisory authorities of various jurisdictions e.g., anti-money laundering laws, financial services laws, corporation laws, privacy laws and tax laws. These obligations may require us to process certain personal data for identity verification, payment processing, compliance with court orders, tax laws or other purposes not disclosed herein. Please refer to our Privacy Notice for Information we may collect about you. These obligations may arise at various times, including, but not limited to, client on-boarding, payment processing, and systemic checks for risk management. We reserve the right to lock, disable and/or close accounts as deemed necessary by us in order to comply with any such legal and regulatory obligations now existing or hereinafter imposed.
         
-    4. **Cancellations.** **Once your offer, bid, or order has been executed, you may not change, withdraw or cancel your authorization for Payward to complete such transaction.** While we may, at our sole discretion, reverse an order or transaction under certain extraordinary conditions, a customer does not have a right to a reversal of an order or transaction.
-        
-    5. **Errors.** In the event of an error, whether via our Services, in a purchase order confirmation, in processing your purchase, or otherwise, we reserve the right to correct such error and revise your purchase transaction accordingly (including charging the correct price) or to cancel the purchase and refund any amount received. Your sole remedy in the event of an error is to cancel your purchase order and obtain a refund of any amount charged.
-        
+    4. **Cancellations. Once your offer, bid, order, or transaction has been executed, you may not change, withdraw or cancel your authorization for Payward to complete such transaction.** While we may, at our sole discretion, reverse an order or transaction under certain extraordinary conditions, a customer does not have a right to a reversal of an order or transaction. If your transaction is not successful, if your payment method has insufficient Funds, or if you reverse a payment, deposit, or transfer made from an External Account, you authorize Payward, in its sole discretion, to cancel the transaction or to use alternate Funds in your Kraken Account as necessary to complete the transaction or resolve any resulting shortfall or negative balance, including to exchange Funds in your Kraken account for alternative types of Funds  and deduct any applicable Fees.
+    5. **Errors.** In the event of an error, whether via our Services, in a purchase order conﬁrmation, in processing your purchase, in funding your Kraken account, in transferring Funds to an External Account, or any other transaction, we reserve the right, and you authorize Payward, to correct such error, including by revising the transaction (including charging the correct price), cancelling the transaction,  or taking any other action to resolve the error (including exchange Funds in your Kraken account for alternative types of Funds and deducting any applicable Fees to correct the error).
     6. **Insufficient Assets.** If you have an insufficient amount of Assets in your Kraken Account to complete a transaction via the Services, we may cancel the entire transaction or may fulfill a partial transaction using the amount of Assets currently available in your Kraken Account, less any fees owed to Payward in connection with our execution of the trade (as described in Section 9).
         
     7. **Payment Method.** Only valid payment methods specified by us may be used to purchase Digital Assets or NFTs, as applicable. By placing an order to purchase Digital Assets or NFTs from Payward, you represent and warrant that (a) you are authorized to use the designated payment method and (b) you authorize us, or our payment processor, to charge your designated payment method. If the payment method you designate cannot be verified, is invalid or is otherwise not acceptable, your purchase order may be suspended or canceled automatically. You agree to resolve any problems we encounter in order to proceed with your purchase order.
@@ -194,7 +192,10 @@
         
     6. **Assumption of risk.** You acknowledge and agree that you shall access and use the Services at your own risk, including but not limited to the risks described in this Section 8 and the remainder of these Terms. 
         
-9. ### Fees
+
+NO KRAKEN ENTITY IS A BANK OR OTHER DEPOSITORY INSTITUTION. YOUR KRAKEN ACCOUNT IS NOT A DEPOSIT ACCOUNT OR A BANK ACCOUNT. NEITHER YOUR KRAKEN ACCOUNT NOR DIGITAL ASSETS ARE COVERED BY INSURANCE AGAINST LOSSES OR SUBJECT TO FEDERAL DEPOSIT INSURANCE CORPORATION (“FDIC”) OR SECURITIES INVESTOR PROTECTION CORPORATION (“SIPC”) PROTECTIONS OR THE PROTECTIONS OF ANY COMPARABLE ORGANIZATION ANYWHERE IN THE WORLD.
+
+1. ### Fees
     
     1. **Amount of Fees.** In addition to the fees specified in Section 7.11.7, you agree to pay Payward the fees for Asset trades or transactions completed via our Services (**"Fees"**) as made available via the [Fees and Pair Info](https://www.kraken.com/features/fee-schedule) ("**Fee Schedule**"), which we may change from time to time. Changes to the Fee Schedule are effective as of the effective date indicated in the posting of the revised Fee Schedule to the Services, and will apply prospectively to any Asset trades or transactions that take place following the effective date of such revised Fee Schedule.
         
@@ -204,7 +205,7 @@
         
     4. **Collection-Related Costs.** If you fail to pay Fees or any other amounts owed to Payward under these Terms and Payward refers your account(s) to a third party for collection, then Payward will charge you the lesser of an 18% collection fee or the maximum percentage permitted by applicable law, to cover Payward's collection-related costs.
         
-10. ### Electronic Notices
+2. ### Electronic Notices
     
     1. **Consent to Electronic Delivery.** You agree to receive electronically all communications, agreements, documents, receipts, notices, tax forms (e.g. all forms of IRS Form 1099, including 1099-MISC, 1099-B, 1099-K, 1099-INT, 1099-NEC), and disclosures (collectively, "Communications") that Payward provides in connection with your Kraken Account and/or use of the Payward Services. You agree that Payward may provide these Communications to you by posting them via the Services, by emailing them to you at the email address you provide, and/or by sending an SMS or text message to a mobile phone number that you provide. Your carrier's normal, messaging, data and other rates and fees may apply to any mobile Communications. You should maintain copies of electronic Communications by printing a paper copy or saving an electronic copy. You may also contact us through support [https://support.kraken.com](https://support.kraken.com/) to request additional electronic copies of Communications or, for a fee, paper copies of Communications (as described below).
         
@@ -216,11 +217,11 @@
         
     5. **Updating Contact Information.** It is your responsibility to keep your email address, mobile phone number, and street address on file with Payward up to date so that Payward can communicate with you electronically. You understand and agree that if Payward sends you an electronic Communication but you do not receive it because your email address or mobile phone number on file is incorrect or out of date, our ability to contact you at the email address and/or mobile phone number is blocked by your service provider, or you are otherwise unable to receive electronic Communications, Payward will be deemed to have provided the Communication to you whether or not you actually received the Communication. Please note that if you use a spam filter that blocks or re-routes emails from senders not listed in your email address book, you must add Payward to your email address book so that you will be able to receive the Communications we send to you. You can update your email address, mobile phone number or street address at any time by logging into your Kraken Account or by sending such information to support [https://support.kraken.com](https://support.kraken.com/). If your email address or mobile phone number becomes invalid such that electronic Communications sent to you by Payward are returned, Payward may deem your account to be inactive, and you may not be able to complete any transaction via our Services until we receive a valid, working email address or mobile phone number from you.
         
-11. ### Unclaimed Property
+3. ### Unclaimed Property
     
     If for any reason Payward is holding Assets in your Kraken Account on your behalf, and Payward is unable to return your Assets to your designated External Account after a period of inactivity, then Payward may report and remit such Assets in accordance with applicable state unclaimed property laws.
     
-12. ### Acceptable Use
+4. ### Acceptable Use
     
     When accessing or using the Services, you agree that you will not violate any law, contract, intellectual property or other third-party right or commit a tort, and that you are solely responsible for your conduct while using our Services. Without limiting the generality of the foregoing, you agree that you will not:
     
@@ -240,33 +241,33 @@
         
     * Encourage or induce any third party to engage in any of the activities prohibited under this Section.
         
-13. ### Feedback
+5. ### Feedback
     
     We will own exclusive rights, including all intellectual property rights, to any feedback, suggestions, ideas or other information or materials regarding Payward or our Services that you provide, whether by email, posting through our Services or otherwise ("Feedback"). Any Feedback you submit is non-confidential and shall become the sole property of Payward. We will be entitled to the unrestricted use and dissemination of such Feedback for any purpose, commercial or otherwise, without acknowledgment or compensation to you. You waive any rights you may have to the Feedback (including any copyrights or moral rights). Do not send us Feedback if you expect to be paid or want to continue to own or claim rights in them; your idea might be great, but we may have already had the same or a similar idea and we do not want disputes. We can disclose your identity to any third party who is claiming that any content posted by you violates their intellectual property rights, or their right to privacy. We can remove any posting you make on our website if, in our opinion, your post does not comply with Payward’s content standards.
     
-14. ### Copyrights and Other Intellectual Property Rights
+6. ### Copyrights and Other Intellectual Property Rights
     
     The Services and all elements thereof, including, without limitation, their “look and feel”, the Payward and Kraken logos and all designs, text, graphics, pictures, information, data, software, sound files, other files, content and materials, and the selection and arrangement thereof (collectively, **"Payward Materials"**) are the property of Payward or our licensors or suppliers and are protected by U.S. and international intellectual property rights laws.
     
     Subject to your compliance at all times with these Terms, we hereby grant you a limited, revocable, nonexclusive and non-sublicensable license to access and use, solely on the Services, the Payward Materials for your personal or internal business use of the Services. Such license is subject to these Terms and does not permit (a) any resale of the Payward Materials; (b) the distribution, public performance or public display of any Payward Materials; (c) modifying or otherwise making any derivative uses of the Payward Materials, or any portion thereof; or (d) any use of the Payward Materials other than for their intended purposes. The license granted under this Section will automatically terminate if we suspend or terminate your access to the Services. All rights not expressly granted to you under these Terms are reserved to Payward or our applicable licensor(s) or supplier(s), as applicable.
     
-15. ### Trademarks
+7. ### Trademarks
     
     "Payward," "Kraken," the Kraken logo, the Payward logo and any other Payward product or service names, logos or slogans that may appear on our Services are trademarks of Payward, in the United States and in other countries, and may not be copied, imitated or used, in whole or in part, without our prior written permission. You may not use any trademark, product or service name of Payward without our prior written permission, including without limitation any metatags or other "hidden text" utilizing any trademark, product or service name of Payward. In addition, the look and feel of our Services, including all page headers, custom graphics, button icons and scripts, is the service mark, trademark and/or trade dress of Payward and may not be copied, imitated or used, in whole or in part, without our prior written permission. All other trademarks, registered trademarks, product names and company names or logos mentioned or displayed through our Services are the property of their respective owners. Reference to any products, services, processes or other information, by name, trademark, manufacturer, supplier or otherwise does not constitute or imply endorsement, sponsorship or recommendation by us.
     
-16. ### Third-Party Content
+8. ### Third-Party Content
     
     In using our Services, you may view content provided by third parties, including links to web pages of such parties, including but not limited to Facebook and Twitter links ("Third-Party Content"). We do not control, endorse or adopt any Third-Party Content and shall have no responsibility for Third-Party Content, including without limitation material that may be misleading, incomplete, erroneous, offensive, indecent or otherwise objectionable. In addition, your business dealings or correspondence with such third parties are solely between you and the third parties. We are not responsible or liable for any loss or damage of any sort incurred as the result of any such dealings, and you understand that your use of Third-Party Content, and your interactions with third parties, is at your own risk.
     
-17. ### Suspension; Termination
+9. ### Suspension; Termination
     
     In the event of any Force Majeure Event (as defined in Section 23.5), breach of these Terms, or any other event that would make provision of the Services commercially unreasonable for Payward, we may, in our discretion and without liability to you, with or without prior notice, suspend your access to all or a portion of our Services. We may terminate your access to the Services in our sole discretion, immediately and without prior notice, and delete or deactivate your Kraken Account and all related information and files in such account without liability to you, including, for instance, in the event that you breach any of these Terms. In the event of termination, Payward will attempt to return any Assets stored in your Kraken Account not otherwise owed to Payward, unless Payward believes you have committed fraud, negligence or other misconduct.
     
-18. ### Discontinuance of Services
+10. ### Discontinuance of Services
     
     We may, in our sole discretion and without liability to you, with or without prior notice and at any time, modify or discontinue, temporarily or permanently, any portion of our Services.
     
-19. ### Disclaimer of Warranties
+11. ### Disclaimer of Warranties
     
     EXCEPT AS EXPRESSLY PROVIDED TO THE CONTRARY IN THESE TERMS, OUR SERVICES ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. WE EXPRESSLY DISCLAIM, AND YOU WAIVE, ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT AS TO OUR SERVICES, INCLUDING THE INFORMATION, CONTENT AND MATERIALS CONTAINED THEREIN.
     
@@ -274,7 +275,7 @@
     
     Some jurisdictions do not allow the disclaimer of implied terms in contracts with consumers, so some or all of the disclaimers in this section may not apply to you.
     
-20. ### Limitation of Liability
+12. ### Limitation of Liability
     
     (a) EXCEPT AS OTHERWISE REQUIRED BY LAW, IN NO EVENT SHALL PAYWARD, OUR DIRECTORS, MEMBERS, EMPLOYEES OR AGENTS BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY OTHER DAMAGES OF ANY KIND, INCLUDING BUT NOT LIMITED TO LOSS OF USE, LOSS OF PROFITS OR LOSS OF DATA, WHETHER IN AN ACTION IN CONTRACT, TORT (INCLUDING BUT NOT LIMITED TO NEGLIGENCE) OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF OR INABILITY TO USE OUR SERVICES OR THE PAYWARD MATERIALS, INCLUDING WITHOUT LIMITATION ANY DAMAGES CAUSED BY OR RESULTING FROM RELIANCE BY ANY USER ON ANY INFORMATION OBTAINED FROM PAYWARD, OR THAT RESULT FROM MISTAKES, OMISSIONS, INTERRUPTIONS, DELETION OF FILES OR EMAIL, ERRORS, DEFECTS, VIRUSES, DELAYS IN OPERATION OR TRANSMISSION OR ANY FAILURE OF PERFORMANCE, WHETHER OR NOT RESULTING FROM A FORCE MAJEURE EVENT, COMMUNICATIONS FAILURE, THEFT, DESTRUCTION OR UNAUTHORIZED ACCESS TO PAYWARD'S RECORDS, PROGRAMS OR SERVICES.  
       
@@ -282,17 +283,17 @@
       
     (b) TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE AGGREGATE LIABILITY OF PAYWARD (INCLUDING OUR DIRECTORS, MEMBERS, EMPLOYEES AND AGENTS), WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE, WHETHER ACTIVE, PASSIVE OR IMPUTED), PRODUCT LIABILITY, STRICT LIABILITY OR OTHER THEORY, ARISING OUT OF OR RELATING TO THE USE OF, OR INABILITY TO USE, THE SERVICES OR TO THESE TERMS EXCEED THE FEES PAID BY YOU TO PAYWARD FOR THE APPLICABLE SERVICES DURING THE 12 MONTHS IMMEDIATELY PRECEDING THE DATE OF ANY CLAIM GIVING RISE TO SUCH LIABILITY.
     
-21. ### Indemnity
+13. ### Indemnity
     
     You agree to defend, indemnify and hold harmless Payward (and each of our officers, directors, members, employees, agents and affiliates) from any claim, demand, action, damage, loss, cost or expense, including without limitation reasonable attorneys’ fees, arising out or relating to (a) your use of, or conduct in connection with, our Services; (b) any Feedback you provide; (c) your violation of these Terms; or (d) your violation of any rights of any other person or entity. If you are obligated to indemnify us, we will have the right, in our sole discretion, to control any action or proceeding (at our expense) and determine whether we wish to settle it.
     
-22. ### Applicable Law; Arbitration
+14. ### Applicable Law; Arbitration
     
     PLEASE READ THE FOLLOWING PARAGRAPH CAREFULLY BECAUSE IT REQUIRES YOU TO ARBITRATE DISPUTES WITH US AND IT LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF.
     
     You and Payward agree to arbitrate any dispute arising from these Terms or your use of the Services, except for disputes in which either party seeks equitable and other relief for the alleged unlawful use of copyrights, trademarks, trade names, logos, trade secrets or patents. ARBITRATION PREVENTS YOU FROM SUING IN COURT OR FROM HAVING A JURY TRIAL. You and Payward agree to notify each other in writing of any dispute within thirty (30) days of when it arises. Notice to Payward shall be sent to [legal@kraken.com](mailto:legal@kraken.com). You and Payward further agree: (a) to attempt informal resolution prior to any demand for arbitration; (b) that any arbitration will occur in San Francisco, California; (c) that arbitration will be conducted confidentially by a single arbitrator in accordance with the rules of JAMS; and (d) that the state or federal courts in San Francisco, California have exclusive jurisdiction over any appeals of an arbitration award and over any suit between the parties not subject to arbitration. Other than class procedures and remedies discussed below, the arbitrator has the authority to grant any remedy that would otherwise be available in court. Any dispute between the parties will be governed by these Terms and the laws of the State of California and applicable United States law, without giving effect to any conflict of laws principles that may provide for the application of the law of another jurisdiction. Whether the dispute is heard in arbitration or in court, you and Payward will not commence against the other a class action, class arbitration or representative action or proceeding.
     
-23. ### Miscellaneous
+15. ### Miscellaneous
     
     1. **Entire Agreement; Order of Precedence.** These Terms contain the entire agreement, and supersede all prior and contemporaneous understandings between the parties regarding the Services. These Terms do not alter the terms or conditions of any other electronic or written agreement you may have with Payward for the Services or for any other Payward product or service or otherwise. In the event of any conflict between these Terms and any other agreement you may have with Payward, the terms of that other agreement will control only if these Terms are specifically identified and declared to be overridden by such other agreement.
     2. **Amendment.** We reserve the right to make changes or modifications to these Terms from time to time, in our sole discretion, by posting the amended Terms via the applicable Payward websites and mobile applications or by communicating these changes through any written or other contact method we have established with you and updating the "Last Updated" date at the top of these Terms. The amended Terms will be effective immediately thereafter and your use of the Services following the date on which such amended Terms are published will constitute consent to such amendments.
@@ -303,11 +304,11 @@
     7. **Headings.** Headings of sections are for convenience only and shall not be used to limit or construe such sections.
     8. **Survival.** Sections 2 (Eligibility), Section 3 (Kraken Account), 8 (Risk Disclosure), 9 (Fees), 11 (Unclaimed Property), 13 (Feedback), 14 (Copyrights), 15 (Trademarks), 16 (Third-Party Content), 19 (Disclaimer of Warranties), 20 (Limitation of Liability); 21 (Indemnity), 22 (Applicable Law; Arbitration) and this Section 23 (Miscellaneous) shall survive any termination or expiration of these Terms.
     9. **California residents.** If you are a California resident, in accordance with Cal. Civ. Code § 1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting them in writing at 1625 North Market Blvd., Suite N 112 Sacramento, CA 95834, or by telephone at (800) 952-5210.
-24. ### Jurisdiction-specific Legal Disclosures
+16. ### Jurisdiction-specific Legal Disclosures
     
     Payward maintains licenses and registrations in certain jurisdictions to provide you our Services. These licenses or registrations may impact our provision and your use of our services depending on where you live or are domiciled. Information regarding certain of Payward’s licenses and registrations, or lack thereof, and corresponding disclosures can be found on the [Kraken Legal Disclosures page](https://www.kraken.com/legal/disclosures), which is incorporated into these Terms by reference. By creating a Kraken account, you acknowledge that you have read, understand and agree to those disclosures that are applicable to you.
     
-25. ### Sanctions and Export Control
+17. ### Sanctions and Export Control
     
     1. Unless authorized or exempt from regulation, the Services may not be used to deposit, withdraw or conduct trades or transactions in Assets or to engage in any other service by or with:  (a) an entity or individual located, organized or resident in a sanctioned jurisdiction (currently, Crimea, Donetsk, Cuba, Iran, Luhansk, North Korea and Syria); (b) an entity or individual on the Office of Foreign Assets Control’s Specially Designated Nationals and Blocked Persons List (“SDN List”) or Consolidated Non-SDN Lists available [here](https://sanctionssearch.ofac.treas.gov/), the United Nations (“UN”) Security Council Consolidated List available [here](https://www.un.org/securitycouncil/content/un-sc-consolidated-list), or regional or foreign government watchlists; or (c) an entity directly or indirectly owned or controlled by any person located, organized or resident in a sanctioned jurisdiction or any person listed on the SDN List, Consolidated Non-SDN Lists, the UN Security Council Consolidated List, or regional or foreign government watchlists.
         
@@ -315,6 +316,6 @@
         
     3. By using Payward software, you represent and warrant that you are not located in an embargoed country or jurisdiction (currently, Crimea, Cuba, Donetsk, Iran, Luhansk, North Korea, Sudan and Syria) or on the Office of Foreign Assets Control’s SDN List or the U.S. Department of Commerce’s Entity List available [here](https://www.trade.gov/consolidated-screening-list). You also agree that Payward software will not be used, exported, reexported or transferred for any purpose prohibited by U.S. or local export or import control laws and regulations. 
         
-26. ### Referral Program
+18. ### Referral Program
     
     Kraken may, from time to time, offer a referral program for users with a current Kraken Account. The terms of any such referral program will be contained on the Kraken.com page for that referral program.
