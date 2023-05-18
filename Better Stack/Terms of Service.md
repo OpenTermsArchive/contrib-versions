@@ -94,7 +94,7 @@ General Representation and Warranty
 
 You represent and warrant that (i) your use of the Website will be in strict accordance with the Better Stack Privacy Policy, with this Agreement and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from the United States or the country in which you reside) and (ii) your use of the Website will not infringe or misappropriate the intellectual property rights of any third party.
 
-You or Better Stack may identify the other as a user or customer and may use the other’s company name and logo in blog posts, press releases, advertisements, and on their respective websites. You also grant Better Stack a non-exclusive license to use your trademarks for the purpose of referring to you within the user interface for the Website. Better Stack’s right to use your name and logo may be revoked by writing to [\[email protected\]](https://betterstack.com/cdn-cgi/l/email-protection)
+You or Better Stack may identify the other as a user or customer and may use the other’s company name and logo in blog posts, press releases, advertisements, and on their respective websites. You also grant Better Stack a non-exclusive license to use your trademarks for the purpose of referring to you within the user interface for the Website. Better Stack’s right to use your name and logo may be revoked by writing to hello@betterstack.com.
 
 Indemnification
 ---------------
