@@ -20,7 +20,7 @@ Who processes your data
 
 Your data is being processed by our company **Better Stack, Inc.**, a Delaware corporation (**“Better Stack”**, **“we”**, **“us”** or **“our”**).
 
-To learn more about data management or if you have any other questions, please contact us at [\[email protected\]](https://betterstack.com/cdn-cgi/l/email-protection)
+To learn more about data management or if you have any other questions, please contact us at hello@betterstack.com.
 
 What data is processed
 ----------------------
@@ -91,7 +91,7 @@ We process the email address, payment information and other data provided by you
 
 **Market our Services.** We may market our current or future Services if you subscribe to our newsletter on our Site and by doing so, you provide us your consent with the processing of your email address for the marketing purposes.
 
-There are several ways you can stop direct marketing communications from us: click the “Unsubscribe” link in any email communication that we send you, or withdraw your consent through [\[email protected\]](https://betterstack.com/cdn-cgi/l/email-protection)
+There are several ways you can stop direct marketing communications from us: click the “Unsubscribe” link in any email communication that we send you, or withdraw your consent through hello@betterstack.com.
 
 **Improve our Services.** This purpose includes the following processing activities using technical information:
 
@@ -141,7 +141,7 @@ If you are a California resident, California Civil Code Section 1798.83 permits 
 
 We are aware of your rights afforded to California residents under the California Consumer Privacy Act (the “CCPA”). Even though the CCPA does not apply to us now, we are ready to protect your PII and give you an option to exercise your right under CCPA once it becomes applicable.
 
-To contact us with questions about our rights under California privacy laws, email us at [\[email protected\]](https://betterstack.com/cdn-cgi/l/email-protection)
+To contact us with questions about our rights under California privacy laws, email us at hello@betterstack.com.
 
 Your rights
 -----------
@@ -152,9 +152,9 @@ Your rights
 
 **Right to restriction of processing.** You may request us to restrict certain processing of your personal data. If you restrict certain processing of your personal data, this may lead to fewer possibilities to use our Services and Site.
 
-**How to use your rights.** You may exercise your rights above, free of charge, in writing by sending a letter or email at [\[email protected\]](https://betterstack.com/cdn-cgi/l/email-protection) We may require confirmation of your identity depending on your request.
+**How to use your rights.** You may exercise your rights above, free of charge, in writing by sending a letter or email at hello@betterstack.com. We may require confirmation of your identity depending on your request.
 
 Data security
 -------------
 
-We take all reasonable, appropriate security measures to protect our customers from unauthorized access to or unauthorized alteration, disclosure or destruction of PII we hold. Measures include, where appropriate, encryption, firewalls, secure facilities and access rights systems. Should despite the security measures, a security breach occur that is likely to have negative effects to your privacy, we will inform you about the breach as soon as reasonably possible. If you have any questions, feel free to contact us at [\[email protected\]](https://betterstack.com/cdn-cgi/l/email-protection)
+We take all reasonable, appropriate security measures to protect our customers from unauthorized access to or unauthorized alteration, disclosure or destruction of PII we hold. Measures include, where appropriate, encryption, firewalls, secure facilities and access rights systems. Should despite the security measures, a security breach occur that is likely to have negative effects to your privacy, we will inform you about the breach as soon as reasonably possible. If you have any questions, feel free to contact us at hello@betterstack.com.
