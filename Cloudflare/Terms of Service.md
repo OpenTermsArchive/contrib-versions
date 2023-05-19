@@ -241,12 +241,7 @@ Notwithstanding Section 16, if Subsection 17.1 is found to be unenforceable or i
 
 By using the Service, you consent to receiving certain electronic communications from us as further described in our Privacy Policy. Please read our Privacy Policy to learn more about your choices regarding our electronic communications practices. You agree that any notices, agreements, disclosures, or other communications that we send to you electronically will satisfy any legal communication requirements, including that such communications be in writing.
 
-19\. Publicity
---------------
-
-You agree to allow us to identify you as a customer, to use your website’s name in connection with proposals to prospective customers, to hyperlink to your website’s home page, to display your logo on the Cloudflare website, and to otherwise refer to you in print or electronic form for marketing or reference purposes. If you do not wish for Cloudflare to use your name or logo in any of the preceding ways, please contact [support@cloudflare.com](mailto:support@cloudflare.com).
-
-20\. Contact Information
+19\. Contact Information
 ------------------------
 
-The Service is offered by Cloudflare, Inc., located at 101 Townsend St., San Francisco, California 94107. You may contact us by sending correspondence to the foregoing address or by emailing us at [support@cloudflare.com](mailto:support@cloudflare.com). If you are a California resident, you may have this Agreement mailed to you electronically by sending a letter to the foregoing address with your electronic mail address and a request for this Agreement.
+The Service is offered by Cloudflare, Inc., located at 101 Townsend St., San Francisco, California 94107. You may contact us by sending correspondence to the foregoing address or by logging into your account at [https://dash.cloudflare.com/?to=/:account/support](https://dash.cloudflare.com/?to=/:account/support). If you are a California resident, you may have this Agreement mailed to you electronically by sending a letter to the foregoing address with your electronic mail address and a request for this Agreement.
