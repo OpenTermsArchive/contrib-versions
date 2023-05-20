@@ -1,6 +1,6 @@
-See [Terms of Use](file:///legal/2020-04/en/terms.html) effective before 2020-04-07.
+See [Terms of Use](https://about.ask.fm/legal/2022-03/en/terms.html) effective before 2022-03-23.
 
-Effective Date: 2020-04-07
+Effective Date: 2022-03-23
 
 1\. Important information
 =========================
@@ -89,7 +89,7 @@ Non-registered users are able to access only the parts of the Services that are 
 3F. Can someone that is not registered ask me a question?
 ---------------------------------------------------------
 
-In some countries, we permit the asking of questions by unregistered users. In order to ask an unregistered question, you must accept our terms of use and privacy policy. For full information on unregistered users, what data we collect about them and how you can choose to receive questions from them or not, please see our [Privacy Policy](file:///Users/artem/Downloads/privacy.html). If you are asking a question as an unregistered user, you must continue to follow the rules of conduct of the site and app or you will be banned at our discretion for abuse of this feature at any time and for any reason, if we suspect or believe you are breaching our rules, these terms, any of our policies, or have been reported by another user for improper or concerning behaviour.
+In some countries, we permit the asking of questions by unregistered users. In order to ask an unregistered question, you must accept our terms of use and privacy policy. For full information on unregistered users, what data we collect about them and how you can choose to receive questions from them or not, please see our [Privacy Policy](https://about.ask.fm/legal/en/privacy.html). If you are asking a question as an unregistered user, you must continue to follow the rules of conduct of the site and app or you will be banned at our discretion for abuse of this feature at any time and for any reason, if we suspect or believe you are breaching our rules, these terms, any of our policies, or have been reported by another user for improper or concerning behaviour.
 
 4\. What are the rules of using ASKfm?
 ======================================
@@ -97,33 +97,48 @@ In some countries, we permit the asking of questions by unregistered users. In o
 4A. What are the Community Guidelines?
 --------------------------------------
 
-Community Guidelines are important to any online community, as they let you know what we expect from users and how they interact with each other to ensure everyone has an enjoyable experience at ASKfm. You can read the Community Guidelines [here](file:///community-guidelines/).
+Community Guidelines are important to any online community, as they let you know what we expect from users and how they interact with each other to ensure everyone has an enjoyable experience at ASKfm. You can read the Community Guidelines [here](https://about.ask.fm/community-guidelines/).
 
 4B. What is the Safety Center?
 ------------------------------
 
 We want all users to have a safe experience online, and we have created, with industry experts and the support of our Safety Advisory Board, many resources to help you, your parents, teachers and law enforcement agencies understand our approach to safety and how you can enjoy a safe experience. You should look at the Safety Center, which is [here](https://safety.ask.fm/) and has lots of helpful information for you, your parents, teachers and law enforcement.
 
-4C. What am I allowed or not allowed to post on ASKfm?
+4C. Counter Terrorism and Violent Extremism Policy
+--------------------------------------------------
+
+There is no place for terrorism or extremism on Ask.fm. When considering if something is ‘terrorism’ we stay informed by assessing in line with industry best practices, and the [United Nations Security Council Consolidated List](https://www.un.org/securitycouncil/content/un-sc-consolidated-list). We are committed to creating a safe environment online and we cooperate with Tech Against Terrorism as we support their mission to counter violent extremism and terrorism.
+
+4D. Commitment to safeguarding human rights
+-------------------------------------------
+
+(1) Prohibition of Terrorism and Violent Extremism. Any content that promotes or incites terrorism, violent extremism, or any form of violent behavior are prohibited on ASKfm. ASKfm will not tolerate such content and users who engage in such behavior will be subject to disciplinary action, including suspension or termination of their account.
+
+(2) Respect for Human Dignity: ASK.fm is committed to safeguards human rights, in line with the UN Guiding Principles on Business and Human Rights (UNGP). In particular, ASK.fm is committed to ensuring that all members of the community are treated with dignity and respect, regardless of their race, ethnicity, gender, sexual orientation, religion, or any other characteristic.
+
+(3) Prohibition of Harassment: ASKfm does not tolerate any form of harassment, including bullying, cyberbullying, and stalking. Users who engage in such behavior will be subject to disciplinary action, including suspension or termination of their account.
+
+4E. What am I allowed or not allowed to post on ASKfm?
 ------------------------------------------------------
 
 You are solely responsible for everything you write or post on ASKfm, and the following rules apply (the “Rules of Conduct”).
 
-You must not post or send anything which:
+We want to create a safe environment and there are some things which we do not allow at all on ASKfm.
 
-* Is mean, is bullying someone or is intended to harass, scare or upset anyone;
-* Is deliberately designed to provoke or antagonize people, especially trolling;
-* Uses rude words or is intended to upset or embarrass anyone;
-* Encourages dangerous or illegal activities or self-harm;
-* Depicts horrible, shocking or distressing things;
-* Is obscene or pornographic, contains any pictures of naked people, is sexually explicit or depicts graphic violence;
-* Contains any threat of any kind, including threats of physical violence to yourself or others, or incites others to commit violent acts against themselves or others;
+You must not post, share or send any kind of content which:
+
+* Is mean, is bullying someone or is intended to harass, scare or upset anyone and we don’t allow you to deliberately provoke or annoy people – no trolling!
+* Encourages anyone to self-harm, or in any way promotes or supports self-harm;
+* Involves you doing, or making any threats to commit, any form of physical, mental or sexual violence to yourself or others, even if it’s someone who is not on ASKfm. And that includes not allowing you to promote, support, or encourage or entice any other person (another user or not) to do any of those things, or threaten to;
+* Is horrible, shocking, distressing, obscene or pornographic, contains any pictures of naked people, is sexually explicit, depicts graphic violence, shows or encourages physical, sexual or psychological exploitation of anyone but especially children, human trafficking specifically related to children, or sexual grooming, or any content which, by posting or sharing it, may be considered as an act of harassment to others;
+* Is illegal, or promotes or attempts to sell any illegal activity or product, or encourages people to get involved in any form of illegal or dangerous activities of any kind including but not limited to violence, crime, glorifying or promoting/selling of guns, knives and any other weapons, explosives (including posts which promote how to assemble, make or use any form of weapon and/or explosives);
+* Is any way related to terrorism, violent extremism, or encouraging or supporting terrorist or extremist organisations, praising, promoting or supporting any terrorist, extremist or violent action or event, using symbols of any such organisation or group in any content and you are not allowed to use ASKfm to promote terroristic campaigns or plans, make any posts claiming to ‘celebrate’ their violent acts, fundraising, or recruiting adults or young people to join such groups or acts;
+* Uses rude words or is intended to upset or embarrass anyone, even if that person isn’t on ASKfm;
 * Promotes the sale or other promotion of any products or goods which are prohibited or illegal or counterfeit (in any territory) or obtained from any endangered or threatened species;
 * Promotes or attempts to arrange marriage between any persons in what could be considered "marriage for sale", or "arranged marriages" or "foreign marriages";
 * Sells or promotes (or encourages any person to be involved in the sale or promotion of) (i) tobacco and tobacco-related products, substances that alter mental state for the purpose of recreation or otherwise induce "highs", products or services marketed as facilitating recreational drug use (includes a restriction on providing instructions on producing, purchasing, or using recreational drugs) (ii) alcoholic beverages (or promotes irresponsible alcohol consumption), (iii) prescription medication or unapproved pharmaceuticals and supplements, (iv) online, real-money gambling or any internet-based game where money or other items of value are paid or wagered in exchange for the opportunity to win real money or prizes based on the outcome of the game;
 * Is racist or discriminates based on someone’s race, religion, age, gender, disability or sexuality, veteran status, or any other characteristic that is associated in law with discrimination or marginalization;
 * Infringes other individual’s privacy rights;
-* Is illegal, or promotes or attempts to sell any illegal activity or product, or encourages people to get involved in any form of illegal or dangerous activities including but not limited to violence, crime, terrorism, glorifying or promoting/selling of guns, knives and any other weapons, explosives (including posts which promote how to assemble, make or use any form of weapon and/or explosives);
 * Is defamatory or violates any third party’s rights, including breach of confidence, copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property right;
 * Constitutes spam, attempts to sell anything to other users, or competes with the business of ASKfm;
 * Contains any computer virus or other malicious code designed to attack, damage, divert, take over, disable, overburden, or otherwise impair the Services;
@@ -137,25 +152,48 @@ You must not post or send anything which:
 * Otherwise breaches the TOU; or
 * Attempts to do any of the above.
 
-4D. Do you check my account and my posts?
+4F. Do you check my account and my posts?
 -----------------------------------------
 
 You acknowledge that we have no obligation to monitor your access to or use of the Services for violations of the TOU or to review or edit any content. However, we have the right to do so for the purpose of operating and improving the Services (including without limitation for fraud prevention, risk assessment, investigation and customer support purposes), to ensure your compliance with the TOU and to comply with applicable law or the order or requirement of a court, consent decree, administrative agency or other governmental body. We can also block or respond to content that we determine is otherwise objectionable or as set forth in the TOU. In addition, you acknowledge that we have your consent to monitor and block content that we consider to be harassing or bullying.
 
-4E. Can you block any content I posted if I broke the rules?
+4G. Can you block any content I posted if I broke the rules?
 ------------------------------------------------------------
 
 We reserve the right, at any time and without prior notice, to remove or disable access to any content for any reason or no reason. Some of the reasons we may remove or disable access to content may include finding the content objectionable, in violation of the TOU or otherwise harmful to the Services or our users.
 
-4F. Who can see what I post?
+We are aware that some people may use harsh language when communicating with friends during informal conversation, so we consider this and such forms of casual speech when assessing if content is intended to cause offence, or not. We also have to think about whether the question is open or anonymous, if the content is within a shoutout, what a recipient’s reaction is or could be, any user reports on the content or user reports about any profile. We try to take a full view of any situation, meaning we also consider the full context, and the age of the users involved.
+
+We may also send warnings before disabling any content or profile, to give you a chance to improve your behaviour on ASKfm.
+
+If you find your content has been removed, or your profile has been blocked or banned, you can contact our support team via the contact form or email for an explanation. It is important to learn from negative behaviour and our support team may, in certain situations, be able to advise you why your content or profile has been removed, blocked or banned. We respect your right to express yourself freely on the Internet, which is why we believe that you deserve to know why certain actions may have been taken by us against your account or your content, if we are able to tell you. Sometimes, it may not be possible for us to tell you why we have taken action against your content for legal or security reasons. If content has been removed by us, even if we have had discussions with you and agree to reinstate the content, unfortunately we cannot restore the exact post, picture or video. If your profile has been blocked, we have the discretion to restore the whole profile only within the first 90 days after the profile termination, so if you don’t agree with your profile removal, it is important to contact us and explain why you think we have made a mistake. It is our platform and our responsibility to try and make it as safe as possible, so remember that although you can contact us to discuss things, the final decision about what is allowed or not on ASKfm is ours.
+
+4H. Who can see what I post?
 ----------------------------
 
-When you post or upload anything on the Services, it can be seen or accessed by the general public (not just registered members) as further described in our [Privacy Policy](file:///Users/artem/Downloads/privacy.html). An important thing to remember is that we may access, preserve or disclose any of your information, if we are required to do so by law or if we believe in good faith that it is reasonably necessary to (i) respond to claims asserted against us or to comply with legal process (for example, subpoenas or warrants), including those issued by courts having jurisdiction over us or you, (ii) enforce or administer our agreements with users, such as these TOU; (iii) for fraud prevention, risk assessment, investigation, customer support, providing the Services or engineering support, or (iv) protect the rights, property or safety of ASKfm, the users of the Services, or members of the public.
+When you post or upload anything on the Services, it can be seen or accessed by the general public (not just registered members) as further described in our [Privacy Policy](https://about.ask.fm/legal/en/privacy.html). An important thing to remember is that we may access, preserve or disclose any of your information, if we are required to do so by law or if we believe in good faith that it is reasonably necessary to (i) respond to claims asserted against us or to comply with legal process (for example, subpoenas or warrants), including those issued by courts having jurisdiction over us or you, (ii) enforce or administer our agreements with users, such as these TOU; (iii) for fraud prevention, risk assessment, investigation, customer support, providing the Services or engineering support, or (iv) protect the rights, property or safety of ASKfm, the users of the Services, or members of the public.
 
-5\. Does ASKfm own my content once I post it online?
-====================================================
+4I. Can I report bad content and what will ASKfm do about it?
+-------------------------------------------------------------
+
+Anyone can report potential violations of our policy. ASKfm users can report the exact post from the feed, question from inbox, visible chat message or the whole profile. If the moderation team receives a user report for things including but not limited to violence, extremism, self-harm, sexual exploitation of minors, child human trafficking, grooming and other serious illegal offenses, we report these cases to Law Enforcement and/or NCMEC (National Center for Missing and Exploited Children). Please check the list of our Safety Tools here.
+
+Profiles which are created only for the prohibited activities or for distribution of prohibited content and spam will be banned straight away and are not welcome on ASKfm. We have an internal violation counter and special algorithms helping to define offending profiles and ban them from using ASKfm.
+
+5\. Content and features
+========================
+
+5A. Does ASKfm own my content once I post it online?
+----------------------------------------------------
 
 If you submit material to the Services, unless we indicate otherwise, you grant us a perpetual (for questions you ask only), non-exclusive, royalty-free and fully-paid-up, and fully sub-licensable right to access, view, use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, copy, and display such material throughout the world in any form, media, or technology now known or hereafter developed. You also permit any other user to view, copy, access, store, or reproduce such material for that user’s personal use. You grant us the right to use the name or username that you submit in connection with such material. You represent and warrant that you own or otherwise control all of the rights to the material that you submit; that the material you submit is truthful and accurate; and that use of the material you supply does not violate these TOU, the rights of any third party, or any applicable laws. You unconditionally waive in favor of us all moral rights in respect of material you submit to the Services under any laws in force from time to time in any part of the world. If you leave the Services, your account information and any material you have posted in response to questions will be deleted, but your questions will remain on the Services in an anonymous form.
+
+5B. What about using features not operated by ASKfm?
+----------------------------------------------------
+
+From time to time, there may be some features available that are not directly created or managed by ASKfm.
+
+Examples include the "Find Professionals" service, which is operated by SENDERSYSTEMS LIMITED, Cornerstone Business Centre, Suite 1, Level 2, 16th September Square, Mosta, MST 1180, Malta.
 
 6\. In-app purchases
 ====================
@@ -190,11 +228,13 @@ We may, from time to time, make available in-app purchases, where for payment, y
 
 (a) ASK coins are digital content of ASKfm which provides to the holder of ASK coins the rights to use additional possibilities or the additional services provided by ASKfm under the terms provided by ASKfm. From time to time, it may be available for Users to purchase ASK coins under the terms provided hereunder. ASK coins do not constitute financial instruments or money, cryptocurrency or quasi-money.
 
-(b) Ask coins cannot be combined or used in conjunction with other digital content, promotions, coupons, discounts or special offers, unless otherwise expressly permitted by ASKfm.
+(b) ASKfm Coins can be debited from wallets if the user has not been active in the application for more than 90 days. Activity refers to the movement of coins, which is initiated by the owner of the coins.
 
-(c) Acquiring ASK coins including by paying price of ASK coins you do not acquire ownership title to Ask coins. You do not acquire the right to (shall restrain from) sell, assign, barter, make gift of or otherwise dispose Ask coins unless such disposal expressly permitted by ASKfm. Acquiring ASK coins including by paying price of ASK coins ASKfm grants you a personal, limited, revocable, non-exclusive and non-transferable license to access and use ASK coins on ASKfm only as expressly permitted and for the term provided by the guidelines of ASKfm and these TOU. Accrued by you Ask coins do not constitute your property and are not transferable under procedure of inheritance and/or succession. Unless otherwise expressly permitted by ASKfm any deals on sale-purchase, assignment, barter or otherwise transfer of Ask coins are void and do not crate any legal consequences. Out of Askfm Ask coins cannot be exchanged for cash, or legal tender, or currency of any state, region, or any political entity, or any other form of credit. ASKfm reserves the right to determine the duration and requirements of the validity of ASK coins. Upon the duration of the validity of ASK coins or if you fail to meet the requirements of the validity of ASK coins, ASKfm shall have the right to forfeit ASK coins from your account. ASKfm reserves the right to terminate or suspend your access to the Services as well as to terminate or suspend your account with forfeiture of ASK coins from your account if ASKfm in its sole discretion has reasons to believe that you violated any terms of this TOU or other legal documents of ASKfm. The way you can use ASK coins on ASKfm, designated by ASKfm according to the various factors and is subject of the detailed guidelines of ASKfm.
+(c) Ask coins cannot be combined or used in conjunction with other digital content, promotions, coupons, discounts or special offers, unless otherwise expressly permitted by ASKfm.
 
-(d) ASK coins are proprietary and are protected by copyright laws, international treaty provisions, trademarks, service marks, and other intellectual property laws and treaties. ASK coins are also protected as a collective work or compilation under copyright and other laws and treaties. You agree to abide by all applicable copyright and other laws as well as any additional copyright notices or restrictions provided by ASKfm. All present and future rights in and to trade secrets, patents, designs, copyrights, trademarks, service marks, know-how, and other proprietary rights of any type under the laws of any governmental authority, domestic or foreign, including rights in and to all applications and registrations relating to ASK coins shall, as between you and ASKfm, at all times be and remain the sole and exclusive property of ASKfm.
+(d) Acquiring ASK coins including by paying price of ASK coins you do not acquire ownership title to Ask coins. You do not acquire the right to (shall restrain from) sell, assign, barter, make gift of or otherwise dispose Ask coins unless such disposal expressly permitted by ASKfm. Acquiring ASK coins including by paying price of ASK coins ASKfm grants you a personal, limited, revocable, non-exclusive and non-transferable license to access and use ASK coins on ASKfm only as expressly permitted and for the term provided by the guidelines of ASKfm and these TOU. Accrued by you Ask coins do not constitute your property and are not transferable under procedure of inheritance and/or succession. Unless otherwise expressly permitted by ASKfm any deals on sale-purchase, assignment, barter or otherwise transfer of Ask coins are void and do not crate any legal consequences. Out of Askfm Ask coins cannot be exchanged for cash, or legal tender, or currency of any state, region, or any political entity, or any other form of credit. ASKfm reserves the right to determine the duration and requirements of the validity of ASK coins. Upon the duration of the validity of ASK coins or if you fail to meet the requirements of the validity of ASK coins, ASKfm shall have the right to forfeit ASK coins from your account. ASKfm reserves the right to terminate or suspend your access to the Services as well as to terminate or suspend your account with forfeiture of ASK coins from your account if ASKfm in its sole discretion has reasons to believe that you violated any terms of this TOU or other legal documents of ASKfm. The way you can use ASK coins on ASKfm, designated by ASKfm according to the various factors and is subject of the detailed guidelines of ASKfm.
+
+(e) ASK coins are proprietary and are protected by copyright laws, international treaty provisions, trademarks, service marks, and other intellectual property laws and treaties. ASK coins are also protected as a collective work or compilation under copyright and other laws and treaties. You agree to abide by all applicable copyright and other laws as well as any additional copyright notices or restrictions provided by ASKfm. All present and future rights in and to trade secrets, patents, designs, copyrights, trademarks, service marks, know-how, and other proprietary rights of any type under the laws of any governmental authority, domestic or foreign, including rights in and to all applications and registrations relating to ASK coins shall, as between you and ASKfm, at all times be and remain the sole and exclusive property of ASKfm.
 
 6C. Acquisition of the right to use Ask coins by User
 -----------------------------------------------------
@@ -276,7 +316,7 @@ Upon termination or expiration of your rights to use the Services or any portion
 9A. We give you a limited licence to use the Services
 -----------------------------------------------------
 
-We grant you a personal, limited, revocable, non-exclusive and non-transferable license to access and use the Services only as expressly permitted in these TOU. You shall not use the Services for any illegal purpose or in any manner inconsistent with the provisions of these TOU. You may use the information made available through the Services solely for your personal, non-commercial use. You may also download material displayed on the Services for personal, non-commercial use only, provided that you also retain all copyright and other proprietary notices contained on or in the materials. Except as expressly granted herein, you may not distribute, modify, transmit, reuse, re-post, or use the content or the Services for any purpose without our permission. Any violation by you of the license provisions contained in this Section 4C may result in the immediate termination of your right to use the Services as well as potential liability for copyright infringement depending on the circumstances.
+We grant you a personal, limited, revocable, non-exclusive and non-transferable license to access and use the Services only as expressly permitted in these TOU. You shall not use the Services for any illegal purpose or in any manner inconsistent with the provisions of these TOU. You may use the information made available through the Services solely for your personal, non-commercial use. You may also download material displayed on the Services for personal, non-commercial use only, provided that you also retain all copyright and other proprietary notices contained on or in the materials. Except as expressly granted herein, you may not distribute, modify, transmit, reuse, re-post, or use the content or the Services for any purpose without our permission. Any violation by you of the license provisions contained in this Section 9A may result in the immediate termination of your right to use the Services as well as potential liability for copyright infringement depending on the circumstances.
 
 9B. We make changes to the Services or update it if we choose to
 ----------------------------------------------------------------
@@ -336,10 +376,11 @@ For the purpose of the DMCA, ASKfm’s Agent for notice of claims of copyright o
 
 **By mail**  
 Copyright Agent  
-Edison Legal Ltd  
-62 Mountcastle Wynd  
-Kilwinning  
-KA13 6DH
+Ask.fm  
+6th Floor  
+South Bank House  
+Barrow Street  
+Dublin 4, Ireland
 
 **By email**  
 copyright@ask.fm
@@ -389,7 +430,7 @@ By using the Services, including certain features such as invite-a-friend, on yo
 12C. Entire Agreement and Waiver.
 ---------------------------------
 
-These TOU, together with the [Privacy Policy](file:///Users/artem/Downloads/privacy.html) and [Cookie Policy](file:///Users/artem/Downloads/cookies.html), shall constitute the entire agreement between you and us concerning the Services. If for any reason, any provision of these TOU is declared to be illegal, invalid, void or otherwise unenforceable by a competent court of any jurisdiction, then to the extent that term is illegal, invalid, void or unenforceable, it shall be severed and deleted from these TOU, and the remainder of these TOU shall survive, remain in full force and effect and continue to be binding and enforceable. No failure or delay by us in exercising any right, power or privilege under these TOU shall operate as a waiver of such right or acceptance of any variation of these TOU and nor shall any single or partial exercise by either party of any right, power or privilege preclude any further exercise of that right or the exercise of any other right, power or privilege.
+These TOU, together with the [Privacy Policy](https://about.ask.fm/legal/en/privacy.html) and [Cookie Policy](https://about.ask.fm/legal/en/cookies.html), shall constitute the entire agreement between you and us concerning the Services. If for any reason, any provision of these TOU is declared to be illegal, invalid, void or otherwise unenforceable by a competent court of any jurisdiction, then to the extent that term is illegal, invalid, void or unenforceable, it shall be severed and deleted from these TOU, and the remainder of these TOU shall survive, remain in full force and effect and continue to be binding and enforceable. No failure or delay by us in exercising any right, power or privilege under these TOU shall operate as a waiver of such right or acceptance of any variation of these TOU and nor shall any single or partial exercise by either party of any right, power or privilege preclude any further exercise of that right or the exercise of any other right, power or privilege.
 
 12D. No Third Party Rights. 
 ----------------------------
