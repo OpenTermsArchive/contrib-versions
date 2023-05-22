@@ -72,7 +72,7 @@ EssentialAlways active
 
 These cookies are required for the website to function properly and to allow you to use its services and features. Without these cookies, we would be unable to provide certain requested services or features.
 
-Applicable cookies:
+Applicable cookies: Segment
 
 Analytics
 
@@ -85,12 +85,6 @@ Marketing
 These cookies are used to understand user behavior in order to provide you with a more relevant browsing experience or personalize the content on our site.
 
 Applicable cookies: Facebook Pixel, Google AdWords New, Hotjar, Twitter Ads
-
-Advertising
-
-These cookies are used to personalize and measure the effectiveness of advertising on our site and other websites.
-
-Applicable cookies:
 
 Refuse allAccept allValidate my choice
 
