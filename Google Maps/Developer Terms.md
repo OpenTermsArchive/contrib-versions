@@ -778,9 +778,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         RIT, ImageCat Inc., World Bank
         
     18. **Hong Kong**
-        
-        Google’s maps of Hong Kong include business listings and transit data provided by Mapking International Limited – [www.mapking.com](https://www.mapking.com/).
-        
+        * Google’s maps of Hong Kong include business listings and transit data provided by Mapking International Limited – [www.mapking.com](https://www.mapking.com/).
+            
+        * The Government of Hong Kong has the ownership of the data that was obtained from http: [https://data.gov.hk/en/](https://data.gov.hk/en/). The Data and in all copies thereof including but not limited to paper copies, digital copies and copies placed on other websites.
+            
     19. **Hungary**
         * © GeoX – FÖMI – MoD Mapping Agency, 2012
             
@@ -1242,6 +1243,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Geoportal de Navarra [https://geoportal.navarra.es/es/idena/descargarl](https://www.google.com/url?q=https://geoportal.navarra.es/es/idena/descargarl&sa=D&source=buganizer&usg=AOvVaw2p6sFZUCsucHIpdgzjWxMg)
             
         * CNIG (ES) - [https://centrodedescargas.cnig.es/CentroDescargas/locale?request\_locale=en#](https://centrodedescargas.cnig.es/CentroDescargas/locale?request_locale=en#)
+            
+        * FGV Link to their license - [https://boe.es/buscar/act.php?id=BOE-A-2013-12887](https://boe.es/buscar/act.php?id=BOE-A-2013-12887)
             
     47. **Sweden**
         * © 2009 Cartesia GIS AB
@@ -1734,7 +1737,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         199. This site provides data that has been modified for use from its original source, [www.springfieldmo.gov](https://www.springfieldmo.gov/%20target=), the official website of the City of Springfield, Missouri. The City of Springfield makes no claims as to the content, accuracy, timeliness, or completeness of any of the data provided at this site. The data provided at this site is subject to change at any time. It is understood that the data provided at this site is being used at one’s own risk.
             
-        200. New York State, Department of Environmental Conservation: The data displayed here includes data obtained from [http://www.nyaqinow.net/](http://www.nyaqinow.net/) that is preliminary and subject to change.
+        200. New York State, Department of Environmental Conservation: The data displayed here includes data obtained from[http://www.nyaqinow.net/](http://www.nyaqinow.net/) that is preliminary and subject to change.
+            
+        201. Pacific Crest Trail Association [https://www.pcta.org/discover-the-trail/maps/pct-data/](https://www.pcta.org/discover-the-trail/maps/pct-data/)
             
     56. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
