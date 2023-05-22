@@ -1,8 +1,10 @@
 [Privacy Center home](https://help.instagram.com/)
 
+[Search](https://help.instagram.com/search/)
+
 * * *
 
-[](https://help.instagram.com/dialog/navigation/)
+[](https://help.instagram.com/search/)[](https://help.instagram.com/dialog/navigation/)
 
 Privacy Policy
 
