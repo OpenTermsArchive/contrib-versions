@@ -1,7 +1,7 @@
 AWS Trademark Guidelines & License Terms
 ========================================
 
-#### Last Updated: March 7, 2023
+#### Last Updated: May 23, 2023
 
 **1\. Introduction.** The AWS Marks are some of our most valuable assets and these guidelines are intended to preserve the goodwill attached to them. These AWS Trademark Guidelines apply to your use of the AWS Marks pursuant to Section 3 below and/or to any agreement entered into between Amazon Web Services, Inc. or its affiliates (“AWS,” “we,” “us” or “our”) and you (“you” or “your”) that references these AWS Trademark Guidelines. The Definitions in Section 2 and License in Section 3 will apply unless you have entered into a written agreement with AWS that contains separate license terms (“Written Agreement”), in which case the terms of your specific Written Agreement will control over these general terms.  
 
@@ -25,11 +25,9 @@ Provided that you have entered into an AWS Solution Provider Addendum, AWS Distr
 
 Upon termination or expiration of the Addendum or other revocation, your license to use the AWS Marks in and on the Advertising Materials is terminated and you must immediately stop (and ensure all agents immediately stop) using the Advertising Materials.
 
-**(c) AWS EdStart Program Participants.** Provided that you are a participant in the AWS EdStart Program and that you comply at all times with the [AWS EdStart Agreement](https://aws.amazon.com/education/edstart/terms/) (“EdStart Agreement”), Licensor grants you a non-exclusive, royalty-free, and revocable license to display the most recent version of Program Marks (as defined in the EdStart Agreement) to identify your participation in the EdStart Program. Your license to use the Program Marks will automatically terminate and you must immediately stop using the Program Marks if at any time you cease to be an AWS EdStart Program participant.
-
-**(d) AWS Strategic Collaboration Agreement.** Provided that you have entered into a Strategic Collaboration Agreement (the “SCA”) with us and that you comply at all times with the SCA, unless otherwise specified in the SCA, Licensor grants you a non-exclusive, royalty free, and revocable license during the Term (as defined in the SCA) to use the AWS Marks in and on AWS-approved Collateral (as defined in the SCA) in furtherance of Initiatives (as defined in the SCA). Upon termination or expiration of the SCA, your license to use the AWS Marks is terminated and you must immediately stop using the AWS Marks.   
+**(c) AWS Strategic Collaboration Agreement.** Provided that you have entered into a Strategic Collaboration Agreement (the “SCA”) with us and that you comply at all times with the SCA, unless otherwise specified in the SCA, Licensor grants you a non-exclusive, royalty free, and revocable license during the Term (as defined in the SCA) to use the AWS Marks in and on AWS-approved Collateral (as defined in the SCA) in furtherance of Initiatives (as defined in the SCA). Upon termination or expiration of the SCA, your license to use the AWS Marks is terminated and you must immediately stop using the AWS Marks.   
   
-**(e) Limitations.** The licenses in this Section 3 are conditioned on your compliance with: (i) the most up-to-date versions of these AWS Trademark Guidelines and any relevant terms and conditions, agreements, or addendums as described in Section 3; and (ii) any other terms, conditions, or policies governing use of the AWS Marks that we may issue. Licensor may revoke the foregoing license immediately upon notice to you of any non-compliance. Except as described in Section 3(b), you may not transfer, assign or sublicense your license to use the AWS Marks or Program Content. Any use of the AWS Marks or Program Content outside the scope of the foregoing license requires Licensor’s prior written permission. You may not use the Powered by AWS Logo in China.
+**(d) Limitations.** The licenses in this Section 3 are conditioned on your compliance with: (i) the most up-to-date versions of these AWS Trademark Guidelines and any relevant terms and conditions, agreements, or addendums as described in Section 3; and (ii) any other terms, conditions, or policies governing use of the AWS Marks that we may issue. Licensor may revoke the foregoing license immediately upon notice to you of any non-compliance. Except as described in Section 3(b), you may not transfer, assign or sublicense your license to use the AWS Marks or Program Content. Any use of the AWS Marks or Program Content outside the scope of the foregoing license requires Licensor’s prior written permission. You may not use the Powered by AWS Logo in China.
 
 WITHOUT LIMITATION OF ANY PROVISION IN THE AGREEMENT OR ANY OTHER RELEVANT TERMS AND CONDITIONS, AGREEMENTS, OR ADDENDUMS AS DESCRIBED IN SECTION 3, YOUR USE OF THE AWS MARKS IS AT YOUR SOLE RISK AND WE HAVE NO LIABILITY OR RESPONSIBILITY IN CONNECTION YOUR USE.
 
@@ -226,7 +224,6 @@ AWS DeepLens
 AWS DeepRacer  
 AWS DevAx  
 AWS Direct Connect  
-AWS EdStart  
 AWS Educate  
 AWS Elemental  
 AWS Elemental MediaConnect  
