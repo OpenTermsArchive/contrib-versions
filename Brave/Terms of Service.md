@@ -1,4 +1,4 @@
-LAST UPDATED August 2, 2021
+LAST UPDATED May 11, 2023
 
 Terms of Use
 ============
@@ -86,15 +86,15 @@ Brave, Inc.
 San Francisco, CA 94105  
 Support: [community.brave.com](https://community.brave.com/)
 
-Brave Firewall + VPN Subscription[](#brave-firewall--vpn-subscription "Permalink to this headline")
----------------------------------------------------------------------------------------------------
+Brave Premium Products[](#brave-premium-products "Permalink to this headline")
+------------------------------------------------------------------------------
 
-Brave VPN is a paid service and at your sole discretion, you can pay to upgrade. You can upgrade to the Monthly or Yearly plan in the iOS app.
+Brave Premium products are paid services and at your sole discretion, you can pay to subscribe to any or all of them. They include Brave Firewall + VPN, Brave Talk Premium, and Brave Search Premium.
 
-Brave Firewall + VPN Payment[](#brave-firewall--vpn-payment "Permalink to this headline")
------------------------------------------------------------------------------------------
+When subscribing to Brave Premium products via Apple’s App Store on iOS devices or Google Play Store on Android devices, payment for your subscription plan is due and collected by the platform provider. Your subscription payment will be subject to the platform’s applicable payment policy, which may not provide for refunds. We strongly recommend you read Apple’s or Google’s terms and conditions before subscribing to one of our plans. Please note that these terms and conditions are subject to amendments by Apple or Google. Brave is not responsible for any payment error or fraud on your account with Apple or Google. Also, any fee payment will be deemed final, and we will not provide you any refund. Apple or Google may collect personal data and payment card data when you make purchases. They do not give this data to Brave. 
 
-Payment for your subscription plan is due and collected by Apple. Your subscription payment will be subject to Apple’s applicable payment policy, which may not provide for refunds. We strongly recommend you read Apple terms and conditions before subscribing to one of our plans. Please note that these terms and conditions are subject to amendments by Apple. Brave is not responsible for any payment error or fraud on your Apple account. Also, any fee payment will be deemed final, and we will not provide you any refund. Apple may collect personal data and payment card data when you make purchases. They do not give this data to Brave. Brave does not collect or process credit or debit card data.
+When subscribing to Brave Premium products via desktop devices such as Windows, MacOS and Linux and using the Brave Account site at [https://account.brave.com/](https://account.brave.com/), payment for your subscription plan is due and collected by our payment services provider Stripe on behalf of Brave.  
 
-**Terms of Use Effective Date:**  
-July 14, 2020
+You can pay for subscriptions for products or access to services for a charge or, in some cases, a free trial. Paid subscriptions automatically renew until canceled on the Account Site at [https://account.brave.com/](https://account.brave.com/). Subscriptions can be canceled at any time unless specified otherwise. Product prices may change at any time. You will be notified if the price of a Subscription increases and, if required, your consent will be required to continue. If we cannot charge your payment method for any reason (such as expiration or insufficient funds), and you have not canceled your Subscription, you remain responsible for any uncollected amounts, and we will attempt to charge the payment method provided. We reserve the right to cancel your Subscription if we are unable to successfully charge your payment method to renew your Subscription. When your Subscription to any product or service ends, you will lose access to the paid features.
+
+All Transactions are final. If technical problems prevent or unreasonably delay delivery or access to the product, you may contact Brave Support for assistance or request a refund by contacting [stripe-payments@brave.com](https://brave.com/). Brave may suspend or cancel payment or refuse a refund request if we find evidence of fraud, abuse, or unlawful or other manipulative behavior.
