@@ -7,7 +7,7 @@ Available in other languages:
  
 
 [中文（简体版）](https://www.thomsonreuters.com/zh-hans/privacy-statement.html)    [中文（繁体版）](https://www.thomsonreuters.com/zh-tw/privacy-statement.html)   [Nederlands](https://www.thomsonreuters.com/nl/privacy.html)    [Français](https://www.thomsonreuters.com/fr/declaration-de-confidentialite.html)    [Français(CA)](https://www.thomsonreuters.com/fr-ca/privacy-statement.html)    [Deutsch](https://www.thomsonreuters.com/de/datenschutzerklarung.html)    [Italiano](https://www.thomsonreuters.com/it/informativa-sulla-privacy.html)    [日本語](https://www.thomsonreuters.com/ja/privacy-statement.html)    [한국어](https://www.thomsonreuters.com/ko/privacy-statement.html)    [Português](https://www.thomsonreuters.com/pt/declaracao-de-privacidade.html)    [Русский](https://www.thomsonreuters.com/ru/privacy-statement.html)    [Español](https://www.thomsonreuters.com/es/declaracion-de-privacidad.html)    [Türk](https://www.thomsonreuters.com/tr/gizlilik-bildirimi.html)    [عربي](https://www.thomsonreuters.com/ar/privacy-statement.html)  
-     
+[dansk](https://www.thomsonreuters.com/da-dk/fortrolighedserklaering.html)    [Ελληνικά](https://www.thomsonreuters.com/el-gr/privacy-statement.html)    [bahasa Indonesia](https://www.thomsonreuters.com/id-id/pernyataan-privasi.html)    [Polski](https://www.thomsonreuters.com/pl-pl/polityka-prywatnosci.html)    [svenska](https://www.thomsonreuters.com/sv-se/sekretesspolicy.html)    [แบบไทย](https://www.thomsonreuters.com/th-th/privacy-statement.html)
 
 _Effective Date: June 2012  
 Last Updated: January 1, 2023_
