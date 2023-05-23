@@ -131,9 +131,9 @@ Sonic may send you text messages about your service to your mobile number on fil
 
 You may opt out of receiving SMS by replying STOP to a message you receive. Note that if you opt-out, you may miss important communications regarding your account or service, such as communications regarding outages or payment issues.
 
-**Sonic Outage Notification System**
+**Sonic Notification System**
 
-This service provides outage notifications and updates for your sonic internet service.
+This service provides Sonic Account and Internet service notifications, such as install and repair appointments, billing and account information, and outage notifications.
 
  You can cancel the SMS service at any time. Just text "STOP" to the shortcode. After you send the SMS message "STOP" to us, we will send you an SMS message to confirm that you have been unsubscribed. After this, you will no longer receive SMS messages from us. If you want to join again, sign up as you did the first time, and we will start sending SMS messages to you again.
 
@@ -143,7 +143,7 @@ Carriers are not liable for delayed or undelivered messages.
 
 As always, message and data rates may apply for any messages sent to you from us and to us from you. You will only receive messages from this number directly related to the status of your internet service. Message frequency varies. If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
 
-If you have any questions regarding privacy, please read our privacy policy: [https://help.sonic.com/hc/en-us/articles/235963988-Sonic-net-Policies#sonic.net,\_llc.\_general\_policy](https://help.sonic.com/hc/en-us/articles/235963988-Sonic-net-Policies#sonic.net,_llc._general_policy "https://help.sonic.com/hc/en-us/articles/235963988-sonic-net-policies#sonic.net,_llc._general_policy").
+If you have any questions regarding privacy, please read our privacy policy: [https://help.sonic.com/hc/en-us/articles/235963988-Sonic-net-Policies#sonic.net,\_llc.\_general\_policy](https://help.sonic.com/hc/en-us/articles/235963988-Sonic-net-Policies#sonic.net,_llc._general_policy "https://help.sonic.com/hc/en-us/articles/235963988-sonic-net-policies#sonic.net,_llc._general_policy")
 
 10\. Bandwidth and Disk use quotas
 ==================================
