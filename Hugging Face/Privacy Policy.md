@@ -1,3 +1,5 @@
+[Terms of Service](https://huggingface.co/terms-of-service) [Privacy Policy](https://huggingface.co/privacy) [Content Policy](https://huggingface.co/content-guidelines) [Code of Conduct](https://huggingface.co/code-of-conduct)
+
 Hugging Face Privacy Policy
 ===========================
 
@@ -58,7 +60,7 @@ The Company honors "do not track" signals and does not track, use cookies, or us
 
 The Company does not authorize the collection of personally identifiable information from our users for third party use through advertising technologies without separate member consent.
 
-California Civil Code Section 1798.83 also permits customers who are California residents to request certain information regarding Our disclosure of Personal Information to third parties for direct marketing purposes. To make such a request, please send an email to privacy@huggingface.co. Please note that the Company is only required to respond to one request per customer each year.
+California Civil Code Section 1798.83 also permits customers who are California residents to request certain information regarding Our disclosure of Personal Information to third parties for direct marketing purposes. To make such a request, please send an email to [privacy@huggingface.co](mailto:privacy@huggingface.co). Please note that the Company is only required to respond to one request per customer each year.
 
 ### 2\. USE OF INFORMATION
 
@@ -129,17 +131,17 @@ You may be entitled under data protection laws to access and review Personal Inf
 
 You may access, modify or delete the Information we collected by editing your profile or controlling the content that you share at any time.
 
-If you have any other request, all such communications regarding access to Personal Information should be addressed to: privacy@huggingface.co. Such inquiries should be clearly marked as data protection queries and you should indicate if the request is time sensitive.
+If you have any other request, all such communications regarding access to Personal Information should be addressed to: [privacy@huggingface.co](mailto:privacy@huggingface.co). Such inquiries should be clearly marked as data protection queries and you should indicate if the request is time sensitive.
 
 #### B. Data retention
 
 We retain your Information for as long as necessary to deliver the Services, to comply with any applicable legal requirements, to maintain security and prevent incidents and, in general, to pursue our legitimate interests.
 
-You may decide to cancel your account and your content at any time by editing your profile. If you wish to request the erasure of all of your Personal Information that we process, you may do so by sending a written request to privacy@huggingface.co.
+You may decide to cancel your account and your content at any time by editing your profile. If you wish to request the erasure of all of your Personal Information that we process, you may do so by sending a written request to [privacy@huggingface.co](mailto:privacy@huggingface.co).
 
 ### 5\. DATA SECURITY
 
-The security of your Personal Information is important to us. The Company follows generally accepted industry standards, including the use of appropriate administrative, physical and technical safeguards, to protect Personal Information. However, no method of transmission over the Internet, or method of electronic storage, is fully secure. Therefore, while the Company strives to use commercially acceptable means to protect Personal Information, the Company cannot guarantee its absolute security or confidentiality. If you have any questions about security, you can contact the Company at privacy@huggingface.co.
+The security of your Personal Information is important to us. The Company follows generally accepted industry standards, including the use of appropriate administrative, physical and technical safeguards, to protect Personal Information. However, no method of transmission over the Internet, or method of electronic storage, is fully secure. Therefore, while the Company strives to use commercially acceptable means to protect Personal Information, the Company cannot guarantee its absolute security or confidentiality. If you have any questions about security, you can contact the Company at [privacy@huggingface.co](mailto:privacy@huggingface.co).
 
 In the event of an incident affecting your Personal Information, we will act promptly acceptable means to identify and address the incident, and to notify you.
 
@@ -153,7 +155,7 @@ Personal Information collected by the Services may be stored and processed in th
 
 In particular, if you provide Personal Information, it may be transferred to and processed on computers in the U.S. and other countries. We strive to take appropriate safeguards to ensure that your Personal Information will remain protected in a manner consistent with standard applicable data protection laws.
 
-If you have any other question, please contact the Company at: privacy@huggingface.co.
+If you have any other question, please contact the Company at: [privacy@huggingface.co](mailto:privacy@huggingface.co).
 
 ### 7\. CHILDREN’S PRIVACY
 
@@ -161,7 +163,7 @@ The Services are neither directed to nor structured to attract children under th
 
 If the Company learns that Personal Information of persons less than 13 years of age has been collected without verifiable parental consent, the Company will take the appropriate steps to delete this information.
 
-To make such a request, please contact the Company at: privacy@huggingface.co.
+To make such a request, please contact the Company at: [privacy@huggingface.co](mailto:privacy@huggingface.co).
 
 ### 8\. COMMUNICATIONS AND CAN-SPAM ACT
 
@@ -171,7 +173,7 @@ The Company does not use false or misleading subjects or email addresses. The Co
 
 ### 9\. CONTACT US
 
-If you have questions about this Policy, please contact privacy@huggingface.co.
+If you have questions about this Policy, please contact [privacy@huggingface.co](mailto:privacy@huggingface.co).
 
 The main establishment in the European Union is Hugging Face, SAS, a French société par actions simplifiée à associé unique registered in the Paris Trade and Companies Register under the number 822 168 043, and whose headquarters are located on 9 rue des Colonnes, 75002 Paris, France. The designation of this main establishment in the European Union gives full authority to the French Data Protection Agency, la Commission Nationale de l'Informatique et des Libertés (CNIL) per the General Data Protection Regulation (GDPR).
 
