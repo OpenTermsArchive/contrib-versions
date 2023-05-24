@@ -1,3 +1,5 @@
+[Terms of Service](https://huggingface.co/terms-of-service) [Privacy Policy](https://huggingface.co/privacy) [Content Policy](https://huggingface.co/content-guidelines) [Code of Conduct](https://huggingface.co/code-of-conduct)
+
 Terms of Service
 ================
 
@@ -9,7 +11,7 @@ We drafted the following Terms of Service to make your user experience as smooth
 
 Please **read these Terms carefully** as they contain important information about what we do and do not offer, and what you can and cannot do.
 
-Whenever you want to use or purchase the Services that we provide at [https://huggingface.co](https://huggingface.co/) and related sites (the "Website"), these Terms of Service, together with our Supplemental Terms, notices and policies available at https://huggingface.co, and/or any other binding document that we provide and/or that you sign (the **“Terms”** or the **“Agreement”**) will apply to you.
+Whenever you want to use or purchase the Services that we provide at [https://huggingface.co](https://huggingface.co/) and related sites (the "Website"), these Terms of Service, together with our Supplemental Terms, notices and policies available at [https://huggingface.co](https://huggingface.co/), and/or any other binding document that we provide and/or that you sign (the **“Terms”** or the **“Agreement”**) will apply to you.
 
 In other words, these Terms are a **binding agreement** between us, **Hugging Face, Inc**. a Delaware corporation ("Hugging Face", "Company", "us", "we"), and **You**, whether you are a user ("User", "You") or a customer ("Customer", "you"). You should also carefully review all of our other policies available on our Website, including our [Privacy Policy](https://huggingface.co/privacy).
 
@@ -44,7 +46,7 @@ We may also post and update [supplemental terms](https://cdn-media.huggingface.c
 
 "**Hugging Face Open-Source Libraries**" refers to the Hugging Face open-source software projects available at [https://github.com/huggingface/](https://github.com/huggingface/), including Transformers, Datasets and Tokenizers.
 
-"**Infinity Service**" refers to the containerized solution to deploy end-to-end optimized inference pipelines for state of the art Transformers Models, available at https://huggingface.co/infinity.
+"**Infinity Service**" refers to the containerized solution to deploy end-to-end optimized inference pipelines for state of the art Transformers Models, available at [https://huggingface.co/infinity](https://huggingface.co/infinity).
 
 "**Machine Learning Application**" refers to a repository hosted on the Hub that allows a User to showcase Machine Learning experiments.
 
