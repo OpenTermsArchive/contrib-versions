@@ -1,8 +1,4 @@
-_Our new Privacy Policy comes into effect on 4th May 2023. Click [here](https://www.tiktok.com/legal/privacy-policy-eea-archive) to view our current Privacy Policy._
-
-  
-
-_Last updated:_ _4th May 2023_
+_Last updated: 4th May 2023_
 
 **Introduction**
 ----------------
