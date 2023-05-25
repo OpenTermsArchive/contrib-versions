@@ -1,7 +1,66 @@
 Policy:Privacy policy
 =====================
 
-**Want to help translate? [Translate the missing messages](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=agg-Policies&filter=%21translated&action=page&language=).**
+Other languages:
+
+* [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/id "Kebijakan Privasi (53% translated)")
+* [Bahasa Melayu](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ms "Dasar privasi (47% translated)")
+* [Basa Banyumasan](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/map-bms "Policy:Privacy policy/map-bms (9% translated)")
+* [British English](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/en-gb "Privacy policy (62% translated)")
+* [Bân-lâm-gú](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nan "Ún-su tsìng-tshik (1% translated)")
+* [Canadian English](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/en-ca "Privacy policy (62% translated)")
+* [Cebuano](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ceb "Palisiya sa pagkapribado (8% translated)")
+* [Cymraeg](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/cy "Polisi preifatrwydd (1% translated)")
+* [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/de "Policy:Datenschutzrichtlinie (97% translated)")
+* [Deutsch (Sie-Form)](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/de-formal "Datenschutzerklärung (47% translated)")
+* English
+* [Esperanto](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/eo "Regularo pri privateco (55% translated)")
+* [Frysk](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/fy "Policy:Privacy policy/fy (1% translated)")
+* [Hausa](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ha "Tsarin Sirrin Tawa (21% translated)")
+* [Kiswahili](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sw "Sera ya Faragha (95% translated)")
+* [Kreyòl ayisyen](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ht "Politik sou lavi prive (14% translated)")
+* [Ligure](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/lij "Polittica in scî dæti privæ (9% translated)")
+* [Lëtzebuergesch](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/lb "Policy:Privacy policy/lb (3% translated)")
+* [Malagasy](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mg "Policy:Privacy policy/mg (1% translated)")
+* [Mara](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mrh "Thlahlôhna pawlisi (8% translated)")
+* [Napulitano](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nap "Privacy policy (9% translated)")
+* [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nl "Privacybeleid (96% translated)")
+* [Nederlands (informeel)](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nl-informal "Privacybeleid (2% translated)")
+* [Nordfriisk](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/frr "Dootenseekerhaid (20% translated)")
+* [Oromoo](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/om "Imaammata Mateenyaa (9% translated)")
+* [Qaraqalpaqsha](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/kaa "Konfidenciallıq siyasatı (1% translated)")
+* [Ripoarisch](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ksh "Bedengonge för der Ömjang met prevaate Daate (4% translated)")
+* [Scots](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sco "Policy:Privacy policy/sco (2% translated)")
+* [Soomaaliga](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/so "Xeerka lahaanshaha (4% translated)")
+* [Tiếng Việt](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/vi "Quy định về quyền riêng tư (96% translated)")
+* [Türkçe](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/tr "Gizlilik Politikası (96% translated)")
+* [Yorùbá](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/yo "Privacy policy/yo (1% translated)")
+* [Zazaki](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/diq "Siyaseto nımıte (17% translated)")
+* [asturianu](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ast "Política d'intimidá (5% translated)")
+* [azərbaycanca](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/az "Məxfilik siyasəti (16% translated)")
+* [bosanski](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bs "Pravila o privatnosti (23% translated)")
+* [català](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ca "Política de privadesa (63% translated)")
+* [dansk](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/da "Privatlivspolitik (17% translated)")
+* [eesti](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/et "Andmekaitsepõhimõtted (94% translated)")
+* [español](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/es "Política de privacidad (96% translated)")
+* [euskara](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/eu "Pribatutasun politika (63% translated)")
+* [français](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/fr "Policy:Privacy policy/fr (0% translated)")
+* [galego](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/gl "Norma de protección de datos (96% translated)")
+* [hrvatski](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/hr "Zaštita privatnosti (6% translated)")
+* [interlingua](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ia "Politica de confidentialitate (16% translated)")
+* [italiano](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/it "Informativa sulla privacy (96% translated)")
+* [latviešu](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/lv "Privātuma politika (52% translated)")
+* [lietuvių](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/lt "Privatumo politika (8% translated)")
+* [magyar](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/hu "Adatvédelmi nyilatkozat (87% translated)")
+* [norsk bokmål](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nb "Personvernpolitikk (49% translated)")
+* [occitan](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/oc "Policy:Privacy policy/oc (5% translated)")
+* [oʻzbekcha / ўзбекча](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/uz "Maxfiylik siyosati (26% translated)")
+* [русский](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ru "Policy:Privacy policy/ru (0% translated)")
+* [中文](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/zh "方针:隐私方针 (15% translated)")
+* [日本語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ja "方針:プライバシー・ポリシー (97% translated)")
+* [한국어](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ko "Policy:Privacy policy/ko (0% translated)")
+
+**Want to help translate? [Translate the missing messages](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=agg-Privacy_Policy&filter=%21translated&action=page&language=).**
 
 |     |     |
 | --- | --- |
@@ -11,7 +70,7 @@ Privacy Policy
 
 [![](//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/75px-Wikimedia-logo.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo.svg)
 
-This is a summary of the Privacy Policy. To read the full terms, scroll down or [click here](#introduction).
+This is a [summary](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Summary "Special:MyLanguage/Policy:Privacy policy/Summary") of the Privacy Policy. To read the full terms, scroll down or [click here](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#introduction "Special:MyLanguage/Policy:Privacy policy").
 
 Disclaimer: This summary is not a part of the Privacy Policy and is not a legal document. It is simply a handy reference for understanding the full Privacy Policy. Think of it as the user-friendly interface to our Privacy Policy.
 
@@ -19,30 +78,30 @@ Disclaimer: This summary is not a part of the Privacy Policy and is not a legal 
 
 **Because we believe that you shouldn’t have to provide personal information to participate in the free knowledge movement, you may:**
 
-* Read, edit, or use any Wikimedia Site [without registering an account](#your-account-info).
-* Register for an account [without providing](#your-account-info) an email address or real name.
+* Read, edit, or use any Wikimedia Site [without registering an account](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#your-account-info "Special:MyLanguage/Policy:Privacy policy").
+* Register for an account [without providing](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#your-account-info "Special:MyLanguage/Policy:Privacy policy") an email address or real name.
 
 **Because we want to understand how Wikimedia Sites are used so we can make them better for you, we collect some information when you:**
 
-* Make [public contributions](#your-public-contribs).
-* [Register an account](#your-account-info) or update your user page.
-* [Use](#your-use-of-wm-sites) the Wikimedia Sites.
-* Send us [emails](#emails) or participate in a [survey or give feedback](#surveys-feedback).
+* Make [public contributions](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#your-public-contribs "Special:MyLanguage/Policy:Privacy policy").
+* [Register an account](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#your-account-info "Special:MyLanguage/Policy:Privacy policy") or update your user page.
+* [Use](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#your-use-of-wm-sites "Special:MyLanguage/Policy:Privacy policy") the Wikimedia Sites.
+* Send us [emails](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#emails "Special:MyLanguage/Policy:Privacy policy") or participate in a [survey or give feedback](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#surveys-feedback "Special:MyLanguage/Policy:Privacy policy").
 
 **We are committed to:**
 
-* Describing how your information may be used or [shared](#when-we-may-share) in this Privacy Policy.
-* Using reasonable measures to keep your information [secure](#protection-means).
-* Never [selling](#donotsell) your information or sharing it with third parties for marketing purposes.
-* Only [sharing](#when-we-may-share) your information in limited circumstances, such as to [improve the Wikimedia Sites](#share-to-experiment), to [comply with the law](#share-legal-reasons), or to [protect you and others](#share-to-protect-people).
-* [Retaining your data](#protection-duration) for the shortest possible time that is consistent with maintaining, understanding, and improving the Wikimedia Sites, and our obligations under applicable law.
+* Describing how your information may be used or [shared](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#when-we-may-share "Special:MyLanguage/Policy:Privacy policy") in this Privacy Policy.
+* Using reasonable measures to keep your information [secure](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#protection-means "Special:MyLanguage/Policy:Privacy policy").
+* Never [selling](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#donotsell "Special:MyLanguage/Policy:Privacy policy") your information or sharing it with third parties for marketing purposes.
+* Only [sharing](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#when-we-may-share "Special:MyLanguage/Policy:Privacy policy") your information in limited circumstances, such as to [improve the Wikimedia Sites](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#share-to-experiment "Special:MyLanguage/Policy:Privacy policy"), to [comply with the law](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#share-legal-reasons "Special:MyLanguage/Policy:Privacy policy"), or to [protect you and others](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#share-to-protect-people "Special:MyLanguage/Policy:Privacy policy").
+* [Retaining your data](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#protection-duration "Special:MyLanguage/Policy:Privacy policy") for the shortest possible time that is consistent with maintaining, understanding, and improving the Wikimedia Sites, and our obligations under applicable law.
 
 **Be aware:**
 
-* Any content you add or any change that you make to a Wikimedia Site will be [publicly and permanently available](#your-public-contribs).
-* If you add content or make a change to a Wikimedia Site [without logging in](#noaccount), that content or change will be publicly and permanently attributed to the IP address used at the time rather than a username.
+* Any content you add or any change that you make to a Wikimedia Site will be [publicly and permanently available](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#your-public-contribs "Special:MyLanguage/Policy:Privacy policy").
+* If you add content or make a change to a Wikimedia Site [without logging in](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#noaccount "Special:MyLanguage/Policy:Privacy policy"), that content or change will be publicly and permanently attributed to the IP address used at the time rather than a username.
 * Our community of volunteer editors and contributors is a self-policing body. Certain administrators of the Wikimedia Sites, who are chosen by the community, use tools that grant them limited access to nonpublic information about recent contributions so they may protect the Wikimedia Sites and enforce policies.
-* This Privacy Policy [does not apply](#coverage) to all sites and services run by the Wikimedia Foundation, such as sites or services that have their own privacy policy (like the [Wikimedia Shop](https://shop.wikimedia.org/)) or sites or services run by third parties (like third-party developer projects on [Wikimedia Cloud Services](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Cloud_Services "mw:Special:MyLanguage/Wikimedia Cloud Services")).
+* This Privacy Policy [does not apply](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#coverage "Special:MyLanguage/Policy:Privacy policy") to all sites and services run by the Wikimedia Foundation, such as sites or services that have their own privacy policy (like the [Wikimedia Shop](https://shop.wikimedia.org/)) or sites or services run by third parties (like third-party developer projects on [Wikimedia Cloud Services](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Cloud_Services "mw:Special:MyLanguage/Wikimedia Cloud Services")).
 * As part of our commitment to education and research around the world, we occasionally release public information and aggregated or non-personal information to the general public through data dumps and data sets.
 * For the protection of the Wikimedia Foundation and other users, if you do not agree with this Privacy Policy, you may not use the Wikimedia Sites.
 
@@ -82,13 +141,13 @@ Because everyone (not just lawyers) should be able to easily understand how and 
 
 | When we say… | …we mean: |
 | --- | --- |
-| "the Wikimedia Foundation" / "the Foundation" / "we" / "us" / "our" | The Wikimedia Foundation, Inc., the non-profit organization that operates the Wikimedia Sites. |
-| "Wikimedia Sites" / "our services" | Wikimedia websites and services (regardless of language), including our main projects, such as Wikipedia and Wikimedia Commons, as well as mobile applications, Application Programming Interfaces (APIs), emails, and notifications; excluding, however, sites and services listed in the "What This Privacy Policy Doesn't Cover" section below. |
+| "the Wikimedia Foundation" / "the Foundation" / "we" / "us" / "our" | The [Wikimedia Foundation, Inc.](https://wikimediafoundation.org/ "foundationsite:"), the non-profit organization that operates the Wikimedia Sites. |
+| "Wikimedia Sites" / "our services" | Wikimedia websites and services (regardless of language), including our [main projects](https://wikimediafoundation.org/our-work/wikimedia-projects/ "foundationsite:our-work/wikimedia-projects/"), such as Wikipedia and Wikimedia Commons, as well as mobile applications, Application Programming Interfaces (APIs), emails, and notifications; excluding, however, sites and services listed in the "What This Privacy Policy Doesn't Cover" section below. |
 | "you" / "your" / "me" | You, regardless of whether you are an individual, group, or organization, and regardless of whether you are using the Wikimedia Sites or our services on behalf of yourself or someone else. |
 | "this Policy" / "this Privacy Policy" | This document, entitled the "Wikimedia Foundation Privacy Policy". |
 | "contributions" | Content you add or changes you make to any Wikimedia Sites. |
 | "Personal information" | Information you provide us or information we collect that could be used to personally identify you. To be clear, while we do not necessarily collect all of the following types of information, we consider at least the following to be "personal information" if it is otherwise nonpublic and can be used to identify you:<br><br>(a) your real name, address, phone number, email address, password, identification number on government-issued ID, IP address, user-agent information, payment account number;<br><br>(b) when associated with one of the items in subsection (a), any sensitive data such as date of birth, gender, sexual orientation, racial or ethnic origins, marital or familial status, medical conditions or disabilities, political affiliation, and religion. |
-| "third party" / "third parties" | Individuals, entities, websites, services, products, and applications that are not controlled, managed, or operated by the Wikimedia Foundation. This includes other Wikimedia users and independent organizations or groups who help promote the Wikimedia movement such as [Wikimedia chapters](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_chapters "m:Special:MyLanguage/Wikimedia chapters"), [thematic organizations](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Thematic_Organizations "m:Special:MyLanguage/Wikimedia Thematic Organizations"), and [user groups](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_User_Groups "m:Special:MyLanguage/Wikimedia User Groups") as well as volunteers, employees, directors, officers, [grant recipients](https://meta.wikimedia.org/wiki/Special:MyLanguage/Grants:Start/About "m:Special:MyLanguage/Grants:Start/About"), and contractors of those organizations or groups. |
+| "third party" / "third parties" | Individuals, entities, websites, services, products, and applications that are not controlled, managed, or operated by the Wikimedia Foundation. This includes other Wikimedia users and independent organizations or groups who help promote the Wikimedia movement such as [Wikimedia chapters](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_chapters "m:Special:MyLanguage/Wikimedia chapters"), [thematic organizations](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_thematic_organizations "m:Special:MyLanguage/Wikimedia thematic organizations"), and [user groups](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_user_groups "m:Special:MyLanguage/Wikimedia user groups") as well as volunteers, employees, directors, officers, [grant recipients](https://meta.wikimedia.org/wiki/Special:MyLanguage/Grants:Start/About "m:Special:MyLanguage/Grants:Start/About"), and contractors of those organizations or groups. |
 
   
 
@@ -435,4 +494,4 @@ Privacy-related pages
 
 ![](//foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=203535](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=203535)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=220356](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=220356)"
