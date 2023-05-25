@@ -3,6 +3,7 @@ Policy:Privacy policy
 
 Other languages:
 
+* [Avañe'ẽ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/gn "Tekojepe'a hekorã (6% translated)")
 * [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/id "Kebijakan Privasi (53% translated)")
 * [Bahasa Melayu](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ms "Dasar privasi (47% translated)")
 * [Basa Banyumasan](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/map-bms "Policy:Privacy policy/map-bms (9% translated)")
@@ -55,10 +56,73 @@ Other languages:
 * [norsk bokmål](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nb "Personvernpolitikk (49% translated)")
 * [occitan](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/oc "Policy:Privacy policy/oc (5% translated)")
 * [oʻzbekcha / ўзбекча](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/uz "Maxfiylik siyosati (26% translated)")
-* [русский](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ru "Policy:Privacy policy/ru (0% translated)")
-* [中文](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/zh "方针:隐私方针 (15% translated)")
-* [日本語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ja "方針:プライバシー・ポリシー (97% translated)")
-* [한국어](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ko "Policy:Privacy policy/ko (0% translated)")
+* [polski](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/pl "Polityka prywatności (32% translated)")
+* [português](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/pt "Política de Privacidade (57% translated)")
+* [português do Brasil](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/pt-br "Política de Privacidade (96% translated)")
+* [română](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ro "Politica de confidențialitate (18% translated)")
+* [sardu](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sc "Polìtica de riservadesa (5% translated)")
+* [shqip](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sq "Policy:Privacy policy/sq (10% translated)")
+* [sicilianu](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/scn "Policy supra la privacy (1% translated)")
+* [slovenščina](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sl "Pravilnik o zasebnosti (45% translated)")
+* [suomi](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/fi "Tietosuojakäytäntö (96% translated)")
+* [svenska](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sv "Integritetspolicy (56% translated)")
+* [čeština](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/cs "Pravidla ochrany osobních údajů (96% translated)")
+* [Ελληνικά](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/el "Πολιτική Ιδιωτικότητας (55% translated)")
+* [башҡортса](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ba "Сер һаҡлау сәйәсәте (12% translated)")
+* [беларуская](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/be "Палітыка канфідэнцыяльнасці (1% translated)")
+* [беларуская (тарашкевіца)](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/be-tarask "Палітыка прыватнасьці (91% translated)")
+* [български](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bg "Декларация за поверителност (44% translated)")
+* [кыргызча](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ky "Купуялык саясаты (6% translated)")
+* [македонски](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mk "Заштита на личните податоци (5% translated)")
+* [нохчийн](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ce "Privacy policy (5% translated)")
+* [русский](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ru "Политика конфиденциальности (96% translated)")
+* [српски / srpski](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sr "Политика приватности (63% translated)")
+* [тоҷикӣ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/tg "Сиёсати ҳифзи асрор (4% translated)")
+* [удмурт](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/udm "Конфиденциальностья политика (1% translated)")
+* [українська](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/uk "Політика конфіденційності (63% translated)")
+* [հայերեն](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/hy "Գաղտնիության քաղաքականություն (63% translated)")
+* [ייִדיש](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/yi "פריוואטקייט פאליסי (7% translated)")
+* [עברית](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/he "מדיניות הפרטיות (32% translated)")
+* [اردو](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ur "سرگرمی کی تدبیر (16% translated)")
+* [الدارجة](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ary "سياسة ديال لخصوصية (6% translated)")
+* [العربية](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ar "سياسة الخصوصية (96% translated)")
+* [تۆرکجه](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/azb "گیزلیلیک سیاستی (10% translated)")
+* [روچ کپتین بلوچی](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bgn "حریم خصوصي (5% translated)")
+* [سرائیکی](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/skr "رازداری پالیسی (15% translated)")
+* [سنڌي](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sd "رازداريءَ جي پاليسي (18% translated)")
+* [فارسی](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/fa "
+    سیاست محرمانگی (36% translated)")
+* [مازِرونی](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mzn "Policy:Privacy policy/mzn (1% translated)")
+* [پښتو](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ps "د پټنتیا تگلاره (11% translated)")
+* [کوردی](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ckb "سیاسەتی تایبەتێتی (36% translated)")
+* [کٲشُر](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ks-arab "رازدٲری اۆصوٗل (4% translated)")
+* [कॉशुर / کٲشُر](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ks "پریویسی پولِسی (14% translated)")
+* [नेपाली](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ne "Policy:Privacy policy/ne (6% translated)")
+* [भोजपुरी](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bho "गोपनीयता नीति (1% translated)")
+* [मराठी](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mr "गोपनियता धोरण (9% translated)")
+* [संस्कृतम्](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sa "गोपनीयतानीतिः (10% translated)")
+* [हिन्दी](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/hi "गोपनीयता नीति (37% translated)")
+* [অসমীয়া](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/as "গোপনীয়তা নীতি (57% translated)")
+* [বাংলা](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bn "গোপনীয়তার নীতি (96% translated)")
+* [ਪੰਜਾਬੀ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/pa "ਪੜਦਾ ਨੀਤੀ (30% translated)")
+* [ગુજરાતી](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/gu "ગોપનીયતા નીતિ (3% translated)")
+* [தமிழ்](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ta "தகவல் பாதுகாப்பு கொள்கை (26% translated)")
+* [తెలుగు](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/te "గోప్యతా విధానము (30% translated)")
+* [മലയാളം](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ml "സ്വകാര്യതാനയം (27% translated)")
+* [සිංහල](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/si "Policy:Privacy policy/si (4% translated)")
+* [ไทย](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/th "นโยบายความเป็นส่วนตัว (78% translated)")
+* [ပအိုဝ်ႏဘာႏသာႏ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/blk "နမ်းပဲင်ႏရေꩻရာႏမူဝါဒ (25% translated)")
+* [ဖၠုံလိက်](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/kjp "Policy:Privacy policy/kjp (9% translated)")
+* [ဘာသာ မန်](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mnw "ဝါဒအခေါင်ညးပကင် (1% translated)")
+* [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/my "ကိုယ်ပိုင်ရေးရာမူဝါဒ (29% translated)")
+* [მარგალური](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/xmf "კონფიდენციალურალაშ პოლიტიკა (25% translated)")
+* [ქართული](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ka "კონფიდენციალურობის პოლიტიკა (12% translated)")
+* [ភាសាខ្មែរ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/km "គោលការណ៍ឯកជនភាព (25% translated)")
+* [中文](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/zh "方针:隐私方针 (96% translated)")
+* [日本語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ja "方針:プライバシー・ポリシー (100% translated)")
+* [粵語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/yue "私隱政策 (24% translated)")
+* [ꯃꯤꯇꯩ ꯂꯣꯟ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mni "ꯑꯔꯣꯟ ꯑꯊꯨꯞ (4% translated)")
+* [한국어](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ko "개인 정보 정책 (96% translated)")
 
 **Want to help translate? [Translate the missing messages](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=agg-Privacy_Policy&filter=%21translated&action=page&language=).**
 
@@ -66,9 +130,9 @@ Other languages:
 | --- | --- |
 | [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/50px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the [Wikimedia Foundation Board of Trustees](https://wikimediafoundation.org/role/board/ "foundationsite:role/board/").**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any [Wikimedia project](https://wikimediafoundation.org/our-work/wikimedia-projects/ "foundationsite:our-work/wikimedia-projects/").  <br><br>_Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence._ |
 
-Privacy Policy
+Wikimedia Foundation Privacy Policy
 
-[![](//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/75px-Wikimedia-logo.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo.svg)
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/90px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg)
 
 This is a [summary](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Summary "Special:MyLanguage/Policy:Privacy policy/Summary") of the Privacy Policy. To read the full terms, scroll down or [click here](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#introduction "Special:MyLanguage/Policy:Privacy policy").
 
@@ -176,7 +240,7 @@ Collection & Use of Info
 
 Whatever you post on Wikimedia Sites can be seen and used by everyone.
 
-When you make a contribution to any Wikimedia Site, including on user or discussion pages, you are creating a permanent, public record of every piece of content added, removed, or altered by you. The page history will show when your contribution or deletion was made, as well as your username (if you are signed in) or your [IP address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#Internet_Protocol_Address "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms") (if you are not signed in). We may use your public contributions, either aggregated with the public contributions of others or individually, to create new features or data-related products for you or to learn more about how the Wikimedia Sites are used, as further explained below in the ["How We Use Information We Receive From You"](#use) section of this Privacy Policy.
+When you make a contribution to any Wikimedia Site, including on user or discussion pages, you are creating a permanent, public record of every piece of content added, removed, or altered by you. The page history will show when your contribution or deletion was made, as well as your username (if you are signed in) or your [IP address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#ip-address "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms") (if you are not signed in). We may use your public contributions, either aggregated with the public contributions of others or individually, to create new features or data-related products for you or to learn more about how the Wikimedia Sites are used, as further explained below in the ["How We Use Information We Receive From You"](#infowereceive) section of this Privacy Policy.
 
 | Publicly Visible Information |
 | --- |
@@ -188,17 +252,17 @@ You do not need to create an account to use any Wikimedia Site.
 
 If you do create an account, you do not need to give us your name or email address (although you can if you choose to, such as for the "Email this user" feature for example).
 
-If you do not create an account, your contributions will be publicly attributed to your [IP address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#Internet_Protocol_Address "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms").
+If you do not create an account, your contributions will be publicly attributed to your [IP address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#ip-address "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms").
 
 Want to create an account? Great! Don't want to create an account? No problem!
 
-You are not required to create an account to read or contribute to a Wikimedia Site, except under [rare circumstances](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Frequently_asked_questions#needaccount "Special:MyLanguage/Policy:Privacy policy/Frequently asked questions"). However, if you contribute without signing in, your contribution will be publicly attributed to the [IP address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#Internet_Protocol_Address "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms") associated with your device.
+You are not required to create an account to read or contribute to a Wikimedia Site, except under [rare circumstances](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Frequently_asked_questions#needaccount "Special:MyLanguage/Policy:Privacy policy/Frequently asked questions"). However, if you contribute without signing in, your contribution will be publicly attributed to the [IP address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#ip-address "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms") associated with your device.
 
 If you want to create a [standard account](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Frequently_asked_questions#standardaccount "Special:MyLanguage/Policy:Privacy policy/Frequently asked questions"), in most cases we require only a username and a password. However, if you choose not to provide an email address, we can't help you recover your password.
 
 | More on Usernames |
 | --- |
-| Your username will be publicly visible, so please be careful about revealing your real name or other Personal Information in your username. Your password is only used to verify that the account is yours. Your [IP address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#Internet_Protocol_Address "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms") is also automatically submitted to us, and we record it temporarily. This is to protect Wikimedia users and project content; in the event of abuse, IP addresses may be associated with usernames as part of an investigation. No other Personal Information is required: no name, no email address, no date of birth, and no credit card information.<br><br>Once created, user accounts cannot be removed entirely (although you can usually hide the information on your user page if you choose to). This is because your public contributions must be associated with their author (you!). In some circumstances, the Wikimedia communities [can assist](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Right_to_vanish "Special:MyLanguage/Right to vanish (page does not exist)") users with removing additional information related to their account from the projects. |
+| Your username will be publicly visible, so please be careful about revealing your real name or other Personal Information in your username. Your password is only used to verify that the account is yours. Your [IP address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#ip-address "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms") is also automatically submitted to us, and we record it temporarily. This is to protect Wikimedia users and project content; in the event of abuse, IP addresses may be associated with usernames as part of an investigation. No other Personal Information is required: no name, no email address, no date of birth, and no credit card information.<br><br>Once created, user accounts cannot be removed entirely (although you can usually hide the information on your user page if you choose to). This is because your public contributions must be associated with their author (you!). In some circumstances, the Wikimedia communities [can assist](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Right_to_vanish "Special:MyLanguage/Right to vanish (page does not exist)") users with removing additional information related to their account from the projects. |
 
 To gain a better understanding of the demographics of our users, to localize our services and to learn how we can improve our services, we may ask you for more demographic information, such as gender or age, about yourself. We will tell you if such information is intended to be public or private, so that you can make an informed decision about whether you want to provide us with that information. Providing such information is always completely optional. If you don't want to, you don't have to—it's as simple as that.
 
@@ -208,15 +272,15 @@ To gain a better understanding of the demographics of our users, to localize our
 
 Some features we offer work better if we know what area you are in.
 
-If you consent, we can use [GPS](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#GPS "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms") (and other technologies commonly used to determine location) to show you more relevant content. We keep information obtained by these technologies confidential, except as provided in this Policy. You can learn more by checking out the list of examples of how we use these technologies in our [FAQ](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Frequently_asked_questions#gpsexamplesFAQ "Special:MyLanguage/Policy:Privacy policy/Frequently asked questions").
+If you consent, we can use [GPS](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#gps "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms") (and other technologies commonly used to determine location) to show you more relevant content. We keep information obtained by these technologies confidential, except as provided in this Policy. You can learn more by checking out the list of examples of how we use these technologies in our [FAQ](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Frequently_asked_questions#gpsexamplesFAQ "Special:MyLanguage/Policy:Privacy policy/Frequently asked questions").
 
 ##### Metadata
 
-Sometimes, we automatically receive location data from your device. For example, if you want to upload a photo on the Wikimedia Commons mobile app, we may receive [metadata](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#Metadata "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms"), such as the place and time you took the photo, automatically from your device. Please be aware that, unlike location information collected using GPS signals described above, the default setting on your mobile device typically includes the metadata in your photo or video upload to the Wikimedia Sites. If you do not want metadata sent to us and made public at the time of your upload, please change your settings on your device.
+Sometimes, we automatically receive location data from your device. For example, if you want to upload a photo on the Wikimedia Commons mobile app, we may receive [metadata](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#metadata "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms"), such as the place and time you took the photo, automatically from your device. Please be aware that, unlike location information collected using GPS signals described above, the default setting on your mobile device typically includes the metadata in your photo or video upload to the Wikimedia Sites. If you do not want metadata sent to us and made public at the time of your upload, please change your settings on your device.
 
 ##### IP Addresses
 
-Finally, when you visit any Wikimedia Site, we automatically receive the [IP address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#Internet_Protocol_Address "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms") of the device (or your [proxy server](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#Proxy_Servers "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms")) you are using to access the Internet, which could be used to [infer your geographical location](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Frequently_asked_questions#inferlocationFAQ "Special:MyLanguage/Policy:Privacy policy/Frequently asked questions").
+Finally, when you visit any Wikimedia Site, we automatically receive the [IP address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#ip-address "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms") of the device (or your [proxy server](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#proxy-servers "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms")) you are using to access the Internet, which could be used to [infer your geographical location](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Frequently_asked_questions#inferlocationFAQ "Special:MyLanguage/Policy:Privacy policy/Frequently asked questions").
 
 ### Information Related to Your Use of the Wikimedia Sites
 
@@ -230,7 +294,7 @@ We want to make the Wikimedia Sites better for you by learning more about how yo
 
 #### Information We Receive Automatically
 
-Because of how browsers work, we receive some information automatically when you visit the Wikimedia Sites. This includes when you use an online tool on a third-party site that loads information coming from the Wikimedia Sites. This information includes the type of device you are using (possibly including unique device identification numbers, for some beta versions of our mobile applications), the type and version of your [browser](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#Browsers "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms"), your browser's language preference, the type and version of your device's [operating system](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#Operating_System "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms"), in some cases the name of your internet service provider or mobile carrier, the website that referred you to the Wikimedia Sites, which pages you request and visit, and the date and time of each request you make to the Wikimedia Sites.
+Because of how browsers work, we receive some information automatically when you visit the Wikimedia Sites. This includes when you use an online tool on a third-party site that loads information coming from the Wikimedia Sites. This information includes the type of device you are using (possibly including unique device identification numbers, for some beta versions of our mobile applications), the type and version of your [browser](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#browsers "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms"), your browser's language preference, the type and version of your device's [operating system](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#operating-system "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms"), in some cases the name of your internet service provider or mobile carrier, the website that referred you to the Wikimedia Sites, which pages you request and visit, and the date and time of each request you make to the Wikimedia Sites.
 
 Put simply, we use this information to enhance your experience with Wikimedia Sites. For example, we use this information to administer the sites, provide greater security, and fight vandalism; optimize mobile applications, customize content and set language preferences, test features to see what works, and improve performance; understand how users interact with the Wikimedia Sites, track and study use of various features, gain understanding about the demographics of the different Wikimedia Sites, and analyze trends.
 
@@ -238,9 +302,9 @@ Put simply, we use this information to enhance your experience with Wikimedia Si
 
 We use a variety of commonly-used technologies, like cookies, to understand how you use the Wikimedia Sites, make our services safer and easier to use, and to help create a better and more customizable experience for you.
 
-We actively collect some types of information with a variety of commonly-used technologies. These generally include [tracking pixels](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#Tracking_Pixel "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms"), [JavaScript](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#JavaScript "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms"), and a variety of "locally stored data" technologies, such as [cookies](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#Cookies "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms") and [local storage](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#Local_Storage "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms"). These types of technologies may also be used in online tools on a third-party site that loads information from the Wikimedia Sites. We realize that some of these technologies do not have the best reputation in town and can be used for less-than-noble purposes. So we want to be as clear as we can about why we use these methods and the type of information we collect with them.
+We actively collect some types of information with a variety of commonly-used technologies. These generally include [tracking pixels](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#tracking-pixel "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms"), [JavaScript](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#javascript "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms"), and a variety of "locally stored data" technologies, such as [cookies](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#cookies "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms") and [local storage](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#local-storage "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms"). These types of technologies may also be used in online tools on a third-party site that loads information from the Wikimedia Sites. We realize that some of these technologies do not have the best reputation in town and can be used for less-than-noble purposes. So we want to be as clear as we can about why we use these methods and the type of information we collect with them.
 
-Depending on which technology we use, locally stored data may include text, Personal Information (like your [IP address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#Internet_Protocol_Address "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms")), and information about your use of the Wikimedia Sites (like your username or the time of your visit). See below for more information.
+Depending on which technology we use, locally stored data may include text, Personal Information (like your [IP address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#ip-address "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms")), and information about your use of the Wikimedia Sites (like your username or the time of your visit). See below for more information.
 
 We use this information to make your experience with the Wikimedia Sites safer and better, to gain a greater understanding of user preferences and their interaction with the Wikimedia Sites, and to generally improve our services. We will never use third-party cookies, unless we get your permission to do so. If you ever come across a third-party data collection tool that has not been authorized by you (such as one that may have been mistakenly placed by another user or administrator), please report it to us at [privacy@wikimedia.org](mailto:privacy@wikimedia.org).
 
@@ -294,7 +358,7 @@ As stated above, we may automatically receive location data from your device. Fo
 
 ##### IP Addresses
 
-When you visit any Wikimedia Site, we automatically receive the [IP address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#Internet_Protocol_Address "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms") of the device (or your proxy server) you are using to access the Internet, which could be used to infer your geographical location. We keep IP addresses confidential, except as provided in this Policy. If you are visiting Wikimedia Sites with your mobile device, we may use your IP address to provide anonymized or aggregated information to service providers regarding the volume of usage in certain areas.
+When you visit any Wikimedia Site, we automatically receive the [IP address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#ip-address "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms") of the device (or your proxy server) you are using to access the Internet, which could be used to infer your geographical location. We keep IP addresses confidential, except as provided in this Policy. If you are visiting Wikimedia Sites with your mobile device, we may use your IP address to provide anonymized or aggregated information to service providers regarding the volume of usage in certain areas.
 
 We use this location information to make your experience with the Wikimedia Sites safer and better, to gain a greater understanding of user preferences and their interaction with the Wikimedia Sites, and to generally improve our services. For example, we use this information to provide greater security, optimize mobile applications, and learn how to expand and better support Wikimedia communities. We also use Personal Information in the manner described in the sections of this Policy titled "For Legal Reasons" and "To Protect You, Ourselves & Others."
 
@@ -317,7 +381,7 @@ We will access, use, preserve, and/or disclose your Personal Information if we r
 
 Nothing in this Privacy Policy is intended to limit any legal objections or defenses you may have to a third-party's request (whether it be civil, criminal, or governmental) to disclose your Personal Information. We recommend seeking the advice of legal counsel immediately if such a request is made involving you.
 
-For more information, see our [Subpoena FAQ](https://foundation.wikimedia.org/wiki/Subpoena_FAQ "Subpoena FAQ").
+For more information, see our [Subpoena FAQ](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Subpoena_frequently_asked_questions "Special:MyLanguage/Policy:Privacy policy/Subpoena frequently asked questions").
 
 #### If the Organization is Transferred (Really Unlikely!)
 
@@ -335,9 +399,9 @@ We, or users with certain administrative rights, use and disclose Personal Infor
 
 We do so to manage our relationship with you, to further our legitimate interest, and/or to comply with our legal obligations.
 
-We, or particular users with certain administrative rights as described below, need to use and share your Personal Information if it is reasonably believed to be necessary to enforce or investigate potential violations of our [Terms of Use](https://foundation.wikimedia.org/wiki/Terms_of_Use "Terms of Use"), this Privacy Policy, or any Wikimedia Foundation or user community-based policies. We may also need to access and share Personal Information to investigate and defend ourselves against legal threats or actions.
+We, or particular users with certain administrative rights as described below, need to use and share your Personal Information if it is reasonably believed to be necessary to enforce or investigate potential violations of our [Terms of Use](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use "Special:MyLanguage/Policy:Terms of Use"), this Privacy Policy, or any Wikimedia Foundation or user community-based policies. We may also need to access and share Personal Information to investigate and defend ourselves against legal threats or actions.
 
-Wikimedia Sites are collaborative, with users writing most of the policies and selecting from amongst themselves people to hold certain administrative rights. These rights may include access to limited amounts of otherwise nonpublic information about recent contributions and activity by other users. They use this access to help protect against vandalism and abuse, fight harassment of other users, and generally try to minimize disruptive behavior on the Wikimedia Sites. These various user-selected administrative groups have their own privacy and confidentiality guidelines, but all such groups are supposed to agree to follow our [Access to Nonpublic Information Policy](https://foundation.wikimedia.org/wiki/Access_to_nonpublic_information_policy "Access to nonpublic information policy"). These user-selected administrative groups are accountable to other users through checks and balances: users are selected through a community-driven process and overseen by their peers through a logged history of their actions. However, the legal names of these users are not known to the Wikimedia Foundation.
+Wikimedia Sites are collaborative, with users writing most of the policies and selecting from amongst themselves people to hold certain administrative rights. These rights may include access to limited amounts of otherwise nonpublic information about recent contributions and activity by other users. They use this access to help protect against vandalism and abuse, fight harassment of other users, and generally try to minimize disruptive behavior on the Wikimedia Sites. These various user-selected administrative groups have their own privacy and confidentiality guidelines, but all such groups are supposed to agree to follow our [Access to nonpublic personal data policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy "Special:MyLanguage/Policy:Access to nonpublic personal data policy"). These user-selected administrative groups are accountable to other users through checks and balances: users are selected through a community-driven process and overseen by their peers through a logged history of their actions. However, the legal names of these users are not known to the Wikimedia Foundation.
 
 We hope that this never comes up, but we may disclose your Personal Information if we believe that it's reasonably necessary to prevent imminent and serious bodily harm or death to a person, or to protect our organization, employees, contractors, users, or the public. We may also disclose your Personal Information if we reasonably believe it necessary to detect, prevent, or otherwise assess and address potential spam, malware, fraud, abuse, unlawful activity, and security or technical concerns. (Check out the list of examples in our [FAQ](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Frequently_asked_questions#investigateuseFAQ "Special:MyLanguage/Policy:Privacy policy/Frequently asked questions") for more information.)
 
@@ -349,7 +413,7 @@ We use third-party service providers or contractors to help run or improve the W
 
 If you are visiting Wikimedia Sites with your mobile device, we use your IP address to provide anonymized or aggregated information to service providers regarding the volume of usage in certain areas.
 
-Some of our service providers ask us to post links to their privacy policies; a list of these service providers and links to their policies can be found [on this page](https://foundation.wikimedia.org/wiki/Privacy_policy/Supplement "Privacy policy/Supplement").
+Some of our service providers ask us to post links to their privacy policies; a list of these service providers and links to their policies can be found [on this page](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Supplement "Special:MyLanguage/Policy:Privacy policy/Supplement").
 
 #### To Understand & Experiment
 
@@ -386,13 +450,13 @@ Except as otherwise stated in this Policy, we only keep your Personal Informatio
 
 Once we receive Personal Information from you, we keep it for the shortest possible time that is consistent with the maintenance, understanding, and improvement of the Wikimedia Sites, and our obligations under applicable law. In most instances, Personal Information is deleted, aggregated or de-identified after 90 days. Non-Personal Information may be retained indefinitely as appropriate. (Check out the list of examples in our [FAQ](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Frequently_asked_questions#datatimeexamplesFAQ "Special:MyLanguage/Policy:Privacy policy/Frequently asked questions").)
 
-Please remember that when you make a contribution to any Wikimedia Site, the page history will show when your contribution was made, your username (if you are signed in), or your [IP address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#Internet_Protocol_Address "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms") (if you edit while not logged in). The transparency of the projects' contribution and revision histories is critical to their efficacy and trustworthiness. To learn more about our data retention practices, see our [data retention guidelines](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Data_retention_guidelines "Special:MyLanguage/Legal:Data retention guidelines").
+Please remember that when you make a contribution to any Wikimedia Site, the page history will show when your contribution was made, your username (if you are signed in), or your [IP address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#ip-address "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms") (if you edit while not logged in). The transparency of the projects' contribution and revision histories is critical to their efficacy and trustworthiness. To learn more about our data retention practices, see our [data retention guidelines](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Data_retention_guidelines "Special:MyLanguage/Legal:Data retention guidelines").
 
 ### Your rights
 
 If you would like to request access to or removal of your Personal Information, you may contact us.
 
-For information about how you may request removal of your Personal Information, or other rights you may have with respect to your Personal Information, see our [FAQ](https://foundation.wikimedia.org/wiki/Privacy_policy/FAQ#anonymize "Privacy policy/FAQ"). If you would like to request to access, update or restrict/object to the processing of Personal Information, or receive a copy of your Personal Information for purposes of transmitting it to another organization, you may [Contact Us](https://foundation.wikimedia.org/wiki/Privacy_policy#important "Privacy policy"). We will respond to your request consistent with applicable law.
+For information about how you may request removal of your Personal Information, or other rights you may have with respect to your Personal Information, see our [FAQ](https://foundation.wikimedia.org/wiki/Privacy_policy/FAQ#anonymize "Privacy policy/FAQ"). If you would like to request to access, update or restrict/object to the processing of Personal Information, or receive a copy of your Personal Information for purposes of transmitting it to another organization, you may [Contact Us](https://foundation.wikimedia.org/wiki/Privacy_policy#contact-us "Privacy policy"). We will respond to your request consistent with applicable law.
 
 Please note also that you may be able to exercise some of these rights without our intervention. For example, if you are a registered user, you can access and update some Personal Information in your Preferences, as well as download your user account data. You may also manage what kinds of notifications you receive and how often you receive them by going to your Notifications Preferences.
 
@@ -424,7 +488,7 @@ We ask that you please review the most up-to-date version of our Privacy Policy.
 
 ### Contact Us
 
-If you have questions or suggestions about this Privacy Policy, or the information collected under this Privacy Policy, please email us at [privacy@wikimedia.org](mailto:privacy@wikimedia.org) or [contact us](https://foundation.wikimedia.org/wiki/Contact_us "Contact us") directly. If you are located in the European Economic Area and have questions about your personal data or would like to request to access, update, or delete it, you may contact our representative via email at EUrepresentative.Wikimedia@twobirds.com, or via mail at:
+If you have questions or suggestions about this Privacy Policy, or the information collected under this Privacy Policy, please email us at [privacy@wikimedia.org](mailto:privacy@wikimedia.org) or [contact us](https://wikimediafoundation.org/about/contact/ "foundationsite:about/contact/") directly. If you are located in the European Economic Area and have questions about your personal data or would like to request to access, update, or delete it, you may contact our representative via email at EUrepresentative.Wikimedia@twobirds.com, or via mail at:
 
 Bird & Bird GDPR Representative Ireland
 
@@ -494,4 +558,4 @@ Privacy-related pages
 
 ![](//foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=220356](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=220356)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=230522](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=230522)"
