@@ -1,4 +1,4 @@
-Privacy PolicyLast Modified: 2022-12-30
+Privacy PolicyLast Modified: 2023-05-25
 =======================================
 
 The original version of this Privacy Policy is written in English. To the extent any translated version of this Privacy Policy conflicts with the English version, the English version controls.
@@ -17,7 +17,7 @@ Also: This Privacy Policy doesn’t govern what our users do on their Tumblr blo
 What We Collect and How We Use It
 ---------------------------------
 
-**Account Information:** When you create an account on the Services (an "**Account**"), we’ll ask you for information such as your username, password, age, and email address (“**Account Information**”). We may use Account Information, alone or together with other information, to enhance and improve the Services, such as by personalization. We use your age to verify that you can lawfully use the Services. We use your email address to verify your Account and to communicate with you, as described in more detail below. We also allow users to look for their friends by email address; you can, however, opt out of email lookup through your [Account Settings](https://www.tumblr.com/settings/account).
+**Account Information:** When you create an account on the Services (an "**Account**"), we’ll ask you for information such as your username, password, age, and email address (“**Account Information**”). We may use Account Information, alone or together with other information, to enhance and improve the Services, such as by personalization. We use your age to verify that you can lawfully use the Services. We use your email address to verify your Account and to communicate with you, as described in more detail below.
 
 You can keep yourself fairly anonymous on Tumblr, but remember that your posts, blogs, pages, and username are all visible to the public by default. People that know your email address can also find your blogs. If you’d rather be unlisted, head over to your [Account Settings](https://www.tumblr.com/settings/account).
 
