@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last updated: September 27, 2022
+Last updated: May 11, 2023
 
 This document (“**Privacy Policy**”) explains the privacy rules applicable to personal data and other information collected or submitted when you access, install, or use Nord Services and Websites regardless of the device (computer, mobile phone, tablet, etc.) you use.
 
@@ -130,9 +130,9 @@ Please note that you will need to pass through the Account verification process 
 
 Additionally, you may delete your Nord Account for different Nord products as described below. To initiate deletion, please follow these steps and our support team will follow up with your request shortly:
 
-* **NordVPN Account via NordVPN app on iPhone**: open the NordVPN app and log into your Account, tap on the “Settings” icon on the bottom right corner, tap “Contact Us”, select “Manage the account”, type in “Please delete my account”, and tap “SEND”.
+* **NordVPN Account via NordVPN app on iPhone**: open the NordVPN app and log into your Account, tap on the “Profile” icon, tap “Contact Us”, select “Request account deletion”, type in “Please delete my account”, and tap “SEND”.
     
-* **NordVPN Account via NordVPN desktop app on Mac**: open the NordVPN app and log into your Account, click on “Help” and select “Email Support”; on our “Contact Us” form select “Manage the account”, type in “Please delete my account”, and click “SEND”.
+* **NordVPN Account via NordVPN desktop app on Mac**: open the NordVPN app and log into your Account, click on “Help” and select “Email Support”; on our “Contact Us” form select “Request account deletion”, type in “Please delete my account”, and click “SEND”.
     
 * **NordPass Account via NordPass app on mobile devices**: open the NordPass app and log in to your Account, click on “Menu” icon at the bottom right of the window, tap the “Delete Account” option, and confirm by pressing “Submit Delete Request”; you will receive an email from NordAccount customer support to verify your identity and proceed with the Account Removal process.
     
