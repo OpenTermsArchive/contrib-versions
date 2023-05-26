@@ -633,6 +633,16 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
                 
             * Bacs de Loire en Loire-Atlantique (44). ([https://transport.data.gouv.fr/datasets/horaires-des-bacs-de-loire-en-loire-atlantique-gtfs/](https://transport.data.gouv.fr/datasets/horaires-des-bacs-de-loire-en-loire-atlantique-gtfs/))
                 
+            * Réseau urbain Rezo. ([https://transport.data.gouv.fr/datasets/fr-200052264-t0011-0000-1](https://transport.data.gouv.fr/datasets/fr-200052264-t0011-0000-1))
+                
+            * Réseau urbain Transurbain. ([https://transport.data.gouv.fr/datasets/transurbain-evreux-portes-de-normandie](https://transport.data.gouv.fr/datasets/transurbain-evreux-portes-de-normandie))
+                
+            * Réseau urbain et interurbain Altigo. ([https://transport.data.gouv.fr/datasets/donnees-de-transport-en-commun-reseau-altigo-communaute-de-communes-du-brianconnais-format-gtfs](https://transport.data.gouv.fr/datasets/donnees-de-transport-en-commun-reseau-altigo-communaute-de-communes-du-brianconnais-format-gtfs))
+                
+            * Réseau interurbain des Deux-Sèvres (79). ([https://transport.data.gouv.fr/datasets/gtfs-rna79-region-nouvelle-aquitaine-reseau-deux-sevres](https://transport.data.gouv.fr/datasets/gtfs-rna79-region-nouvelle-aquitaine-reseau-deux-sevres))
+                
+            * Réseau urbain Tempo Bus. ([https://transport.data.gouv.fr/datasets/agen-gtfs-urbain](https://transport.data.gouv.fr/datasets/agen-gtfs-urbain))
+                
         * Muséum national d'Histoire Naturelle: [https://inpn.mnhn.fr/accueil/mentions-legales](https://inpn.mnhn.fr/accueil/mentions-legales)
             
         * Réseau urbain A Citadina - ([https://transport.data.gouv.fr/datasets/horaires-temps-reels-reseau-a-citadina](https://transport.data.gouv.fr/datasets/horaires-temps-reels-reseau-a-citadina))
