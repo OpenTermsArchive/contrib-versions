@@ -259,7 +259,7 @@ We will review and may update this Privacy Policy from time to time. Any changes
 
 **March 25, 2019**
 
-* Expanded \[10.2. Deleting Messages\] with data on the new features in [version 5.5](https://telegram.org/blog/unsend-privacy-emoji), which allow both participants to remove any messages from one-on-one chats for both sides without a time limit.
+* Expanded [10.2. Deleting Messages](#10-2-messages) with data on the new features in [version 5.5](https://telegram.org/blog/unsend-privacy-emoji), which allow both participants to remove any messages from one-on-one chats for both sides without a time limit.
 
 **March 24, 2021**
 
@@ -289,7 +289,7 @@ We will review and may update this Privacy Policy from time to time. Any changes
 
 Important changes made to this Privacy Policy will be notified to you via Telegram.
 
-### [](#12-questions-and-concerns)12\. Questions and concerns
+### [](#12-questions-and-concerns)12\. Questions and Concerns
 
 If you have any questions about privacy and our data policies, please contact EDPO, our representative in the EEA, at [](https://edpo.com/gdpr-data-request/)[https://edpo.com/gdpr-data-request/](https://edpo.com/gdpr-data-request/) or by writing to Avenue Huart Hamoir 71, 1030 Brussels, Belgium.
 
