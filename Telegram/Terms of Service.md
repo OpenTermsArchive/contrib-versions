@@ -38,7 +38,7 @@ Users in certain regions may be required to pay local taxes, which will be calcu
 
 You can cancel Telegram Premium any time. To cancel your subscription, follow the instructions in the Telegram Premium section in the Settings of your Telegram account. If you purchased Telegram Premium using your Apple ID, you can cancel your subscription through your device's Account Settings or in the Manage Subscriptions section of the Apple App Store. If you purchased Telegram Premium using Google Play, you can cancel your subscriptions by visiting the Subscriptions section of Google Play.
 
-#### [](#2-1-refunds-and-effective-cancellation)2.1 Refunds and Effective Cancellation
+#### [](#2-2-refunds-and-effective-cancellation)2.2 Refunds and Effective Cancellation
 
 Your subscription will remain active from the time you cancel until the end of your current billing period, and you will not receive a refund or credit for any remaining days in your current billing period. At the end of your subscription you will lose access to all features associated with Telegram Premium.
 
