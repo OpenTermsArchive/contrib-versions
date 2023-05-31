@@ -1,7 +1,7 @@
 Viber Ads, Cookies & Tracking Technologies Policy
 =================================================
 
-_\[Last Updated: March 22, 2022\]_
+_\[Last Updated: June 1, 2023\]_
 
 Viber Media S.à r.l., its subsidiaries and affiliated companies (collectively, “**Viber**”, “**we**”, “**our**”, or “**us**”) maintain our websites available at: [**www.viber.com**](http://www.viber.com/) and [**www.forbusiness.viber.com**](http://www.forbusiness.viber.com/), and our mobile applications, services and tools (collectively, the “**Services**”, and as further detailed under **[Viber’s Terms of Service](https://www.viber.com/en/terms/viber-terms-use/)**).
 
@@ -89,8 +89,9 @@ The following tables set out details of the third-party Cookies we use as part o
 | Google Ads | User acquisition, conversion | For privacy information, go to:<br><br>[https://policies.google.com/privacy?hl=en-US#infochoices](https://policies.google.com/privacy?hl=en-US#infochoices)<br><br>To opt out, visit:<br><br>[https://policies.google.com/technologies/ads?hl= en-US](https://policies.google.com/technologies/ads?hl=%20en-US)<br><br>For additional information regarding our use of Google products, visit:<br><br>[https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites) |
 | Criteo | User acquisition, conversion | For privacy information, go to:<br><br>[https://www.criteo.com/privacy](https://www.criteo.com/privacy)<br><br>To opt out, visit:<br><br>[https://www.criteo.com/privacy/disable-criteo-services-on-internet-browsers](https://www.criteo.com/privacy/disable-criteo-services-on-internet-browsers)<br><br>For additional information, visit:<br><br>[https://www.criteo.com/privacy/disable-criteo-services-on-mobile-applications](https://www.criteo.com/privacy/disable-criteo-services-on-mobile-applications/) |
 | Huawei Mobile Services Core (HMS Core) | Supporting Huawei Mobile services (e.g. Supporting push messages and location sharing) | For Privacy Information, go to:<br><br>[https://consumer.huawei.com/sa-en/privacy/privacy-policy/](https://consumer.huawei.com/sa-en/privacy/privacy-policy/)<br><br>For additional information, go to:<br><br>[https://consumer.huawei.com/ie/support/content/en-gb15841692/#:~:text=If%20you%20are%20not%20aquianted,Core%20to%20its%20factory%20version](https://consumer.huawei.com/ie/support/content/en-gb15841692/#:~:text=If%20you%20are%20not%20aquianted,Core%20to%20its%20factory%20version) |
+| Meta Audience Network | Advertising | For Privacy Information, go to:<br><br>[https://www.facebook.com/privacy/policy/?entry\_point=data\_policy\_redirect&entry=0](https://www.facebook.com/privacy/policy/?entry_point=data_policy_redirect&entry=0)<br><br>For additional information, go to:<br><br>[https://accountscenter.facebook.com/ad\_preferences/ad\_settings/](https://accountscenter.facebook.com/ad_preferences/ad_settings/) |
 
- **Cookies we use on our main website (**[**www.viber.com**](http://www.viber.com/)**):**  
+**Cookies we use on our main website (**[**www.viber.com**](http://www.viber.com/)**):**  
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -141,9 +142,9 @@ The following tables set out details of the third-party Cookies we use as part o
 
 ###### **Your Cookie Choices & How to Opt-Out** 
 
-You have the choice whether to accept the use of Cookies or not. Subject to applicable laws, we will obtain your consent prior to our use of Cookies.
+You have the choice whether to accept the use of Cookies or not, except for those that are Strictly Necessary to operate the service. Subject to applicable laws, we will obtain your consent prior to our use of Cookies.
 
-Most browsers are initially set up to accept HTTP cookies.  The “help” feature of the menu bar on most browsers will tell you how to stop accepting new cookies, how to receive notification of new cookies and how to disable existing cookies.
+Most browsers -accept HTTP cookies by default.  The “help” feature of the menu bar on most browsers will tell you how to stop accepting new cookies, how to receive notification of new cookies and how to disable existing cookies.
 
 Controlling the HTML5 local storage on your browser depends on which browser you use.  For more information regarding your specific browser, please consult the browser’s website (often in the Help section). Please note, however, that without HTTP cookies and HTML5 local storage, you may not be able to take full advantage of all the features of our Services and some parts of the Services may not function properly.
 
@@ -157,11 +158,11 @@ You may opt-out of the data collection, sharing process and advertising services
 
 * **Cookies Setting Tool:** 
 
-You can opt-out from certain web cookies through the ‘Cookies Settings’ featured within the cookie banner on our websites.  Click on the different category headings to find out more and change our default settings. The preferences you chose will be stored in a separate cookie that is stored uniquely on your device. In case you visit our website from another device, use a different browser or after resetting your current browser, those settings are lost, and you need to change these settings again.
+You can opt-out from web cookies (except for those that are Strictly Necessary) through the ‘Cookies Settings’ featured within the cookie banner on our websites.  Click on the different category headings to find out more and change our default settings. The preferences you chose will be stored in a separate cookie that is stored uniquely on your device. Please note that your preference settings will not be known if you visit our website from another device, use a different browser, or reset your current browser, and that you need to specify your preference settings again in such cases.
 
 * **Browser Settings:**
 
-You may set your browser to block all or certain Cookies, or to indicate when a Cookie is being set, by adjusting the privacy and security settings of your web browser. Please refer to the support page of the browser you are using. In this regard, following are some links, which you may find useful:
+You may set your browser to block Cookies, or to indicate when a Cookie is being set, by adjusting the privacy and security settings of your web browser. Please refer to the support page of the browser you are using. In this regard, following are some links, which you may find useful:
 
 |     |     |
 | --- | --- |
@@ -181,9 +182,9 @@ To opt out of interest-based ads on mobile devices, please follow these instruct
         * iOS – **[https://support.apple.com/en-us/HT202074](https://support.apple.com/en-us/HT202074)**
         * Android – **[https://support.google.com/ads/answer/2662922?hl=en](https://support.google.com/ads/answer/2662922?hl=en)** 
 
-* * Apple’s App Tracking Transparency Prompt: With iOS 14.5, Apple introduced the AppTracking Transparency (ATT) framework, which requires any app to ask its users for their permission to access their device’s advertising identifier and use the data about them received from the apps and websites owned by other companies, for targeted advertising or advertising measurement purposes. Viber will allow you to make your own choice by reacting to the ATT Prompt, which will be displayed prior to connecting identifiable data collected on Viber with identifiable data from other companies’ apps and websites, for advertising purposes. Furthermore, you will always have an option to opt out of such tracking by visiting your iOS device’s settings menu. Once the setting is changed, we will work on making this change to take effect in our systems as soon as possible. More information on the AppTracking Transparency (ATT) framework is available **[HERE](https://developer.apple.com/app-store/user-privacy-and-data-use/).**
+* * Apple’s App Tracking Transparency Prompt: With iOS 14.5, Apple introduced the AppTracking Transparency (ATT) framework, which requires any app to ask its users for their permission to access their device’s advertising identifier and use the data about them received from the apps and websites owned by other companies, for targeted advertising or advertising measurement purposes. Viber will allow you to make your own choice by reacting to the ATT Prompt, which will be displayed prior to connecting identifiable data collected on Viber with identifiable data from other companies’ apps and websites, for advertising purposes. Furthermore, you will always have an option to opt out of such tracking by visiting your iOS device’s settings menu. Once the setting is changed, we will make this change to take effect in our systems as soon as possible. More information on the AppTracking Transparency (ATT) framework is available  **[HERE](https://developer.apple.com/app-store/user-privacy-and-data-use/).**
     * Analytics: You can also disable analytics for mobile apps from the settings screen on your mobile device.
-    * Specific Region Control: If you are a user in the EEA, or the UK, you can also turn off the “allow interest-based ads” setting on your Viber privacy settings (for more information see our **[EU Region Privacy Notice](https://www.viber.com/en/terms/gdpr-privacy-rights/)**). If you are a California user, you can switch the “Do not sell or share my personal information” on (for more info see **[CCPA Notice](https://www.viber.com/en/terms/ccpa-privacy-rights/)**) – in which case we will not share your Unique Identifier with our third-party advertisers.
+    * Specific Region Control: If you are a user in the EEA, or the UK, you can also control the “allow interest-based ads” setting on your Viber privacy settings (for more information see our **[EU Region Privacy Notice](https://www.viber.com/en/terms/gdpr-privacy-rights/)**). If you are a California user, you can switch the “Do not sell or share my personal information” toggle (for more info see **[CCPA Notice](https://www.viber.com/en/terms/ccpa-privacy-rights/)**) – in which case we will not share your Unique Identifier with our third-party advertisers.
     * Location: To opt-out of exact location tracking when using our App, you can use the settings of your device, or the Viber privacy settings.
 
 * **Opt-Out Provided by Third Parties:** 
@@ -218,7 +219,9 @@ For any queries in relation to this Ads & Cookies Policy please contact us at:
 
 **In the event you read this Ads & Cookie Policy in any language other than English, you agree that in the event of any discrepancies, the English version shall prevail.**
 
-Current Cookies policy 2022 [**Viber Cookies Policy 2022**](https://www.viber.com/app/uploads/Viber-Ads-Cookies-Tracking-Technologies-Policy-March-2022-EN-1.pdf)
+Current Cookies policy 2023 Viber Cookies Policy 2023
+
+Previous Cookies policy 2022 [**Viber Cookies Policy 2022**](https://www.viber.com/app/uploads/Viber-Ads-Cookies-Tracking-Technologies-Policy-March-2022-EN-1.pdf)
 
 Previous Cookies policy 2021 [**Viber Cookies Policy 2021**](https://www.viber.com/app/uploads/Viber-Ads-Cookies-Tracking-Technologies-Policy-2021-EN.pdf) 
 
