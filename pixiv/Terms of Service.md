@@ -147,36 +147,38 @@ When using the Services, User must not engage in the conduct set forth in the fo
 1. Conduct that infringes or is likely to infringe on the copyrights, design rights or other Intellectual Property Rights (defined in Article 22, Paragraph 1) of the Company or third parties;
 2. Reproducing Posted Information Posted etc. to the Services or a related services without the consent of the copyright holder (author);
 3. Engaging in activities that have a commercial or business objective, use that has a profit-making objective, or use in preparation for such profit-making objectives, regardless of the means, by using, diverting, reselling, reproducing, transmitting, translating, adapting, modifying, and so on the Services or a portion of the Services (the content, information, functions, system, programs, etc.) or other secondary use or reproduction of the Services;
-4. Conduct that infringes or is likely to infringe on the property, privacy, or rights to likeness of the Company or third parties;
-5. Engaging in inappropriate discrimination against or malicious slander of the Company or a third party, abetting inappropriate discrimination against a third party, or harming the honor or reputation of a third party;
-6. Conduct in violation of the Act on Regulation of Stalking Conduct, making large numbers of telephone calls or telephone calls over an extended period of time or excessive and repeated inquiries of the same nature, transmitting large numbers of messages using a messaging function, or making demands regarding which there is no duty or which are baseless;
-7. Impersonation of another person;
-8. Conduct that is linked to or likely to be linked to fraud or other criminal behavior;
-9. Engaging in any of the following conduct in relation to the Posted Information data that constitutes constitutes obscenity, obscenity, child pornography, or child abuse in violation of laws, regulations, or other criteria established by the Company (referred to as “Improper Data”):
+4. Conduct that the Company determines to unreasonably prejudice the interests of the User who Posted etc. the Posted Information to the Services or a related services by using the results of data analysis (including the conduct of learning to develop artificial intelligence.The same shall apply hereafter) of Posted Information Posted etc. to the Services or related services. However, this does not apply if the User has obtained the permission of the User who Posted etc. the Posted Information for this data analysis;
+5. Conduct that the Company determines to unreasonably prejudice the interests of a third party (Including, but not limited to, the conduct of repeatedly and continuously posting etc. Posted Information that resembles the work, portrait, or voice of a specific third party using the results of data analysis, and the conduct of distributing or selling models or tools that aid or abet such posting etc.);
+6. Conduct that infringes or is likely to infringe on the property, privacy, or rights to likeness of the Company or third parties;
+7. Engaging in inappropriate discrimination against or malicious slander of the Company or a third party, abetting inappropriate discrimination against a third party, or harming the honor or reputation of a third party;
+8. Conduct in violation of the Act on Regulation of Stalking Conduct, making large numbers of telephone calls or telephone calls over an extended period of time or excessive and repeated inquiries of the same nature, transmitting large numbers of messages using a messaging function, or making demands regarding which there is no duty or which are baseless;
+9. Impersonation of another person;
+10. Conduct that is linked to or likely to be linked to fraud or other criminal behavior;
+11. Engaging in any of the following conduct in relation to the Posted Information data that constitutes constitutes obscenity, obscenity, child pornography, or child abuse in violation of laws, regulations, or other criteria established by the Company (referred to as “Improper Data”):
     1. Issuing, posting, editing, or displaying Improper Data;
     2. Selling media that contains Improper Data; and
     3. Posting or displaying advertisements that allude to the transmission, display, or sale of media that contains Improper Data;
-10. Conduct that is likely to glamorize, provoke, or abet suicide, self-injurious behavior, substance abuse, and so on;
-11. Posting etc. Posted Information data that contains any of the following:
+12. Conduct that is likely to glamorize, provoke, or abet suicide, self-injurious behavior, substance abuse, and so on;
+13. Posting etc. Posted Information data that contains any of the following:
     1. Information that maliciously slanders Posted Information that has been Posted etc.;
     2. Information that can be used to identify an individual (including cases where an individual can be identified by collating such information with other Posted Information that has been Posted etc.) such as the name, address, workplace, or telephone number of the contributor or third party (including employees of the Company)
     3. Information whose veracity is difficult to confirm and false information; and
     4. Other information that the Company determines to be inappropriate;
-12. Impersonating an operator or third party;
-13. Exchanging one’s use rights to the Services for cash, goods, or other economic benefit by any method other than the method specified by the Company;
-14. Acquiring multiple accounts of the same type (excluding cases specifically permitted under Article 11);
-15. Posting Posted Information for the purpose of commercial advertising, publicity, or inducement (except in cases specifically permitted by the Company), Posted Information that contains affiliate links, Posted Information that contains inducements to other parties such as MLM or “pay to surf,” Posted Information that induces traffic to adult sites, one-click fraud sites, sites intended to distribute viruses or other malicious computer programs, or other sites determined by the Company to be inappropriate (including simply posting links to such sites), or other Posted Information that the Company determines to be inappropriate;
-16. Inappropriately delaying responses to or ignoring communications from the Company or other Users who are conducting transactions between Users;
-17. Despite receiving any reward from a company, etc., acts that fall under the guise of a third party, such as advertising (“stealth marketing”), or acts using the Service in stealth marketing, etc;
-18. Using expression linked to discrimination on the basis of race, ethnicity, sex, age, belief, and so on;
-19. Conduct that imposes excessive loads on the Service servers, hinders operation of the Services or network systems, or is likely to have such results;
-20. Improperly rewriting or deleting data stored on the Company’s facilities;
-21. Transmitting or posting viruses or other harmful computer programs;
-22. Conduct that the Company determines violates laws and regulations, public order, these Terms of Use, or Individual Terms of Use etc. or infringes on the rights of another person;
-23. Posting or editing expression that extols or incites extremist ideas or antisocial behavior;
-24. Posting or editing expression that extols or incites discrimination on the basis of race, belief, occupation, sex, religion, and so on;
-25. Posting or editing expression that extols or incites cult-like religious activity or extreme political activity;
-26. Using the Services to display, sell, purchase, register, or engage in other transactions involving the products set forth below:
+14. Impersonating an operator, another user, or any other third party, or any conduct that the Company determines is likely to be misinterpreted as such;
+15. Exchanging one’s use rights to the Services for cash, goods, or other economic benefit by any method other than the method specified by the Company;
+16. Acquiring multiple accounts of the same type (excluding cases specifically permitted under Article 11);
+17. Posting Posted Information for the purpose of commercial advertising, publicity, or inducement (except in cases specifically permitted by the Company), Posted Information that contains affiliate links, Posted Information that contains inducements to other parties such as MLM or “pay to surf,” Posted Information that induces traffic to adult sites, one-click fraud sites, sites intended to distribute viruses or other malicious computer programs, or other sites determined by the Company to be inappropriate (including simply posting links to such sites), or other Posted Information that the Company determines to be inappropriate;
+18. Inappropriately delaying responses to or ignoring communications from the Company or other Users who are conducting transactions between Users;
+19. Despite receiving any reward from a company, etc., acts that fall under the guise of a third party, such as advertising (“stealth marketing”), or acts using the Service in stealth marketing, etc;
+20. Using expression linked to discrimination on the basis of race, ethnicity, sex, age, belief, and so on;
+21. Conduct that imposes excessive loads on the Service servers, hinders operation of the Services or network systems, or is likely to have such results;
+22. Improperly rewriting or deleting data stored on the Company’s facilities;
+23. Transmitting or posting viruses or other harmful computer programs;
+24. Conduct that the Company determines violates laws and regulations, public order, these Terms of Use, or Individual Terms of Use etc. or infringes on the rights of another person;
+25. Posting or editing expression that extols or incites extremist ideas or antisocial behavior;
+26. Posting or editing expression that extols or incites discrimination on the basis of race, belief, occupation, sex, religion, and so on;
+27. Posting or editing expression that extols or incites cult-like religious activity or extreme political activity;
+28. Using the Services to display, sell, purchase, register, or engage in other transactions involving the products set forth below:
     1. Stimulants, narcotics, psychotropic agents, marijuana, opium, poisons, toxic substances, and other prohibited goods;
     2. Marijuana seeds and products related to legal drugs (unregulated drugs);
     3. Firearms, swords, weapons, explosives, chemical weapons;
@@ -211,8 +213,8 @@ When using the Services, User must not engage in the conduct set forth in the fo
     29. Products for which the service provision period is lengthy;
     30. Products whose sale requires permits and approvals, registration, notice, and so on; and
     31. Other products outside the scope of the Company’s prohibitions and terms of use that the Company determines to be inappropriate; and
-27. In situations where a User uses the Service to provide Products, license or service to other Users, the act that brings disadvantages to other Users of the Service, such as demanding different charges depending on the payment method.
-28. Other conduct that the Company determines to be inappropriate.
+29. In situations where a User uses the Service to provide Products, license or service to other Users, the act that brings disadvantages to other Users of the Service, such as demanding different charges depending on the payment method.
+30. Other conduct that the Company determines to be inappropriate.
 
 Article 15. Responses to Violation etc. and Cancellation of Registration
 ------------------------------------------------------------------------
@@ -440,6 +442,7 @@ Supplementary Provisions
 Revisions
 ---------
 
+* May 31, 2023: Item 14 of “Article 14: Prohibited Conduct” has been revised. The current Item 4 and Item 5 were newly added to “Article 14: Prohibited Conduct”.
 * December 15, 2022: “Article 14, Prohibited Conduct”, Section 26.4 have been amended. “Article 15, Responses to Violation etc. and Cancellation of Registration”, Section 1.8 added.
 * March 31, 2021: Due to the termination of the provision of the service “pixiv Literature”, the terms related to “pixiv Literature” have been deleted. Futhermore, Article 27-2 “Handling of Fan Letters etc.” added.
 * December 16, 2020: Article 22-2 Automatic Translation Function was added upon the start of provision of such new function.
