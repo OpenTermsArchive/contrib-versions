@@ -198,7 +198,7 @@ Other users of our Services with whom you choose to communicate with and share c
 
 #### [](#8-2-telegrams-group-companies)8.2. Telegram’s Group Companies
 
-To provide, improve and support our Services, we may share your personal data with: _(1)_ our parent company, Telegram Group Inc, located in the British Virgin Islands, _(2)_ Telegraph Inc., a group member also located in the BVI; and _(3)_ Telegram FZ-LLC, a group member located in Dubai, to help provide, improve and support our Services. We will implement appropriate safeguards to protect the security and integrity of that personal data. This will take the form of standard contract clauses approved by the European Commission in an agreement between us and our relevant group companies. If you would like more information regarding these clauses, please contact our EEA representative using the details in [section 1.4](#1-4-eea-representative) above.
+To provide, improve and support our Services, we may share your personal data with: _(1)_ our parent company, Telegram Group Inc, located in the British Virgin Islands, _(2)_ Telegraph Inc., a group member also located in the BVI; and _(3)_ Telegram FZ-LLC, a group member located in Dubai. We will implement appropriate safeguards to protect the security and integrity of that personal data. This will take the form of standard contract clauses approved by the European Commission in an agreement between us and our relevant group companies. If you would like more information regarding these clauses, please contact our EEA representative using the details in [section 1.4](#1-4-eea-representative) above.
 
 #### [](#8-3-law-enforcement-authorities)8.3. Law Enforcement Authorities
 
@@ -289,11 +289,13 @@ We will review and may update this Privacy Policy from time to time. Any changes
 
 Important changes made to this Privacy Policy will be notified to you via Telegram.
 
-### [](#12-questions-and-concerns)12\. Questions and Concerns
+### [](#12-further-information)12\. Further Information
 
-If you have any questions about privacy and our data policies, please contact EDPO, our representative in the EEA, at [](https://edpo.com/gdpr-data-request/)[https://edpo.com/gdpr-data-request/](https://edpo.com/gdpr-data-request/) or by writing to Avenue Huart Hamoir 71, 1030 Brussels, Belgium.
+If you have any questions please feel free to explore our [FAQ](https://telegram.org/faq) or contact Telegram's Volunteer Support in-app via _Settings > Ask a Question_.
 
-Telegram is an open source project. You can examine more information on our:
+If you live in the EU and would like to submit a GDPR-related request, please [see here](#1-4-eea-representative).
+
+Telegram is an open source project. You can find more information on our:
 
 * API at: [](https://core.telegram.org/api)[https://core.telegram.org/api](https://core.telegram.org/api);
 * Bot Platform at: [](https://core.telegram.org/bots)[https://core.telegram.org/bots](https://core.telegram.org/bots);
