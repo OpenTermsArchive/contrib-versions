@@ -4,9 +4,9 @@ Terms and Conditions
 1\. About our Terms
 -------------------
 
-**1.1.** We are The Financial Times Limited (""we", "us", or "our"), a limited company registered in England and Wales and our registered address is Bracken House, 1 Friday Street, London, England, EC4M 9BT. Our company number is 00227590, our UK VAT registration number is GB226162332 and our data protection registration number is Z7087146. If you need any of our other tax ID numbers please contact [Customer Care](https://help.ft.com/contact/)
+**1.1.** We are The Financial Times Limited (""we", "us", or "our"), a limited company registered in England and Wales and our registered address is Bracken House, 1 Friday Street, London, England, EC4M 9BT. Our company number is 00227590, our UK VAT registration number is GB226162332 and our data protection registration number is Z7087146. If you need any of our other tax ID numbers please contact [Customer Care](https://help.ft.com/contact/).
 
-**1.2.** These Terms and Conditions apply whenever you :
+**1.2.** These Terms and Conditions apply whenever you:
 
 * use FT.com, FT.com mobile and online digital apps and services (together “FT.com”) and access the content and services available on them including the Financial Times newspaper (the “Newspaper”) (together, the “FT Content”); and
 * purchase access to FT.com, the Newspaper and/or the FT Content (together, the "FT Services") on a subscription basis.
@@ -20,7 +20,7 @@ Terms and Conditions
 
 **Subscribing to the FT**
 
-**2.1.** We offer a range of subscriptions:- 
+**2.1.** We offer a range of subscriptions: 
 
 * to FT.com (“Digital Subscriptions”);
 * the Newspaper (“Print Subscriptions”),
@@ -137,23 +137,25 @@ You may also use your [regional telephone number](https://help.ft.com/contact/)
 
 **3.4.** You agree to comply with our [Copyright Policy](https://help.ft.com/legal-privacy/copyright-policy/) when using FT Content. You are responsible for all use of FT Content whether accessed without a Subscription as a registered user, under your Subscription, or under your organisation’s Subscription.
 
-**3.5.** The amount and types of FT Content that you can view depend on what type of subscription you have. If you already have a subscription, details of your access rights can be found at [Your Account](https://www.ft.com/myaccount). We may vary or cancel the access rights of non-paying users at any time.  
+**3.5.** To the fullest extent permitted by law, we expressly prohibit any use of our content or data (including any associated metadata) in any manner for any machine learning and/or artificial intelligence purposes, including without limitation for the purposes of training or development of artificial intelligence technologies or tools or machine learning language models, or otherwise for the purposes of using or in connection with the use of such technologies, tools or models to generate any data or content and/or to synthesise or combine with any other data or content. We reserve all rights to license any use of our content and data for any such purposes.
 
-**3.6.** Your access to FT Content will vary depending on whether you have a FT Standard or FT Premium Digital Subscription. An FT Standard Subscription provides an overview of the most important business, political and economic stories from around the world whereas an FT Premium Subscription gives readers full access to FT journalism, including exclusive additional analysis and insight. 
+**3.6.** The amount and types of FT Content that you can view depend on what type of subscription you have. If you already have a subscription, details of your access rights can be found at [Your Account](https://www.ft.com/myaccount). We may vary or cancel the access rights of non-paying users at any time.  
 
-**3.7.** We reserve the right to amend the scope of your Digital Subscription from time to time. We will give you at least 30 days’ notice of any significant reduction in the scope of your Digital Subscription, and these will only take effect from the date of your next payment following that 30-day period. This does not apply where a type of content or service intended for FT Premium subscriptions is made available to FT Standard subscribers on an introductory, temporary or trial basis. 
+**3.7.** Your access to FT Content will vary depending on whether you have a FT Standard or FT Premium Digital Subscription. An FT Standard Subscription provides an overview of the most important business, political and economic stories from around the world whereas an FT Premium Subscription gives readers full access to FT journalism, including exclusive additional analysis and insight. 
 
-**3.8.** On registration, you will choose a user name and password (“ID”). It is your responsibility to keep your ID confidential. The email address must not correspond to a generic or shared email account, and you must be entitled to use that e-mail address.  All information received by us from your use of FT Content will be used by FT in accordance with our [Privacy Policy](https://help.ft.com/legal-privacy/privacy-policy/).
+**3.8.** We reserve the right to amend the scope of your Digital Subscription from time to time. We will give you at least 30 days’ notice of any significant reduction in the scope of your Digital Subscription, and these will only take effect from the date of your next payment following that 30-day period. This does not apply where a type of content or service intended for FT Premium subscriptions is made available to FT Standard subscribers on an introductory, temporary or trial basis. 
 
-**3.9.** If you believe there has been any breach of security such as the disclosure, theft or unauthorised use of your ID or any payment information, you must notify FT immediately by e-mailing us at [help@ft.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=help@ft.com). We recommend that you do not use FT.com’s “Remember me” log in feature on any device that may be used by anyone other than you in order to prevent unauthorised access to FT.com and your Subscription details.
+**3.9.** On registration, you will choose a user name and password (“ID”). It is your responsibility to keep your ID confidential. The email address must not correspond to a generic or shared email account, and you must be entitled to use that e-mail address.  All information received by us from your use of FT Content will be used by FT in accordance with our [Privacy Policy](https://help.ft.com/legal-privacy/privacy-policy/).
+
+**3.10.** If you believe there has been any breach of security such as the disclosure, theft or unauthorised use of your ID or any payment information, you must notify FT immediately by e-mailing us at [help@ft.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=help@ft.com). We recommend that you do not use FT.com’s “Remember me” log in feature on any device that may be used by anyone other than you in order to prevent unauthorised access to FT.com and your Subscription details.
 
 **User Generated Content**
 
-**3.10.** FT.com includes comments sections, blogs and other features that allow interaction between users and between users and FT journalists (“Forums”). If you post information to these Forums (“User Generated Content” or “UGC”) then you must comply with our [guidance for commenting on articles](https://help.ft.com/faq/topic/commenting-on-articles) plus any specific rules posted on the Forum. You are responsible for all the content of any of your UGC that you or we publish. You are financially responsible to us for any claim against us by any third party that your UGC is not in accordance with these Terms and Conditions or that otherwise relates to your UGC.
+**3.11.** FT.com includes comments sections, blogs and other features that allow interaction between users and between users and FT journalists (“Forums”). If you post information to these Forums (“User Generated Content” or “UGC”) then you must comply with our [guidance for commenting on articles](https://help.ft.com/faq/topic/commenting-on-articles) plus any specific rules posted on the Forum. You are responsible for all the content of any of your UGC that you or we publish. You are financially responsible to us for any claim against us by any third party that your UGC is not in accordance with these Terms and Conditions or that otherwise relates to your UGC.
 
-**3.11.** You own the copyright in your UGC, and you agree to grant FT a right (but not an obligation) unlimited in time to publish, re-use, archive, modify, delete or commercially exploit that UGC in whole or in part as we see fit, whether on FT.com or otherwise, without any requirement to pay you for this and with or without attribution to you. You also waive any moral rights that you may have in regard to the UGC.
+**3.12.** You own the copyright in your UGC, and you agree to grant FT a right (but not an obligation) unlimited in time to publish, re-use, archive, modify, delete or commercially exploit that UGC in whole or in part as we see fit, whether on FT.com or otherwise, without any requirement to pay you for this and with or without attribution to you. You also waive any moral rights that you may have in regard to the UGC.
 
-**3.12.** You agree that you will:
+**3.13.** You agree that you will:
 
 * only post original content and not infringe the copyright or other rights of any third party;
 * not post any UGC containing any form of advertising or promotion for goods and services or any form of unsolicited communication;
@@ -169,27 +171,27 @@ You may also use your [regional telephone number](https://help.ft.com/contact/)
 * not restrict or inhibit any other user from using the Forums; and
 * comply with the guidelines for commenting set out in our [Commenting FAQ](https://help.ft.com/faq/topic/commenting-on-articles).
 
-**3.13.** It is not possible for FT to fully monitor all UGC published on FT.com but where we have actually received notice of any UGC that is potentially misleading, untrue, offensive, unlawful, infringes third party rights or is potentially in breach of these Terms and Conditions, then we will review that UGC, decide whether to remove it from FT.com and act accordingly. This may include banning a user from participation in UGC on FT.com. If you are aware of any such UGC, please notify us immediately with specific details by contacting us at [help@ft.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=help@ft.com).
+**3.14.** It is not possible for FT to fully monitor all UGC published on FT.com but where we have actually received notice of any UGC that is potentially misleading, untrue, offensive, unlawful, infringes third party rights or is potentially in breach of these Terms and Conditions, then we will review that UGC, decide whether to remove it from FT.com and act accordingly. This may include banning a user from participation in UGC on FT.com. If you are aware of any such UGC, please notify us immediately with specific details by contacting us at [help@ft.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=help@ft.com).
 
-**3.14.** We can link your UGC, including anything posted under a pseudonym, to your FT.com account. Our moderation and community team may contact you from time to time regarding your UGC.
+**3.15.** We can link your UGC, including anything posted under a pseudonym, to your FT.com account. Our moderation and community team may contact you from time to time regarding your UGC.
 
 **Accuracy of information and availability of FT.com**
 
-**3.15.** While we try to make sure that FT.com and all FT Content is accurate, up-to-date and free from bugs, we cannot promise that it will be. Furthermore, we cannot promise that FT.com will be fit or suitable for any purpose. Any reliance that you may place on the information on FT.com is at your own risk.
+**3.16.** While we try to make sure that FT.com and all FT Content is accurate, up-to-date and free from bugs, we cannot promise that it will be. Furthermore, we cannot promise that FT.com will be fit or suitable for any purpose. Any reliance that you may place on the information on FT.com is at your own risk.
 
-**3.16.** FT Content is provided for your general information purposes only and to inform you about us and our products and news, features, services and other websites that may be of interest. It does not constitute technical, financial or legal advice or any other type of advice and should not be relied on for any purposes.
+**3.17.** FT Content is provided for your general information purposes only and to inform you about us and our products and news, features, services and other websites that may be of interest. It does not constitute technical, financial or legal advice or any other type of advice and should not be relied on for any purposes.
 
-**3.17.** If you use either [Managed Funds](https://markets.ft.com/data/funds/uk) or [Personal Finance](https://www.ft.com/personal-finance) on FT.com you acknowledge that these areas of FT.com are designed for use by UK users only and you should not use them if you are ordinarily resident outside of the UK.
+**3.18.** If you use either [Managed Funds](https://markets.ft.com/data/funds/uk) or [Personal Finance](https://www.ft.com/personal-finance) on FT.com you acknowledge that these areas of FT.com are designed for use by UK users only and you should not use them if you are ordinarily resident outside of the UK.
 
-**3.18.** We may suspend or terminate operation of FT.com or any part thereof at any time as we see fit.
+**3.19.** We may suspend or terminate operation of FT.com or any part thereof at any time as we see fit.
 
-**3.19.** While we try to make sure that FT.com is available for your use, we do not promise that FT.com is available at all times nor do we promise the uninterrupted use by you of FT.com.
+**3.20.** While we try to make sure that FT.com is available for your use, we do not promise that FT.com is available at all times nor do we promise the uninterrupted use by you of FT.com.
 
 **Third party sites and products**
 
-**3.20.** FT.com may contain hyperlinks or references to third party websites and third party products. Any such hyperlinks or references are provided for your convenience only. We have no control over third party websites and accept no legal responsibility for any products, content, material or information contained in them. The display of any hyperlink and reference to any third party website or third party product (including any advert or sponsor) does not mean that we endorse that third party's website, products or services. Your use of a third party site may be governed by the terms and conditions of that third party site.
+**3.21.** FT.com may contain hyperlinks or references to third party websites and third party products. Any such hyperlinks or references are provided for your convenience only. We have no control over third party websites and accept no legal responsibility for any products, content, material or information contained in them. The display of any hyperlink and reference to any third party website or third party product (including any advert or sponsor) does not mean that we endorse that third party's website, products or services. Your use of a third party site may be governed by the terms and conditions of that third party site.
 
-**3.21.** Any agreements, transactions or other arrangements made between you and any third party named on (or linked to/from) FT.com are at your own responsibility and entered into at your own risk.
+**3.22.** Any agreements, transactions or other arrangements made between you and any third party named on (or linked to/from) FT.com are at your own responsibility and entered into at your own risk.
 
 4\. Your Privacy and Personal Information
 -----------------------------------------
@@ -217,21 +219,21 @@ in each case even if we have been advised that such damages may arise.**
 6\. Corporate Information
 -------------------------
 
-6.1. Other than as set out in section 6.2 below, you will be contracting with The Financial Times Limited for any Subscriptions. The Financial Times Limited is the publisher of the Newspaper and FT.com, and its corporate details are set out at section 1.1.
+**6.1.** Other than as set out in section 6.2 below, you will be contracting with The Financial Times Limited for any Subscriptions. The Financial Times Limited is the publisher of the Newspaper and FT.com, and its corporate details are set out at section 1.1.
 
-6.2. If you buy a Print or Bundled Subscription and are resident in one of the countries specified below, you will be contracting with the applicable entity listed below:
+**6.2.** If you buy a Print or Bundled Subscription and are resident in one of the countries specified below, you will be contracting with the applicable entity listed below:
 
 * Americas: F.T. Publications, Inc, whose principal place of business is at 330 Hudson Street, 8th Floor, New York, NY 10013, USA.
 * Japan or South Korea: The Financial Times (Japan) Limited, whose principal place of business is at 10F Nihon Keizai Shimbunsha Tokyo Honsha Building, 1-3-7 Otemachi, Chiyoda-ku, Tokyo, 100-8066, Japan.
 * Singapore: The Financial Times (Singapore) Pte Limited, whose principal place of business is at 60 Anson Road, #06-02 Mapletree Anson, Singapore 079914.
 * Asia (other than Japan, South Korea or Singapore) or Oceania: The Financial Times (H.K.) Limited, whose principal place of business is at 6/F Nan Fung Tower, 88 Connaught Road, Central, Hong Kong.
 
-6.3. The Managed Funds and Personal Finance areas of FT.com are operated separately by FT Personal Finance Limited whose corporate details are as follows: registered office address is Bracken House, 1 Friday Street, London, EC4M 9BT; company number is 3855520; VAT number GB226162332; and Data Protection Registration Number is Z7670392.
+**6.3.** The Managed Funds and Personal Finance areas of FT.com are operated separately by FT Personal Finance Limited whose corporate details are as follows: registered office address is Bracken House, 1 Friday Street, London, EC4M 9BT; company number is 3855520; VAT number GB226162332; and Data Protection Registration Number is Z7670392.
 
 7\. Changes to these Terms and Conditions
 -----------------------------------------
 
-**7.1.** These Terms and Conditions were published on 1 March 2022 and replace with immediate effect the Terms and Conditions previously published on 25 November 2021. 
+**7.1.** These Terms and Conditions were published on 31 May 2023 and replace with immediate effect the Terms and Conditions previously published on 1 March 2022.
 
 **7.2.** We may update these Terms and Conditions for legal or regulatory reasons, or to reflect changes in our services or business practices. We will provide notice of any significant changes below. You should regularly check this section to see if any changes have been made. If you are a paying subscriber, any changes to our terms and conditions will become effective from the date of your next payment following the change unless we notify you otherwise. If you are not a paying subscriber, any changes will become effective as soon as we post them on FT.com.
 
