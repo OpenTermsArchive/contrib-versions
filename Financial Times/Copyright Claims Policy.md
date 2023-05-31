@@ -1,7 +1,7 @@
 Copyright Policy
 ================
 
-This copyright policy sets out how users are permitted to use our content and also explains the types of use that require the purchase of additional licences. This policy forms part of our terms and conditions. Thank you for reading this policy: our ability to invest in high quality journalism depends on our users complying with it. We reserve the right to change our copyright policy from time to time by publishing an updated policy on FT.com, which shall become effective and replace any previous policy with effect from publication. This version of the copyright policy was published on 28 April 2016.
+This copyright policy sets out how users are permitted to use our content and also explains the types of use that require the purchase of additional licences. This policy forms part of our terms and conditions. Thank you for reading this policy: our ability to invest in high quality journalism depends on our users complying with it. We reserve the right to change our copyright policy from time to time by publishing an updated policy on FT.com, which shall become effective and replace any previous policy with effect from publication. This version of the copyright policy was published on 31 May 2023.
 
 What is copyright?
 ------------------
@@ -82,6 +82,7 @@ You cannot do anything other than make use of the content as set out above, unle
 * Remove the copyright or or trade mark notice from any copies of FT content.
 * Use spidering technology or other datamining technologies to search and link to FT.com.
 * Create a database in electronic or structured manual from by systematically and/or regularly downloading, caching, printing and storing all or any FT content (by spidering or otherwise).
+* Use any of our content or data (including any associated metadata) in any manner for any machine learning and/or artificial intelligence purposes, including without limitation for the purposes of training or development of artificial intelligence technologies or tools or machine learning language models, or otherwise for the purposes of using or in connection with the use of such technologies, tools or models to generate any data or content and/or to synthesise or combine with any other data or content. 
 * Frame, harvest or scrape FT content or otherwise access FT content for similar purposes.
 * Use or attempt to use FT content outside the parameters we set depending on what subscription you have.
 
