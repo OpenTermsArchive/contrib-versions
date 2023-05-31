@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: May 3, 2023
+#### Last Updated: May 30, 2023
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -1296,5 +1296,11 @@ You may not use AWS Clean Rooms or any information obtained from your use of AWS
 ### 96\. AWS Nitro System
 
 AWS personnel do not have access to Your Content on AWS Nitro System EC2 instances. There are no technical means or APIs available to AWS personnel to read, copy, extract, modify, or otherwise access Your Content on an AWS Nitro System EC2 instance or encrypted-EBS volume attached to an AWS Nitro System EC2 instance. Access to AWS Nitro System EC2 instance APIs – which enable AWS personnel to operate the system without access to Your Content - is always logged, and always requires authentication and authorization.
+
+### 97\. Amazon Security Lake
+
+**97.1.** "Security Lake Content" is Your Content that (a) Amazon Security Lake processes or (b) is stored in Amazon Security Lake.  
+
+**97.2.** You agree and instruct that: (a) we may use and store your Security Lake Content to maintain and provide Amazon Security Lake (including development and improvement of Amazon Security Lake and its underlying technologies); and (b) we may use and store Security Lake Content that is not personal data to develop and improve other AWS security services. You may instruct AWS not to use and store Security Lake Content to develop and improve Amazon Security Lake or other AWS security services by configuring an AI services opt out policy using AWS Organizations.
 
 [Previous version(s)](https://aws.amazon.com/service-terms/historical/)[](https://aws.amazon.com/service-terms/historical/)
