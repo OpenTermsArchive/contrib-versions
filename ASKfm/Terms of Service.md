@@ -1,6 +1,6 @@
-See [Terms of Use](https://about.ask.fm/legal/2022-03/en/terms.html) effective before 2022-03-23.
+See [Terms of Use](https://about.ask.fm/legal/2023-04/en/terms.html) effective before 2023-03-23.
 
-Effective Date: 2022-03-23
+Effective Date: 2023-03-23
 
 1\. Important information
 =========================
