@@ -1,7 +1,7 @@
 Voice Acceptable Use Policy
 ===========================
 
-Our policies play an important role in maintaining a positive experience for our users. Please follow these policies when using Google Voice. When we identify a potential policy violation, we may review it and take action, including limiting or terminating a user’s access to Google Voice.
+Our policies play an important role in maintaining a positive experience for our users. Please follow these policies when using Google Voice. When we identify a potential policy violation, we may review and take action, including limiting or terminating a user’s access to Google Voice.
 
 #### Spam and commercial use
 
@@ -62,7 +62,7 @@ Do not abuse the Google Voice Service, and do not interfere with other Google Vo
 
 #### Account inactivity
 
-Google may reclaim your Google Voice number (if you have one) if you have not placed or answered calls, or sent or opened text messages for a period of three months. We will not reclaim numbers that have been ported into Google Voice or made permanent.
+Google may reclaim your Google Voice number (if you have one) if you do not appear to be making use of the service as it was intended, such as placing calls or sending text messages, for a period of three months. We advise you to check your email for notifications regarding any such number reclamation based on account inactivity.
 
 Other policies
 --------------
