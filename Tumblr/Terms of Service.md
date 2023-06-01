@@ -1,4 +1,4 @@
-Terms of ServiceLast Modified: 2022-12-16
+Terms of ServiceLast Modified: 2023-06-01
 =========================================
 
 Tumblr is a U.S. company and subject to U.S. laws and jurisdiction. The original version of these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are written in English. To the extent any translated version of these Terms of Service (or any other terms, policies, or guidelines that we provide to you) conflicts with the English version, the English version controls.
@@ -154,7 +154,18 @@ Some Paid Services on Tumblr automatically renew as recurring subscriptions (“
 
 **If you enrolled through the Tumblr Site, you can modify your payment method or cancel your Subscriptions at: [www.tumblr.com/settings/subscriptions](https://www.tumblr.com/settings/subscriptions). If you enrolled using an in-app payment platform, such as through an Apple or Android device, you must modify your payment method or cancel your Subscriptions directly with that platform.**
 
-12\. Special Provisions for Post+, Tipping, and Tumblr Live
+12\. Domain Names
+-----------------
+
+We may work with third-party registrars to provide domain name services. When you register a domain on Tumblr or transfer an existing domain to Tumblr, the policies of the respective registry apply, and you become bound by the relevant registrar’s terms and conditions. Depending on the domain, you may be subject to the terms of the [Automattic Domain Name Registration Agreement](https://wordpress.com/automattic-domain-name-registration-agreement/), or the [Key-Systems GmbH Registration Agreement](https://www.centralnicreseller.com/en/registration-agreement?rrp), in addition to this Agreement. When you register a domain, you’re presented with and agree to the applicable domain registration agreement. If you didn’t make a note of it, please see the [Domain Registration Agreements](https://help.tumblr.com/hc/articles/14449316040087#domain-registration-agreement) page to determine which domain registration agreements apply to you and your domains. These registrar terms are incorporated by reference into this Agreement.
+
+Your domain is also subject to the policies of the Internet Corporation for Assigned Names and Numbers (“ICANN”), and you can read about your [rights and responsibilities as a domain name registrant](https://www.icann.org/resources/pages/responsibilities-2014-03-14-en).
+
+When you register a domain, you’re required to provide complete and accurate registration information, and you must keep this information current.
+
+For more information about your domain registration, like associated fees, how to update your contact information, or what happens during the domain expiration process, please see the [Domains support doc](https://help.tumblr.com/hc/articles/14449316040087).
+
+13\. Special Provisions for Post+, Tipping, and Tumblr Live
 -----------------------------------------------------------
 
 Our Services allow users to monetize their content through features such as:  
@@ -220,7 +231,7 @@ Tumblr Live is a live streaming feature that is powered by The Meet Group (“TM
 Because Tumblr Live is powered by TMG, this means:
 
 * Tumblr may have to share certain data with TMG, including but not limited to your username, profile photo, about me, and imprecise geolocation data. TMG may also separately collect additional information directly from you. You understand that TMG is the operator of the Tumblr Live feature and will act as the controller of all the data and content you generate while using Tumblr Live and agree that Tumblr will not be liable to you in any way, under any theory of liability, or for any amounts, and any such liability will be governed by [TMG’s Terms of Service](https://terms.video.tumblr-live.com/terms-of-service);
-* Your Tumblr settings may not carry over to Tumblr Live. For example, if you [password protect a blog](https://help.tumblr.com/hc/en-us/articles/226318867-Password-protected-blogs), that password protection won’t apply to your Tumblr Live profile or streams;
+* Your Tumblr settings may not carry over to Tumblr Live. For example, if you [password protect a blog](https://help.tumblr.com/hc/articles/226318867-Password-protected-blogs), that password protection won’t apply to your Tumblr Live profile or streams;
 * Tumblr Live may enable you to share your content and view other content beyond Tumblr users;
 * Streams on Tumblr Live are moderated by TMG, and we or they may suspend your access to Tumblr Live at any time if either of us believe any applicable policies or terms have been violated.
 * You may not (a) copy, modify, create a derivative work of, reverse engineer (except as required under applicable law), decompile, translate, disassemble, or otherwise attempt to extract any of the source code of the Tumblr Live Services; (b) sell, resell, sublicense, transfer, or distribute the Tumblr Live Services; (c) access the Tumblr Live Services in order to directly or indirectly build or provide any commercially available service; or (d) copy any features, functions, interfaces or graphics of the Tumblr Live Services.
@@ -233,12 +244,12 @@ If your access to Tumblr Live ends for any reason (e.g., you delete your Tumblr 
 
 At this point in time, Tumblr Live cannot be disabled, so if you do not wish to use the feature, simply ignore it.
 
-13\. Warranty Disclaimer; Services Available on an "AS IS" Basis
+14\. Warranty Disclaimer; Services Available on an "AS IS" Basis
 ----------------------------------------------------------------
 
 Your access to and use of the Services or any Content is at your own risk. YOU UNDERSTAND AND AGREE THAT THE SERVICES ARE PROVIDED TO YOU ON AN "AS IS" AND "AS AVAILABLE" BASIS. WITHOUT LIMITING THE FOREGOING, TO THE FULL EXTENT PERMITTED BY LAW, TUMBLR DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. Tumblr makes no representations or warranties of any kind with respect to the Services, including any representation or warranty that the use of the Services will (a) be timely, uninterrupted or error-free or operate in combination with any other hardware, software, system, or data, (b) meet your requirements or expectations, (c) be free from errors or that defects will be corrected, (d) be free of viruses or other harmful components; or (e) be entirely secure or that the information you share with us will be secure. Tumblr also makes no representations or warranties of any kind with respect to Content; User Content, in particular, is provided by and is solely the responsibility of, the Users providing that Content. No advice or information, whether oral or written, obtained from Tumblr or through the Services, will create any warranty not expressly made herein.
 
-14\. Time Limitation on Claims and Releases From Liability
+15\. Time Limitation on Claims and Releases From Liability
 ----------------------------------------------------------
 
 You agree that any claim you may have arising out of or related to this Agreement or your relationship with Tumblr must be filed within one year after such claim arose; otherwise, your claim is permanently barred.
@@ -257,26 +268,26 @@ Claims relating to any face-to-face meetings in any way related to Tumblr at any
 
 If you are a California resident, you waive California Civil Code § 1542, which says: "A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the release, which if known by him must have materially affected his settlement with the debtor."
 
-15\. Limitation of Liability
+16\. Limitation of Liability
 ----------------------------
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, TUMBLR AND THE TUMBLR AFFILIATES SHALL NOT BE LIABLE FOR: (A) ANY INDIRECT, INCIDENTAL, EXEMPLARY PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER; (B) LOSS OF: PROFITS, REVENUE, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES; (C) DAMAGES RELATING TO YOUR ACCESS TO, USE OF, OR INABILITY TO ACCESS OR USE THE SERVICES; (D) DAMAGES RELATING TO ANY CONDUCT OR CONTENT OF ANY THIRD PARTY OR USER USING THE SERVICES, INCLUDING WITHOUT LIMITATION, DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OR CONTENT; AND/OR (E) DAMAGES IN ANY MANNER RELATING TO ANY CONTENT. THIS LIMITATION APPLIES TO ALL CLAIMS, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, WHETHER OR NOT TUMBLR HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, AND FURTHER WHERE A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED ITS ESSENTIAL PURPOSE.
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE TOTAL LIABILITY OF TUMBLR AND THE TUMBLR AFFILIATES, FOR ANY CLAIM UNDER THIS AGREEMENT, INCLUDING FOR ANY IMPLIED WARRANTIES, IS LIMITED TO THE GREATER OF ONE HUNDRED DOLLARS (US $100.00) OR THE AMOUNT YOU PAID US TO USE THE APPLICABLE SERVICE(S).
 
-16\. Exclusions to Warranties and Limitation of Liability
+17\. Exclusions to Warranties and Limitation of Liability
 ---------------------------------------------------------
 
 Some jurisdictions may not allow the exclusion of certain warranties or the exclusion/limitation of liability as set forth in Section 13 and 15, so the limitations above may not apply to you.
 
-17\. Termination
+18\. Termination
 ----------------
 
 Either party may terminate this Agreement at any time by notifying the other party. Tumblr may terminate or suspend your access to or ability to use any and all Services immediately, without prior notice or liability, for any reason or no reason, including but not limited to if you breach any of the terms or conditions of this Agreement. In particular, Tumblr may immediately terminate or suspend Accounts that have been flagged for repeat copyright infringement.
 
 Upon termination of your access to or ability to use a Service, including but not limited to suspension of your Account on a Service, your right to use or access that Service and any Content will immediately cease. All provisions of this Agreement that by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, and limitations of liability. Termination of your access to and use of the Services shall not relieve you of any obligations arising or accruing prior to such termination or limit any liability that you otherwise may have to Tumblr or any third party and shall not relieve you of your rights if you are a user in the European Economic Area which are described in the Privacy Policy.
 
-18\. Choice of Law and Venue
+19\. Choice of Law and Venue
 ----------------------------
 
 You and Tumblr agree that we will resolve any claim or controversy at law or equity that arises out of this Agreement or the Services in accordance with this Section or as you and Tumblr otherwise agree in writing. Before resorting to formal dispute resolution, we strongly encourage you to [contact us](https://www.tumblr.com/support) to seek a resolution.
@@ -287,7 +298,7 @@ This Agreement shall be governed in all respects by the laws of the State of New
 
 If you are (a) a United States federal, state, or local government agency or body, (b) using the Services in your official capacity, and (c) legally unable to accept the clauses in this Section, then this Section doesn’t apply to you. For such entities, this Agreement and any related action will be governed by the laws of the United States of America, without regard to conflict of law provisions, and, in the absence of federal law and to the extent permitted under federal law, the laws of the State of New York, excluding choice of law.
 
-19\. Miscellaneous
+20\. Miscellaneous
 ------------------
 
 This Agreement, as modified from time to time, constitutes the entire agreement between you and Tumblr with respect to the subject matter hereof. This Agreement replaces all prior or contemporaneous understandings or agreements, written or oral, regarding the subject matter hereof and constitutes the entire and exclusive agreement between the parties. The failure of either party to exercise, in any way, any right provided for herein shall not be deemed a waiver of any further rights hereunder. If any provision of this Agreement is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain enforceable and in full force and effect. This Agreement is not assignable, transferable, or sublicensable by you except with Tumblr's prior written consent. Tumblr may assign this Agreement in whole or in part at any time without your consent. No agency, partnership, joint controllership, joint venture, or employment is created as a result of this Agreement and you do not have any authority of any kind to bind Tumblr in any respect whatsoever. Any notice to Tumblr that is required or permitted by this Agreement shall be in writing and shall be deemed effective upon receipt, when delivered in person by nationally recognized overnight courier or mailed by first class, registered or certified mail, postage prepaid, to
@@ -297,14 +308,14 @@ Tumblr, Inc. (Automattic)
 San Francisco, CA 94110  
 **Attn: Legal Department**  
 
-20\. Special Provisions for Users Located Outside of the United States
+21\. Special Provisions for Users Located Outside of the United States
 ----------------------------------------------------------------------
 
 Tumblr provides global products and services and enables a global community for individuals to share and follow the things they love. Tumblr's servers and operations are, however, located in the United States, and Tumblr's policies and procedures are based on United States law. As such, the following provisions apply specifically to Users located outside of the United States: (1) you acknowledge that we will transfer, store, and process your information, including but not limited to User Content and any personal information, in the United States and/or other countries in order to provide you with the Services and perform this Agreement; and (2) if you are using the Services from a country embargoed by the United States, or are on the United States Treasury Department's list of "Specially Designated Nationals," you agree that you will not engage in financial transactions, or conduct any commercial activities using or through the Services (for example, purchasing Premium Themes).
 
 [**Submit an infringement notice**](https://www.tumblr.com/dmca)
 
-21\. DMCA Copyright Policy
+22\. DMCA Copyright Policy
 --------------------------
 
 Tumblr has adopted the following policy toward copyright infringement on the Services in accordance with the [Digital Millennium Copyright Act](https://www.loc.gov/copyright/legislation/dmca.pdf) (the "**DMCA**"). The address of Tumblr's Designated Agent for copyright takedown notices ("**Designated Agent**") is listed below. You may submit a notice under the DMCA using our [copyright notice form](https://www.tumblr.com/dmca).
@@ -353,7 +364,7 @@ San Francisco, CA 94110
   
 **Copyright notice form:** [https://www.tumblr.com/dmca](https://www.tumblr.com/dmca)
 
-22\. Open Source Disclosures
+23\. Open Source Disclosures
 ----------------------------
 
 You can find disclosures related to our use of open source software packages at the following locations:
