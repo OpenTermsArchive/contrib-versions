@@ -114,7 +114,7 @@ Other languages:
 * [ပအိုဝ်ႏဘာႏသာႏ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/blk "နမ်းပဲင်ႏရေꩻရာႏမူဝါဒ (24% translated)")
 * [ဖၠုံလိက်](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/kjp "Policy:Privacy policy/kjp (8% translated)")
 * [ဘာသာ မန်](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mnw "ဝါဒအခေါင်ညးပကင် (1% translated)")
-* [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/my "ကိုယ်ပိုင်ရေးရာမူဝါဒ (28% translated)")
+* [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/my "ကိုယ်ပိုင်ရေးရာမူဝါဒ (30% translated)")
 * [მარგალური](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/xmf "კონფიდენციალურალაშ პოლიტიკა (25% translated)")
 * [ქართული](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ka "კონფიდენციალურობის პოლიტიკა (13% translated)")
 * [ភាសាខ្មែរ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/km "គោលការណ៍ឯកជនភាព (26% translated)")
