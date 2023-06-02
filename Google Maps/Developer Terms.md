@@ -349,7 +349,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         78. The Government of Newfoundland and Labrador: [https://www.gov.nl.ca/disclaimer/](https://www.gov.nl.ca/disclaimer/)
             
-        79. Contains information licensed under the Open Government Licence – Ontario - [https://www.ontario.ca/page/open-government-licence-ontario](https://www.ontario.ca/page/open-government-licence-ontario)
+        79. Contains information licensed under the Open Government Licence – Ontario, version 1.0 -[https://www.ontario.ca/page/open-government-licence-ontario](https://www.ontario.ca/page/open-government-licence-ontario)
             
         80. Données ouvertes Montréal - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
@@ -386,6 +386,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         96. ArcGIS Hub Government of Yukon (CA) - [https://hub.arcgis.com/datasets/yukon::civic-address-point/explore](https://hub.arcgis.com/datasets/yukon::civic-address-point/explore)
             
         97. ArcGIS Hub City of Brampton (CA) - [https://hub.arcgis.com/datasets/brampton::address-points/explore](https://hub.arcgis.com/datasets/brampton::address-points/explore)
+            
+        98. Contains information from the Manitoba government, licensed under the OpenMB Information and Data Use Licence (Manitoba.ca/OpenMB)
             
     9. **Cambodia**
         * The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
@@ -1016,9 +1018,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
             
-        * 交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和5年 3 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+        * 交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和5年 4 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
             
-        * JRバスデータの内容は、株式会社交通新聞社作成のデータ令和5年 3 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+        * JRバスデータの内容は、株式会社交通新聞社作成のデータ令和5年 4 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
             
         * ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
             
