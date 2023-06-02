@@ -59,6 +59,7 @@ Other languages:
 * [Deutsch (Sie-Form)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de-formal "Nutzungsbedingungen (4% translated)")
 * English
 * [Esperanto](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/eo "Niaj uzkondiĉoj (11% translated)")
+* [Fulfulde](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ff "Policy:Terms of Use/ff (5% translated)")
 * [Hausa](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ha "Fassara: Dokoki: Kaidojin anfani/bayyanar da shafuka/ha
     Dokoki: Ka'idojin anfani (1% translated)")
 * [Kreyòl ayisyen](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ht "Kondisyon itilizasyon (3% translated)")
