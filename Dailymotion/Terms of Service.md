@@ -180,468 +180,534 @@ If You reside in a country that is not part of the European Economic Area, the U
 
 9.11. You affirm that You are either more than 18 years of age, or an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in the Terms, and to abide by and comply with the Terms. In any case, You affirm that You are over the age of 13, as the Dailymotion Service is not intended for children under 13. If You are under 13 years of age, then please do not use the Dailymotion Service
 
-**Last Updated: January 19, 2022**
+**Last Updated: June 1, 2023**
 
 **APPENDIX A – Prohibited Content Policy**
 ------------------------------------------
 
-Dailymotion endeavors to ensure a safe and respectful viewing environment for its Visitors. In order to protect its community, Dailymotion prohibits the content defined in Section I below (“**Prohibited Content(s)**”).
+  
+Dailymotion endeavors to ensure a safe and respectful viewing environment for its Visitors. In order to protect its community, Dailymotion prohibits the content defined in Section I below (“Prohibited Content(s)”) and has developed a feature to limit the visibility of so-called sensitive content presented in Section IV.  
 
-As a hosting service provider, Dailymotion cannot guarantee that no inappropriate or illegal content will disturb your experience. Indeed, Dailymotion is neither legally required nor able to monitor and control each and every piece of content uploaded onto the Service. Therefore, we encourage our Visitors to notify us of any Prohibited Content on the Dailymotion Service using the methods described in Section II. 
+As a hosting service provider, Dailymotion cannot guarantee that no inappropriate or illegal content will disturb your experience. Indeed, Dailymotion is neither legally required nor able to monitor and control each and every piece of content uploaded onto the Service. Therefore, we encourage our Visitors to notify us of any Prohibited Content on the Dailymotion Service using the methods described in Section II.
 
-Moreover, Users are formally prohibited from **posting any content that falls into one of the categories of Prohibited Content as defined in Section I, at the risk of exposing themselves to the consequences set out in Section II**I.
+Furthermore, Users are formally prohibited from putting online any content that falls into one of the categories of Prohibited Content as defined in Section I, and a violation of this may result in the consequences set out in Section III.
 
-### I) **PROHIBITED CONTENT CATEGORIES**
+### I) PROHIBITED CONTENT CATEGORIES
 
-Dailymotion encourages the diversity of information sources on the Internet, thus allowing each Visitor to develop an opinion freely in a safe environment
+Dailymotion encourages the diversity of sources of information on the Internet to allow Visitors to freely form an opinion in complete safety.
 
-In order for the Dailymotion Service to remain a safe space of exchange and sharing of opinions where the fundamental freedoms of each person are respected, we have elaborated rules aiming at prohibiting the diffusion of the contents defined hereafter, and in a general way, any content which could conflict with any applicable law or regulation. Thus, the list of Prohibited Contents below is not exhaustive, and their definition might be adapted according to different contexts. 
+In order for the Dailymotion Service to remain a safe space for exchange and sharing where the fundamental liberties of each person are respected, we have implemented rules aimed at prohibiting the sharing of certain content, as defined hereafter, and in general, any content which could be considered as a violation of any applicable law or regulation. Note that the below list of Prohibited Content is not exhaustive, and the definitions may be adapted based on differing contexts.
 
-These rules apply to all forms of content available on the Dailymotion Service, including videos available on the platform and/or streamed live, video descriptions or titles, thumbnails, keywords, playlists and channel. 
+  
+These rules apply to all forms of content broadcasted on the Dailymotion Service, including videos available on the platform and/or streamed live, video descriptions or titles, thumbnails, keywords, playlists, channels, and usernames.
 
-##### **A. Pornographic or sexually explicit content**
+####   
+A. Pornographic or sexually explicit content
 
-Dailymotion strictly prohibits any pornographic and/or sexually explicit content. Content representing or legitimizing non-consensual sexual acts is also prohibited.
+Dailymotion strictly prohibits any pornographic content. Any content representing or legitimizing non-consensual sexual acts is also prohibited.
 
-In particular, it is forbidden for our Users to post any content: 
+We define pornography as any particularly obscene content which is displayed to the public, with no aesthetic research purposes and with provocative crudity, scenes of sexual life, especially scenes of sexual intercourse.
 
-* Representing pornographic scenes (real, animated and/or illustrated); 
-* Representing sexual acts in an explicit and/or suggestive manner; 
+In particular, it is forbidden for our Users to post online any content:
+
+* Representing pornographic scenes (real, animated and/or illustrated);
+* Representing sexual acts in an explicit manner;
 * Representing any form of nudity in a sexual context;
-* Involving or promoting non-consensual sexual acts or unwanted sexualisation; 
-* Fetish ;  
-* Depicting sexual gestures such as masturbation or erotic touching;  
-* Depicting incestuous scenes or advocating incest; 
-* Involving or representing any form of sexual harassment and/or sexual blackmail (sextortion, revenge porn etc.)
-* IInvolving sexual scenes;
+* Involving non-consensual sexual acts or unwanted sexualization;
+* Which is appeals to sexual fetishes;
+* Depicting sexual gestures such as masturbation or erotic touching;
+* Depicting incestuous scenes or advocating incest;
+* Involving staged sexual acts;
 * Involving sexual acts with animals (zoophilia);
-* Representing and/or involving pimping; 
+* Representing and/or involving pimping;
+* Published as a form revenge porn and/or sextortion of a minor or adult;
 * Showing genitals;
-* Using or displaying sex toys in an explicit context;  
-* Threatening or encouraging sexual assault or sexual exploitation; 
+* Using or displaying sex toys in an explicit context;
+* Threatening or encouraging sexual assault or sexual exploitation; or
+* Promoting non-consensual sexual acts.
 
-The above list is not exhaustive and applies to all types of content.
+The above list is not exhaustive and applies to all types of content.  
+Some content representing or evoking one of the situations listed above can be exceptionally maintained on the Dailymotion Service notably because of its manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of such content.
 
-Some contents representing or evoking one of the situations listed above can be **exceptionally** maintained on the Dailymotion Service notably because of their manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of these contents by applying a parental filter to avoid offending the sensibility of young audiences.
+  
+Any User who violates the rules set out above and/or encourages their violation shall be subject to the consequences set out in Section III.  
+Should any illegal activity(ies) be detected, Dailymotion will contact the relevant authorities in accordance with the applicable regulations.  
+For more information on this type of content, you can read the dedicated article on the Dailymotion help center.
 
-Any User who violates the rules set out above shall be subject to the consequences set out in Section 3.
+#### B. Content depicting a child in danger or being abused
 
+Any sexually explicit content featuring children or representing any form of exploitation of a child or persons whose physical appearance is that of a minor is strictly prohibited on Dailymotion. Any content involving abusing or endangering a child in any way is also prohibited.
+
+In particular, it is forbidden for our Users to post online any content:
+
+* Sexually representing children;
+* Representing and/or promoting incest or pedophilia;
+* Depicting children as victims of sexual abuse;
+* Providing instructions or inviting participation in any sexual assault of children;
+* Aiming to sexually exploit or solicit children, including by threatening to expose intimate images or information (grooming, sextortion, etc.);
+* Inciting a minor to perform an act of a sexual nature on himself or on another person;
+* Constituting porn-disclosure involving minors, more commonly known as “revenge porn”;
+* Sexualizing children;
+* Depicting children in a sexual context;
+* Involving abuse or harassment of children (verbal, physical and/or psychological abuse);
+* Constituting acts considered as bullying; or
+* Representing a child in a dangerous situation.
+
+The above list is not exhaustive and applies to all types of content.  
+Some content representing or evoking one of the situations listed above can be exceptionally maintained on the Dailymotion Service notably because of its manifestly educational, documentary, scientific or artistic context.
+
+However, Dailymotion reserves the right to reduce the visibility of such content by applying a parental filter to avoid offending the sensibilities of young audiences.
+
+  
+Any User who violates the rules set out above and/or encourages their violation shall be subject to the consequences set out in Section III.  
 Should any illegal activity(ies) be detected, Dailymotion will contact the relevant authorities in accordance with the applicable regulations.
 
-For more information on this type of content, you can read [the dedicated article](https://faq.dailymotion.com/hc/en-us/articles/4402771110034-Rules-related-to-sexual-or-pornographic-content-) on the Dailymotion help center.
+  
+For more information on this type of content, you can read the dedicated article on the Dailymotion help center.
 
-##### **B. CONTENT DEPICTING A CHILD IN DANGER OR BEING EXPLOITED**
+#### C. Content that may offend Visitor’s sensibilities
 
-Any sexually explicit content featuring children or representing any form of child exploitation is strictly prohibited on Dailymotion. Any content involving abusing a child in any way is also prohibited. 
+  
+Dailymotion has elaborated rules and tools aimed at protecting its Visitors and, in particular, young audiences, from videos which may offend their sensibilities (“Sensitive Content(s)”).
 
-In particular, it is forbidden for our Users to post any content: 
+  
+By Sensitive Content, we mean any video that may offend the sensibilities of young audiences and in particular any video:
 
-* Sexually representing or involving children; 
-* Representing and/or promoting incest or pedophilia; 
-* Depicting or involving children as victims of sexual abuse; 
-* Providing instructions or inviting participation in any sexual assault of children; 
-* Aiming to sexually exploit or solicit children, including by threatening to expose intimate images or information (grooming, sextortion, etc.); 
-* Constituting porn-disclosure involving minors, more commonly known as “revenge porn”; 
-* Sexualizing children; 
-* Depicting children in a sexual context; 
-* Involving abuse or harassment of children (verbal, physical and/or psychological abuse); 
-* Constituting acts considered bullying;
-* Representing a child in a dangerous situation. 
-
-The above list is not exhaustive and applies to all types of content.
-
-Some contents representing or evoking one of the situations listed above can be **exceptionally** maintained on the Dailymotion Service notably because of their manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of these contents by applying a parental filter to avoid offending the sensibility of young audiences.
-
-Any User who violates the rules set out above shall be subject to the consequences set out in Section 3.
-
-Should any illegal activity(ies) be detected, Dailymotion will contact the relevant authorities in accordance with the applicable regulations.
-
-For more information on this type of content, you can read [the dedicated article](https://faq.dailymotion.com/hc/en-us/articles/4402175812882-Rules-related-to-child-abuse-material-) on the Dailymotion help center.
-
-##### **C. OFFENSIVE CONTENTS FOR YOUNG AUDIENCES**
-
-Dailymotion has elaborated rules and tools aiming at protecting young audiences from contents which may offend their sensibility. 
-
-In this respect, Dailymotion has set up a parental filter on the Dailymotion website and applications. This parental filter is activated by default and prevents Visitors from being exposed to Content posted online with an age restriction. Thus, when the parental filter is activated, the Visitor will not be able to access or be exposed to this type of Content
-
-Users are therefore prohibited from posting any Content that is inappropriate for young audiences without specifying whether such content is subject to an age restriction by checking the box provided for this purpose at the time of uploading. 
-
-Any content that might offend the sensibilities of young audiences may not be posted without any age restriction and in particular content:
-
-* Presenting partial nudity in a suggestive context;
-* Presenting total or partial nudity in an educational, scientific, documentary and/or artistic context;
-* Constituting sexual challenges; 
-* Depicting violent scenes of war in an educational, scientific, documentary and/or artistic context; 
-* With a sexual theme or involving sexual activity; 
-* With a suggestive and/or sexual title or description; 
-* Including depictions of violence; 
-* Including recordings of actual violence without emphasis on injuries or blood;
-* Where a part of the video includes footage of violence but is not the main focus; 
-* Presenting a real medical procedure (heart massage, surgery); 
-* Presenting scenes of animal cruelty in an educational, documentary, non-revenue and/or cultural context
+* Presenting scenes of nudity ;
+* Promoting sexual challenges;
+* Depicting violent scenes of war;
+* With a sexual theme or involving sexual activity;
+* With a suggestive and/or sexual title or description;
+* Including depictions of violence;
+* Presenting a real medical procedure (heart massage, surgery, etc.);
+* Presenting accidents (air crash, traffic accident, etc.); or
+* Presenting scenes of animal cruelty
 
 The above list is not exhaustive.
 
-Some of the contents evoking or dealing with one of the situations listed above can be **exceptionally** maintained on the Dailymotion Service notably because of their context. However, Dailymotion reserves the right to reduce the visibility of these contents by applying a parental filter to avoid offending the sensibility of young audiences
+  
+Users are prohibited from uploading any Sensitive Content without first restricting access to it by checking the box dedicated to this purpose (“Restrict access to sensitive content”) when uploading. For more information on Restricted Mode, please refer to Section IV of this policy.  
 
-Any User who violates the rules set out above shall be subject to the measures and sanctions set out in Section 3.
+Any User who violates the rules set out above and/or encourages their violation shall be subject to the measures and sanctions set out in Section III.
 
-Should any illegal activity(ies) be detected, Dailymotion will contact the relevant authorities in accordance with the applicable regulations.
+  
+For more information on this type of content, you can read the dedicated article on the Dailymotion help center.
 
-For more information on this type of content, you can read [the dedicated article](https://faq.dailymotion.com/hc/en-us/articles/5877388594834-Rules-related-to-harmful-content-for-children-) on the Dailymotion help center.
+#### D. Hateful Content
 
-##### **D. HATEFUL CONTENTS**
+Dailymotion prohibits any content which contains hateful behavior and/or which undermines human dignity. Thus, Dailymotion strictly prohibits any content, behavior, or statements which aim to attack, insult, threaten, or incite to hatred, violence or discrimination against a person or a group of persons on the basis of attributes or personal characteristics, real or supposed, such as: race, ethnicity, nationality, religion, caste, language, sexual orientation, sex/gender, gender identity, serious illness, disability, migratory status, and eating disorders.
 
-Dailymotion prohibits any content which contains hateful behavior and/or which undermines human dignity. Thus, Dailymotion strictly prohibits any content, behavior or statements which aim to attack, insult, threaten, incite to hatred, violence or discrimination against a person or a group of persons on the basis of attributes or personal characteristics, real or supposed, such as: race, ethnicity, nationality, religion, caste, language, sexual orientation, sex/gender, gender identity, illness, disability, status (social, migratory…).
-
-In particular, it is forbidden for our Users to post any content: 
-
-* Encouraging violence against persons or groups of persons on the basis of one or more of the attributes listed above; 
-* Relaying hateful, insulting or humiliating speech or acts targeting, for example, the religious affiliation, gender, skin color, sexual orientation or disability of one or more groups of people;  
-* Dehumanizing and/or demeaning to a person or group of persons, including implying that they are inferior; 
-* Abusive or defamatory to a person or group of persons on the basis of personal attribute(s) or characteristics; 
-* Encouraging, supporting or glorifying hateful ideologies (such as anti-Semitism, racism, white supremacism, anti-LGBTQI+ activism…) or, proclaiming the superiority and/or dominance of one group of people over others);  
-* Defending conspiracy theories that a person or group of people are dishonest or malicious;  
-* Using stereotypes based on personal attributes or characteristics, which incite hatred;  
-* Encouraging, supporting or promoting conversion therapy or any other sexual reorientation program;  
-* Undermining human dignity; 
-* Contributing to the exploitation of people (such as content depicting forced labor, domestic servitude, human trafficking for sexual exploitation, slavery and/or pimping.
-
-The above list is not exhaustive and applies to all types of content.
-
-Some contents representing or evoking one of the situations listed above can be **exceptionally** maintained on the Dailymotion Service notably because of their manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of these contents by applying a parental filter to avoid offending the sensibility of young audiences.
-
-Any User who violates the rules set out above shall be subject to the consequences set out in Section 3.
-
-Should any illegal activity(ies) be detected, Dailymotion will contact the relevant authorities in accordance with the applicable regulations.
-
-For more information on this type of content, you can read [the dedicated article](https://faq.dailymotion.com/hc/en-us/articles/360015745520-Rules-related-to-hateful-content) on the Dailymotion help center.
-
-##### E. **CONTENT GLORIFYING, NORMALIZING OR DENYING A CRIME**
-
-Dailymotion strictly prohibits any content legitimizing, glorifying, normalizing or denying documented violent events or international crimes committed against a population, a nation, and ethnic, racial, religious or any other group on the basis of personal attributes or characteristics. Dailymotion also prohibits any content that advocates crimes against persons or property. 
-
-In particular, our Users are forbidden to post any content:  
-
-* Contesting, legitimizing, glorifying and/or normalizing war crimes, crimes against humanity, crimes of enslavement or exploitation of a person reduced to slavery or crimes of collaboration with the enemy;
-* Including any form of negationist, revisionist, etc. speech;
-* Defending intentional attacks on life, personal integrity and sexual assault;
-* Advocating aggravated robbery, extortion, destruction, degradation and voluntary deterioration dangerous to persons (vandalism, fire, etc.).
-
-The above list is not exhaustive and applies to all types of content.
-
-Some contents representing or evoking one of the situations listed above can be **exceptionally** maintained on the Dailymotion Service notably because of their manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of these contents by applying a parental filter to avoid offending the sensibility of young audiences.
-
-Any User who violates the rules set out above shall be subject to the consequences set out in Section 3.
-
-Should any illegal activity(ies) be detected, Dailymotion will contact the relevant authorities in accordance with the applicable regulations.
-
-For more information on this type of content, you can read [the dedicated article](https://faq.dailymotion.com/hc/en-us/articles/5879134687250-Rules-related-to-content-glorifying-trivializing-or-denying-a-crime-) on the Dailymotion help center.
-
-##### **F. DISINFORMATION** 
-
-Dailymotion prohibits the dissemination of false, distorted, misleading and/or malicious speech or information that may disturb public order and/or public opinion.
-
-In particular, it is forbidden for our Users to post any content: 
-
-* Carrying a risk of major harm by presenting, illustrating or evoking an event with deceiving elements relating to a separate event (videos, photos, etc.);  
-* Presenting manifestly false or inaccurate allegations and/or imputations that may interfere with or alter the fairness of elections and/or censuses; 
-* Making false claims in order to delegitimize the results of elections; 
-* Carrying false information or rumors that may present a direct risk of injury and/or physical violence to others; 
-* Including false information that may be harmful to the health of others;  
-* Containing false medical information that contradicts that of local health authorities and/or the World Health Organization (WHO); 
-* Containing exaggerated promises, such as claiming that a miracle treatment can cure chronic diseases such as cancer and diabetes; 
-* Altered or edited in order to mislead Users and which may present a significant risk of major harm.
-
-The above list is not exhaustive and applies to all types of content.
-
-Some contents representing or evoking one of the situations listed above can be **exceptionally** maintained on the Dailymotion Service notably because of their manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of these contents by applying a parental filter to avoid offending the sensibility of young audiences. 
-
-Any User who violates the rules set out above shall be subject to the consequences set out in Section 3.
-
-Should any illegal activity(ies) be detected, Dailymotion will contact the relevant authorities in accordance with the applicable regulations.
-
-For more information on this type of content, you can read [the dedicated article](https://faq.dailymotion.com/hc/en-us/articles/360020059680-Rules-related-to-disinformation-) on the Dailymotion help center.
-
-##### **G. TERRORIST CONTENTS**
-
-Dailymotion prohibits any content that advocates or promotes violent extremist and/or terrorist organizations, individuals or acts.
-
-In particular, our Users are forbidden to post any content :  
-
-* Provoking the commission of terrorist offences or violent extremist acts or glorifying such offences;
-* Encouraging participation in terrorist offences;
-* Praising, glorifying and/or supporting the acts of violent extremist and/or terrorist individuals or groups 
-* Supporting terrorist and/or violent extremist ideologies;
-* Encouraging people to join violent extremist and/or terrorist organizations; 
-* Providing instructions on methods or techniques for the commission of terrorist offences;
-* Containing images, sounds or symbols (such as names, logos, flags, slogans, uniforms, gestures, pictures or other objects) intended to depict violent extremist and/or terrorist organizations or individuals; 
-* Emanating from criminal, violent extremist or terrorist  organizations; 
-* Depicting one or more hostages; 
-* Posted online with the aim of soliciting, threatening or intimidating people on behalf of a criminal, violent extremist or terrorist organization
-
-The above list is not exhaustive and applies to all types of content.
-
-Some contents representing or evoking one of the situations listed above can be **exceptionally** maintained on the Dailymotion Service notably because of their manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of these contents by applying a parental filter in order not to offend the sensitivity of young audiences. 
-
-Should any illegal activity(ies) be detected, Dailymotion will contact the relevant authorities in accordance with the applicable regulations.
-
-Any User who violates the rules set out above is subject to the consequences set out in Section III.
-
-For more information on this type of content, you can read [the dedicated article](https://faq.dailymotion.com/hc/en-us/articles/360020060140-Rules-related-to-terrorist-content-) on the Dailymotion help center.
-
-##### **H. SHOCKING, MALICIOUS, VIOLENT OR DANGEROUS CONTENTS** 
-
-Dailymotion strictly prohibits any macabre, sadistic, threatening, violent or harmful content as well as any content intended to shock or inspire disgust. Dailymotion also prohibits any content that is dangerous and/or aims to encourage, normalize or glorify violence, suffering, death or any situation that may cause injury.
+  
+Such hateful content may take the form of outrageous expression, terms of contempt, invectives, stereotyping, attempts to offend, stigmatization, dehumanization, declarations of inferiority, expressions of disgust, insults, marginalization, or provocations of hatred, violence, or discrimination against individuals or groups of individuals targeted because of their personal attributes or characteristics.  
 
 In particular, it is forbidden for our Users to post any content:
 
-* Presenting hoaxes or dangerous challenges (strangulation challenges, scarfing, etc.);
-* Encouraging, promoting or glorifying suicide, self-harm and/or eating disorders; 
-* Aiming to intimidate or threatening to reveal information relating to private life, personal data and in particular information that could identify a person (such as postal or e-mail address, telephone number, bank statement, social security number and/or passport number (doxxing)); 
-* Advocating dangerous practices;
-* Threatening to blackmail and/or hack into another person’s account; 
-* Using excessively vulgar or offensive language; 
-* Cyber-harassment of a person or “pack harassment” (i.e. publications by several authors of violent remarks made against the same target); 
-* Offering the sale, purchase or trade of products and services that are prohibited for sale (firearms, explosives, drugs etc.); 
-* Infringing on the regulations applicable to the sale, purchase, canvassing or trading of products and services that are regulated or prohibited for sale (firearms, explosives, ammunition, drugs, alcohol etc.); 
-* Undermining the regulations applicable to games of chance and gambling;  
-* Encouraging, supporting or promoting animal torture and/or any form of cruelty to animals;  
-* Containing explicit or gruesome images of violence or serious physical harm (torture, fighting, slitting of throats, dismemberment, mutilation, human remains etc.); 
-* Promoting, encouraging or providing instructions on criminal activities, violence against persons, animals or property.  
+* Encouraging violence against persons or groups of persons on the basis of one or more of the attributes listed above;
+* Relaying hateful, insulting or humiliating speech or acts targeting, for example, the religious affiliation, gender, skin color, sexual orientation, or disability of one or more groups of people;
+* Dehumanizing and/or demeaning to a person or group of persons, including implying that they are inferior;
+* Abusing or defaming a person or group of persons on the basis of personal attribute(s) or characteristics;
+* Encouraging, supporting or glorifying hateful ideologies (such as antisemitism, racism, white supremacism, anti-LGBTQIA+ activism…) or proclaiming the superiority and/or dominance of one group of people over others;
+* Defending conspiracy theories that a person or group of people is dishonest or malicious;
+* Using stereotypes based on personal attributes or characteristics which incite hatred;
+* Encouraging, supporting, or promoting conversion therapy or any other practice aimed at changing or repressing a person’s actual or perceived sexual orientation or gender identity;
+* Undermining human dignity; or
+* Contributing to the exploitation of people (such as content depicting forced labor, domestic servitude, human trafficking for sexual exploitation, slavery and/or pimping).
 
-The above list is not exhaustive and applies to all types of content.
+The above list is not exhaustive and applies to all types of content.  
+Some content representing or evoking one of the situations listed above can be exceptionally maintained on the Dailymotion Service notably because of its manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of such content.
 
-Certain content representing or evoking one of the situations listed above can be **exceptionally** maintained on the Dailymotion Service notably because of their manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of these contents by applying a parental filter to avoid offending the sensibility of young audiences.
+  
+Any User who violates the rules set out above shall be subject to the consequences set out in Section III.
 
-Any User who violates the rules set out above shall be subject to the consequences set out in Section 3.
-
+  
 Should any illegal activity(ies) be detected, Dailymotion will contact the relevant authorities in accordance with the applicable regulations.
 
-For more information on this type of content, you can read [the dedicated article](https://faq.dailymotion.com/hc/en-us/articles/5434795668242-Rules-related-to-malicious-shocking-dangerous-or-violent-content-) on the Dailymotion help center.
+  
+For more information on this type of content, you can read the dedicated article on the Dailymotion help center.
 
-##### I. **MISLEADING AND/OR SPAM CONTENTS**
+#### E. Content glorifying, normalizing or denying a crime
 
-Dailymotion prohibits the diffusion of misleading or fraudulent content. Indeed, spams, scams and/or any other deceptive practices intended to abuse or mislead Users are prohibited on Dailymotion. 
+Dailymotion strictly prohibits any content legitimizing, glorifying, normalizing, or denying violent events or international crimes committed against a population, a nation, and ethnic, racial, religious or any other group on the basis of personal attributes or characteristics. Dailymotion also prohibits any content that advocates crimes against persons or property.
 
-In particular, it is forbidden for our Users to post any content: 
+In particular, our Users are forbidden to post online any content:
 
-* Constituting financial or investment-related scams (sale of fake products or services, get-rich-quick scams, fake charities etc.); 
-* Offering to buy or sell personal information (such as the sale of credentials to access paid subscription services);  
-* Aiming to defraud Users, in particular by making exaggerated and unrealistic promises (miraculous treatment can cure diseases, miracle diets, promises of quick money, etc.); 
-* Automatically generated by computers (bot) that can impact the quality or user experience; 
-* That misleadingly, unwillingly or deceptively redirects to external content;
-* Posted with the aim of artificially increasing metrics (number of subscribers, “likes”, number of views, etc.); 
-* Does not match its metadata, thumbnails, title and/or description; 
-* Intended to entice Users to install malicious and/or deceptive applications, programs or software;  
-* Repeatedly posted on/through different media (videos, channels, accounts etc.).
+* Advocating or denying, minimizing and/or trivializing crimes of genocide committed against the Jewish community during the Second World War;
+* Advocating war crimes, crimes against humanity, crimes of enslavement or exploitation of a person reduced to slavery, or crimes of collaboration with the enemy, even if these crimes have not led to the conviction of their perpetrators;
+* Denying, minimizing, and/or trivializing, including in disguised or doubtful form or by way of insinuation, any other genocide against humanity, the crime of enslavement or exploitation of a person reduced to slavery or war crimes which have given rise to a criminal conviction by a French or international court
+* Advocating intentional attacks on life or personal integrity and/or sexual assault; or
+* Advocating aggravated robbery, extortion, destruction, degradation, and/or voluntary deterioration which may endanger people (vandalism, fire, etc.).
 
 The above list is not exhaustive and applies to all types of content.
 
-Some contents representing or evoking one of the situations listed above can be **exceptionally** maintained on the Dailymotion Service notably because of their manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the possibility to reduce the visibility of these contents by applying a parental filter to avoid offending the sensibility of young audiences.
+  
+Some content representing or evoking one of the situations listed above can be exceptionally maintained on the Dailymotion Service notably because of its manifestly educational, documentary, scientific or artistic context.
 
-Any User who violates the rules set out above is subject to the consequences set out in Section III.
+However, Dailymotion reserves the right to reduce the visibility of such content.
 
-For more information on this type of content, you can read [the dedicated article](https://corpostatic.dailymotion.com/corporate-cms-release-assets-prod/46b03a8/wp/wp-admin/post.php?post=30018&action=edit) on the Dailymotion help center.
+  
+Any User who violates the rules set out above and/or encourages their violation shall be subject to the consequences set out in Section III.  
+Should any illegal activity(ies) be detected, Dailymotion will contact the relevant authorities in accordance with the applicable regulations.
 
-##### **J. INFRINGING COPYRIGHT CONTENTS**
+  
+For more information on this type of content, you can read the dedicated article on the Dailymotion help center.
 
-Dailymotion prohibits any content infringing copyrights. The distribution of any content reproducing all or part of a work protected by a copyright without the authorization of the author or the person who holds the rights for this exploitation is indeed forbidden. 
+#### F. Disinformation
 
-In particular, it is forbidden for our Users to post any content including all or part of : 
+  
+Dailymotion prohibits the dissemination of false, distorted, misleading, and/or malicious speech or information that may disturb public order and/or public opinion.
+
+  
+In particular, it is forbidden for our Users to post online any content:  
+
+* Carrying a risk of major harm by presenting, illustrating, or evoking an event with deceiving elements which relate to a separate event (videos, photos, etc.);
+* Presenting manifestly false or inaccurate allegations and/or imputations that may interfere with or alter the fairness of elections and/or censuses;
+* Making false claims in order to delegitimize the results of elections;
+* Disseminating false information or rumors that may present a direct risk of injury and/or physical violence to others;
+* Including false information that may be harmful to the health of others;
+* Containing false medical information that contradicts that of local health authorities and/or the World Health Organization (WHO);
+* Containing exaggerated promises, such as claiming that a miracle treatment can cure chronic diseases such as cancer and diabetes;
+* Altered or edited in order to mislead Users (beyond the extracts taken out of context) and which may present a significant risk of major harm; or
+* Created or modified using artificial intelligence for the purposes of manipulation, disinformation, humiliation, defamation.
+
+The above list is not exhaustive and applies to all types of content.  
+Some content representing or evoking one of the situations listed above can be exceptionally maintained on the Dailymotion Service notably because of its manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of such content.
+
+  
+Any User who violates the rules set out above and/or encourages their violation shall be subject to the consequences set out in Section III.
+
+  
+Should any illegal activity(ies) be detected, Dailymotion will contact the relevant authorities in accordance with the applicable regulations.
+
+  
+For more information on this type of content, you can read the dedicated article on the Dailymotion help center.
+
+#### G. Terrorist content
+
+  
+Dailymotion prohibits any content that advocates or promotes violent extremist and/or terrorist organizations, individuals, or acts.
+
+  
+In particular, our Users are forbidden to post online any content:  
+
+* Provoking the commission of terrorist offences or violent extremist acts or glorifying such offences;
+* Encouraging participation in terrorist offences;
+* Praising, glorifying, and/or supporting the acts of violent extremist and/or terrorist individuals or groups
+* Supporting terrorist and/or violent extremist ideologies;
+* Encouraging people to join violent extremist and/or terrorist organizations;
+* Providing instructions on methods or techniques for the commission of terrorist offences;
+* Containing images, sounds or symbols (such as names, logos, flags, slogans, uniforms, gestures, pictures, or other objects) intended to depict violent extremist and/or terrorist organizations or individuals;
+* Emanating from criminal, violent, extremist, or terrorist organizations;
+* Depicting one or more hostages; or
+* Posted online with the aim of soliciting, threatening, or intimidating people on behalf of a criminal, violent, extremist, or terrorist organization.
+
+The above list is not exhaustive and applies to all types of content.  
+Some content representing or evoking one of the situations listed above can be exceptionally maintained on the Dailymotion Service notably because of its manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of such content.
+
+  
+Any User who violates the rules set out above and/or encourages their violation is subject to the consequences set out in Section III.  
+Should any illegal activity(ies) be detected, Dailymotion will contact the relevant authorities in accordance with the applicable regulations.  
+For more information on this type of content, you can read the dedicated article on the Dailymotion help center.
+
+#### H. Shocking, Malicious, violent or dangerous content
+
+Dailymotion strictly prohibits any macabre, sadistic, threatening, violent, or harmful content as well as any content intended to shock or inspire disgust. Dailymotion also prohibits any content that is dangerous and/or aims to encourage, normalize, or glorify violence, suffering, death, or any situation that may cause injury.
+
+  
+In particular, it is forbidden for our Users to post online any content:
+
+* Likely to endanger others and in particular any content encouraging, promoting, or glorifying:
+    *  Hoaxes or dangerous challenges (strangulation challenges, scarfing, etc.);
+    *  Suicide, self-harm and/or eating disorders;
+    *  And in general, all practices that may harm the physical or mental integrity of the individual
+* Using excessively vulgar or offensive language;
+* Offering the sale, purchase or trade of products and services that are prohibited for sale (firearms, explosives, drugs etc.);
+* Infringing on the regulations applicable to the sale, purchase, canvassing, or trading of products and services that are regulated or prohibited for sale (firearms, explosives, ammunition, drugs, alcohol etc.);
+* Undermining the regulations applicable to games of chance and gambling;
+* Encouraging, supporting or promoting animal torture and/or any form of cruelty to animals;
+* Containing explicit or gruesome images of violence or serious physical harm (torture, fighting, slitting of throats, dismemberment, mutilation, human remains etc.);
+* Praise and/or incitement to join a cult or a sectarian movement;
+* Inciting violence, including any speech or action that encourages or incites the commission of violent acts or the use of force to resolve a conflict or achieve objectives such as calls to action;
+* Promoting, encouraging or providing instructions on criminal activities, violence against persons, animals or property.
+
+The above list is not exhaustive and applies to all types of content.  
+Certain content representing or evoking one of the situations listed above can be exceptionally maintained on the Dailymotion Service notably because of its manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of such content.
+
+  
+Any User who violates the rules set out above and/or encourages their violation shall be subject to the consequences set out in Section III.  
+Should any illegal activity(ies) be detected, Dailymotion will contact the relevant authorities in accordance with the applicable regulations.  
+For more information on this type of content, you can read the dedicated article on the Dailymotion help center.
+
+#### I. Misleading and/or spam content
+
+  
+Dailymotion prohibits the diffusion of misleading or fraudulent content. Indeed, spam, scams, and/or any other deceptive practices intended to abuse or mislead Users are prohibited on Dailymotion.
+
+In particular, it is forbidden for our Users to post online any content:
+
+* Constituting financial or investment-related scams (sale of fake products or services, get-rich-quick scams, fake charities, etc.);
+* Offering to buy or sell personal information (such as the sale of credentials to access paid subscription services);
+* Aiming to defraud Users, in particular by making exaggerated and unrealistic promises (miraculous treatment can cure diseases, miracle diets, promises of quick money, etc.);
+* Automatically generated by computers (bots) that can impact the quality or user experience;
+* That misleadingly, automatically, or deceptively redirects to external content;
+* Posted with the aim of artificially increasing metrics (number of subscribers, “likes”, number of views, etc.);
+* Does not match its metadata, thumbnails, title, and/or description;
+* Intended to entice Users to install malicious and/or deceptive applications, programs, or software; or
+* Repeatedly posted on/through different media (videos, channels, accounts, etc.).
+
+The above list is not exhaustive and applies to all types of content.  
+Some content representing or evoking one of the situations listed above can be exceptionally maintained on the Dailymotion Service notably because of its manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the possibility to reduce the visibility of such content.
+
+  
+Any User who violates the rules set out above and/or encourages their violation is subject to the consequences set out in Section III.  
+For more information on this type of content, you can read the dedicated article on the Dailymotion help center.
+
+#### J. Copyright-Infringing Content
+
+Dailymotion prohibits any copyright-infringing content. The distribution of any content reproducing all or part of a work protected by a copyright without the authorization of the author or the person who holds the rights for this exploitation is indeed forbidden.
+
+  
+In particular, it is forbidden for our Users to post online any content including all or part of:  
 
 * Pre-existing music and/or songs (recordings, soundtracks of films, series, etc.);
 * Audiovisual works (film, series, video clips, TV show, advertisement etc.),
 * Dramatic works (play, opera, musical, performance and other live shows);
 * Graphic and plastic works (painting, sculpture, photography, architecture, design, comics, manga, illustration, graffiti, digital creation, etc.);
-* Video games;
+* Video games; or
 * Written works (literary works, courses, press articles, poetry collections, etc.);
 
-of which the User is not the author and for the distribution of which no necessary authorization has been obtained. 
+of which the User is not the author and for the distribution of which no necessary authorization has been obtained.
 
-However, it should be noted that:
+  
+However, it should be noted that:  
 
-* The notion of ‘work’ is extremely broad. Indeed, originality of a work is the only condition to access copyright protection, without the merit of the work and/or its destination being relevant. Thus, the User must bear in mind that all content is potentially subject to copyright protection and therefore its exploitation must be authorized.
-* That the exploitation of a work that has fallen into the public domain may remain subject to certain requirements. Indeed : 
-    
-    * It must always respect the moral rights (which remains even after entering the public domain);
-    
-    * The exploitation of an adaptation and/or interpretation of the work that has fallen into the public domain remains subject to the authorization of the rights holders of the adaptation and/or interpretation concerned when these latter have not fallen into the public domain. 
+* The notion of ‘work’ is extremely broad. Indeed, originality of a work is the only condition to access copyright protection, without the merit of the work and/or its destination being relevant. Thus, the User must bear in mind that all content is potentially subject to copyright protection and therefore its exploitation must be authorized;
+* The exploitation of a work that has fallen into the public domain may remain subject to certain requirements. However, note that:
+    * o It must always respect the moral rights (which remains even after entering the public domain), and  
+        
+    * o The exploitation of an adaptation and/or interpretation of the work that has fallen into the public domain remains subject to the authorization of the rights holders of the adaptation and/or interpretation concerned when these latter have not fallen into the public domain; and
 * That certain uses of protected works may be possible without the authorization of their authors or of the person who holds the rights to such works when they fall within the scope of the exceptions to copyright and/or related rights provided for by the applicable laws and regulations (and in particular in France by articles L.122-5 L and L.211-3 of the Intellectual Property Code, as detailed in our Help Centre at the following address: https://faq.dailymotion.com/hc/en-us/articles/360020018900-Exceptions-to-copyright) which must always be interpreted strictly.
 
-Any User who violates the rules set out above is liable to the consequences set out in Section 3.
+Any User who violates the rules set out above and/or encourages their violation is liable to the consequences set out in Section III.  
+For more information on this type of content, you can read our dedicated article on our Help Center.
 
-For more information on this type of content, you can read the [dedicated article](https://faq.dailymotion.com/hc/en-us/articles/203657336-Report-a-copyright-infringement) on our Help Center.
+#### K. Content infringing other’s rights
 
-##### **K. CONTENT INFRINGING OTHER’S RIGHTS**
+Dailymotion prohibits the diffusion of any content that threatens, offends, and/or insults any person and/or infringes on their rights.  
+In particular, our Users are prohibited from posting any content online:
 
-Dailymotion prohibits the **diffusion of content infringing privacy, trademarks or including defamatory statements**. 
+1. Participating in any form of harassment, including:  
+    • cyber-harassment of a person or “pack harassment” (i.e. publications by several authors of violent remarks made against the same target), and  
+    • sexual or sexist language or behavior that violates dignity by being degrading or humiliating or creates an intimidating, hostile or offensive situation. Sexual harassment is the use, even if not repeated, of any form of serious pressure with the real or apparent aim of obtaining an act of a sexual nature, whether this is sought for the benefit of the perpetrator or for a third party;
+2. Constituting any form of insult, and in particular:  
+    • Using particularly vulgar or offensive language in an insulting manner towards one or more persons, or  
+    • Including any term of contempt, insulting expression, and/or violent or coarse insult seeking to belittle and/or undermine honor or sensitivity;
+3. Constituting any form of threat, including:  
+    • Presenting threats of blackmail and/or hacking into another person’s account,  
+    • Including any form of threat to a person’s physical integrity and/or property, or  
+    • Aiming to intimidate or threatening to reveal information relating to privacy, personal data, and, in particular, information that could identify a person (such as postal or e-mail address, telephone number, bank statement, social security number and/or passport number (doxing));
+4. Disclosing personal information and, in general, any personal data without the permission of the person concerned;
+5. Infringing on the privacy and/or image of a given person;
+6. Including defamatory statements; or
+7. Infringing on the rights of the owner of a trademark.
 
-Any User who violates the rules set out above is subject to the consequences set out in Section III.
+The above list is non-exhaustive and applies to all types of content.  
+Any User who violates the rules set out above and/or encourages their violation is subject to the consequences set out in Section III.  
+For more information on this type of content, you can read the dedicated article on the Dailymotion Help Center.
 
-For more information on this type of content, you can read the dedicated article on the Dailymotion Help Center. 
+### II) DETECTION AND REPORT OF PROHIBITED CONTENT
 
-### II) **DETECTION AND REPORT OF PROHIBITED CONTENT**
+As a hosting service provider, Dailymotion has no general legal obligation to monitor the Content uploaded on the Dailymotion Service nor any general legal obligation to investigate facts or circumstances revealing illicit activities but must immediately remove or disable access to any illicit Content after being informed of its existence.  
+Dailymotion has therefore put in place detection and reporting tools allowing Dailymotion to be aware of the presence of Prohibited Content on the Dailymotion Service.  
+The presence of Content that may violate the Prohibited Content Policy can be brought to Dailymotion attention by two means:
 
-As a hosting service provider, Dailymotion has no general legal obligation to monitor the Content uploaded on the Dailymotion Service nor any general legal obligation to investigate facts or circumstances revealing illicit activities.  Nevertheless, Dailymotion must immediately remove or disable access to any illicit Content after being informed of its existence. 
+1. via the automatic detection devices set up on the Dailymotion Service; (A)
+2. via Users’ reporting through the reporting tool present near each video; (B) or through contacting Dailymotion by e-mail or by letter (C).
 
-Dailymotion has therefore put in place detection and reporting tools allowing to be aware of the presence of Prohibited Content on the Dailymotion Service.
+#### A. Automatic detection devices
 
-The presence of Content that may violate the Prohibited Content Policy can be brought to Dailymotion attention by three means: 
+The automatic detection device implemented by Dailymotion includes:
 
-via the automatic detection devices set up on the Dailymotion Service; (**A**)
+1. **List of keywords and short phrases**
 
-via Users’ reporting through the reporting tool present near each video; (**B**) 
+Dailymotion has put in place a list of keywords and short phrases to prevent the uploading of Content that is clearly contrary to this Prohibited Content Policy. This list is updated every week and takes into account the “Moderation Decisions” made during the previous 6 months.
 
-or through contacting Dailymotion by e-mail or by letter (**C**). 
+Thus, when uploading Content to the Service, if a word or short phrase in the comment, title or description of the video being uploaded is present in the above-mentioned list, the Content in question will be forwarded to our moderation team.  
+The Restricted Mode may be applied to Video Content (as described in Section IV).
 
-#### A. **AUTOMATIC DETECTION DEVICES**
+2. **Technologies for the protection of copyrighted content**
 
-The automatic detection device implemented by Dailymotion include:  
+Dailymotion works with two providers of digital fingerprint recognition solutions: Audible Magic for audio detection and INA (Institut National de l’Audiovisuel) for video detection. Whenever a piece of video Content uploaded on the Dailymotion Service matches the digital fingerprint databases of our two providers, the video Content will be automatically removed.
 
-**1\. List of key words and short sentences**
+  
+Despite their high efficiency and their innovative character, these technologies require the collaboration of the concerned rightsholders, who must communicate their content to one and/or the other of these companies in order to create the associated digital fingerprints. Dailymotion is at the disposal of rightsholders to help them contact these societies, in order to prevent the future upload of content that the rightsholders have protected in this way.
 
-Dailymotion has put in place a list of keywords and short phrases that allow it to automatically detect and, if necessary, prevent the uploading of Content that is obviously in violation of this Prohibited Content Policy. Thus, when uploading Content to the Service, if a word or short phrase in the title or in the description of the video is listed, the Content in question will be forwarded to our moderation team. This list is updated weekly based on previous “Moderation Decisions”.
+#### B. The reporting tool for Prohibited Content
 
-**2\. Technologies for the protection of copyrighted content**
+Dailymotion encourages its Visitors to report any Content that may violate the Prohibited Content Policy. These reports allow the Dailymotion Service to remain a safe space for everyone. This is the fastest way for Visitors to report any Content that they believe violates this Prohibited Content Policy. Our team reviews all reported Content 24 hours a day, 7 days a week.
 
-Dailymotion works with two providers of digital fingerprint recognition solutions: Audible Magic for audio detection and INA (Institut National de l’Audiovisuel) for video detection. Each time a Content uploaded on the Dailymotion Service matches the digital fingerprint databases of our two providers, the Content will be automatically removed.
+##### 1\. **Video Content Reporting Tool**
 
-Despite their high efficiency and their innovative character, these technologies require the collaboration of the concerned rightsholders, who must communicate their content to one and/or the other of these companies in order to create the associated digital fingerprints. 
-
-Dailymotion is at the disposal of rightsholders to help them contact these societies, in order to prevent the future uploading of content that the rightsholders have protected in this way.
-
-#### B. **THE REPORTING TOOL FOR PROHIBITED CONTENT** 
-
-Dailymotion encourages its Visitors to report any Content that may violate the Prohibited Content Policy. These reports allow the Dailymotion Service to remain a safe space for everyone. Please note that it is not necessary to have a Dailymotion account to report Prohibited Content. 
-
-Reporting is the quickest way for Visitors to alert Dailymotion of any Content that they believe violates this Prohibited Content Policy. All reported Content is reviewed 24 hours a day, 7 days a week by our dedicated team.
-
-To report Content, you need to: 
+To report video Content, you need to:
 
 1. Click on the “Report” button available near each video;
-2. Specify whether the report concerns the entire video or only a specific extract (a time stamp is assigned by default but can be modified); 
+2. Specify whether the report concerns the entire video or only a specific extract (a time stamp is assigned by default but can be modified);
 3. Select the main motive for the report;
-4. Describe in the dedicated  (free) text field any information that will allow Dailymotion to process the report;
-5. Fill in your name and surname(s) as they appear on an official identity document issued by an administration as well as your e-mail address. This information will allow Dailymotion to inform the Visitor who has reported the Content of the follow-up given to the report.
+4. Describe in the dedicated free text field any information that will allow Dailymotion to process the report; and
+5. Fill in your first name and surname(s) (as they appear on an official identity document issued by an administration) as well as your e-mail address. This information will allow Dailymotion to inform the Visitor who has reported the Content of the follow-up given to the report.
 
-In the event of a report of copyright infringement or infringement of other rights, the Visitor will be redirected to a dedicated form and must necessarily include the URL address of the reported video. Otherwise, Dailymotion will not be able to process the report.
+  
+It should be noted that it is not necessary to have a Dailymotion account to report Prohibited Video Content.  
+In the event of a report of copyright infringement or infringement of other rights, the Visitor will be redirected to a dedicated form. He must necessarily include the URL address of the reported video. Otherwise, Dailymotion will not be able to process the report.  
+The reporting forms specific to copyright infringement or other rights infringement are also available via this link.  
+Any report sent to Dailymotion through the reporting tool will be treated in accordance with the formalities required under French law.  
+Any other report based on other legislation must be submitted to Dailymotion by e-mail or by post in accordance with the provisions below.
 
-The reporting forms specific to copyright infringement or other rights infringement are also available via this link.
+##### 2\. **Tool for reporting Content comments**
 
-Any report sent to Dailymotion through the reporting tool will be treated in accordance with the formalism required by French law. 
+To report a comment, simply :
 
-Any report based on another legislation, it must be submitted to Dailymotion by e-mail or by post in accordance with the provisions below.
+1. Log in to your Dailymotion account;
+2. Click on the “Report” button available near the Content concerned;
+3. Select the main reason for the report; and
+4. Describe in the free text field any information which allows Dailymotion to process the report.
 
-#### **C. E-MAIL OR POSTAL REPORTS**
+  
+Any report sent to Dailymotion through the reporting tool will be treated in accordance with the formalities required under French law. Any report based on another legislation can be sent to Dailymotion by e-mail or by post in accordance with the provisions below.
+
+#### C. E-mail or postal reports
 
 The presence of Content that may violate the Prohibited Content Policy may also be reported to Dailymotion by e-mail or by letter. In such case, all of the following elements shall be communicated to Dailymotion:
 
-1) Depending on the status of the author of the report, the elements necessary to process the request will differ. If the author of the report is :
+* Depending on the status of the author of the report, the elements necessary to process the request will differ. If the author of the report is:
+    * A physical person: he/she must specify his/her first name, surname(s) and e-mail address;
+    * A legal person: the legal form and name of the legal person must be specified, as well as an e-mail address for the follow-up of the report; or
+    * An administrative authority: the name of the administrative authority concerned must be specified, as well as an e-mail address for the follow-up of this report.
 
-* A physical person: he/she must specify his/her name, first name(s) and e-mail address; 
-* A legal person: the legal form and name of the legal person must be specified, as well as an e-mail address for the follow-up of the report;
-* An administrative authority: the name of the administrative authority concerned must be specified, as well as an e-mail address for the follow-up of this report.
+If the report is made in the name of a third party, it is necessary to provide Dailymotion with all supporting documents attesting that the author of the report is duly authorized to represent this third party;
 
-* If the report is made in the name of a third party, it is necessary to provide Dailymotion with all supporting documents attesting that the author of the report is duly authorized to represent this third party.
+* A description of the Content reported, and its precise location (URL of the video(s) concerned or the page on which the comment(s) is/are available);
+* The main motive for the report (by reference to the Categories of Prohibited Content described in Section I of this Policy); and
+* and, for any report of copyright infringement or infringement of other rights, any documents and/or information allowing to characterize the infringement in question.
 
-* The main motive for the report (by reference to the Categories of Prohibited Content described in Section I of this Policy);
-
-No action will be taken on requests that do not include all the elements that would allow Dailymotion to process the report. 
-
+No action will be taken on requests that do not include all the elements that would allow Dailymotion to process the report.  
 Reports made by e-mail or by letter must be sent to Dailymotion at the address defined below according to the country of residence of the author of the report:
 
-* Reports from US residents:
-    * **Mailing Address:** Dailymotion, Inc. Prohibited Content Notice, 57 E 11th Street, Floor 5, New York City, NY 10003 (United States)
-        * **Email address**: [notifications@dailymotion.com](mailto:notifications@dailymotion.com)
+**• Reports from US residents:**
 
-* Reports from European Economic Area residents :
-    * **Mailing Address:** Dailymotion SA, Service Contenus Abusifs, 140 boulevard Malesherbes, 75017 Paris – France
-        * **Email address**: [notifications@dailymotion.com](mailto:notifications@dailymotion.com)
+Mailing Address:  
+Dailymotion, Inc.  
+Prohibited Content Notice,  
+57 E 11th Street, Floor 5, New York City, NY 10003 (United States)  
+Phone number: 646-576-6642  
+Email address: notifications@dailymotion.com
 
-* Reports from Indian residents:
-    * **Mailing Address:** Dailymotion India Grievance Officer, 140 boulevard Malesherbes, 75017 Paris – France
-        * **Email address**: [dailymotion-in\_grievance-officer@dailymotion.com](mailto:dailymotion-in_grievance-officer@dailymotion.com)
+**• Reports from European Economic Area residents :**
 
-* Reports from Turkish residents:
-    * **Mailing Address:** Gökhan Gökçe, Buyukdere Cd. No. 193/2 Esentepe – Sisli – Istanbul (Turkey)
-        * **Email address**: [Gokhan.gokce.external@dailymotion.com](mailto:Gokhan.gokce.external@dailymotion.com)
+**Mailing Address:**  
+Dailymotion SA,  
+Service Contenus Abusifs,  
+140 boulevard Malesherbes,  
+75017 Paris – France  
+**Email address:** notifications@dailymotion.com
 
-Eğer Türkiye’de ikamet ediyorsanız, 5651 sayılı Kanun kapsamında görevlendirilen Temsilciye yazılı olarak ya da eposta yoluyla bildirim gönderebilirsiniz.
+**• Reports from Indian residents:**
 
-İsim: Gökhan Gökçe
+**Mailing Address:**  
+Dailymotion India Grievance Officer,  
+140 boulevard Malesherbes,  
+75017 Paris – France  
+**Email address:** dailymotion-in\_grievance-officer@dailymotion.com
 
-Adres: Buyukdere Cd. No. 193/2 Esentepe – Sisli – Istanbul (Turkey)
+**• Reports from Turkish residents:**
 
-Eposta adresi: [Gokhan.gokce.external@dailymotion.com](mailto:Gokhan.gokce.external@dailymotion.com)[\[NF26\]](https://05049597-88e7-44f6-a7f0-0f6e1b723ecd/#_msocom_26) 
+**Mailing Address:**  
+Gökhan Gökçe,  
+Buyukdere Cd. No. 193/2 Esentepe – Sisli – Istanbul (Turkey)  
+**Email address:** Gokhan.gokce.external@dailymotion.com
 
-* Reports from resident living elsewhere in the world:
-    * **Mailing Address:** Dailymotion SA, Service Contenus Abusifs, 140 boulevard Malesherbes, 75017 Paris – France
-        * **Email address**: [notifications@dailymotion.com](mailto:notifications@dailymotion.com)
+Eğer Türkiye’de ikamet ediyorsanız, 5651 sayılı Kanun kapsamında görevlendirilen Temsilciye yazılı olarak ya da eposta yoluyla bildirim gönderebilirsiniz.  
+İsim: Gökhan Gökçe  
+**Adres:** Buyukdere Cd. No. 193/2 Esentepe – Sisli – Istanbul (Turkey)  
+**Eposta adresi:** Gokhan.gokce.external@dailymotion.com
 
-Regarding reports of copyright infringement, we remind you that certain uses of protected works may be permitted without the authorization of their authors or of the person who holds their rights when they fall within the scope of the exceptions to copyright and/or related rights provided for by the applicable laws and regulations (and in particular in France by articles L.122-5 L and L.211-3 of the Intellectual Property Code, as detailed in our Help Centre at the following address 
+**• Reports from resident living elsewhere in the world:**
 
-Before reporting any Content for copyright infringement, it is thus recommended to check whether the use of the protected work in question is not permitted under [one of these exceptions](https://faq.dailymotion.com/hc/en-us/articles/360020018900-What-are-the-exceptions-to-copyright-and-related-rights-).
+**Mailing Address:**  
+Dailymotion SA,  
+Service Contenus Abusifs,  
+140 boulevard Malesherbes,  
+75017 Paris – France  
+**Email address:** notifications@dailymotion.com
 
+Regarding reports of copyright infringement, we remind you that certain uses of protected works may be permitted without the authorization of their authors or of the person who holds their rights when they fall within the scope of the exceptions to copyright and/or related rights provided for by the applicable laws and regulations (and in particular in France by articles L.122-5 L and L.211-3 of the Intellectual Property Code, as detailed in our Help Center at the following address:  
+https://faq.dailymotion.com/hc/en-us/articles/360020018900-Exceptions-to-copyright).  
+Before reporting any Content for copyright infringement, it is thus recommended to check whether the use of the protected work in question is permitted under one of these exceptions.  
 Please note that reports of copyright infringement or infringement of other rights must be made by the owner of the rights concerned or by its duly authorized representative.
 
-### III. **CONSEQUENCES OF NON-COMPLIANCE WITH THE PROHIBITED CONTENT POLICY**
+### III) CONSEQUENCES OF NON-COMPLIANCE WITH THE PROHIBITED CONTENT POLICY
 
-#### A. **MODERATION ACTIONS APPLICABLE TO THE CONTENT**
+#### A. Moderation actions applicable to the content
 
-If Dailymotion is aware of the uploading of a Prohibited Content on its Service, Dailymotion will apply a moderation 
+If Dailymotion is aware of the uploading of Prohibited Content on its Service, Dailymotion will apply a moderation action adapted to the nature of the Prohibited Content (“Moderation Action”).
 
-action adapted to the nature of the Prohibited Content (“**Moderation Action**“).
+  
+The applicable Moderation Actions may impact the:
 
-The applicable Moderation Actions may impact:
+* Availability; (1.)
+* Visibility; (2.),
+* Accessibility to; or (3.)
+* Monetization of Content (4.).
 
-* The availability ; (**1**.) 
-* The visibility ; (**2**.), 
-* or the accessibility of the Contents. (**3**.)
+##### 1\. Moderation Action affecting the availability of Prohibited Content: removal of Content
 
-* **1\. Moderation Action affecting the availability of Content: removal of Content**
-
+  
 Subject to the provisions below, any Prohibited Content will be removed from the Dailymotion Service as soon as Dailymotion is effectively aware of it.
 
-* **2. Moderation Action affecting the visibility of a Prohibited Content: application of an age restriction**
+##### 2\. Moderation Action affecting the visibility of Prohibited Content: restriction of the visibility of a video
 
-Dailymotion may decide to apply an age restriction to any Content which could offend the sensitivity of young audiences. The parental filter, activated by default on the Dailymotion website and applications, prevents Visitors from being exposed to Content put online with an age restriction. Consequently, when the parental filter is activated, the Visitor can neither access nor be exposed to such Content.
+  
+Dailymotion may decide to restrict the visibility of a video and apply an age restriction to any Content which may offend the sensitivity of young audiences.  
+This Moderation Action will have the effect of placing the video concerned in Restricted Mode.  
+Such videos cannot (i) be viewed by Visitors having the Restricted Mode activated, (ii) appear in the results of their searches on the Dailymotion platform, or (iii) be monetized nor recommended by Dailymotion.
 
-* **3. Moderation Action affecting the accessibility of a Content: application of a geo-blocking measure**
+##### 3\. Moderation Action affecting the accessibility of Content: application of a geo-blocking measure
 
-If the concerned Content violates a specific law/regulation in a given country/territory, Dailymotion can implement geo-blocking measures. These measures allow to make the Content unavailable in a specific country or territories without altering its accessibility in other countries/territories.
+If the concerned Content violates a specific law/regulation in a given country/territory, Dailymotion can implement geo-blocking measures. These measures allow the Content to be made unavailable in a specific country or territories without altering its accessibility in other countries/territories.
 
-#### B. **APPEALING A MODERATION DECISION**
+##### 4\. Moderation action affecting the monetization of Content: video demonetization
 
-Dailymotion has established internal appeal mechanism of the decisions taken by its moderation team following the detection and/or reporting of Prohibited Contents (“**Moderation Decision(s)”**).
+Dailymotion reserves the right to demonetize video Content that is not suitable for advertising purposes.
 
+#### B. Appealing a moderation decision
+
+Dailymotion has established an internal appeal mechanism for the decisions taken by its moderation team following the detection and/or reporting of Prohibited Content (“Moderation Decision(s)”).  
 This internal appeal system allows:
 
-* the author of a report to contest the Moderation Decision taken following his report;
-    * the User who has put Content online that has been the subject of a Moderation Action mentioned in III A) of this policy to contest the corresponding Moderation Decision.
+1. the author of a report to contest the Moderation Decision taken following his/her report; and
+2. the User who has put Content online that has been the subject of a Moderation Action mentioned in Section III. A of this policy to contest the corresponding Moderation Decision.
 
-This internal appeal mechanism is available by contacting our Support teams (see Section II. A. C) or, in certain cases, via a URL link indicated in the e-mails sent by the moderation team to the author of the report or to the User who posted the Content online.
+This internal appeal mechanism is available by contacting our Support teams (see Section II.A.C.) or, in certain cases, via a URL link indicated in the e-mails sent by the moderation team to the author of the report or to the User who posted the Content online.  
+This URL link redirects to an appeal form which must be filled in by providing all the mandatory information required to process such appeal.  
+This appeal system is open for a period of 6 (six) months from the Moderation Decision.  
+Dailymotion is committed to processing these appeals quickly and impartially.  
+If the moderation team considers that the Content subject to the appeal is not illicit, nor incompatible with this Prohibited Content Policy, the Content concerned will be maintained or made accessible and visible again on the Dailymotion Service.  
+On the contrary, if the moderation team considers that the Content that is subject of the appeal is illegal or incompatible with this Prohibited Content Policy, a Moderation Action will be applied to the relevant Content.  
+The author of the appeal will be informed of the outcome of his appeal as soon as possible via email sent to the address given on the appeal form.  
+If you consider that a Moderation Decision goes against the law or if you consider yourself a victim of Content put online on the Dailymotion Service, legal recourses are at your disposal (such as filing a complaint or requests for summary proceedings).
 
-This URL link redirects to an appeal form which must be filled in, providing all the mandatory information required to process such appeal. 
+### IV) RESTRICTED MODE
 
-Please note that this appeal system is open for a period of 6 (six) months from the Moderation Decision. 
+“Restricted Mode” is a feature, activated by default, whose purpose is to limit the visibility of videos that may offend the sensibilities of certain Visitors and, in particular, young audiences.  
+Visitors who have not deactivated the “Hide Sensitive Content” feature located at the bottom of the platform’s homepage will not be exposed to these videos, i.e. videos labelled as “Sensitive Content” (i) when they are uploaded by Users and/or (ii) in the context of a Moderation Action applied by Dailymotion, as mentioned in Section III.A.2.  
+These videos cannot be viewed by Visitors who have the Restricted Mode activated and will not appear in their search results on the Dailymotion platform.
 
-Dailymotion is committed to process quickly and impartially these appeals.
-
-If the moderation team considers that the Content subject of the appeal is not illicit, nor incompatible with this Prohibited Content Policy, the Content concerned will be maintained or made accessible and visible again on the Dailymotion Service. 
-
-On the contrary, if the moderation team considers that the Content that is subject of the appeal is illegal or incompatible with this Prohibited Content Policy, the Moderation Action in progress will remain or a Moderation Action will be applied to the relevant Content. 
-
-In any case, the author of the appeal will be informed of the outcome of his appeal as soon as possible by e-mail sent to the address given on the appeal form.
-
-If you consider that a Decision of Moderation goes against the law or if you consider yourself a victim of a Content put online on the Dailymotion Service, legal recourses are at your disposal (such as filing a complaint or requests for summary proceedings).
+Any video whose access has been restricted will not be monetized or recommended by Dailymotion.
 
 **APPENDIX B – Data Protection Annex**
 --------------------------------------
 
-  
+###   
 **PREAMBLE**
----------------
 
 When You make available Content on the Dailymotion Service, Your Content may include personal data of **third-parties** (e.g. images, voice recordings, names, etc.) (hereafter “**Third-Party Personal Data**”). The Processing of such Third-Party Personal Data is governed by the Applicable Data Protection Laws, as defined below.
 
