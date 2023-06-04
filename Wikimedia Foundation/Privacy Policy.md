@@ -33,7 +33,7 @@ Other languages:
 * [Ripoarisch](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ksh "Bedengonge för der Ömjang met prevaate Daate (4% translated)")
 * [Scots](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sco "Policy:Privacy policy/sco (2% translated)")
 * [Soomaaliga](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/so "Xeerka lahaanshaha (4% translated)")
-* [Tiếng Việt](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/vi "Quy định về quyền riêng tư (96% translated)")
+* [Tiếng Việt](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/vi "Quy định về quyền riêng tư (98% translated)")
 * [Türkçe](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/tr "Gizlilik Politikası (96% translated)")
 * [Yorùbá](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/yo "Privacy policy/yo (1% translated)")
 * [Zazaki](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/diq "Siyaseto nımıte (17% translated)")
