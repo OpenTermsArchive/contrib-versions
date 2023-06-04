@@ -122,7 +122,7 @@ Other languages:
 * [ייִדיש](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/yi "תנאים פון באניץ (4% translated)")
 * [עברית](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/he "Policy:Terms of Use/he (38% translated)")
 * [اردو](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ur "شرائط استعمال (4% translated)")
-* [العربية](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ar "سياسة: شروط الاستخدام (39% translated)")
+* [العربية](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ar "سياسة: شروط الاستخدام (85% translated)")
 * [فارسی](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fa "شرایط استفاده (19% translated)")
 * [مصرى](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/arz "شروط الاستخدام (1% translated)")
 * [پښتو](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ps "د کارولو شرطونه (11% translated)")
