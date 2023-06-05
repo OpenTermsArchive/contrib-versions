@@ -120,7 +120,7 @@ Upon completion of the registration and identity verification for your Binance A
 * Allow or prohibit some Users’ use of any Binance Services in accordance with relevant Binance Platform Rules.
     
 
-Binance has the exclusive authority to determine which Digital Assets are listed on the platform and may add or remove Digital Assets from the platform in its sole discretion, from time to time. Binance may also change the order size available for each Digital Asset. In respect of such additions, removals, or amendments, Binance may, but is not obliged to, notify Users in advance and Binance shall have no liability to Users in connection with such additions, removals or amendments.
+Binance has the exclusive authority to determine which Digital Assets are listed on the platform and may add or remove Digital Assets from the platform in its sole discretion, from time to time. If Digital Assets that are no longer listed on the platform remain in your Binance Account beyond a specified period, Binance may in its discretion convert such Digital Assets to a different type of Digital Asset . Binance may also change the order size available for each Digital Asset. In respect of such additions, removals, conversions or amendments, Binance may, but is not obliged to, notify Users in advance and Binance shall have no liability to Users in connection with such additions, removals, conversions or amendments.
 
 ### 1\. Service Usage Guidelines
 
@@ -367,7 +367,7 @@ Notwithstanding any provision of this Section VI, Binance may provide a written 
 
 (b) close any open positions in any Binance products;
 
-(c) convert the Digital Assets to a different type of Digital Asset (e.g., from BTC to BUSD). For the avoidance of doubt, none of the Binance Operators shall be liable for any loss of profit, tax obligations or any other loss, damage or expense incurred by you resulting from such conversion;
+(c) convert the Digital Assets to a different type of Digital Asset (e.g., from BTC to USDT). For the avoidance of doubt, none of the Binance Operators shall be liable for any loss of profit, tax obligations or any other loss, damage or expense incurred by you resulting from such conversion;
 
 (d) transfer such dormant account (including any Digital Assets contained therein) to an affiliate of the Binance Operators, any third-party custodian or an isolated wallet where it is deemed reasonably necessary by Binance to do so. In the event that such transfer has taken place, you have the right to retrieve your digital assets from subject to satisfying Binance’s verification requirements, including completing KYC;
 
