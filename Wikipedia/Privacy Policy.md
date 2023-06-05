@@ -75,7 +75,7 @@ Other languages:
 * [кыргызча](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ky "Купуялык саясаты (7% translated)")
 * [македонски](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mk "Заштита на личните податоци (5% translated)")
 * [нохчийн](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ce "Privacy policy (5% translated)")
-* [русский](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ru "Политика конфиденциальности (97% translated)")
+* [русский](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ru "Политика конфиденциальности (100% translated)")
 * [српски / srpski](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sr "Политика приватности (62% translated)")
 * [тоҷикӣ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/tg "Сиёсати ҳифзи асрор (4% translated)")
 * [удмурт](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/udm "Конфиденциальностья политика (1% translated)")
