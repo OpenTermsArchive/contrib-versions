@@ -357,7 +357,7 @@ As part of Viber’s Services, we allow third parties to create communities and 
 
 **Advertising Partners:**
 
-To enable the limited advertisements on our Services, we may share device identifiers (i.e., an advertising identifier associated with your device) with our third-party advertising partners (listed [**HERE**](https://www.viber.com/app/uploads/Advertising-Partners-Jan-2023.pdf)), along with certain of your device data (e.g. language preference), age range, inferred gender, country, city, reduced IP address (or GPS location data if you allowed us in your settings) and certain technical or aggregated data about you and the device you are using. This includes partners managing our advertising placements (Rakuten included) and also advertisers themselves and their agencies or third parties managing their advertising demands. Your unique advertising identifier is created by your mobile device’s operating system and you can change it or choose not to share it at any time. If you want to know more, read our [**Viber Ads, Cookies & Tracking Technologies Policy**](https://www.viber.com/en/terms/cookies-and-tracking/)**.**
+To enable the limited advertisements on our Services, we may share device identifiers (i.e., an advertising identifier associated with your device) with our third-party advertising partners (listed [**HERE**](https://www.viber.com/app/uploads/Advertising-Partners.June2023.pdf)), along with certain of your device data (e.g. language preference), age range, inferred gender, country, city, reduced IP address (or GPS location data if you allowed us in your settings) and certain technical or aggregated data about you and the device you are using. This includes partners managing our advertising placements (Rakuten included) and also advertisers themselves and their agencies or third parties managing their advertising demands. Your unique advertising identifier is created by your mobile device’s operating system and you can change it or choose not to share it at any time. If you want to know more, read our [**Viber Ads, Cookies & Tracking Technologies Policy**](https://www.viber.com/en/terms/cookies-and-tracking/)**.**
 
 **Legal and Law Enforcement:**
 
@@ -512,7 +512,7 @@ We are committed to working with you to obtain a fair resolution of any complain
 
 In the event you read this policy in any language other than English, you agree that in the event of any discrepancies, the English version shall prevail.
 
-Current Privacy Policy PDF Version [Viber Privacy Policy March 2022](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-March-2022-1.pdf)
+Current Privacy Policy PDF Version [Viber Privacy Policy March 2022](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-June-2023.pdf)
 
 Previous Privacy Policy PDF Version [Viber Privacy Policy November 2019](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-November-2019.pdf)
 
