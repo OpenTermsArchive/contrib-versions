@@ -1,7 +1,7 @@
 Brand Privacy Policy
 --------------------
 
-Last Updated: September 01, 2022
+Last Updated: June 06, 2023
 
 At Dotdash Meredith, we take privacy seriously and we respect the privacy concerns of our community of users. This Privacy Policy (the “**Privacy Policy**”) describes how the Dotdash Meredith publishing family and any other digital properties that link to this Privacy Policy (collectively, the “**Company**,” “**we**,” “**us**,” or “**our**”) collect, use, disclose, and otherwise process personal information in connection with our websites (the “**Sites**”), mobile applications (the “**Apps**”), and the related content, services, products, and other features and functionality offered on or through those Sites and Apps (collectively, the “**Services**”). 
 
@@ -223,7 +223,7 @@ Our Services may provide links to other digital properties that are controlled b
 
 #### **What’s Our Policy With Respect to Children’s Personal Information?**
 
-Our Services are not designed or intended for use by children, and we do not knowingly collect or solicit personal information from children under the age of 13 (or the equivalent age of a child in your jurisdiction) on the Services.  If we become aware that we have inadvertently collected personal information from a child under the age of 13 (or the equivalent age of a child in your jurisdiction), we will endeavor to delete any such information promptly.  If you believe that we may have collected information from a child under 13 (or the equivalent age of a child in your jurisdiction), please contact us using the contact information below.
+Our Services are not designed or intended for use by children, and we do not knowingly collect or solicit personal information from children under the age of 16 (or the equivalent age of a child in your jurisdiction) on the Services.  If we become aware that we have inadvertently collected personal information from a child under the age of 16 (or the equivalent age of a child in your jurisdiction), we will endeavor to delete any such information promptly.  If you believe that we may have collected information from a child under 16 (or the equivalent age of a child in your jurisdiction), please contact us using the contact information below.
 
 #### **What’s Our Policy for Users Outside the United States?**
 
