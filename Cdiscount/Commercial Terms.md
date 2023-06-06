@@ -1058,9 +1058,6 @@ De bénéficier :
 
 * Et d’autres avantages offerts par les partenaires de Cdiscount, qui peuvent être différents en fonction du pays de résidence de l’Abonné, et dont la disponibilité peut varier en cours d’Abonnement.
 
-   
-L'avantage Presse est garanti jusqu'en août 2022.
-
 De faire bénéficier : des avantages de son Abonnement à toute personne physique majeure de sa famille dans le cadre du partage d’abonnement dans les conditions définies à l’article 8.1.
 
  La disponibilité et le contenu des avantages décrits ci-dessus peuvent varier en cours d’Abonnement, sans préavis ni indemnité au profit de l’Abonné. L’Abonné sera informé de l’évolution desdits avantages par tout moyen. 
