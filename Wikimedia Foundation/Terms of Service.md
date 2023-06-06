@@ -34,7 +34,7 @@ General
 * [What links here](https://foundation.wikimedia.org/wiki/Special:WhatLinksHere/Policy:Terms_of_Use "A list of all wiki pages that link here [j]")
 * [Related changes](https://foundation.wikimedia.org/wiki/Special:RecentChangesLinked/Policy:Terms_of_Use "Recent changes in pages linked from this page [k]")
 * [Special pages](https://foundation.wikimedia.org/wiki/Special:SpecialPages "A list of all special pages [q]")
-* [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=260145 "Permanent link to this revision of this page")
+* [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=260800 "Permanent link to this revision of this page")
 * [Page information](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=info "More information about this page")
 
 Print/export
@@ -380,7 +380,7 @@ We reserve the right to suspend (temporarily, or permanently) our handling of re
 
 The Wikimedia Foundation Board of Trustees [releases official policies](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Resolutions "Special:MyLanguage/Resolutions") from time to time. Some of these policies may be mandatory for a particular Project or Project edition, and, when they are, you agree to abide by them as applicable.
 
-13\. API Terms
+12\. API Terms
 --------------
 
 We make available a set of APIs, which include documentation and associated tools, to enable users to build products that promote free knowledge. By using our APIs, you agree to abide by all applicable policies governing the use of the APIs, which include but are not limited to the [User-Agent Policy](https://meta.wikimedia.org/wiki/Special:MyLanguage/User-Agent_policy "meta:Special:MyLanguage/User-Agent policy"), the [Robot Policy](https://wikitech.wikimedia.org/wiki/Robot_Policy "wikitech:Robot Policy"), and the [API:Etiquette](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Etiquette "mw:Special:MyLanguage/API:Etiquette") (collectively, "API Documentation"), which are incorporated into these Terms of Use by reference.
@@ -472,7 +472,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 ![](//foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=260145](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=260145)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=260800](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=260800)"
 
 [Categories](https://foundation.wikimedia.org/wiki/Special:Categories "Special:Categories"):
 
