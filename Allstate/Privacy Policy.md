@@ -1,7 +1,7 @@
 Allstate online _privacy statement_
 ===================================
 
-Effective: May 24, 2023
+Effective: June 6, 2023
 
 This Allstate Online Privacy Statement (“Privacy Statement”) describes the privacy practices of Allstate Insurance Company and the Allstate affiliated companies whose websites and mobile apps link to this Privacy Statement (“Allstate,” “we” “our” or “us”). This Privacy Statement explains the information we collect, why we collect it, how we use and share it, and the choices you can make regarding your information. More information about Allstate affiliates is in the Allstate Affiliates section at the end of this Privacy Statement.
 
