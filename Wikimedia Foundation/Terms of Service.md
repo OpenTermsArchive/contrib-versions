@@ -132,7 +132,7 @@ Other languages:
 * [मराठी](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mr "वापराच्या अटी (19% translated)")
 * [हिन्दी](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hi "सेवा शर्तें (17% translated)")
 * [অসমীয়া](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/as "ব্যৱহাৰৰ চৰ্তাৱলী (1% translated)")
-* [বাংলা](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bn "ব্যবহারের শর্তাবলী (11% translated)")
+* [বাংলা](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bn "ব্যবহারের শর্তাবলী (16% translated)")
 * [ਪੰਜਾਬੀ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pa "ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ (15% translated)")
 * [ગુજરાતી](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/gu "વપરાશની શરતો (8% translated)")
 * [தமிழ்](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ta "பயன்படுத்தல் விதிமுறைகள் (7% translated)")
