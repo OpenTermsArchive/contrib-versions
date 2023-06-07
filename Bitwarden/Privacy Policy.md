@@ -155,7 +155,7 @@ Your Personal Information may be accessed by recruiters and interviewers working
 
 We may use third party service providers to provide a recruiting software system. We also share your Personal Information with other third party service providers that may assist us in recruiting talent, administering and evaluating pre-employment screening and testing, and improving our recruiting practices.
 
-[](#choice;-access)
+[](#choice-access)
 
 Choice; Access
 --------------
