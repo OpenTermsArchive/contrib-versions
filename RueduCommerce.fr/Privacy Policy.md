@@ -7,12 +7,12 @@ Rue du Commerce attache la plus grande importance à la protection de vos donné
 
 Dans un souci de transparence, cette rubrique a pour objet de vous expliquer les traitements de données à caractère personnel mis en œuvre dans le cadre de l’utilisation des services proposés par Rue du Commerce ainsi que la manière dont vous pouvez exercer vos droits sur vos données personnelles.
 
-1\. Qui est le responsable du traitement de vos donnees ?
+1\. Qui est le responsable du traitement de vos données ?
 ---------------------------------------------------------
 
 La société **Rue du Commerce**, société par actions simplifiée au capital de **111.950.672 euros**, immatriculée au registre du commerce et des sociétés de Bobigny (93) sous le numéro B 422 797 720, traite les données vous concernant, et est responsable des traitements des données à caractère personnel pour toute collecte de données vous concernant en relation avec les services proposés par Rue du Commerce.
 
-2\. Pour quelles finalites collectons-nous et traitons-nous vos donnees ?
+2\. Pour quelles finalités collectons-nous et traitons-nous vos données ?
 -------------------------------------------------------------------------
 
 Rue du Commerce collecte et traite les données vous concernant pour les finalités suivantes :
@@ -67,7 +67,7 @@ Vos données sont ainsi susceptibles d’être utilisées, dans le respect des a
   
   
 
-3\. Pourquoi les traitements de vos donnees a caractere personnel ont-ils lieu ?
+3\. Pourquoi les traitements de vos données à caractère personnel ont-ils lieu ?
 --------------------------------------------------------------------------------
 
 Vos données pourront faire l'objet d'un traitement pour l'une ou plusieurs des raisons suivantes :
@@ -80,7 +80,7 @@ Vos données pourront faire l'objet d'un traitement pour l'une ou plusieurs des 
 
 Pour les traitements reposant sur votre consentement, notamment les opérations de prospection commerciale liée au profilage, nous vous rappelons que vous pouvez retirer à tout moment votre consentement sans que cela ne remette en cause la licéité du traitement mis en œuvre avant cette révocation. Pour cela, rendez-vous dans votre espace personnel ("Newsletter"). Pour les push mobiles, rendez-vous directement sur votre application mobile.
 
-4\. Quelles donnees collectons-nous ?
+4\. Quelles données collectons-nous ?
 -------------------------------------
 
 Les données traitées par Rue du Commerce sont issues :
@@ -103,7 +103,7 @@ Les données peuvent être directement collectées auprès de vous-même ou via 
 
 Les données collectées sont indispensables pour permettre à Rue du Commerce, à leurs prestataires et/ou partenaires de fournir les services proposés via Rue du Commerce pour nous permettre de mieux vous connaître et interagir avec vous ou pour vous adresser, nous ou nos partenaires, des contenus adaptés à votre profil et à vos centres d’intérêt.
 
-5\. Qui sera susceptible d’acceder a vos donnees ?
+5\. Qui sera susceptible d’accéder à vos données ?
 --------------------------------------------------
 
 Pour atteindre les finalités décrites ci-dessus et dans les limites nécessaires à la poursuite de ces finalités, vos données pourront être transmises à tout ou partie des destinataires suivants :
@@ -139,7 +139,7 @@ Pour atteindre les finalités décrites ci-dessus et dans les limites nécessair
 \- les autorités administratives ou judiciaires le cas échéant dans le cadre du respect de nos obligations légales ou pour nous permettre d’assurer la défense de nos droits et intérêts.  
   
 
-6\. Combien de temps conservons-nous vos donnees ?
+6\. Combien de temps conservons-nous vos données ?
 --------------------------------------------------
 
 Rue du commerce a déterminé des règles précises concernant la durée de conservation de vos données à caractère personnel.
@@ -160,7 +160,7 @@ Le données relatives aux noms, prénoms et adresses des clients suspectés de f
 
 Enfin, en cas d'exercice de leurs droits par les personnes concernées, les données relatives aux pièces d'identité peuvent être conservées pendant les délais de prescription légale applicables, soit pendant une période maximale de 3 ans.
 
-7\. Comment vos donnees sont-elles securisees ?
+7\. Comment vos données sont-elles sécurisées ?
 -----------------------------------------------
 
 Nous prenons en compte, la nature des données personnelles et les risques que présentent les traitements, pour mettre en place les mesures techniques, physiques et organisationnelles appropriées pour préserver la sécurité et la confidentialité des données personnelles et empêcher qu’elles ne soient déformées, endommagées ou que des tiers non autorisés y aient accès.
@@ -171,7 +171,7 @@ Lorsque vous payez sur notre site, vos paiements sont sécurisés. En effet, Rue
 
 Rue du Commerce ne collecte pas vos données de paiement. L'intégralité de vos coordonnées bancaires sont collectées uniquement par notre prestataire de services de paiement ce qui permet de garantir la sécurité des paiements
 
-8\. Vos donnees sont elles traitees en dehors de l’union europeenne ?
+8\. Vos données sont-elles traitées en dehors de l’union européenne ?
 ---------------------------------------------------------------------
 
 Les différentes catégories de données collectées et traitées peuvent être transmises à des sociétés prestataires situées dans des pays hors Union Européenne notamment pour les activités liées au service clients, dans le cadre de prestations informatiques ou de l’exploitation de données en lien avec les réseaux sociaux.
@@ -195,7 +195,7 @@ Nous vous informons par ailleurs de l’existence de la liste d'opposition au d�
 
 Dans l’hypothèse où nous ne parviendrions pas à répondre à vos demandes d’une manière qui vous satisfasse, vous pouvez également introduire une réclamation auprès d’une autorité de contrôle (en France la CNIL 3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07. Tél : 01 53 73 22 22).
 
-10\. Que faut-il savoir des donnees collectees par les reseaux sociaux ?
+10\. Que faut-il savoir des données collectées par les réseaux sociaux ?
 ------------------------------------------------------------------------
 
 Des échanges de données peuvent intervenir entre Rue du Commerce et les réseaux sociaux. Le site utilise des plug-in de réseaux sociaux, notamment :
@@ -347,7 +347,7 @@ Pour fonctionner ce service se fonde sur le dépôt d’un cookie sur votre navi
 Vous pouvez à tout moment et facilement vous opposer au dépôt des cookies Liveramp [en cliquant ici](https://liveramp.fr/politique-de-cookies/).  
  
 
-12\. Qui contacter en cas de difficultes ?
+12\. Qui contacter en cas de difficultés ?
 ------------------------------------------
 
 **Service Client** : Rue du commerce, Service clients –  118 rue de Javel\- 75015 Paris ou au ![Numéro téléphone Service Client](https://www.rueducommerce.fr/static/drupal-front/inline-images/T%C3%A9l%C3%A9phone.gif) du lundi au vendredi de 8h à 21h, le samedi de 9h à 18h et les dimanches et jours fériés de 10h à 18h
@@ -362,12 +362,12 @@ Rue du Commerce attache la plus grande importance à la protection de vos donné
 
 Dans un souci de transparence, cette rubrique a pour objet de vous expliquer les traitements de données à caractère personnel mis en œuvre dans le cadre de l’utilisation des services proposés par Rue du Commerce ainsi que la manière dont vous pouvez exercer vos droits sur vos données personnelles.
 
-1\. Qui est le responsable du traitement de vos donnees ?
+1\. Qui est le responsable du traitement de vos données ?
 ---------------------------------------------------------
 
 La société **Rue du Commerce**, société par actions simplifiée au capital de **111.950.672 euros**, immatriculée au registre du commerce et des sociétés de Bobigny (93) sous le numéro B 422 797 720, traite les données vous concernant, et est responsable des traitements des données à caractère personnel pour toute collecte de données vous concernant en relation avec les services proposés par Rue du Commerce.
 
-2\. Pour quelles finalites collectons-nous et traitons-nous vos donnees ?
+2\. Pour quelles finalités collectons-nous et traitons-nous vos données ?
 -------------------------------------------------------------------------
 
 Rue du Commerce collecte et traite les données vous concernant pour les finalités suivantes :
@@ -422,7 +422,7 @@ Vos données sont ainsi susceptibles d’être utilisées, dans le respect des a
   
   
 
-3\. Pourquoi les traitements de vos donnees a caractere personnel ont-ils lieu ?
+3\. Pourquoi les traitements de vos données à caractère personnel ont-ils lieu ?
 --------------------------------------------------------------------------------
 
 Vos données pourront faire l'objet d'un traitement pour l'une ou plusieurs des raisons suivantes :
@@ -435,7 +435,7 @@ Vos données pourront faire l'objet d'un traitement pour l'une ou plusieurs des 
 
 Pour les traitements reposant sur votre consentement, notamment les opérations de prospection commerciale liée au profilage, nous vous rappelons que vous pouvez retirer à tout moment votre consentement sans que cela ne remette en cause la licéité du traitement mis en œuvre avant cette révocation. Pour cela, rendez-vous dans votre espace personnel ("Newsletter"). Pour les push mobiles, rendez-vous directement sur votre application mobile.
 
-4\. Quelles donnees collectons-nous ?
+4\. Quelles données collectons-nous ?
 -------------------------------------
 
 Les données traitées par Rue du Commerce sont issues :
@@ -458,7 +458,7 @@ Les données peuvent être directement collectées auprès de vous-même ou via 
 
 Les données collectées sont indispensables pour permettre à Rue du Commerce, à leurs prestataires et/ou partenaires de fournir les services proposés via Rue du Commerce pour nous permettre de mieux vous connaître et interagir avec vous ou pour vous adresser, nous ou nos partenaires, des contenus adaptés à votre profil et à vos centres d’intérêt.
 
-5\. Qui sera susceptible d’acceder a vos donnees ?
+5\. Qui sera susceptible d’accéder à vos données ?
 --------------------------------------------------
 
 Pour atteindre les finalités décrites ci-dessus et dans les limites nécessaires à la poursuite de ces finalités, vos données pourront être transmises à tout ou partie des destinataires suivants :
@@ -494,7 +494,7 @@ Pour atteindre les finalités décrites ci-dessus et dans les limites nécessair
 \- les autorités administratives ou judiciaires le cas échéant dans le cadre du respect de nos obligations légales ou pour nous permettre d’assurer la défense de nos droits et intérêts.  
   
 
-6\. Combien de temps conservons-nous vos donnees ?
+6\. Combien de temps conservons-nous vos données ?
 --------------------------------------------------
 
 Rue du commerce a déterminé des règles précises concernant la durée de conservation de vos données à caractère personnel.
@@ -515,7 +515,7 @@ Le données relatives aux noms, prénoms et adresses des clients suspectés de f
 
 Enfin, en cas d'exercice de leurs droits par les personnes concernées, les données relatives aux pièces d'identité peuvent être conservées pendant les délais de prescription légale applicables, soit pendant une période maximale de 3 ans.
 
-7\. Comment vos donnees sont-elles securisees ?
+7\. Comment vos données sont-elles sécurisées ?
 -----------------------------------------------
 
 Nous prenons en compte, la nature des données personnelles et les risques que présentent les traitements, pour mettre en place les mesures techniques, physiques et organisationnelles appropriées pour préserver la sécurité et la confidentialité des données personnelles et empêcher qu’elles ne soient déformées, endommagées ou que des tiers non autorisés y aient accès.
@@ -526,7 +526,7 @@ Lorsque vous payez sur notre site, vos paiements sont sécurisés. En effet, Rue
 
 Rue du Commerce ne collecte pas vos données de paiement. L'intégralité de vos coordonnées bancaires sont collectées uniquement par notre prestataire de services de paiement ce qui permet de garantir la sécurité des paiements
 
-8\. Vos donnees sont elles traitees en dehors de l’union europeenne ?
+8\. Vos données sont-elles traitées en dehors de l’union européenne ?
 ---------------------------------------------------------------------
 
 Les différentes catégories de données collectées et traitées peuvent être transmises à des sociétés prestataires situées dans des pays hors Union Européenne notamment pour les activités liées au service clients, dans le cadre de prestations informatiques ou de l’exploitation de données en lien avec les réseaux sociaux.
@@ -550,7 +550,7 @@ Nous vous informons par ailleurs de l’existence de la liste d'opposition au d�
 
 Dans l’hypothèse où nous ne parviendrions pas à répondre à vos demandes d’une manière qui vous satisfasse, vous pouvez également introduire une réclamation auprès d’une autorité de contrôle (en France la CNIL 3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07. Tél : 01 53 73 22 22).
 
-10\. Que faut-il savoir des donnees collectees par les reseaux sociaux ?
+10\. Que faut-il savoir des données collectées par les réseaux sociaux ?
 ------------------------------------------------------------------------
 
 Des échanges de données peuvent intervenir entre Rue du Commerce et les réseaux sociaux. Le site utilise des plug-in de réseaux sociaux, notamment :
@@ -702,7 +702,7 @@ Pour fonctionner ce service se fonde sur le dépôt d’un cookie sur votre navi
 Vous pouvez à tout moment et facilement vous opposer au dépôt des cookies Liveramp [en cliquant ici](https://liveramp.fr/politique-de-cookies/).  
  
 
-12\. Qui contacter en cas de difficultes ?
+12\. Qui contacter en cas de difficultés ?
 ------------------------------------------
 
 **Service Client** : Rue du commerce, Service clients –  118 rue de Javel\- 75015 Paris ou au ![Numéro téléphone Service Client](https://www.rueducommerce.fr/static/drupal-front/inline-images/T%C3%A9l%C3%A9phone.gif) du lundi au vendredi de 8h à 21h, le samedi de 9h à 18h et les dimanches et jours fériés de 10h à 18h
