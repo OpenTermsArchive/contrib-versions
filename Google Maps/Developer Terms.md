@@ -1408,6 +1408,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Taiwan Environmental Protection Administration, [https://drive.google.com/file/d/0Bz\_QRYVmtP\_4YjVrMUI5Q19GQ3M/view?resourcekey=0-y\_IDuy\_zqBtwdpbX8nc6Sg](https://drive.google.com/file/d/0Bz_QRYVmtP_4YjVrMUI5Q19GQ3M/view?resourcekey=0-y_IDuy_zqBtwdpbX8nc6Sg), changes were made.
             
+        * Taiwan’s Ministry of the Interior (TW) : [https://www.tgos.tw/TGOS/Web/MetaData/TGOS\_Query\_MetaData.aspx?key=TW-09-301000100G-614029](https://www.tgos.tw/TGOS/Web/MetaData/TGOS_Query_MetaData.aspx?key=TW-09-301000100G-614029)
+            
     56. **Timor-Leste**
         
         OCHA Regional Office for Asia and the Pacific (ROAP) ([https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode))
@@ -1837,6 +1839,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         202. ArcGIS Hub Washington, DC Open Data DC (US) - [https://hub.arcgis.com/datasets/DCGIS::district-government-land-points/explore](https://hub.arcgis.com/datasets/DCGIS::district-government-land-points/explore)
             
         203. ArcGIS Hub City of Johns Creek, GA (US) - [https://hub.arcgis.com/datasets/JohnsCreekGA::address-points/explore](https://hub.arcgis.com/datasets/JohnsCreekGA::address-points/explore)
+            
+        204. City of San Antonio Open Data (US) : [https://opendata-cosagis.opendata.arcgis.com/datasets/CoSAGIS::streets/about](https://opendata-cosagis.opendata.arcgis.com/datasets/CoSAGIS::streets/about)
             
     62. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
