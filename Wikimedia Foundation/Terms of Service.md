@@ -112,6 +112,7 @@ Other languages:
 * [беларуская (тарашкевіца)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/be-tarask "Умовы выкарыстаньня (39% translated)")
 * [български](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bg "Условия за ползване (39% translated)")
 * [гӀалгӀай](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/inh "Пайда эцара бехкамаш (1% translated)")
+* [кыргызча](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ky "Колдонуу шарттары (1% translated)")
 * [македонски](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mk "Услови на употреба (38% translated)")
 * [нохчийн](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ce "Лелоран хьал (1% translated)")
 * [русский](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru "Условия использования (39% translated)")
