@@ -16,7 +16,7 @@ Les données à caractère personnel concernées sont les suivantes :
 
 * Données relatives au profil : prénom, nom, organisation et adresse mail professionnelle (obligatoire), une photographie d’identité (optionnel) ;
 * Données de contenus du service de messagerie instantanée : message, fichiers, métadonnées ;
-* Données de contact du répertoire mobile : prénom, nom, email (optionnel et les données ne sont pas importées) ;
+* Données de contact du répertoire mobile : prénom, nom, adresse mail (optionnel et les données ne sont pas importées) ;
 * Données de connexion.
 
 2\. Finalités
@@ -89,8 +89,8 @@ Certaines données sont envoyées à des sous-traitants. Le responsable de trait
 
 | Partenaire | Traitement réalisé | Pays destinataire | Garanties |
 | --- | --- | --- | --- |
-| Cloud du Ministère de l’Intérieur | Hébergement et envoi d’emails | France | https://www.numerique.gouv.fr/services/cloud/cloud-interne/ |
-| Crisp | Support utilisateurs par email | Pays Bas et Allemagne | https://crisp.chat/fr/ |
+| Cloud du Ministère de l’Intérieur | Hébergement et envoi d’adresses mails | France | https://www.numerique.gouv.fr/services/cloud/cloud-interne/ |
+| Crisp | Support utilisateurs par adresse mail | Pays Bas et Allemagne | https://crisp.chat/fr/ |
 | Dolist | Service d’envoi d’emails d’informations | France et Suisse | https://www.dolist.com/societe/politique-rgpd/ |
 | Sendinblue | Service d’envoi d’emails d’informations de secours | UE et hors UE | https://fr.sendinblue.com/rgpd/ |
 | Scalingo | Hébergement de la présente page d’accueil | France | https://scalingo.com/fr/privacy-policy |
@@ -106,7 +106,7 @@ Lorsque vous autorisez cet accès, Tchap l’utilise de deux manières :
 
   
 
-* Tchap parcourt les adresses emails de vos contacts pour découvrir d’autres Utilisateurs et Utilisatrices inscrits sur Tchap. Ces Utilisateurs et Utilisatrices sont listés dans la section ‘Contacts’ de l’Application. Ils vous sont proposés également lorsque vous souhaitez inviter des nouveaux membres à un salon. Aucune adresse email n’est stockée sur les serveurs ;
+* Tchap parcourt les adresses mails de vos contacts pour découvrir d’autres Utilisateurs et Utilisatrices inscrits sur Tchap. Ces Utilisateurs et Utilisatrices sont listés dans la section ‘Contacts’ de l’Application. Ils vous sont proposés également lorsque vous souhaitez inviter des nouveaux membres à un salon. Aucune adresse mail n’est stockée sur les serveurs ;
 * Lorsque vous souhaitez inviter des nouvelles personnes à rejoindre Tchap, les coordonnées de vos contacts locaux vous sont proposées.
 
 8\. Cookies
