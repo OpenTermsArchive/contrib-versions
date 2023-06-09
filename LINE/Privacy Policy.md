@@ -375,7 +375,9 @@ Unless prohibited under Applicable Laws, if you exercise any of your rights here
 8.Use of third-party modules and Cookies
 ----------------------------------------
 
-We may use cookies and third-party SDK for fulfilling the purposes described in this Policy.
+<Summary>  
+We may use tags and modules, etc., including cookies and third-party SDK for fulfilling the purposes described in this Policy.  
+For the details about the information sent externally through such tags and modules, please read “[Handling of user information related to external transmission](https://terms.line.me/line_rules_extmod)”.
 
 8.a.Third-party modules
 
@@ -384,7 +386,7 @@ We may install modules of a third-party software development kit (SDK) in our Se
 ● to analyze the status of use of our Services; and  
 ● to distribute ads on our behalf and measure the effectiveness thereof.
 
-With regard to your Personal Data that is processed by a third-party through a module provided by such third party, the privacy policy of such third party will apply. Please click “[Embedding modules of other companies](https://terms.line.me/line_rules_extmod)” to confirm the details regarding third-party modules.
+With regard to your Personal Data that is processed by a third-party through a module provided by such third party, the privacy policy of such third party will apply.
 
 8.b.Cookie and other analytical tools
 
@@ -472,7 +474,8 @@ LINE Corporation
 CEO and President - Takeshi Idezawa
 
 Formulated on August 15, 2012  
-Last revised on June 1, 2022
+Last revised on June 9, 2023  
+(Description of “Handling of user information related to external transmission” is added.)
 
 10.Reference
 ------------
@@ -519,8 +522,8 @@ The supplementation of personalization features in certain countries and regions
 The supplementation of the use of communications-related information in certain countries and regions (\*1)  
 [Regarding Usage of Your Information - FAQ and Detailed Information](https://terms.line.me/line_communication_privacy/)
 
-The list of third-party modules that have been introduced to services and obtain information directly  
-[Embedding modules of other companies](https://terms.line.me/line_rules_extmod)
+The list of tags and modules, etc. that have been introduced to our Services and sending information externally  
+[Handling of user information related to external transmission](https://terms.line.me/line_rules_extmod)
 
 10.b.ii.Contacts to us regarding the processing of Personal Data
 
