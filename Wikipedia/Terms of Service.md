@@ -83,7 +83,7 @@ Other languages:
 * [dansk](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/da "Brugsbetingelser (39% translated)")
 * [español](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es "Términos y condiciones de uso (41% translated)")
 * [euskara](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/eu "Erabilera baldintzak (8% translated)")
-* [français](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr "Politique:Conditions d’utilisation (65% translated)")
+* [français](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr "Politique:Conditions d’utilisation (96% translated)")
 * [français cadien](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/frc "Conditions d’utilisation (4% translated)")
 * [føroyskt](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fo "Treytir fyri nýtslu (6% translated)")
 * [galego](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/gl "Termos de uso (38% translated)")
