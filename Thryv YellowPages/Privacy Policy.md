@@ -217,7 +217,7 @@ Security
 
 We maintain physical, electronic, and procedural safeguards to help protect the confidentiality and security of information transmitted to us. It is also important for you to protect against unauthorized access of any account password or your computer. Personal information may be accessed by persons within our organization, or other entities described in this Privacy Policy, or our third-party service providers, who require such access to carry out the purposes described in this Privacy Policy, or as otherwise permitted or required by applicable law.
 
-owever, no data transmission over the Internet or other network can be guaranteed to be 100% secure, and no security measures can provide absolute protection. As a result, while we strive to protect information transmitted on or through this Website or the Services, we cannot and do not guarantee the security of any information you transmit on or through this Website or the Services or that you otherwise provide to us, and you do so at your own risk.
+However, no data transmission over the Internet or other network can be guaranteed to be 100% secure, and no security measures can provide absolute protection. As a result, while we strive to protect information transmitted on or through this Website or the Services, we cannot and do not guarantee the security of any information you transmit on or through this Website or the Services or that you otherwise provide to us, and you do so at your own risk.
 
 Links
 
