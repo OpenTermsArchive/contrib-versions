@@ -1,4 +1,4 @@
-Last modified on 06/06/2023
+Last modified on 06/08/2023
 
 **Terms of Service**
 --------------------
@@ -191,7 +191,7 @@ When you are streaming live on the Twitch Services you may not simultaneously li
 
 #### **12\. Advertisements**
 
-Twitch has the exclusive right to monetize the Twitch Services, including without limitation, the exclusive right to sell, serve, and display advertisements on the Twitch Services. This means you may not, nor may you allow a third party to, insert or embed prerecorded advertising units into your live stream, including without limitation video advertisements (whether pre-, mid-, or post-roll); display or “banner” advertisements; and audio advertisements.
+Twitch has the exclusive right to monetize the Twitch Services, including without limitation, the exclusive right to sell, serve, and display advertisements on the Twitch Services. Third-party advertising networks are not allowed to serve advertising through the Twitch Services. However, you can publish Branded Content using the Twitch Services as set forth in Section 9 above.
 
 #### 13\. Respecting Copyright
 
