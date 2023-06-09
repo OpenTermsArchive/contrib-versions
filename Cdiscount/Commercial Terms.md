@@ -1048,7 +1048,7 @@ L’Abonnement au Service permet à l’Abonné :
 
 De bénéficier :
 
-* de la livraison offerte sur les produits éligibles commandés sur le Site (ci-après, les « Produits Eligibles  »), dans les conditions définies à l'article 2.1 ;
+* de la livraison offerte sur les produits éligibles commandés sur le Site (ci-aprés, les « Produits Eligibles  »), dans les conditions définies à l'article 2.1 ;
 
 * de prix réduits sur une sélection de produits ;
 
