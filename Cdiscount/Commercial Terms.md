@@ -680,7 +680,7 @@ b)      **ou en nous retournant, à l’adresse postale indiquée, le formu
 
 En toute hypothèse, nous vous adresserons un accord de retour contenant un numéro de retour et précisant les modalités de retour de votre colis. Nous vous recommandons d’imprimer et de coller ce numéro de retour sur le colis afin de permettre un traitement plus rapide de votre demande.
 
-Vous vous engagez à retourner à CDISCOUNT les produits faisant l'objet d’une rétractation dans les 14 jours calendaires suivants l’envoi de la notification de
+Vous vous engagez à retourner à CDISCOUNT les produits faisant l’objet d’une rétractation dans les 14 jours calendaires suivants l’envoi de la notification de
 
 votre décision de vous rétracter
 
