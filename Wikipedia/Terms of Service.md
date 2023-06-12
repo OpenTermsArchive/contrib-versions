@@ -55,7 +55,7 @@ Other languages:
 * [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/id "Ketentuan Penggunaan Kami (38% translated)")
 * [Bân-lâm-gú](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nan "Sú-iōng tiâu-khuán (11% translated)")
 * [Cymraeg](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cy "Telerau defnydd (5% translated)")
-* [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de "Nutzungsbedingungen (56% translated)")
+* [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de "Nutzungsbedingungen (63% translated)")
 * [Deutsch (Sie-Form)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de-formal "Nutzungsbedingungen (4% translated)")
 * English
 * [Esperanto](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/eo "Niaj uzkondiĉoj (11% translated)")
@@ -87,7 +87,7 @@ Other languages:
 * [français cadien](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/frc "Conditions d’utilisation (4% translated)")
 * [føroyskt](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fo "Treytir fyri nýtslu (6% translated)")
 * [galego](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/gl "Termos de uso (38% translated)")
-* [italiano](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/it "Policy:Terms of Use/it (38% translated)")
+* [italiano](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/it "Policy:Terms of Use/it (39% translated)")
 * [kurdî](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ku "Mercên bikaranînê (4% translated)")
 * [latviešu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lv "Mūsu lietošanas nosacījumi (5% translated)")
 * [lietuvių](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lt "Naudojimo sąlygos (6% translated)")
