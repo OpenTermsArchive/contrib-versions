@@ -178,7 +178,7 @@ Company shall acquire or may in the future acquire the User Information specifie
     2. To provide more personalized content with a higher degree of relevance to Users on the Services
     
       
-    Details are set forth in 14: Use of cookies, advertising identifiers, ID solutions, etc.
+    The detailed policy is outlined in “Article 14. Use of cookies”.
     
     * * *
     
@@ -341,7 +341,7 @@ Article 5. Provision of Personal Information to third parties, etc.
     4. In cases where items delivered to Users are entrusted to delivery service providers; and
     5. In cases where Company’s business is assumed pursuant to a business transfer or the like.
 6. The company may tabulate and analyze Personal Information of individuals, process that information in formats that do not allow for the identification of individuals, and disclose statistical data relating to that information for the purpose of providing statistical data to third parties.
-7. To measure the frequency of use of the Services for the purposes of making improvements to the Services, Company uses external services to collect anonymous traffic data. Individual users cannot be identified through this conduct. Details stated on 14: Use of cookies, advertising identifiers, ID solutions, etc.
+7. To measure the frequency of use of the Services for the purposes of making improvements to the Services, Company uses external services to collect anonymous traffic data. Individual users cannot be identified through this conduct. The detailed policy is outlined in “Article 14. Use of cookies”.
 8. To create anonymously processed information, Company will:
     1. Anonymize appropriately based on laws and regulations
     2. Take security control measure based on laws and regulations to prevent information leakage of data and procedure of anonymizing
@@ -410,177 +410,95 @@ Article 13. Inquiries
 2. Inquiries, complaints, and consultations regarding the disclosure of Personal Information and its correction or deletion from the persons whom the Personal Information concerns and inquiries regarding this Privacy Policy can be made using the following email form.  
     [https://www.pixiv.net/support.php](https://www.pixiv.net/support.php)
 
-Article 14. Use of cookies, advertising identifiers, ID solutions, etc.
------------------------------------------------------------------------
+Article 14. Use of cookies
+--------------------------
 
-When Users access pages while using Services, User cookie information, Advertising Identifier (IDFA) provided by Apple Inc., Advertising ID (AAID) provided by Google Inc., and other such cookies or IDs, etc. published by advertising related companies for the identification of advertisement (“Cookies and Advertising Identifier etc.”) are used to automatically gather information concerning advertisements and pages viewed by the User, applications, the User’s use environment, and other information, and the Cookies and Advertising Identifier etc. are stored on Company’s servers. We may also provide hashed User Information to third parties for use in distributing advertisements. The purpose of this information is not the identification of individuals, but enhancement of the Services and optimization of advertising distribution. The purposes and methods of use are set forth below.
+The Company may use cookies and other similar technology (hereafter referred to as “cookies, etc.”) on our Services in order to gather specific information to improve the usability of the Services for our Users, maintain and improve the quality of the Services, analyze usage patterns on our Services, and other purposes.  
+By using our Services, Users are considered to have consented to the following.
 
-1. Retention of basic settings
-    
-    Cookies are used to retain settings such as User customized displays regarding Services in order to provide more convenient service environments to Users.
-    
-2. Login and account authentication
-    
-    Services use cookies for automatic account authentication. When an individual’s pixiv account is used to login, the Services can be used without the need to input account information when accessing other pages and when logging in for the second and subsequent times.
-    
-3. Determination of use conditions and investigation of service improvements
-    
-    The status of use of Services is determined and analyzed and Google Analytics provided by Google Inc. are used as reference for the provision of services more suitable to individual User interest in needs. Each services' procedures of access information data collection are established by each services' Terms of Use and Privacy Policy.
-    
-    * Google Analytics Terms of Use  
-        [https://marketingplatform.google.com/about/analytics/terms/us/](https://marketingplatform.google.com/about/analytics/terms/us/)
-    * Firebase Terms of Use  
-        [https://firebase.google.com/terms?hl=us](https://firebase.google.com/terms?hl=us)
-    * Google Cloud（BigQuery Terms of Use）  
-        [https://cloud.google.com/terms?hl=us](https://cloud.google.com/terms?hl=us)
-    * Looker Terms of Use  
-        [https://looker.com/trust-center/legal/customers/msa](https://looker.com/trust-center/legal/customers/msa)
-    * Google Privacy Policy  
-        [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
-    * Looker Privacy Policy  
-        [https://looker.com/trust-center/privacy/policy](https://looker.com/trust-center/privacy/policy)
-    * Repro Privacy Policy  
-        [https://repro.io/company/legal/privacy/](https://repro.io/company/legal/privacy/)
-    
-    Google Analytics can be disabled by downloading and installing the Google Analytics Opt-out Browser Add-On from the following website and changing the settings of your browser add-on.
-    
-    * Google Analytics Opt-out Browser Add-on  
-        [https://tools.google.com/dlpage/gaoptout?hl=ja](https://tools.google.com/dlpage/gaoptout?hl=ja)
-4. Hashed User Information
-    
-    Via Amazon Publisher Audiences, hashed data of user email is provided to Amazon, and Amazon may use this data for the purpose of delivering advertisements. Amazon will issue a token based on the hashed data provided, store it in our cookie space, and use it to deliver effective advertisements after analyzing the behavioral history and other data obtained through said token. These data are managed and used under Amazon's privacy policy.
-    
-    Details concerning Amazon’s privacy policy can be found at the following page.
-    
-    * [https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ](https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)
-    
-    The user may suspend the use of the above token by following the procedure below.
-    
-    * [https://www.pixiv.net/optout/](https://www.pixiv.net/optout/)
-5. Implementation of surveys
-    
-    Qualtrics, Google forms, and the like are used to implement surveys on Services. Qualtrics uses cookies that do not include Personal Information. Detailed information regarding Qualtrics cookies can be found in Qualtrics privacy policy on the following page.
-    
-    * Qualtrics  
-        [https://www.qualtrics.com/cookie-statement/](https://www.qualtrics.com/cookie-statement/)
-    * Google  
-        [https://policies.google.com/privacy](https://policies.google.com/privacy)
-6. Display of advertisements
-    
-    Cookies and Advertising Identifier etc. are used to analyze User behavior histories on Services in order to optimize the distribution of advertisements by Company. In some cases, Cookies and Advertising Identifier etc. are used for distribution from Company of targeted advertisements that predict areas of high User interest or preference. In addition, there are instances where Cookies and Advertising Identifier etc. are used to distribute Services targeted advertisements from the third-party servers of third-party companies to which Company has outsourced services. In cases where such third-party companies distribute advertisements by using Cookies and Advertising Identifier etc., the information that is automatically acquired is stored on the third-party company servers and is managed in accordance with the privacy policies of those third-party companies.  
-    The privacy policies of each company and the procedures for disabling targeted advertising can be confirmed on the following pages.
-    
-    * Procedure to disable targeting from the Services  
-        [https://www.pixiv.net/optout/](https://www.pixiv.net/optout/)
-    * Procedure to disable targeting distribution on the iOS application  
-        [https://support.apple.com/ja-jp/HT202074](https://support.apple.com/ja-jp/HT202074)
-    * Procedure to disable targeting distribution on the Android application  
-        [https://support.google.com/googleplay/answer/3405269](https://support.google.com/googleplay/answer/3405269)
-    * DDAI（Date Driven Advertising Initiative）  
-        [http://www.ddai.info/optout](http://www.ddai.info/optout)
-    * YourAdChoices  
-        [http://www.aboutads.info/choices](http://www.aboutads.info/choices)
-    * i-Mobile Co., Ltd.  
-        [https://i-mobile.co.jp/privacy.aspx](https://i-mobile.co.jp/privacy.aspx)
-    * Akinasista Corporation  
-        [http://www.akinasista.co.jp/privacy\_policy/index.php](http://www.akinasista.co.jp/privacy_policy/index.php)
-    * Axel Mark Inc.  
-        [http://www.axelmark.co.jp/privacy](http://www.axelmark.co.jp/privacy)
-    * AppLovin  
-        [https://www.applovin.com/privacy-jp/](https://www.applovin.com/privacy-jp/)
-    * 株式会社アドインテ  
-        [https://adinte.co.jp/privacy/](https://adinte.co.jp/privacy/)
-    * Amazon Japan G.K.  
-        [https://www.amazon.co.jp/gp/help/customer/display.html/ref=hp\_left\_v4\_sib?ie=UTF8&nodeId=201909010](https://www.amazon.co.jp/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=201909010)
-    * InMobi Pte. Ltd.  
-        [https://www.inmobi.com/privacy-policy/](https://www.inmobi.com/privacy-policy/)
-    * SMN株式会社  
-        [https://www.so-netmedia.jp/privacypolicy/](https://www.so-netmedia.jp/privacypolicy/)
-    * OpenX  
-        [http://www.openx.com/about/privacy-policy](http://www.openx.com/about/privacy-policy)
-    * CRITEO K.K.  
-        [https://www.criteo.com/jp/privacy/](https://www.criteo.com/jp/privacy/)
-    * Google Inc.  
-        [https://www.google.com/settings/ads](https://www.google.com/settings/ads)
-    * CyberAgent, Inc.  
-        [http://www.dynalyst.jp/legal/policy/optout.html](http://www.dynalyst.jp/legal/policy/optout.html)
-    * 株式会社Zucks  
-        [https://zucks.co.jp/privacy/](https://zucks.co.jp/privacy/)
-    * SharedID  
-        [http://id.sharedid.org/](http://id.sharedid.org/)
-    * GMO AD Marketing Inc.  
-        [https://www.gmo-am.jp/privacy.html](https://www.gmo-am.jp/privacy.html)
-    * Geniee, Inc.  
-        [https://geniee.co.jp/privacy/](https://geniee.co.jp/privacy/)
-    * Smaato, Inc.  
-        [https://www.smaato.com/privacy/](https://www.smaato.com/privacy/)
-    * Supership Inc.  
-        [http://supership.jp/optout.html](http://supership.jp/optout.html)
-    * The Trade Desk, Inc.  
-        [https://www.thetradedesk.com/us/privacy](https://www.thetradedesk.com/us/privacy)
-    * F@N Communications, Inc.  
-        [https://nend.net/privacy/explainoptout](https://nend.net/privacy/explainoptout)
-    * Bytedance Pte. Ltd.  
-        [https://www.pangleglobal.com/jp/privacy/enduser-ja](https://www.pangleglobal.com/jp/privacy/enduser-ja)
-    * PubMatic, Inc.  
-        [https://pubmatic.com/legal/privacy-policy/](https://pubmatic.com/legal/privacy-policy/)
-    * Fluct, Inc.  
-        [https://corp.fluct.jp/privacy/](https://corp.fluct.jp/privacy/)
-    * Platform One Inc.  
-        [https://www.platform-one.co.jp/optout/](https://www.platform-one.co.jp/optout/)
-    * Boundless株式会社  
-        [https://www.verizonmedia.com/policies/jp/jp/verizonmedia/privacy/index.html](https://www.verizonmedia.com/policies/jp/jp/verizonmedia/privacy/index.html)
-    * MicroAd Inc.  
-        [https://send.microad.jp/w3c/](https://send.microad.jp/w3c/)
-    * Mobfox US LLC  
-        [https://www.mobfox.com/privacy-policy/](https://www.mobfox.com/privacy-policy/)
-    * Yahoo! Japan Corporation  
-        [https://btoptout.yahoo.co.jp/optout/preferences.html](https://btoptout.yahoo.co.jp/optout/preferences.html)  
-        [https://docs.yahoo.co.jp/docs/info/terms/chapter1.html#cf2nd](https://docs.yahoo.co.jp/docs/info/terms/chapter1.html#cf2nd)
-    * United, Inc.  
-        [https://ja.ad-stir.com/sp/optout.html](https://ja.ad-stir.com/sp/optout.html)
-    * LiveRamp, Inc.  
-        [https://liveramp.co.jp/privacy/](https://liveramp.co.jp/privacy/)
-    * LINE株式会社  
-        [https://line.me/ja/terms/policy/](https://line.me/ja/terms/policy/)
-    * Liftoff Mobile, Inc.  
-        [https://liftoff.io/ja/privacy-policy/](https://liftoff.io/ja/privacy-policy/)
-    * Rubicon Project  
-        [https://rubiconproject.com/jp-privacy-policy](https://rubiconproject.com/jp-privacy-policy)
-    * OneSignal  
-        [https://onesignal.com/privacy\_policy](https://onesignal.com/privacy_policy)
-    * GumGum Japan K.K.  
-        [https://www.gumgum.com/terms-and-policies/privacy-policy](https://www.gumgum.com/terms-and-policies/privacy-policy)
-    * UNICORN株式会社  
-        [https://uni-corn.net/privacy.html](https://uni-corn.net/privacy.html)
-    * RTB House Japan株式会社  
-        [https://www.rtbhouse.com/jp/privacy/](https://www.rtbhouse.com/jp/privacy/)
-    * 株式会社FLUX  
-        [https://flux-g.com/privacypolicy/](https://flux-g.com/privacypolicy/)
-    * Index Exchange Inc.  
-        [https://www.indexexchange.com/jp/privacy/](https://www.indexexchange.com/jp/privacy/)
-    * 株式会社フリークアウト  
-        [https://js.fout.jp/info/privacy.html](https://js.fout.jp/info/privacy.html)
-    * Media.net Advertising FZ-LLC  
-        [https://www.media.net/privacy-policy/](https://www.media.net/privacy-policy/)
+### <Use of cookies, etc. for verification purposes>
 
-Artiicle 15. Use of reCAPTCHA Enterprise
-----------------------------------------
+Our Services use cookies for automated account verification. By logging in using a personal pixiv account, Users can browse different pages and use the Services without having to enter their account information a second time.
 
-To protect the Website from spam and the like submitted through online forms, the Website uses the reCAPTCHA Enterprise service provided by Google Inc. The service determines whether the submitting person is a human or a robot, and consequently, Google collects data including IP address for this service. In addition, input data is used by Google for this purpose. In the case of Users in the EU or European Economic Area, IP addresses are anonymized in advance. In the United States, IP addresses are anonymized after transmission to Google.
+### <Use of cookies, etc. for service improvement and analysis purposes>
 
-In order to evaluate the use of the Website by Users, Google uses this information in place of Company. IP addresses collected from customer browsers through the use of the reCAPTCHA Enterprise service are not linked to other data in Google’s possession. Data collection is performed in accordance with Google’s data protection rules.
+The Company collects data such as IP addresses, access history, device and app information, network information, etc. and submits it to a [data analysis services company](https://policies.pixiv.net/en/cookie.html#analysis) for the purpose of improving user experience on our Sites and maintaining and improving the quality of our Services.
 
-Details concerning Google’s privacy policy can be found at the following page.
+If you would like to opt out of this data collection, please check the opt-out page on the relevant company site and “15. Opting out of cookies, etc.” for more information about opting out of cookies.
 
-* [https://www.google.com/intl/ja/policies/privacy/](https://www.google.com/intl/ja/policies/privacy/)
+### <Use of cookies for advertising purposes>
 
-Article 16. Cases where the use of Cookies and Advertising Identifier etc. are not allowed
-------------------------------------------------------------------------------------------
+In order to optimize the distribution of advertising on our Services, the Company analyzes user activity on our Services using cookies, advertising identifiers, hashed user information, access histories, device and app information, network information, and others. This information may be used to help the Company distribute targeted advertising that is more relevant to the interests of our Users.
 
-Users can set whether to allow the use of Cookies and Advertising Identifier etc. In cases where use of Cookies and Advertising Identifier etc. is prohibited, however, it may not be possible to use certain service settings and services that require Cookies and Advertising Identifier etc.
+In addition, the Services may distribute targeted advertising from the servers of a targeted advertising provider under contract with the Company that uses cookies or other advertising identifiers. Any data automatically acquired by such targeted advertising will be recorded on the advertising provider’s servers and managed according to the [advertising provider’s](https://policies.pixiv.net/en/cookie.html#advertisement) privacy policy.
 
-Article 17. Personal Information Handling Business Operator
+To learn more about the privacy policies and opt-out procedures for each company, please check the pages below.
+
+If you would like to opt out of this data collection, please check the opt-out page on the relevant company site and “15. Opting out of cookies, etc.” for more information about opting out of cookies.
+
+### <Use of cookies, etc. to conduct surveys>
+
+When surveys are conducted on the Services, cookies, etc. that do not contain personal information are sent to the [survey service provider](https://policies.pixiv.net/en/cookie.html#survey).  
+If you would like to opt out of this data collection, please check the opt-out page on the relevant company site and “15. Opting out of cookies, etc.” for more information about opting out of cookies.
+
+### <About the use of Google Analytics>
+
+Many of the Company’s web pages use the Google Analytics service, provided by Google Inc., in order to gather data about User activity on the Company’s sites. On Company pages that use Google Analytics, a cookie issued by the Company is used by Google Inc. to gather, record, and analyze data on User site access history. The Company receives the results of these analyses from Google Inc. to gain an understanding of User visits to the site in question. User data gathered, recorded, and analyzed by Google Analytics does not contain any identifying information about specific Users, and does not fall under personal information protected by law. In addition, the information is managed according to Google Inc.’s Privacy Policy.
+
+Users who install the Google Analytics blocker add-on in their browsers can disable the Company’s access to user information gathered for use by Google Analytics. To disable Google Analytics, Users can download and install the “Google Analytics Opt-out Browser Add-on” from the Opt-Out Add-on download page provided by Google Inc., then change their browser settings to enable the add-on. Users who disable Google Analytics also disable the use of Google Analytics on other sites they visit. However, Users may re-enable Google Analytics by changing the add-on settings in their browsers. To learn more about the Google Analytics Terms of Use, please check the Google Analytics site. To learn more about Google Inc.’s Privacy Policy, please check the Google Inc. site.
+
+* Google Analytics Terms of Use:  
+    [https://marketingplatform.google.com/about/analytics/terms/us/](https://marketingplatform.google.com/about/analytics/terms/us/)
+* Google Privacy Policy:  
+    [https://policies.google.com/privacy](https://policies.google.com/privacy)
+* Google Analytics Opt-out Browser Add-on:  
+    [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
+
+### <Use of reCAPTCHA Enterprise>
+
+To protect against spam on our web forms, etc., the Services use the reCAPTCHA Enterprise service provided by Google Inc. The purpose of this service is to distinguish whether a given user is a human being or a robot, and Google gathers various data for this service, including IP addresses. Futhermore, input data is used by Google for the purpose of this service. However, IP addresses in the European Union and European Economic Zone are anonymized before being collected. In the US, IP addresses are anonymized after they are sent to Google.
+
+Google uses information gathered on behalf of the Company in order to evaluate the use of this service by Users. IP addresses gathered by reCAPTCHA Enterprise from Users’ browsers are not associated with other data stored by Google. Data collection is implemented according to Google’s Data Protection Regulation.
+
+For details on Google’s Privacy Policy, please check the URL below.
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+Article 15. Opting out of cookies, etc.
+---------------------------------------
+
+Users may be able to disable cookies at their discretion using the procedures below. Please follow the procedures below to disable cookies.
+
+### (1) Disabling cookies
+
+By adjusting their browser settings, users can disable all cookies. However, disabling cookies may prevent the User from being able to access certain features on the Services. Thank you for your understanding.
+
+To learn more about how to disable cookies on major browsers, please check the relevant link in “14. Use of cookies” or refer to the URLs below.
+
+* Disable targeted advertising on pixiv  
+    [https://www.pixiv.net/optout/](https://www.pixiv.net/optout/)
+* Disable ads with DDAI (Data Driven Advertising Initiative)  
+    [https://www.ddai.info/optout](https://www.ddai.info/optout)
+* Disable ads with YourAdChoices  
+    [http://www.aboutads.info/choices](http://www.aboutads.info/choices)
+
+### (2) Disabling web beacons
+
+Any web beacons included in the Services can also be disabled by the cookie disabling methods listed above. Web beacons included in direct messages or e-mails may be disabled by deactivating downloads of images contained in e-mails. However, this method depends on the e-mail software employed by the User, and may not disable all web beacons. In this case, Users are asked to unsubscribe from newsletters or use the blocking feature to prevent the receival of newsletter emails.
+
+### (3) Disabling cookie, etc. information in the iOS app (disabling targeted ads)
+
+Refer to the procedure in the URL below to disable personalized ads delivered by Apple.
+
+[https://support.apple.com/ja-jp/HT202074](https://support.apple.com/ja-jp/HT202074)
+
+### (4) Advertising ID management methods in the Android app
+
+Google Play has introduced advertising IDs for apps, to allow Google users to control settings related to advertising. Please check the link below to learn more.
+
+[https://support.google.com/googleplay/answer/3405269](https://support.google.com/googleplay/answer/3405269)
+
+Article 16. Personal Information Handling Business Operator
 -----------------------------------------------------------
 
 6th floor, JPR Sendagaya Building, 4-23-5, Sendagaya, Shibuya-ku, Tokyo, 151-0051  
@@ -591,16 +509,19 @@ Supplementary provision
 -----------------------
 
 * These individual terms will come into effect on July 12, 2018.
-* This Privacy Policy also apply to any actions you have taken prior to the enforcement of This Privacy Policy.
+* This Privacy Policy also applies to any actions you have taken prior to the enforcement of This Privacy Policy.
 
-Revision:
----------
+Revision History
+----------------
 
-* July 28, 2022 “Article 3. Information Company acquires and purposes of use (according to each Service)”, “Article 5. Provision of Personal Information to third parties, etc.”, “Article 6. Information which Users input on the relevant screens on the Services when Users use settlement by cards” and “Procedure” of “Article 7. Disclosure, Correction, etc.” have been amended.
-* July 7, 2022 Revised "14 Use of cookies, advertising identifiers, ID solutions, etc.".
-* May 31, 2021 For the purpose of provision of settlement services and optimization of distribution of advertisement, “Article 3. Information Company acquires and purposes of use (according to each Service)”, “Article 5. Provision of Personal Information to third parties, etc.”, “Article 6. Information which Users input on the relevant screens on the Services when Users use settlement by cards”, “Article 14. Use of cookies and Advertising Identifier etc” and “Article 17. Personal Information Handling Business Operator” have been amended or added.
-* December 1, 2020 Due to the termination of the pixiv PAY service, "2. PAY" has been deleted from "2 Individual services" in "3. Information Company acquires and purposes of use (according to each Service)".
-* March 30, 2020 Modified overall Terms of Use as Master Terms of Use and related Individual Terms of Use
-* April 18, 2019 Added reCAPTCHA to Article 11 "Use of Cookies etc." to understand usage for reCAPTCHA use , and for service improvement update
-* September 12, 2018 Added company names and links to Display of Advertisements on Article 11 "Use of Cookies etc."
-* May 16, 2018 Added Article 12 regarding the recommended function in Article 2 "Terms of Use" based on General Data Protection Regulation by European Union. Modified to detailed procedures and disabling methods of data use (of login, data use, advertisements etc.) on Article 11 "Use of Cookies etc."
+| Revision date | Content of revision |
+| --- | --- |
+| June 13th, 2023 | Revised “Article 14. Use of cookies, advertising identifiers, ID solutions, etc.” in accordance with the updated Telecommunications Business Act (Japanese law), regarding external disclosure of information. |
+| July 28th, 2022 | Revised “procedures and methods” for “Article 3. Information the Company acquires and purposes of use”, “Article 5. Provision of Personal Information to third parties, etc.”, “Article 6. Information input by Users for the purposes of credit card payments on the Services”, and “Article 7. Disclosure, Correction, etc.”. |
+| July 7th, 2022 | Revised “Article 14. Use of cookies, advertising identifiers, ID solutions, etc.”. |
+| May 31st, 2021 | To optimize payment options and advertising distribution, revised and added elements to the following: “Article 3. Information the Company acquires and purposes of use”, “Article 5. Provision of Personal Information to third parties, etc.”, “Article 6. Information input by Users for the purposes of credit card payments on the Services”, “13. Use of cookies, advertising identifiers, ID solutions, etc.”, and “Article 17. Personal Information Handling Business Operator”. |
+| December 1st, 2020 | In accordance with the retiring of the pixivPAY service, removed “2. Pay” from “2. Individual services” under “Article 3. Information the Company acquires and purposes of use (according to each Service)”. |
+| March 30th, 2020 | Revised all Individual Terms of Use to be in accordance with the revisions to the pixiv Inc. Service Master Terms of Use. |
+| April 18th, 2019 | Updated usage status verification and service improvement inquiries related to the use of reCAPTCHA by adding reCAPTCHA to “Article 13. Use of cookies, advertising identifiers, ID solutions, etc.”. |
+| September 12th, 2018 | Updated company information in accordance with the addition of company advertising: addition of company name and link to company advertisements falling under “Article 13. Use of cookies, advertising identifiers, ID solutions, etc.”. |
+| May 16th, 2018 | In accordance with the enactment of the European Union General Data Protection Regulation (GDPR), revised “Article 13. Use of cookies, advertising identifiers, ID solutions, etc.” to give a clearer explanation of the purpose of data use (login, usage status, advertising, etc.) and more clearly explain data use methods, invalidation procedures, etc. |
