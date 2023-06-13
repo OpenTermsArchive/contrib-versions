@@ -3,7 +3,7 @@ End User License Agreement
 
 ![Benoit](https://files.helpdocs.io/n0njida9x8/other/1574088362284/03-mg-1925-1.jpg)
 
-Updated 2023-01-31T10:25:10Z by Benoit
+Updated 2023-06-13T14:59:45Z by Benoit
 
 The Yuka App is managed by the company Yuca SAS (hereafter “Yuca”), located at 14 rue de Turbigo 75001 Paris, France (R.C.S. Paris no. 817 769 466)
 
@@ -39,7 +39,7 @@ The following terms have the definitions given:
 
 ### Purpose
 
-The main purpose of the App is to inform consumers about the ingredients of commonly sold food and cosmetic products.
+﻿The main objective of the App is to raise consumer awareness of the composition of food and cosmetic products, while at the same time acting as a lever to encourage companies to improve the quality of their products.
 
 The App offers a scoring and recommendation system that analyzes information provided by the products' makers.
 
@@ -170,4 +170,4 @@ US Users : Each party specifically waives any right to trial by jury in any cour
 
 ![Benoit](https://files.helpdocs.io/n0njida9x8/other/1574088362284/03-mg-1925-1.jpg)
 
-Updated 2023-01-31T10:25:10Z by Benoit
+Updated 2023-06-13T14:59:45Z by Benoit
