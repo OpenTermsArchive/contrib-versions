@@ -34,7 +34,7 @@ General
 * [What links here](https://foundation.wikimedia.org/wiki/Special:WhatLinksHere/Policy:Terms_of_Use "A list of all wiki pages that link here [j]")
 * [Related changes](https://foundation.wikimedia.org/wiki/Special:RecentChangesLinked/Policy:Terms_of_Use "Recent changes in pages linked from this page [k]")
 * [Special pages](https://foundation.wikimedia.org/wiki/Special:SpecialPages "A list of all special pages [q]")
-* [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=260800 "Permanent link to this revision of this page")
+* [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=264842 "Permanent link to this revision of this page")
 * [Page information](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=info "More information about this page")
 
 Print/export
@@ -52,102 +52,102 @@ From Wikimedia Foundation Governance Wiki
 Other languages:
 
 * [Afrikaans](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/af "Ons Gebruikstermrces (4% translated)")
-* [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/id "Ketentuan Penggunaan Kami (38% translated)")
-* [Bân-lâm-gú](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nan "Sú-iōng tiâu-khuán (11% translated)")
+* [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/id "Ketentuan Penggunaan Kami (37% translated)")
+* [Bân-lâm-gú](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nan "Sú-iōng tiâu-khuán (10% translated)")
 * [Cymraeg](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cy "Telerau defnydd (5% translated)")
-* [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de "Nutzungsbedingungen (100% translated)")
+* [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de "Nutzungsbedingungen (98% translated)")
 * [Deutsch (Sie-Form)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de-formal "Nutzungsbedingungen (4% translated)")
 * English
-* [Esperanto](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/eo "Niaj uzkondiĉoj (11% translated)")
+* [Esperanto](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/eo "Niaj uzkondiĉoj (10% translated)")
 * [Fulfulde](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ff "Policy:Terms of Use/ff (5% translated)")
 * [Hausa](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ha "Fassara: Dokoki: Kaidojin anfani/bayyanar da shafuka/ha
     Dokoki: Ka'idojin anfani (1% translated)")
 * [Kreyòl ayisyen](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ht "Kondisyon itilizasyon (3% translated)")
 * [Latina](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/la "conditionem úimo (1% translated)")
 * [Lëtzebuergesch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lb "Konditioune fir d'Benotzenfr (4% translated)")
-* [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nl "Gebruiksvoorwaarden (39% translated)")
+* [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nl "Gebruiksvoorwaarden (37% translated)")
 * [Qaraqalpaqsha](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/kaa "Paydalanıw shártleri (1% translated)")
 * [Ripoarisch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ksh "Bedengonge för der Jebruch (17% translated)")
 * [Runa Simi](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/qu "Q'apinapa kamachikuna (5% translated)")
 * [Schweizer Hochdeutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de-ch "Nutzungsbedingungen (1% translated)")
-* [Scots](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sco "Terms o uise (4% translated)")
+* [Scots](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sco "Terms o uise (3% translated)")
 * [Sunda](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/su "Sarat pamakéan (6% translated)")
 * [Tagalog](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tl "Takdang gamit (9% translated)")
-* [Tiếng Việt](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/vi "Điều khoản Sử dụng (48% translated)")
+* [Tiếng Việt](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/vi "Điều khoản Sử dụng (67% translated)")
 * [Türkçe](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tr "Kullanım şartları (44% translated)")
 * [Zazaki](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/diq "Şerte karkerdışi (10% translated)")
-* [asturianu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ast "Términos d'usu (38% translated)")
+* [asturianu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ast "Términos d'usu (37% translated)")
 * [azərbaycanca](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/az "İstifadə Şərtləri (7% translated)")
-* [bosanski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bs "Uslovi korištenja (4% translated)")
-* [català](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ca "Policy:Terms of Use/ca (37% translated)")
-* [dansk](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/da "Brugsbetingelser (39% translated)")
-* [español](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es "Términos y condiciones de uso (41% translated)")
+* [bosanski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bs "Uslovi korištenja (3% translated)")
+* [català](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ca "Policy:Terms of Use/ca (36% translated)")
+* [dansk](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/da "Brugsbetingelser (37% translated)")
+* [español](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es "Términos y condiciones de uso (39% translated)")
 * [euskara](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/eu "Erabilera baldintzak (8% translated)")
-* [français](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr "Politique:Conditions d’utilisation (99% translated)")
-* [français cadien](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/frc "Conditions d’utilisation (4% translated)")
+* [français](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr "Politique:Conditions d’utilisation (92% translated)")
+* [français cadien](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/frc "Conditions d’utilisation (3% translated)")
 * [føroyskt](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fo "Treytir fyri nýtslu (6% translated)")
-* [galego](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/gl "Termos de uso (38% translated)")
-* [italiano](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/it "Policy:Terms of Use/it (39% translated)")
-* [kurdî](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ku "Mercên bikaranînê (4% translated)")
+* [galego](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/gl "Termos de uso (37% translated)")
+* [italiano](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/it "Policy:Terms of Use/it (38% translated)")
+* [kurdî](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ku "Mercên bikaranînê (3% translated)")
 * [latviešu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lv "Mūsu lietošanas nosacījumi (5% translated)")
 * [lietuvių](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lt "Naudojimo sąlygos (6% translated)")
-* [magyar](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hu "Felhasználási feltételek (40% translated)")
-* [norsk bokmål](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nb "Bruksbetingelser (27% translated)")
+* [magyar](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hu "Felhasználási feltételek (39% translated)")
+* [norsk bokmål](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nb "Bruksbetingelser (26% translated)")
 * [occitan](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/oc "Condicions d’utilizacion (10% translated)")
-* [polski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pl "Zasady:Warunki korzystania (47% translated)")
-* [português](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pt "Termos de utilização (39% translated)")
-* [português do Brasil](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pt-br "Termos e condições de uso (39% translated)")
-* [română](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ro "Termeni de utilizare (39% translated)")
+* [polski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pl "Zasady:Warunki korzystania (45% translated)")
+* [português](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pt "Termos de utilização (37% translated)")
+* [português do Brasil](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pt-br "Termos e condições de uso (37% translated)")
+* [română](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ro "Termeni de utilizare (38% translated)")
 * [sardu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sc "Cunditziones de impreu (3% translated)")
 * [shqip](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sq "Kushtet e përdorimit (1% translated)")
 * [slovenčina](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sk "Podmienky používania (1% translated)")
 * [slovenščina](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sl "Pogoji uporabe (14% translated)")
-* [suomi](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fi "Policy:Terms of Use/fi (38% translated)")
+* [suomi](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fi "Policy:Terms of Use/fi (37% translated)")
 * [svenska](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sv "Användarvillkor (4% translated)")
 * [vèneto](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/vec "Tèrmini d'uxo (4% translated)")
-* [čeština](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cs "Policy:Podmínky používání (39% translated)")
-* [Ελληνικά](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/el "Policy:Terms of Use/el (38% translated)")
+* [čeština](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cs "Policy:Podmínky používání (37% translated)")
+* [Ελληνικά](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/el "Policy:Terms of Use/el (37% translated)")
 * [башҡортса](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ba "Ҡулланыу шарттары (6% translated)")
-* [беларуская](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/be "Умовы Выкарыстання (15% translated)")
-* [беларуская (тарашкевіца)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/be-tarask "Умовы выкарыстаньня (39% translated)")
-* [български](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bg "Условия за ползване (39% translated)")
+* [беларуская](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/be "Умовы Выкарыстання (14% translated)")
+* [беларуская (тарашкевіца)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/be-tarask "Умовы выкарыстаньня (37% translated)")
+* [български](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bg "Условия за ползване (37% translated)")
 * [гӀалгӀай](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/inh "Пайда эцара бехкамаш (1% translated)")
 * [кыргызча](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ky "Колдонуу шарттары (1% translated)")
-* [македонски](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mk "Услови на употреба (38% translated)")
+* [македонски](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mk "Услови на употреба (37% translated)")
 * [нохчийн](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ce "Лелоран хьал (1% translated)")
-* [русский](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru "Условия использования (61% translated)")
+* [русский](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru "Условия использования (58% translated)")
 * [српски / srpski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sr "Услови коришћења (17% translated)")
 * [тоҷикӣ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tg "Қоидаҳои истифода (3% translated)")
-* [українська](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/uk "Політика:Умови використання (39% translated)")
+* [українська](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/uk "Політика:Умови використання (37% translated)")
 * [հայերեն](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hy "Օգտագործման պայմաններ (11% translated)")
-* [ייִדיש](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/yi "תנאים פון באניץ (4% translated)")
-* [עברית](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/he "Policy:Terms of Use/he (38% translated)")
-* [اردو](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ur "شرائط استعمال (4% translated)")
-* [العربية](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ar "سياسة: شروط الاستخدام (85% translated)")
+* [ייִדיש](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/yi "תנאים פון באניץ (3% translated)")
+* [עברית](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/he "Policy:Terms of Use/he (37% translated)")
+* [اردو](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ur "شرائط استعمال (3% translated)")
+* [العربية](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ar "سياسة: شروط الاستخدام (79% translated)")
 * [فارسی](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fa "شرایط استفاده (19% translated)")
 * [مصرى](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/arz "شروط الاستخدام (1% translated)")
-* [پښتو](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ps "د کارولو شرطونه (11% translated)")
+* [پښتو](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ps "د کارولو شرطونه (10% translated)")
 * [کوردی](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ckb "Policy:Terms of Use (3% translated)")
 * [ܐܪܡܝܐ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/arc "ܬܢܘܝ̈ ܕܡܬܚܫܚܢܘܬܐ (1% translated)")
 * [नेपाली](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ne "प्रयोगका शर्तहरु (2% translated)")
-* [मराठी](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mr "वापराच्या अटी (19% translated)")
-* [हिन्दी](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hi "सेवा शर्तें (22% translated)")
+* [मराठी](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mr "वापराच्या अटी (18% translated)")
+* [हिन्दी](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hi "सेवा शर्तें (97% translated)")
 * [অসমীয়া](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/as "ব্যৱহাৰৰ চৰ্তাৱলী (1% translated)")
 * [বাংলা](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bn "ব্যবহারের শর্তাবলী (16% translated)")
-* [ਪੰਜਾਬੀ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pa "ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ (15% translated)")
+* [ਪੰਜਾਬੀ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pa "ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ (14% translated)")
 * [ગુજરાતી](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/gu "વપરાશની શરતો (8% translated)")
 * [தமிழ்](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ta "பயன்படுத்தல் விதிமுறைகள் (7% translated)")
-* [తెలుగు](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/te "విధానం:వినియోగ నిబంధనలు (91% translated)")
-* [മലയാളം](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ml "Policy:Terms of Use/ml (37% translated)")
-* [ไทย](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/th "ข้อกำหนดการใช้งาน (41% translated)")
+* [తెలుగు](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/te "విధానం:వినియోగ నిబంధనలు (84% translated)")
+* [മലയാളം](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ml "Policy:Terms of Use/ml (36% translated)")
+* [ไทย](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/th "ข้อกำหนดการใช้งาน (39% translated)")
 * [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/my "မြန်မာဘာသာပြောင်းမည် (1% translated)")
-* [ქართული](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ka "გამოყენების პირობები (39% translated)")
+* [ქართული](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ka "გამოყენების პირობები (37% translated)")
 * [ភាសាខ្មែរ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/km "លក្ខខណ្ឌ​ក្នុងការ​ប្រើប្រាស់ (6% translated)")
 * [中文](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh "使用条款 - 概述 (4% translated)")
-* [中文（简体）](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh-hans "使用条款 (29% translated)")
-* [中文（繁體）](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh-hant "使用條款 (39% translated)")
-* [日本語](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja "方針:利用規約 (40% translated)")
-* [한국어](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ko "이용 약관 (51% translated)")
+* [中文（简体）](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh-hans "使用条款 (28% translated)")
+* [中文（繁體）](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh-hant "使用條款 (37% translated)")
+* [日本語](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja "方針:利用規約 (48% translated)")
+* [한국어](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ko "이용 약관 (48% translated)")
 
 **Want to help translate? [Translate the missing messages](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=agg-Terms_of_Use&filter=%21translated&action=page&language=).**
 
@@ -257,7 +257,7 @@ Certain activities, whether legal or illegal under the applicable law, may be ha
 
 **Paid Contributions Without Disclosure**
 
-* You must disclose each and any employer, client, intended beneficiary and affiliation with respect to any contribution for which you receive, or expect to receive, compensation. You must make that disclosure in at least one of the following ways:
+\*You must disclose each and any employer, client, intended beneficiary and affiliation with respect to any contribution for which you receive, or expect to receive, compensation. You must make that disclosure in at least one of the following ways:
 
 * a statement on your user page,
 * a statement on the talk page accompanying any paid contributions, or
@@ -303,12 +303,12 @@ You agree to the following licensing requirements:
     1. Through hyperlink (where possible) or URL to the article to which you contributed (since each article has a history page that lists all contributors, authors and editors);
     2. Through hyperlink (where possible) or URL to an alternative, stable online copy that is freely accessible, which conforms with the relevant license, and which provides credit to the authors in a manner equivalent to the credit given on the Project Website; or
     3. Through a list of all authors (but please note that any list of authors may be filtered to exclude very small or irrelevant contributions).
-3. **Importing text:** You may import text that you have found elsewhere or that you have co-authored with others, but in such case you represent and warrant that the text is available under terms that are compatible with CC BY-SA (or, as explained above, another license when exceptionally required by the Project edition or feature). For a list of compatible licenses, see [Creative Commons](https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses/). You shall not import content that is available solely under GFDL.
-  
-You agree that, if you import text under a CC license that requires attribution, you must credit the author(s) in a reasonable fashion. Where such credit is commonly given through page histories (such as Wikimedia-internal copying), it is sufficient to give attribution in the edit summary, which is recorded in the page history, when importing the text. The attribution requirements are sometimes too intrusive for particular circumstances (regardless of the license), and there may be instances where the Wikimedia community decides that imported text cannot be used for that reason.5. **Non-text media:** Non-text media on the Projects are available under a variety of different licenses that support the general goal of allowing unrestricted reuse and redistribution. When you contribute non-text media, you agree to comply with the requirements for such licenses as described in our [Licensing Policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Resolution:Licensing_policy "Special:MyLanguage/Resolution:Licensing policy"), and also comply with the requirements of the specific Project edition or feature to which you are contributing. Also see the [Wikimedia Commons Licensing Policy](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing "c:Special:MyLanguage/Commons:Licensing") for more information on contributing non-text media to Wikimedia Commons.
-6. **No revocation of license:** Except as consistent with your license, you agree that you will not unilaterally revoke or seek invalidation of any license that you have granted under these Terms of Use for text content or non-text media contributed to the Projects or features, even if you terminate use of our services.
-7. **Public domain content:** Content that is in the public domain is welcome. It is important however that you confirm the public domain status of the content under the law of the United States of America as well as the laws of any other countries as required by the specific Project edition. When you contribute content that is in the public domain, you warrant that the material is actually in the public domain, and you agree to label it appropriately.
-8. **Re-use:** Reuse of content that we host is welcome, though exceptions exist for content contributed under "fair use" or similar exemptions under applicable copyright law. Any reuse must comply with the underlying license(s).  
+3. **Importing text:** You may import text that you have found elsewhere or that you have co-authored with others, but in such case you represent and warrant that the text is available under terms that are compatible with CC BY-SA (or, as explained above, another license when exceptionally required by the Project edition or feature). For a list of compatible licenses, see [Creative Commons](https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses/). You shall not import content that is available solely under GFDL.  
+    You agree that, if you import text under a CC license that requires attribution, you must credit the author(s) in a reasonable fashion. Where such credit is commonly given through page histories (such as Wikimedia-internal copying), it is sufficient to give attribution in the edit summary, which is recorded in the page history, when importing the text. The attribution requirements are sometimes too intrusive for particular circumstances (regardless of the license), and there may be instances where the Wikimedia community decides that imported text cannot be used for that reason.
+4. **Non-text media:** Non-text media on the Projects are available under a variety of different licenses that support the general goal of allowing unrestricted reuse and redistribution. When you contribute non-text media, you agree to comply with the requirements for such licenses as described in our [Licensing Policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Resolution:Licensing_policy "Special:MyLanguage/Resolution:Licensing policy"), and also comply with the requirements of the specific Project edition or feature to which you are contributing. Also see the [Wikimedia Commons Licensing Policy](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing "c:Special:MyLanguage/Commons:Licensing") for more information on contributing non-text media to Wikimedia Commons.
+5. **No revocation of license:** Except as consistent with your license, you agree that you will not unilaterally revoke or seek invalidation of any license that you have granted under these Terms of Use for text content or non-text media contributed to the Projects or features, even if you terminate use of our services.
+6. **Public domain content:** Content that is in the public domain is welcome. It is important however that you confirm the public domain status of the content under the law of the United States of America as well as the laws of any other countries as required by the specific Project edition. When you contribute content that is in the public domain, you warrant that the material is actually in the public domain, and you agree to label it appropriately.
+7. **Re-use:** Reuse of content that we host is welcome, though exceptions exist for content contributed under "fair use" or similar exemptions under applicable copyright law. Any reuse must comply with the underlying license(s).  
     When you reuse or redistribute a text page developed by the Wikimedia community, you agree to attribute the authors in any of the following fashions:
     
     1. Through hyperlink (where possible) or URL to the page or pages that you are reusing (since each page has a history page that lists all contributors, authors and editors);
@@ -320,7 +320,7 @@ You agree that, if you import text under a CC license that requires attribution,
     In addition, please be aware that text that originated from external sources and was imported into a Project may be under a license that attaches additional attribution requirements. Users agree to indicate these additional attribution requirements clearly. Depending on the Project, such requirements may appear, for example, in a banner or other notations pointing out that some or all of the content was originally published elsewhere. Where there are such visible notations, reusers should preserve them.
     
     For any non-text media, you agree to comply with the applicable license under which the work has been made available (which can be discovered by clicking on the work and looking at the licensing section on its description page or reviewing an applicable source page for that work). When reusing any content that we host, you agree to comply with the relevant attribution requirements as they pertain to the underlying license or licenses.
-9. **Modifications or additions to material that you reuse:** When modifying or making additions to text that you have obtained from a Project Website, you agree to license the modified or added content under CC BY-SA 4.0 or later (or, as explained above, another license when exceptionally required by the specific Project edition or feature).  
+8. **Modifications or additions to material that you reuse:** When modifying or making additions to text that you have obtained from a Project Website, you agree to license the modified or added content under CC BY-SA 4.0 or later (or, as explained above, another license when exceptionally required by the specific Project edition or feature).  
     When modifying or making additions to any non-text media that you have obtained from a Project website, you agree to license the modified or added content in accordance with whatever license under which the work has been made available.  
     With both text content and non-text media, you agree to clearly indicate that the original work has been modified. If you are reusing text content in a wiki, it is sufficient to indicate in the page history that you made a change to the imported text. For each copy or modified version that you distribute, you agree to include a licensing notice stating which license the work is released under, along with either a hyperlink or URL to the text of the license or a copy of the license itself.
 
@@ -332,8 +332,6 @@ The Wikimedia Foundation wants to ensure that the content that we host can be re
 However, we also recognize that not every takedown notice is valid or in good faith. In such cases, we strongly encourage users to file counter-notifications when they appropriately believe a DMCA takedown demand is invalid or improper. For more information on what to do if you think a DMCA notice has been improperly filed, you may wish to consult the [Lumen Database](https://lumendatabase.org/) website.
 
 If you are the owner of content that is being improperly used on one of the Projects without your permission, you may request that the content be removed by filing a notice under the DMCA. To make such a request, please email us at legal![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/15px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)org or [snail mail our designated agent](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:DMCA_takedowns "Special:MyLanguage/Legal:DMCA takedowns").
-
-If you are the owner of content that is being improperly used on one of the Projects without your permission, you may request that the content be removed under the DMCA. To make such a request, please email us at `legal`![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/15px-At_sign.svg.png)`wikimedia.org` or snail mail our designated agent at this [address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:DMCA_takedowns "Special:MyLanguage/Legal:DMCA takedowns").
 
 Alternatively, you may make a request to our community, which often handles copyright issues faster and more effectively than the process prescribed under the DMCA. In that case, you can post a notice explaining your copyright concerns. For a non-exhaustive and non-authoritative list of the relevant processes for the different Project editions, [visit the Copyright Problems page](https://meta.wikimedia.org/wiki/Copyright_problems "m:Copyright problems"). Before filing a DMCA claim, you also have the option of sending an email to the community at info![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/15px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)org.
 
@@ -400,9 +398,7 @@ We hope that no serious disagreements arise involving you, but, in the event the
 
 To ensure that disputes are dealt with soon after they arise, you agree that regardless of any statute or law to the contrary, any claim or cause of action you might have arising out of or related to use of our services or these Terms of Use must be filed within the applicable statute of limitations or, if earlier, one (1) year after the pertinent facts underlying such claim or cause of action could have been discovered with reasonable diligence (or be forever barred).
 
-**Marketing Company Mediations**
-
-As described in section 4 of these Terms of Use, you agree to resolve violations of the Paid Contributions without Disclosure in a Marketing Company Mediation at the Foundation's discretion. Marketing Company Mediations are **binding** mediations where, at the end of either a half or full day session, any disputed items that remain unresolved will be decided by the mediator in a legally binding decision. They will be conducted in meetings by teleconference or videoconference. If an in-person meeting is required, then the Marketing Company Mediation will take place in San Francisco County, California. The parties will split all fees and expenses related to the mediation/arbitration equally.
+**Marketing Company Mediations** As described in section 4 of these Terms of Use, you agree to resolve violations of the Paid Contributions without Disclosure in a Marketing Company Mediation at the Foundation's discretion. Marketing Company Mediations are **binding** mediations where, at the end of either a half or full day session, any disputed items that remain unresolved will be decided by the mediator in a legally binding decision. They will be conducted in meetings by teleconference or videoconference. If an in-person meeting is required, then the Marketing Company Mediation will take place in San Francisco County, California. The parties will split all fees and expenses related to the mediation/arbitration equally.
 
 You agree, as part of a Marketing Company Mediation, to cooperate with the Foundation, including by timely providing any documentation in your possession relating to your undisclosed paid editing activities including the accounts used, articles affected, and clients who purchased such services.
 
@@ -465,7 +461,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 * **[Terms of Use (2014-2023)](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=98524): effective from June 16, 2014 until June 7, 2023**
 * **[Terms of Use (2012-2014)](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=82013): effective from May 24, 2012 until June 16, 2014**
-* **[Terms of Use (2009)](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Archive:Terms_of_Use_(2009) "Special:MyLanguage/Archive:Terms of Use (2009)"): effective from 2009 until May 24, 2012.**
+* **[Terms of Use (2009)](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Archive:Terms_of_Use_(2009) "Special:MyLanguage/Archive:Terms of Use (2009)"): effective from 2009 until May 24, 2012**
 
 * * *
 
@@ -473,7 +469,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 ![](//foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=260800](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=260800)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=264842](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=264842)"
 
 [Categories](https://foundation.wikimedia.org/wiki/Special:Categories "Special:Categories"):
 
