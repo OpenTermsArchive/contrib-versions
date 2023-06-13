@@ -3,7 +3,7 @@ Terms of Service
 
 These are the terms of service for sr.ht; please read them before using sr.ht.
 
-If you have any questions, please reach out to Drew DeVault [sir@cmpwn.com](mailto:sir@cmpwn.com) via email.
+If you have any questions, please reach out to [sr.ht-support](mailto:/~sircmpwn/sr.ht-support@lists.sr.ht) via email.
 
 ##### tl;dr
 
@@ -67,7 +67,7 @@ _"Free software" and "open source" licenses (defined respectively by the Free So
 
 _You are encouraged to add a free software license to your project. [Read our recommendations here](https://man.sr.ht/license.md)._
 
-You may request an archive of all of your content on the service by writing an email to Drew DeVault [sir@cmpwn.com](mailto:sir@cmpwn.com) and allowing up to 2 weeks for an archive to be prepared.
+You may request an archive of all of your content on the service by writing an email to [sr.ht-support](mailto:/~sircmpwn/sr.ht-support@lists.sr.ht) and allowing up to 2 weeks for an archive to be prepared.
 
 ##### Service availability
 
