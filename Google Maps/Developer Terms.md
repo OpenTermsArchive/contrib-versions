@@ -111,6 +111,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Main Roads Western Australia (AU): [https://www.mainroads.wa.gov.au/](https://www.mainroads.wa.gov.au/)
             
+        * ACTmapi (AU): [https://actmapi-actgov.opendata.arcgis.com/datasets/ACTGOV::actgov-road-centrelines/explore](https://actmapi-actgov.opendata.arcgis.com/datasets/ACTGOV::actgov-road-centrelines/explore)
+            
     3. **Austria**
         * BEV - BA fuer Eich und Vermessungswesen (Geocodes) © Österreichisches Adressregister, 2009. You are not permitted, at any one time, to use Austrian Postal Data to provide, display or provide access to mass downloads or bulk feeds of numerical latitude and longitude coordinates.
             
@@ -787,6 +789,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * GOVDATA – Das Datenportal für Deutschland (DE): [https://fbinter.stadt-berlin.de/fb/berlin/service\_intern.jsp?id=s\_atkis\_AX\_strassenachse\_l@senstadt&type=WFS](https://fbinter.stadt-berlin.de/fb/berlin/service_intern.jsp?id=s_atkis_AX_strassenachse_l@senstadt&type=WFS)
             
         * Bayerische Vermessungsverwaltung (DE): [https://geodaten.bayern.de/opengeodata/OpenDataDetail.html](https://geodaten.bayern.de/opengeodata/OpenDataDetail.html)
+            
+        * Landesamt für Geobasisinformation Sachsen (GeoSN) (DE): [http://www.landesvermessung.sachsen.de/benutzungshinweise-5557.html](http://www.landesvermessung.sachsen.de/benutzungshinweise-5557.html)
+            
+        * GDI-SH (DE): [https://geodaten.schleswig-holstein.de/gaialight-sh/\_apps/dladownload/index.php](https://geodaten.schleswig-holstein.de/gaialight-sh/_apps/dladownload/index.php)
             
     19. **Great Britain**
         * This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
