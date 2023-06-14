@@ -2,7 +2,7 @@ Conditions Générales de Vente Veepee
 
 
 
-Version au 1 févr. 2023
+Version au 6 juin. 2023
 
 
 
@@ -280,7 +280,7 @@ Membres depuis le Site Veepee.
 
 Les CGV Veepee ne régissent pas la vente des offres Voyage, Rosedeal,
 
-Brandsplace, Marketplace de Veepee, \& Re-Cycle.
+Brandsplace (la Marketplace de Veepee), \& Re-Cycle.
 
 
 
@@ -1316,7 +1316,157 @@ financement :0€
 
 
 
-11.3 Facturation
+11.3 Paiement en 3 fois avec KLARNA BANK
+
+
+
+Klarna Bank propose une solution de financement dénommée « Payer plus tard en
+
+3 fois », qui permet au Membre de payer ses achats de 70€ à 1500€ en 3 fois sans
+
+frais avec sa carte de paiement sur les ventes signalées dans la Fiche Descriptive
+
+(hors Voyage, Loisir, Billetterie, Ventes de boissons alcoolisées, Ventes dont le
+
+paiement n’est pas réalisé sur le Site Veepee ou produits vendus par un vendeur
+
+Tiers.
+
+
+
+Conformément à la règlementation en vigueur, Vente-Privee.com ne perçoit pas
+
+de rémunération de la part des Membres au titre de cette solution de paiement.
+
+
+
+Klarna Bank AB (publ) est une société de droit suédois enregistrée auprès de
+
+l’Office suédois d’enregistrement des sociétés. Son numéro d’organisation est
+
+556737-0431. Klarna Bank AB (publ) est autorisée à fournir des services financiers
+
+par Finansinspektionen (l’Autorité suédoise de surveillance financière). Klarna Bank
+
+AB (publ) a établi une succursale en France qui est immatriculée auprès du
+
+registre du commerce et des sociétés (RCS) sous le numéro 819 701 988.
+
+
+
+11.3.1 Conditions
+
+
+
+Le Membre s’engage à utiliser sa propre carte de paiement de débit ou de crédit
+
+valide pour payer sa commande (les cartes prépayées ne sont pas acceptées). Le
+
+Membre doit avoir plus de 18 ans, résider en France métropolitaine et être capable
+
+de conclure un contrat juridique ayant force obligatoire.
+
+
+
+Le premier paiement est prélevé lors de la validation du placement de la
+
+Commande et l’acceptation des conditions générales d’utilisation Klarna Bank, et
+
+les deux (2) paiements suivants sont automatiquement prélevés 30 et 60 jours
+
+après le premier paiement initial. Klarna Bank communiquera au Membre par voie
+
+électronique les dates des deux échéances restantes. Cet échéancier sera
+
+également consultable dans l’application Klarna Bank.
+
+
+
+Aucun frais ni intérêts ne s’appliqueront à l’achat avec la solution « Payer plus tard
+
+en 3 fois » tant que le Membre respecte l’échéancier de paiement automatique. Si
+
+toutefois, le Membre se trouvait en situation de retard de paiement, Klarna Bank se
+
+réserve le droit de prélever des frais de retard.
+
+
+
+Tout versement manqué, frais de retard compris, seront reportés à la prochaine
+
+date d’échéance prévue.
+
+
+
+Si le Membre annule sa Commande ou retourne ses Produits issus de la
+
+Commande Veepee, Klarna Bank renoncera automatiquement au montant dû par
+
+la Membre (dès que l’annulation ou le retour du (des) Produit(s) aura été confirmé
+
+par Veepee). Si le Membre a déjà payé pour une commande annulée ou
+
+retournée, Klarna Bank lui remboursera le montant qui a été réglé.
+
+
+
+En cas de questions sur la qualité ou l’envoi de sa Commande, le Membre devra en
+
+priorité contacter le Service Relations Membre Veepee.
+
+
+
+11.3.2 Conditions particulières
+
+
+
+L’émetteur de la carte de paiement utilisée par le Membre peut entraîner la
+
+facturation d’intérêts ou de frais selon les termes de l’accord conclu entre
+
+l’établissement bancaire et le Membre. En cas de questions sur ces intérêts ou frais,
+
+le Membre est invité à contacter directement l’établissement bancaire ayant émis
+
+sa carte de paiement.
+
+Le Membre donne à Klarna Bank le pouvoir de prélever les deux (2) paiements
+
+restants sur sa carte de paiement bancaire aux dates d’échéances sans autre
+
+préavis.
+
+
+
+En acceptant les conditions générales d'utilisations de Klarna Bank, le Membre
+
+demande expressément à ce que ce contrat soit exécuté immédiatement sans
+
+attendre l’expiration du délai de droit de rétractation (voir ci-dessous «droit de
+
+rétractation »).
+
+
+
+En application de l’article L. 312-4 du Code de la Consommation, « Payer plus tard
+
+en 3 fois » n’est pas régi par le chapitre 2 « Crédit Consommation » du Code de la
+
+Consommation. Par conséquent, le Membre reconnaît et accepte que « Payer plus
+
+tard en 3 fois » est exclu de l’application du régime français du crédit à la
+
+consommation.
+
+
+
+Pour plus d’informations sur le service proposé par Klarna Bank, voir :
+
+https://cdn.klarna.com/1.0/shared/content/legal/terms/0/fr_fr/paylaterin3
+
+
+
+11.4 Facturation
 
 
 
@@ -1344,6 +1494,8 @@ confidentialité et l'intégrité des données des cartes bancaires des Membres,
 
 saisie au traitement du paiement.
 
+
+
 Les coordonnées de carte bancaire peuvent également être sauvegardées de
 
 façon sécurisée pour être utilisées lors de commandes ultérieures. Ces
@@ -1369,8 +1521,6 @@ Article 13 – Livraison
 
 
 Les produits seront envoyés à l’adresse de livraison indiquée par le Membre.
-
-
 
 Il est précisé que, pour des raisons techniques et logistiques, le Membre ne pourra
 
@@ -1624,6 +1774,8 @@ Commande concernée) / « Je n’ai pas encore reçu ma colis » de son compte
 
 Veepee.
 
+
+
 13.8 Mise à disposition des billets de spectacle et d'événements
 
 
@@ -1704,6 +1856,8 @@ en cas d’annulation ou de report d’un spectacle (ou d’un événement). Les
 
 l'organisateur
 
+
+
 Article 14 – Garanties
 
 
@@ -1725,8 +1879,6 @@ cachés prévue par les articles 1641 et suivants du Code Civil. Ces garanties l
 s’appliquent indépendamment de l’éventuelle garantie commerciale que pourrait
 
 consentir le fabricant.
-
-
 
 14.1.1 Garantie légale de conformité des produits et biens comportant des éléments
 
@@ -1789,6 +1941,8 @@ impose le remplacement, la garantie légale de conformité est renouvelée
 pour une période de deux(2) ans à compter de la date de remplacement
 
 du produit.
+
+
 
 Le Membre peut obtenir une réduction du prix d'achat en conservant le produit
 
@@ -1866,6 +2020,8 @@ Questions relatives à mes commandes » (en sélectionnant la Commande
 
 concernée) / « Un de mes produits est défaillant, que dois-je faire ? »
 
+
+
 14.1.2 Garantie légale de conformité des contenus et services numériques fournis
 
 de manière ponctuelle
@@ -1883,8 +2039,6 @@ Durant un délai d'un an(1) à compter de la date de fourniture, le Membre n'est
 tenu d'établir que l'existence du défaut de conformité et non la date d'apparition
 
 de celui-ci.
-
-
 
 La garantie légale de conformité emporte obligation de fournir toutes les mises à
 
@@ -1947,6 +2101,8 @@ numérique au préalable.
 Dans les cas où le défaut de conformité est mineur, le Membre n'a droit à
 
 l'annulation du contrat que si le contrat ne prévoit pas le paiement d'un prix.
+
+
 
 Toute période d'indisponibilité du contenu numérique ou du service numérique
 
@@ -2046,8 +2202,6 @@ de demander la mise en conformité du contenu numérique ou du service
 
 numérique au préalable.
 
-
-
 Dans les cas où le défaut de conformité est mineur, le Membre n'a droit à
 
 l'annulation du contrat que si le contrat ne prévoit pas le paiement d'un prix.
@@ -2108,6 +2262,8 @@ numérique ou au service numérique pour les contenus et services
 
 numériques.
 
+
+
 Le Membre doit apporter la preuve de l’existence du vice, par tout moyen, à savoir
 
 que :
@@ -2127,8 +2283,6 @@ fortement.
 L’application de la garantie légale des vices cachés peut être refusée dans les cas
 
 suivants :
-
-
 
 ● Le Membre ne prouve pas les trois conditions listées ci-dessus ;
 
@@ -2198,6 +2352,8 @@ défaillant, que dois-je faire ? »
 
 \- 91853 ORSAY CEDEX
 
+
+
 14.3.2 Mise en œuvre de la garantie commerciale
 
 
@@ -2215,8 +2371,6 @@ fabricant d’appliquer sa garantie.
 
 
 14.4 Exclusion de garanties
-
-
 
 Sont exclus des garanties les produits modifiés, réparés, intégrés ou ajoutés par le
 
@@ -2286,6 +2440,8 @@ droits, consultez la Politique de Confidentialité et Protection de la Vie Priv�
 
 Vente-Privee.com.
 
+
+
 Article 17 – Liste d’opposition au démarchage téléphonique
 
 
@@ -2307,8 +2463,6 @@ Ainsi, chaque Membre dispose du droit de s’inscrire sur la liste d’oppositio
 démarchage téléphonique Bloctel conformément aux dispositions de l’article
 
 L223-2 du Code de la consommation.
-
-
 
 Article 18 – Loi applicable et résolution des litiges
 
@@ -2403,7 +2557,5 @@ plateforme de résolution des litiges mise en ligne par la Commission Européenn
 en cliquant ici. La Commission Européenne transférera la réclamation du Membre
 
 aux médiateurs nationaux compétents notifiés.
-
-
 
 18.4 A défaut, les tribunaux français seront seuls compétents.
