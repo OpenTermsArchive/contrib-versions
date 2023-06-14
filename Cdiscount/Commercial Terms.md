@@ -1431,7 +1431,7 @@ Le montant du crédit auquel donne droit une Offre Site est précisé sur la fic
 
 Avant l’écoulement de ces périodes, le montant à créditer sera affiché comme étant « En attente » dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté ».
 
-Il est également précisé, concernant les Offre Site, qu’en cas de commande contenant plusieurs Produits éligibles au Privilège, le total du crédit auquel donne droit cette commande sera cumulé sur la Cagnotte à l’issue d'un délai maximum de trente (30) jours ouvrés à compter de la livraison du dernier Produit éligible de la commande.
+Il est également précisé, concernant les Offre Site, qu’en cas de commande contenant plusieurs Produits éligibles au Privilège, le total du crédit auquel donne droit cette commande sera cumulé sur la Cagnotte à l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du dernier Produit éligible de la commande.
 
 A l’issue de ce délai maximum de trente (30) jours ouvrés, le montant ainsi crédité sur la Cagnotte sera affiché comme étant « Actif » dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté » (ci-après le **« Solde de la Cagnotte** ».
 
