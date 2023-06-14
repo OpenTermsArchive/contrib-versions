@@ -138,7 +138,7 @@ Other languages:
 * [ਪੰਜਾਬੀ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pa "ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ (14% translated)")
 * [ગુજરાતી](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/gu "વપરાશની શરતો (8% translated)")
 * [தமிழ்](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ta "பயன்படுத்தல் விதிமுறைகள் (7% translated)")
-* [తెలుగు](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/te "విధానం:వినియోగ నిబంధనలు (84% translated)")
+* [తెలుగు](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/te "విధానం:వినియోగ నిబంధనలు (100% translated)")
 * [മലയാളം](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ml "Policy:Terms of Use/ml (36% translated)")
 * [ไทย](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/th "ข้อกำหนดการใช้งาน (39% translated)")
 * [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/my "မြန်မာဘာသာပြောင်းမည် (1% translated)")
