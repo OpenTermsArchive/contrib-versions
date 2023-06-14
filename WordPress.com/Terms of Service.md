@@ -1,7 +1,7 @@
 Terms of Service
 ----------------
 
-_Last Updated: June 12, 2023_
+_Last Updated: June 4, 2023_
 
 The Gist
 --------
