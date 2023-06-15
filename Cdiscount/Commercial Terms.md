@@ -1,8 +1,6 @@
 _Mon espace client PREAMBULE GENERAL_
 -------------------------------------
 
-  
-  
 Ce site est opéré  par :  
   
 CDISCOUNT  
@@ -11,15 +9,9 @@ Immatriculée au RCS Bordeaux n° B 424 059 822
 Représentée par M. Thomas METIVIER , en qualité de Directeur Général  
 Siège social : 120-126 Quai de Bacalan - 33000 Bordeaux (siège administratif uniquement, aucun colis ne doit être retourné à cette adresse)  
   
-Le site cdiscount.com propose une offre réservée aux personnes physiques agissant en qualité de consommateurs et une offre réservée aux clients professionnels, à savoir toutes personnes physiques ou morales agissant à des fins qui entrent dans le cadre de leur activité professionnelle.  
+Le site cdiscount.com propose une offre réservée aux personnes physiques agissant en qualité de consommateurs.   
   
-Toute commande passée à distance par une personne physique agissant en qualité de consommateur est régie par les "Conditions générales de vente – Client consommateur", disponibles immédiatement après. Un client consommateur ne peut donc se prévaloir des stipulations contenues dans les "Conditions générales de vente – Client professionnel".  
-  
-Toute commande passée par un client professionnel est régie par les "Conditions générales de vente – Client professionnel ", disponibles plus bas. Un client professionnel ne peut donc se prévaloir des stipulations contenues dans les "Conditions générales de vente – Client consommateur".  
-  
-  
-  
-  
+Toute commande passée à distance par une personne physique agissant en qualité de consommateur est régie par les "Conditions générales de vente – Client consommateur", disponibles immédiatement après. 
 
 _PREAMBULE  Modalités de contact_
 ---------------------------------
@@ -1048,7 +1040,7 @@ L’Abonnement au Service permet à l’Abonné :
 
 De bénéficier :
 
-* de la livraison offerte sur les produits éligibles commandés sur le Site (ci-aprés, les « Produits Eligibles  »), dans les conditions définies à l'article 2.1 ;
+* de la livraison offerte sur les produits éligibles commandés sur le Site (ci-après, les « Produits Eligibles  »), dans les conditions définies à l'article 2.1 ;
 
 * de prix réduits sur une sélection de produits ;
 
