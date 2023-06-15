@@ -345,7 +345,7 @@ You may submit a privacy rights request to us by:
   
 
 * Using the privacy rights request options available in the Settings menu of your app (available to app users only) or in the cookie preferences center in your web browser (available to web users only on our sites)
-* Completing this form 
+* Completing [this form](#dsar) 
 * Emailing us at privacy@weheartit.com 
 
   
@@ -354,7 +354,7 @@ To exercise the Right to Opt Out, in addition to contacting us using the above i
 
   
 
-DO NOT SELL OR SHARE MY PERSONAL INFORMATION
+[DO NOT SELL OR SHARE MY PERSONAL INFORMATION](#dsar)
 
   
 
@@ -455,4 +455,4 @@ If you have any questions about this Privacy Policy or if you would like us to d
 
   
 
-If you would like to submit a data request under CPRA or GDPR, please complete this form, or manage your preferences in the Privacy Center in your app or browser.
+If you would like to submit a data request under CPRA or GDPR, please complete [this form](#dsar), or manage your preferences in the Privacy Center in your app or browser.
