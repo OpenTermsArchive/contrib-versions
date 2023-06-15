@@ -34,7 +34,7 @@ General
 * [What links here](https://foundation.wikimedia.org/wiki/Special:WhatLinksHere/Policy:Terms_of_Use "A list of all wiki pages that link here [j]")
 * [Related changes](https://foundation.wikimedia.org/wiki/Special:RecentChangesLinked/Policy:Terms_of_Use "Recent changes in pages linked from this page [k]")
 * [Special pages](https://foundation.wikimedia.org/wiki/Special:SpecialPages "A list of all special pages [q]")
-* [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=265879 "Permanent link to this revision of this page")
+* [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=267246 "Permanent link to this revision of this page")
 * [Page information](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=info "More information about this page")
 
 Print/export
@@ -96,7 +96,7 @@ Other languages:
 * [occitan](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/oc "Condicions d’utilizacion (10% translated)")
 * [polski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pl "Zasady:Warunki korzystania (45% translated)")
 * [português](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pt "Termos de utilização (37% translated)")
-* [português do Brasil](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pt-br "Termos e condições de uso (75% translated)")
+* [português do Brasil](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pt-br "Termos e condições de uso (99% translated)")
 * [română](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ro "Termeni de utilizare (38% translated)")
 * [sardu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sc "Cunditziones de impreu (3% translated)")
 * [shqip](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sq "Kushtet e përdorimit (1% translated)")
@@ -124,7 +124,7 @@ Other languages:
 * [ייִדיש](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/yi "תנאים פון באניץ (3% translated)")
 * [עברית](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/he "Policy:Terms of Use/he (37% translated)")
 * [اردو](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ur "شرائط استعمال (3% translated)")
-* [العربية](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ar "سياسة: شروط الاستخدام (79% translated)")
+* [العربية](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ar "سياسة: شروط الاستخدام (82% translated)")
 * [فارسی](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fa "شرایط استفاده (19% translated)")
 * [مصرى](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/arz "شروط الاستخدام (1% translated)")
 * [پښتو](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ps "د کارولو شرطونه (10% translated)")
@@ -383,7 +383,7 @@ The Wikimedia Foundation Board of Trustees [releases official policies](https://
 12\. API Terms
 --------------
 
-We make available a set of APIs, which include documentation and associated tools, to enable users to build products that promote free knowledge. By using our APIs, you agree to abide by all applicable policies governing the use of the APIs, which include but are not limited to the [User-Agent Policy](https://meta.wikimedia.org/wiki/Special:MyLanguage/User-Agent_policy "meta:Special:MyLanguage/User-Agent policy"), the [Robot Policy](https://wikitech.wikimedia.org/wiki/Robot_Policy "wikitech:Robot Policy"), and the [API:Etiquette](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Etiquette "mw:Special:MyLanguage/API:Etiquette") (collectively, "API Documentation"), which are incorporated into these Terms of Use by reference.
+We make available a set of APIs, which include documentation and associated tools, to enable users to build products that promote free knowledge. By using our APIs, you agree to abide by all applicable policies governing the use of the APIs, which include but are not limited to the [User-Agent Policy](https://meta.wikimedia.org/wiki/Special:MyLanguage/User-Agent_policy "meta:Special:MyLanguage/User-Agent policy"), the [Robot Policy](https://wikitech.wikimedia.org/wiki/Robot_policy "wikitech:Robot policy"), and the [API:Etiquette](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Etiquette "mw:Special:MyLanguage/API:Etiquette") (collectively, "API Documentation"), which are incorporated into these Terms of Use by reference.
 
 13\. Termination
 ----------------
@@ -470,7 +470,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 ![](//foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=265879](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=265879)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=267246](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=267246)"
 
 [Categories](https://foundation.wikimedia.org/wiki/Special:Categories "Special:Categories"):
 
