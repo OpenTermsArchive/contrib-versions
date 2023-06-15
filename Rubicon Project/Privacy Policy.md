@@ -3,6 +3,9 @@ Advertising Technology Privacy Policy
 
 Last Updated: September 13, 2022
 
+[Our new privacy policy is effective July 1, 2023.](https://www.magnite.com/legal/advertising-platform-privacy-policy/)
+-----------------------------------------------------------------------------------------------------------------------
+
 **Table of Contents** **:**  
 [About Us](#About-us)  
 [Information We Collect](#Information-We-Collect)  
