@@ -326,6 +326,12 @@ Please note that your objection to processing (or withdrawal of any previously g
 
 California residents can exercise their "Do Not Sell My Personal Information" rights under the California Consumer Privacy Act (CCPA) by clicking [here](#).
 
+Do you have JavaScript turned off? Sorry, but this form won’t work without it.
+
+**Enter your email address** to be added to O’Reilly’s “Do Not Sell” list. 
+
+Submit
+
 **Thanks. You have been added to the list.**
 
 To opt out of advertising cookies, please consult the list of cookies and instructions [here](https://www.oreilly.com/privacy-cookies.html).
