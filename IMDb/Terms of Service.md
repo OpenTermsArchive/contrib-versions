@@ -41,13 +41,9 @@ If you use any IMDb Service, you are responsible for maintaining the confidentia
 
 ### Reviews, Comments, Communications, and Other Content
 
-Visitors may post reviews, comments, and other content; and submit suggestions, ideas, comments, questions, or other information, so long as the content is not illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights, or otherwise injurious to third parties or objectionable and does not consist of or contain software viruses, political campaigning, commercial solicitation, chain letters, mass mailings, or any form of "spam." You may not use a false e-mail address, impersonate any person or entity, or otherwise mislead as to the origin of your content. IMDb reserves the right (but not the obligation) to remove or edit such content, but does not regularly review posted content.
+Visitors may post reviews, comments, and other content; and submit suggestions, ideas, comments, questions, or other information, so long as the content is not illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights, or otherwise injurious to third parties or objectionable, is not created by generative AI, and does not consist of or contain software viruses, political campaigning, commercial solicitation, chain letters, mass mailings, or any form of "spam." You may not use a false e-mail address, impersonate any person or entity, or otherwise mislead as to the origin of your content. IMDb reserves the right (but not the obligation) to remove or edit such content, but does not regularly review posted content.
 
 **Your License to IMDb:** If you do post content or submit material, and unless we indicate otherwise, you grant IMDb a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such content throughout the world in any media. You grant IMDb and its sublicensees the right to use the name that you submit in connection with such content, if they choose. You represent and warrant that you own or otherwise control all of the rights to the content that you post; that the content is accurate; that use of the content you supply does not violate this policy and will not cause injury to any person or entity; and that you will indemnify IMDb for all claims resulting from content you supply. IMDb has the right but not the obligation to monitor and edit or remove any activity or content. IMDb takes no responsibility and assumes no liability for any content posted by you or any third party. If you would like to learn more about how we handle content that you submit, please review our [Privacy Notice](https://www.imdb.com/privacy?ref_=cou_7).
-
-### IMDb TV
-
-By viewing content on IMDb TV, you agree to the [Amazon Prime Video Terms of Use](https://www.primevideo.com/help?nodeId=202095490&view-type=content-only).
 
 ### Copyright Complaints
 
@@ -69,6 +65,8 @@ IMDb's Copyright Agent for notice of copyright infringement on it site can be re
 > phone (206) 266-4064  
 > fax (206) 266-7010  
 > email: [copyright@imdb.com](mailto:copyright@imdb.com)
+
+  
 
 In appropriate circumstances, IMDb will terminate the accounts of account holders who are repeat infringers.
 
@@ -98,7 +96,7 @@ Any dispute or claim relating in any way to your use of any IMDb Service, or any
 
 ### Site Policies, Modification, and Severability
 
-Please review our other policies. These policies also govern your use of IMDb Services. We reserve the right to make changes to our site, policies, and these our site, policies, Terms, and these Conditions of Use at any time. If any of these conditions shall be deemed invalid, void, or for any reason unenforceable, that condition shall be deemed severable and shall not affect the validity and enforceability of any remaining condition.
+Please review our other policies. These policies also govern your  use of IMDb Services. We reserve the right to make changes to our site, policies, Service Terms, and these Conditions of Use at any time. If any of these conditions shall be deemed invalid, void, or for any reason unenforceable, that condition shall be deemed severable and shall not affect the validity and enforceability of any remaining condition.  
 
 ### Our Address
 
@@ -108,12 +106,11 @@ Please review our other policies. These policies also govern your use of IMDb Se
 > `[http://www.imdb.com/](http://www.imdb.com/?ref_=cou_9)`
 
   
-  
-  
-
-Additional IMDb Software Terms
 
   
+  
+  
+Additional IMDb Software Terms  
 
 1. **Use of the IMDb Software**. You may use the IMDb Software only in connection with the IMDb Services. You may not separate any individual component of the IMDb Software for use other than in connection with the IMDb Services, incorporate any portion of it into your own programs or compile any portion of it in combination with your own programs, transfer it for use with another service, use it, or any portion of it, over a network, or sell, rent, lease, lend, loan, distribute or sub-license the IMDb Software or otherwise assign any rights to the IMDb Software in whole or in part. You may not use the IMDb Software for any illegal purpose. We may discontinue some or all of any IMDb Software we provide, and we may terminate your right to use any IMDb Software at any time and in such event may modify it to make it inoperable. Your rights to use the IMDb Software will automatically terminate without notice from us if you fail to comply with any of these terms. Additional third party terms contained within or distributed with certain IMDb Software that are specifically identified in related documentation may apply to that IMDb Software and will govern the use of that IMDb Software in the event of a conflict with these Conditions of Use.
 2. **Use of Third Party Services**. When you use the IMDb Software, you may also be using the services of one or more third parties, such as a wireless carrier or a mobile platform provider. Your use of these third party services may be subject to the separate policies, terms of use, and fees of these third parties.
