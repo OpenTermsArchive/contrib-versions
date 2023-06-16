@@ -35,93 +35,102 @@ If you received an email with any of the following advertising policy violations
 Animal Cruelty
 --------------
 
-Advocating towards animal cruelty for entertainment value, (e.g., dog fighting) 
+ ![Ex.png](/hc/article_attachments/16812940336269) Advocating towards animal cruelty for entertainment value, (e.g., dog fighting) 
 
-Any event which promotes cruelty toward animals
+ ![Ex.png](/hc/article_attachments/16812940336269) Any event which promotes cruelty toward animals
 
-Selling or promoting products obtained from threatened species, (e.g., elephant ivory)
+ ![Ex.png](/hc/article_attachments/16812940336269) Selling or promoting products obtained from threatened species, (e.g., elephant ivory)
 
-Blogs or forums offering information on how to obtain products from threatened species 
+ ![Ex.png](/hc/article_attachments/16812940336269) Blogs or forums offering information on how to obtain products from threatened species 
+
+Content Not Suitable for General Audiences
+------------------------------------------
+
+![Ex.png](https://lh6.googleusercontent.com/MsNIzXjWYVZSt9U0iFV_H4nJxSEqdSg3FS7noVxOWZgbAN87SbLJPgANGr4l9_-KvqzcJwsl10sm_IyoYYZM94a4nIvXBmyWM5GZoSf3Hs3wpJn8GAJV0w_9ppSS9Dj_T-ufo8OGT84xauXjY4FN_ok) Products that use profanity
+
+![Ex.png](https://lh6.googleusercontent.com/MsNIzXjWYVZSt9U0iFV_H4nJxSEqdSg3FS7noVxOWZgbAN87SbLJPgANGr4l9_-KvqzcJwsl10sm_IyoYYZM94a4nIvXBmyWM5GZoSf3Hs3wpJn8GAJV0w_9ppSS9Dj_T-ufo8OGT84xauXjY4FN_ok) Products that contain references to adult themes including sexual content, drugs, gambling, or alcohol consumption
+
+⚠️  Services that are only indended for adult audiences
 
 Discriminatory Practices
 ------------------------
 
 AdRoll will not approve any websites that support or encourage discrimination or hateful content of any kind. Content that promotes mistreatment, intolerance, or disparaging of a person, group, or concept is strictly prohibited. Examples include, but are not limited to discrimination on the basis of:
 
-Racial or ethnic origin
+ ![Ex.png](/hc/article_attachments/16812940336269) Racial or ethnic origin
 
-Age
+ ![Ex.png](/hc/article_attachments/16812940336269) Age
 
-Nationality 
+ ![Ex.png](/hc/article_attachments/16812940336269) Nationality 
 
-Religion
+ ![Ex.png](/hc/article_attachments/16812940336269) Religion
 
-Disability
+ ![Ex.png](/hc/article_attachments/16812940336269) Disability
 
-Veteran status
+ ![Ex.png](/hc/article_attachments/16812940336269) Veteran status
 
-Political status
+ ![Ex.png](/hc/article_attachments/16812940336269) Political status
 
-Gender
+ ![Ex.png](/hc/article_attachments/16812940336269) Gender
 
-Gender identity 
+ ![Ex.png](/hc/article_attachments/16812940336269) Gender identity 
 
-Sexual orientation 
+ ![Ex.png](/hc/article_attachments/16812940336269) Sexual orientation 
 
 Further examples of discriminatory content include: 
 
-Hate groups
+ ![Ex.png](/hc/article_attachments/16812940336269) Hate groups
 
-Hate group paraphernalia
+ ![Ex.png](/hc/article_attachments/16812940336269) Hate group paraphernalia
 
-Content that intimidates another individual or group of individuals  
+ ![Ex.png](/hc/article_attachments/16812940336269) Content that intimidates another individual or group of individuals  
 
-Content that threatens harm or exploitation to others 
+ ![Ex.png](/hc/article_attachments/16812940336269) Content that threatens harm or exploitation to others 
 
-Content that supports the exploitation of others
+ ![Ex.png](/hc/article_attachments/16812940336269) Content that supports the exploitation of others
 
-Content promoting any type of self-harm, such as suicide or anorexia
+ ![Ex.png](/hc/article_attachments/16812940336269) Content promoting any type of self-harm, such as suicide or anorexia
 
- Content that promotes violence against another individual or group of individuals
+ ![Ex.png](/hc/article_attachments/16812940336269) Content that promotes violence against another individual or group of individuals
 
-Content that promotes blackmail
+ ![Ex.png](/hc/article_attachments/16812940336269) Content that promotes blackmail
 
 Sensitive Events
 ----------------
 
-Lacking remorse or sensitivity towards a shocking or tragic event
+ ![Ex.png](/hc/article_attachments/16812940336269) Lacking remorse or sensitivity towards a shocking or tragic event
 
-  Lacking remorse or sensitivity toward a natural disaster
+  ![Ex.png](/hc/article_attachments/16812940336269)  Lacking remorse or sensitivity toward a natural disaster
 
-Lacking remorse or sensitivity towards a death
+ ![Ex.png](/hc/article_attachments/16812940336269) Lacking remorse or sensitivity towards a death
 
- Trying to profit or gain from a shocking event with no distinguishable advantage to the victims
+ ![Ex.png](/hc/article_attachments/16812940336269) Trying to profit or gain from a shocking event with no distinguishable advantage to the victims
 
 Violence and Shocking Content
 -----------------------------
 
-Gory content, (e.g., a car crash)
+ ![Ex.png](/hc/article_attachments/16812940336269) Gory content, (e.g., a car crash)
 
-Sensational content
+ ![Ex.png](/hc/article_attachments/16812940336269) Sensational content
 
-Violence, (e.g., an ad with a gun pointed at the user)
+ ![Ex.png](/hc/article_attachments/16812940336269) Violence, (e.g., an ad with a gun pointed at the user)
 
-Violent or offensive language
+ ![Ex.png](/hc/article_attachments/16812940336269) Violent or offensive language
 
-Variations and misspellings of offensive language
+ ![Ex.png](/hc/article_attachments/16812940336269) Variations and misspellings of offensive language
 
-Physical trauma
+ ![Ex.png](/hc/article_attachments/16812940336269) Physical trauma
 
-Crime scene or accident photos
+ ![Ex.png](/hc/article_attachments/16812940336269) Crime scene or accident photos
 
-Images of needles or injections 
+ ![Ex.png](/hc/article_attachments/16812940336269) Images of needles or injections 
 
-Excessive use of blood
+ ![Ex.png](/hc/article_attachments/16812940336269) Excessive use of blood
 
-Human or animal waste
+ ![Ex.png](/hc/article_attachments/16812940336269) Human or animal waste
 
-Content that suggests an individual may be at risk of harm or in danger
+ ![Ex.png](/hc/article_attachments/16812940336269) Content that suggests an individual may be at risk of harm or in danger
 
-Content that suggests an individual may be infected with a disease
+ ![Ex.png](/hc/article_attachments/16812940336269) Content that suggests an individual may be infected with a disease
 
-Content that suggests an individual may be the victim of a conspiracy
+ ![Ex.png](/hc/article_attachments/16812940336269) Content that suggests an individual may be the victim of a conspiracy
