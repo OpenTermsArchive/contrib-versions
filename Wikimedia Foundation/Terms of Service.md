@@ -91,7 +91,7 @@ Other languages:
 * [kurdî](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ku "Mercên bikaranînê (3% translated)")
 * [latviešu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lv "Mūsu lietošanas nosacījumi (5% translated)")
 * [lietuvių](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lt "Naudojimo sąlygos (6% translated)")
-* [magyar](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hu "Felhasználási feltételek (39% translated)")
+* [magyar](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hu "Felhasználási feltételek (41% translated)")
 * [norsk bokmål](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nb "Bruksbetingelser (26% translated)")
 * [occitan](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/oc "Condicions d’utilizacion (10% translated)")
 * [polski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pl "Zasady:Warunki korzystania (45% translated)")
