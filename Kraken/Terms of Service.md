@@ -6,11 +6,10 @@
     Our products and services are provided through local operating entities that are subsidiaries of Payward, Inc. Except for (a) Services provided in Annex C are provided by Payward Commercial Ltd; (b) Services provided in Annex B, Annex D, Annex G, and Section 7.11 (unless you reside in the United States or Australia) are provided by Payward Trading Limited; and, (c) Services provided in Annex H for any Kraken Account denominated in United Arab Emirates dirham (“AED”) are provided by Payward MENA; your sole and exclusive counterparty to these Terms is as follows:
     
     1. If you reside in Australia - Bit Trade Pty Limited, Unit 610, 478 George Street, Sydney, NSW 2000, Australia.
-    2. If you reside in Canada - Payward Canada Inc., 1100-1959 Upper Water Street, Halifax, NS B3J 3N2, Canada.
-    3. If you reside in the UK - Payward Ltd., 6th Floor, One London Wall, London, EC2Y 5EB, United Kingdom.
-    4. If you reside in the United States - Payward Ventures, Inc., 100 Pine St., Suite 1250, Office 6, PMB A188, San Francisco, CA 94111, USA.
-    5. If you reside in Italy - Payward Europe Solutions Limited, Italian Branch,  21 Via San Marco, Milan, MI, 20121, Italy (for VASP Services). Otherwise if you reside in the European Economic Area - Payward International Markets Limited, Trinity Chambers, PO BOX 4301, Road Town, Tortola, British Virgin Islands.
-    6. If you reside in any other country not set forth in 1.1-1.5 above (other than Japan, in which case, you have been provided with a separate terms of service that is applicable to you) - Payward Trading Ltd., c/o SHRM Trustees (BVI) Limited, Trinity Chambers, Ora et Labora Building, Road Town, Tortola, VG1110, British Virgin Islands.
+    2. If you reside in the UK - Payward Ltd., 6th Floor, One London Wall, London, EC2Y 5EB, United Kingdom.
+    3. If you reside in the United States - Payward Ventures, Inc., 100 Pine St., Suite 1250, Office 6, PMB A188, San Francisco, CA 94111, USA.
+    4. If you reside in Italy - Payward Europe Solutions Limited, Italian Branch,  21 Via San Marco, Milan, MI, 20121, Italy (for VASP Services). Otherwise if you reside in the European Economic Area - Payward International Markets Limited, Trinity Chambers, PO BOX 4301, Road Town, Tortola, British Virgin Islands.
+    5. If you reside in any other country not set forth in 1.1-1.5 above (other than Canada, in which case the [Canadian Terms of Service](https://www.kraken.com/legal/ca-terms) are applicable to you, and Japan, in which case,  the [Japan Terms of Service](https://blog.kraken.com/terms-of-services-japan/) are applicable to you) - Payward Trading Ltd., c/o SHRM Trustees (BVI) Limited, Trinity Chambers, Ora et Labora Building, Road Town, Tortola, VG1110, British Virgin Islands.
     
     * ### Key Definitions
         
