@@ -151,6 +151,7 @@ Consumer
 * [### Google Pixel Watch](https://support.google.com/googlepixelwatch/?hl=en-GB)
 * [### Google Wallet](https://support.google.com/wallet/?hl=en-GB)
 * [### AR](https://support.google.com/ar/?hl=en-GB)
+* [### Google Pixel Tablet](https://support.google.com/googlepixeltablet/?hl=en-GB)
 
 Business
 --------
