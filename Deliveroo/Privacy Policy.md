@@ -93,8 +93,8 @@ See more
 
 We update this privacy policy from time to time, so remember to check back in every so often, in case anything has changed and, where appropriate, we may notify you of the changes, for example by email or push notification.
 
-This privacy policy was last published on: 19 January 2023
+This privacy policy was last published on: 20 June 2023
 
-**Deliveroo Ireland Limited**, 15 Flemmings Place, Dublin 4, D04 P6W3, Ireland
+**Deliveroo Ireland Limited**, 2 Dublin Landings North Dock Dublin 1 Ireland
 
 **Roofoods Ltd**, The River Building, 1 Cousin Lane, London, EC4R 3TE, United Kingdom
