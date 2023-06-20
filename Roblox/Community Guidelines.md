@@ -36,7 +36,9 @@ Roblox Community Standards
 
 Roblox’s mission is to connect a billion people with optimism and civility. Every day, tens of millions of people around the world have fun with friends as they explore millions of immersive digital experiences. All of these experiences are built by the Roblox community, made up of millions of creators. We believe in building a safe, civil, and diverse community—one that inspires and fosters creativity and positive relationships between people around the world.
 
-We’ve created these Community Standards to help ensure that everyone feels safe and welcome in our shared adventure. These Standards apply to all of your actions on Roblox and with other Robloxians, both online and at real-world events hosted by Roblox. We ask that you respect our Standards and each other at all times — and understand that violating them may result in enforcement action against your account(s) and content. For some behavior that violates these Standards, such as behavior that poses a real-world risk to others, we reserve the right to contact or cooperate with the relevant authorities in order to keep everyone safe.
+We’ve created these Community Standards to help ensure that everyone feels safe and welcome in our shared adventure. These Standards apply to all of your actions on Roblox and with other Robloxians, both online and at real-world events hosted by Roblox. For 17+ experiences, please see [Roblox’s 17+ Policy Standards](https://en.help.roblox.com/hc/en-us/articles/15869919570708).
+
+We ask that you respect our Standards and each other at all times — and understand that violating them may result in enforcement action against your account(s) and content. For some behavior that violates these Standards, such as behavior that poses a real-world risk to others, we reserve the right to contact or cooperate with the relevant authorities in order to keep everyone safe.
 
 We’re always learning, so as our community evolves and our platform grows, these Standards may change too. When they do, we’ll let you know [here](https://corp.roblox.com/safety-civility-resources/). If you see something that you think violates the Community Standards, or otherwise makes you feel unsafe, please let us know by using the [Report Abuse](https://en.help.roblox.com/hc/articles/203312410) feature. For more information about the legal terms that govern your use of Roblox, head over to our [Terms of Use](https://en.help.roblox.com/hc/articles/115004647846).
 
@@ -160,7 +162,7 @@ We prohibit users from discussing, depicting, or promoting illegal and some regu
 * On-platform contests where Robux or anything else of value is offered as a prize
 * Sweepstakes-style games
 
-Except where prohibited by local law or regulation, we allow the portrayal of gambling in experiences. However, no real money, Robux, or in-experience items of value may be exchanged in connection with any gambling activities.
+Except where prohibited by local law or regulation, we allow unplayable gambling content (e.g., showing a casino or non-playable characters playing cards) as well as games of luck and chance that are not casino or gambling based. However, experiences that include simulated gambling, including playing with virtual chips, simulated betting, or exchanging real money, Robux, or in-experience items of value are not allowed.
 
 If you or someone you know is struggling with substance abuse, help is available. You can start [here](https://www.samhsa.gov/public-messages).
 
@@ -201,10 +203,10 @@ We don’t permit users to deploy or discuss deceptive schemes or methods of che
 
 Spam
 
-Roblox prohibits content that is shared repeatedly and disruptively, or in an effort to mislead users anywhere on the platform. This includes:
+Roblox prohibits disrupting or misleading others on the platform. This includes:
 
-* Deceptive, sensational, or otherwise misleading content used to drive traffic to a particular experience
-* Repetitive, large-volume messaging
+* Deceptive, sensational, or otherwise misleading content or metadata used to inappropriately drive discoverability or engagement
+* Repetitive messaging to other users or uploads to Roblox systems
 * Creating experiences solely to direct users off Roblox
 
 Intellectual Property Violations
@@ -241,9 +243,10 @@ Prohibited Advertising Practices and Content All advertisements on Roblox must a
 
 Roblox Economy
 
-Roblox maintains the Robux system for everyone’s benefit and enjoyment. To keep it fair for everyone, some offers or uses of Robux are not permitted, including:
+Roblox maintains the Robux system for everyone’s benefit and enjoyment. To keep it fair for everyone, some activity in the Roblox Economy is prohibited, including:
 
 * Using third-party services to buy, sell, trade, or give away Robux. This does not apply to Roblox gift cards.
+* Engaging in off-platform, secondary market transactions for account access or virtual content from experiences or Marketplace. This does not apply to account holders selling or transferring the rights to the account’s creations as part of a verifiable agreement.
 * Using the group payout system in a fraudulent or misleading manner; including offering payment in Robux for acting as a model for assets, joining groups, referring members, or role-playing in experiences.
 
 Promotional Offers Developers may not use off-platform services or products to sell on-platform items (including exclusive features or other in-experience enhancements) for money or Robux, either directly or as a bundle, unless expressly authorized by or in partnership with Roblox. Find more details on acceptable promo codes [here](https://en.help.roblox.com/hc/articles/10549651908244).
@@ -299,10 +302,10 @@ Misusing Roblox Systems Roblox maintains many systems to keep our users safe and
 
 Evading Safety and Security Systems
 
-* Attempting to get prohibited content approved by our moderation team, including by hiding violative elements of assets
+* Attempting to get prohibited content around our safety systems, including by hiding violative elements of assets
 * Opening new accounts for the purpose of evading an enforcement action taken against a previous account
 * Using VPNs to mask your location in order to gain unauthorized access to Roblox, including to a specific feature or account
-* Selling access to your Roblox account or seeking to buy access to another’s Roblox account for the purpose of evading enforcement action or safety systems
+* Offering access to your Roblox account or soliciting access to another’s Roblox account for the purpose of evading enforcement action or safety systems
 * Failing to use required PolicyService APIs in your experience
 
 Disruptive Content and Behavior
@@ -314,13 +317,14 @@ Disruptive Content and Behavior
 * Falsely reporting other users or experiences or encouraging others to do so
 * Invading or flooding experiences or groups in an effort to disrupt the experience or its reputation
 
-Last Updated: March 15, 2023
+Last Updated: June 20, 2023
 
 Change Log
 
 |     |     |
 | --- | --- |
 | **Announcement Date** | **Change Summary** |
+| June 20, 2023 | Added a reference and link in the introduction of the Community Standards to detailed 17+ Policy Standards.<br><br>Added detail for prohibited types of simulated gambling in Illegal & Regulated Goods & Activities.<br><br>Clarified language for prohibited types of account and content access, including limited exceptions, in:<br><br>* Roblox Economy<br>* Misusing Roblox Systems<br><br>Clarified language for Spam to be applicable across all content and data types on Roblox.<br><br>Effective June 20, 2023 |
 | March 15, 2023 | Restructuring and consolidating categories of Community Standards from 30 categories to 20 categories, including:<br><br>* Combining violations in Threats, Bullying & Harassment, Abuse of Employees, Extortion & Blackmail, and Impersonation under “Threats, Bullying, and Harassment”<br>* Combining violations in Suicide & Self Harm, Dangerous Activities, and Suicide Lifeline resources under “Suicide, Self Injury, and Harmful Behavior”<br>* Combining violations in Illegal Activity under “Harmful Off-Platform Speech and Behavior”<br>* Renaming Real-World Tragic Events as “Real-World Sensitive Events”<br>* Combining violations in Romance and Dating with Sexual Content under “Romantic and Sexual Content”<br>* Combining violations in Contests & Sweepstakes and Illegal & Regulated Goods about gambling, supplements and substance abuse under “Illegal and Regulated Goods and Activities”<br>* Combining violations in Cheating & Exploits, Scams, Misrepresentation, some of Unauthorized Access under “Cheating and Scams”<br>* Combining violations regarding paid randomized items under “Roblox Economy”<br>* Combining violations in Unauthorized Access and Disruptive Audio under “Misusing Roblox Systems”<br><br>Effective March 15, 2023  <br>  <br><br>Updating the Advertising section for Independent Advertisement Publishing to add the following requirements:<br><br>* Using the Roblox AreAdsAllowed field of the PolicyService API to programmatically prohibit ad content in experiences from exposure to users under the age of 13<br>* Complying with Prohibited Advertising Content introduced in the new [Advertising Standards](https://en.help.roblox.com/hc/articles/13722260778260)<br>* Adding more specific requirements around disclosing advertising content, including prohibiting developers from mimicking Roblox Immersive Ads, or repurposing Roblox Immersive Ad content<br><br>Effective June 15, 2023  <br>These policies are effective for advertising served through the Roblox ad system on March 15, 2023. |
 
 [Return to top](#article-container)
