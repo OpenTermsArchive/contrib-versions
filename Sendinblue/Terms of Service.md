@@ -1,5 +1,5 @@
-General conditions of use of Brevo (formerly Sendinblue) services
-=================================================================
+Brevo (formerly Sendinblue) Terms of Service
+============================================
 
 Table of contents
 -----------------
@@ -8,7 +8,9 @@ Table of contents
 
 [Annex 1 : Agreement on the processing of personal data](https://www.brevo.com/legal/termsofuse/#annex)
 
-[II.  Terms of use applicable to Users incorporated in USA, Canada, Australia and New-Zealand](https://www.brevo.com/legal/termsofuse/#NA)
+[II. Terms of use applicable to the Brevo Payment product](https://www.brevo.com/legal/termsofuse/#II)
+
+[III.  Terms of use applicable to Users incorporated in USA, Canada, Australia and New-Zealand](https://www.brevo.com/legal/termsofuse/#NA)
 
 If the legal entity you represent or act on behalf of is incorporated in the **USA, Canada, Australia or New Zealand**, the following terms are applicable to you: [Sendinblue Inc. Terms of Use](https://www.brevo.com/legal/termsofuse/#NA)
 
@@ -355,8 +357,300 @@ It is Brevo (ex Sendinblue)’s responsibility to ensure that sub-processors pro
 
 If Brevo is required to make such transfers under the applicable law, it undertakes to immediately inform the User of this legal obligation before the processing, unless the applicable law prohibits such information for reasons of public interest.
 
-II. Sendinblue Inc. Terms of Use
---------------------------------
+II. Brevo Payment Terms and Conditions
+--------------------------------------
+
+These terms set forth the Parties respective rights and responsibilities when using the Payment Services provided to the Client by Brevo and by the Payment Service Provider. The Payment Services are specific services that are separate from the Brevo Services.
+
+By accessing or using the Payment Services, the Client expressly and unreservedly agrees to: 
+
+* The Brevo Terms of Service, available at [https://www.Brevo.com/legal/termsofuse/#generalconditions](https://www.brevo.com/legal/termsofuse/#generalconditions), to which these terms are incorporated to, and over which these terms shall prevail in case of contradiction, and 
+* These Payment Terms (or the “Agreement”), and 
+* The Payment Service Provider Terms available at [https://www.adyen.com/legal/terms-and-conditions-adyen-for-platforms](https://www.adyen.com/legal/terms-and-conditions-adyen-for-platforms), and  
+* The Adyen Prohibited and Restricted Products and Services list [https://www.adyen.com/legal/list-restricted-prohibited](https://www.adyen.com/legal/list-restricted-prohibited), which is part of the Payment Service Provider Terms, and
+* The Card User Terms, only applicable and provided to Client in case Client subscribes to the Card Services).
+
+This Agreement is effective as of the acceptance of the Payment Services by the Client (the “**Effective Date**”). The Client can accept the Agreement by clicking to accept or by agreeing to Agreement where this option is made available in any agreement, electronic form, or the user interface for the Payment Services’ offers, or by using the Payment Services. Before using the Payment Services, Brevo recommends Client to carefully read the eligibility criteria of the Payment Services that are detailed hereafter. 
+
+### **Definitions**
+
+The terms in capital letters that are not defined in this agreement have the meaning defined in the Brevo Terms of Service. The terms mentioned below will have the following meaning in this document:
+
+* **“Applicable Law”** means any law, statute, regulation, rule, including Scheme Rules, ordinance, or subordinate legislation applicable to the relevant obligation, activity, or status of the relevant party in the relevant region, including as applicable, privacy laws, economic sanctions laws, embargoes, and any directive, policy, rule, guidance, or order that is binding on the relevant party for the relevant activity or obligation in the relevant region and that is made or given by a legislative or regulatory authority of any national, federal, commonwealth, state, provincial, or local jurisdiction.
+* “**Card Program**” means the intended use of the Card Service as agreed between Adyen and Brevo, which may include applicable use limits, Card type (virtual and / or physical), regional use of the Card Service, order amounts, marketing, and Card design.
+
+* “**Card Program Documentation**” means the set of forma, sheets, documentation and / or questionnaires requested by PSP to determine the scope of the Card Program and use of the Card Service by Brevo and the Client.
+
+* “**Card Service**” refers to the issuing by PSP of a virtual or physical Card to the Client to enable Client to make online or offline Payment Transactions in extension of their business conduct. Cards will be linked to the Client’s virtual account or, if enabled, a bank account issued by PSP. The use of a Card by Client may be configured by Brevo e.g. to purchase specific products or services as well as to only allow Payment Transactions in certain countries. The configuration of the Card Service may be further determined between PSP and Brevo as part of the Card Program. During onboarding and thereafter from time to time as reasonably required by PSP, the relevant Card Program will be determined based on separate documentation or questionnaires (“Card Program Documentation”). PSP may from time to time, and in its reasonable discretion and prior notification, amend the Card Program or Card Service to comply with Applicable Law or Scheme Rules.
+
+* “**Charge back**” refers to the refund of an online payment made by the End Customer by credit card under certain conditions specified in the PSP’s general terms of use and in particular when the payment is not authorized.
+
+* **“Client”** shall, for the purpose of this Agreement, mean the User as defined by the Brevo Terms of Service. 
+
+* “**End Customers**” means Client’s customers.
+
+* “**KYC**” or “**Know Your Customer**” means the procedure for verifying the identity of the Client in accordance with the anti-money laundering and anti-terrorist financing regulations resulting from the French Monetary and Financial Code carried out by the Payment Service Provider, with the help of Brevo.
+
+* “**Outgoing Payment Flow**“ means any payment transaction associated with the Brevo Payment Account and aimed at withdrawing funds from said account (for example: outgoing transfer, withdrawal of funds, payment…).
+
+* “**Payment Links**” means the hypertext links generated by the Client on the Platform and allowing the Client to receive the amounts paid by the End Customers directly on the Brevo Payment Account.
+
+* “**Payment Pages**“: means the web pages generated by the Client on the Platform, hosted by Brevo which contain a Payment Link.
+
+* “**Payment Services**” means the payment services offered by Brevo to the Client. The Payment Services are provided by the PSP. Payment Services include the Card Service.
+
+* “**Payment Service Provider**” or “**PSP**” means Adyen, a company incorporated under Dutch law, registered under number 342595528, with its registered office at Simon Carmiggeltstraat 6-50, 1011 DJ, Amsterdam, the Netherlands. Adyen is licensed with the Netherlands Financial Market Authority under number F0001. Adyen is authorized to provide Payment Services in France under the European passport under number LEI 724500973ODKK3IFQ447.
+
+* “**Payment Service Provider Terms**“ or “**PSP Terms**” means the contract entered into by the Client and the PSP and available at [https://www.adyen.com/legal/terms-and-conditions-adyen-for-platforms](https://www.adyen.com/legal/terms-and-conditions-adyen-for-platforms), including the Adyen Prohibited and Restricted Products and Services list available at [https://www.adyen.com/legal/list-restricted-prohibited](https://www.adyen.com/legal/list-restricted-prohibited).
+
+* **“Payment Transaction”** means a payment made by the User with the Card.
+
+* “**Scheme Owner**” means the party who regulates and provides a specific payment method (e.g. Visa, MasterCard).
+
+* **“Scheme Rules”**: the collective set of bylaws, rules, regulations, operating, regulations, procedures and/or waivers issued by the Scheme Owners as may be amended or supplemented over time and with which the Client and PSP must comply with when using the relevant payment method. 
+
+* “**Brevo Payment Account**” or the “**Payment Account**”: means the payment account as defined in Article L. 314-1 I of the French Monetary and Financial Code provided by the PSP under the conditions set forth in the Payment Services Provider Terms. 
+* “**Brevo Payment Card**” or the “**Payment Card**”: means the payment card as defined in Article L.132-1 of the French Monetary and Financial Code. The Brevo Card is provided to the Client by the PSP upon request by Brevo. The Brevo Card is associated with the Brevo Payment Account.
+
+### SECTION 1. Duration and termination
+
+This Agreement starts from the Effective Date and for a monthly duration. This Agreement is entered into for a term of one (1) month from the Effective date.
+
+The Agreement will then be renewed for additional one (1) month periods, unless terminated by either Party, giving at least one (1) month’ notice to:
+
+For Brevo: to [\[email protected\]](https://www.sendinblue.com/cdn-cgi/l/email-protection)  
+For the Client: to the user email address assigned to the Brevo account.
+
+In case either Party is in material breach of its obligations stated in the Agreement and fails to remedy such breach within ten (10) days following the sending of a certified mail with return receipt giving notice of the breach at issue, the other Party may terminate the Agreement without prejudice to any damages it may be entitled to claim hereunder.
+
+### SECTION 2. Access to the payment services
+
+**2.1. To access and use the Payment Services, the Client must:** 
+
+* Create an Account on the Platform, 
+* Subscribe to the Payment Services,  
+* Send the KYC information detailed below to Brevo. Brevo may ask the Client for any additional information in order to further verify its identity. The documents provided by the Client as part of the KYC process are hosted directly by the PSP who will verify and validate them, and
+* Accept the Agreement and the PSP Terms.  
+
+**2.2. As part of the KYC process, the Client must provide the following documents to Brevo:**
+
+|     |     |     |
+| --- | --- | --- |
+| **Amount available on the Payment Account** | **Documentation relating to the company** | **Documentation relating to the legal representative or beneficiaries** |
+| 0.00 | Company name  <br>Email  <br>Country of establishment | Full Name  <br>Country of establishment  <br>Type of beneficiary  <br>Occupation |
+| 0.00 – 999.99 | Core business  <br>Registered office and/or address of the main place where the company carries out its activity if it is different from the registered office  <br>Company registration number  <br>Details of the company’s bank account  <br>Telephone number  <br>Intra-community VAT number | Home address  <br>Date of birth  <br>Identity document number |
+| 1,000.00 – 4,999.99 | Certificate of registration of the company at the Company Register (RCS) | Identity Document with photo |
+| 5,000+ | Banking report |     |
+
+**2.3.** Subscription to the Payment Services will only be effective if the subscription is confirmed by the PSP and/or Brevo. The PSP and Brevo reserve the right to cancel or refuse the Client’s subscription to the Payment Services at their sole discretion, in particular if the Client provides incorrect, incomplete or out-of-date information or documents as part of the KYC process.  
+
+**2.4.** Access to the Payment Account and the Payment Card may require additional steps such as the definition of specific identifiers. These steps are described and governed by the PSP Terms. 
+
+### SECTION 3. Description of the payment services
+
+### **3.1. General Provisions** 
+
+Subject to the Client’s eligibility, the Client may benefit from Payment Services enabling it to:  
+
+* Create and use a Brevo Payment Account, 
+* Use a Brevo Payment Card if they so request, and/or
+* Create Payment Pages and Payment Links that the Client may implement on its own website or send directly to the End Customers.
+
+The Payment Service is limited to (eligibility criteria): 
+
+* Clients with their corporate seat in the European Economic Area and / or United Kingdom (“Territory”); 
+* Clients that are legal entities acting in the course of business or acting within the scope of an economic activity (i.e. non-consumer trade, business, craft, or liberal profession, non-profit organizations);
+* Clients who have a virtual account with the PSP or are issued a bank account from the PSP; 
+* Clients who have accepted the Payment Service Provider Terms and as the case may be the Card User Terms available online.
+
+Notwithstanding anything to the contrary, PSP in its sole discretion may reject the provision of the Payment Service to the Client and update the Client eligibility criteria from time to time by providing reasonable prior notice to Brevo. In this case, Brevo shall make its best efforts to provide such information to the Client in due time and shall comply with PSP’s instruction.
+
+### **3.2. Brevo Payment Account** 
+
+**3.2.1**. Subject to the Client’s eligibility, the Payment Service allows the Client to access a Brevo Payment Account. 
+
+**3.2.2.** From its Brevo Payment Account, the Client will be able to:
+
+* Receive the amounts collected through the Payment Links and/or Payment Pages, 
+* Consult the information relating to its Brevo Payment Account including but not limited to the balance of such Payment Account,  
+* Issue transfers to third party payment accounts, 
+* Receive and use a Brevo Payment Card associated to that Payment Account upon request.
+
+**3.2.3.** The Client acknowledges that:  
+
+* The amounts are at no time held by Brevo, 
+* The PSP and Brevo implement organizational and technical security measures in order to secure access to the Payment Account as well as the transactions carried out via the Payment Account. 
+
+**3.2.4.** The Client may also request from the PSP the conversion of the amounts held on the Payment Account into the currency of its choice. This conversion will be carried out, subject to a currency management difference of: 
+
+* 1.2% if the conversion is between the PSP’s standard FX currencies or;
+* 3% if the conversion involves a non-standard FX currency. An updated list of standard FX currencies can be provided upon request. As a reference rate for foreign currencies (FX), the PSP uses Oanda’s daily FX intermediate rate (as published on www.oanda.com). In case of Charge Back, the Client will be debited only with the initial settlement amount received, in the initial currency of settlement, and the remainder of the initial transaction amount paid by the End Customer (in the initial currency of the transaction and, therefore, including currency conversion differences and/or related costs) will be supported by Brevo.
+
+### **3.3. Payment Methods**
+
+**3.3.1.** The Client may request the creation of a Brevo Payment Card by following the instructions on the Platform. 
+
+**3.3.2.** The conditions of use of the Brevo Payment Card are detailed in the PSP Terms. 
+
+### **3.4. Payment Pages and Payment Links**
+
+**3.4.1.** The Client may create Payment Links and Payment Pages via the Platform following the instructions detailed on the Platform. 
+
+**3.4.2.** The Payment Links may be integrated into the Client’s website or sent directly to the End-Customers. The Payment Links enable the End-Customers to pay with credit or debit card.
+
+**3.4.3.** The Client acknowledges that Brevo has no control over: 
+
+* The Payment Pages or Payment Links generated by the Client under the Client’s full control and sole responsibility, 
+* The conditions under which these Pages and/or Payment Links are transmitted to third parties by the Client.
+
+### **3.5. Security**
+
+As part of the provision of its Payment Services, PSP implements specific security measures detailed in the Payment Service Provider Terms. 
+
+Where relevant, each party will ensure adequate technical and procedural security measures are implemented with respect to their systems and in particular with respect to their interfaces to ensure system integrity and protection against unauthorized third-party access and use of data processed, expressly including payment transaction data and any personal data. Where PCI DSS or similar compliance standards are to be adhered to under applicable Scheme Rules, each party shall ensure it is and remains compliant and certified with respect to the relevant standards. Each party will indemnify and hold the other party harmless from third party claims including fines from payment Scheme Owners and acquirers resulting from a breach of the obligations under this clause. 
+
+In accordance with the applicable laws on hacking and computer crime, Client shall only use the Payment Services for the purposes as agreed in the Agreement and shall specifically not perform or allow to be performed any actions detrimental to the security or performance of the Payment Services without Brevo’s prior written consent.
+
+When required by PSP or by Applicable Laws, the Client shall apply or implement Strong Customer Authentication (SCA) at its own costs and by its own means when required by Applicable Law.
+
+### **3.6. Fees**
+
+Brevo shall withhold a commission equivalent to the amount of one percent (1%) excluding VAT of any Outgoing Payment Flow (hereinafter the “Commission”). Brevo shall reserve the right to (i) apply a license Fee (hereinafter the “Fees”) for the use of the Brevo Payment Services and/or (ii) increase the percentage of the Commission during the performance of the contract. In such a case, Brevo shall inform the Client of the application or increase of the Fees and/or Commission in writing (via email or via the Brevo Payment Account) with one (1) month prior notice.
+
+### SECTION 4. Suspension and termination
+
+**4.1. General**
+
+Brevo reserves the right to block all or part of the Payment Services, Payment Links and Payment Pages generated by the Client via the Platform and/or to suspend all or part of the Client’s access to the Payment Services, including access to the Payment Account, in the event of a breach of this Agreement by the Client and/or in particular:  
+
+* When the use of the Payment Services by the Client presents a risk of fraud, 
+* When the KYC documents provided by the Client are incomplete or incorrect or not up-to-date,
+* When the Payment Page displays illicit or restricted products as detailed by the PSP at the following address: https://www.adyen.com/legal/list-restricted-prohibited and/or when the transactions carried out by means of the Payment Services concern these products, 
+
+* At the request of the PSP in the event of a breach of its own general terms and conditions of use available at the following address: [https://www.adyen.com/legal/terms-and-conditions-adyen-for-platforms](https://www.adyen.com/legal/terms-and-conditions-adyen-for-platforms) and or of the Adyen Prohibited and Restricted Products and Services list available at [https://www.adyen.com/legal/list-restricted-prohibited](https://www.adyen.com/legal/list-restricted-prohibited);  
+
+* At the request of the competent authorities. 
+
+**4.2. Suspension criteria specific to the Card Services**
+
+Brevo reserves the right to partly or fully suspend the provision of the Card Services  if, in Brevo’s reasonable discretion and due diligence:
+
+* the stability, availability, or security of the Card Services or Brevo’s or PSP’s system is at risk due to an act or omission of the Client that reasonably breaches Applicable Law or Scheme Rules;
+* the Card Services are being used by the Client or its users in breach of this agreement and no reasonable remediation is provided by the Client;
+* there is suspicion of unauthorized or fraudulent activity by the Client which cannot immediately be unfounded;
+* a Scheme Owner, law enforcement, regulatory authority or regulator formally requests Brevo and/or PSP to partially or fully suspend the Card Services;
+* Brevo and/or PSP does not have accurate or complete KYC information of the Client or the Client fails to pass the KYC review process, in which case the Card Services to the Client will be suspended; or
+* there is a material breach of the terms of this agreement, Applicable Law (including Scheme Rules) by the Client.
+
+### SECTION 5. Obligations
+
+**5.1. Lawfulness of the activity** 
+
+The Client warrants that it shall perform its activities and use the Payment Services in accordance with Applicable Law.
+
+The Client agrees and warrants it holds and will maintain all governmental, regulatory, or exchange licenses, registrations, authorizations, approvals, and other permission required under any Applicable Law or Scheme Rules for it to lawfully perform its obligations under this agreement.
+
+**WARNING**: For violations of certain key requirements under the Scheme Rules by Brevo and/or the Client, some Scheme Owners can levy significant fines, ranging from 25.000 USD to over 1 million USD. The Scheme Owners do this to protect the paying customers, merchants and providers of the Payment Methods collectively against misuse, fraud, illegal activities, breach of applicable laws and excessive costs. Key examples of Scheme Rules which are subject to such fines: (i) using the payment method for other products and services for which the Client received no express authorization to use it for; (ii) using the payment method for products and services which are violating Applicable Laws; (iii) using the payment method for selling products and services for which the Scheme Owner explicitly prohibited its use (e.g. adult content, arms, drugs, counterfeit goods); (iv) Using the payment method for the benefit of a third party / reselling the use of the payment method to a third party (the authorization for the Client to use a payment method is strictly personal); (v) percentage of Payment Transactions of the Client which is subject to a Chargeback is above the applicable acceptable level; (vi) breaches of security and confidentiality obligations with respect to payment data and in particular details of credit cards used such as the CVC number or credit card number; (vii) fraudulent, misleading activities of which customers making payments are the victim. 
+
+Where PSP or Brevo becomes aware of and/or received any notice of a potential exposure to a fine from the Scheme Owners related to any Client’s behavior, Client will on first request provide all reasonable co-operation to help investigate the relevant circumstances and remedy the relevant violation, notwithstanding all other rights and remedies of Brevo in such situation as per the Agreement. If fines are applied for Client’s violations, these are invoiced by the PSP to Brevo. Client shall fully indemnify and hold Brevo harmless from any fines applied by the Scheme Owners as a result of Client’s breach of the terms of this Agreement and related incurred reasonable legal fees and other costs.
+
+**5.2. Monitoring** 
+
+Brevo may monitor and/or verify Client’s procedures, processes and relevant other documentation relating to Client’s responsibilities pursuant to this agreement Client will reasonably cooperate with a request for information from Brevo without undue delay and accommodate verification by way of on-site or off-site audits, as may be reasonably determined necessary by Brevo. The Client will furthermore not limit or prevent a lawful or regulatory body, competent authority or Scheme Owner from exercising its rights under Applicable Law or Scheme Rules to conduct investigations, request information or perform audits in relation to the Payment Services.
+
+**5.4. Notification**
+
+Client must notify Brevo immediately (via API, or alternative mutually agreed process) in the following circumstances:
+
+(i)   any request by Client to block a Card or fund transfer;
+
+(ii)  any unauthorized payment or (potential) fraud or illegal or suspicious activity;
+
+(iv) upon the occurrence of any event, or Client becoming aware of any information, that might materially impact the Client’s ability to perform its obligations towards Brevo or the PSP, or which might adversely affect Brevo’s or PSP’s business or its reputation in relation to the Payment Services;
+
+(v) any material non-compliance to any Applicable Law or Scheme Rules that Client has become aware of or should have been reasonably aware of; or
+
+(vi)   a complaint or criticism from a regulatory body or other third party or any legal action that may have a material effect on the Payment Services (collectively “Complaint”). Client shall share all relevant written documentation, to the extent not prohibited by Applicable Law.
+
+**5.4. Support**
+
+Brevo shall make its best efforts to provide first and second line support to the Client. First line support means a general help desk that takes more information, offers simple solutions, and determines if an issue requires escalation to someone with more expertise. Second line support means a team with more technical knowhow who can assist with more complex issues. Support can be requested at [\[email protected\]](https://www.sendinblue.com/cdn-cgi/l/email-protection).
+
+### SECTION 6. Privacy and security
+
+Where PSP processes personal data for the performance of the Payment Service, and specifically those for KYC purposes, it will do so in accordance with its privacy statement (available on www.adyen.com), and if and where applicable, act as an independent data controller in accordance with applicable privacy laws (including EU General Data Protection Regulation 2016/679 “GDPR”). Where Brevo processes personal data for the performance of the Payment Service, Brevo shall do so in accordance with the Annex “DPA” of the Brevo Terms of Service. Brevo may process personal data as an independent controller in accordance with its privacy statement available at [https://www.brevo.com/legal/privacypolicy/](https://www.brevo.com/legal/privacypolicy/). 
+
+Each party shall implement and maintain industry standard technical and organizational privacy and security measures to protect the Client’s personal data against unauthorized access or use. 
+
+The Client will cooperate with Brevo’s and/or PSP’s assessment and provide accurate and complete information upon Brevo’s and/or PSP’s request. In the event of a (potential) breach of or unauthorized access to Personal Data (“Security Breach”), Client will notify Brevo within a timeframe that reasonably allows the other party to comply with its own obligations under Applicable Law, and in each case no later than 72 hours. Each Party will promptly take all necessary and appropriate actions to investigate, mitigate and remediate a Security Breach and its effects.
+
+### SECTION 7. Data analytics and scoring
+
+PSP and Brevo may use de-identified transaction-related data, which may also be aggregated data, for various purposes including but not limited to analyzing, tracking, and comparing transaction and other data to develop and provide insights for Client and/or other PSP’s customers as well as for developing, marketing, maintaining and/or improving PSP’s or Brevo’s products and services. To this end, PSP uses network analysis and machine learning models for the purpose of payment performance, gaining better insights, fraud prevention, risk assessment and for improving PSP’s products and services.
+
+PSP’s Score service (or Score) uses such network analysis and machine learning models in order to identify and score fraudulent patterns in Client’s transactional behavior. The Score can be accessed by PSP and Brevo.
+
+PSP will process personal data for the Score in accordance with the Adyen Privacy Policy (available at: https://www.adyen.com/policies-and-disclaimer/privacy-policy ).
+
+Brevo reserves the right to cancel Transactions, at PSP’s discretion, that it has reasonable grounds to suspect to be fraudulent or involving other criminal activities, even if the fraud control tool failed to block the Payment Transaction. In this case, Brevo shall notify and inform Client about these grounds without undue delay after being notified by PSP.
+
+### SECTION 8. Liability
+
+**8.1.** The Client is solely responsible for the use of the Payment Services and in particular: 
+
+* The information integrated into the Payment Pages, 
+* The integration or sending of the Payment Pages and Payment Links on the Client’s website,  
+* The use of the Payment Card, 
+* The use of the Payment Account,
+* Transactions made from the Payment Pages, Payment Links, Brevo Payment Card and Brevo Payment Account, 
+* Compliance with the PSP Terms.
+
+**8.2.** The Client will hold Brevo harmless against all damages, claims and actions of third parties resulting from intentional misconduct, negligence, or breach by the Client of this Agreement and/or of the PSP Terms.
+
+**8.3.** The Client is informed that any use of the Payment Services in violation of this Agreement or the PSP Terms may result in the application of a criminal or administrative sanction to the PSP, who is solely responsible for the provision of the Payment Services.  In the event that the use of the Payment Services leads to the application of such sanction, the Client will hold Brevo against any claim by the PSP in this respect and will indemnify Brevo of any damage suffered as a result, provided that the damage is attributable to it. 
+
+**8.4.** Brevo will not give advice to the Client about financial services provided by Brevo or by the PSP nor will Brevo mediate between the PSP and the Client for the provision of the Payment Services.
+
+### SECTION 9. Specific cases of termination
+
+Without prejudice to the termination grounds set out in the Terms and Conditions, Brevo may at any time terminate this agreement upon written notice to Client if and when:
+
+* Brevo and/or PSP has reasonable suspicion that the Client is involved in, or facilitates, illegal or fraudulent activities;
+* Brevo and/or PSP needs to do so in order to comply with Applicable Law or Scheme Rules, including relevant PCI-DSS regulation; or
+* The provision of all or part of the Payment Service pursuant to this agreement poses a material risk to the reputation of Brevo, the PSP the Scheme Owners and/or the integrity of the payment system.
+
+Except as expressly notified otherwise by Brevo, the termination of this Agreement shall not automatically terminate the Brevo Terms and Conditions or as the case may be any ongoing Order Forms. However, the termination for cause of this Agreement by Brevo allows Brevo to terminate the Brevo Terms and Conditions and/or as the case may be any ongoing Order Form(s).
+
+### SECTION 10. Audit
+
+In addition to any audit rights or ongoing provision of documentation and information obligations described herein, Client will reasonably cooperate with any request for information by Brevo or PSP, their auditors, regulatory authorities, or Scheme Owners, without undue delay. Brevo and/or PSP, its auditor, or any regulatory authority with oversight on Brevo or PSP’s services, during the term, may perform audit(s), which may require both off-site and on-site access, Client’s policies, procedures, software, technical connections, records and any other activity that relate to the Payment Service (“Audit”). Brevo and/or PSP will, when possible, provide at least 10 business days’ advance written notice of any Audit, starting from the communication of the audit plan by Brevo and/or PSP. Client will not limit or prevent Brevo, the PSP, a lawful body, regulatory body, competent authority, auditor, or Scheme Owner from exercising its rights to conduct investigations, request information, or perform Audits in relation to the Payment Service. Any Audit shall be conducted during normal business hours, and in a manner that reasonably minimizes interference with Client’s business. Client shall give all necessary assistance to the conduct of audits during the continuance of this agreement and for any period after termination of this agreement in accordance with Applicable Law. Any third-party audit costs will be borne by Brevo or the PSP, unless the audit reveals that Client has materially breached its obligations under this agreement, the Brevo Terms of Service, the Payment Service Provider Terms and/or Applicable Law.
+
+### SECTION 11. Issuing of the card (section applicable to card services only)
+
+Client agrees and complies with the current content of the Card User Terms at all times during the Client’s use of the Card Services.
+
+**11.1. Issuing of physical card**
+
+Client will provide Brevo with an order form or other written request as may be agreed by the Parties, when instructing Brevo to pass on to PSP the order to design and /or manufacture Cards (“Order”). The Order shall not be binding until accepted in writing by Brevo and Adyen. When Brevo instructs PSP on behalf of Client to manufacture Cards with a custom design (such as Client’s branding), the Cards must comply with the then-current Card design requirements applied by the relevant Scheme Owner. Brevo might provide available guidelines regarding Card design on request of the Client, depending on their communication by the PSP. Brevo expressly makes no warranties that a custom design complies with relevant guidelines nor that a custom design will be accepted by the relevant Scheme Owner. Brevo is not responsible or liable for costs or delays that result from a custom Card design not being accepted by the relevant Scheme Owner.
+
+Brevo makes no warranties about communicated manufacturing or distribution timelines as these generally depend on external factors not within the control of Brevo or PSP, such as but not limited to, delays in manufacturing or distribution caused by the Card manufacturer. Client is responsible for monitoring and accounting for Card expiration. Client shall reach out to Brevo from time to time when it requires new Cards to an existing Card Program or replace existing Cards. At the time of such request Client and Brevo shall estimate the anticipated delivery time. Brevo is not responsible for managing the PSP’s manufacturing stock. Brevo accepts no responsibility or liability in connection with Card stock management or Card availability.
+
+If the Client cancels an Order due to circumstances not within the control or responsibility of Brevo, the Client will reimburse Brevo the relevant design, manufacturing, distribution and third party (cancelation) costs incurred by Brevo as a result of the Order or cancelation thereof.
+
+**11.2. Reversibility**
+
+In the event of termination, Brevo will automatically cease the provision of Card Service to the Client. The Card remains the property of the PSP and must be returned or destroyed following the termination of the Card Service. 
+
+The parties will cooperate in good faith to ensure the orderly wind-down or transition of the Card Service, including providing commercially reasonable transition support. 
+
+Termination of this Agreement does not affect each party’s obligations under this Agreement, including the obligation to pay or procure payment of fees, costs, indemnified amounts or other financial obligations towards the other party based on, or resulting from, services rendered, or activities performed during the term of this Agreement. 
+
+If at the time of termination, any Client’s obligations to Brevo or PSP remain in relation to the Card Service, the relevant provisions of this Agreement and the Card User Terms will survive such termination and remain in force until all obligations of the Client are fulfilled. Client accepts responsibility for any losses, claims, costs, or damages Brevo incurs.
+
+III. Sendinblue Inc. Terms of Use
+---------------------------------
+
+III
 
 Last Updated 27th April, 2021
 
