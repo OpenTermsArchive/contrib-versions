@@ -6,10 +6,6 @@ We don’t track you.
 That’s our Privacy Policy in a nutshell.
 ----------------------------------------
 
-May 2023 Update
-
-As always, we don’t track you. Since our product has grown well beyond search, we’ve updated our Privacy Policy to reflect our other offerings, like [our apps and extensions](https://duckduckgo.com/app), [Email Protection](https://spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection/), and [App Tracking Protection](https://spreadprivacy.com/app-tracking-protection-open-beta/). There’s also a lot more privacy information on [our blog](https://spreadprivacy.com/) and [help pages](https://help.duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections/).
-
 ### About Us
 
 DuckDuckGo (officially, Duck Duck Go, Inc.) has been an independent company since our founding in 2008. While we started as a search engine, [our apps and extensions](https://duckduckgo.com/app) now offer protection well beyond search, including when [browsing the web](https://help.duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections/), [reading email](https://spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection/), and even [using other apps](https://spreadprivacy.com/app-tracking-protection-open-beta/).
