@@ -650,8 +650,6 @@ If at the time of termination, any Client’s obligations to Brevo or PSP remain
 III. Sendinblue Inc. Terms of Use
 ---------------------------------
 
-III
-
 Last Updated 27th April, 2021
 
 For users incorporated in USA, Canada, Australia and New-Zealand
