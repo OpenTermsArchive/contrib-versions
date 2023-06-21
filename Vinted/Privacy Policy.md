@@ -3,7 +3,7 @@ Expand all
 Vinted Privacy Policy
 =====================
 
-Date last updated: 04-27-2023
+Date last updated: 06-21-2023
 
 When it comes to your personal data, safety and transparency take top priority here at Vinted. To help you understand what information we collect about you, how we use it and what rights you have, we’ve prepared this detailed Privacy Policy.
 
@@ -72,7 +72,7 @@ When you register as a member on the Platform, you must provide the following da
 
 Legal basis for the collection and use of data is the fulfillment of a contract (GTC) to which you are party or in order to take steps at your request prior to entering into a contract (GTC) (Art. 6 (1) (b) of the GDPR).
 
-We also determine your location (country) based on your IP address at the time of registration, which is to be shown on your profile. You can choose to change your location (country, city or region) at any time and make your city or region invisible to other members by going to "My settings" in your Vinted account.
+We also determine your location based on your IP address at the time of registration. You can at any time choose to change your city and make it not visible to other members under "My settings" in your Vinted account.
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
@@ -734,7 +734,7 @@ As part of the security process, we may ask our members to verify ownership of t
 1. A photo/screenshot of your bank statement showing your most recent Vinted charge(s);
 2. A photo/screenshot of the expanded version of the Paypal statement showing the most recent Vinted order (the date, total amount, shipping address and account holder’s name should be visible);
 3. Proof of address: it can be a household utility bill with your name and current address that is no longer than 3 months old (e.g., gas, electricity, water, landline telephone; cellular phone bills are not permitted), or a photo/screenshot of your bank statement showing your billing address;
-4. A photo of your credit card used for your purchases on Vinted (the photo needs to include the cardholder’s full name, and the card’s last four (4) digits and expiration date);
+4. A photo of your payment card you used for your purchases on Vinted (the photo needs to showcase the cardholder’s full name, last 4 digits, expiration date, bank name, card type, as well as a handwritten note with your username and current date).
 
 Legal basis for such collection and use of your personal data is our legitimate interest to protect the Platform and ensure its security and the legitimate interest of our members to ensure the safety of their accounts on the Platform (Art. 6 (1) (f) of the GDPR).
 
@@ -836,7 +836,7 @@ In order to protect our members and the Platform, we regularly check for suspici
 
 Legal basis for such collection and use of your personal data is our legitimate interest to protect the Platform and its users and ensure its security and the legitimate interest of our members to ensure their safety on the Platform (Art. 6 (1) (f) of the GDPR).
 
-We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
+We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years. If your account is locked and then unlocked, we retain your data for two (2) years after unlocking your account. If your account remains permanently locked, we retain your data for this purpose for five (5) years after your last activity on the Platform.
 
 **2.4.8. To suspend members**
 
