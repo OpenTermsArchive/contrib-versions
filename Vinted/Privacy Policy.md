@@ -1429,7 +1429,7 @@ To exercise any of the rights specified in this section, you can contact Vinted 
 7\. Our contact details
 =======================
 
-If you have any questions regarding the collection and use of your data as part of your use of the Platform, or regarding your rights, please contact our data protection officer at dpo@vinted.com.
+If you have any questions regarding the collection and use of your data as part of your use of the Platform, or regarding your rights, please contact our data protection officer at [privacysupport@vinted.com](mailto:privacysupport@vinted.com).
 
 Vinted data protection officer:
 
@@ -1577,7 +1577,7 @@ You have the right to not receive discriminatory treatment for the exercise of t
 
 **5\. How to submit a request**
 
-If you are a California consumer and would like to exercise any of the CCPA rights identified above, you may submit a request by emailing Us at [dpo@vinted.com](mailto:dpo@vinted.com). You can also exercise your right to opt-out of the sale of your personal information by clicking this link.
+If you are a California consumer and would like to exercise any of the CCPA rights identified above, you may submit a request by emailing Us at [privacysupport@vinted.com](mailto:privacysupport@vinted.com). You can also exercise your right to opt-out of the sale of your personal information by clicking this link.
 
 **6\. Submitting a request through your authorized agent**
 
@@ -1611,7 +1611,7 @@ IV. Contact us; exercise your rights
 
 If you have any questions or concerns regarding this California Privacy Policy or our privacy practices, please contact Us using one of the methods provided below:
 
-By email at: [dpo@vinted.com](mailto:dpo@vinted.com)
+By email at: [privacysupport@vinted.com](mailto:privacysupport@vinted.com)
 
 By mail to: C/o AG Accounting 735 Geary St. #303 San Francisco, CA 94109
 
