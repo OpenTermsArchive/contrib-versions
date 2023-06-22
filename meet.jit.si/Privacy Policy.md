@@ -15,7 +15,7 @@ To provide the meet.jit.si service, 8×8 processes network and usage information
 
 * If you use the chat function, chat content is stored during the meeting.
 * If you record a meeting, the recording of the meeting is temporarily stored until it is uploaded to your file hosting service (e.g. DropBox).
-* If you livestream your meeting, video content is temporarily stored to buffer the livestream.
+* If you livestream your meeting, video content is temporarily stored to buffer the livestream. YouTube API Services may be used to retrieve only the stream id and is used for the duration of the livestream session.
 * In addition, users of meet.jit.si have the option of providing name, email address, and link to a picture that will be displayed to participants in the meeting.
 
 **How is this information used?**
@@ -26,4 +26,4 @@ To provide the meet.jit.si service, 8×8 processes network and usage information
 
 If you have any questions or concerns about our use of your personal information, please contact our data protection officer at: [\[email protected\]](https://jitsi.org/cdn-cgi/l/email-protection).
 
-Use of YouTube livestreaming is governed by Google, by using the livestreaming users are agreeing to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms). 8×8 access to data can be revoked at any time using Google’s [security settings page](https://security.google.com/settings/security/permissions).
+Use of YouTube livestreaming is governed by Google, by using the livestreaming users are agreeing to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms). YouTube API Services are used for retrieving the livestream id. 8×8 access to data can be revoked at any time using Google’s [security settings page](https://security.google.com/settings/security/permissions).
