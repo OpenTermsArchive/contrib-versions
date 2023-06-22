@@ -89,3 +89,5 @@ How can you control the use of cookies?
 During your first visit to www.mailjet.com, a banner informs you of the presence of cookies and invites you to indicate your choice. They are only deposited if you accept them or if you continue your navigation on the site by visiting a second page of www.mailjet.com. 
 
 You may at any time inform yourself and set your cookies to accept or refuse them by going to this Cookie Policy and clicking on "Cookie Preferences" at the top. You will be able to indicate your preference either globally for the site, or service by service.
+
+n
