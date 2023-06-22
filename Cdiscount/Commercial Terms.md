@@ -1336,7 +1336,7 @@ Pour que le Partage soit valable, le Bénéficiaire doit :
 
 \- avoir été informé par l’Abonné de son inscription au Partage ;
 
-\- être un membre de la « famille » de l’Abonné ;
+\- être un membre de la é famille » de l’Abonné ;
 
 \- ne pas avoir manifesté son souhait de ne pas bénéficier du Partage.
 
