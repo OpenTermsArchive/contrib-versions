@@ -570,8 +570,8 @@ Dans le cas où, après acceptation du colis, vous constateriez que le produit c
 
 et ce, au plus tard dans les quatorze (14) jours calendaires après réception de votre commande.
 
-_Article 8 : RETRACTION_
-------------------------
+_Article 8 : RETRACTATION_
+--------------------------
 
 **8.1 Principe**
 
@@ -1336,7 +1336,7 @@ Pour que le Partage soit valable, le Bénéficiaire doit :
 
 \- avoir été informé par l’Abonné de son inscription au Partage ;
 
-\- être un membre de la é famille » de l’Abonné ;
+\- être un membre de la « famille » de l’Abonné ;
 
 \- ne pas avoir manifesté son souhait de ne pas bénéficier du Partage.
 
