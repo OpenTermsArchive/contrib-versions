@@ -449,6 +449,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Digital and Population Information Agency (FI) - [https://www.avoindata.fi/data/en\_GB/dataset/postcodes/resource/3c277957-9b25-403d-b160-b61fdb47002f](https://www.avoindata.fi/data/en_GB/dataset/postcodes/resource/3c277957-9b25-403d-b160-b61fdb47002f)
             
+        * Statistics Finland - [https://stat.fi/en/statistical-data](https://stat.fi/en/statistical-data)
+            
     16. **France and Monaco**
         * © IGN France © 2009 IGN France BD Topo ® IGN, © 2007 IGN France BD Ortho ® IGN 50cm, © 2011 IGN France - Ortho HR® IGN 20cm (Paris region)
             
@@ -698,6 +700,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Pays De La Loire (FR): [https://data.paysdelaloire.fr/pages/home/](https://data.paysdelaloire.fr/pages/home/)
             
         * DATA SUD (FR): [https://www.datasud.fr/](https://www.datasud.fr/)
+            
+        * République Française GeoServices: [https://geoservices.ign.fr/route500](https://geoservices.ign.fr/route500)
+            
+        * Geo D'Air: [https://www.geodair.fr/](https://www.geodair.fr/)
             
     17. **Gambia**
         
@@ -1446,9 +1452,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         © Salt Cay Devco Ltd.
         
     60. **UK**
-        
-        Abundance Distributions for Tree Species in UK, [https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2661](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2661), changes were made.
-        
+        * Abundance Distributions for Tree Species in UK, [https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2661](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2661), changes were made.
+            
+        * Edinburgh DataShare [https://datashare.ed.ac.uk/](https://datashare.ed.ac.uk/)
+            
     61. **Ukraine**
         
         © Transnavicom - [http://www.transnavi.com/](http://www.transnavi.com/)
@@ -2006,6 +2013,26 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
     80. **Slovenia**
         
         Javni Geodetski Podatki - Public Geodetic Data Slovenia - [https://creativecommons.org/licenses/by/4.0/deed.sl](https://creativecommons.org/licenses/by/4.0/deed.sl)
+        
+    81. **Niue**
+        
+        Pacific Environment Data Portal - [https://pacificdata.org/data/dataset/2011\_niu\_phc\_admin\_boundaries](https://pacificdata.org/data/dataset/2011_niu_phc_admin_boundaries)
+        
+    82. **Kazakhstan**
+        
+        The Humanitarian Data Exchange (HDX), Kazakhstan - [https://data.humdata.org/dataset/afb05759-c3da-44f4-93a1-6bd2d8bcd431](https://data.humdata.org/dataset/afb05759-c3da-44f4-93a1-6bd2d8bcd431)
+        
+    83. **South Sudan**
+        
+        The Humanitarian Data Exchange (HDX), South Sudan - [https://data.humdata.org/dataset/cod-ab-ssd](https://data.humdata.org/dataset/cod-ab-ssd)
+        
+    84. **Tonga**
+        
+        Pacific Data Hub - [https://pacificdata.org/](https://pacificdata.org/)
+        
+    85. **Sudan**
+        
+        The Humanitarian Data Exchange (HDX), Sudan - [https://data.humdata.org/dataset/cod-ab-sdn?](https://data.humdata.org/dataset/cod-ab-sdn?)
         
 4. **Business Listings Data.**
     
