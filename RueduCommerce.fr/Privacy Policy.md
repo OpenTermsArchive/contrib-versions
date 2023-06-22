@@ -146,7 +146,7 @@ Rue du commerce a déterminé des règles précises concernant la durée de cons
 
 En tout état de cause, ces données ne seront conservées que pour la durée nécessaire à l’accomplissement des finalités ci-dessus précisées, augmentée du délai de prescription légale.
 
-Ainsi, à titre principal, vos données de compte (inscription) seront conservées pendant toute la durée de votre adhésion. Elles pourront ensuite être conservées et traitées pendant 3 ans suivant le dernier contact de votre part, pour nous permettre de vous adresser des sollicitations commerciales.
+Ainsi, à titre principal, vos données de compte (inscription) seront conservées pendant toute la durée de votre adhésion. Elles pourront ensuite être conservées et traitées pendant 5 ans suivant le dernier contact de votre part, pour nous permettre de vous adresser des sollicitations commerciales.
 
 Les données qui vous concernent sont susceptibles d’être conservées plus longtemps, lorsque vous avez passé commande sur le site, au titre d’obligations légales spécifiques ou au regard des délais de prescription légale applicables. A titre d’exemple, les données peuvent être conservées pendant :
 
@@ -501,7 +501,7 @@ Rue du commerce a déterminé des règles précises concernant la durée de cons
 
 En tout état de cause, ces données ne seront conservées que pour la durée nécessaire à l’accomplissement des finalités ci-dessus précisées, augmentée du délai de prescription légale.
 
-Ainsi, à titre principal, vos données de compte (inscription) seront conservées pendant toute la durée de votre adhésion. Elles pourront ensuite être conservées et traitées pendant 3 ans suivant le dernier contact de votre part, pour nous permettre de vous adresser des sollicitations commerciales.
+Ainsi, à titre principal, vos données de compte (inscription) seront conservées pendant toute la durée de votre adhésion. Elles pourront ensuite être conservées et traitées pendant 5 ans suivant le dernier contact de votre part, pour nous permettre de vous adresser des sollicitations commerciales.
 
 Les données qui vous concernent sont susceptibles d’être conservées plus longtemps, lorsque vous avez passé commande sur le site, au titre d’obligations légales spécifiques ou au regard des délais de prescription légale applicables. A titre d’exemple, les données peuvent être conservées pendant :
 
