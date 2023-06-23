@@ -34,11 +34,11 @@ Our advertising policies cover 4 broad areas:
 > 
 > Click through the policies below for policy definitions, examples, and troubleshooting steps.
 
-We use a combination of automated and human evaluation to ensure that ads comply with these policies. Our enforcement technologies use algorithms and machine learning, modeled on human reviewers’ decisions, to help protect our users and keep our ad platforms safe. More complex, nuanced or severe cases are often reviewed and evaluated by our specially-trained experts.
+We use a combination of Google's AI and human evaluation to ensure that ads comply with these policies. Our enforcement technologies use Google's AI, modeled on human reviewers’ decisions, to help protect our users and keep our ad platforms safe. More complex, nuanced or severe cases are often reviewed and evaluated by our specially-trained experts.
 
 We take action on content that violates our policies. This may include disapproving violating ads so they don’t serve, as well as suspending accounts for repeat or egregious violations. We take repeat violations of our policies seriously and continue to expand a strike system for repeat offenders.
 
-We will provide you with information on our decision for any policy violation enforcement actions we take. If one of your ads is disapproved, you can [fix that ad or appeal the decision](https://ads.google.com/aw/policymanager/issues). You can also [appeal an account suspension decision](https://ads.google.com/nav/login?dst=/aw/overview?supportResource%3Dsuspension_help). For these links to work, you’ll need to be signed into your Google Ads account.
+We will provide you with information on our decision for any policy violation enforcement actions we take. If one of your ads is disapproved, you can [fix that ad or appeal the decision](https://ads.google.com/aw/policymanager/issues) (or here for [DV360 ads](https://support.google.com/displayvideo/answer/12726387)). You can also [appeal an account suspension decision](https://ads.google.com/nav/login?dst=/aw/overview?supportResource%3Dsuspension_help) (or here for [DV360 appeals](https://support.google.com/displayvideo/contact/tns_dv360_account_suspension)). For these links to work, you’ll need to be signed into your Google Ads account.
 
 > ### [Counterfeit goods](https://support.google.com/adspolicy/answer/176017)
 > 
