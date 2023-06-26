@@ -343,7 +343,7 @@ Publishers must:
 
 Publishers must:
 
-* not use device fingerprints or locally shared objects (e.g., Flash cookies, Browser Helper Objects, HTML5 local storage) other than HTTP cookies, or user-resettable mobile device identifiers designed for use in advertising
+* not use device fingerprints or locally shared objects (e.g., Flash cookies, Browser Helper Objects, HTML5 local storage) other than HTTP cookies, or user-resettable mobile device identifiers designed for use in advertising. This does not limit the use of IP address for the detection of fraud.
 * not pass any information to Google data that Google could use or recognize as personally identifiable information; or that permanently identifies a particular device (such as a mobile phone's unique device identifier if such an identifier cannot be reset).
 * not use our services to identify users or facilitate the merging of personally identifiable information with information previously collected as non-personally identifiable information without robust notice of, and the user's prior affirmative (i.e., opt-in) consent to, that identification or merger. Irrespective of users' consent, you must not attempt to disaggregate data that Google reports in aggregate.
     
