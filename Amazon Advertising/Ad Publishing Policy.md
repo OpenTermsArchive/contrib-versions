@@ -24,7 +24,7 @@ TABLE OF CONTENTS
 Overview
 --------
 
-At Amazon Ads, we believe maintaining a high customer experience bar for the ads we serve helps us drive better results for you, our advertisers. Accordingly, we have set customer-centric Ad Policies to help preserve and enhance that experience. All advertising content must be appropriate for a general audience and for the type of placement in which it will be displayed, and, as an advertiser using Amazon Ads, it is your responsibility to make sure that both you and your ads comply with all applicable laws, rules, regulations and industry standards in each geographical area where the advertisements may appear, for example adhering to the requirements of the CAP Code if your advertisements are targeting UK consumers.  
+At Amazon Ads, we believe maintaining a high customer experience bar for the ads we serve helps us drive better results for you, our advertisers. Accordingly, we have set customer-centric Ad Policies to help preserve and enhance that experience. All advertising content must be appropriate for a general audience and/or for the type of placement in which it will be displayed, and, as an advertiser using Amazon Ads, it is your responsibility to make sure that both you and your ads comply with all applicable laws, rules, regulations and industry standards in each geographical area where the advertisements may appear, for example adhering to the requirements of the CAP Code if your advertisements are targeting UK consumers.  
   
 You must be honest about the products or services that you promote and must avoid content that may mislead or offend our customers. Amazon customers represent a wide array of genders, races, ethnicities, abilities, ages, religions, sexual orientations and backgrounds.  
   
@@ -38,9 +38,7 @@ We periodically update our policies. Please check this page often to ensure that
   
 Throughout this document, we refer to advertisers as “you/your”, to ad placements on Amazon’s owned-and-operated properties as “ads on Amazon”, and to Amazon DSP offsite as “ads off Amazon”.  
   
-For an overview of policies addressing questions that commonly arise, please see our [Quick Reference Guide](https://advertising.amazon.com/resources/ad-policy/quick-reference?ref_=a20m_us_spcs_cap_spsc_qkrf). Please note: This guide is not intended to be a comprehensive overview of all ad policies. It is highlighting some key ad policies that frequently re-occur.  
-  
-To view recent updates to these policies, please see our [Ad Policy Change Log](https://advertising.amazon.com/resources/ad-policy/creative-acceptance/ad-policy-change-log?ref_=a20m_us_spcs_cap_spcs_chnglg).
+For an overview of policies addressing questions that commonly arise, please see our [Quick Reference Guide](https://advertising.amazon.com/resources/ad-policy/quick-reference?ref_=a20m_us_spcs_cap_spsc_qkrf). Please note: This guide is not intended to be a comprehensive overview of all ad policies. It is highlighting some key ad policies that frequently re-occur.
 
 Advertising policies
 --------------------
@@ -75,5 +73,3 @@ Advertising policies
 * [Streaming TV ad policies](https://advertising.amazon.com/resources/ad-policy/streaming-tv-ads?ref_=a20m_us_spcs_sttvad)
 * [Technical guidelines](https://advertising.amazon.com/resources/ad-policy/technical-guidelines?ref_=a20m_us_spcs_tcpl)
 * [Twitch advertising guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/twitch?ref_=a20m_us_spcs_twtcgap)
-
-On this site, we use cookies and similar tools (collectively, “cookies”) to provide and improve services to you and to show ads. To learn more about how Amazon Ads uses cookies, please read the [Amazon Cookies Notice.](https://advertising.amazon.com/legal/cookie-policy?ref=a20m_us_ccb)
