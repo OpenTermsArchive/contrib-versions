@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-**Last Modified:** December 29, 2022
+**Last Modified:** June 27th, 2023
 
 Paramount is a leading global media and entertainment company that delivers premium content and experiences to audiences worldwide across studios, networks, streaming services, live events, merchandise and more.
 
@@ -417,7 +417,7 @@ Certain terms used in this section have the meaning given to them under applicab
 * **Appeal**. If you have any unresolved privacy concerns that we have not addressed satisfactorily after contacting us, you may have the right to appeal our decision by responding directly in your request or by opening a new request and selecting ‘General Privacy Request’ and indicating that you are appealing our response to your previous request.
     
 
-You or your authorized agent (when applicable) may submit a request to exercise any of the above rights by visiting our [Privacy Rights Center](http://privacy.paramount.com/privacyrightscenter) or by calling us at (888) 841-3343. To opt out of the sale or sharing of your personal information, click on the ‘Do Not Sell or Share My Personal Information’ link in the footer of the relevant websites or in the settings menu of the relevant mobile or online applications. Note that your choice to opt out is device- or browser-specific and you will need to manage your preferences for each device or browser you use. You may also need to make this choice separately on different Paramount services.
+You or your authorized agent (when applicable) may submit a request to exercise any of the above rights by visiting our [Privacy Rights Center](http://privacy.paramount.com/privacyrightscenter) or by calling us at (888) 841-3343. To opt out of the sale or sharing of your personal information, or the use of your personal information for targeted advertising, click on the ‘Your Privacy Choices’ link in the footer of the relevant websites or in the settings menu of the relevant mobile or online applications. Note that your choice to opt out is device- or browser-specific and you will need to manage your preferences for each device or browser you use. You may also need to make this choice separately on different Paramount services.
 
 If you are in California and have enabled the Global Privacy Control signal, we will honor the Global Privacy Control signal. For more information about how to use the Global Privacy Control signal, please see [here](https://globalprivacycontrol.org/)
 
@@ -488,7 +488,7 @@ INFORMATION ABOUT THE SHARING (FOR CROSS-CONTEXT BEHAVIORAL ADVERTISING) OR SALE
 
 Some information that we disclose to third parties may constitute the “sale” of your personal information or “sharing” of your personal information (for cross-context behavioral advertising purposes) under applicable laws. For instance, some of our brands disclose certain device identifiers and advertising identifiers associated with your mobile or internet-connected device to advertising partners. Those partners use and share those identifiers to show advertisements that are targeted to your interests.
 
-Where a brand does this or otherwise “sells” your personal information, we will give you the opportunity to opt out by clicking the “Do Not Sell or Share My Personal Information” link on the footer of the relevant website, or in the settings menu of the relevant mobile or online application, or other service. If you submit an opt-out request, you will still see ads on our services, though they might be less relevant to you. These ads may be based on historical information or information “shared” or “sold” by other sources. Please note that, when you use these tools on our services, you may need to renew your choices each time you clear your cookies or use a new browser or device. You may also need to make this choice separately for some of our services. You also can update your browser settings to make certain choices about third-party cookies.
+Where a brand does this or otherwise “sells” your personal information, we will give you the opportunity to opt out by clicking the ‘Your Privacy Choices’ link on the footer of the relevant website, or in the settings menu of the relevant mobile or online application, or other service. If you submit an opt-out request, you will still see ads on our services, though they might be less relevant to you. These ads may be based on historical information or information “shared” or “sold” by other sources. Please note that, when you use these tools on our services, you may need to renew your choices each time you clear your cookies or use a new browser or device. You may also need to make this choice separately for some of our services. You also can update your browser settings to make certain choices about third-party cookies.
 
 The following types of personal information may be “shared” with or “sold” to (and may have been “shared” with or “sold” to in the 12-month period prior to the last modified date of the privacy policy) advertising partners, analytics providers, and marketing partners:
 
