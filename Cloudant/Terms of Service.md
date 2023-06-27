@@ -1,7 +1,7 @@
 * * *
 
-Date: August 15, 2015
----------------------
+Date: November 20, 2020
+-----------------------
 
 ### **Overview**
 
@@ -16,6 +16,18 @@ This Web site contains proprietary notices and copyright information, the terms 
 IBM grants you a non-exclusive, non-transferable, limited permission to access and display the Web pages within this site as a customer or potential customer of IBM provided you comply with these Terms of Use, and all copyright, trademark, and other proprietary notices remain intact. You may only use a crawler to crawl this Web site as permitted by this Web site’s robots.txt protocol, and IBM may block any crawlers in its sole discretion. The use authorized under this agreement is non-commercial in nature (e.g., you may not sell the content you access on or through this Web site.) All other use of this site is prohibited.
 
 Except for the limited permission in the preceding paragraph, IBM does not grant you any express or implied rights or licenses under any patents, trademarks, copyrights, or other proprietary or intellectual property rights. You may not mirror any of the content from this site on another Web site or in any other media. Any software and other materials that are made available for downloading, access, or other use from this site with their own license terms will be governed by such terms, conditions, and notices. Your failure to comply with such terms or any of the terms on this site will result in automatic termination of any rights granted to you, without prior notice, and you must immediately destroy all copies of downloaded materials in your possession, custody or control.
+
+**Rules of conduct**
+
+Your use of ibm.com and any related IBM websites (IBM Websites) is subject to all applicable local, state, national and international laws and regulations, and you agree not to violate such laws and regulations. Any attempt by any person to deliberately damage IBM Websites is a violation of criminal and civil laws. IBM reserves the right to seek damages from any such person to the fullest extent permitted by law.
+
+You agree not to post or transmit through IBM Websites any material or content that violates or infringes in any way the rights of others or solicits, encourages or promotes the use of illegal substances or activities, which is unlawful, threatening, abusive, harassing, defamatory, libelous, derogatory, invasive of privacy or publicity rights, vulgar, obscene, bigoted or hateful, profane, scandalous, pornographic, indecent or otherwise objectionable, gives rise to civil or criminal liability or otherwise violates any applicable law.
+
+You may not impersonate another user, use another user’s IBMid, permit someone else to use your IBMid, attempt to capture or guess other users’ passwords, forge headers or otherwise manipulate identifiers for the purpose of disguising the origin of any content you transmit, conduct fraudulent business operations or practices, or promote or conceal unlawful conduct.
+
+You may not engage in any activity on IBM Websites which restrict or inhibit any other user from using or enjoying IBM Websites by “hacking,” “cracking,” “spoofing,” or defacing any portions of IBM Websites. You may not use IBM Websites to stalk or harass another person or entity.
+
+You may not post or transmit through IBM Websites advertising or commercial solicitations; promotional materials relating to website or online services which are competitive with IBM and/or IBM Websites; software or other materials that contain viruses, worms, time bombs, Trojan horses, or other harmful or disruptive components, political campaign materials; chain letters; mass mailings, spam mail, any robot, spider, site search/retrieval application, or other manual or automatic device or process to retrieve, index, “data mine,” or in any way reproduce or circumvent the navigational structure or presentation of IBM Websites or contents. You may not harvest or collect information about website visitors without their express written consent.
 
 ### **Disclaimer**
 
