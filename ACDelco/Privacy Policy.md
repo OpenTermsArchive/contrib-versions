@@ -1,7 +1,7 @@
 Privacy Statement
 =================
 
-Last Updated: January 1, 2023
+Last Updated: July 1, 2023
 
 At General Motors, your privacy is important to us, as is your trust in our products and services.
 
@@ -10,7 +10,7 @@ Our Privacy Statement describes how we collect, use, and share your personal inf
 Please take a moment to review our Privacy Statement and contact us at [1-866-MYPRIVACY (1-866-697-7482)](tel:8666977482) if you have any questions.
 
 * [View and print](https://www.gm.com/california-privacy-statement.html) our entire California Consumer Privacy Statement
-* [View and print](https://www.gm.com/content/dam/company/docs/us/en/gmcom/US_Consumer_Privacy_Statement_January_2023.pdf) our entire U.S. Consumer Privacy Statement (PDF)
+* [View and print](https://www.gm.com/content/dam/company/docs/us/en/gmcom/US_Consumer_Privacy_Statement_July_2023.pdf) our entire U.S. Consumer Privacy Statement (PDF)
   
 
 The U.S. Consumer Privacy Statement can be viewed by clicking each section’s arrow.
@@ -31,12 +31,12 @@ The types of information that GM collects about you, your vehicle, or your conne
 * information about your connected devices and how you interact with our products, services, apps and websites (such as IP address, browser type, unique device identifier, cookie data, and associated identifying and usage information)
 * demographic or protected classification information (such as gender, date of birth, marital status, household composition, or veteran or military status)
 * commercial information (such as when you plan to purchase or lease the vehicle in which you're interested)
-* audio or video information (such as information collected by sensors or cameras in the vehicle, or photographs and videos such as those that you may submit for contests, sweepstakes, and social sharing)
+* audio or video information (such as information collected by sensors or cameras in the vehicle, recordings of when you speak with our customer call centers, or photographs and videos such as those that you may submit for contests, sweepstakes, and social sharing)
 * physiological or biological characteristics, such as medical information collected to provide OnStar emergency services that you have requested
-* voice biometric data as described in the Biometric Technology Section below
-* information about your home energy usage (such as your charging and discharging of electric vehicles and stationary storage)
+* biometric information (such as voiceprints, as described in the Biometric Technology Section below)
+* information about your home energy usage (such as your charging and discharging of electric vehicles and stationary storage, charging preferences, use of home energy products and services, and rate plans)
 * relationships you have with GM in addition to the purchase and servicing of your vehicle (such as through a My GM Rewards account, a GM Rewards Card or OnStar, etc.)
-* relationships you have with third parties in connection with your use of GM products and services (such as GM dealers, energy utilities, and companies offering or operating in-vehicle applications)
+* relationships you have with third parties in connection with your use of GM products and services (such as GM dealers, energy providers, companies offering or operating in-vehicle applications, and other companies we help you connect with)
 * information related to My GM Rewards and the My GM Rewards Card Program (“GM Card”), including rewards points, account type, tier status, enrollment, redemption
 * investor and stockholder services information (such as name, address, phone number, email address, and account information)
 
@@ -127,7 +127,17 @@ GM may offer certain mobile applications that you have the option to download to
 
 #### Connected Services
 
-Our U.S. Connected Services Privacy Statement applies to your use of our connected services, such as services offered through GM vehicles and mobile applications, and describes the information we collect use and share in connection with those services. A copy of our U.S. Connected Services Privacy Statement is available at [onstar.com](https://www.onstar.com/).
+Our U.S. Connected Services Privacy Statement applies to your use of our connected services, such as services offered through GM vehicles and mobile applications, and describes the information we collect use and share in connection with those services. A copy of our U.S. Connected Services Privacy Statement is available at [OnStar.com](https://www.onstar.com/).
+
+  [Back to Top](#PrivacyStatement)
+
+#### My GM Rewards Loyalty Program
+
+My GM Rewards is a loyalty program in which participants earn and redeem points by engaging in eligible transactions, including, but not limited to, purchasing or leasing eligible GM vehicles at participating GM dealerships in the United States, purchasing certain goods or services from a participating dealer or online through participating GM websites, purchasing certain services from OnStar, transacting with the My GM Rewards Credit Card, or at select third-party retailers (e.g., GM Financial, energy providers, fuel providers). For a complete description of the most current eligible transactions, benefits and participating companies, as well as details on earning and redeeming points, go to [https://experience.gm.com/rewards](https://experience.gm.com/rewards).
+
+We offer the My Rewards program to enhance our relationship with you so that you can enjoy more of our products and services at a lower price. To become a My Rewards member and earn and receive program benefits, users must enroll by providing name, address, and email. Users also have the option to complete a profile with additional information about hobbies and interests to allow for better tailored offers, but this information is not required for program membership. In addition, new members of the My GM Rewards Credit Card are enrolled in My Rewards based on the data provided in the card application. To provide the program benefits, we must receive and track the personal information provided when you enroll in the My Rewards program or when you engage in activities to earn points, such as contact information and purchase history.
+
+In order to complete membership into My Rewards, you also must acknowledge the [My GM Rewards Program Terms and Conditions](https://experience.gm.com/rewards/terms).  you may withdraw from participation in the My Rewards program at any time by contacting a My Rewards Member Support Specialist at 844-764-2665.
 
   [Back to Top](#PrivacyStatement)
 
@@ -182,17 +192,19 @@ For GM Family First participants, you may update your information by contacting 
 
 #### Your Rights
 
-Residents of certain states, such as California and Virginia, may have the right to submit a privacy request in accordance with their local laws. Depending on where you live, you may have the right under your local laws to request that we:
+Depending on where you reside, you may have the right to submit one or more of the following privacy requests in accordance with your local laws:
 
-* provide access to the personal information that we collect about you – to do so, submit a request to Access My Personal Information,
-* delete the personal information that we collect about you – to do so, submit a request to Delete My Personal Information, or
-* correct inaccuracies in personal information that we collect about you – to do so, submit a request to Correct My Personal Information.
+* to obtain access to the personal information that we collect about you, which we will provide in a commonly used electronic format – to do so, submit a request to Access My Personal Information,
+* to delete the personal information that we collect about you – to do so, submit a request to Delete My Personal Information, or
+* to correct inaccuracies in personal information that we collect about you – to do so, submit a request to Correct My Personal Information.
 
-You may also have the rights under your local laws to opt-out of certain ways that we use and share your personal information, such as to opt-out of:
+Some of the ways in which we share your personal information with third party businesses that we work with on marketing activities may also qualify as “sales” of your personal information under your local laws.  The categories of personal information that we share with these third parties may include identifiers and information about your connected devices and how you interact with our products, services, apps and websites.
 
-* the sale of your personal information to third parties, which may include, for example, where we share your personal information with third parties for their own independent uses – to do so, submit a request to Do Not Sell My Personal Information,
-* certain types of targeted advertising based on your activity across other sites – to do so, submit a request to Opt-out of Targeted Advertising (for California residents, Do Not Share My Personal Information); please note, after opting out of targeted advertising, you may still see advertising from us on other sites based on your current visits to those sites, or
-* certain types of automated processing of your personal information – to do so, submit a request to Opt-out of Profiling.
+You may have the rights under your local laws to opt-out of these “sales” and certain other uses of your personal information:
+
+* to opt-out of the “sale” of your personal information to the category of third party businesses identified above, submit a request to “Do Not Sell My Personal Information,”  
+* to opt-out of certain types of targeted advertising based on your activity across other sites, submit a request to “Opt-out of Targeted Advertising” (for California residents, “Do Not Share My Personal Information”); please note, after opting out of targeted advertising, you may still see advertising from us on other sites based on your current visits to those sites, or
+* to opt-out of certain types of automated processing of your personal information, submit a request to Opt-out of Profiling.
 
 _Exercising Your Rights_
 
