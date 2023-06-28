@@ -1,6 +1,6 @@
-* _Last updated: May 4, 2023_
+* _Last updated: July 1, 2023_
     
-    Forbes Media LLC ("**Forbes**", "**Company**", "**we**", "**our**", or "**us**") understands that privacy is important to our users. This Privacy Statement describes our practices regarding the collection, use, sharing, and protection of your personal information in connection the services, products, features, and offerings we provide to you (the "**Services**"), including without limitation our print magazine subscriptions, and our digital Services like Forbes.com, Forbes mobile applications, Forbes newsletters, and Forbes' other digital sites, communications, and media (the "**Site**") (collectively, the "**Properties**"). This Privacy Statement also tells you about the rights and choices you have with respect to your personal information, how you can assert those rights, and how you can contact us to get answers to your questions.
+    Forbes Media LLC ("**Forbes**", "**Company**", "**we**", "**our**", or "**us**") understands that privacy is important to our users. This Privacy Statement describes our practices regarding the collection, use, sharing, and protection of your personal information in connection the services, products, features, and offerings we provide to you (the "**Services**"), including without limitation our print magazine subscriptions, and our digital Services like Forbes.com, Forbes mobile applications, Forbes newsletters, Forbes games, and Forbes' other digital sites, communications, and media (the "**Site**") (collectively, the "**Properties**"). This Privacy Statement also tells you about the rights and choices you have with respect to your personal information, how you can assert those rights, and how you can contact us to get answers to your questions.
     
     With respect to the personal information that our clients and their vendors collect from you outside of our Properties ("**Service Data**"), where permitted by law, we generally process such information only as a "service provider" or "data processor" (as those terms are defined under applicable data protection laws) on behalf of our clients, who act as the "business" or "data controller" (as those terms are defined under applicable data protection laws). Our clients—for example, companies that use our lead generation services—are the parties that control the use of the Service Data and determine the purposes for which we process such information. While this Privacy Statement describes how we process Service Data on behalf of our clients, our clients are responsible for their own practices in collecting, using, and disclosing information they collect from you. To learn more about such clients' use of your information and your rights that you may have over such information, please consult the privacy policy of the applicable company or publisher.
     
@@ -22,11 +22,11 @@
     
     [**How We Disclose Your Personal Information**](#how-we-disclose-your-information)
     
-    [**How We Protect Your Personal Information**](#data-security)
+    [**How We Protect Your Personal Information**](#how-we-protect-your-personal-information)
     
     [**Data Retention**](#data-retention)
     
-    [**Interest-Based Advertising**](#interest-based-avertising)
+    [**Interest-Based Advertising**](#interest-based-advertising)
     
     [**Your Choices**](#your-choices)
     
@@ -36,17 +36,21 @@
     
     [**Children's Privacy**](#children-privacy)
     
+    [**Notice of Financial Incentive**](#notice-of-financial-incentive)
+    
     [**Changes to This Policy**](#changes-to-this-policy)
     
     [**Contacting Us**](#contacting-us)
     
     [**California Privacy Rights**](#california-privacy-rights)
     
-    [**Virginia Privacy Rights**](#virginia-privacy-rights)
+    [**Virginia, Colorado, and Connecticut Privacy Rights**](#virginia-colorado-connecticut-privacy-rights)
     
     [**European Privacy Rights**](#european-privacy-rights)
     
     [**People's Republic of China Privacy Rights**](#china-privacy-rights)
+    
+    [**Personal Information Processing Chart**](#personal-information-processing-chart)
     
     #### WHAT OUR PRIVACY STATEMENT COVERS
     
@@ -82,7 +86,7 @@
     
     * Device and online identifiers and related information, including internet protocol (IP) address, mobile ad identifiers, data collected from cookies, beacons, and pixel tags, and similar unique identifiers;
         
-    * Internet or other electronic network activity information, including, but not limited to browsing history, search history, and information regarding your interaction with an internet website, application, email, mobile app, or advertisement;
+    * Internet or other electronic network activity information, including, but not limited to browsing history, search history, Forbes game statistics (like your score, time played, winning streak, and ranking compared to other players),and information regarding your interaction with an internet website, application, email, mobile app, or advertisement;
         
     * Geolocation or other information that permits us to determine your location;
         
@@ -95,6 +99,8 @@
         
     
     If you interact with us on social media or use features such as plugins, widgets, or other tools made available by social media platforms or networks in connection with our Properties, or if you choose to sign up for a paid subscription via your social media profile, we may collect information that you share with us on social media or that such platforms share with us. Please review the privacy policies and settings of the social media platforms and networks that you use for more information about their privacy practices. For additional information, see the section titled Third-Party Sources below.
+    
+    If you choose to log into one of our Properties using a digital wallet, we may collect public data points such as your wallet address, the blockchain your wallet is on, your wallet's transactions and transaction history, and whether your wallet holds a Forbes token.
     
     Where you sign-up for paid subscriptions as a gift option (e.g., on behalf of a friend or colleague, the gift recipient), you may provide us with personal information on behalf of the gift recipient.
     
@@ -124,16 +130,18 @@
     
     * In your response to surveys that you choose to complete for us;
         
-    * When you make search queries on the Properties; and
+    * If you log into one of our Properties with your digital wallet;
+        
+    * When you make search queries or play games on the Properties; and
         
     * When you otherwise voluntarily provide us with personal information on or through the Properties.
         
     
-    You always have the option not to provide the information we request. If you choose not to provide the information we request, you can still access and use portions of the Properties, but you may be unable to access certain options and services, such as paid subscription content. If you wish to provide user information to us about a third party, such your friend or colleague, in connection with a referral, gift subscription, recommendation, nomination (e.g., Under 30 list nomination), or other purpose, please only do so if you have the permission of that third party. When you register or become a member of the Site or provide information to Forbes in any other manner, you agree to provide only true, accurate, current and complete information.
+    You always have the option not to provide the information we request. If you choose not to provide the information we request, you can still access and use portions of the Properties, but you may be unable to access certain options and services, such as paid subscription content. If you wish to provide user information to us about a third party, such your friend or colleague, in connection with a referral, gift subscription, corporate subscription, recommendation, nomination (e.g., Under 30 list nomination), or other purpose, please only do so if you have the permission of that third party. When you register or become a member of the Site or provide information to Forbes in any other manner, you agree to provide only true, accurate, current and complete information.
     
     **Personal Information We Collect Automatically**
     
-    When you visit our Properties, open or click on emails we send you, or interact with our advertisements, we or third parties we work with may automatically collect certain information using technologies such as cookies and other tracking technologies described below.
+    When you visit our Properties, open or click on emails we send you, or interact with our advertisements or games, we or third parties we work with may automatically collect certain information using technologies such as cookies and other tracking technologies described below.
     
     * **Cookies and Similar Technology**
         
@@ -142,14 +150,16 @@
     
     Cookies fall into the subcategories below:
     
-    * Required Cookies. Certain cookies are used for specific purposes that are essential to your secure use and navigation of the Properties. Without them, Forbes may not be able to provide core Property functions and features to you, and the Property would not operate as well as you or Forbes would like. These cookies collect and use information such as your server preferences, single-session data and corresponding identifier, web beacons and log files (detailed below), and other credential-related information.
+    * Required (sometimes referred to as "Essential"). Certain cookies are used for specific purposes that are essential to your secure use and navigation of the Properties so that we are able to provide you with the services you request. Without them, Forbes may not be able to provide core Property functions and features to you, and the Property would not operate as well as you or Forbes would like. For example, they enable core functions like carrying out network transmissions and enabling you to log in to our systems. They also enable us to comply with legal obligations in regions with laws that apply to cookies, like by maintaining your cookie consent choices in regions that require consent or, in opt-out regions, by preventing advertising-related or other optional digital trackers from being placed on your browser or device if you have opted out. These cookies collect and use information such as your server preferences, single-session data and corresponding identifier, web beacons and log files (detailed below), and other credential-related information. Required cookies cannot be switched off on our Properties.
         
-    * Functional Cookies. Other cookies may be used to collect and process information about your preferences and similar choices in connection with the Properties in order to optimize your browsing experience (e.g., various local preference settings; which geographically-customized version of the Properties and related content you may prefer). Functional cookies include social media cookies, which collect information about your social media usage and other data you may have provided in connection with such usage (if you access the Site through a social media website or mobile application, you may have social media cookies). If you wish to modify or change your social media cookies, please visit and review the settings on your applicable social media account(s). Functional cookies also include analytics cookies, which provide us with data that allows Forbes to better understand its users and improve the Properties based on what we have learned from that data.
+    * Functional. Other cookies may be used to collect and process information about your preferences and similar choices in connection with the Properties in order to allow us to provide enhanced functionality, customization and personalization, such as by remembering your login information or other choices or by providing you with more personalized features (e.g., various local preference settings; which geographically-customized version of the Properties and related content you may prefer). Functional cookies include social media cookies, which collect information about your social media usage and other data you may have provided in connection with such usage (if you access the Site through a social media website or mobile application, you may have social media cookies). If you wish to modify or change your social media cookies, please visit and review the settings on your applicable social media account(s).
         
-    * Advertising Cookies. To help support the Properties and further tailor your experience, Forbes and its advertising partners (and/or their third-party analytics providers) may also use cookies on the Properties (including in emails) to personalize the content and advertisements you may be shown. Such advertisements use cookies to provide you targeted advertisements that may be more consistent with your interests than non-targeted advertisements. Certain Forbes advertising partners may also use cookies to monitor or track the performance of their advertising content, including native advertising content (e.g., BrandVoice).
+    * Analytics. These cookies allow us to better understand our users' actions and interests, for instance, by tracking clicks, visits, and traffic sources so we can measure and improve the performance of our Properties and services. This allows us to provide a high-quality experience by customizing our offerings and quickly identifying and fixing any issues that arise. For example, we might use analytics cookies to keep track of which pages are most popular, which method of linking between pages is most effective, and to determine why some pages are receiving error messages.
+        
+    * Advertising. To help support the Properties and further tailor your experience, Forbes and its advertising partners (and/or their third-party analytics providers) may also use cookies on the Properties (including in emails) to personalize the content and advertisements you may be shown. Such advertisements use cookies to provide you targeted advertisements that may be more consistent with your interests than non-targeted advertisements. Certain Forbes advertising partners may also use cookies to monitor or track the performance of their advertising content, including native advertising content (e.g., BrandVoice), including how you interact with the advertising content, even in situations where the ad is displayed on another site. If you do not allow these trackers on our Properties, you may still receive advertisements, but you may receive less relevant advertising or content.
         
     
-    If you would like to manage your cookie preferences or learn more information about this practice and your right to decline (or opt-out of) cookies placed by some or all of these companies, please [click here](https://optout.networkadvertising.org/?c=1).
+    In certain countries and U.S. states, you can opt out or set preferences regarding cookies using our cookie management tool when a device you utilize visits our Properties. You may also be able to set preferences related to certain interest-based advertisements and targeted ads by using tools provided by self-regulatory programs like the Digital Advertising Alliance (DAA) program at [www.aboutads.info/consumers](http://www.aboutads.info/consumers) and the Network Advertising Initiative at [http://optout.networkadvertising.org/](http://optout.networkadvertising.org/). To learn how, please see the **Your Choices** section below.
     
     The Properties' web and ad servers log information about a user's IP address, browser type, and the current URL the user is requesting. This information is always provided by a user's browser and automatically logged by most websites. These log files are stored in a secure location and used for internal business purposes such as internal analysis of traffic patterns within our Properties.
     
@@ -171,9 +181,11 @@
     * **Third-Party Sources**
         
     
-    From time to time, we may collect personal information about you from third party sources (including data append services such as public or social graph data, data co-ops for print magazine publishers, or social media websites if you have chosen to log in or connect your social media with our Properties) which we will use for our business or commercial purposes (for example, in order to contact you and/or to better serve you with content or promotions). However, we will only use this information where these third parties either have your consent or are otherwise legally permitted or required to disclose your personal information to us.
+    From time to time, we may collect personal information about you from third party sources (including data append services such as public or social graph data, data co-ops, or social media websites if you have chosen to log in or connect your social media with our Properties) which we will use for our business or commercial purposes (for example, in order to contact you and/or to better serve you with content or promotions). However, we will only use this information where these third parties either have your consent or are otherwise legally permitted or required to disclose your personal information to us.
     
     When you sign into our Properties or purchase a paid subscription on our Properties using a social media log-in, you give permission to that social media company to share certain information with us. For example, if you sign in or purchase a subscription using Facebook or LinkedIn, you give permission to Facebook or LinkedIn (as applicable) to share with us your email address and certain other information in your social media profile that you have designated as public. This will be limited to your full name, age range, profile picture (if you have one) and link to your Facebook or LinkedIn profile (as applicable). If you log in or purchase a subscription using your Google account, you give Google permission to share personal information with us that you have made public in your Google profile. This will be limited to your full name, your email address (and whether your email has been validated), your age range, your profile picture (if you have one) and a link to your Google profile. If you log in or purchase a subscription using your Apple ID, you give Apple permission to share your personal information with us (however, you can choose to hide your email address and Apple will instead create a random email address so that your personal email can stay private). This email address will be linked to your account and allow you to access your subscribed content.
+    
+    If you log into one of our Properties using a digital wallet, you give that wallet provider permission to share certain information with us, including public data points such as your wallet address, the blockchain your wallet is on, your wallet's transactions and transaction history, and whether the wallet holds a Forbes token.
     
     We will use the information described above to form a profile for your account, to enable you to purchase a paid subscription, and/or as otherwise set forth in this Privacy Statement. You have the option to later configure your Facebook, LinkedIn, or Google settings, or Apple ID to remove permissions for Forbes to access to this information. However, this will not affect our ability to use the information that we already received when you first set up your account (or purchased a subscription) using that social media login, so long as we use it for the purposes set forth in this Privacy Statement.
     
@@ -204,7 +216,7 @@
             
         * Fulfilling your orders and/or completing the transactions you have requested, processing your payments, and providing you receipts and order updates;
             
-        * Providing a forum for discussion or community for Forbes honorees, asking questions, posting photos and reviews, and sharing experiences;
+        * Providing a game leaderboard or a forum for discussion or community for Forbes honorees, asking questions, posting photos and reviews, and sharing experiences;
             
         * Considering you for and/or naming you to a Forbes list or other similar accolade (e.g., Under 30);
             
@@ -310,7 +322,7 @@
     
     For Service Data processed on behalf of our clients, like lead generation data or data collected in connection with a survey conducted for a client, we share the Service Data with our clients.
     
-    We also make certain information about our print magazine subscribers available for list renters to engage in direct, physical mail marketing, but in such circumstances, no personal information is actually made available to the renter. Forbes also shares certain personal information about its print magazine subscribers with other publishers in connection with data co-ops. You can modify your related user information by contacting Forbes as indicated in the section _**Your Choices**_ below.
+    We also make certain information about our print magazine subscribers available for list renters to engage in direct, physical mail marketing, but in such circumstances, no personal information is actually made available to the renter. Forbes also shares certain personal information about its subscribers with other publishers in connection with data co-ops. You can modify your related user information by contacting Forbes as indicated in the section _**Your Choices**_ below.
     
     * **Legal Compliance and to Defend Our Rights**
         
@@ -327,7 +339,7 @@
     
     Forbes may disclose your Personal Information to third parties with your consent or pursuant to your direction.
     
-    #### DATA SECURITY
+    #### HOW WE PROTECT YOUR PERSONAL INFORMATION
     
     We care about the protection of your personal information and use appropriate technical and organizational security measures to do so. These measures are designed to provide a level of security appropriate to the risk of processing of your personal information. 
     
@@ -362,27 +374,29 @@
     
     You may also ask to opt out of direct email marketing and SMS communications from Forbes by following the unsubscribe instructions contained in the communication you have received. For marketing emails, this is typically through an "unsubscribe" or "opt-out" link. To opt out of other forms of marketing, please contact us using the information provided in the section titled _**Contacting Us**_ below.
     
-    If you are a resident of the European Economic Area, the United Kingdom, Switzerland, California, Virginia, or the People's Republic of China, you may have additional rights as set forth in the subsequent sections of this Privacy Statement.
+    If you are a resident of the European Economic Area, the United Kingdom, Switzerland, California, Colorado, Connecticut, Virginia, or the People's Republic of China, you may have additional rights as set forth in the subsequent sections of this Privacy Statement.
     
     * **Cookies, Tracking, and Interest-Based Advertising**
         
     
-    If you would like to stop or restrict the placement of cookies or flush any cookies that may already be on your computer or device, please refer to and adjust your web browser preferences. Further information on cookies is available at www.allaboutcookies.org. By deleting our cookies or disabling future cookies, you may not be able to access certain areas or features of our Properties or some of the functionality may be affected.
+    In certain countries and U.S. states, you can opt out or set preferences regarding cookies when a device you utilize visits our Properties, by visiting the URL [HERE](https://www.forbes.com/consent/editprivacy/?consent_preferces=true&purge=true) to access our cookie management tool. Please note that you will need to set preferences on each device you use to visit our Properties.
     
-    The online advertising industry provides a service through which you may opt out of receiving targeted ads from certain data partners and other advertising partners that participate in self-regulatory programs. You can opt out of targeted advertising from certain providers that participate in the Digital Advertising Alliance (DAA) program at [www.aboutads.info/consumers](http://www.aboutads.info/consumers). Other providers are members of the Network Advertising Initiative, and you can opt out of interest-based advertising by those members by visiting http://optout.networkadvertising.org/. Please note that by opting out, you may continue to see generic advertising that is not tailored to your specific interests and activities.
+    If you would like to use your browser to stop or restrict the placement of non-Required (e.g., non-essential) cookies or flush any cookies that may already be on your computer or device, you may also refer to and adjust your web browser preferences. Further information on cookies is available at www.allaboutcookies.org. By deleting our cookies or disabling future cookies, you may not be able to access certain areas or features of our Properties or some of the functionality may be affected.
+    
+    The online advertising industry provides a service through which you may opt out of receiving targeted ads from certain data partners and other advertising partners that participate in self-regulatory programs. You can opt out of targeted advertising from certain providers that participate in the Digital Advertising Alliance (DAA) program at [www.aboutads.info/consumers](http://www.aboutads.info/consumers). Other providers are members of the Network Advertising Initiative, and you can opt out of interest-based advertising by those members by visiting [http://optout.networkadvertising.org/](http://optout.networkadvertising.org/). Please note that by opting out, you may continue to see generic advertising that is not tailored to your specific interests and activities. Additionally, be advised that these industry opt-out methods will not prevent the receipt of interest-based advertising from other companies that do not participate in these programs.
     
     Cookie-based opt-outs must be performed on each device and browser that you wish to have opted out. For example, if you have opted out on your device browser, that opt-out will not be effective on your mobile device, and if you opt out on one of your devices, that opt out may not be effective on all of your devices.
     
-    For targeted advertisements delivered through mobile apps, you can install the DAA's AppChoices app on your device to opt out of targeted advertising by certain providers, and can also select a system-level advertising preference on your device (such as "Limit Ad Tracking" on Apple devices or "Opt-out of Interest-Based Ads" on Android devices).
+    If you are visiting our Properties from a mobile device, the operating system of the device may offer you options regarding how the device collects and uses your information for interest-based advertising. Please visit [https://thenai.org/opt-out/mobile-opt-out/](https://thenai.org/opt-out/mobile-opt-out/) for more information. For targeted advertisements delivered through mobile apps, you can install the DAA's AppChoices app on your device to opt out of targeted advertising by certain providers, and can also select a system-level advertising preference on your device (such as "Limit Ad Tracking" on Apple devices or "Opt-out of Interest-Based Ads" on Android devices).
     
     * **Do Not Track**
         
     
-    While some browsers have a "do not track" (also known as DNT) feature that lets you instruct websites not to track your online activities, we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers.
+    While some browsers have a "do not track" (also known as DNT) feature that lets you instruct websites not to track your online activities, we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers. However, in jurisdictions where required, our Properties are designed to honor opt-out preference (aka, Global Privacy Control) signals.
     
     **PRIVACY DISCLOSURES FOR NEVADA RESIDENTS**
     
-    If you are a resident of Nevada, you have the right to opt out of the sale of certain personal information to third parties who intend to license or sell that personal information. If you wish to exercise this right, [click here](https://www.forbes.com/consent/editprivacy/?consent_limit=true) or contact us at 866-536-7262.
+    If you are a resident of Nevada, you have the right to opt out of the sale of certain personal information to third parties who intend to license or sell that personal information. If you wish to exercise this right, [click here](https://www.forbes.com/consent/editprivacy/?consent_limit=true&purge=true) or contact us at 866-536-7262.
     
     #### CROSS-BORDER DATA TRANSFERS
     
@@ -398,13 +412,19 @@
     
     The Properties are intended for people who are at least 16 years of age. If you are less than 16 years old, please do not send any personal information to us—including information such as your name, address, or email address. We do not knowingly collect (nor do we wish to collect) any personal information from children under the age of 16. If we learn we have collected any personal information from a child under the age of 16, we will delete that information from our database and terminate the corresponding account, if any. We encourage you to discuss the Properties with your parent or guardian.
     
+    #### NOTICE OF FINANCIAL INCENTIVE
+    
+    We may at times offer our customers programs that provide certain perks associated with us, such as rewards and exclusive offers. We may also provide other programs, such as sweepstakes, contests, or other similar promotional campaigns (collectively, the “Programs”). When you sign up for one of these Programs, we typically ask you to provide your name and contact information (such as email address and/or telephone number). If participating in a program that requires signing up or logging in with a digital wallet, we may also require certain public data like your wallet address, the blockchain your wallet is on, your wallet’s transactions and transaction history, and whether your wallet holds a Forbes token. Because our Programs involve the collection of Personal Information, they may be considered a “financial incentive” program under California law or a “bona fide loyalty program” under Colorado law. The value of your personal information to us is exceeded by or related to the value of the free or discounted products or services, or other benefits that you obtain or that are provided as part of the applicable Program, minus the expense related to offering those products, services, and benefits to Program participants. Unless specifically stated otherwise in connection with a potential “financial incentive,” the value of the benefit Forbes may offer to you exceeds the value of the personal information you provide as a participant.
+    
+    You may withdraw from participating in a Program at any time by contacting us using the designated method set forth in the applicable Program rules. Please read the terms and conditions of each Program to view full details, including how to join. You may also withdraw from or opt into the Program by contacting us at the email address provided in connection with the Program. If none is provided, you may contact us as set forth above in the **Contacting Us** section.
+    
     #### CHANGES TO THIS POLICY
     
     We may update this Privacy Statement from time to time in response to changing legal, technical or business developments. This Privacy Statement describes our data handling practices for the 12 months prior to the date on which it was last updated. We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Statement at any time, provided that any such modifications will only be applied prospectively. We encourage you to periodically review the Site for the latest information on our privacy practices. Your continued use of the Properties following the posting of any changes to this Privacy Statement means you accept such changes.
     
     Note on Translated Version(s): For your convenience, Forbes may make translated versions of this Privacy Statement available on the Site. In the event that the terms of any such translated version conflict with the terms of the English version, the terms of the English version of this Privacy Statement will apply.
     
-    #### CONTACTING US<
+    #### CONTACTING US
     
     If you have any other questions regarding this Privacy Statement or how to remove or modify your user information or related consents, please feel free to contact us at [privacy@forbes.com](mailto:privacy@forbes.com) or Forbes Media, Privacy Team - Customer Service, 499 Washington Blvd., 9th Floor, Jersey City, NJ 07310.
     
@@ -418,63 +438,25 @@
     
     _Information We Collect; How We Collect It; How We Use It_
     
-    California consumers may access, delete, and control certain uses of their information as set forth in _**Rights to Your Information**_, below.
+    To the extent that our collection, use, and disclosure of Personal Information is addressed by a separate privacy notice, please consult the terms of that privacy notice for detailed information about our data practices, including the categories of personal information that we collect and disclose. For all other consumers, general information regarding our collection, use, and disclosure of personal information is set forth in the Privacy Statement, and more detailed information about our data practices in relation to specific categories of personal information can be found in the **[Personal Information Processing Chart](#personal-information-processing-chart)**.
     
-    In the past 12 months, we have collected some or all of the categories of Personal Information described in the table below. The table below further describes the business or commercial purpose(s) for which the Personal Information was collected and the entities to whom such information has been disclosed within the last 12 months.
-    
-    |     |     |     |     |
-    | --- | --- | --- | --- |
-    | Category | Examples | Purposes (Forbes may not use each data type in the "Examples" column for each purpose listed out) | Disclosed to |
-    | Identifiers | Name, alias, postal address, unique personal identifier, online identifier, internet protocol (IP) address, email address, account name, or other similar identifiers | To communicate with you; to provide products and services; for surveys, sweepstakes, and contests; marketing and promotions; to enable commenting and communities; for internal reporting; to serve you content recommendations and targeted advertising; to consider you for a Forbes list or similar accolade; for lead generation services performed on behalf of our clients; to enhance the information we may have on you; security and fraud prevention; to enable exercise of privacy rights | Forbes affiliates; service providers; event sponsors; business and advertising partners |
-    | Customer records information | Name, signature, physical characteristics or description, address, telephone number, education, employment, employment history, or other similar information. Some personal information included in this category may overlap with other categories | To communicate with you; to provide products and services; for surveys, sweepstakes, and contests; marketing and promotions; to enable commenting and communities; for internal reporting; to serve you content recommendations and targeted advertising; to consider you for a Forbes list or similar accolade; for lead generation services performed on behalf of our clients; to enhance the information we may have on you; security and fraud prevention; to enable exercise of privacy rights | Forbes affiliates; service providers; event sponsors; business and advertising partners |
-    | Characteristics of protected classifications under California or federal law | Age, race, national origin, citizenship, marital or familial status, sex, gender, and other similar information | To provide you with products and services; marketing and promotions; for internal reporting; to serve you content recommendations and targeted advertising (e.g., based on age or gender); to consider you for a Forbes list or similar accolade | Forbes affiliates; service providers; event sponsors; business and advertising partners |
-    | Commercial information | Records of products or services purchased, purchasing or consuming histories or tendencies. | To communicate with you; to provide products and services; marketing and promotions; for internal reporting; to serve you content recommendations and targeted advertising | Forbes affiliates; service providers |
-    | Internet or other similar network activity information | Browsing history, search history, information regarding consumer's interaction with a website, application, or advertisement | To communicate with you; to provide you with products and services; for surveys, sweepstakes, and contests; marketing and promotions; for internal reporting; to serve you content recommendations and targeted advertising; security and fraud prevention; to enable exercise of privacy rights | Forbes affiliates; service providers; business and advertising partners |
-    | Geolocation data | Location tracking information | To communicate with you; to provide you with products and services; for internal reporting; to serve you content recommendations and targeted advertising; security and fraud prevention | Forbes affiliates; service providers; business and advertising partners |
-    | Sensory data | Audio, electronic, visual, or similar information | To provide you with products and services; in relation to your user profile, your Forbes list or similar accolade profile, or when you post content; customer service call recordings | Forbes affiliates; service providers; business and advertising partners |
-    | Professional or employment-related information | Employer, employment history, and other employment-related information | To communicate with you; to provide you with products and services; for surveys, sweepstakes, and contests; marketing and promotions; for internal reporting; to serve you content recommendations and targeted advertising; to consider you for a Forbes list or similar accolade; for lead generation services performed on behalf of our clients | Forbes affiliates; service providers; event sponsors; business and advertising partners |
-    | Inferences | Inferences drawn from any of the categories described above to create a profile about a consumer reflecting the consumer's preferences and characteristics | To communicate with you; to provide you products and services; for internal reporting; to serve you content recommendations and targeted advertising; for surveys; marketing and promotions | Forbes affiliates; service providers; business and advertising partners |
-    | Sensitive personal information | Social security, driver's license, state ID, or passport number; credit card number in combination with any required security or access code; racial or ethnic origin. | We collect your payment card information to process and manage transactions; with your consent, we collect racial or ethnic origin information from event registrants to track and improve upon diversity | Forbes affiliates; service providers |
-    
-    The Personal Information described in the table above is collected directly from you, or from the sources set forth in the _**How We Collect Your Personal Information**_ section of the Privacy Statement. In addition to the parties described above, we may disclose your Personal Information to other third parties as set forth in the _**How We Disclose Your Personal Information**_ section of the Privacy Statement.
-    
-    Please note that Forbes does not "sell" any of your personal information in exchange for money. However, the term "sell" has a broader meaning under the CCPA than would ordinarily be understood in a non-legal context. In the past 12 months, we have sold or shared the following categories of Personal Information with third parties:
-    
-    * Identifiers
-        
-    * Customer records information
-        
-    
-    * Characteristics of protected classifications
-        
-    * Internet or other similar network activity information
-        
-    * Geolocation data
-        
-    * Professional or employment-related information
-        
-    * Inferences
-        
-    
-    _Disclosures of Personal Information to Service Providers and Third Parties_
-    
-    Company may disclose your Personal Information to a third party for a business purpose, or sell or share your Personal Information, subject to your right to opt out (see _**Personal Information Sales Opt-Out and Opt-In Rights**_, below). The information above under _**Information We Collect; How We Collect It; How We Use**_ It describes the third parties with which we may disclose your Personal Information.
+    We may disclose your Personal Information to service providers for a business purpose, or sell or share your personal information to third parties, subject to your right to opt out (see **Right to Opt Out of Selling or Sharing Your Personal Information**, below). Please note that Forbes does not “sell” any of your personal information in exchange for money. However, the term “sell” has a broader meaning under the CCPA than would ordinarily be understood in a non-legal context. The information under the [Personal Information Processing Chart](#personal-information-processing-chart) (or as addressed under a separate privacy notice, if applicable) describes the entities with which we may disclose your Personal Information.
     
     _Rights to Your Information_
     
     1. _Right to Know_
         
     
-    As a California consumer, you have the right to request that we disclose certain information to you about our collection, use, disclosure or sale of your Personal Information over the past 12 months. Once we receive and confirm your verifiable consumer request (see Exercising Your Rights, below), and subject to certain limitations that we describe below, we will disclose such information. You have the right to request any or all of the following:
+    As a California consumer, you have the right to request that we disclose certain information to you about our collection, use, or disclosure of your Personal Information over the past 12 months. Once we receive and confirm your verifiable consumer request (see Exercising Your Rights, below), and subject to certain limitations that we describe below, we will disclose such information. You have the right to request any or all of the following:
     
     * The categories of Personal Information we collected about you.
         
     * The categories of sources from which the Personal Information is collected.
         
     
-    * Our business or commercial purpose for collecting or selling that Personal Information.
+    * Our business or commercial purpose for collecting, selling, or sharing that Personal Information.
         
-    * The categories of third parties with whom we share that Personal Information.
+    * The categories of third parties with whom we disclose that Personal Information.
         
     * The specific pieces of Personal Information we collected about you (see _**Data Portability Rights**_ below).
         
@@ -482,12 +464,12 @@
     2. _Right to Delete_
         
     
-    You have the right to request that we delete any of your Personal Information that we collected from you and retained, subject to certain exceptions. Once we receive and confirm your verifiable consumer request (see _**Exercising Your Rights**_, below), we will delete (and direct our service providers to delete) your Personal Information from our records, unless an exception applies. However, we may retain Personal Information that has been de-identified or aggregated. Furthermore, we may deny your deletion request if retaining the information is necessary for us or our service provider(s) in order to perform certain actions set forth under CCPA, such as detecting security incidents and protecting against fraudulent or illegal activity.
+    You have the right to request that we delete any of your Personal Information that we collected from you and retained, subject to certain exceptions. Once we receive and confirm your verifiable consumer request (see _**Exercising Your Rights**_, below), we will delete (and direct our service providers to delete) your Personal Information from our records, unless an exception applies. However, we may retain Personal Information that has been de-identified or aggregated. Furthermore, we may deny your deletion request if retaining the information is necessary for us or our service provider(s) in order to perform certain actions set forth under the CCPA, such as detecting security incidents and protecting against fraudulent or illegal activity.
     
     3. _Right to Data Portability_
         
     
-    You have the right to request a copy of Personal Information we have collected and maintained about you in the past 12 months. The CCPA allows you to request your information from us up to twice during a 12-month period.  We will provide our response in a readily usable (and usually electronic) format.
+    You have the right to request a copy of Personal Information we have collected and maintained about you. The CCPA allows you to request your information from us up to twice during a 12-month period.  We will provide our response in a readily usable (and usually electronic) format.
     
     4. _Right to Correct_
         
@@ -497,16 +479,16 @@
     5. _Right to Opt Out of Selling or Sharing Your Personal Information_
         
     
-    You have the right to opt out of the sale or sharing of your Personal Information, along with the right to opt in to the sale of such information. We do not sell or share the Personal Information of consumers we actually know are less than 16 years of age, unless we receive affirmative authorization (the "right to opt-in") from either the consumer who is less than 16 (but greater than 13) years of age, or the parent or guardian of a consumer less than 13 years of age. To our knowledge, we do not sell or share the Personal Information of minors under 16 years of age.
+    You have the right to opt out of the sale or sharing of your Personal Information, along with the right to opt in to the sale or sharing of such information. We do not sell or share the Personal Information of consumers we actually know are less than 16 years of age, unless we receive affirmative authorization (the "right to opt-in") from either the consumer who is less than 16 (but greater than 13) years of age, or the parent or guardian of a consumer less than 13 years of age. To our knowledge, we do not sell or share the Personal Information of minors under 16 years of age.
     
-    To exercise the right to opt out, you (or your authorized representative) may visit the following web page: [Do Not Sell or Share My Personal Information](https://www.forbes.com/consent/editprivacy/?consent_do_not_sell=true). Alternatively, you may submit an opt-out request by contacting us at 866-536-7262.
+    To exercise the right to opt out, you (or your authorized representative) may visit the following web page: [Do Not Sell or Share My Personal Information](https://www.forbes.com/consent/editprivacy/?consent_do_not_sell=true&purge=true). Alternatively, you may submit an opt-out request by contacting us at 866-536-7262. We will also treat opt-out preference (aka, Global Privacy Control) browser signals as valid opt out requests.
     
     You may change your mind and opt back into Personal Information sales at any time by contacting us at [privacy@forbes.com](mailto:privacy@forbes.com).
     
     6. _Right to Limit the Use of Your Sensitive Personal Information_
         
     
-    You have the right to limit the use or disclosure of your sensitive personal information ("SPI") if we are using your SPI beyond what is reasonable and proportionate to provide the requested goods or services. You can make a request for us to limit the use or disclosure of your SPI by visiting the following Internet Web page: "[Limit the Use of My Sensitive Personal Information](https://www.forbes.com/consent/editprivacy/?consent_limit=true)."
+    You have the right to limit the use or disclosure of your sensitive personal information ("SPI") if we are using your SPI beyond what is reasonable and proportionate to provide the requested goods or services. You can make a request for us to limit the use or disclosure of your SPI by visiting the following Internet Web page: "[Limit the Use of My Sensitive Personal Information](https://www.forbes.com/consent/editprivacy/?consent_limit=true&purge=true)." While we recognize opt-out preference signals (aka, Global Privacy Controls) when required to do so by law, given the specific methods by which Forbes collects your SPI in the limited circumstances it collects SPI, opt-out preference signals would be an ineffective and technologically impractical means for honoring limit the use requests. Therefore, please make your request to limit the use of your SPI using the above link.
     
     7. _Right to Non-Discrimination_
         
@@ -530,56 +512,52 @@
     
     * Calling us at 866-536-7262; or
         
-    * Visiting our [California Resident CCPA Request Form](https://www.forbes.com/consent/editprivacy/?consent_limit=true) to submit a request.
+    * Visiting our [California Resident CCPA Request Form](https://www.forbes.com/consent/editprivacy/?consent_limit=true&purge=true) to submit a request.
         
     
-    After submitting a request, we will take steps to verify your identity in order for us to properly respond and confirm that it is not a fraudulent request. In order to verify your identity, we will ask, at a minimum, that you provide your name, email address, and mailing address so that we can match this information with the information existing in our systems. When providing us this information, you represent and affirm that all information provided is true and accurate.
+    After submitting a request, we will take steps to verify your identity in order for us to properly respond and confirm that it is not a fraudulent request. In order to verify your identity, we will ask, at a minimum, that you provide your name and email address, so that we can match this information with the information existing in our systems. If you are a print subscriber, we may also require your mailing address to find you in our systems. When providing us this information, you represent and affirm that all information provided is true and accurate.
     
-    Forbes will send you a verification email to verify that you have access to the email address you have provided. Then, as required by the CCPA, Forbes will use this information to verify your identify to a reasonable or reasonably high degree of certainty, depending on the request. If we are able to match at least two pieces of personal information to the personal information that we may retain of you, we will honor your Right to Know (Categories) request. If we are able to match at least three pieces of personal information to the personal information that we may retain of you, we will honor your Right to Delete, Right to Correct, and/or Right to Know (Data Portability / Specific Pieces of Personal Information) requests. If we are unable to verify your identity, we will let you know that we are unable to fulfill your request.
+    Forbes will send you a verification email to verify that you have access to the email address you have provided. Then, as required by the CCPA, Forbes will use this information to verify your identify to a reasonable or reasonably high degree of certainty, depending on the request. Depending on how you submit the request, if we are able to verify that you have access to the email address you provided, or if we are able to match at least two pieces of personal information to the personal information that we may retain of you, we will honor your Right to Know (Categories) request and in most cases, your Right to Delete and Right to Correct requests. If we are able to match at least three pieces of personal information to the personal information that we may retain of you, we will honor your Right to Know (Data Portability / Specific Pieces of Personal Information) requests, and in situations where we determined that a reasonably high degree of certainty was more appropriate, your Right to Delete and Right to Correct requests. If we are unable to verify your identity, we will let you know that we are unable to fulfill your request.
     
     Only you, or an agent legally authorized to act on your behalf, may make a verifiable request related to your Personal Information. If you are making a request as the authorized agent of a California consumer, we will ask you also submit reliable proof that you have been authorized in writing by the consumer to act on such consumer's behalf.
     
     We will make every effort to respond to your request within 45 days from when you contacted us. If you have a complex request, the CCPA allows us up to 90 days to respond. We will still contact you within 45 days from when you contacted us to let you know we need more time to respond.
     
-    _Notice of Financial Incentive_
-    
-    We may at times offer our customers programs that provide certain perks associated with us, such as rewards and exclusive offers. We may also provide other programs, such as sweepstakes, contests, or other similar promotional campaigns (collectively, the "Programs"). When you sign up for one of these Programs, we typically ask you to provide your name and contact information (such as email address and/or telephone number). Because our Programs involve the collection of Personal Information, they may be considered a "financial incentive" program under California law. The value of your personal information to us is related to the value of the free or discounted products or services, or other benefits that you obtain or that are provided as part of the applicable Program, minus the expense related to offering those products, services, and benefits to Program participants. Unless specifically stated otherwise in connection with a potential "financial incentive," the value of the benefit Forbes may offer to you exceeds the value of the personal information you provide as a participant.
-    
-    You may withdraw from participating in a Program at any time by contacting us using the designated method set forth in the applicable Program rules. Please read the terms and conditions of each Program to view full details, including how to join. You may also withdraw from or opt into the Program by contacting us at the email address provided in connection with the Program. If none is provided, you may contact us as set forth above in the _**Contacting Us**_ section.
-    
     **CALIFORNIA "SHINE THE LIGHT"**
     
     Under California Civil Code Section 1798.83 ("Shine the Light"), California residents have the right to request in writing from businesses with whom they have an established business relationship: (a) a list of the categories of personal information, as defined under Shine the Light, such as name, email address, and mailing address, and the type of services provided to the customer that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes; and (b) the names and addresses of all such third parties. To request the above information, please contact us at 866-536-7262. If you do not want your personal information shared with any third party who may use such information for direct marketing purposes, then you may opt out of such disclosures by contacting us at 866-536-7262.
     
-    #### VIRGINIA PRIVACY RIGHTS
+    #### VIRGINIA, COLORADO, AND CONNECTICUT PRIVACY RIGHTS
     
-    The Virginia Consumer Data Protection Act ("CDPA") provides Virginia consumers with specific rights regarding their personal information. This section describes your rights under the CDPA and explains how you may exercise these rights.
+    The Virginia Consumer Data Protection Act, the Colorado Privacy Act, the Connecticut Data Privacy Act, and similar laws in other U.S. states ("State Privacy Laws") provide their consumers with specific rights regarding their personal information. To the extent that you are a resident of one of these states, this section describes your rights under the State Privacy Laws and explains how you may exercise these rights.
     
-    The categories of personal information we process, our purposes for processing your personal information, the categories of personal information that we share with third parties, and the categories of third parties with whom we share it are detailed above in our Privacy Statement.
+    The categories of personal information we process, our purposes for processing your personal information, the categories of personal information that we share with third parties, and the categories of third parties with whom we share it are detailed above in our Privacy Statement and in the [Personal Information Processing Chart](#personal-information-processing-chart). To the extent that our personal information processing activities are addressed by a separate privacy notice, please consult the terms of that privacy notice for detailed information about our data practices, including the categories of personal information that we collect and disclose.
     
-    Certain rights that you may have concerning your personal information are set forth in our Privacy Statement. The CDPA provides you with the following additional rights:
+    **Rights to Your Information**
+    
+    Certain rights that you may have concerning your personal information are set forth in our Privacy Statement. State Privacy Laws provide you with the following additional rights:
     
     * **Right to know.** You have the right to know whether we process your personal information.
         
     
     * **Right to data portability.** You have the right to access and obtain a copy of your personal information that you previously provided to us in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another business without hindrance, where the processing is carried out by automated means. You may request such personal information up to twice annually, subject to certain exceptions.
         
-    * **Right to delete.** You have the right to delete personal information that you have provided by or that we have obtained about you. Please note that we may deny such request if the requested deletion falls under an exception to this right set forth in the CDPA. Additionally, if you request deletion of your personal information and we have obtained such information from a third-party source, we may retain such data by keeping a record of the deletion request and the minimum data necessary to ensure that your personal information remains deleted from our records and that such retained data is not used for any other purpose, or we may opt you out of the processing of such personal information for any purpose except for those allowed under the CDPA.
+    * **Right to delete.** You have the right to delete personal information that you have provided by or that we have obtained about you. Please note that we may deny such request if the requested deletion falls under an exception to this right set forth in State Privacy Laws. Additionally, if you request deletion of your personal information and we have obtained such information from a third-party source, we may retain such data by keeping a record of the deletion request and the minimum data necessary to ensure that your personal information remains deleted from our records and that such retained data is not used for any other purpose, or we may opt you out of the processing of such personal information for any purpose except for those allowed under State Privacy Laws.
         
     * **Right to opt out of selling or sharing.** You have the right to opt out of the processing of the personal information for purposes of: (i) targeted advertising; (ii) the sale of personal information; or (iii) profiling in furtherance of decisions that produce legal or similarly significant effects concerning you. As of the latest date of the Privacy Statement:
         
         * We DO process personal information for the purposes of targeted advertising;
             
-        * We DO NOT sell your personal information in exchange for monetary consideration;
+        * We DO sell your personal information in exchange for monetary or other valuable consideration (Please note that we do not “sell” any of your personal information in exchange for money. However, the term “sell” has a broader meaning under applicable law than would ordinarily be understood in a non-legal context);
             
         * We DO NOT engage in profiling decision based on your personal information that produce legal or similarly significant effects concerning you.
             
-        * If you wish to opt out of the processing of your personal information for the purposes of targeted advertising please [click here](https://www.forbes.com/consent/editprivacy/?consent_do_not_sell=true).
+        * If you wish to opt out of the processing of your personal information for the purposes of targeted advertising please call us at 866-536-7262 or [click here](https://www.forbes.com/consent/editprivacy/?consent_do_not_sell=true).
             
     
     * **Right to correct.** You have the right to correct inaccuracies in the personal information we collect from you, taking into account the nature of the personal information and the purposes for which we process it.
         
-    * **Right to nondiscrimination.** You have the right not to receive discriminatory treatment by us for the exercise of your Virginia privacy rights. Unless permitted by the CDPA, we will not:
+    * **Right to nondiscrimination.** You have the right not to receive discriminatory treatment by us for the exercise of your privacy rights. Unless permitted by State Privacy Laws, we will not:
         
         * Deny you goods or services.
             
@@ -592,24 +570,26 @@
     
     **How to Contact Us About Your Virginia Privacy Rights**
     
-    To exercise any of your Virginia privacy rights, or if you have any questions about your privacy rights, you may contact us by:
+    To exercise any of your privacy rights, or if you have any questions about your privacy rights, you may contact us by:
     
     * Calling us at 866-536-7262; or
         
-    * Visiting our [Virginia CDPA Request Form](https://www.forbes.com/consent/editprivacy/?consent_limit=true) to submit a request.
+    * Visiting [Your Privacy Rights](https://www.forbes.com/consent/editprivacy/?consent_limit=true&purge=true) to submit a request.
         
     
-    Verification of Your Identity. After submitting a request, we will take steps to verify your identity in order for us to properly respond and/or confirm that it is not a fraudulent request. In order to verify your identity, we will request, at a minimum, that you provide your name, email address, phone number, address, and relationship to us, so that we can seek to match this information with the information existing in our systems. When providing us this information, you represent and affirm that all information provided is true and accurate. If we are unable to verify using reasonably commercial efforts that the consumer submitting the request is the same individual about whom we have collected personal information, then we are not required to comply with the request; we may contact you for more information reasonably necessary to authenticate the request, but ultimately we may not be able to meet your request.
+    **Verification of Your Identity.** After submitting a request, we will take steps to verify your identity in order for us to properly respond and confirm that it is not a fraudulent request. In order to verify your identity, we will ask, at a minimum, that you provide your name and email address so that we can match this information with the information existing in our systems. If you are a print subscriber, we may also require your mailing address to find you in our systems. When providing us this information, you represent and affirm that all information provided is true and accurate.
     
-    Only you may make a verifiable request related to your personal information. If you are making a request as the parent or legal guardian of a known child regarding the processing of that child's personal information, we may ask you to submit reliable proof of your identity.
+    Forbes will send you a verification email to verify that you have access to the email address you have provided. Then, as required by the State Privacy Laws, Forbes will use this information to verify your identify to a reasonable or reasonably high degree of certainty, depending on the request. Depending on how you submit the request, if we are able to verify that you have access to the email address you provided, or if we are able to match at least two pieces of personal information to the personal information that we may retain of you, we will honor your Right to Know requests and in most cases, your Data Portability, Right to Delete, and Right to Correct requests. If we are able to match at least three pieces of personal information to the personal information that we may retain of you, we will honor your Right to Know requests, and in situations where we determined that a reasonably high degree of certainty was more appropriate, your Data Portability, Right to Delete, and Right to Correct requests. If we are unable to verify your identity, we will let you know that we are unable to fulfill your request.
+    
+    Only you—or for Colorado and Connecticut consumers, an agent legally authorized to act on your behalf—may make a verifiable request related to your personal information. If you are making a request as the authorized agent of a Colorado or Connecticut consumer, we will ask you also submit reliable proof that you have been authorized in writing by the consumer to act on such consumer’s behalf. If you are making a request as the parent or legal guardian of a known child regarding the processing of that child’s personal information, we may ask you to submit reliable proof of your identity.
     
     **Our Response Time to Your Request**
     
-    We will make every effort to respond to your request within forty-five (45) days from when you contacted us. If you have a complex request, the CDPA allows us up to ninety (90) days to respond. We will still contact you within forty-five (45) days from when you contacted us to let you know we need more time to respond and the reason for the extension.
+    We will make every effort to respond to your request within forty-five (45) days from when you contacted us. If you have a complex request, State Privacy Laws allow us up to ninety (90) days to respond. We will still contact you within forty-five (45) days from when you contacted us to let you know we need more time to respond and the reason for the extension.
     
     **Your Right to Appeal**
     
-    If we decline to take action regarding a request that you have submitted, we will inform you of our reason for declining to take action and provide instructions for how to appeal the decision. In the event that we do not respond to a request that you make pursuant to one of the privacy rights set forth in this section, you have the right to appeal our refusal to take action within a reasonable period of time after you receive our decision. Within 60 days of our receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If the appeal is denied, we will also provide you with an online mechanism, if available, or other method through which you may contact the Attorney General to submit a complaint.
+    If we decline to take action regarding a request that you have submitted, we will inform you of our reason for declining to take action and provide instructions for how to appeal the decision. In the event that we do not respond to a request that you make pursuant to one of the privacy rights set forth in this section, you have the right to appeal our refusal to take action within a reasonable period of time after you receive our decision. Within 60 days (45 for residents of Colorado) of our receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If the appeal is denied, we will also provide you with an online mechanism, if available, or other method through which you may contact your state attorney general’s office to submit a complaint.
     
     #### EUROPEAN PRIVACY RIGHTS
     
@@ -643,7 +623,7 @@
     
     **Collection of personal data from third-party sources**
     
-    We may obtain personal data and other information about you public sources and through our third-party partners who help us provide our products and services to you.
+    We may obtain personal data and other information about you from public sources and through our third-party partners who help us provide our products and services to you.
     
     **Withdrawing your consent**
     
@@ -684,12 +664,32 @@
     
     To exercise your rights under the GDPR, [click here](https://www.forbes.com/consent/editprivacy/?consent_limit=true) or contact us by using the information in the Contacting Us section in the Privacy Statement. Please note that in order for you to assert these rights, we may need to verify your identity to confirm your right to access your personal data. This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. In order to verify your identity, we may need to gather more personal data from you than we currently have.
     
-    #### PEOPLE'S REPUBLIC OF CHINA PRIVACY RIGHTS
+    #### PEOPLE’S REPUBLIC OF CHINA PRIVACY RIGHTS
     
-    If you are a resident of the People's Republic of China ("PRC"), you have the right to access, correct, and delete your personal information under the Personal Information Protection Law ("PIPL"). You can also request to restrict or object to certain processing of your personal information, and request a copy of your personal information. If you are a close relative of a person in the PRC who is now deceased, you can request to access, correct, and delete their personal information. Finally, you have the right to request additional information about the third parties that Forbes shares your personal information with.
+    If you are a resident of the People’s Republic of China ("PRC"), you have the right to access, correct, and delete your personal information under the Personal Information Protection Law ("PIPL"). You can also request to restrict or object to certain processing of your personal information, and request a copy of your personal information. If you are a close relative of a person in the PRC who is now deceased, you can request to access, correct, and delete their personal information. Finally, you have the right to request additional information about the third parties that Forbes shares your personal information with.
     
     To exercise these rights under the PIPL, [click here](https://www.forbes.com/consent/editprivacy/?consent_limit=true) or contact us at [privacy@forbes.com](mailto:privacy@forbes.com). We will need to verify your identify according to applicable law, which may require that we ask you for additional information to confirm your identity. We will do our best to respond to your request within 30 days and, in any event, we will respond within the timeframe required by applicable law. You can modify your cookie preferences by following the procedures outlined in the Your Rights section of the Privacy Statement above.
     
     If you cannot understand this Privacy Statement, you are entitled to request explanations of how we process your personal information. If you have any questions, please contact us at [privacy@forbes.com](mailto:privacy@forbes.com).
     
     (如果您无法理解本隐私政策并希望获得更多信息，请发送电子邮件至 [privacy@forbes.com](mailto:privacy@forbes.com).)
+    
+    #### PERSONAL INFORMATION PROCESSING CHART
+    
+    In the past 12 months, we have collected the following categories of personal information from the sources described in the section of the Privacy Policy above titled **How We Collect Your Personal Information**. The chart below describes our business or commercial purposes for collecting and disclosing these categories personal information, the parties we have disclosed such information to, and whether we have sold or shared (or otherwise disclosed for targeted advertising) each category of personal information. **Depending on your level of interaction with us, we may not have collected your personal information from all of the categories listed below**. The categories of personal information described below are retained and stored for as long as is necessary to effectuate the business and commercial purposes for which they have been collected, and otherwise as described in the section of the Privacy Policy above titled **Data Retention**.
+    
+    Please note that Forbes does not “sell” any of your personal information in exchange for money. However, the term “sell” has a broader meaning under applicable privacy laws than would ordinarily be understood in a non-legal context.
+    
+    |     |     |     |     |     |     |
+    | --- | --- | --- | --- | --- | --- |
+    | **Category** | **Examples** | **Business or Commercial Purposes for Collecting Personal Information** (Forbes may or may not use each data type in the "Examples" column for each purpose listed out) | **Disclosed in the Prior Twelve (12) Months for the Following Business Purposes** | **"Sold" or "Shared" in the prior Twelve (12) Months for the Following Purposes** | **Categories of Third Parties With Whom We Disclose, Sell, or Share Personal Information** |
+    | Personal identifiers | A real name, postal address, online identifier, Internet Protocol address, email address, account name | **Business Purposes:** To communicate with you; to provide products and services, and to maintain their quality and safety; to identify and repair errors; to process and fulfill orders and transactions; for surveys, sweepstakes, and contests; marketing and promotions; to enable commenting and communities; for internal reporting and service optimization; to serve you content recommendations and advertising; auditing related to counting ad impressions and unique visitors; marketing and promotions; to consider you for a Forbes list or similar accolade; for lead generation services performed on behalf of our clients; to enhance the information we may have on you; security and fraud prevention; to enable exercise of privacy rights; digital wallet information to allow you to log into Forbes digital properties, monitor whether your wallet contains a Forbes token, and provide other benefits related to your use of a digital wallet; to verify customer information; to provide customer service<br><br>**Commercial Purposes:** to provide marketing and advertising, including targeted advertising; sharing event registrant information with event sponsors | For the listed Business Purposes to be performed on our behalf | For the listed Commercial Purposes | Forbes affiliates; service providers; event sponsors; business and advertising partners |
+    | Personal information covered by the California Customer Records statute (Cal. Civ. Code § 1798.80(e))<br><br>(Some personal information in this category may overlap with other categories) | A name, physical characteristics or description, address, telephone number, credit card number, debit card number | **Business Purposes:** To communicate with you; to provide products and services, and to maintain their quality and safety; to process and fulfill orders and transactions; for surveys, sweepstakes, and contests; marketing and promotions; to enable commenting and communities; for internal reporting and service optimization; to serve you content recommendations and advertising; to consider you for a Forbes list or similar accolade; for lead generation services performed on behalf of our clients; to enhance the information we may have on you; security and fraud prevention; to enable exercise of privacy rights; to verify customer information; to provide customer service<br><br>**Commercial Purposes:** sharing event registrant information with event sponsors (e.g., name, work address, work phone) | For the listed Business Purposes to be performed on our behalf | For name, work address and phone information, only for the listed Commercial Purposes | Forbes affiliates; service providers; event sponsors; business and advertising partners |
+    | Protected classification characteristics under California or federal law. | Age, race, national origin, citizenship, marital or familial status, sex, gender, veteran status, and other similar information | **Business Purposes:** To provide you with products and services, and to maintain their quality and safety; marketing and promotions; for internal reporting and service optimization; to serve you content recommendations and advertising (e.g., based on age or gender); to consider you for a Forbes list or similar accolade; to provide customer service<br><br>**Commercial Purposes:** to provide marketing and advertising, including targeted advertising (e.g., based on age or gender); sharing event registrant information with event sponsors (e.g., age or gender) | For the listed Business Purposes to be performed on our behalf | For age and gender information, only the listed Commercial Purposes | Forbes affiliates; service providers; event sponsors; business and advertising partners |
+    | Commercial information | Records of products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies. | **Business Purposes:** To communicate with you; to provide products and services, and to maintain their quality and safety; marketing and promotions; to process and fulfill orders and transactions; for internal reporting and service optimization; to serve you content recommendations and targeted advertising; digital wallet information to allow you to log into Forbes digital properties, monitor whether your wallet contains a Forbes token, and provide other benefits related to your digital wallet; to provide customer service; to verify customer information<br><br>**Commercial Purposes:** to provide marketing and advertising, including targeted advertising | For the listed Business Purposes to be performed on our behalf | For the listed Commercial Purposes | Forbes affiliates; service providers; business and advertising partners |
+    | Internet or other similar network activity | Browsing history, search history, information on a consumer's interaction with a website, app, or ad | **Business Purposes:** To communicate with you; to provide you with products and services, and to maintain their quality and safety; to identify and repair errors; for surveys, sweepstakes, and contests; marketing and promotions; for internal reporting and service optimization; to serve you content recommendations and advertising; auditing related to counting ad impressions and unique visitors; security and fraud prevention; to enable exercise of privacy rights<br><br>**Commercial Purposes:** to provide marketing and advertising, including targeted advertising | For the listed Business Purposes to be performed on our behalf | For the listed Commercial Purposes | Forbes affiliates; service providers; business and advertising partners |
+    | Geolocation data | Location tracking information | **Business Purposes:** To communicate with you; to provide you with products and services, and to maintain their quality and safety; for internal reporting and service optimization; to serve you content recommendations and advertising; auditing related to counting ad impressions and unique visitors; marketing and promotions; security and fraud prevention; to enable exercise of privacy rights<br><br>**Commercial Purposes:** to provide marketing and advertising, including targeted advertising | For the listed Business Purposes to be performed on our behalf | For the listed Commercial Purposes | Forbes affiliates; service providers; business and advertising partners |
+    | Sensory data | Audio, visual, or similar information | **Business Purposes:** To provide you with products and services, and to maintain their quality and safety; in relation to your user profile, your Forbes list or similar accolade profile, or when you post content; customer service call recordings | For the listed Business Purposes to be performed on our behalf | N/A | Forbes affiliates; service providers |
+    | Professional or employment-related information | Employer, employment history, and other employment-related information | **Business Purposes:** To communicate with you; to provide you with products and services, and to maintain their quality and safety; for surveys, sweepstakes, and contests; marketing and promotions; for internal reporting and service optimization; to serve you content recommendations and advertising; auditing related to counting ad impressions and unique visitors; to consider you for a Forbes list or similar accolade; for lead generation services performed on behalf of our clients; to provide customer service; to verify customer information; to process and fulfill orders and transactions<br><br>**Commercial Purposes:** to provide marketing and advertising, including targeted advertising; sharing event registrant information with event sponsors | For the listed Business Purposes to be performed on our behalf | For the listed Commercial Purposes | Forbes affiliates; service providers; event sponsors; business and advertising partners |
+    | Inferences drawn from other personal information for profiling purposes | Used to create a profile reflecting a person's preferences, characteristics, and behavior | **Business Purposes:** To communicate with you; to provide you products and services, and to maintain their quality and safety; for internal reporting and service optimization; to identify and repair errors; to serve you content recommendations and advertising; auditing related to counting ad impressions and unique visitors; for surveys; marketing and promotions; to provide customer service<br><br>**Commercial Purposes:** to provide marketing and advertising, including targeted advertising | For the listed Business Purposes to be performed on our behalf | For the listed Commercial Purposes | Forbes affiliates; service providers; business and advertising partners |
+    | Sensitive personal information | Racial or ethnic origin; payment card information | **Business Purposes:** We collect your payment card information to fulfill, process and manage transactions, services, and subscriptions; provide customer service; to verify identities when required and permissible; with your consent, we collect racial or ethnic origin information from event registrants to track, report on, and improve upon diversity | For the listed Business Purposes to be performed on our behalf | N/A | Forbes affiliates; service providers |
