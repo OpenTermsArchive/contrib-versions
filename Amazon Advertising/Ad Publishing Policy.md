@@ -73,5 +73,3 @@ Advertising policies
 * [Streaming TV ad policies](https://advertising.amazon.com/resources/ad-policy/streaming-tv-ads?ref_=a20m_us_spcs_sttvad)
 * [Technical guidelines](https://advertising.amazon.com/resources/ad-policy/technical-guidelines?ref_=a20m_us_spcs_tcpl)
 * [Twitch advertising guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/twitch?ref_=a20m_us_spcs_twtcgap)
-
-On this site, we use cookies and similar tools (collectively, “cookies”) to provide and improve services to you and to show ads. To learn more about how Amazon Ads uses cookies, please read the [Amazon Cookies Notice.](https://advertising.amazon.com/legal/cookie-policy?ref=a20m_us_ccb)
