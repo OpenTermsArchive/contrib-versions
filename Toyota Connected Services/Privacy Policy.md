@@ -286,30 +286,29 @@ We do not charge a fee to process or respond to your verifiable consumer request
 
 You may only make a verifiable consumer request to know about or access your Personal Information twice within a 12-month period.
 
-**METRICS**  
+**METRICS FOR REQUESTS BY CALIFORNIA RESIDENTS**  
   
-"Do Not Sell My Personal Information" (Toyota and Lexus)  
-Total requests: 3,594  
-Requests complied with in whole or in part: 3,248  
-Requests denied: 346\*  
-Median number of calendar days to complete (July 1, 2020 to December 31, 2020): 10  
-Median number of calendar days to complete requests in 2020: 27
+"Do Not Sell or Share My Personal Information" (Toyota and Lexus)  
+Total requests: 9,773  
+Requests complied with in whole or in part: 8,641  
+Requests denied: 1132\*  
+Median number of calendar days to complete requests in 2022: 3 days
 
 "Get My Personal Information" (Toyota and Lexus)  
-Total requests: 233  
-Requests complied with in whole or in part: 162  
-Requests denied: 71\*\*  
-Median number of calendar days to complete requests: 27
+Total requests: 353  
+Requests complied with in whole or in part: 155  
+Requests denied: 198\*\*  
+Median number of calendar days to complete requests: 20 days
 
 "Delete My Personal Information" (Toyota and Lexus)  
-Total requests: 623  
-Requests complied with in whole or in part: 476  
-Requests denied: 147\*\*  
-Median number of calendar days to complete requests: 36
+Total requests: 838  
+Requests complied with in whole or in part: 365  
+Requests denied: 473\*\*  
+Median number of calendar days to complete requests: 12 days
 
-\*Includes requests that failed matching with Toyota Motor North America's internal system of consumer records, any canceled requests where the submission failed to register with Toyota Motor North America's privacy tool, or when the consumer explicitly requested cancellation of their request.
+\*Includes California resident requests that failed matching with Toyota Motor North America's internal system of consumer records, any canceled California resident requests where the submission failed to register with Toyota Motor North America's privacy tool, or when a California resident consumer explicitly requested cancellation of their request.
 
-\*\*Includes those requests that failed verification with Toyota Motor North America's third-party provider, failed matching with Toyota Motor North America's internal system of consumer records, any canceled requests where the submission failed to register with Toyota Motor North America's privacy tool, or when the consumer explicitly requested cancellation of their request.
+\*\*Includes those California resident requests that failed verification with Toyota Motor North America's third-party provider, failed matching with Toyota Motor North America's internal system of consumer records, any canceled California resident requests where the submission failed to register with Toyota Motor North America's privacy tool, or when a California resident consumer explicitly requested cancellation of their request.
 
 **13\. CONTACT US.**
 
