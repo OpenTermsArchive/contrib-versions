@@ -13,7 +13,7 @@ Looking to change your privacy settings?
 
 [Take the Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro)
 
-Effective December 15, 2022 | [Archived versions](https://policies.google.com/privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20221215/qi5mvafl/google_privacy_policy_en_eu.pdf)
+Effective July 1, 2023 | [Archived versions](https://policies.google.com/privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20230701/4jko9ma5/google_privacy_policy_en_eu.pdf)
 
 Contents
 --------
@@ -142,7 +142,7 @@ We use the information we collect in existing services to help us develop new on
 
 We use the information we collect to customize our services for you, including providing recommendations, personalized content, and [customized search results](https://policies.google.com/privacy#footnote-customized-search). For example, [Security Checkup](https://myaccount.google.com/security-checkup?utm_source=pp) provides security tips adapted to how you use Google products. And Google Play uses information like apps you’ve already installed and videos you’ve watched on YouTube to suggest new apps you might like.
 
-Depending on your settings, we may also show you [personalized ads](https://policies.google.com/privacy#footnote-personalized-ads) based on your interests. For example, if you search for “mountain bikes,” you may see an ad for sports equipment when you’re browsing a site that shows ads served by Google. You can control what information we use to show you ads by visiting your ad settings in [My Ad Center](https://myadcenter.google.com/).
+Depending on your settings, we may also show you [personalized ads](https://policies.google.com/privacy#footnote-personalized-ads) based on your interests. For example, if you search for “mountain bikes,” you may see ads for sports equipment on YouTube. You can control what information we use to show you ads by visiting your ad settings in [My Ad Center](https://myadcenter.google.com/).
 
 * We don’t show you personalized ads based on [sensitive categories](https://policies.google.com/privacy#footnote-sensitive-categories), such as race, religion, sexual orientation, or health.
 * We don’t show you personalized ads based on your content from Drive, Gmail, or Photos.
@@ -678,7 +678,7 @@ For example, information about security threats can help us notify you if we thi
 
 ### publicly accessible sources
 
-For example, we may collect information that’s publicly available online or from other public sources to help train Google’s language models and build features like Google Translate. Or, if your business’s information appears on a website, we may index and display it on Google services.
+For example, we may collect information that’s publicly available online or from other public sources to help train Google’s AI models and build products and features like Google Translate, Bard, and Cloud AI capabilities. Or, if your business’s information appears on a website, we may index and display it on Google services.
 
 ### rely on cookies to function properly
 
