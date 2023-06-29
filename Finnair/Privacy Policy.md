@@ -17,7 +17,7 @@ Your privacy is our priority.
 
 #### Data Controller
 
-FINNAIR Oyj  
+Finnair Plc  
 Business ID: 0108023-3  
 Address: Tietotie 9 01530 VANTAA, FINLAND
 
