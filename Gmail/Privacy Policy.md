@@ -125,7 +125,7 @@ We use the information we collect in existing services to help us develop new on
 
 We use the information we collect to customise our services for you, including providing recommendations, personalised content and [customised search results](https://policies.google.com/privacy?hl=en-GB#footnote-customized-search). For example, [Security Check-Up](https://myaccount.google.com/security-checkup?hl=en_GB) provides security tips adapted to how you use Google products. And Google Play uses information such as apps that you’ve already installed and videos that you’ve watched on YouTube to suggest new apps you might like.
 
-Depending on your settings, we may also show you [personalised ads](https://policies.google.com/privacy?hl=en-GB#footnote-personalized-ads) based on your interests. For example, if you search for 'mountain bikes', you may see an ad for sports equipment when you’re browsing a site that shows ads served by Google. You can control what information we use to show you ads by visiting your Ad Settings in [My Ad Centre](https://myadcenter.google.com/?hl=en_GB).
+Depending on your settings, we may also show you [personalised ads](https://policies.google.com/privacy?hl=en-GB#footnote-personalized-ads) based on your interests. For example, if you search for 'mountain bikes', you may see ads for sports equipment on YouTube. You can control what information we use to show you ads by visiting your ad settings in [My Ad Centre](https://myadcenter.google.com/?hl=en_GB).
 
 * We don’t show you personalised ads based on [sensitive categories](https://policies.google.com/privacy?hl=en-GB#footnote-sensitive-categories), such as race, religion, sexual orientation or health.
 * We don’t show you personalised ads based on your content from Drive, Gmail or Photos.
@@ -661,7 +661,7 @@ For example, information about security threats can help us notify you if we thi
 
 ### publicly accessible sources
 
-For example, we may collect information that’s publicly available online or from other public sources to help train Google’s language models and build features like Google Translate. Or, if your business’ information appears on a website, we may index and display it on Google services.
+For example, we may collect information that’s publicly available online or from other public sources to help train Google’s AI models and build products and features, like Google Translate, Bard and Cloud AI capabilities. Or, if your business’ information appears on a website, we may index and display it on Google services.
 
 ### rely on cookies to function properly
 
