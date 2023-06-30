@@ -1,4 +1,4 @@
-Effective January 1, 2023 | [Download PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/PP_01012023-1.pdf) [Descargar PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/PP_SP_01012023-1.pdf)
+Effective July 1, 2023 | [Download PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-5055_xfinity-com-welcome-kit-legal/PP_07012023.pdf) [Descargar PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-5055_xfinity-com-welcome-kit-legal/PP_SP_07012023.pdf)
 
   
 
@@ -408,6 +408,10 @@ Additional information regarding other laws and individual rights
 Your privacy may be impacted differently depending on where you live. If you're a resident of one of the following places, select your location to review the additional privacy notice and information that applies to you.
 
 [California](https://www.xfinity.com/privacy/policy/staterights#california)
+
+[Connecticut](https://www.xfinity.com/privacy/policy/staterights#connecticut)
+
+[Colorado](https://www.xfinity.com/privacy/policy/staterights#colorado)
 
 [Maine](https://www.xfinity.com/privacy/policy/staterights#maine)
 
