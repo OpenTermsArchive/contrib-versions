@@ -788,7 +788,6 @@ Open all
     
     Our programs include Custom Experience, Custom Experience Plus, Relevant Online Advertising, Relevant TV Advertising and Fios Market Research and Audience Measurement.
     
-      
     You can opt out of sale and targeted advertising by visiting [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices) .
     
     **You can appeal** a denial of your request to exercise any of the privacy rights provided by the Colorado law. If we deny your request, we will notify you and give you instructions on how you can appeal that decision to the Colorado Attorney General. 
@@ -799,7 +798,6 @@ Open all
     
     We will not deny goods or services, charge different prices or rates for goods or services or provide you a different level or quality of goods and services. 
     
-      
     **Where to exercise your rights**. 
     
     You or your [authorized agent](#) can exercise your right to know, access, delete and correct your data by:
