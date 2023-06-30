@@ -4,7 +4,7 @@ Privacy Notice
 Privacy Notice – Highlights 
 ----------------------------
 
-**Last Updated**: March 20, 2023
+**Last Updated**: June 29, 2023
 
 When you use or interact with a U.S. website, mobile app or other digital service or when you subscribe to a print or online publication or service (each a “**Magazine Service**”) operated or owned by Hearst Magazine Media, Inc. or its affiliates, we and third parties may obtain certain information about you. In this Highlights section, we provide an overview of our privacy practices related to the Magazine Services. Please review our full [Privacy Notice](#_PRIVACY_NOTICE) below for a detailed explanation of our practices. 
 
@@ -66,7 +66,7 @@ If you have questions about our Privacy Notice or the privacy rights described i
 **PRIVACY NOTICE**
 ------------------
 
-**Last Updated:** March 20, 2023
+**Last Updated:** June 29, 2023
 
 1. [Introduction](#_INTRO)
 2. [What Information We Obtain](#_WHAT_INFO)
@@ -174,7 +174,7 @@ With respect to information other than your payment card information, we use tha
 
 We may provide the information we obtain to:
 
-1. **Affiliates and Subsidiaries**. We work closely with affiliates and subsidiaries within the Hearst family of companies to whom we provide your information as necessary or appropriate to operate the Magazine Services.
+1. **Affiliates and Subsidiaries**. We work closely with affiliates and subsidiaries within the Hearst family of companies to whom we provide your information as necessary or appropriate.
 2. **Service Providers**. In connection with the operation and provision of the Magazine Services, we engage various vendors to provide services or handle transactions on our behalf, such as payment card processing, email distribution, list processing, postal mailing, cloud computing, analytics, digital content performance measurement, ad serving and managing sweepstakes, contests, promotions or events. These service providers use the information we provide to them as necessary or appropriate for the performance of their services.
 3. **Advertisers, Advertising- and Marketing-Related Service Providers and Partners**. We may provide your information to advertisers, advertising agencies, ad networks, ad exchanges, marketing businesses, technology vendors and other entities that create, deliver and assess advertising or marketing campaigns, including targeted ads.
 4. **Content Measurement Companies**. We and third parties seek to measure the performance of content across the internet, including on the Magazine Services. We may include third-party measurement software in the Magazine Services to enable market research or to measure digital and video content consumption. 
