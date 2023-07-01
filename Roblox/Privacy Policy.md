@@ -16,6 +16,8 @@
 * [16\. State Privacy Rights](#state-privacy-rights)
 * [17\. Privacy Policy Changes and Updates](#privacy-policy-changes)
 
+We are updating our Privacy & Cookie Policy, effective August 1, 2023. Click [here](https://en.help.roblox.com/hc/en-us/articles/14663460303380) to learn more.
+
 [](https://www.kidsafeseal.com/certifiedproducts/roblox.html)
 
 Please find the shortened version of our Privacy Policy below. Please click the title of each section to expand for the full details of our Privacy Policy. You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/article_attachments/16505978828692). 
