@@ -6,7 +6,7 @@ Thryv, Inc. and its affiliates and subsidiaries (individually and collectively k
 Watch how Thryv helps businesses like yours  
 _get the job, manage the job, and get credit._
 
-Revised: April 21, 2023
+Revised: July 1, 2023
 
 Your information privacy is important to us.
 
@@ -32,27 +32,33 @@ BY USING THIS WEBSITE OR ANY OF THE SERVICES, OR BY PROVIDING US WITH PERSONAL I
 
 [Advertising and Online Tracking](#6)
 
-[Managing Your Information Preferences](#7)
+[Managing Your Marketing Preferences](#7)
 
-[Managing Your Personal Information](#8)
+[Managing Your Profile Information](#8)
 
-[Security](#9)
+[Be Careful When You Share Information with Other](#9)
 
-[Links](#10)
+[Security](#10)
 
-[Children’s Privacy](#11)
+[Links](#11)
 
-[Processing Location](#12)
+[Children’s Privacy](#12)
 
-[Notice to California Residents/Your California Privacy Rights](#13)
+[Processing Location](#13)
 
-[Notice to Australian Residents](#14)
+[Notice to United States Residents](#14)
 
-[Notice to Residents of Canada](#15)
+[Notice to Residents of the European Economic Area, the United Kingdom and Switzerland](#15)
 
-[Privacy Policy Changes](#16)
+[Notice to Australian Residents](#16)
 
-[Contact Us](#17)
+[Notice to Residents of Canada](#17)
+
+[Notice to New Zealand Residents](#18)
+
+[Privacy Policy Changes](#19)
+
+[Contact Us](#20)
 
 Personal Information We Collect
 
@@ -179,6 +185,8 @@ Cookies
 
 We use cookies (a small text file placed on your computer to identify your computer and web browser) and may use anonymous identifiers (a random string of characters that is used for the same purposes as a cookie). We use cookies and other similar technologies to analyze use of and improve This Website and the Services and as described in the Advertising and Online Tracking Section of this Privacy Policy. Most web browsers are initially set up to accept cookies. Your browser may give you the ability to control cookies or other tracking tools. How you do so depends on the type of tool. Certain browsers can be set to reject browser cookies. If you block cookies, certain features on our Website or Services may not work. If you block or reject cookies, not all of the tracking described here will stop. Some of our Service Providers may use their own cookies, anonymous identifiers, or other tracking technology in connection with the services they perform on our behalf.
 
+This Website may provide functionality to allow you to set your cookie preferences. This functionality relies on browser cookies to store your preferences. If you subsequently clear or delete your browser’s cookies, the record of your cookie preferences will also be deleted, and we will not be able to honor your request until you update your preferences again.
+
 We use third-party data analytics tools to analyze how users use the App and Services. For example, we use Google Analytics to provide statistics and analytical tools to analyze how users use the Website. For more information about how to opt out of having your information used by Google Analytics, visit [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/).
 
 If you are a resident of New Zealand, we may use the Nielsen//NetRatings counting system to track common entry and exit points for the Website or Services, compiling anonymous information about usage of the Website and Services, and randomly and anonymously surveying users of the Website and Services. To do this, our Website and Services may include a small piece of code on each page which accumulates these statistics. For more information and to view Nielson//Net Ratings’ privacy policy, please visit [http://www.nielsen-online.com/corp.jsp?section=leg\_prs](http://www.nielsen-online.com/corp.jsp?section=leg_prs).
@@ -193,7 +201,7 @@ Some browsers or browser extensions also allow you to tell websites not to share
 
 Options you make are device specific.
 
-Residents of California, Virginia and Colorado have the ability to opt out of cross-contextual behavioral advertising through other means. Please see the Right to Opt-out of Sale or Sharing section below.
+Residents of some jurisdictions (e.g., California, Virginia, Colorado) have the ability to opt out of cross-contextual behavioral advertising through other means. Please see the Right to Opt-out of Sale or Sharing section below.
 
 Managing Your Marketing Preferences
 
@@ -217,7 +225,7 @@ Security
 
 We maintain physical, electronic, and procedural safeguards to help protect the confidentiality and security of information transmitted to us. It is also important for you to protect against unauthorized access of any account password or your computer. Personal information may be accessed by persons within our organization, or other entities described in this Privacy Policy, or our third-party service providers, who require such access to carry out the purposes described in this Privacy Policy, or as otherwise permitted or required by applicable law.
 
-However, no data transmission over the Internet or other network can be guaranteed to be 100% secure, and no security measures can provide absolute protection. As a result, while we strive to protect information transmitted on or through this Website or the Services, we cannot and do not guarantee the security of any information you transmit on or through this Website or the Services or that you otherwise provide to us, and you do so at your own risk.
+owever, no data transmission over the Internet or other network can be guaranteed to be 100% secure, and no security measures can provide absolute protection. As a result, while we strive to protect information transmitted on or through this Website or the Services, we cannot and do not guarantee the security of any information you transmit on or through this Website or the Services or that you otherwise provide to us, and you do so at your own risk.
 
 Links
 
@@ -233,17 +241,16 @@ Please be aware that your Personal Information and communications may be transfe
 
 Although we will make all reasonable efforts to ensure your personal information is protected in accordance with our obligations, the laws in these countries may not be as protective of your privacy as those in your location. Personal information processed and stored in another country may be subject to disclosure or access requests by the governments, courts or law enforcement or regulatory agencies in that country according to its laws. By using This Website or Services, you are agreeing to the collection, use, transfer, and disclosure of your Personal Information and communications will be governed by the applicable laws in the United States and/or the applicable country of processing. If you have any questions regarding international data transfers, you may contact us using the contact information we provide below.
 
-Notice to Consumers in California, Colorado, Nevada, or Virginia
+Notice to Residents of the United States
 
-If you are a resident of California, Colorado, Nevada or Virginia, you may have certain additional privacy rights under the applicable privacy laws in your state (“State Privacy Laws”). This section generally describes those rights and how you can exercise them.
+If you are a resident of California, or jurisdictions with similar laws (e.g., Colorado, Connecticut, Utah, Virginia), you may have certain additional privacy rights under the applicable privacy laws in your state (“State Privacy Laws”). This section generally describes those rights and how you can exercise them.
 
-If you are a resident of California, Colorado or Virginia, you have legal rights in addition to the choices listed above. These rights include the following:
+These rights are not absolute. In some situations we may not be able to process your request. This may include if a legal exception applies. We’ll let you know when or if a right doesn’t apply to you. You will not be discriminated against for exercising a privacy right. Those rights are:
 
 1. **Access:** to learn the categories of information we collect and use, and for those in California, the categories of sources of collection and disclosure and the business purpose for collection;
 2. **Portability:** a copy of (Virginia) or specific pieces of (California) Personal Information collected;
-3. **Deletion:** to have us delete information we collected from you;
-4. **Correction:** asking us to fix your information; and
-5. **Non-retaliation:** not to be discriminated against for exercising one or more of these rights.
+3. **Deletion:** to have us delete information we collected from you; and
+4. **Correction:** asking us to fix your information.
 
 We will also maintain a record of your rights requests.
 
@@ -275,11 +282,11 @@ Making a verifiable consumer request does not require you to create an account w
 
 **Right to Opt-out of the Sale or Sharing of Personal Information**
 
-Residents of California, Colorado and Virginia have the right to opt out of the “sale” or “sharing” of their personal data, as such terms are defined under State Privacy Laws.
+Residents of certain jurisdictions (e.g., Colorado, Virginia) have the right to opt out of the “sale” or “sharing” of their personal data, as such terms are defined under State Privacy Laws.
 
 Under California law, “share” means disclosing your personal information by us to a third party for cross-context behavioral advertising, in exchange for money or anything else of value. Thus, when we use the term “share” under this section, we are using it in the narrow meaning of how it is defined under California law. Other State Privacy Laws do not use the term “share,” but describe the concept as using personal information for targeted advertising.
 
-Under the laws of California and Colorado, “sell” means exchanging your personal information by us with a third party for money or anything else of value. Under Virginia law, “sell” is the exchange of personal information for money only.
+The term “sell” has a different meaning under certain State Privacy Laws. For example, under the laws of California and Colorado, “sell” means exchanging your personal information by us with a third party for money or anything else of value, while under Virginia law, “sell” is the exchange of personal information for money only.
 
 Currently, we participate in digital advertising networks to deliver advertising that is tailored to your interests. The participation in certain ad networks can constitute a “sale” or “sharing” of personal data under State Privacy Laws. The categories of third parties to whom information may be disclosed in this context is our third party partners (e.g., advertisers and marketing partners and data analytics providers).
 
@@ -307,7 +314,7 @@ To learn more about these advertising practices or to opt out of this type of ad
 
 **Right to Opt-out of Profiling**
 
-If you are a resident of California, Colorado or Virginia, and subject to certain exceptions, you may have a right to opt out of forms of automated processing performed on Personal Information to evaluate, analyze or predict personal aspects related to your economic situation, health, personal preferences, interests, reliability, behavior, location or movements (“**Profiling**”).
+Residents of some jurisdictions (e.g., California, Colorado, Virginia) – subject to certain exceptions – may have a right to opt out of forms of automated processing performed on Personal Information to evaluate, analyze or predict personal aspects related to your economic situation, health, personal preferences, interests, reliability, behavior, location or movements (“**Profiling**”).
 
 We engage in cookie-based or digital advertising-based Profiling. To opt out of this practice, please follow the instructions detailed above regarding opting out of the sale or sharing of your Personal Information.
 
@@ -319,11 +326,11 @@ We do not otherwise engage in Profiling.
 
 **Right to Limit Disclosure of Sensitive Personal Information**
 
-If you are a California resident, you have a right to limit the processing of your Sensitive Personal Information (as defined by California law). We do not collect or process Sensitive Personal Information for inferring characteristics or use or disclose Sensitive Personal Information for purposes other than those permitted by law.
+Residents of some jurisdictions (e.g., California) have a right to limit the processing of their Sensitive Personal Information (as defined by the applicable State Privacy law). We do not collect or process Sensitive Personal Information for inferring characteristics or use or disclose Sensitive Personal Information for purposes other than those permitted by law.
 
 **Right to Appeal**
 
-If you are a Virginia or Colorado resident and we were unable to fulfill your request, you may appeal our request by submitting our web form available [here](https://privacyportal-cdn.onetrust.com/dsarwebform/dd6500c7-03cb-45b0-8bed-97ece55a892d/cfcefb69-41db-4aee-bd00-c702df72ee0f.html) within fourteen days of our decision, and provide a detailed reason for your appeal, as well as your state of residence.
+Residents of some jurisdictions (e.g., Virginia, Colorado) have a right to appeal our decision on a privacy rights request. If we were unable to fulfill your request, you may appeal our request by submitting our web form available [here](https://privacyportal-cdn.onetrust.com/dsarwebform/dd6500c7-03cb-45b0-8bed-97ece55a892d/cfcefb69-41db-4aee-bd00-c702df72ee0f.html) within fourteen days of our decision, and provide a detailed reason for your appeal, as well as your state of residence.
 
 **Notice to Nevada Residents/Your Nevada Privacy Rights**
 
@@ -332,6 +339,57 @@ If you are a Nevada resident, please note that Thryv does not sell for monetary 
 **Financial Incentives**
 
 We may offer various financial incentives permitted by State Privacy Laws that can result in different prices, rates, or quality levels. Any permitted financial incentive we offer will reasonably relate to your Personal Information’s value and contain written terms that describe the program’s material aspects. Participation in a financial incentive program requires your prior opt in consent, which you may revoke at any time.
+
+Notice to Residents of the European Economic Area, the United Kingdom and Switzerland
+
+The data controller for This Website and Services is:
+
+Thryv, Inc. 2200 West Airfield DrivePO Box 619810DFW Airport, TX 75261
+
+Our Data Protection Officer is: Jeff Wing, [jeff.wing@thryv.com](mailto:jeff.wing@thryv.com)
+
+We use the Personal Information we collect about you to pursue the following purposes, which are necessary for the performance of the contract between us to provide you with the products or services you requested or which we consider in our legitimate interests:
+
+* To enable you to register to This Website and Services;
+* To send you transaction-related emails or push notifications;
+* To offer you the features for which you provide information;
+* To handle any request you may have to our consumer services such as resolving your problem or question, manage any complaints or deal with any feedback you may provide us;
+* For statistical analysis of aggregated data to help us segmenting our offering and develop our products and services;
+* To better understand the way in which This Website and Services are working, to offer better experience to you when using This Website and Services, to create statistics in relation to the use of This Website and Services, and our other services and offerings in general; and
+* To help us diagnose technical and service problems and administer This Website and Services.
+
+Based on your voluntary consent, we also use:
+
+* your browsing data to better understand your profile, interests, preferences to enhance your user experience and facilitate your experience and offer you relevant information and promotional materials and interest-based advertising; and
+* your Personal Information and combine it with third-party data to send you personalized emails and push notifications tailored to you and your interests.
+
+In order to comply with our legal obligations, we may also use some of your Personal Information to detect and prevent illegal uses, abuse, spam, fraud, security incidents and other harmful activity or government or court orders.
+
+You may have certain rights under the European Union, United Kingdom or Swiss data protection legislation (collectively, “**European Privacy Laws**”) with respect to your Personal Information, such as the right to:
+
+* request access to and be provided with information on the processing of your Personal Information;
+* request corrections of your Personal Information if such Personal Information proves inaccurate or incomplete;
+* request your Personal Information to be deleted (i) if it is no longer necessary for the purposes described in this Privacy Policy, (ii) should you decide to withdraw your consent where you gave it, (iii) should you object to its processing for direct marketing purposes, (iv) should you identify that it would have been unlawfully processed, (v) should we be under a legal obligation to erase it to comply with European Privacy Laws and always provided we are not under a legal obligation to keep it;
+* restrict the processing of your Personal Information (i) if you contest its accuracy; (ii) if the processing is unlawful and you oppose the erasure; (iii) if it is no longer needed for the purposes set out in this Privacy Policy but is required to be maintained by us for the establishment, exercise or defense of a legal claim, (iv) if you object to profiling;
+* object to the processing of your Personal Information for direct marketing purposes or to any processing which we would have based on our legitimate interest (e.g. profiling); and
+* receive Personal Information which you provided to us in a structured, commonly used and machine-readable format and to transmit it to another provider provided it is processed based on your consent or our contract.
+
+If you wish to exercise any of your above rights, please reach out to us by:
+
+* Calling us toll-free at **1-877-380-1838**; or
+* Visit [here](https://privacyportal-cdn.onetrust.com/dsarwebform/dd6500c7-03cb-45b0-8bed-97ece55a892d/cfcefb69-41db-4aee-bd00-c702df72ee0f.html) to fill out and submit our web form.
+
+You also have a right to make a complaint to a data protection supervisory authority, in the member state or country where you work, normally live, or where any alleged infringement of data protection laws occurred. The UK supervisory authority is the Information Commissioner’s Office (ICO). You can visit their website at www.ico.org.uk. If you are in the EU, you can find your local data protection authority [here](https://ec.europa.eu/newsroom/article29/items/612080/en). If you are in Switzerland, you can find your local data protection authority [here](https://www.edoeb.admin.ch/edoeb/en/home/deredoeb/auftragundaufgaben-DS.html).
+
+Regarding the transfer of Personal Information to countries outside the European Economic Area, United Kingdom or Switzerland, we have entered, or will enter, into so-called “Standard Contractual Clauses” approved by the Commission of the European Union for international transfer of personal information to controllers or processors established in third counties as the case may be, when appropriate. If you would like further information, please contact us or our Data Protection Officer at the information provided above.
+
+The principle that we apply is that your Personal Information will be deleted when they are no longer necessary for the purpose for which they were collected, unless a longer retention period is needed to:
+
+* Respond to any questions, complaints or claims made by you or on your behalf;
+* To show that we treated you fairly; or
+* To keep records required by law.
+
+We will not retain your personal information for longer than necessary for the purposes set out in this policy.
 
 Notice to Australian Residents
 
