@@ -418,7 +418,7 @@ This Agreement starts from the Effective Date and for a monthly duration. This A
 
 The Agreement will then be renewed for additional one (1) month periods, unless terminated by either Party, giving at least one (1) month’ notice to:
 
-For Brevo: to [\[email protected\]](https://www.sendinblue.com/cdn-cgi/l/email-protection)  
+For Brevo: to [\[email protected\]](https://www.sendinblue.com/cdn-cgi/l/email-protection).com  
 For the Client: to the user email address assigned to the Brevo account.
 
 In case either Party is in material breach of its obligations stated in the Agreement and fails to remedy such breach within ten (10) days following the sending of a certified mail with return receipt giving notice of the breach at issue, the other Party may terminate the Agreement without prejudice to any damages it may be entitled to claim hereunder.
