@@ -8,6 +8,8 @@ Roblox Terms of Use
 * [Appendix B (Japan)](#appendix-b-japan)
 * [Appendix C (EUROPEAN UNION/EUROPEAN ECONOMIC AREA AND THE UNITED KINGDOM)](#appendix-c-eu-uk)
 
+We are updating our Terms of Use, effective August 1, 2023, to reflect certain changes we are making on Roblox. Click [here](https://en.help.roblox.com/hc/en-us/articles/14663412502676) to learn more.
+
 Introduction
 
 ### Welcome to the Roblox universe, where imagination and creativity rule!
