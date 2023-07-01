@@ -1,7 +1,7 @@
 **Vimeo Privacy Policy**
 ========================
 
-Last Updated: October 17, 2022
+Last Updated: June 30, 2023
 
 This Privacy Policy explains the information that Vimeo collects when you use its products and services, how that information is used, with whom it may be shared, and your privacy choices.
 
@@ -249,25 +249,9 @@ You have the right to: opt out of non-essential cookies (see our [Cookie Policy]
 
 If you have a request, complaint or inquiry, please contact our Data Protection Officer at the address listed in **Section 15**. We are committed to working with you to obtain a fair resolution of any issue. You also have the right to file a complaint with the supervisory data protection authority of your jurisdiction.
 
-### **14.3 California Users**
+### **14.3 U.S. State Privacy Disclosures and Consumer Rights**
 
-Under California’s “Shine the Light” law, California residents have the right to opt out of disclosing information to third parties for the purpose of allowing such third parties to directly market their products and services. At this time, we do not engage in this type of disclosure.
-
-Under the California Consumer Privacy Act (“CCPA”), California consumers have the following rights, which can be exercised directly or in certain cases, through an authorized agent:
-
-**Right to Know.** You have the right to request information about the categories and sources of personal information we collect, our purposes for collecting the information, and the types of third parties that receive that information. Details about our data collection, use and third-party disclosures can be found [here](https://vimeo.com/privacy/california-privacy). In addition, you have the right to request a copy of your personal information. You may exercise this right once per 12-month period by using this [form](https://vimeo.com/help/contact?category=cf_account&subcategory=cf_privacy_related_request).
-
-**Right to Delete.** You have the right to request that we delete some or all of the personal information that we have about you. Deleting all data will typically require the deletion of your account, along with all content, including your videos. Notwithstanding the foregoing, we may retain information to provide services you have ordered, complete transactions, honor opt-outs, prevent fraud, spam, and other abuse, comply with our legal obligations, cooperate with law enforcement, and to exercise and defend our rights. You may exercise your right to delete using this [form](https://vimeo.com/help/contact?category=cf_account&subcategory=cf_privacy_related_request).
-
-**Do Not Sell.** You have the right to opt out of the sale of your personal information, and to request information about whether we have sold your personal information in the past 12 months. When you use our services, we may share your personal information with advertising partners in a way that may constitute a sale under the CCPA. You may opt out via the link provided on the relevant page or app. If we do not provide an opt-out mechanism, it is because we do not believe in good faith that your personal information is being sold. 
-
-**Non-Discrimination.** We won’t discriminate against you because you exercise any rights herein.
-
-To exercise your rights to know and delete, we must be able to verify your identity as the owner of the Vimeo account you are inquiring about. We may not be able to fulfill your request until we can do so. In general, we verify identity by confirming that you are the owner of the email address associated with the account. An authorized agent submitting a request on your behalf must also have access to the email address associated with the account, along with sufficient evidence that you have authorized that person to submit the request on your behalf. Although you need not have a Vimeo account to submit a request, we may not be able to locate certain information to process your request if you don’t have one.
-
-### **14.4 Nevada Users**
-
-Nevada residents have the right to opt out of the sale of certain "covered information" collected by operators of websites or online services. We currently do not sell covered information, as "sale" is defined by such law, and we don't have plans to sell this information. However, if you would like to be notified if we decide in the future to sell personal information covered by the Act, you can provide us with your name and email address [here](https://forms.gle/Fz9PvcKHMdT7WTer5). You are responsible for updating any change in your email address by the same method and we are not obligated to cross-reference other emails you may have otherwise provided us for other purposes. We will maintain this information and contact you if our plans change. At that time, we will create a process for verifying your identity and providing an opportunity to verified consumers to complete their opt-out. Please become familiar with our data practices as set forth in this Privacy Policy. We may share your data as explained in this Privacy Policy, such as to enhance your experiences and our services, and those activities will be unaffected by a Nevada do not sell request.
+Additional details about Vimeo’s data collection, use, and third-party disclosures can be found in our [U.S. State Privacy Notice](https://vimeo.com/privacy/us-state-privacy).
 
 15\. How to Contact Us
 ----------------------
