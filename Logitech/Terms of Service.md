@@ -103,17 +103,17 @@ At Logitech, we respect the intellectual property of others. If you believe that
 **Logitech’s agent can be reached through any of the contacts listed below:**
 
 **In the U.S.**  
-    _Logitech Copyright Agent  
-    c/o Logitech Inc.  
-    7700 Gateway Blvd.  
-    Newark, CA 94560_
+_Logitech Copyright Agent  
+c/o Logitech Inc.  
+3930 North First Street  
+San Jose, CA 95134_
 
 **Outside of the U.S.**  
-    _Logitech Copyright Agent  
-    c/o Logitech Europe S.A.  
-    EPFL - Quartier de l'Innovation  
-    Daniel Borel Innovation Center  
-    CH - 1015 Lausanne_
+_Logitech Copyright Agent  
+c/o Logitech Europe S.A.  
+EPFL - Quartier de l'Innovation  
+Daniel Borel Innovation Center  
+CH - 1015 Lausanne_
 
 **By e-mail**   
 http://support.logitech.com/response-center
