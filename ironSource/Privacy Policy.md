@@ -1,6 +1,6 @@
 #### ironSource Website Privacy Policy
 
-Last Updated: December 20th, 2022
+Last Updated: July 3rd, 2023
 
 The following policy governs how ironSource Ltd. (“ironSource“, “Company” “we” or “us“), and its subsidiaries, handle information collected from users of its websites, at the addresses [is.com/](https://www.is.com/), lunalabs.io/, bidalgo.com/ and their subdomains (the “Sites“), including ironSource Mobile Dashboard, Luna Create Hub and the Luna Control Hub (the “Dashboards”).
 
@@ -19,7 +19,7 @@ Tapjoy’s privacy policy – [https://dev.tapjoy.com/en/legal/Privacy-Policy](h
 The Sites are accessible for individuals around the world. Accordingly, throughout the document, we try to harmonize our approach and the language of the privacy policy as much as possible. However, sometimes we refer to specific laws that require further disclosures. These disclosures cover laws and regulations applicable to the following regions:
 
 1. Individuals who we deem to be located in the European Economic Area, United Kingdom, or Switzerland – With respect to the collection and processing of their personal data, as defined by the General Data Protection Regulation (“GDPR”), and the UK Data Protection Act.
-2. If you are a resident of California or Virginia – please see “State Privacy Rights” section of this privacy policy for information related to privacy laws in these states.
+2. If you are a resident of California, Virginia, Connecticut, or Colorado – please see “State Privacy Rights” section of this privacy policy for information related to privacy laws in these states.
 
 Your Consent (PLEASE READ CAREFULLY!) BY ACCESSING THE SITES AND/OR USING THE SITES, YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY (THE “PRIVACY POLICY“), INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW). IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, YOU MAY NOT USE THE SITES.
 
@@ -84,7 +84,7 @@ A data subject also has the right to file a complaint with the relevant supervis
 
 State Privacy Rights
 
-1. California and Virginia residents have certain rights under state privacy laws with respect to personal data we collect. If you are a resident of such states, this section of the privacy policy contains disclosures required by law and explains rights that may be available to you.
+1. California, Virginia, Connecticut and Colorado residents have certain rights under state privacy laws with respect to personal data we collect. If you are a resident of such states, this section of the privacy policy contains disclosures required by law and explains rights that may be available to you.
 2. In the past 12 months, we have collected, sold (including sharing for targeted advertising), and disclosed for business purposes the following categories of personal data. We do not knowingly sell, nor do we share or process for targeted advertising purposes, personal data about consumers under the age of 16.
 ![](/wp-content/uploads/2022/12/privacy-policy-3-1.png ) ![](/wp-content/uploads/2022/12/privacy-policy-3-2.png )5. Our Purposes for Processing Personal Data – We use and disclose the personal data we collect for our commercial and business purposes, as further described above in the “Information We Collect, and Purposes of Processing” and the “Sharing Information With Third Parties” Sections.
 6. Recipients of Personal Data Although we do not sell personal data for monetary consideration, we do sell personal data, including sharing for targeted advertising purposes, subject to the choices you make on the Site, to the categories of third parties listed below:
@@ -118,9 +118,9 @@ Verification Process and Required Information
 
 Note that we may need to request additional information from you to verify your identity or process your request. You will not be required to create an account with us to submit a request or have it fulfilled. We will require you to provide, at a minimum, your email address and state of residence. We may also ask you to provide us a few of your device identifiers, so that we can verify your identity. Once we verify your identity, we will request additional information necessary to authenticate the request.
 
-Information about California resident requests in 2021
+Information about California resident requests in 2022
 
-![](/wp-content/uploads/2022/07/privacy-policy-5.png )
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 Changes to the Privacy Policy
 
