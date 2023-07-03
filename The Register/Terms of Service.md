@@ -132,7 +132,7 @@ These Terms (as amended from time to time) are exclusively governed by and are c
 
 **Get our** [Tech Resources](https://whitepapers.theregister.com/)
 
-#### Similar topics
+#### More about
 
 #### TIP US OFF
 
