@@ -1,9 +1,9 @@
 Cloudflare Privacy Policy
 =========================
 
-This Privacy Policy is effective as of December 20, 2022.
+This Privacy Policy is effective as of July 3, 2023.
 
-_We have updated our November 1, 2022 Privacy Policy to add a new notice to California consumers and to make additional conforming changes as required under the California Consumer Privacy Act (CCPA), including by adding detail to the sections describing information sharing and data subject rights. Cloudflare’s underlying privacy practices have not materially changed._
+_We have updated our December 20, 2022 Privacy Policy to add a new subsidiary (Cloudflare Mexico S. de R.L de C.V.) in section 17._
 
 * * *
 
@@ -412,7 +412,13 @@ Cloudflare Korea LLC
 8-113 (Samseong-dong), Teheran-ro 507  
 Gangnam-gu, Seoul, South Korea, 06168  
 Attention: Data Protection Officer  
-[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+
+Cloudflare Mexico S. de R.L de C.V.  
+Paseo de los Tamarindos 150, Bosques de las Lomas, Cuajimalpa  
+Ciudad de México, C.P. 05120  
+Attention: Data Protection Officer  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
 
   
   
