@@ -292,7 +292,7 @@ If you have any queries regarding this Policy, if you wish to exercise any of yo
 
 **Get our** [Tech Resources](https://whitepapers.theregister.com/)
 
-#### Similar topics
+#### More about
 
 What we do with your data
 -------------------------
