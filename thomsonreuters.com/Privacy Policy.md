@@ -311,7 +311,7 @@ Please provide us enough information to verify your identify. We will use inform
   
 **IMPORTANT**: These rights are **not** absolutely guaranteed and there are several exceptions where we may not have an obligation to fulfill your request. We are only required to honor these rights to the extent that we act as a business/controller under CCPA/CPRA and the requested rights have been granted and apply to you under CCPA/CPRA. Please consult CCPA/CPRA to determine what rights may be available to you and when access to these rights is limited. You may appeal an adverse decision on your requests [_by emailing or writing to us_](#ContactUs); and you have the right to lodge a complaint to the California Attorney General if you are not satisfied with our responses to your requests or how we manage your personal information. However, we encourage you to first [_contact us_](#ContactUs) so we can address your concerns directly.
 
-[CCPA Consumer Request Metrics for 2021](https://www.thomsonreuters.com/en/ccpa-privacy-information.html "CCPA Consumer Request Metrics for 2021")
+[CCPA Consumer Request Metrics for 2022](https://www.thomsonreuters.com/en/ccpa-privacy-information.html "CCPA Consumer Request Metrics for 2022")
 
 _This California Statement was last updated on January 1, 2023._
 
