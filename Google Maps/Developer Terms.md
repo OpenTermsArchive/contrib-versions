@@ -39,9 +39,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
 3. **Country-Specific Notices.**
     
     1. **Algeria**
-        
-        The Humanitarian Date Exchange (DZ): [https://data.humdata.org/](https://data.humdata.org/)
-        
+        * The Humanitarian Data Exchange (DZ): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+            
     2. **Andorra**
         
         Govern de Andorra
@@ -116,6 +115,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Main Roads Western Australia (AU): [https://www.mainroads.wa.gov.au/](https://www.mainroads.wa.gov.au/)
             
         * ACTmapi (AU): [https://actmapi-actgov.opendata.arcgis.com/datasets/ACTGOV::actgov-road-centrelines/explore](https://actmapi-actgov.opendata.arcgis.com/datasets/ACTGOV::actgov-road-centrelines/explore)
+            
+        * Open Data Transport, Transport for New South Wales (AU): [https://opendata.transport.nsw.gov.au/](https://opendata.transport.nsw.gov.au/)
             
     4. **Austria**
         * BEV - BA fuer Eich und Vermessungswesen (Geocodes) © Österreichisches Adressregister, 2009. You are not permitted, at any one time, to use Austrian Postal Data to provide, display or provide access to mass downloads or bulk feeds of numerical latitude and longitude coordinates.
@@ -1968,9 +1969,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Ministerio de Obras Públicas, Dirección de Vialidad [https://vialidad.mop.gob.cl/Paginas/default.aspx](https://vialidad.mop.gob.cl/Paginas/default.aspx)
             
     69. **Zambia**
-        
-        OCHA Regional Office for Southern and Eastern Africa (ROSEA) ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
-        
+        * OCHA Regional Office for Southern and Eastern Africa (ROSEA) ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
+            
+        * GRID3 (ZM): [https://grid3.org/](https://grid3.org/) ; License provided at [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode)
+            
     70. **Mali**
         
         OCHA Mali ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
@@ -2041,6 +2043,18 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
     86. **Sudan**
         
         The Humanitarian Data Exchange (HDX), Sudan - [https://data.humdata.org/dataset/cod-ab-sdn?](https://data.humdata.org/dataset/cod-ab-sdn?)
+        
+    87. **Tunisia**
+        
+        The Humanitarian Data Exchange (TN): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+        
+    88. **Mongolia**
+        
+        The Humanitarian Data Exchange (MN): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+        
+    89. **Croatia**
+        
+        Narodne Novine, State Geodetic Administration (2023) (HR): [https://narodne-novine.nn.hr/clanci/sluzbeni/2023\_05\_56\_970.html](https://narodne-novine.nn.hr/clanci/sluzbeni/2023_05_56_970.html)
         
 4. **Business Listings Data.**
     
