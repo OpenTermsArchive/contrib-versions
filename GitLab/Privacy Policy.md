@@ -20,7 +20,7 @@ At GitLab, we take the privacy and security of your information seriously. This 
     
 * [What are my rights and choices regarding Personal Data?](https://about.gitlab.com/privacy/#what-are-my-rights-and-choices-regarding-personal-data)
     
-* [California Privacy Rights](https://about.gitlab.com/privacy/#california-privacy-rights)
+* [U.S. State Privacy Rights](https://about.gitlab.com/privacy/#us-state-privacy-rights)
     
 * [Other important privacy information](https://about.gitlab.com/privacy/#other-important-privacy-information)
     
@@ -196,9 +196,9 @@ _To port your projects:_ You may port your projects by either using the [Export 
 
 _To inform your Supervisory Authority:_ In the unlikely event you disagree with our handling of your request, you have the right to file a complaint with the competent supervisory authority in your jurisdiction.
 
-### California Privacy Rights
+### US State Privacy Rights
 
-If you are a California resident, please visit the [GitLab California Privacy Notice](https://about.gitlab.com/handbook/legal/privacy/california-privacy-notice.html) for a specific description of your privacy rights and collection practices under the California Consumer Privacy Act.
+If you are a California or Virigina resident, please visit the [U.S. State Privacy Rights Disclosures](https://about.gitlab.com/handbook/legal/privacy/us-state-privacy-rights.html) for a specific description of your privacy rights and collection practices.
 
 ### Other important privacy information
 
