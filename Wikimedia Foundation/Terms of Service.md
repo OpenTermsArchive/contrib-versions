@@ -5,6 +5,10 @@ Toggle the table of contents
 Policy:Terms of Use
 ===================
 
+ Add languages
+
+[Add links](https://www.wikidata.org/wiki/Special:NewItem?site=foundationwiki&page=Policy%3ATerms+of+Use "Add interlanguage links")
+
 * [Policy](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use "View the subject page [c]")
 * [Discussion](https://foundation.wikimedia.org/wiki/Policy_talk:Terms_of_Use "Discussion about the content page [t]")
 
