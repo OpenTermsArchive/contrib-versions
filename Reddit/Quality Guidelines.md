@@ -27,7 +27,7 @@ Respect the privacy of others. Instigating harassment, for example by revealing 
 
 **Rule 4**
 
-Do not post or encourage the posting of [sexual or suggestive content involving minors](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/do-not-post-sexual-or-suggestive).
+Do not share or encourage the sharing of [sexual](https://support.reddithelp.com/hc/en-us/articles/360043075352), [abusive](https://support.reddithelp.com/hc/en-us/articles/17130615698964), or suggestive content involving minors. Any predatory or inappropriate behavior involving a minor is also strictly prohibited.
 
 **Rule 5**
 
