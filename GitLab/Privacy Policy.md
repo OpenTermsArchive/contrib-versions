@@ -198,7 +198,7 @@ _To inform your Supervisory Authority:_ In the unlikely event you disagree with 
 
 ### US State Privacy Rights
 
-If you are a California or Virigina resident, please visit the [U.S. State Privacy Rights Disclosures](https://about.gitlab.com/handbook/legal/privacy/us-state-privacy-rights.html) for a specific description of your privacy rights and collection practices.
+If you are a California or Virigina resident, please visit the [U.S. State Privacy Rights Disclosures](https://about.gitlab.com/handbook/legal/privacy/us-state-privacy-disclosure.html) for a specific description of your privacy rights and collection practices.
 
 ### Other important privacy information
 
