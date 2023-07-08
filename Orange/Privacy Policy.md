@@ -28,6 +28,8 @@ Les données personnelles collectées par Orange sont regroupées sous les caté
 | Produits et services détenus ou utilisés | Offres et options détenues, équipement détenu, paramétrage, contenus achetés, applications téléchargées |
 | Profil, scores et segmentation client | Score et segmentation marketing, indicateur de satisfaction client, profil bon ou mauvais payeur et éventuel plan de recouvrement, scoring du risque de fraude |
 
+A l’occasion de certains traitements Orange est susceptible de traiter des documents contenant des données dont les catégories sont décrites ci-dessus. Il peut notamment s’agir de documents d’identités, de justificatifs de domicile ou de justificatifs de diverses situations individuelles.
+
 **Les données collectées indirectement auprès de tiers**
 
 Certaines données traitées par Orange sont collectées de manière indirecte :
@@ -205,13 +207,15 @@ Voir 2.2.4
 Vos Données Personnelles sont conservées sur les périodes suivantes :
 
 * Données utilisées dans le cadre de la gestion de la relation commerciale et à des fins de prospection commerciale : les données d’un client d’une offre résidentielle sont conservées pendant 3 ans à compter de la fin de la relation commerciale. Les données d’un client d’une offre entreprise sont conservées pendant 5 ans à compter de la fin de la relation commerciale. Les données d’un prospect sont conservées pendant 3 ans à compter de leur collecte ou du dernier contact émanant du prospect.
+* Données relatives à l’identification des clients au titre des articles L34-1 et R10-13 du Code des postes et des communications électroniques : ces données sont conservées pendant 5 ans à compter de la fin de la relation commerciale.
+    
 * Données de connexion, d’usages des services et d’interaction : ces données sont conservées deux ans à compter de leur collecte, sauf pour les données de trafic au sens de l’article L34-1 du Code des Postes et communication électronique qui sont conservées un an à compter de leur collecte.
 * Données d’interactions avec les services clients Orange: les conversations écrites (e-chat) sont conservées pendant 13 mois. Les conversations orales sont enregistrées de manière aléatoire (échantillonnage) et sont conservées 6 mois.
 * Les données de contenus des services vendus par Orange sont conservées le temps de délivrer le service (acheminement, remise du contenu et accès au contenu).
 * Données relatives au paiement : ces données relatives sont conservées pendant 13 mois suivant la date de débit à titre de preuve, et jusqu’à 15 mois afin de prendre en compte la possibilité d'utilisation de cartes de paiement à débit différé.
 * Données relatives au score et à la segmentation client : ces données sont conservées jusqu’à 2 ans à compter de leur calcul.
 * Données utilisées dans le cadre de la gestion des impayés : en cas de non-paiement, les informations sont conservées jusqu’à 56 mois après la résiliation, durée éventuellement prolongée d’un délai correspondant à la période maximale pendant laquelle un client mobile peut être inscrit dans le fichier du GIE Préventel. En cas de paiement les informations sont conservées 48 heures à compter du paiement.
-* Données spécifiques utilisées pour éviter la fraude et préserver le chiffre d’affaire : les données d’alerte en cas de fraude sont conservées dans un délai de 12 mois à compter de l'émission des alertes pour les qualifier. Les alertes non qualifiées sont supprimées directement. Les données d’alerte en cas de fraude avérée sont conservées pour une durée maximale de 5 ans à compter de la clôture du dossier de fraude. Les données de lutte contre le blanchiment sont conservées pendant 5 ans à compter de l’exécution de l’opération.
+* Données spécifiques utilisées pour éviter la fraude et préserver le chiffre d’affaire : les données d’alerte en cas de fraude sont conservées dans un délai de 12 mois à compter de l'émission des alertes pour les qualifier. Les alertes non qualifiées sont supprimées directement. Les données d’alerte en cas de fraude avérée sont conservées pour une durée maximale de 5 ans à compter de la clôture du dossier de fraude. Les données de lutte contre le blanchiment sont conservées pendant 5 ans à compter de l’exécution de l’opération. Justificatifs d’identité : Ils sont conservés pendant 18 mois à compter de leur collecte à des fins de lutte contre la fraude
 * Données utilisées pour mesurer l’audience en boutique : les données sont conservées pour la durée de l'opération technique nécessaire au comptage des flux visiteurs (maximum 24h).
 * Données permettant de réaliser des jeux concours : les données sont conservées 3 mois et jusqu’à 6 mois après la fin du jeu s’il existe un risque élevé de contestation.
 * Données permettant de piloter notre impact environnemental : pour le traitement des plaintes environnementales, les données sont conservées 12 mois à partir de la collecte ou du dépôt de la plainte. Pour le calcul et la restitution de l’empreinte carbone, les données ne sont pas conservées.
@@ -228,7 +232,7 @@ Vos Données Personnelles sont conservées sur les périodes suivantes :
 Orange conserve également des données dans le cadre de ses obligations légales :
 
 * Données comptables devant être archivées : ces données sont conservées 10 ans en base d'archivage à titre de preuve.
-* Données permettant de répondre au droit de communication des autorités et aux réquisitions des autorités et aux décisions de justice : ces données sont conservées pendant 3 ans à compter de la réponse.
+* Données permettant de répondre au droit de communication des autorités et aux réquisitions des autorités et aux décisions de justice : ces données sont conservées pendant 12 mois à compter de la réponse.
 * Données relatives au livre de police : ces données sont conservées pendant 10 ans après leur collecte.
 * Données relatives aux demandes d’exercice des droits des personnes concernées : ces données sont conservées pour une durée de 5 ans après le traitement de la demande ou, à défaut, dès la prescription d’une décision de l’autorité de contrôle compétente ou prescription du contentieux.
 * Données nécessaires pour assurer le blocage, à l’utilisation, des mobiles déclarés volés : ces données sont conservées pendant 18 mois après la date d’inscription.
