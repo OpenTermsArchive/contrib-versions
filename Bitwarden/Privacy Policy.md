@@ -111,7 +111,7 @@ This information is retained in accordance with the Bitwarden retention policy.
 Analytics Data
 --------------
 
-We use data for analytics and measurement to understand how our the Site and Bitwarden Service are used. For example, we analyze data about your visits to our Site to do things like optimize product design. We use a variety of tools to do this, including Google Analytics. When you visit the Site using Google Analytics, we and Google may link information about your activity from that site with activity from other sites that use Google Analytics services.
+We use data for analytics and measurement to understand how the Site and Bitwarden Service are used. For example, we analyze data about your visits to our Site to do things like optimize product design. We use a variety of tools to do this, including Google Analytics. When you visit the Site using Google Analytics, we and Google may link information about your activity from that site with activity from other sites that use Google Analytics services.
 
 [](#bitwarden-community)
 
