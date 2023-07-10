@@ -19,7 +19,7 @@ Permanently delete your information.
 
 **Control Over Your Data**
 
-For additional ways to delete, opt out, or manage your information, please see the "**What Controls Do I Have Over My Information?**" section of this Privacy Policy.
+For additional ways to delete, opt out, or manage your information, please see the "[What Controls Do I Have Over My Information?](https://www.dotdashmeredith.com/brands-privacy#TextBlockOneColumn-7)" section of this Privacy Policy.
 
 ### **What Personal Information Do We Collect?** 
 
@@ -60,11 +60,11 @@ The type of information automatically collected includes:
 
 ⠀⠀⠀● **Location data,** including geographic location we or our third-party providers may collect, such as via permissions within the app operating system or browser functionality.
 
-⠀⠀⠀● **Advertising/Advertising measurement data**, including data associated with your view of, or your clicks on, advertisements served on our Services, cookie IDs or other digital or proprietary identifiers (e.g., iOS IDFA, Google AAID) assigned to such device, and device metadata, analytics/usage data, and location data described above, in each case, for purposes of serving advertising (personalized or otherwise) or facilitating advertising measurement/attribution to better optimize or otherwise understand the effectiveness of ad campaigns.  For more information on our and third-party partners’ data collection and online advertising practices, please see the “**What are Our Third-Party Data Collection and Online Advertising Practices?**” section of this Privacy Policy.
+⠀⠀⠀● **Advertising/Advertising measurement data**, including data associated with your view of, or your clicks on, advertisements served on our Services, cookie IDs or other digital or proprietary identifiers (e.g., iOS IDFA, Google AAID) assigned to such device, and device metadata, analytics/usage data, and location data described above, in each case, for purposes of serving advertising (personalized or otherwise) or facilitating advertising measurement/attribution to better optimize or otherwise understand the effectiveness of ad campaigns.  For more information on our and third-party partners’ data collection and online advertising practices, please see the “[What are Our Third-Party Data Collection and Online Advertising Practices?](https://www.dotdashmeredith.com/brands-privacy#TextBlockOneColumn-6)” section of this Privacy Policy.
 
 Note that we and our third-party partners may combine information that each of us collects automatically with other information about you, including information you choose to provide.
 
-See the “**What Controls Do I Have Over My Information?**” section below to learn more about how you may limit or disable cookies or certain other tracking technologies on your device. For more information about how we and our third-party partners use these technologies and data for advertising purposes, please see “**What are Our Third-Party Data Collection and Online Advertising Practices?”** below.
+See the “[What Controls Do I Have Over My Information?](https://www.dotdashmeredith.com/brands-privacy#TextBlockOneColumn-7)” section below to learn more about how you may limit or disable cookies or certain other tracking technologies on your device. For more information about how we and our third-party partners use these technologies and data for advertising purposes, please see “**[What are Our Third-Party Data Collection and Online Advertising Practices?](https://www.dotdashmeredith.com/brands-privacy#TextBlockOneColumn-6)”** below.
 
 #### **Third-Party Sources**
 
@@ -109,9 +109,9 @@ We may use your information for various purposes, including:
 ⠀⠀⠀● **To personalize your experience on our Services:** This includes providing you with content or other products or services you might be interested in and de-emphasize content you’ve already read or viewed.  
   
 
-⠀⠀⠀● **For marketing purposes:** We may send you communications about new features, updates, products, and special offers.  We may also use your information to serve you ads about our products or other products or services we (or our advertising partners, such as other third-party brands/agencies) think you might find interesting.  We may also use individual and aggregate information about you to inform our, and our third-party partners, marketing and advertising campaigns more broadly.  For more information on your choices about marketing communications, see the “**What Controls Do I Have Over My Information?**” and “**What are Our Third Party Data Collection and Online Advertising Practices?**” sections of this Privacy Policy.  
+⠀⠀⠀● **For marketing purposes:** We may send you communications about new features, updates, products, and special offers.  We may also use your information to serve you ads about our products or other products or services we (or our advertising partners, such as other third-party brands/agencies) think you might find interesting.  We may also use individual and aggregate information about you to inform our, and our third-party partners, marketing and advertising campaigns more broadly.  For more information on your choices about marketing communications, see the “[What Controls Do I Have Over My Information?](https://www.dotdashmeredith.com/brands-privacy#TextBlockOneColumn-7)” and “[What are Our Third-Party Data Collection and Online Advertising Practices?](https://www.dotdashmeredith.com/brands-privacy#TextBlockOneColumn-6)” sections of this Privacy Policy.  
 
-⠀⠀⠀● **To communicate with you:**  For example, we may communicate with you about your account activities, such as by providing you transaction confirmations or alerting you when a subscription is up for renewal. If you register with us, we may enroll you in our email newsletters or other periodic electronic communications and may also send you user surveys and promotional communications. We may communicate with you by email, postal mail, telephone, text message, or other means. We may use push notifications on Apps to your mobile device. For more information on how to adjust your communications preferences, see “**What Controls Do I Have Over My Information?**” below.  
+⠀⠀⠀● **To communicate with you:**  For example, we may communicate with you about your account activities, such as by providing you transaction confirmations or alerting you when a subscription is up for renewal. If you register with us, we may enroll you in our email newsletters or other periodic electronic communications and may also send you user surveys and promotional communications. We may communicate with you by email, postal mail, telephone, text message, or other means. We may use push notifications on Apps to your mobile device. For more information on how to adjust your communications preferences, see “[What Controls Do I Have Over My Information?](https://www.dotdashmeredith.com/brands-privacy#TextBlockOneColumn-7)” below.  
   
 
 ⠀⠀⠀● **To monitor, improve, and develop our products and services:** We may use your information to understand our users and to tailor or optimize our Services. For example, we may analyze statistics and trends to make our Services better and to develop or better personalize the Services or new services or features.  
@@ -159,7 +159,7 @@ We may share a common account identifier (such as a hashed or encrypted email ad
 
 #### **How To Exercise Your Choices Regarding Online Ads**
 
-Please see the “**What Controls Do I Have Over My Information?**” section below to learn how you can opt out of interest-based advertising.
+Please see the “[What Controls Do I Have Over My Information?](https://www.dotdashmeredith.com/brands-privacy#TextBlockOneColumn-7)” section below to learn how you can opt out of interest-based advertising.
 
 #### **More On Social Media Platforms and Advertising**
 
@@ -229,7 +229,7 @@ Your personal information may be stored in, transferred to, and processed in the
 
 We may choose or be required by law to provide different or additional disclosures about our data privacy practices depending on your state or country of residence:
 
-● **California, Colorado, Connecticut, Nevada, Utah, and Virginia**:  If you are a California, Colorado, Connecticut, Nevada, Utah, or Virginia resident, please see the ‘U.S. State Privacy Notice’ section below.
+● **California, Colorado, Connecticut, Nevada, Utah, and Virginia**:  If you are a California, Colorado, Connecticut, Nevada, Utah, or Virginia resident, please see the ‘[U.S. State Privacy Notice](https://www.dotdashmeredith.com/brands-privacy#TextBlockOneColumn-9)’ section below.
 
 ● **European Economic Area, United Kingdom, or Switzerland**: If you are located in the European Economic Area (“**EEA**”), United Kingdom (“**UK**”), or Switzerland, or otherwise engage with our European operations, please see the 'European Privacy Notice' section for additional European-specific privacy information, including what constitutes your personal data, the lawful bases we rely on to process your personal data, and your rights in respect of your personal data.  
   
@@ -321,7 +321,7 @@ Where we process “deidentified information” (as such term is defined under t
 
 The following additional disclosures apply to residents covered under the CCPA.
 
-● **Categories/Use of PI**: In the last 12 months, please see the list below for the categories of personal information we have collected. Further, please see “**How Do We Use Personal Information?**” for the purposes for which such personal information is used.
+● **Categories/Use of PI**: In the last 12 months, please see the list below for the categories of personal information we have collected. Further, please see “[How Do We Use Personal Information?](https://www.dotdashmeredith.com/brands-privacy#TextBlockOneColumn-4)” for the purposes for which such personal information is used.
 
 ⠀⠀⠀o  **Identifiers**, such as your name, email address, date of birth, online identifiers, or other similar identifiers.
 
