@@ -10,7 +10,9 @@ For a prior version of our Privacy Policy, click here.
 
 
 
-In the event of a conflict, the English language version shall govern.
+If this Policy is translated into any language other than English, in the event of a conflict, the
+
+English language version shall govern to the fullest extent permitted by applicable laws.
 
 
 
