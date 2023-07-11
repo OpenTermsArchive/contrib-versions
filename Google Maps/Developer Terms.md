@@ -441,6 +441,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
     15. **Fiji**
         * Fiji Ministry of Lands & Mineral Resource (FJ): [https://www.lands.gov.fj/](https://www.lands.gov.fj/)
             
+        * The Humanitarian Data Exchange (FJ): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+            
     16. **Finland**
         * National Land Survey of Finland © NLS, 2011
             
@@ -712,6 +714,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Geo D'Air: [https://www.geodair.fr/](https://www.geodair.fr/)
             
+        * Etalab (FR): [https://www.data.gouv.fr/en/organizations/etalab/](https://www.data.gouv.fr/en/organizations/etalab/)
+            
     18. **Gambia**
         
         Gambia National Disaster Management Agency (NDMA) - [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
@@ -960,6 +964,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Ireland's Open Data Portal - [Data.Gov.IE](https://data.gov.ie/) - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
         * Northern Ireland Air [https://www.airqualityni.co.uk/about/copyright](https://www.airqualityni.co.uk/about/copyright)
+            
+        * Ordnance Survey Ireland, OSI (IE): [https://osi.ie/](https://osi.ie/)
             
     29. **Isle of Man**
         
@@ -1271,6 +1277,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
     51. **Solomon Islands**
         * Pacific Data Hub (SB): [https://pacificdata.org/](https://pacificdata.org/)
+            
+        * Pacific Community, PopGIS (SB): [https://sdd.spc.int/innovation-sdd/popgis-v3](https://sdd.spc.int/innovation-sdd/popgis-v3)
             
     52. **South Africa**
         * © AfriGIS (Pty) Ltd
@@ -1889,6 +1897,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         209. Rhode Island Department of transportation (US): [https://www.dot.ri.gov/](https://www.dot.ri.gov/)
             
+        210. South Dakota Department of Transportation (US): [https://dot.sd.gov/](https://dot.sd.gov/)
+            
     64. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
     65. **United Arab Emirates / Abu Dhabi**
@@ -1899,6 +1909,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * © 2000 Aviation Systems
             
         * Servicio de Geomática, República Oriental del Uruguay. Dataset used: [https://catalogodatos.gub.uy/dataset/intendencia-montevideo-parcelas-catastrales](https://catalogodatos.gub.uy/dataset/intendencia-montevideo-parcelas-catastrales) ([https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia\_de\_datos\_abiertos\_0.pdf](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia_de_datos_abiertos_0.pdf))
+            
+        * Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento, AGESIC (UY): [https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/) Licensed under Open Data License - Uruguay Credited for Political Admin Areas
             
     67. **Worldwide**
         * Unicode Common Locale Data Repository © Unicode, Inc. ([https://www.unicode.org/copyright.html](https://www.unicode.org/copyright.html)). All rights reserved.
@@ -1987,9 +1999,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Papua New Guinea National Statistics Office - [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
             
     73. **Yemen**
-        
-        OCHA Yemen ([https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode))
-        
+        * OCHA Yemen ([https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode))
+            
+        * The Humanitarian Data Exchange (YE): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+            
     74. **Zimbabwe**
         
         OCHA Regional Office for Southern and Eastern Africa (ROSEA) - Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO) - ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
@@ -2037,9 +2050,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         The Humanitarian Data Exchange (HDX), South Sudan - [https://data.humdata.org/dataset/cod-ab-ssd](https://data.humdata.org/dataset/cod-ab-ssd)
         
     85. **Tonga**
-        
-        Pacific Data Hub - [https://pacificdata.org/](https://pacificdata.org/)
-        
+        * Pacific Data Hub - [https://pacificdata.org/](https://pacificdata.org/)
+            
+        * Pacific Community, PopGIS (TO): [https://sdd.spc.int/innovation-sdd/popgis-v3](https://sdd.spc.int/innovation-sdd/popgis-v3)
+            
     86. **Sudan**
         
         The Humanitarian Data Exchange (HDX), Sudan - [https://data.humdata.org/dataset/cod-ab-sdn?](https://data.humdata.org/dataset/cod-ab-sdn?)
@@ -2053,9 +2067,51 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         The Humanitarian Data Exchange (MN): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
         
     89. **Croatia**
+        * Narodne Novine, State Geodetic Administration (2023) (HR): [https://narodne-novine.nn.hr/clanci/sluzbeni/2023\_05\_56\_970.html](https://narodne-novine.nn.hr/clanci/sluzbeni/2023_05_56_970.html)
+            
+        * Croatia State Geodetic Administration (HR): [https://narodne-novine.nn.hr/search.aspx](https://narodne-novine.nn.hr/search.aspx) Political Boundaries, 2023
+            
+    90. **Paraguay**
         
-        Narodne Novine, State Geodetic Administration (2023) (HR): [https://narodne-novine.nn.hr/clanci/sluzbeni/2023\_05\_56\_970.html](https://narodne-novine.nn.hr/clanci/sluzbeni/2023_05_56_970.html)
+        Datos Abiertos, 2023 (PY): [https://www.datos.gov.py/](https://www.datos.gov.py/) Postal codes licensed under: [https://www.paraguay.gov.py/datos-abiertos/licencias](https://www.paraguay.gov.py/datos-abiertos/licencias)
         
+    91. **Gibraltar**
+        
+        H.M. Government of Gibraltar - Geoportal - GIS (GI): [https://www.geoportal.gov.gi/](https://www.geoportal.gov.gi/)
+        
+    92. **Qatar**
+        * The Humanitarian Data Exchange (QA): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+            
+    93. **Cameroon**
+        * The Humanitarian Data Exchange (CM): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+            
+    94. **Micronesia**
+        * The Humanitarian Data Exchange (FM): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+            
+    95. **Georgia**
+        * The Humanitarian Data Exchange (GE): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+            
+    96. **Lesotho**
+        * The Humanitarian Data Exchange (LS): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+            
+    97. **Nicaragua**
+        * The Humanitarian Data Exchange (NI): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+            
+    98. **Laos**
+        * The Humanitarian Data Exchange (LA): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+            
+    99. **Liberia**
+        * The Humanitarian Data Exchange (LR): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+            
+    100. **Djibouti**
+        * The Humanitarian Data Exchange (DJ): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+            
+    101. **Wallis & Futuna**
+        * Pacific Data Hub (WF): [https://pacificdata.org/](https://pacificdata.org/)
+            
+    102. **Cyprus**
+        * Open Data Cyprus (CY): [https://www.data.gov.cy/](https://www.data.gov.cy/)
+            
 4. **Business Listings Data.**
     
     1. **Argentina**
