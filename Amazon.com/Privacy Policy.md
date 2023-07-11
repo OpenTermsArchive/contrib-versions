@@ -5,20 +5,20 @@ Amazon.com Privacy Notice
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Notice describes how Amazon.com and its affiliates (collectively "Amazon") collect and process your personal information through Amazon websites, devices, products, services, online and physical stores, and applications that reference this Privacy Notice (together "Amazon Services"). **By using Amazon Services, you are consenting to the practices described in this Privacy Notice.**
 
-* [What Personal Information About Customers Does Amazon Collect?](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_467C686A137847768F44B619694D3F7C)
-* [For What Purposes Does Amazon Use Your Personal Information?](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_7CE768C1281346DAAF87CE795E8B3610)
-* [What About Cookies and Other Identifiers?](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_0D132936501A4AE0A2F8D74426A8A2CA)
-* [Does Amazon Share Your Personal Information?](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_3DF674DAB5B7439FB2A9B4465BC3E0AC)
-* [How Secure Is Information About Me?](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_277A1D99140544EE9259ACA749AE3C3D)
-* [What About Advertising?](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_3F77537F901B4157B0CBD26834827652)
-* [What Information Can I Access?](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_002EF744608C4F9CAA7685BECC6C85FC)
-* [What Choices Do I Have?](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_697E8F46A0354B3B83E1A0D4C2FA52EE)
-* [Are Children Allowed to Use Amazon Services?](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_D17374D6EE5B4077946965351E11175C)
-* [EU-US and Swiss-US Privacy Shield](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_A110DAC3F6BC4D5D9DDD59797104B1E5)
-* [Additional State-Specific Privacy Disclosures](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_FE2374D302994717AB1A8CE585E7E8BE)
-* [Conditions of Use, Notices, and Revisions](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_BA2E1D5A9B1F41CB86BCF0A40D9B8604)
-* [Related Practices and Information](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_644071FEF22E48A2A160BAA332F95B27)
-* [Examples of Information Collected](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01)
+* [What Personal Information About Customers Does Amazon Collect?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_467C686A137847768F44B619694D3F7C)
+* [For What Purposes Does Amazon Use Your Personal Information?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_7CE768C1281346DAAF87CE795E8B3610)
+* [What About Cookies and Other Identifiers?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_0D132936501A4AE0A2F8D74426A8A2CA)
+* [Does Amazon Share Your Personal Information?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_3DF674DAB5B7439FB2A9B4465BC3E0AC)
+* [How Secure Is Information About Me?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_277A1D99140544EE9259ACA749AE3C3D)
+* [What About Advertising?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_3F77537F901B4157B0CBD26834827652)
+* [What Information Can I Access?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_002EF744608C4F9CAA7685BECC6C85FC)
+* [What Choices Do I Have?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_697E8F46A0354B3B83E1A0D4C2FA52EE)
+* [Are Children Allowed to Use Amazon Services?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_D17374D6EE5B4077946965351E11175C)
+* [EU-US and Swiss-US Privacy Shield](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_A110DAC3F6BC4D5D9DDD59797104B1E5)
+* [Additional State-Specific Privacy Disclosures](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_FE2374D302994717AB1A8CE585E7E8BE)
+* [Conditions of Use, Notices, and Revisions](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_BA2E1D5A9B1F41CB86BCF0A40D9B8604)
+* [Related Practices and Information](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_644071FEF22E48A2A160BAA332F95B27)
+* [Examples of Information Collected](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01)
 
 What Personal Information About Customers Does Amazon Collect?
 --------------------------------------------------------------
@@ -27,9 +27,9 @@ We collect your personal information in order to provide and continually improve
 
 Here are the types of personal information we collect:
 
-* **Information You Give Us:** We receive and store any information you provide in relation to Amazon Services. Click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01) to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our Amazon Services.
-* **Automatic Information:** We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services. Like many websites, we use "cookies" and other unique identifiers, and we obtain certain types of information when your web browser or device accesses Amazon Services and other content served by or on behalf of Amazon on other websites. Our physical stores may use cameras, computer vision, sensors, and other technology to gather information about your activity in the store, such as the products and services you interact with. Click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01) to see examples of what we collect.
-* **Information from Other Sources:** We might receive information about you from other sources, such as updated delivery and address information from our carriers, which we use to correct our records and deliver your next purchase more easily. Click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01) to see additional examples of the information we receive.
+* **Information You Give Us:** We receive and store any information you provide in relation to Amazon Services. Click [here](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01) to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our Amazon Services.
+* **Automatic Information:** We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services. Like many websites, we use "cookies" and other unique identifiers, and we obtain certain types of information when your web browser or device accesses Amazon Services and other content served by or on behalf of Amazon on other websites. Our physical stores may use cameras, computer vision, sensors, and other technology to gather information about your activity in the store, such as the products and services you interact with. Click [here](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01) to see examples of what we collect.
+* **Information from Other Sources:** We might receive information about you from other sources, such as updated delivery and address information from our carriers, which we use to correct our records and deliver your next purchase more easily. Click [here](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01) to see additional examples of the information we receive.
 
 For What Purposes Does Amazon Use Your Personal Information?
 ------------------------------------------------------------
@@ -82,7 +82,7 @@ What About Advertising?
 What Information Can I Access?
 ------------------------------
 
-You can access your information, including your name, address, payment options, profile information, Prime membership, household settings, and purchase history in the "Your Account" section of the website. Click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01) for a list of examples that you can access.
+You can access your information, including your name, address, payment options, profile information, Prime membership, household settings, and purchase history in the "Your Account" section of the website. Click [here](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01) for a list of examples that you can access.
 
 What Choices Do I Have?
 -----------------------
@@ -90,7 +90,7 @@ What Choices Do I Have?
 If you have any questions as to how we collect and use your personal information, please contact our [Customer Service](https://www.amazon.com/gp/help/contact-us). Many of our Amazon Services also include settings that provide you with options as to how your information is being used.
 
 * As described above, you can choose not to provide certain information, but then you might not be able to take advantage of many of the Amazon Services.
-* You can add or update certain information on pages such as those referenced in [What Information Can I Access?](https://www.amazon.com/gp/help/customer/display.html?nodeId=#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01). When you update information, we usually keep a copy of the prior version for our records.
+* You can add or update certain information on pages such as those referenced in [What Information Can I Access?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01). When you update information, we usually keep a copy of the prior version for our records.
 * If you do not want to receive email or other communications from us, please adjust your [Customer Communication Preferences](https://www.amazon.com/gp/cpc/homepage?ref=gss_to_cpc). If you don't want to receive in-app notifications from us, please adjust your notification settings in the app or device.
 * You may adjust your personalized advertising preferences by visiting [Your Ads Privacy Choices](https://www.amazon.com/privacyprefs?ref_=footer_iba).
 * The Help feature on most browsers and devices will tell you how to prevent your browser or device from accepting new cookies or other identifiers, how to have the browser notify you when you receive a new cookie, or how to block cookies altogether. Because cookies and identifiers allow you to take advantage of some essential features of Amazon Services, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Services that require you to Sign in. For more information about cookies and other identifiers, see our [Cookies Notice](https://www.amazon.com/cookies).
