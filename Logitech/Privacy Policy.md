@@ -91,14 +91,14 @@ If you have questions, comments, or would like to make a request regarding your 
 
 **Phone:** +1 646-454-3200  
 **Email:** [support.logitech.com/response-center](https://support.logitech.com/response-center)  
-**Postal Mail:** Logitech Privacy Officer, 7700 Gateway Blvd., Newark, CA 94560 USA
+**Postal Mail:** Logitech Privacy Officer, 3930 North First Street, San Jose, CA 95134 USA
 
 If you are not satisfied with our response, you can refer your privacy complaint or dispute to the relevant state or national data protection authority in your jurisdiction.
 
 Special information for EU, UK and Swiss users
 ----------------------------------------------
 
-From May 25, 2018, the processing of personal data of individuals in the European Union is subject to the [EU General Data Protection Regulation (“GDPR”)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG&toc=OJ:L:2016:119:TOC). This section provides information relating to EU users' rights and Logitech’s obligations under the GDPR. Personal data processed through the use of our Sites is controlled by Logitech Inc, 7700 Gateway Blvd., Newark, CA 94560 USA. The European Representative is Logitech Ireland Services Limited, City Gate Plaza Two, Mahon, Cork, Ireland.
+From May 25, 2018, the processing of personal data of individuals in the European Union is subject to the [EU General Data Protection Regulation (“GDPR”)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG&toc=OJ:L:2016:119:TOC). This section provides information relating to EU users' rights and Logitech’s obligations under the GDPR. Personal data processed through the use of our Sites is controlled by Logitech Inc, 3930 North First Street, San Jose, CA 95134 USA. The European Representative is Logitech Ireland Services Limited, City Gate Plaza Two, Mahon, Cork, Ireland.
 
 Read more
 
