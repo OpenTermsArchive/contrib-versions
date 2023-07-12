@@ -87,7 +87,7 @@ Our operations are supported by a network of computers, servers, other infrastru
 
 We may transfer your personal data outside the EEA and UK to other Kraken group companies, service providers and business partners. Transfers outside of the EEA or the UK (as appropriate) shall be in accordance with lawful transfer mechanisms. If personal data is transferred to a country which has been found by the European Commission to have an essentially equivalent standard of data protection to the EEA, then Kraken may rely on an ‘adequacy decision’ to transfer that personal data. See [here](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en#:~:text=The%20European%20Commission%20has%20so,Uruguay%20as%20providing%20adequate%20protection.) for a list of countries with adequacy decisions. If personal data is transferred from the EEA or UK to the US, we may rely on standard contractual clauses. 
 
-**10\. Privacy when using digital assets and** **blockchains**
+**10\. Privacy when using digital assets and** **blockchains**
 --------------------------------------------------------------
 
 Your use of digital assets may be recorded on a public blockchain. Public blockchains are distributed ledgers, intended to immutably record transactions across wide networks of computer systems. Many blockchains are open to forensic analysis which can lead to re-identification of transacting individuals and the revelation of personal data, especially when blockchain data is combined with other data.
