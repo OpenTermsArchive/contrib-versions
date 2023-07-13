@@ -556,6 +556,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
                 
             * Réseau urbain EVA'D. ([https://transport.data.gouv.fr/datasets/donnees-du-reseau-evad-1](https://transport.data.gouv.fr/datasets/donnees-du-reseau-evad-1))
                 
+            * Réseau urbain SETRAM. ([https://transport.data.gouv.fr/datasets/gtfs-du-reseau-des-transports-bus-et-tramway-setram-circulant-sur-le-territoire-le-mans-metropole/](https://transport.data.gouv.fr/datasets/gtfs-du-reseau-des-transports-bus-et-tramway-setram-circulant-sur-le-territoire-le-mans-metropole/))
+                
         * Contient des informations des producteurs de données suivants, sujettes à la Licence Ouverte v2 ([source](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)) et mises à jour régulièrement à partir d'octobre 2022 :
             
             * Région Bourgogne-Franche-Comté - Mobigo. ([https://transport.data.gouv.fr/datasets/reseau-de-transport-interurbain-mobigo-en-bourgogne-franche-comte/](https://transport.data.gouv.fr/datasets/reseau-de-transport-interurbain-mobigo-en-bourgogne-franche-comte/))
@@ -674,6 +676,14 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
                 
             * Réseau urbain Tempo Bus. ([https://transport.data.gouv.fr/datasets/agen-gtfs-urbain](https://transport.data.gouv.fr/datasets/agen-gtfs-urbain))
                 
+            * Réseau urbain SNgo!. ([https://transport.data.gouv.fr/datasets/sngo-vernon-les-andelys-seine-normandie-agglo](https://transport.data.gouv.fr/datasets/sngo-vernon-les-andelys-seine-normandie-agglo))
+                
+            * Réseau urbain DeepMob. ([https://transport.data.gouv.fr/datasets/deepmob-dieppe-maritime](https://transport.data.gouv.fr/datasets/deepmob-dieppe-maritime))
+                
+            * Réseau urbain TUS. ([https://transport.data.gouv.fr/datasets/transports-urbains-tus-ville-de-soissons](https://transport.data.gouv.fr/datasets/transports-urbains-tus-ville-de-soissons))
+                
+            * Réseau urbain et périurbain Fil Bleu. ([https://transport.data.gouv.fr/datasets/fil-bleu-syndicat-des-mobilites-gtfs-gtfs-rt](https://transport.data.gouv.fr/datasets/fil-bleu-syndicat-des-mobilites-gtfs-gtfs-rt))
+                
         * Muséum national d'Histoire Naturelle: [https://inpn.mnhn.fr/accueil/mentions-legales](https://inpn.mnhn.fr/accueil/mentions-legales)
             
         * Réseau urbain A Citadina - ([https://transport.data.gouv.fr/datasets/horaires-temps-reels-reseau-a-citadina](https://transport.data.gouv.fr/datasets/horaires-temps-reels-reseau-a-citadina))
@@ -715,6 +725,18 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Geo D'Air: [https://www.geodair.fr/](https://www.geodair.fr/)
             
         * Etalab (FR): [https://www.data.gouv.fr/en/organizations/etalab/](https://www.data.gouv.fr/en/organizations/etalab/)
+            
+        * Clermont Auvergne Métropole (FR): [https://opendata.clermontmetropole.eu/pages/accueil/](https://opendata.clermontmetropole.eu/pages/accueil/)
+            
+        * Orléans Métropole Data (FR): [https://data.orleans-metropole.fr/pages/home/](https://data.orleans-metropole.fr/pages/home/)
+            
+        * Open Data 76 (FR): [https://www.opendata76.fr/](https://www.opendata76.fr/)
+            
+        * ANGLET (FR): [https://anglet-opendatapaysbasque.opendatasoft.com/pages/accueil/](https://anglet-opendatapaysbasque.opendatasoft.com/pages/accueil/)
+            
+        * Toulouse Métropole (FR): [https://data.toulouse-metropole.fr/pages/accueil/](https://data.toulouse-metropole.fr/pages/accueil/)
+            
+        * Nantes Métropole (FR): [https://data.nantesmetropole.fr/pages/home/](https://data.nantesmetropole.fr/pages/home/)
             
     18. **Gambia**
         
@@ -1380,6 +1402,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * FGV Link to their license - [https://boe.es/buscar/act.php?id=BOE-A-2013-12887](https://boe.es/buscar/act.php?id=BOE-A-2013-12887)
             
         * Centro de Descargas (ES): [https://centrodedescargas.cnig.es/CentroDescargas/locale?request\_locale=en](https://centrodedescargas.cnig.es/CentroDescargas/locale?request_locale=en)
+            
+        * Open Data Buenos Aires City: [https://data.buenosaires.gob.ar/dataset/](https://data.buenosaires.gob.ar/dataset/)
             
     55. **Sweden**
         * © 2009 Cartesia GIS AB
@@ -2111,6 +2135,15 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
     102. **Cyprus**
         * Open Data Cyprus (CY): [https://www.data.gov.cy/](https://www.data.gov.cy/)
+            
+    103. **Cuba**
+        * The Humanitarian Data Exchange (CU): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+            
+    104. **Somalia**
+        * The Humanitarian Data Exchange (SO): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+            
+    105. **Madagascar**
+        * The Humanitarian Data Exchange (MG): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
             
 4. **Business Listings Data.**
     
