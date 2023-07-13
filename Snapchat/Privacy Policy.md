@@ -1,3 +1,5 @@
+We’ve updated our Privacy Policy, effective August 15, 2023.  You can view the prior Privacy Policy, which applies to all users until August 15, 2023, [here](https://values.snap.com/privacy/prior-privacy-policy).
+
 #### 
 
 Privacy Policy
