@@ -295,6 +295,12 @@ You may amend or revoke your instructions at any time. For further information o
 
 If you are in the Philippines, you may have rights in addition to those set out in this notice in accordance with the Philippine Data Privacy Act and its implementing rules and regulations, including the National Privacy Commission’s Privacy Policy Office Advisory Opinion No. 2018-031.
 
+**_If you are in Taiwan, find out more…_**
+
+If you are in Taiwan, the following additional information applies to you:
+
+If you do not provide your personal information to us, we may not be able to (as applicable) provide you with the information, products or services that you request.
+
 Who should you contact with questions?
 --------------------------------------
 
