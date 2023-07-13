@@ -143,7 +143,7 @@ Other languages:
 * [தமிழ்](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ta "பயன்படுத்தல் விதிமுறைகள் (7% translated)")
 * [తెలుగు](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/te "విధానం:వినియోగ నిబంధనలు (100% translated)")
 * [മലയാളം](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ml "Policy:Terms of Use/ml (36% translated)")
-* [ไทย](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/th "ข้อกำหนดการใช้งาน (42% translated)")
+* [ไทย](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/th "ข้อกำหนดการใช้งาน (44% translated)")
 * [ລາວ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lo "ນະໂຍບາຍ: ຂໍ້ກຳນົດການໃຊ້ງານ (10% translated)")
 * [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/my "Policy:အသုံးပြုသည်စ့ည်းမျဥ်းများ (3% translated)")
 * [ქართული](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ka "გამოყენების პირობები (37% translated)")
