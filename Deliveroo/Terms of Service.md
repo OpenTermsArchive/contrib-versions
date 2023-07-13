@@ -559,6 +559,20 @@ You agree that Deliveroo, in its sole discretion, may terminate, deactivate and/
 
 * Existing fee paying Deliveroo Plus subscription customers are also able to redeem this offer (provided they have a current Amazon Prime membership) and, if they are an Eligible User, will be moved onto the Deliveroo Plus with Amazon Prime ‘free period’ plan for 12 months after the offer redemption date. At the end of your ‘free period’ or if you end your Amazon Prime membership, you will automatically be moved back onto your previous pay monthly Plus subscription plan, and the relevant subscription fee will be payable by you. You will need to cancel your subscription prior to the end of the ‘free period’ to avoid paying these charges.
 
+### **13\. Deliveroo Plus Offer with Revolut**
+
+Eligible Revolut customers can enjoy a free Deliveroo Plus Silver subscription worth €3.99/month with a qualifying Revolut account (see [here](https://www.revolut.com/en-IE/our-pricing-plans/) for qualifying Revolut accounts)(“**Deliveroo Plus Offer with Revolut**”) as long as Revolut continues to make Deliveroo Plus Silver available as part of those plans (the “**Free Period**”). Deliveroo Plus Silver subscription includes free delivery on Deliveroo with orders over €25 from participating restaurants during the Free Period. Service fees and Deliveroo Plus T&Cs apply when you use the Deliveroo Plus Offer with Revolut.
+
+* If you close your qualifying Revolut account or if Revolut stops making Deliveroo Plus Silver available as part of your qualifying account, you will no longer benefit from the free Deliveroo Plus subscription and the Free Period will be terminated. You will be notified via email once your Deliveroo Plus subscription has ended.
+* If you were previously a Deliveroo Plus subscriber and decided to switch to the Deliveroo Plus Offer with Revolut, and then close your qualifying Revolut account or if Revolut stops making Deliveroo Plus Silver available as part of your qualifying Revolut account, you will not be re-enrolled to your previous Deliveroo Plus subscription. 
+* If you want to restart your free Deliveroo Plus Silver subscription with Revolut and it is still available as part of your qualifying Revolut account, you will need to reactivate the Deliveroo Plus Offer with Revolut by following the offer redemption process set out below:
+* Go into the Revolut app or website;  
+    \- Follow the link found on the Deliveroo offer page in the Revolut app or website;  
+    \- Log in or sign up to create a Deliveroo account (if you do not already have one);  
+    \- Once signed in, you will be automatically redirected to Deliveroo’s voucher entry page where your unique voucher code will be pre-populated;  
+    \- Submit the code and follow the instructions to join Deliveroo Plus.
+* Existing fee paying Deliveroo Plus subscribers may also benefit from this offer (provided they have a qualifying Revolut account) and, if they fulfil the eligibility criteria of Revolut, will be moved onto the Deliveroo Plus Offer with Revolut for the Free Period, from the date they will have linked their qualifying Revolut account according to the process described above. At the end of the Free Period or if you close your qualifying Revolut account, you will not be re-enrolled to your previous Deliveroo Plus subscription.
+
 Deliveroo User Review and Contribution Terms (Republic of Ireland)
 ------------------------------------------------------------------
 
