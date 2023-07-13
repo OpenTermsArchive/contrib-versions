@@ -1000,7 +1000,7 @@ Open all
     
     Our programs include Custom Experience, Custom Experience Plus, Relevant TV Advertising, Relevant Online Advertising and Fios market research and audience measurement.
     
-    You can opt out of targeted advertising by accessing [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices) .
+    You can opt out of targeted advertising by accessing [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices) [![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices)
     
     **You have the right to appeal.** You can appeal a denial of your request to exercise any of the privacy rights provided by the Virginia law. If we deny your request, we will notify you and give you instructions on how you can appeal that decision to the Virginia Attorney General.
     
@@ -1016,7 +1016,7 @@ Open all
     * Visiting our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) or
     * Calling 1.800.333.3972.
     
-    You can exercise your right to opt-out of targeted advertising by visiting [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices) .
+    You can exercise your right to opt-out of targeted advertising by visiting [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices) [![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices).
     
     We may require you to [verify your identity](#) using the processes described in the dashboard and the privacy choices page before we fulfill your request.
     
