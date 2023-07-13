@@ -3,7 +3,7 @@ Abuse and harassment
 
 ### Overview
 
-**April 2023**
+**June 2023**
 
   
 You may not share abusive content, harass someone, or encourage other people to do so.  
@@ -45,16 +45,14 @@ We prohibit content that denies that mass murder or other mass casualty events t
 **Do I need to be the target of this content for it to be reviewed for violating the Twitter Rules?  
 **
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Tweets may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is part of a consensual conversation. 
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Tweets may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Tweet from having ads adjacent to it
 
-**  
-What happens if you violate this policy?  
-**
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Downranking Tweets in replies, except when the user follows the Tweet author.
-* Making Tweets ineligible for amplification in Top search results and/or on timelines for users who don’t follow the Tweet author.
+* Making content on Twitter less visilbe on Twitter by:
+    * Removing the Tweet from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Tweet's discoverability to the author's profile
+    * Downranking the Tweet in replies
+    * Restricting Likes, replies, Retweets, Quote Tweets, bookmarks, share, pin to profile, engagement counts, or Edit Tweet
+    * Excluding the Tweet from having ads adjacent to it
 * Excluding Tweets and/or accounts in email or in-product recommendations. 
 * Requiring Tweet removal.
     * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Tweet again.
