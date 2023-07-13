@@ -3,10 +3,8 @@ Privacy policy
 
 Fri 19 Aug 2022 09.24 BST
 
-* * *
-
-Introduction
-------------
+1\. Introduction
+----------------
 
 This is the privacy policy for Guardian News & Media Limited (collectively referred to as “Guardian”, “we”, “us” or “our” in this policy), our sites such as theguardian.com (“our sites”), and our associated apps. Some of our other sites and services have their own policies, which will be relevant to you when you are using those sites and services.
 
@@ -27,8 +25,8 @@ We think carefully about our use of personal data, and below you can find the de
 
 Find out more about how we manage your personal data below:
 
-About this privacy policy
--------------------------
+2\. About this privacy policy
+-----------------------------
 
 This privacy policy explains how we collect, use, share, transfer and sell (for California residents only) your personal data when you use the services provided on our sites and our apps or interact with us. This privacy policy also explains your data privacy rights.
 
@@ -60,13 +58,13 @@ Some of our other sites provide additional privacy information. You can read tha
 
 Sometimes our sites and apps may contain links to sites and services that are not part of the Guardian family of offerings. These sites and services have their own privacy policies. If you follow a link to these non-Guardian sites and apps, you should read the privacy policy shown on their site.
 
-Who we are and how to contact us
---------------------------------
+3\. Who we are and how to contact us
+------------------------------------
 
 Guardian News & Media Limited, Kings Place, 90 York Way, London N1 9GU is the data controller in respect of your personal data that you share with us. This means that we are responsible for deciding how and why we hold and use your personal data. If you want to contact us directly, you can find our contact details in the “Contact us for information about how we use your personal data” section below.
 
-The types of personal data we collect about you
------------------------------------------------
+4\. The types of personal data we collect about you
+---------------------------------------------------
 
 We collect your personal data when you visit our sites and apps, subscribe for products or services, contribute to the Guardian or when you interact with us. We will only collect your personal data in line with applicable laws. We collect your personal data in the following ways:
 
@@ -141,8 +139,8 @@ _When you post publicly (comments) on our sites_
 
 When you post on a discussion board or comment publicly on an article on one of our sites, the personal data you post, including your username and other information about yourself, are publicly accessible. This personal data can be viewed online and collected by other people. We are not responsible for the way these other people use this personal data. When contributing to a discussion, we strongly recommend you avoid sharing any personal details, including information that can be used to identify you directly such as your name, age, address and name of employer. We are not responsible for the privacy of any identifiable information that you choose to post in our online community or other public pages of the site.
 
-How we collect personal data
-----------------------------
+5\. How we collect personal data
+--------------------------------
 
 We collect personal data when you:
 
@@ -177,8 +175,8 @@ We collect personal data when you:
 
 We also collect personal data through cookies and other similar technologies. Please refer to our [cookie policy](https://www.theguardian.com/info/cookies) for more details on how we use cookies.
 
-How we use your personal data
------------------------------
+6\. How we use your personal data
+---------------------------------
 
 We use personal data collected through our sites and apps only when we have a valid reason and the legal grounds to do so. We determine the legal grounds based on the purposes for which we have collected your personal data.
 
@@ -231,8 +229,8 @@ When you register for an account with theguardian.com, you have access to a prof
 
 You may also update your marketing preferences in the “Emails and marketing” and/or “Data privacy” tabs in your account.
 
-Personal data that we receive about you from other organisations
-----------------------------------------------------------------
+7\. Personal data that we receive about you from other organisations
+--------------------------------------------------------------------
 
 _Adding to or combining the personal data you provide to us_
 
@@ -244,20 +242,20 @@ _Personal data shared by event partners_
 
 When you register or book a ticket for a Guardian event organised by an event partner, your registration data may be shared with us by the event partner.
 
-Children’s personal data
-------------------------
+8\. Children’s personal data
+----------------------------
 
 We do not aim any of our products or services directly at children under the age of 13 and we do not knowingly collect personal data about children under 13 in providing our services. Some of our services may have a higher age restriction and this will be shown at the point of registration.
 
 We also note and comply with the California law which prohibits sale of personal data of consumers between 13-16 years of age unless their guardian has authorised the sale.
 
-Security of your personal data
-------------------------------
+9\. Security of your personal data
+----------------------------------
 
 We have implemented appropriate technical and organisational controls to protect your personal data against unauthorised processing and against accidental loss, damage or destruction. You are responsible for choosing a secure password when we ask you to set up a password to access parts of our sites or apps. You should keep this password confidential and you should choose a password that you do not use on any other site. You should not share your password with anyone else, including anyone who works for us. Unfortunately, sending any information, including personal data, via the internet is not completely secure. We cannot guarantee the security of any personal data sent to our site while still in transit and so you provide it at your own risk.
 
-When we share your personal data
---------------------------------
+10\. When we share your personal data
+-------------------------------------
 
 _Within the Guardian group of companies_
 
@@ -327,8 +325,8 @@ _California resident - Do not sell_
 
 These transfers to third parties may constitute “sale” of your personal information under California law. A California resident can halt these sales at any time by pressing the “California resident - Do not sell” link that is located in the footer of every page on our site. Third-parties do not sell personal information that has been sold to them by the Guardian unless you have first received explicit notice and are provided an opportunity to exercise the right to opt out.
 
-International data transfers
-----------------------------
+11\. International data transfers
+---------------------------------
 
 Data we collect may be transferred to, stored and processed in any country or territory where one or more of our Guardian group companies or service providers are based or have facilities. While other countries or territories may not have the same standards of data protection as those in your home country, we will continue to protect personal data that we transfer in line with this privacy policy.
 
@@ -341,13 +339,13 @@ Whenever we transfer your personal data out of the UK or the European Economic A
 
 If you are located in the UK or the EEA, you may contact us for a copy of the safeguards which we have put in place for the transfer of your personal data outside the UK or the EEA.
 
-How long we keep your personal data
------------------------------------
+12\. How long we keep your personal data
+----------------------------------------
 
 We keep your personal data for only as long as we need to. How long we need your personal data depends on what we are using it for, as set out in this privacy policy. For example, we may need to use it to answer your queries about a product or service and as a result may keep personal data while you are still using our product or services. To determine the appropriate retention period for personal data, we consider the amount, nature and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means. We may also need to keep your personal data for accounting purposes, for example, where you have bought a subscription. If we no longer need your data, we will delete it or make it anonymous by removing all details that identify you. If we have asked for your permission to process your personal data and we have no other lawful grounds to continue with that processing, and you withdraw your permission, we will delete your personal data. However, when you unsubscribe from marketing communications, we will keep your email address to ensure that we do not send you any marketing in future.
 
-How we may contact you
-----------------------
+13\. How we may contact you
+---------------------------
 
 _Service communications_
 
@@ -375,15 +373,15 @@ _Special Note to California Users_
 
 If you elect to use the “California resident - Do not sell” button, we will not recontact you about that choice for at least 12 months.
 
-Cookies and similar technologies
---------------------------------
+14\. Cookies and similar technologies
+-------------------------------------
 
 When you visit our sites or when you use our apps, we may collect personal data from you automatically using cookies or similar technologies.
 
 This privacy policy includes our [cookie policy](https://www.theguardian.com/info/cookies), where you can find more information about our use of cookies.
 
-Your privacy and data protection rights with regard to the personal data that we hold about you
------------------------------------------------------------------------------------------------
+15\. Your privacy and data protection rights with regard to the personal data that we hold about you
+----------------------------------------------------------------------------------------------------
 
 You have a number of rights with regard to the personal data that we hold about you and you can contact us with regard to the following rights in relation to your personal data:
 
@@ -408,8 +406,8 @@ We may need verification of your identity to proceed with a request. If you prov
 
 You will not have to pay a fee to obtain a copy of your personal data (or to exercise any of the other rights). However, for any further copies requested by you, we may charge a reasonable fee based on administrative costs.
 
-Your California privacy rights
-------------------------------
+16\. Your California privacy rights
+-----------------------------------
 
 Under the California Consumer Privacy Act, California Civil Code Section 1798.100, if you are a resident of California you may contact us with regard to the following rights in relation to your personal data:
 
@@ -426,8 +424,8 @@ If you want to make any of these requests, please contact dataprotection@theguar
 
 To help us respond as you expect, please specify that you are making a request under the California Consumer Privacy Act. We may need to request specific information from you to help us confirm your identity. If you provide us with proof of identity containing information that does not match our records, we may request further proof of identity from you.
 
-Your rights under the Australian Privacy Act
---------------------------------------------
+17\. Your rights under the Australian Privacy Act
+-------------------------------------------------
 
 The Australian privacy Act has rules around how we handle your personal information that may be different to rules in other regions. These rules are set out in the Australian Privacy Principles in force under the Privacy Act 1988 (Cth) (the Australian Privacy Act). We are required to treat your personal information in line with those principles, including to disclose to you what personal information we collect and how we use it, to store your information securely and to support you in exercising your rights.
 
@@ -464,8 +462,8 @@ T 1300 363 992
 
 [https://www.oaic.gov.au/](https://www.oaic.gov.au/)
 
-Contact us for information about how we use your personal data
---------------------------------------------------------------
+18\. Contact us for information about how we use your personal data
+-------------------------------------------------------------------
 
 If you have any questions about how we use your personal data or if you have a concern about how your personal data is used, please contact the Data Protection Officer at Guardian News & Media Limited, Kings Place, 90 York Way, London N1 9GU. Or, email [dataprotection@theguardian.com](mailto:dataprotection@theguardian.com).
 
