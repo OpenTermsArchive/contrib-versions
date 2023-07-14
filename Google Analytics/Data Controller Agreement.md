@@ -43,7 +43,7 @@ In these Controller Terms:
 
 “Controller Personal Data” means any personal data that is processed by a party pursuant to the Data Sharing Setting.
 
-“Controller SCCs” means the terms at [business.safety.google/adscontrollerterms/sccs/c2c](https://support.google.com/analytics/answer/business.safety.google/adscontrollerterms/sccs/c2c).
+“Controller SCCs” means the terms at [https://business.safety.google/adscontrollerterms/sccs/c2c](https://business.safety.google/adscontrollerterms/sccs/c2c).
 
 “Data Sharing Setting” means the data sharing setting which Customer has enabled via the user interface of the Measurement Services and which enables Google and its Affiliates to use personal data for improving Google’s and its Affiliates’ products and services.
 
