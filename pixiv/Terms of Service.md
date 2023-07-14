@@ -650,7 +650,7 @@ Notation on specified commercial transaction
 メールアドレス：  
 support@pixiv.net
 
-電話番号：03-6804-5348
+電話番号：03-6804-3458
 
 価格
 --
