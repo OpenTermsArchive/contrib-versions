@@ -11,7 +11,7 @@ The App and Sites are global, and your information will be sent to and used in t
 
 The App and Sites are operated by the “Bumble Group” (also referred to in this policy as “we” or “us”) which includes Bumble Holding Limited, Badoo Trading Limited and Bumble Trading LLC, all of which are controllers of personal information collected and processed through the Bumble App and Sites.
 
-The Bumble Group has designated a Data Protection Officer and they can be reached by emailing [DPO@team.bumble.com](mailto:DPO@team.bumble.com) or by post at the following address: The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A 2RS.
+The Bumble Group has designated a Data Protection Officer and they can be reached by emailing [DPO@bumble.com](mailto:DPO@bumble.com) or by post at the following address: The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A 2RS.
 
 1\. COLLECTION OF INFORMATION.
 ------------------------------
@@ -198,7 +198,7 @@ We share a limited amount of your personal data with these Marketing Services Pr
 * the advertising identifier associated with your device (this is a random number assigned by your mobile device manufacturer (for example Apple or Google) to your device to help advertisers (including the manufacturer) know when an ad has been viewed or clicked in an app, and when an ad causes a ‘conversion’ (for example, downloading the app advertised to you))
 * your estimated location (based on your IP address)
 * age and gender
-* data about your visit to our Sites or App and action taken on those (for example if you downloaded our App or created an account with our App)
+* data about your visit to our Sites or App and action taken on those (for example if you downloaded our App, created an account with our App, or details of any purchases made on Site or in App)
 * a hashed\* version of your email address (to create ‘custom audiences’).
   
 
@@ -210,7 +210,7 @@ In some cases, these third parties will also use the data that they collect for 
 
 ### Facebook
 
-Where we share data with Facebook as our Marketing Service Provider (including via the Facebook “Like” function), we are Joint Data Controllers with Facebook Ireland for this processing. This arrangement means that Bumble has to provide you this notice, but you should contact Facebook if you wish to exercise your data protection rights. Further information, including how Facebook enables you to exercise your data protection rights, and subsequently processes your information as independent data controller can be found in [Facebook Ireland’s Data Policy](https://en-gb.facebook.com/policy.php). If you want more information relating to the nature of the arrangement we have in place with Facebook, please email [DPO@team.bumble.com](mailto:DPO@team.bumble.com).
+Where we share data with Facebook as our Marketing Service Provider (including via the Facebook “Like” function), we are Joint Data Controllers with Facebook Ireland for this processing. This arrangement means that Bumble has to provide you this notice, but you should contact Facebook if you wish to exercise your data protection rights. Further information, including how Facebook enables you to exercise your data protection rights, and subsequently processes your information as independent data controller can be found in [Facebook Ireland’s Data Policy](https://en-gb.facebook.com/policy.php). If you want more information relating to the nature of the arrangement we have in place with Facebook, please email [DPO@bumble.com](mailto:DPO@bumble.com).
 
 This data referred to above can include actions that you take on our website such as your interactions with our Sites or other information collected from cookies or similar technologies including the Facebook pixel. This allows us to measure the effectiveness of our advertising, improve our marketing practices, and helps us deliver more relevant advertising to you and people like you (including on social media such as Facebook).
 
@@ -232,9 +232,9 @@ If you log in to or access the App through your Facebook account or another thir
 5\. OUR POLICY TOWARDS AGE.
 ---------------------------
 
-Although we want as many people as possible to enjoy our creation, you have to be at least 18 years old to use the App - sorry kids, we know Bumble is cool, but you’ll have to come back when you’re old enough!
+Although we want as many people as possible to enjoy our creation, you have to be at least 18 years old to use Bumble.
 
-Bumble does not knowingly collect any information about or market to children, minors or anyone under the age of 18. If you are less than 18 years old, we request that you do not submit information to us. If we become aware that a child, minor or anyone under the age of 18 has registered with us and provided us with personal information, we will take steps to terminate that person’s registration.
+Bumble does not knowingly collect any information about or market to children, minors or anyone under the age of 18. If we become aware that a child, minor or anyone under the age of 18 has registered with us and provided us with personal information, we will take steps to terminate that person’s registration.
 
 6\. SECURITY.
 -------------
@@ -319,7 +319,7 @@ Privacy laws applicable in your country may give you the following rights:
 
 The particular rights which are applicable to you (which might include other rights not listed above) may vary depending on your country. You should make yourself aware of the rights you have under applicable privacy laws in your country.
 
-If you want to exercise any of your rights listed above please visit our [Feedback Page](https://bumble.com/contact-us) or email our Data Protection Officer at [DPO@team.bumble.com](mailto:DPO@team.bumble.com). You can also contact us by post at the following address: The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A 2RS. For your protection and the protection of all of our Users, we may need to request specific information from you to help us confirm your identity before we can answer the above requests.
+If you want to exercise any of your rights listed above please visit our [Feedback Page](https://bumble.com/contact-us) or email our Data Protection Officer at [DPO@bumble.com](mailto:DPO@bumble.com). You can also contact us by post at the following address: The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A 2RS. For your protection and the protection of all of our Users, we may need to request specific information from you to help us confirm your identity before we can answer the above requests.
 
 If you have a concern about how we have processed your request or your personal data, you should contact us in the first instance via the contact details listed above.
 
@@ -336,7 +336,7 @@ Postal address: 1st Floor, 6 Lapps Quay, Cork, Ireland
 11\. DATA LOCATIONS.
 --------------------
 
-We want you to be able to access Bumble wherever you happen to be in the world. To enable us to provide that service, we operate a global network of servers including in the US, UK, EU, and (for Users located in Russia) Russia. The hardware is located in third-party data centres but is owned by the Bumble Group. Data collected by Advertising Partners and other Service Providers may also be held outside the UK and the European Economic Area. We ensure that the data is adequately protected by ensuring that valid, legal mechanisms are in place such as: EU approved model clauses (which can be found [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)), and implementing robust contractual standards. If you want more information relating to the nature of the safeguards we have in place, please email [DPO@team.bumble.com](mailto:DPO@team.bumble.com).
+We want you to be able to access Bumble wherever you happen to be in the world. To enable us to provide that service, we operate a global network of servers including in the US, UK, EU, and (for Users located in Russia) Russia. The hardware is located in third-party data centres but is owned by the Bumble Group. Data collected by Advertising Partners and other Service Providers may also be held outside the UK and the European Economic Area. We ensure that the data is adequately protected by ensuring that valid, legal mechanisms are in place such as: EU approved model clauses (which can be found [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)), and implementing robust contractual standards. If you want more information relating to the nature of the safeguards we have in place, please email [DPO@bumble.com](mailto:DPO@bumble.com).
 
 12\. DATA RETENTION AND DELETION.
 ---------------------------------
@@ -361,4 +361,4 @@ As Bumble evolves, we may revise this Privacy Policy from time to time. The most
 
 ### Effective date
 
-This Privacy Policy was last updated 27th April 2023.
+This Privacy Policy was last updated 14th July 2023.
