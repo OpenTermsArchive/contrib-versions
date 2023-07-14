@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-_Effective starting: July 1, 2023_ ([view archived versions](https://www.atlassian.com/legal/archives))
+_Effective starting: July 17, 2023_ ([view archived versions](https://www.atlassian.com/legal/archives))
 
 What this policy covers
 -----------------------
@@ -215,27 +215,32 @@ How we transfer information we collect internationally
 
 **International transfers of information we collect**
 
-We collect information globally and may transfer, process and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services.  Whenever we transfer your information, we take steps to protect it.  
+We collect information globally and may transfer, process, and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services.  Whenever we transfer your information, we take steps to protect it.  
 
-_**International transfers within the Atlassian Companies**_: To facilitate our global operations, we transfer information globally and allow access to that information from countries in which the Atlassian owned or operated companies have operations for the purposes described in this policy. These countries may not have equivalent privacy and data protection laws to the laws of many of the countries where our customers and users are based. When we disclose information about you within and among Atlassian corporate affiliates, we make use of standard contractual data protection clauses, which have been approved by the European Commission to safeguard the transfer of information we collect from the European Economic Area, the United Kingdom (the "UK"), and Switzerland. Refer to our [this page](https://www.atlassian.com/legal/data-transfer-impact-assessment) for a list of countries to which we regularly transfer personal data.
+_**International transfers within the Atlassian Companies**_: To facilitate our global operations, we transfer information globally and allow access to that information from countries in which the Atlassian owned or operated companies have operations for the purposes described in this policy. These countries may not have equivalent privacy and data protection laws to the laws of many of the countries where our customers and users are based. When we disclose information about you within and among Atlassian corporate affiliates, we make use of the EU-U.S. Data Privacy Framework to receive personal data transfers from the European Union/European Economic Area to the U.S. (see “EU-U.S. Data Privacy Framework Notice” section below), and the standard contractual data protection clauses, which have been approved by the European Commission, to safeguard the transfer of information we collect from the European Economic Area, the United Kingdom (the "UK"), and Switzerland. Refer to [this page](https://www.atlassian.com/legal/data-transfer-impact-assessment) for a list of countries to which we regularly transfer personal data.
 
 _**International transfers to third parties**_: Some of the third parties described in this privacy policy, which provide services to us under contract, are based in other countries that may not have equivalent privacy and data protection laws to the country in which you reside. When we disclose information of customers in the European Economic Area, the UK, or Switzerland, we make use of the European Commission-approved standard contractual data protection clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer.
 
-**Privacy Shield Notice**
+**EU-U.S. Data Privacy Framework Notice**
 
-While Atlassian remains self-certified under the  EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, it is not currently relying on these frameworks for the transfer of personal data. 
+On July 10, 2023, the European Commission’s adequacy decision for the EU-U.S. Data Privacy Framework (EU-U.S. DPF) entered into force.
 
-Atlassian US, Inc. and its U.S. subsidiaries (Atlassian Network Service, Inc., Dogwood Labs, Inc., AgileCraft LLC, Opsgenie, Inc., and Trello, Inc.) participate in and comply with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks and the Privacy Shield Principles regarding the collection, use, and retention of information about you that is transferred from the European Union, the UK, or Switzerland (as applicable) to the U.S.  We ensure that the Privacy Shield Principles apply to all information about you that is subject to this privacy policy and is received from the European Union, the European Economic Area, the UK, and Switzerland. 
+  
+Atlassian, Inc. and its U.S. subsidiaries (Atlassian Network Service, Inc., Dogwood Labs, Inc., AgileCraft LLC, Opsgenie, Inc., and Trello, Inc.) adhere to the Data Privacy Framework Principles regarding the collection, use, and retention of personal data that is transferred from the European Union and Switzerland to the U.S. 
 
-Under the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, we are responsible for the processing of information about you we receive from the EU, the UK, and Switzerland and onward transfers to a third party acting as an agent on our behalf. We comply with the Privacy Shield Principles for such onward transfers and remain liable in accordance with the Privacy Shield Principles if third-party agents that we engage to process such information about you on our behalf do so in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage. 
+Atlassian, Inc. has self-certified its commitment to comply with the EU-U.S. DPF Principles and relies on the European Commission’s adequacy decision for the EU-U.S. DPF to receive personal data transfers from the European Union/European Economic Area.
 
-To learn more about the Privacy Shield Program, and to view Atlassian’s certification, please see [www.privacyshield.gov](http://www.privacyshield.gov/) and search for ”Atlassian''.
+Atlassian, Inc. has self-certified its commitment to comply with the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF), but will not rely on the Swiss-U.S. DPF to receive personal data transfers from Switzerland until the date of entry into force of the Swiss Federal Administration’s anticipated recognition of adequacy for the Swiss-U.S. DPF.
 
-We encourage you to contact us as provided below should you have a Privacy Shield-related (or general privacy-related) complaint.  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our [U.S.-based third-party dispute resolution provider](https://feedback-form.truste.com/watchdog/request) (free of charge).  Through this third-party dispute resolution provider, we have also committed to cooperating and complying with the information and advice provided by an informal panel of data protection authorities in the European Economic Area, the UK, and/or the Swiss Federal Data Protection and Information Commissioner (as applicable) in relation to unresolved complaints (as further described in the Privacy Shield Principles). You may also contact your local data protection authority within the European Economic Area, the UK, or Switzerland (as applicable) for unresolved complaints.  
+To view Atlassian’s certifications, please visit [this page](http://www.dataprivacyframework.gov/) and search for ”Atlassian”.
 
-Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/), including when other dispute resolution procedures have been exhausted, you may invoke binding arbitration.  
+As required under the principles, when we receive information under the Data Privacy Framework and then transfer it to a third-party service provider acting as an agent on our behalf, we have certain liability under the Data Privacy Framework if the agent processes the information in a manner inconsistent with the Data Privacy Framework and we are responsible for the event giving rise to the damage.
 
-We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+We encourage you to contact us as provided below should you have a Data Privacy Framework related (or general privacy-related) complaint.  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our [U.S.-based third-party dispute resolution provider](https://feedback-form.truste.com/watchdog/request) (free of charge).  Through this third-party dispute resolution provider, we have also committed to cooperating and complying with the information and advice provided by an informal panel of data protection authorities in the European Economic Area, and/or the Swiss Federal Data Protection and Information Commissioner (as applicable) in relation to unresolved complaints (as further described in the Data Privacy Framework Principles). You may also contact your local data protection authority within the European Economic Area or Switzerland (as applicable) for unresolved complaints.    
+
+Under certain conditions, more fully described on the [Data Privacy Framework website](https://www.dataprivacyframework.gov/), including when other dispute resolution procedures have been exhausted, you may invoke binding arbitration.  
+
+Atlassian, Inc. is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
 Other important privacy information
 -----------------------------------
@@ -339,6 +344,10 @@ E-Mail: [ukrepresentative@atlassian.com](mailto:ukrepresentative@atlassian.com)
 
 Key Changes
 -----------
+
+**Effective July 17, 2023**
+
+We have replaced the section **Privacy Shield Notice** with **EU-U.S. Data Privacy Framework Notice** to reflect the European Commission’s adequacy decision for the EU-U.S. Data Privacy Framework (DPF) on July 10, 2023.
 
 **Effective January 1, 2020**
 
