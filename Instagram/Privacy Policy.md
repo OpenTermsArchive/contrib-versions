@@ -8,8 +8,6 @@
 
 Privacy Policy
 
-We updated our Privacy Policy on June 15, 2023. [View our previous policy.](https://help.instagram.com/policy/version/5407378522724295/)
-
 What is the Privacy Policy and what does it cover?
 
 Effective June 15, 2023 | [View printable version](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F&e=removed) | [See previous versions](https://help.instagram.com/policy/?show_versions=1)
