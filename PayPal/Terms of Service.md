@@ -4,7 +4,7 @@ PAYPAL USER AGREEMENT
 About Your Account
 ------------------
 
-This user agreement will be effective for all users as of January 1, 2023.
+This user agreement will be effective for all users as of 17 July, 2023.
 
 ### Welcome to PayPal!
 
@@ -414,7 +414,7 @@ You can use a billing agreement to manage payments to the same recipient(s) on a
 1. You authorize the named recipient(s) to collect payments from your account as the recipient determines (this could be for payments of amounts you owe the recipient for a purchase of goods or services under a separate contract that you have with the recipient).
 2. You instruct PayPal to pay the named recipient(s) (or other recipient(s) that the named recipient(s) direct(s)) when the named recipient(s) request(s) PayPal to make your payment.
 
-This makes the recipient a “trusted beneficiary” of all your payments made to that recipient, so we will not normally ask you to login (with password, PIN or similar) to approve these subsequent payments when they are made.
+This makes the recipient a “trusted beneficiary” of all your payments made to that recipient, so we will not normally ask you to log in (with password, PIN or similar) to approve these subsequent payments when they are made.
 
 Payments made under the billing agreement may be in variable amounts and may be made on various dates. We are only a payment service provider so we can’t (and please don’t expect us to) know what you have or haven’t agreed with the recipient or to know why the recipient decided to collect your payment. We are not obliged to verify or confirm the amount the recipient presents to us for the purpose of processing payments made under the billing agreement.
 
@@ -680,8 +680,8 @@ The program terms and conditions are set out in [PayPal’s Seller Protection](h
 PAYPAL USER AGREEMENT
 =====================
 
-RESTRICTED ACTIVITIES, HOLDS & LIQUIDATED DAMAGES
--------------------------------------------------
+RESTRICTED ACTIVITIES, HOLDS, & OTHER ACTIONS WE MAY TAKE
+---------------------------------------------------------
 
 ### Restricted Activities
 
@@ -740,8 +740,8 @@ If we believe that you've engaged in any of these activities, we may take a numb
 * Hold your money to the extent and for so long as reasonably needed to protect against the risk of liability. You acknowledge that, as a non-exhaustive guide:
 
 * PayPal's risk of liability in respect of card-funded payments that you receive can last until the risk of a chargeback closing in favor of the payer/buyer (as determined by card scheme rules) has passed. This depends on certain factors, including, without limitation:
-    1. The type of goods or services for which you receive payment.
-    2. The timeframe for delivery of the goods or performance of the services for which you receive payment (e.g. sales of event tickets months in advance of the event date can present a higher and more enduring risk of chargebacks than sales of most other items or services).
+    * The type of goods or services for which you receive payment.
+    * The timeframe for delivery of the goods or performance of the services for which you receive payment (e.g. sales of event tickets months in advance of the event date can present a higher and more enduring risk of chargebacks than sales of most other items or services).
 * PayPal's risk of liability in respect of a claim or dispute arising from a payment that you receive can last for the time that it takes for the parties to close the claim or dispute and all appeals associated with that claim or dispute in accordance with PayPal Buyer Protection.
 * PayPal's risk of liability in respect of any event of insolvency that you suffer can last for as long as and to the extent that laws applicable to your insolvency restrict PayPal from taking legal action against you.
 * If you allow your PayPal account to have a balance reflecting an amount owing to PayPal, PayPal's risk of liability can last for the time and to the extent that you owe that amount to PayPal.
@@ -754,19 +754,7 @@ If we believe that you've engaged in any of these activities, we may take a numb
 * Contact third parties and disclose details of the restricted activities in the manner set out in our Privacy Statement.
 * Request or update inaccurate information you provided us.
 * Request information or documents from you in order to verify your identity and/or with regard to the goods or services you provided based on a transaction.
-* If you've violated our [**Acceptable Use Policy**](https://www.paypal.com/cz/webapps/mpp/ua/acceptableuse-full?locale.x=en_CZ), then you're also responsible for damages to PayPal caused by your violation of this policy.
 * If you publish content on our website(s), or when using our services, which PayPal deems, in its sole discretion, in breach of law, statute, ordinance, and/or regulation, PayPal may take appropriate measures, including the deletion or removal of such content. An example of such content is terrorist content. PayPal is not responsible for such contents published by its users which are the PayPal users’ responsibility solely.
-
-If you use your PayPal account primarily for the purposes of your trade, business, craft or profession and you violate the Acceptable Use Policy, then:
-
-* In addition to being subject to the above actions you will be liable to PayPal for the amount of PayPal's damages caused by your violation of the Acceptable Use Policy.
-
-* You acknowledge and agree that USD 2,500.00 (or the prevailing equivalent in the currency of the country in which you reside) per violation of the Acceptable Use Policy is:
-    * A reasonable minimum estimate of PayPal's actual damages including but not limited to, internal administrative costs incurred by PayPal to monitor and track violations, damage to PayPal’s brand and reputation, and penalties imposed upon PayPal by its business partners resulting from a user’s violation considering all currently existing circumstances, including the relationship of the sum to the range of harm to PayPal that reasonably could be anticipated.
-    * Reasonable and proportionate in its application to the provision of the services to you.
-    * Necessary, but no more than sufficient, to protect PayPal's legitimate interest in your compliance with the Acceptable Use Policy.
-
-* PayPal may deduct such damages directly from any existing balance in any PayPal account you control.
 
 Please also see the section below on [Your liability](#holds-limits-reserves1).
 
@@ -1192,7 +1180,7 @@ To the extent that you process any personal data about a PayPal customer pursuan
 
 In complying with the applicable data protection laws, we will each:
 
-* Implement and maintain all appropriate security measures in relation to the processing of such personal data; and.
+* Implement and maintain all appropriate security measures in relation to the processing of such personal data; and
 * Maintain a record of all processing activities carried out under this user agreement; and
 * Not knowingly or intentionally do anything, or knowingly or intentionally permit anything to be done which might lead to a breach by the other party of the applicable data protection laws.
 
