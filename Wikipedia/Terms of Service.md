@@ -119,7 +119,7 @@ Other languages:
 * [кыргызча](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ky "Колдонуу шарттары (1% translated)")
 * [македонски](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mk "Услови на употреба (37% translated)")
 * [нохчийн](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ce "Лелоран хьал (1% translated)")
-* [русский](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru "Условия использования (95% translated)")
+* [русский](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru "Условия использования (97% translated)")
 * [српски / srpski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sr "Услови коришћења (17% translated)")
 * [српскохрватски (ћирилица)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sh-cyrl "Policy:Terms of Use/sh-cyrl (0% translated)")
 * [тоҷикӣ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tg "Қоидаҳои истифода (3% translated)")
