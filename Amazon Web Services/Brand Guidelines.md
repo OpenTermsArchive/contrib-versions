@@ -7,9 +7,9 @@ AWS Trademark Guidelines & License Terms
 
 **2\. Definitions.** “AWS Marks” means our trademarks, service marks, service or trade names, logos, product names, or designations, including, but not limited to: (i) the AWS and Smile Logo; (ii) the Powered by AWS Logo in the forms shown below and in the [AWS Co-Marketing Tools](https://aws.amazon.com/co-marketing/); (iii) the Partner Logo and the Program Marks described in Section 3; and (iv) Amazon Web Services, AWS, and the names of AWS products, services, programs, and initiatives (see a non-exhaustive list in Section 19).  
 
-![](//d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/Powered-By_logo-horiz_RGB.87c70af8a8a34b68606524ade6261db083947a14.png)
+![](https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/Powered-By_logo-horiz_RGB.87c70af8a8a34b68606524ade6261db083947a14.png)
 
-![](//d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/Powered-By_logo-horiz_RGB_REV.0225902cc6a7f48ea9c65e903ff4f31efd239105.png)
+![](https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/Powered-By_logo-horiz_RGB_REV.0225902cc6a7f48ea9c65e903ff4f31efd239105.png)
 
 “Licensor” means Amazon Web Services EMEA SARL (if the geographic location associated with your AWS or program account or your Written Agreement is any country within Europe, the Middle East, or Africa (“EMEA”)) or Amazon Web Services, Inc. (if the geographic location associated with your AWS or program account or your Written Agreement is any country outside of EMEA).  
 
