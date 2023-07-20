@@ -63,7 +63,7 @@ If you are accessing the Guardian Site from the United States or Australia, the 
 
 You will see advertising material submitted by third parties on the Guardian Site. Each individual advertiser is solely responsible for the content of its advertising material. We accept no responsibility for the content of advertising material, including, without limitation, any error, omission or inaccuracy therein.
 
-If you want to advertise on the Guardian Site, please contact the sales team via [this online form](https://advertising.theguardian.com/advertising/contact). The Guardian is the sole direct seller of advertising on the Guardian Site. You shall not deal with any third parties in relation to the sale and placement of advertisements on the Guardian Site, except for those third parties approved by the Guardian from time time.
+If you want to advertise on the Guardian Site, please contact the sales team via [this online form](https://advertising.theguardian.com/advertising/contact). The Guardian is the sole direct seller of advertising on the Guardian Site. You shall not deal with any third parties in relation to the sale and placement of advertisements on the Guardian Site, except for those third parties approved by the Guardian from time to time.
 
 **6\. User content**
 
@@ -99,7 +99,7 @@ In addition to the limitations on our liability set out in Sections 4, 17 and 18
 
 The Live App contains a meter, which places a limit on the Guardian Content you may access on the Live App without charge (“App Meter”). If you have an existing subscription with the Guardian which includes access to Guardian Content on the Live App, the App Meter will not apply to you and you will just need to sign into your Guardian account to continue your unlimited access.
 
-The App Meter will specify the amount of free content (“Content Allowance”) that you may access within a specified time period (the “Access Period”) when using the Live App. Your Content Allowance and the Access Period will refresh within the time period shown on the App Meter (the “Refresh Period”).
+The App Meter will give you an amount of free content (“Content Allowance”) that you may access within a particular time period (the “Access Period”) when using the Live App. Your Content Allowance and the Access Period will refresh within the time period shown on the App Meter (the “Refresh Period”).
 
 Once you have reached the Content Allowance within the Access Period, you will not be able to access any further content on the Live App: (i) unless you subscribe to the Live App; or (ii) until a new Content Allowance and Access Period apply following a Refresh Period. Before you incur any charges via the Live App, we will make it clear that charges apply and specify the services that we will provide to you in return for payment.
 
@@ -130,6 +130,7 @@ You agree to defend, indemnify, and hold harmless Guardian, its parents, subsidi
 Our failure to insist upon or enforce any provision of these terms of service shall not be construed as a waiver of any provision or right of Guardian.
 
 **Additional terms of use for users in the United States and Australia**
+------------------------------------------------------------------------
 
 **14\. Additional restrictions on user content for US users**
 
@@ -154,10 +155,9 @@ If you have accessed the Guardian Site from the US, these terms and conditions a
 
 **17\. Additional disclaimers (for US and Australian users)**
 
-Visitors to the Guardian Site agree that their use of the Guardian Site is at their own sole risk. The Guardian Site is provided “as is” and “as available,” without warranty of any kind, either express or implied including but not limited to: (i) any warranties concerning the availability, accuracy, appropriateness, reliability, timeliness, or usefulness of the content of the Guardian Site; and (ii) any warranties of title, warranty of non-infringement, or warranties of merchantability or fitness for a particular purpose. Guardian also makes no representations and warranties as to any linked sites and Guardian has no liability or responsibility with respect to your use of such sites. In some instances, content made available on the Guardian Site may represent the opinions and judgments of providers or users, such as user content. Guardian and its affiliates do not endorse nor shall they be responsible or liable for the accuracy or reliability of any statement made on the Guardian Site by anyone other than authorised Guardian employees acting in such capacity.  
+Visitors to the Guardian Site agree that their use of the Guardian Site is at their own sole risk. The Guardian Site is provided “as is” and “as available,” without warranty of any kind, either express or implied including but not limited to: (i) any warranties concerning the availability, accuracy, appropriateness, reliability, timeliness, or usefulness of the content of the Guardian Site; and (ii) any warranties of title, warranty of non-infringement, or warranties of merchantability or fitness for a particular purpose. Guardian also makes no representations and warranties as to any linked sites and Guardian has no liability or responsibility with respect to your use of such sites. In some instances, content made available on the Guardian Site may represent the opinions and judgments of providers or users, such as user content. Guardian and its affiliates do not endorse nor shall they be responsible or liable for the accuracy or reliability of any statement made on the Guardian Site by anyone other than authorised Guardian employees acting in such capacity.
 
-This disclaimer of liability applies to any damages or injuries caused by the Guardian Site, including, without limitation, those damages or injuries occurring as a result of: (i) any error, omission, deletion, or defect in the content available on the Guardian Site; or (ii) any failure of performance, error, omission, interruption, deletion, defect, delay in operation or transmission, computer virus, communication line failure, theft or destruction of records, information or data, unauthorised access to, alteration of, or use of records, information or data, whether for breach of contract, tort, negligence, defamation, or any other cause of action. Guardian does not warrant or guarantee that access to the Guardian Site will be uninterrupted or error-free.  
-  
+This disclaimer of liability applies to any damages or injuries caused by the Guardian Site, including, without limitation, those damages or injuries occurring as a result of: (i) any error, omission, deletion, or defect in the content available on the Guardian Site; or (ii) any failure of performance, error, omission, interruption, deletion, defect, delay in operation or transmission, computer virus, communication line failure, theft or destruction of records, information or data, unauthorised access to, alteration of, or use of records, information or data, whether for breach of contract, tort, negligence, defamation, or any other cause of action. Guardian does not warrant or guarantee that access to the Guardian Site will be uninterrupted or error-free.
 
 Applicable law may not allow the exclusion of implied warranties, so the above exclusion may not apply to you.
 
@@ -173,11 +173,12 @@ The Australian Consumer Law may confer certain rights and remedies on you in rel
 
 Except in relation to Non-Excludable Obligations, all conditions, warranties and other provisions implied or conferred by statute, custom, or the general law that impose any liability or obligation on Guardian are expressly excluded under these terms and conditions.
 
-**20\. Non-Excludable Obligations (for Australian users)**
+**2\. Non-Excludable Obligations (for Australian users)**
 
 In relation to Non-Excludable Obligations (other than a guarantee as to title, encumbrances or quiet possession conferred by the Australian Consumer Law), except for goods or services of a kind ordinarily acquired for personal, domestic or household use or consumption (in respect of which our liability is not so limited under these terms and conditions), Guardian’s liability to you for a failure to comply with any Non-Excludable Obligation is limited to: (i) in the case of services, the lowest of the cost of supplying the services again and payment of the cost of having the services supplied again; and (ii) in the case of goods, the lowest of the cost of replacing the goods, supplying equivalent goods or having the goods repaired, or payment of the cost of replacing the goods, supplying equivalent goods or having the goods repaired.
 
 **Details of variations**
+-------------------------
 
 September 8 2005: Section 1 adapted to include reference to mobile phones. Section 7 adapted to include references to blogs and Been There service.  
   
@@ -216,5 +217,7 @@ In Section 6 the licence granted in respect of graphical and photographic works 
 09 March 2023: Section 2 amended to update account termination process
 
 10 March 2023: New section 8 to reflect the introduction of the App Meter, and corresponding changes made to section 7. Subsequent paragraphs renumbered.
+
+20 July 2023: Section 8 amended to generalise the first sentence of the second paragraph.
 
 © 2013 Guardian News and Media Limited or its affiliated companies. All rights reserved.
