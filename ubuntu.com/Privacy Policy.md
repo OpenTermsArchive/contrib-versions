@@ -233,10 +233,10 @@ Contact
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [dataprotection@canonical.com](mailto:dataprotection@canonical.com) or to the address below:
 
 Legal, Canonical  
-2nd Floor, Clarendon House,  
-Victoria Street,  
-Douglas IM1 2LN,  
-Isle of Man
+4th Floor,  
+201 Borough High Street  
+London SE1 1JA  
+United Kingdom  
 
 Alternatively you can use the relevant [contact us](https://ubuntu.com/contact-us) form.
 
