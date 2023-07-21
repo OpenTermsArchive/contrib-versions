@@ -118,6 +118,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Open Data Transport, Transport for New South Wales (AU): [https://opendata.transport.nsw.gov.au/](https://opendata.transport.nsw.gov.au/)
             
+        * Administrative Boundaries © Geoscape Australia licensed by the Commonwealth of Australia under Creative Commons Attribution 4.0 International (CC By 4.0) (AU): [https://data.gov.au/home](https://data.gov.au/home)
+            
     4. **Austria**
         * BEV - BA fuer Eich und Vermessungswesen (Geocodes) © Österreichisches Adressregister, 2009. You are not permitted, at any one time, to use Austrian Postal Data to provide, display or provide access to mass downloads or bulk feeds of numerical latitude and longitude coordinates.
             
@@ -739,9 +741,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Nantes Métropole (FR): [https://data.nantesmetropole.fr/pages/home/](https://data.nantesmetropole.fr/pages/home/)
             
     18. **Gambia**
-        
-        Gambia National Disaster Management Agency (NDMA) - [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
-        
+        * Gambia National Disaster Management Agency (NDMA) - [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+            
+        * The Humanitarian Data Exchange (GM): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+            
     19. **Germany**
         * Bundesamt für Kartographie und Geodäsie - © Vermessungsverwaltungen der Bundesländer und Bundesamt für Kartographie und Geodäsie: [/www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
             
@@ -1069,6 +1072,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Ministero Delle Infrastrutture e Della Mobilità Sostenibil (IT): [https://dati.mit.gov.it/catalog/dataset/grafo-stradale-anas](https://dati.mit.gov.it/catalog/dataset/grafo-stradale-anas)
             
+        * Trenord agency Link to their license: [https://opendefinition.org/licenses/cc-by/](https://opendefinition.org/licenses/cc-by/)
+            
     32. **Ivory Cost (Côte d'Ivoire)**
         
         OCHA Côte d'Ivoire ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
@@ -1240,7 +1245,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Main Office of Geodesy and Cartography - [http://www.gugik.gov.pl/prawa-autorskie](http://www.gugik.gov.pl/prawa-autorskie)
             
-        * Geoportal Infrastruktury Informacji Przestrzennej: [geoportal.gov.pl -](https://geoportal.gov.pl/) [https://www.geoportal.gov.pl/en/regulamin](https://www.geoportal.gov.pl/en/regulamin)
+        * Geoportal infrastruktury Informacji Przestrzennej (PL): [https://www.geoportal.gov.pl/](https://www.geoportal.gov.pl/)
             
     46. **Portugal**
         * IgeoE - Portugal
@@ -2144,6 +2149,15 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
     105. **Madagascar**
         * The Humanitarian Data Exchange (MG): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+            
+    106. **Mauritania**
+        * The Humanitarian Data Exchange (MR): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+            
+    107. **El Salvador**
+        * The Humanitarian Data Exchange (SV): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+            
+    108. **Benin**
+        * The Humanitarian Data Exchange (BJ): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
             
 4. **Business Listings Data.**
     
