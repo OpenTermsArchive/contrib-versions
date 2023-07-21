@@ -338,6 +338,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     
     * [What is Kubeflow](https://ubuntu.com/ai/what-is-kubeflow)
     * [Services](https://ubuntu.com/ai/services)
+    * [Roadshow](https://ubuntu.com/ai/roadshow)
 * [Robotics](https://ubuntu.com/robotics) [Robotics](#)
     -----------------------------------------------------
     
@@ -445,7 +446,7 @@ The open source software platform that runs everywhere from the smartphone, the 
 * * [Containers](https://ubuntu.com/containers)
     * [Tutorials](https://ubuntu.com/tutorials)
     * [16-04](https://ubuntu.com/16-04)
-    * [Model-driven operations](https://ubuntu.com/model-driven-operations)
+    * [Software partnerships](https://ubuntu.com/software-partnerships)
     * [Landscape](https://ubuntu.com/landscape)
     * [Canonical Embedding Programme](https://ubuntu.com/embedding)
 
