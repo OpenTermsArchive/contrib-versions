@@ -109,7 +109,7 @@ Providing the above data is mandatory. Any further personal data you provide us 
 
 We process the personal data only for and in connection with the provision of Hygraph.
 
-We use your email address to provide you with information about updates of Hygraph via our regular newsletter. You can revoke your consent to receive our newsletter at any time by using the respective link in the newsletter or sending an email to [\[email protected\]](https://graphcms.com/cdn-cgi/l/email-protection)
+We use your email address to provide you with information about updates of Hygraph via our regular newsletter. You can revoke your consent to receive our newsletter at any time by using the respective link in the newsletter or sending an email to [\[email protected\]](https://graphcms.com/cdn-cgi/l/email-protection).
 
 The legal basis for the processing of mandatory personal data in relation to the use of Hygraph is Art. 6 para. 1 s. 1 lit. b GDPR; the legal basis for voluntary personal data is Art. 6 para. 1 s. 1 lit. a GDPR.
 
