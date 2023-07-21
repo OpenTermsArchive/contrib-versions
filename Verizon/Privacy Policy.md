@@ -940,7 +940,7 @@ Open all
     
     Nevada law defines "sale" as the exchange of certain personally identifiable customer information for money. Personally identifiable information includes name, address, phone number, SSN, or any identifier that can be used to contact you electronically.  
     
-    Verizon doesn’t sell personally identifiable information today and we don’t have plans to start. If Verizon ever starts selling such personal information, current Verizon customers will be opted out. If you have questions, provide the information requested in this [form](https://www.verizon.com/about/privacy/privacy-inquiries).
+    Verizon doesn’t sell personally identifiable information today and we don’t have plans to start. If Verizon ever starts selling such personal information, current Verizon customers will be opted out. If you have questions, provide the information requested in this [privacy inquiries form](https://www.verizon.com/about/privacy/privacy-inquiries).
     
     ### Virginia Consumer Data Protection Act
     
