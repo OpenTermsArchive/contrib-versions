@@ -67,7 +67,7 @@ Other languages:
 * [Kreyòl ayisyen](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ht "Kondisyon itilizasyon (3% translated)")
 * [Latina](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/la "conditionem úimo (1% translated)")
 * [Lëtzebuergesch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lb "Konditioune fir d'Benotzenfr (4% translated)")
-* [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nl "Gebruiksvoorwaarden (89% translated)")
+* [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nl "Gebruiksvoorwaarden (100% translated)")
 * [Qafár af](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/aa "Policy:Terms of Use/aa (4% translated)")
 * [Qaraqalpaqsha](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/kaa "Paydalanıw shártleri (1% translated)")
 * [Ripoarisch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ksh "Bedengonge för der Jebruch (17% translated)")
