@@ -7,7 +7,7 @@ Criteo Advertising Guidelines
 
 * * *
 
-Criteo, including IPONWEB and its affiliated platforms, operate through the highest quality network. For this reason, Criteo’s advertiser partners must at all times adhere to and comply with these guidelines.
+Criteo and its affiliated platforms, including BidSwitch and BrandCrush, operate through the highest-quality network. For this reason, Criteo’s advertiser partners must at all times adhere to and comply with these guidelines.
 
 Each of Criteo’s advertising partners is responsible for ensuring that their content, products, or services comply with applicable laws and regulations, including applicable data protection and privacy laws and regulations.
 
@@ -120,14 +120,7 @@ Advertising of tobacco or tobacco-related products, vaping products, or related 
 
 **Gambling, Alcohol and Tobacco restricted categories – The MediaGrid and BidSwitch customers:**
 
-For the _Gambling, Alcohol and Tobacco_ restricted categories, customers of Criteo’s affiliated platforms, The MediaGrid and BidSwitch, must opt-in to trade in Restricted Categories.
-
-To opt in to The MediaGrid and BidSwitch Restricted Categories, Customer must sign a trading addendum relating to the category you wish to trade as described below. To request a trading addendum, please reach out to:
-
-* [trading@themediagrid.com](mailto:trading@themediagrid.com) for The MediaGrid.
-* [trading@bidswitch.com](mailto:trading@bidswitch.com) for BidSwitch.
-
-Customer may also be required to agree to certain additional conditions relating to Restricted Categories.
+For the Gambling, Alcohol and Tobacco restricted categories, customers of Criteo’s affiliated platforms, The MediaGrid and BidSwitch, must opt-in to trade in **Restricted Categories**. To opt-in to Restricted Categories, please reach out to your Account Manager. Customer may also be required to agree to certain additional conditions relating to Restricted Categories.
 
 * * *
 
