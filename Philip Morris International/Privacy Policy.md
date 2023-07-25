@@ -295,6 +295,14 @@ You may amend or revoke your instructions at any time. For further information o
 
 If you are in the Philippines, you may have rights in addition to those set out in this notice in accordance with the Philippine Data Privacy Act and its implementing rules and regulations, including the National Privacy Commission’s Privacy Policy Office Advisory Opinion No. 2018-031.
 
+**_If you are in Japan, find out more…_**
+
+To the extent permitted by applicable law, we may share information about you with PMI affiliates’ carefully selected third party business partners including advertisers and data analysing businesses (in line with the kind of thing you might associate with our products, for example because they have similar or complementary image, style, or functionality) so that they can contact you with products, services and promotions that they think may interest you, in accordance with your preferences, or they can analyse your preference and we can contact you with more tailor-made offers.
+
+In addition to this, we may receive from third parties’ Personal Referable Information, i.e.  information with which a specific individual cannot be identified and use it by associating with information about you which we already possess, only if you agree to do so.
+
+Under the age verification requirements, by “adult” we understand individuals that are over 20 years old (the legal age to purchase tobacco products).
+
 **_If you are in Taiwan, find out more…_**
 
 If you are in Taiwan, the following additional information applies to you:
