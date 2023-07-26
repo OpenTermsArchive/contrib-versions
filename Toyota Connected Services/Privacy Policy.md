@@ -261,7 +261,7 @@ If you would like to exercise any of the privacy rights identified above, you ma
 
 **Authorized Agents**
 
-You may exercise your privacy rights through an authorized agent. If we receive your request from an authorized agent, we may ask for evidence that you have provided such agent with a power of attorney or that the agent otherwise has valid written authority to submit requests to exercise rights on your behalf. If you are an authorized agent seeking to make a request, please **[CONTACT US.](#_13)**
+You may exercise your privacy rights through an authorized agent. If we receive your request from an authorized agent, we may ask for evidence that you have provided such agent with a power of attorney or that the agent otherwise has valid written authority to submit requests to exercise rights on your behalf. If you are an authorized agent seeking to make a request, please contact us at **855-226-4048**.
 
 **How We Verify Your Request**
 
@@ -298,13 +298,13 @@ Median number of calendar days to complete requests in 2022: 3 days
 Total requests: 353  
 Requests complied with in whole or in part: 155  
 Requests denied: 198\*\*  
-Median number of calendar days to complete requests: 20 days
+Median number of calendar days to complete requests in 2022: 20 days
 
 "Delete My Personal Information" (Toyota and Lexus)  
 Total requests: 838  
 Requests complied with in whole or in part: 365  
 Requests denied: 473\*\*  
-Median number of calendar days to complete requests: 12 days
+Median number of calendar days to complete requests in 2022: 12 days
 
 \*Includes California resident requests that failed matching with Toyota Motor North America's internal system of consumer records, any canceled California resident requests where the submission failed to register with Toyota Motor North America's privacy tool, or when a California resident consumer explicitly requested cancellation of their request.
 
