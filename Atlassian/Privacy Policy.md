@@ -221,7 +221,7 @@ _**International transfers within the Atlassian Companies**_: To facilitate our
 
 _**International transfers to third parties**_: Some of the third parties described in this privacy policy, which provide services to us under contract, are based in other countries that may not have equivalent privacy and data protection laws to the country in which you reside. When we disclose information of customers in the European Economic Area, the UK, or Switzerland, we make use of the European Commission-approved standard contractual data protection clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer.
 
-**EU-U.S. Data Privacy Framework Notice**
+**Data Privacy Framework Notice**
 
 On July 10, 2023, the European Commission’s adequacy decision for the EU-U.S. Data Privacy Framework (EU-U.S. DPF) entered into force.
 
@@ -230,7 +230,7 @@ Atlassian, Inc. and its U.S. subsidiaries (Atlassian Network Service, Inc., Dogw
 
 Atlassian, Inc. has self-certified its commitment to comply with the EU-U.S. DPF Principles and relies on the European Commission’s adequacy decision for the EU-U.S. DPF to receive personal data transfers from the European Union/European Economic Area.
 
-Atlassian, Inc. has self-certified its commitment to comply with the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF), but will not rely on the Swiss-U.S. DPF to receive personal data transfers from Switzerland until the date of entry into force of the Swiss Federal Administration’s anticipated recognition of adequacy for the Swiss-U.S. DPF.
+Atlassian, Inc. has self-certified its commitment to comply with the UK Extension to the EU-U.S. DPF, but will not rely on the UK Extension to the EU-U.S. DPF to receive personal data transfers from the United Kingdom (and Gibraltar) until the date of entry into force of the United Kingdom’s anticipated adequacy regulations implementing the data bridge for the UK Extension to the EU-U.S. DPF.
 
 To view Atlassian’s certifications, please visit [this page](http://www.dataprivacyframework.gov/) and search for ”Atlassian”.
 
