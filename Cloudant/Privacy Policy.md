@@ -5,6 +5,8 @@ At IBM we value your privacy and are committed to protecting and processing your
 
 This privacy statement describes how IBM collects, uses and shares your information. It applies to IBM Corporation and IBM subsidiaries except where a subsidiary presents its own statement without reference to IBM’s.
 
+Where we provide products, services, or applications as a business-to-business provider to a client, the client is responsible for the collection and use of personal information while using these products, services, or applications. This collection and use is covered by the client’s privacy policy, unless otherwise described. Our agreement with the client may allow us to request and collect information about authorized users of these products, services, or applications for reasons of contract management. In this case, this privacy statement, or a supplementary privacy notice, applies.
+
 We may provide additional data privacy information by using a supplementary privacy notice.
 
 * * *
@@ -14,7 +16,7 @@ Personal Information We Collect and Use
 
 This section describes the various types of information that we collect and how we use it.
 
-It includes information on [Your Account](#Your_Account "Your Account"), [IBM Websites](#Our_Websites "IBM Websites"), [IBM Cloud and Online Services](#IBM_Cloud_and_Online_Services "IBM Cloud and Online Services"), [Marketing](#Marketing "Marketing"), [Contractual Relationships](#Contractual_Relationship "Contractual Relationships"), [Support Services](#Support_Services "Support Services"), [Protecting You and IBM](#You_and_IBM "Protecting You and IBM"), [IBM Locations](#IBM_Locations "IBM Locations"), [Recruitment and Former Employees](#Recruitment_and_Former_Employees "Recruitment and Former Employees"), [Conducting our Business Operations](#Business_Operations "Conducting our Business Operations"), [Cookies and Similar Technologies](#Cookies_and_Similar_Technologies "Cookies and Similar Technologies"), and [Children](#Children "Children").
+It includes information on [Your Account](#Your_Account "Your Account"), [IBM Websites](#Our_Websites "IBM Websites"), [IBM Applications, Cloud and Online Services](#IBM_Cloud_and_Online_Services "IBM Cloud and Online Services"), [Marketing](#Marketing "Marketing"), [Contractual Relationships](#Contractual_Relationship "Contractual Relationships"), [Support Services](#Support_Services "Support Services"), [Protecting You and IBM](#You_and_IBM "Protecting You and IBM"), [IBM Locations](#IBM_Locations "IBM Locations"), [Recruitment and Former Employees](#Recruitment_and_Former_Employees "Recruitment and Former Employees"), [Conducting our Business Operations](#Business_Operations "Conducting our Business Operations"), [Cookies and Similar Technologies](#Cookies_and_Similar_Technologies "Cookies and Similar Technologies"), and [Children](#Children "Children").
 
 The information that we collect and use may include profile information, interactions on webpages, marketing preferences, information to investigate malicious activities, recordings or transcripts of your conversations with us for support purposes, information to improve our business operations, and more.
 
@@ -22,11 +24,11 @@ The information that we collect and use may include profile information, interac
 
 #### Your Account
 
-You can create an account with IBM by creating an IBMid. An IBMid provides IBM with your name, email address, and country or region of residence. We may require an IBMid for certain services, such as the use of [IBM Cloud and Online Services](#IBM_Cloud_and_Online_Services).[](#Your_Account)
+You can create an account with IBM by creating an IBMid. An IBMid provides IBM with your name, email address, and country or region of residence. We may require an IBMid for certain services, such as the use of [IBM Applications, Cloud and Online Services](#IBM_Cloud_and_Online_Services "IBM Cloud and Online Services").
 
 We may also store your details from business contact information that you provide to us, or that we collect from your organization, our Business Partners, or our suppliers.
 
-An IBMid uniquely identifies you when you access our websites, make a request or order, or use a product or service. If you log into our websites with an IBMid we may link the information we collect with your account. An IBMid is also used to give you access to [IBM Cloud and Online Services](#IBM_Cloud_and_Online_Services) and allows you to manage your contract and billing history. The email address in your IBMid may be used to contact you in relation to any services to which you subscribe.
+An IBMid uniquely identifies you when you access our websites, make a request or order, or use a product or service. If you log into our websites with an IBMid we may link the information we collect with your account. An IBMid is also used to give you access to [IBM Applications, Cloud and Online Services](#IBM_Cloud_and_Online_Services "IBM Cloud and Online Services") and allows you to manage your contract and billing history. The email address in your IBMid may be used to contact you in relation to any services to which you subscribe.
 
 Business contact information is typically information that you would find on a business card, such as name and business contact details. We use this information to contact or communicate with you about business matters. If we receive business contact information from a third party, such as an IBM Business Partner or supplier, we will confirm that the information was shared appropriately.
 
@@ -65,7 +67,7 @@ We prepare reports on the use of our websites to derive insights into trending t
 
 We accept no responsibility for the content provided on, or privacy practices, of third-party websites or applications.
 
-#### IBM Cloud and Online Services
+#### IBM Applications, Cloud and Online Services
 
 Our cloud and online services include “as-a-service” and desktop applications, mobile applications (or apps), and IBM Learning services. We collect information about the use of these services, such as pages you view or your interactions on that page, to improve and develop our services and to generate technical and market insights. We may require an IBMid for the use of our cloud and online services (see [Your Account](#Your_Account)_)._
 
@@ -80,8 +82,6 @@ The information that we collect on our cloud and online services may include:
 * and passwords.
 
 This information is collected to provide you with access, to operate the service, for support, to personalize and improve your experience of the service, to develop other services and technologies, and generate technical and market insights. For more information on the technologies that we use to collect this information, and setting your preferences, see [Cookies and Similar Technologies](#Cookies_and_Similar_Technologies).
-
-Where we provide products and services as a business-to-business provider, the client is responsible for the collection and use of personal information while using our products or services, unless otherwise described. Our agreement with clients may also allow us to request and collect information about authorized users of our products or services for reasons of contract management.
 
 As a public cloud provider, IBM does not use personal information processed under a contract for the purposes of marketing and advertising without express consent.
 
@@ -125,7 +125,7 @@ A contractual relationship is created when you order a trial, or a product or se
 
 The information collected in a contractual relationship may include the business contact information of the requester, an IBMid, and the order details. Information that is required for shipment and payment, for the implementation of services, or to grant access to the product or service may also be collected.
 
-This information may be collected for various purposes, depending on the nature of the products or services, for example, for contractual management and compliance, to provide support, for the improvement or development of our products and services, to contact you for customer satisfaction surveys, and to generate technical and market insights. For more information, see [IBM Cloud and Online Services](#IBM_Cloud_and_Online_Services).
+This information may be collected for various purposes, depending on the nature of the products or services, for example, for contractual management and compliance, to provide support, for the improvement or development of our products and services, to contact you for customer satisfaction surveys, and to generate technical and market insights. For more information, see [IBM Applications, Cloud and Online Services](#IBM_Cloud_and_Online_Services "IBM Cloud and Online Services").
 
 The information collected in a contractual relationship is not used for the purposes of marketing and advertising without obtaining consent before processing.
 
@@ -360,5 +360,13 @@ Privacy Statement Updates
 If a material change is made to this Privacy Statement, the effective date is revised, and a notice is posted on the updated Privacy Statement for 30 days. By continuing to use our websites and services after a revision takes effect, it is considered that users have read and understand the changes.
 
 Previous versions of the Privacy Statement are available [here](https://www.ibm.com/privacy/portal/previous-versions-of-IBM-privacy-statements).
+
+**Sections updated in this release:**
+
+1. Introduction
+2. IBM Applications, Cloud and Online Services
+3. Your Additional Rights: Switzerland
+4. Your Additional Rights: US States
+5. Your Additional Rights: Vietnam
 
 * * *
