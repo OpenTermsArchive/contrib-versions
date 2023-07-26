@@ -948,8 +948,9 @@ Article 5. Cancellation of Creator Registration
 1. In the case where a Creator wishes to cancel his or her registration, the User shall submit notice of cancellation of the Creator registration to the Company by the method prescribed by the Company.
 2. In the case where a Creator engages in the conduct set forth in any of the following items, the Company may, at its discretion, cancel the Creator registration, compel the Creator to withdraw also as a User, and refuse use of the Individual Service and related services.
     1. In cases where it is determined that the registration application was not performed using the method prescribed by the Company;
-    2. In cases where the Creator violates the pixiv Master Terms of Use, these Individual Terms of Use, or other terms of use and the like; or
-    3. In cases where the Company determines that registration is inappropriate.
+    2. In cases where the Company determines that the Creator violated or is suspected of violating the pixiv Master Terms of Use, these Individual Terms of Use, or other terms of use and the like;
+    3. In case the Company determines that it is impossible to grasp the Creator's activities in the Individual Service; or
+    4. In cases where the Company determines that registration is inappropriate
 
 Article 6. Creation of Support Plans
 ------------------------------------
@@ -964,7 +965,7 @@ Article 7. Posting
 ------------------
 
 1. After setting the scope of disclosure using the method prescribed by the Company, Creators can publish posts on a Creator page at their discretion.
-2. Creators may not publish posts that fall under any of the following. If the Company determines that a post falls under any one of the following, the Company is entitled to request that the registered Creator revise the post or make the post private in whole or in part, and depending on the circumstances, the Company may cancel the Creator registration of the relevant Creator.
+2. When using the Individual Services, Creators shall not publish Posted Data or Posted Contents that fall under any of the following, or direct Users to external online storage services or other external web services, etc. for the purpose of publishing such Posted Data or Posted Contents. If the Company determines that a post falls under any one of the following, the Company is entitled to request that the registered Creator revise the post or make the post private in whole or in part, and depending on the circumstances, the Company may cancel the Creator registration of the relevant Creator.
     1. Obscene or excessively deviant sexual expression;
     2. Violent or cruel expression that causes strong feelings of disgust or discomfort;
     3. Expression that glorifies or promotes extreme ideas or anti-social behavior;
@@ -972,8 +973,11 @@ Article 7. Posting
     5. Expression that glorifies or promotes cult-like religious behavior or extreme political behavior;
     6. In the case where a third party makes a claim of infringement of rights or other assertion, and following investigation by the Company, a determination is made that the third party’s claim is not baseless;
     7. A post regarding which a public agency or an expert (a national or regional public body, a credibility confirmation organization specified in the Act on the Limitation of Liability for Damages of Specified Telecommunications Service Providers and the Right to Demand Disclosure of Identification Information of the Senders, Internet hotline, attorney, etc.) indicates or expresses an opinion that the content is unlawful, contrary to public morals, or infringes on the rights of another person;
-    8. Expression that infringes on the rights of a third person or falls under Article 18 (Prohibitions) and is determined to be inappropriate for provision on the Individual Service even when taking into consideration the freedom of expression; or
-    9. Further to the above, expression that violates the pixiv Master Terms of Use, these Individual Terms of Use, or other guidelines.
+    8. Expression that infringes on the rights of a third person or falls under Article 18 (Prohibitions) and is determined to be inappropriate for provision on the Individual Service even when taking into consideration the freedom of expression;
+    9. Content defined by the Company as "AI-generated content" in the Individual Service. Please also refer to the following for the determination of applicability; or
+        1. [pixivFANBOX Guidelines](https://fanbox.pixiv.help/hc/articles/13239721816217)
+        2. [What is "AI-generated content"?](https://fanbox.pixiv.help/hc/articles/20299395982489)
+    10. Further to the above, expression that violates the pixiv Master Terms of Use, these Individual Terms of Use, or other guidelines.
 
 Article 8. Monitoring of the Site by the Company
 ------------------------------------------------
@@ -1071,6 +1075,7 @@ Supplementary provision:
 Revision
 --------
 
+* July 25, 2023 “Article 5. Cancellation of Creator Registration” and “Article 7. Posting” have been revised.
 * October 25, 2021 "Article 2. Support by Supporters" , "Article 15. Direct Deposit Request", "Article 16. Insufficient or Incorrect Direct Deposit Account Information" and "Article 18. Prohibitions" have been revised.
 * May 31, 2021 "Article 9. Support by Supporters" and "Article 14. Payment" have been revised.
 * March 31, 2021 Article 15 (Direct Deposit Request) has been revised.
