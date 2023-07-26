@@ -175,12 +175,17 @@ If you have any questions regarding privacy, please read our privacy policy: [h
 
 [Legal Process Policy](https://help.sonic.com/hc/en-us/articles/236030167-Legal-Process-Policy)
 
-16\. Force Majeure
+16\. Regulatory
+===============
+
+**[CA Tariff - Local Exchange Services](https://help.sonic.com/hc/en-us/articles/115000380368-Local-Exchange-Services "SonicTariff.pdf")**
+
+17\. Force Majeure
 ==================
 
 If Sonic is unable to deliver service because of any condition arising out of or caused, directly or indirectly, by circumstances beyond its reasonable control, including, without limitation, natural calamities and other acts of God; war, terrorism, sabotage, riot, or other civil or military disturbance; earthquake, fire, flood, hurricane, tornado, lightning, severe weather, or explosion; national or regional emergency; epidemic or pandemic; strike, lockout, labor stoppage or slowdown, or other industrial disturbance; power outage or failure; equipment or computer malfunction or failure; inability to obtain labor, material, equipment or transportation; change to the federal, state or local regulatory environment that make it impossible or commercially infeasible for Sonic, in Sonic’s sole judgment, to continue to deliver service, such as the discontinuance of the obligation of Incumbent Local Exchange Carriers to offer and provide one or more Unbundled Network Elements, the allowance of price increase(s) for one or more Unbundled Network Elements, and/or changes in the terms and conditions under which Unbundled Network Elements are offered and provided; change to the availability, prices, and/or terms and conditions of services or facilities offered or provided by Sonic’s suppliers and used by Sonic to perform its obligations, that make it impossible or commercially infeasible for Sonic, in Sonic’s sole judgment, to continue to perform such obligations; change to or termination of license or lease agreements, encroachment permits, excavation permits, facilities attachment arrangements, and/or other means by which Sonic deploys its facilities and equipment in public and private rights-of-way and easements, that make it impossible or commercially infeasible for Sonic, in Sonic’s sole judgment, to continue to deliver service; or any other event or circumstance not within Sonic’s reasonable control, whether similar or dissimilar to any of the foregoing, then Sonic may cease delivery of service on a day-to-day basis. Sonic will recommence service as soon as possible after the causes are removed or ceased.
 
-17\. Terms and Conditions of Global Calling
+18\. Terms and Conditions of Global Calling
 ===========================================
 
 Sonic’s Global Calling feature is for normal residential use only and can’t be used for commercial or other special purposes. Global Calling is subject to reasonable use parameters as determined by Sonic. Customers are liable for all charges incurred from fraudulent use.
