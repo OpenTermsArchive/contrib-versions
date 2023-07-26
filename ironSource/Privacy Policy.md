@@ -137,6 +137,6 @@ We value your privacy and your rights as a data subject and have therefore appoi
 Data Protection Officer
 
 ironSource Ltd.  
-dpo@ironsrc.com  
+ironsource\_privacy@unity3d.com  
 121 Menachem Begin Rd., Tel Aviv, Israel  
 Attn: Data Protection Officer
