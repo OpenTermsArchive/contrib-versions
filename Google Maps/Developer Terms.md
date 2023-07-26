@@ -2002,6 +2002,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Low-cost sensors data from PurpleAir, [https://aqs.epa.gov/aqsweb/airdata/download\_files.html#Meta.](https://aqs.epa.gov/aqsweb/airdata/download_files.html#Meta)
             
+        * © 2023 Vexcel Imaging US, Inc
+            
     68. **Chile**
         * Biblioteca del Congreso Nacional de Chile ([https://creativecommons.org/licenses/by/3.0/cl/](https://creativecommons.org/licenses/by/3.0/cl/))
             
