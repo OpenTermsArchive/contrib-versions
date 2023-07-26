@@ -1,7 +1,7 @@
 TP-LINK PRIVACY POLICY
 ----------------------
 
-Last Updated: May, 4 2022
+Last Updated: Jul, 25 2023
 
 TP-Link Corporation Limited (“TP-Link,” “we” “us,” or “our”), takes your privacy seriously. We want you to understand what information we collect, and how we use and share it. That’s why we encourage reading our Privacy Policy. This helps your use TP-Link Products and Services in a way that’s right for you. Some Products and Services of TP-Link can be used together or in ways that integrate with products and services from third parties. Using third-party products and services may allow the third party to collect or share data about you. We do not control these third-party products and services, and we encourage you to read the privacy notice of every third-party product and service you use.
 
@@ -145,7 +145,7 @@ The Services may include links to third-party websites whose privacy practices m
 
 ### **8\.** **YOUR RIGHTS**
 
-To the extent required by applicable law, you may (i) have the right to access certain personal data we maintain about you, (ii) request that we update or correct inaccuracies in that data, (iii) object or restrict to our use of your personal data, and (iv) ask us to delete your personal data from our database. To exercise these rights, please send us an email at [privacy@tp-link.com](mailto:privacy@tp-link.com) to give your feedback online. Your written request may be required for security. We will verify your personal identity as required by local laws. We may decline the request if we have reasonable grounds to believe that the request is a fraudulent, unfeasible, may jeopardize the privacy of others, or would violate any law or legal requirement or negatively impact the information's accuracy. 
+To the extent required by applicable law, you may (i) have the right to access certain personal data we maintain about you, (ii) request that we update or correct inaccuracies in that data, (iii) object or restrict to our use of your personal data, and (iv) ask us to delete your personal data from our database through [https://account-delete.tplinkcloud.com/](https://account-delete.tplinkcloud.com/). To exercise these rights, please send us an email at [privacy@tp-link.com](mailto:privacy@tp-link.com) to give your feedback online. Your written request may be required for security. We will verify your personal identity as required by local laws. We may decline the request if we have reasonable grounds to believe that the request is a fraudulent, unfeasible, may jeopardize the privacy of others, or would violate any law or legal requirement or negatively impact the information's accuracy. 
 
 If allowed by applicable laws, you have the right to withdraw your consent at any time when we process your personal data based on your consent. However, withdrawal does not affect the legitimacy and effectiveness of how we process your personal data based on your consent before the withdrawal is made; nor does it affect any data processing based on another justification other than your consent.
 
