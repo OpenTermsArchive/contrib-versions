@@ -1,7 +1,7 @@
 User Agreement
 ==============
 
-Effective: May 17 2023, 14:26 GMT  
+Updated: May 17 2023, 14:26 GMT  
 Location: [https://www.livejournal.com/legal/tos-en.bml?r=15271](https://www.livejournal.com/legal/tos-en.bml?r=15271)
 
 1. #### Subject of the Agreement
