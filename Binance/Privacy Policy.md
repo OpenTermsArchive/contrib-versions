@@ -1,6 +1,6 @@
 Privacy Notice - Binance
 
-Last updated: 26 July 2023
+Last updated: 27 July 2023
 
 Binance (“Binance”, “we”, or “us”) is committed to protecting the privacy of our customers, and we take our data protection responsibilities with the utmost seriousness.
 
@@ -24,7 +24,7 @@ This Notice should therefore be read together with our Cookie Notice, which prov
 | Sweden | Financial Institution | Binance Nordics AB | Mailbox 625, 114 11 Stockholm Sverige. |
 | Poland | Digital Asset Services | Binance Poland Spółka z Ograniczoną Odpowiedzialnością | Ul. Aleje Ujazdowskie, No. 41, apt., locality Warsaw, 00-540, Poland. |
 
-The Binance operating entity you contract with determines the means and purposes of processing of your personal data in relation to the services provided to you (typically referred to as a “data controller”). For most jurisdictions in the European Economic Area, this is Binance (Services) Holdings Limited, a company registered at 6th Floor, South Bank House, Barrow Street, 4 Dublin, Ireland.
+The Binance operating entity you contract with determines the means and purposes of processing of your personal data in relation to the services provided to you (typically referred to as a “data controller”). For most jurisdictions in the European Economic Area, this is Binance (Services) Holdings Limited, a company registered at 6th Floor, South Bank House, Barrow Street, 4 Dublin, Ireland. For United Kingdom users you operating entity will be Nest Services Limited (a company incorporated under the laws of the Republic of Seychelles with registration number 238045 and address at House of Francis, Room 303, Ile Du Port, Mahe, Seychelles).
 
 If you reside in France, Italy, Spain, Sweden or Poland then the relevant data controller is Binance (Service) Holdings Limited as joint controller with the Binance entity referenced in the table above for your country of residence. In these cases, Binance (Service) Holdings Limited is the joint controller with primary responsibility for your personal data, including providing you with data and responding to any requests you may make under data protection law.You may be asked to provide personal data when you are in contact with any Binance companies. The Binance companies may share your personal data with each other and if they do so they will use it consistently with this Privacy Notice.
 
