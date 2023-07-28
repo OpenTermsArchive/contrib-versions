@@ -406,6 +406,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         102. Government of Ontario (CA): [https://www.ontario.ca/page/government-ontario](https://www.ontario.ca/page/government-ontario)
             
+        103. Statistics Canada, Administrative Areas, 2023 (CA): [https://www.statcan.gc.ca/en/start](https://www.statcan.gc.ca/en/start)
+            
     10. **Cambodia**
         * The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
             
@@ -908,6 +910,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * City Geospatial Data Management Department ([https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/))
             
+        * The Hellenic Statistical Authority (ELSTAT) (GR): [https://www.statistics.gr/el/home](https://www.statistics.gr/el/home)
+            
     22. **Greenland**
         * © Asiaq
             
@@ -1089,9 +1093,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
             
-        * 交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和5年 5 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+        * 交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和5年 6 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
             
-        * JRバスデータの内容は、株式会社交通新聞社作成のデータ令和5年 5 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+        * JRバスデータの内容は、株式会社交通新聞社作成のデータ令和5年 6 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
             
         * ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
             
@@ -1457,6 +1461,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * MeteoSwiss, [https://www.meteoswiss.admin.ch/about-us.html,](https://www.meteoswiss.admin.ch/about-us.html) changes were made.
             
         * SwissTopo (CH): [https://www.swisstopo.admin.ch/de/geodata/landscape/tlm3d.html#dokumente](https://www.swisstopo.admin.ch/de/geodata/landscape/tlm3d.html#dokumente) changes were made.
+            
+        * Federal Office of Topography Swisstopo (CH): [https://www.swisstopo.admin.ch/de/home.html](https://www.swisstopo.admin.ch/de/home.html)
             
     57. **Taiwan**
         * © 2013 Kingwaytek Technology Co., Ltd.
