@@ -179,6 +179,8 @@ In some cases we may need to process your User Information because we are requir
 
 In all other cases we may rely on our legitimate interests to collect User Information from you, except where such interests are overridden by your data-protection interests or fundamental rights and freedoms. Where we rely on our legitimate interests to process your User Information, they include the interests described in the section headed “[How We Use User Information](#Use-of-User-Information) .”
 
+To note, Magnite participates in the IAB Europe Transparency & Consent Framework and complies with its specifications and policies. Magnite’s identification number(s) within the framework is 52 (DV+), 102 (Magnite Streaming), 202 (Magnite Outstream) and 493 (Magnite Carbon AI).
+
 If you have questions about or need further information concerning the legal basis on which we collect and use your User Information, please contact us using the contact details provided under the “[Contact Us](#Contact-Us)” heading below.
 
 _Right to Lodge a Complaint_  
