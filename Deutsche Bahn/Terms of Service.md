@@ -151,4 +151,4 @@ Our privacy policy contains information on how we process the personal data in y
 Frequently asked questions
 --------------------------
 
-Further information and answers to frequently asked questions about the terms and conditions of use for customer accounts are available [in our FAQ](https://www.bahn.com/en/terms-of-use/customer-accounts-terms-of-use/faq-customer-accounts-terms-of-use).
+Further information and answers to frequently asked questions about the terms and conditions of use for customer accounts are available [in our FAQ](https://www.bahn.com/en/terms-of-use/customer-accounts-terms-of-use/faq-terms-of-use-customer-accounts).
