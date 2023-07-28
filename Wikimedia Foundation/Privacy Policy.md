@@ -91,7 +91,7 @@ Other languages:
 * [سرائیکی](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/skr "رازداری پالیسی (14% translated)")
 * [سنڌي](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sd "رازداريءَ جي پاليسي (18% translated)")
 * [فارسی](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/fa "
-    سیاست محرمانگی (38% translated)")
+    سیاست محرمانگی (36% translated)")
 * [مازِرونی](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mzn "Policy:Privacy policy/mzn (1% translated)")
 * [پښتو](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ps "د پټنتیا تگلاره (11% translated)")
 * [کوردی](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ckb "سیاسەتی تایبەتێتی (37% translated)")
