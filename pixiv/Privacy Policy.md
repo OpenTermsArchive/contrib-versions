@@ -106,7 +106,13 @@ Company shall acquire or may in the future acquire the User Information specifie
     
     * ID, date and time of payment, zip code of buyer and country or region information where address of buyer belongs, amount of payment, IDs, etc. for processing individual payments and for identifying individual transactions
     
-    k For payment via the payment services to which Installment Sales Act applies (followings are applicable to such services in common)
+    k For payment via pixiv kantan pay
+    ==================================
+    
+    * ID, date and time of payment, amount of payment, IDs, etc. for processing individual payments and for identifying individual transactions
+    * financial institution code, branch code, bank account type, bank account number, name of account holder, amount of bank transfer
+    
+    l For payment via the payment services to which Installment Sales Act applies (followings are applicable to such services in common)
     ====================================================================================================================================
     
     * the following information of a User as a seller of goods or services on the Services: the date of application for such sales, company name, postal codes, address, phone number, industry types, the name and birth date of the representative of such company, the name, phone number, address and zip code of shops relevant to such transaction, the URL for the websites of such shops, industry types, the goods or services sold at such shops, the corporate number and classification (corporation or individual).
