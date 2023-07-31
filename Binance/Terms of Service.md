@@ -308,7 +308,7 @@ You agree to indemnify and hold harmless Binance Operators, their affiliates, co
 
 **V. Announcements**
 
-Please be aware that all official announcements, news, promotions, competitions and airdrops will be listed on [www.binance.com/en/support/announcement](https://www.binance.com/en/support/announcement%C2%A0) . USERS UNDERTAKE TO REFER TO THESE MATERIALS REGULARLY AND PROMPTLY. BINANCE WILL NOT BE HELD LIABLE OR RESPONSIBLE IN ANY MANNER OF COMPENSATION SHOULD USERS INCUR PERSONAL LOSSES ARISING FROM IGNORANCE OR NEGLIGENCE OF THE ANNOUNCEMENTS.
+Please be aware that all official announcements, news, promotions, competitions and airdrops will be listed on [www.binance.com/en/support/announcement](https://www.binance.com/en/support/announcement) . USERS UNDERTAKE TO REFER TO THESE MATERIALS REGULARLY AND PROMPTLY. BINANCE WILL NOT BE HELD LIABLE OR RESPONSIBLE IN ANY MANNER OF COMPENSATION SHOULD USERS INCUR PERSONAL LOSSES ARISING FROM IGNORANCE OR NEGLIGENCE OF THE ANNOUNCEMENTS.
 
 **VI. Termination of Agreement**
 
