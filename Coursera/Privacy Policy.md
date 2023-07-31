@@ -5,7 +5,7 @@ Privacy Notice
 
 * * *
 
-_Effective: January 1, 2022._
+_Effective: July 31, 2023._
 
 Key Information
 ---------------
@@ -83,7 +83,7 @@ If you would like further information in relation to your rights or would like t
 
 We try to answer every request promptly where possible, and provide our response within the time period stated by applicable law. Keep in mind, however, that when deleting your Personal Data there may be residual information that will remain within our databases, access logs, and other records, which may or may not contain your Personal Data. Please also note that certain Personal Data may be exempt from such requests in certain circumstances, which may include if we need to retain your Personal Data to comply with a legal obligation. When you email us with a request, we may ask that you provide us with information necessary to confirm your identity.
 
-If you are a resident of California, please also see our [CCPA Notice](https://www.coursera.org/about/privacy/ccpa).
+Further information for residents of U.S. States which have passed relevant U.S. State Privacy Laws is available in our [U.S. State Privacy Laws Notice](https://www.coursera.org/about/privacy/ccpa).
 
 Questions, Suggestions, and Complaints
 --------------------------------------
@@ -108,7 +108,7 @@ Coursera UK Limited serves as the EU Representative for Coursera, Inc. To contac
     
     Email: eu-representative@coursera.org
 
-California Privacy Rights
+U.S. State Privacy Rights
 -------------------------
 
 #### Shine the Light
@@ -117,11 +117,9 @@ Shine the Light Under California’s "Shine the Light" law, California residents
 
 To obtain this information, please send an email message to [privacy@coursera.org](mailto:privacy@coursera.org) with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your email address in response. Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
 
-#### California Consumer Privacy Act
+#### U.S. State Privacy Laws
 
-Under the California Consumer Privacy Act (“CCPA”), California residents have the right to know what personal information about them is collected, request deletion of their personal data, opt-out of the sale of their personal data, and not be discriminated against if they choose to exercise any of these rights. Coursera does not sell any of the data we collect about you. If you’d like to exercise any of the other rights afforded to you, log in to your Coursera account, select ‘Settings’ from the dropdown in the top right, and scroll down to find the appropriate option, or contact us at [privacy@coursera.org](mailto:privacy@coursera.org).
-
-For more information about how we process the personal information of California residents and the rights that California residents have under the CCPA, please review our full [CCPA Notice here](https://www.coursera.org/about/privacy/ccpa).
+Under privacy laws of certain U.S. States (“U.S. State Privacy Laws”), residents of relevant U.S. States have the right to know what personal information about them is collected and how this personal information is used and disclosed. Residents of relevant U.S. States can also exercise certain rights in respect of their data (such as access, deletion, and opting in/out of certain disclosures and uses). For more information about how we process personal information relating to residents of relevant U.S. States and the legal rights that such residents have, please review our [U.S. State Privacy Laws Notice here](https://www.coursera.org/about/privacy/ccpa).
 
 International Privacy Practices
 -------------------------------
