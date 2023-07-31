@@ -19,84 +19,26 @@ For the best results managing your Business Profile:
 * Choose the fewest number of categories that it takes to describe your overall core business.
 * There should only be one profile per business, as this can cause problems with how your information displays on Google Maps and Search.
 
-Brands, organisations, artists and other online-only businesses aren't eligible for Business Profiles.
-
-**Tip:** If you’d like to get one-on-one guidance and tailored recommendations on how to make the most of your profile, [book an appointment with Small Business Advisors](https://business.google.com/advisors/?Utm_campaign=GBPHCArticle&Utm_medium=GBP&Utm_source=HelpCenter&Utm_content=Article).
-
-Business eligibility & ownership
---------------------------------
-
-Eligible businesses
-
-To qualify for a Business Profile on Google, a business must make in-person contact with customers during its stated hours.
-
-There are some exceptions:
-
-* ATMs, video-rental kiosks and express mail drop boxes are permitted. If you add these locations, then you must include contact information for customers to get help.
-* Seasonal businesses, like an ice-skating rink only open in winter months, are eligible. These businesses must display permanent signage at their location year-round.
-* Delivery-only food services are permitted with some conditions. [Learn more under Virtual Food Brands](https://support.google.com/business/answer/3038177#chains).
-
-Ineligible businesses
-
-The following businesses are not eligible for a Business Profile:
-
-* Rental or for-sale properties, such as holiday homes, show homes or vacant apartments. Sales or leasing offices, however, are eligible for verification.
-* An ongoing service, class or meeting at a location that you don't own or have the authority to represent.
-* Lead generation agents or companies.
-
-Ownership
-
-Only business owners or authorised representatives may verify and manage their business information on a Business Profile. If you wish to share management access to your Business Profile with others, you can [add a manager](https://support.google.com/business/answer/3403100).
-
-Additional guidelines for authorised representatives
-
-Any individual or company that manages business information for a Business Profile that they don’t own is considered an **authorised representative**. For example: a third-party SEO/SEM company; a friend of the business owner; an online ordering, scheduling or booking provider and an affiliate network provider.
-
-Authorised representatives must:
-
-* **Never claim a Business Profile without express consent from the business owner.**
-* **Never make false, misleading or unrealistic claims.**
-* **Never use harassing, abusive or untrustworthy tactics with potential or existing customers.**
-* Always work directly with the business owner to complete verification. [Learn more about verification](https://support.google.com/business/answer/2911778).
-* Always ensure that the business owner understands what a Business Profile on Google is and where Business Profile data is used. Authorised representatives should share the following resources with the business’s owner:
-    * [Business Profile Manager](https://www.google.com/business/)
-    * [About Google Business Profile](https://support.google.com/business/answer/3038063)
-    * [How to edit your Business Profile](https://support.google.com/business/answer/3039617)
-    * [How Google sources & uses business information](https://support.google.com/business/answer/2721884)
-    * [How to request ownership of a profile someone else verified](https://support.google.com/business/answer/4566671)
-* Always keep the business owner informed about which actions the authorised representative will take on the Business Profile.
-* Always follow [Guidelines for representing your business on Google](https://support.google.com/business/answer/3038177). Note that the phone number and website for a Business Profile should always be the single, authoritative phone number and website for the business and be verifiable by the business owner. Website content must be owned and managed by the business owner.
-* Always respond to management access requests promptly, and always transfer Business Profile ownership to the business owner immediately upon request. Authorised representatives must, whenever possible, encourage the business owner to create an account, own the Business Profile and add authorised representatives as managers. [Learn how to transfer ownership](https://support.google.com/business/answer/3415281).
-
-Failure to adhere to these policies may result in a suspension for the Business Profile and/or Google Account.
-
 Learn content guidelines for Business Profiles
 ----------------------------------------------
 
 Published content should highlight what makes your business unique.
 
-**Important:** We do not allow content that contains private or confidential information such as personal financial information, government-issued IDs, contact information linked or associated with a name, sensitive records, images, transcripts or links that contain personal information. We also do not allow solicitation of the above information through local posts or a business description other than the user's own name, email and phone number.
+As outlined in our [prohibited and restricted content policies](https://support.google.com/contributionpolicy/answer/7400114), we do not allow content, or solicitation of content, that contains private or confidential information such as personal financial information, government-issued IDs, contact information linked or associated with a name, sensitive records, images, transcripts or links that contain personal information. 
+
+Merchants are permitted to post contact information (social media handles, email, phone number) for their own business on their own business profile or in response to reviews, Q&A, etc. However, we do not allow solicitation of personal or confidential information
 
 Business description
 
 Use the business description field to provide useful information on services and products offered, as well as the mission and history of your business.
 
-You should be upfront and honest about the information provided, focusing on content that is relevant and useful to your customers to understand your business. Content that's irrelevant to your business or has no clear association with it isn't allowed. Refer to our overall [Guidelines for representing your business on Google](https://support.google.com/business/answer/3038177).
+You should be upfront and honest about the information provided, focusing on content that's relevant and useful to your customers to understand your business. Content that's irrelevant to your business or has no clear association with it isn't allowed.
 
-Content published in this field **should not:**
+In addition to our overall [guidelines on prohibited and restricted content](https://support.google.com/contributionpolicy/answer/7400114), make sure that your business description does not:
 
-* **Mislead users**. Do not provide inaccurate or false information about your business or the services and products offered.
 * **Display low-quality, irrelevant or distracting content.** For example, misspellings, gimmicky character use, gibberish, etc.
 * **Focus on special promotions, prices and offer sales.** Examples of content not allowed include, 'Everything on sale, -50%' and 'Best butties in town for £5!'
 * **Display links**. No links of any type are allowed.
-* **Display offensive or inappropriate content:**
-    * **Harassing, bullying or hateful content**. Published content must not promote hatred or incite violence against individuals or groups based on ethnic origin, religion, disability, gender, age, veteran status, sexual orientation, or gender identity.
-    * **Content containing obscene, profane or offensive language**.
-    * **Terrorist content**. We do not permit terrorist organisations to use this service for any purpose, including recruitment. We also strictly prohibit content related to terrorism, such as content that promotes terrorist acts, incites violence or celebrates terrorist attacks. If posting content related to terrorism for an educational, documentary, scientific or artistic purpose, be mindful to provide enough information so viewers understand the context. 
-    * **Sexually suggestive or explicit content**. Content must not include profanity, sexually graphic and offensive slang terms, terms that are common signals for pedophilia, content that promotes paedophilia, bestiality or sexual violence, or content that promotes escort services or other services that may be interpreted as providing sexual acts in exchange for compensation.
-* **Display unpermitted content:**
-    * **Do not upload content related to the sale of dangerous and illegal products or services.**
-    * **Do not upload content that exploits or abuses children**.
 
 Name
 
@@ -415,18 +357,11 @@ If a practitioner is the only public-facing practitioner at a location and repre
 
 Acceptable: 'Arnedale: Joe Miller' (if Joe is the sole public-facing practitioner at this Arnedale-branded location)
 
-Other items of note
--------------------
-
-### Illegal activities
-
-Fraudulent or illegal activities aren’t tolerated on Google and may result in account suspension and removal of business information from search results.
-
 ### Marketing, promotions or other contests
 
 Any promotion, marketing, contests or other giveaways should clearly link to the terms of the activity and provide clear guidelines and qualifications. All such promises, given or implied, should be adhered to.
 
-**Tip:** Google reserves the right to suspend access to Business Profiles on Google or other Google Services to individuals or businesses that violate these guidelines, and may work with law enforcement in the event that the violation is unlawful.
+**Important:** Google reserves the right to suspend access to Business Profiles on Google or other Google Services to individuals or businesses that violate these guidelines and may work with law enforcement in the event that the violation is unlawful.
 
 Related resources
 -----------------
