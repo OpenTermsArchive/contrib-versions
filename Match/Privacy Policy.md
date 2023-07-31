@@ -309,7 +309,6 @@ Data Protection Officer
 
 MTCH Technology Services Limited  
 MATCH  
-WeWork Charlemont Exchange  
-42 Charlemont Street  
-Dublin 2, D02 R593  
+1 Hatch Street Upper  
+Dublin 2, D02 PY28  
 Ireland
