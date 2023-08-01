@@ -1,7 +1,7 @@
 WECHAT – ACCEPTABLE USE POLICY
 ==============================
 
-**Last updated:** 2023-03-01
+**Last updated:** 2023-08-01
 
 Welcome to WeChat!
 
@@ -22,7 +22,7 @@ If you have any questions about this Policy, please contact us using the details
 
 Our aim for WeChat is that it will always make a positive impact on our users' lives, and that it will be a platform that benefits its users.
 
-We are constantly looking to improve and innovate WeChat. Part of achieving this goal is ensuring that users can continue to use WeChat safely and that WeChat is used in an acceptable manner by all users. This Policy sets out rules to ensure good behaviour in the use of WeChat by users.
+We are constantly looking to improve and innovate WeChat. Part of achieving this goal is ensuring that users can continue to use WeChat safely and that WeChat is used in an acceptable manner by all users. This Policy sets out rules to ensure good behaviour in the use of WeChat by users. You may also refer to the [WeChat Community Guidelines](https://safety.wechat.com/en_US/community-guidelines) which further explains the types of content and behaviour that are or are not allowed on WeChat.
 
 We are guided by continuous feedback from users and industry experts in developing this Policy, and we strive to ensure that this Policy is inclusive of diverse ideas, views and information. We are always open to receiving feedback from our users – if you wish to do so, please contact us using the details at the end of this Policy.
 
