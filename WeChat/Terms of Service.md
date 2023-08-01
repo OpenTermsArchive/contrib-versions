@@ -1,7 +1,7 @@
 WECHAT – TERMS OF SERVICE
 =========================
 
-**Last modified:** 2023-03-01
+**Last modified:** 2023-08-01
 
 INTRODUCTION
 ------------
@@ -70,7 +70,7 @@ _WeChat policies_
 The following policies are Additional Terms that you must comply with in using WeChat:
 
 * [_WeChat Privacy Policy_](https://www.wechat.com/en/privacy_policy.html) – which sets out how we collect, store and use your personal information.
-* [_WeChat Acceptable Use Policy_](https://www.wechat.com/en/acceptable_use_policy.html) – which sets out rules of good behaviour applicable to your use of WeChat.
+* [_WeChat Acceptable Use Policy_](https://www.wechat.com/en/acceptable_use_policy.html) – which sets out rules of good behaviour applicable to your use of WeChat. You may also refer to the [_WeChat Community Guidelines_](https://safety.wechat.com/en_US/community-guidelines) which further explains the types of content and behaviour that are or are not allowed on WeChat.
 * [_Copyright Policy_](https://www.tencent.com/legal/html/en-us/complaint.html) – which sets out how we deal with intellectual property rights-related complaints in accordance with the DMCA.
 
 _Terms applicable to specific WeChat features_
