@@ -31,7 +31,7 @@ Privacy notices
 
 Specific details about personal data collection can be found in the relevant privacy notice:
 
-* [Newsletter privacy notice ›](https://ubuntu.com/legal/data-privacy/newsletter)
+* [Newsletter and products and services privacy notice ›](https://ubuntu.com/legal/data-privacy/newsletter)
 * [Webinar privacy notice ›](https://ubuntu.com/legal/data-privacy/webinar)
 * [Online purchase privacy notice ›](https://ubuntu.com/legal/data-privacy/online-purchase)
 * [Snap store privacy notice ›](https://ubuntu.com/legal/data-privacy/snap-store)
