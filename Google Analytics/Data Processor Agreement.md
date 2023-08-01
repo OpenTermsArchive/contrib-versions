@@ -452,7 +452,7 @@ in each case, other than on the basis of an optional data protection framework.
 
 “**Alternative Transfer Solution**” means a solution, other than SCCs, that enables the lawful transfer of personal data to a third country in accordance with European Data Protection Legislation, for example a data protection framework recognized as ensuring that participating entities provide adequate protection.
 
-“**Customer SCCs**” means the SCCs (Controller-to-Processor), the SCCs (Processor-to-Controller), and/or the SCCs (Processor-to-Processor), as applicable..
+“**Customer SCCs**” means the SCCs (Controller-to-Processor), the SCCs (Processor-to-Controller), and/or the SCCs (Processor-to-Processor), as applicable.
 
 “**EEA**” means the European Economic Area.
 
@@ -474,7 +474,7 @@ in each case, other than on the basis of an optional data protection framework.
 
 **3.Processor Customers.** If Customer is a processor, Customer will forward to the relevant controller promptly and without undue delay, any notice that refers to any SCCs.
 
-**4.European Laws.** Where European Data Protection Legislation applies to Google’s processing of Customer Personal Data, references to “applicable laws” in Sections 5.3 (Google's Compliance with Instructions), 6.1.1 (Processor Services with Deletion Functionality), 6.1.2(a) (Processor Services without Deletion Functionality) and Section 6.2 (Deletion on Term Expiry), means “European Laws.”
+**4.European Laws.** Where European Data Protection Legislation applies to Google’s processing of Customer Personal Data, references to “applicable laws” in Sections 5.3 (Google’s Compliance with Instructions), 6.1.1 (Processor Services with Deletion Functionality), 6.1.2(a) (Processor Services without Deletion Functionality) and Section 6.2 (Deletion on Term Expiry), means “European Laws.”
 
 **5.Instruction Notifications.** Google will immediately notify Customer if, in Google’s opinion: (a) European Laws prohibit Google from complying with an Instruction; (b) an Instruction does not comply with European Data Protection Legislation; or (c) Google is otherwise unable to comply with an Instruction, in each case unless such notice is prohibited by European Law. If Customer is a processor, Customer will immediately forward to the relevant controller any notice provided by Google under this paragraph. This paragraph 5 (Instruction Notifications) does not reduce either party’s rights and obligations elsewhere in the Agreement.
 
@@ -544,7 +544,7 @@ Customer acknowledges that Google is required under the GDPR to:
 
 Google may offer and Customer may enable certain in-product settings, configurations or other functionality for the Processor Services relating to restricted data processing, as described in supporting documentation available at [business.safety.google/rdp](https://privacy.google.com/rdp/), as updated from time to time (“**Restricted Data Processing**”). This Appendix 3B reflects the parties’ agreement on the processing of Customer Personal Data and Deidentified Data (as defined below) pursuant to the Agreement in connection with the US State Privacy Laws, and is effective solely to the extent each US State Privacy Law applies.
 
-2. Additional Definitions and Interpretation.
+2. Additional Definitions and Interpretation
 
 In this Appendix 3B:
 
