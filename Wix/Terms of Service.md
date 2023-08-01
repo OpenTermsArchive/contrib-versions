@@ -538,7 +538,7 @@ The use of the video services for your User Platform, may require that you recei
 
 ​
 
-In addition to the aforesaid and in Section 13 of these Terms of Use and without any limitation of liability, you shall fully indemnify, defend and hold Wix its officers, directors, shareholders, employees, affiliates and agents, harmless from any and all damages and costs, obligations, losses, liabilities debt and expenses (including attorneys’ fees), as accrued, that arise out of or are related to infringement and/or misuse of the patent pool under the MPEG-LA consortium.
+In addition to the aforesaid and in Section 14 of these Terms of Use and without any limitation of liability, you shall fully indemnify, defend and hold Wix its officers, directors, shareholders, employees, affiliates and agents, harmless from any and all damages and costs, obligations, losses, liabilities debt and expenses (including attorneys’ fees), as accrued, that arise out of or are related to infringement and/or misuse of the patent pool under the MPEG-LA consortium.
 
 ​
 
@@ -588,10 +588,15 @@ As part of the Wix Services, we enable you to enhance your brand by creating you
 
 Make sure to read the additional terms regarding the Wix Logo Maker which are in addition to our general terms.
 
-11\. Misconduct and Copyrights
+11\. Wix Studio
+---------------
+
+As part of the Wix Services, you may register to Wix Studio and gain access to the Wix Studio workspace (“Wix Studio Workspace”). The Wix Studio Workspace is only available to Users who are agencies or freelancers that build sites or applications for others (including those building for enterprise clients). Wix reserves the right to disable or discontinue the use of Wix Studio Workspace for Users that do not meet the above criteria.
+
+12\. Misconduct and Copyrights
 ------------------------------
 
-### 11.1. Misconduct and Abuse
+### 12.1. Misconduct and Abuse
 
 When using Wix Services, you may be exposed to User Platforms, User Content or Third Party Services from a variety of sources, which may be inaccurate, offensive, objectionable or illegal. You hereby waive any legal or equitable rights or remedies you have or may have against Wix with respect thereto.
 
@@ -603,7 +608,7 @@ If you witness or experience any misconduct or abusive behavior by anyone using 
 
 11.2. Copyrights
 
-### 11.2. Copyrights
+### 12.2. Copyrights
 
 Wix acts in accordance with its interpretation of the Digital Millennium Copyright Act (“DMCA”). If you believe that your work has been copied or was otherwise used in a way that constitutes copyright infringement, you may notify us of such infringement via [this form](http://www.wix.com/upgrade/abuse), or otherwise provide the following information in writing to our designated Copyright Agent: (1) the contact details of the person authorized to act on behalf of the owner of the copyright; (2) a description of the copyrighted work that you claim has been infringed; (3) a description of the material that you claim to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information sufficient to permit Wix to locate the material (including URL address); (4) a statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and (5) a statement that the information in the notification is accurate and, under penalty of perjury, that you are the copyright owner or are authorized to act on behalf of the owner of a copyright that is allegedly infringed.
 
@@ -629,7 +634,7 @@ If your copyrighted works were used inappropriately by any of our users – plea
 
 If we receive a copyright infringement notice regarding your website or content, we may remove or cancel your website and account. 
 
-12\. Disclaimer of Warranties
+13\. Disclaimer of Warranties
 -----------------------------
 
 We provide the Wix Services on an “As Is”, “with all faults” and “As Available” basis, without any warranties of any kind, including any implied warranties or conditions of merchantability, fitness for a particular purpose, workmanlike effort, non-infringement, or any other warranty – all to the fullest extent permitted by law. We specifically do not represent or warrant that the Wix Services (or any part, feature or Content thereof) are complete, accurate, of any certain quality, reliable or secure in any way, suitable for or compatible with any of your (or your End Users’) contemplated activities, devices, operating systems, browsers, software or tools (or that they will remain as such at any time), or comply with any laws applicable to you or your End Users (including in any jurisdiction in which you operate), or that their operation will be free of any viruses, bugs or other harmful components or program limitations. Moreover, we do not endorse any entity, product or service (including any Third Party Services) mentioned on or made available via the Wix Services – so please be sure to verify those before using or otherwise engaging them.
@@ -659,7 +664,7 @@ There are risks in using our services or anyone else’s services. You accept su
 
 Some of our services are still in BETA, and may contain bugs or experience interruptions.
 
-13\. Limitation of Liability
+14\. Limitation of Liability
 ----------------------------
 
 To the fullest extent permitted by law in each applicable jurisdiction, Wix, its officers, directors, shareholders, employees, affiliates and/or agents shall not be liable to you for any direct, indirect, incidental, special, punitive, exemplary or consequential damages whatsoever, including any damages resulting from (1) errors, mistakes, or inaccuracies of or in any content; (2) any personal injury or property damage related to your use of the Wix Services; (3) any unauthorized access to or use of our servers and/or any personal information and/or other information stored therein; (4) any interruption or cessation of transmission to or from the Wix Services; (5) the use or display of any Content or User Content posted, emailed, transmitted, or otherwise made available via the Wix Services; (6) events beyond the reasonable control of Wix, including any internet failures, equipment failures, electrical power failures, strikes, labor disputes, riots, insurrections, civil disturbances, shortages of labor or materials, fires, floods, storms, earthquakes, explosions, acts of God, war, terrorism, intergalactic struggles, governmental actions, orders of courts, agencies or tribunals or non-performance of third parties; and/or (7) loss of use, data, profits, goodwill, or other intangible losses, resulting from the use or the inability to use any or all of Wix Services.
@@ -670,7 +675,7 @@ You acknowledge and agree that these limitations of liability are agreed allocat
 
 Subject to applicable law, we will not be liable for any damages.
 
-14\. Indemnity
+15\. Indemnity
 --------------
 
 You agree to defend, indemnify and hold harmless Wix, its officers, directors, shareholders, employees, affiliates and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs, debt and expenses (including attorneys’ fees) arising from: (1) your violation of any term of these Terms of Use or any other Wix Terms; (2) your violation of any third party right, including any copyright, access rights, property, or privacy right, resulting from your User Platform or User Content and/or your use of the Wix Services, including, without limitation, Wix Services’ actions for your benefit; and/or (3) any other type of claim that your User Platform and/or User Content caused damage to a third party.
@@ -679,10 +684,10 @@ You agree to defend, indemnify and hold harmless Wix, its officers, directors, s
 
 If we get sued or are otherwise placed in harm’s way because of something you did, you will bear the associated costs and damages.
 
-15\. General
+16\. General
 ------------
 
-### 15.1. Changes & Updates
+### 16.1. Changes & Updates
 
 Wix reserves the right to change, suspend or terminate any of the Wix Services (or any features thereof, or prices applicable thereto), and/or cancel your access to any of the Wix Services (including removal of any materials created by you in connection with the Wix Services) for any reason and/or change any of the Wix Terms with or without prior notice - at any time and in any manner.
 
@@ -698,7 +703,7 @@ If any such changes involve the payment of additional or higher Fees, we will pr
 
 We may make changes to our services or to these terms at any time.
 
-### 15.2. Governing Law & Jurisdiction; Class Action Waiver
+### 16.2. Governing Law & Jurisdiction; Class Action Waiver
 
 You expressly acknowledge and agree that Wix shall have the right to enforce these Terms of Use against you.
 
@@ -720,11 +725,11 @@ Notwithstanding anything to the contrary in this Section 15.2, if you are locate
 
 These terms and our relationship shall be governed by the laws of the State of Israel. Any disputes between us may only be brought before the courts of Tel Aviv, Israel.
 
-### 15.3. Notices
+### 16.3. Notices
 
 We may provide you with notices in any of the following methods: (1) via the Wix Services, including by a banner or pop-up within the Wix Website, User Account, or elsewhere; (2) by an e-mail, sent to the e-mail address you provided us; (3) if you are a Reseller User then via your Reseller; and/or (4) through any other means, including any phone number or physical address you provided us. Wix’s notice to you or to your Reseller will be deemed received and effective within twenty-four (24) hours after it was published or sent through any of the foregoing methods unless otherwise indicated in the notice.
 
-### 15.4. Relationship
+### 16.4. Relationship
 
 The Wix Terms, and your use of the Wix Services, do not, and shall not be construed to create any partnership, joint venture, employer-employee, agency, or franchisor-franchisee relationship between Wix and you.
 
@@ -736,7 +741,7 @@ We may provide you (or your Reseller, if you are a Reseller User) with notices v
 
 Accepting these terms and services does not form a partnership or any special relationship between us.
 
-### 15.5. Entire Agreement
+### 16.5. Entire Agreement
 
 These Terms of Use, together with the Wix Terms and any other legal or fee notices provided to you by Wix, shall constitute the entire agreement between you and Wix concerning the subject matter hereof or thereof, and supersede any and all prior or contemporaneous agreements, understandings, promises, conditions, negotiations, covenants or representations, whether written or oral, between Wix and you, including those made by or between any of our respective representatives, with respect to any of the Wix Services. You further agree that you are not relying upon any promise, inducement, representation, statement, disclosure or duty of disclosure of Wix in entering into any of the Wix Terms.
 
@@ -744,7 +749,7 @@ These Terms of Use, together with the Wix Terms and any other legal or fee notic
 
 These terms (together with additional terms) shall constitute the sole and entire agreement between us.
 
-### 15.6. Assignment
+### 16.6. Assignment
 
 1. Wix may assign its rights and/or obligations hereunder and/or transfer ownership rights and title in the Wix Services and/or Licensed Content to a third party without your consent or prior notice to you. You may not assign or transfer any of your rights and obligations hereunder without the prior written consent of Wix. Any attempted or actual assignment thereof without Wix’s prior explicit and written consent will be null and void. In any event, an assignment or transfer pursuant to this Section ‎15.6 shall not in itself grant either Wix or you the right to cancel any Wix Services or Third Party Services then in effect
     
@@ -757,7 +762,7 @@ We may assign our rights and obligations to other parties. You may only do so wi
   
 If you are a Reseller User your User Account may be assigned to Wix. In such a case, if you’d like to continue to use your User Account - you agree to be bound by Wix Terms of Use and to provide Wix with any required information to secure payment for any Paid Services you purchase. 
 
-### 15.7. Severability & Waivers
+### 16.7. Severability & Waivers
 
 If any provision of the Wix Terms is deemed by a court of competent jurisdiction to be invalid, unlawful, void, or for any reason unenforceable, then such provision shall be deemed severable and will not affect the validity and enforceability of the remaining provisions. No Waiver of any breach or default of any of the Wix Terms shall be deemed to be a waiver of any preceding or subsequent breach or default.
 
@@ -765,7 +770,7 @@ If any provision of the Wix Terms is deemed by a court of competent jurisdiction
 
 These terms are independent from each other, in case any of them is found invalid.
 
-### 15.8. Interpretation
+### 16.8. Interpretation
 
 Any heading, caption or section title contained herein, and any explanation or summary under the right “#ItsThatEasy” column, is provided only for convenience, and in no way defines or explains any section or provision hereof, or legally binds any of us in any way.
 
@@ -777,7 +782,7 @@ Only the left column is legally binding (this column is just for clarity).
 
 Translated (non-English) versions of these terms are provided for convenience only.
 
-### 15.9. Customer Service Contact
+### 16.9. Customer Service Contact
 
 To get in touch with our Customer Service - please use any of the options listed below:
 
