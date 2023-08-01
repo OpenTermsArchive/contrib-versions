@@ -1,3 +1,5 @@
+Intellectual Property Policy
+
 **Intellectual Property Policy**
 ================================
 
