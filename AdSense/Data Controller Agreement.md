@@ -51,7 +51,7 @@ These Controller Terms reflect the parties’ agreement on the processing of Con
 
 “**US State Privacy Laws**” means, as applicable (i) the California Consumer Privacy Act of 2018 (including as amended by the California Privacy Rights Act of 2020) together with all implementing regulations (“**CCPA**”) (ii) Virginia’s Consumer Data Protection Act, Va. Code Ann. § 59.1-571 et seq.; and (iii) the Colorado Privacy Act, Colo. Rev. Stat. § 6-1-1301 et seq.; (iv) Connecticut’s Act Concerning Data Privacy and Online Monitoring, Pub. Act No. 22015; and (v) the Utah Consumer Privacy Act, Utah Code Ann. § 13-61-101 et seq.
 
-2.2 The terms “**controller**”, “**data subject**”, “**personal data**”, “**processing**” and “**processor**” as used in these Controller Terms have the meanings given by either (a) Applicable Data Protection Legislation; or (b) absent any such meaning or law, the GDPR .
+2.2 The terms “**controller**”, “**data subject**”, “**personal data**”, “**processing**” and “**processor**” as used in these Controller Terms have the meanings given by either (a) Applicable Data Protection Legislation; or (b) absent any such meaning or law, the GDPR.
 
 2.3 The words “**include**” and “**including**” mean “including but not limited to”. Any examples in these Controller Terms are illustrative and not the sole examples of a particular concept.
 
@@ -381,7 +381,7 @@ With respect to Customer Personal Data processed under Restricted Data Processin
 
 3.5.1**Responses to Data Subject Requests.** If Google receives a request from a data subject in relation to Customer Personal Data, Customer authorizes Google to, and Google hereby notifies Customer that it will:
 
-(a) respond directly to the data subject’s request in accordance with the standard functionality of a tool (if any) made available by a Google Entity to data subjects that enables Google to respond directly and in a standardized manner to certain requests from data subjects in relation to Customer Personal Data (for example, online advertising settings or an opt-out browser plugin) (“**Data Subject Tool.**”) (if the request is made via a Data Subject Tool); or
+(a) respond directly to the data subject’s request in accordance with the standard functionality of a tool (if any) made available by a Google Entity to data subjects that enables Google to respond directly and in a standardized manner to certain requests from data subjects in relation to Customer Personal Data (for example, online advertising settings or an opt-out browser plugin) (“**Data Subject Tool**”) (if the request is made via a Data Subject Tool); or
 
 (b) advise the data subject to submit their request to Customer, and Customer will be responsible for responding to such request (if the request is not made via a Data Subject Tool).
 
