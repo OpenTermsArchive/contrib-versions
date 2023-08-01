@@ -1,5 +1,3 @@
-Your privacy is important. As of 29 June, we've updated our Privacy Policy to make it easier to read and comply with new U.S. laws.
-
 Effective as of 29 June 2023
 
 [1\. About this Policy](#1-about-this-policy)
