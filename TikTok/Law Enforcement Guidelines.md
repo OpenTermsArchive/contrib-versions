@@ -1,7 +1,4 @@
-Law Enforcement Guidelines
-
 TikTok Law Enforcement Guidelines
-=================================
 
   
 
