@@ -1,6 +1,3 @@
-**TikTok Web Cookies Policy**
-=============================
-
 _Last updated: 16 September 2022_
 
 You can change your cookie settings on the Websites to accept or refuse certain tracking technologies at any time via our Cookie Settings tool, which you can access by clicking the link below.
