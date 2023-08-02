@@ -1,8 +1,5 @@
 Intellectual Property Policy
 
-**Intellectual Property Policy**
-================================
-
 _Last updated: June 7, 2021_
 
 TikTok respects the intellectual property rights of others, and we expect you to do the same. TikTok’s [Terms of Service](https://www.tiktok.com/en/terms-of-use) and [Community Guidelines](https://www.tiktok.com/community-guidelines) do not allow posting, sharing, or sending any content that violates or infringes someone else’s copyrights, trademarks or other intellectual property rights.
