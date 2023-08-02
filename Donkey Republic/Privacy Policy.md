@@ -97,7 +97,7 @@ The legal basis for processing your data for advertising purposes if no consent 
 
 1. 1. You have the option to subscribe to receive our rider newsletter with information about our products, curated news, and exclusive offers. We only send these emails if you have given your explicit consent. The legal basis for this is GDPR article 6, subsection 1, (a).
     2. We collect and record your consent to the receipt of the newsletter through an in-app button. In addition, we store your email address and the date and time of your subscription and confirmation. This process allows us to prove that you have indeed subscribed to the newsletter and to investigate any possible misuse of your personal data. The legal basis for this is GDPR article 6, subsection 1, (f). The purposes listed above constitute our legitimate interests.
-    3. You can unsubscribe from the newsletter at any time by clicking on the unsubscribe link available in each email or by contacting us at [\[email protected\]](https://www.donkey.bike/cdn-cgi/l/email-protection)
+    3. You can unsubscribe from the newsletter at any time by clicking on the unsubscribe link available in each email or by contacting us at [\[email protected\]](https://www.donkey.bike/cdn-cgi/l/email-protection).
 
 2. Product recommendations and updates
 
