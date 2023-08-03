@@ -361,8 +361,9 @@ In this Appendix 1B:
 * (b) “**Deidentified Data**” means data information that is “deidentified” (as that term is defined by the CCPA) and “de-identified data” (as defined by other US State Privacy Laws), when disclosed by one party to the other.
 * (c) “**Instructions**” means, collectively, Customer’s instructions to Google to process Customer Personal Data only in accordance with US State Privacy Laws: (a) to provide the RDP Services and any related technical support; (b) as further specified through Customer’s use of the RDP Services (including in the settings and other functionality of such RDP Services) and any related technical support; (c) as documented in the form of the Agreement, including this Appendix 1B; (d) as further documented in any other written instructions given by Customer and acknowledged by Google as constituting instructions for purposes of this Appendix 1B; and (e) to process Customer Personal Data as permitted under US State Privacy Laws for service providers and processors.
 * (d) “**RDP Services**” means Controller Services operating under Restricted Data Processing.
-* (e) the terms “**business**”, “**consumer**”, “**personal information**”, “**sale(s)**”, “**sell**”, “**service provider**”, and “**share**” as used in this Appendix 1B have the meanings given in the US State Privacy Laws.
-* (f) Customer is solely liable for its compliance with each of the US State Privacy Laws in its use of Google services, including Restricted Data Processing.
+* (e) **"Term"** means the period from the Terms Effective Date until the end of Google's provision of the Measurement Services under the Agreement.
+* (f) the terms “**business**”, “**consumer**”, “**personal information**”, “**sale(s)**”, “**sell**”, “**service provider**”, and “**share**” as used in this Appendix 1B have the meanings given in the US State Privacy Laws.
+* (g) Customer is solely liable for its compliance with each of the US State Privacy Laws in its use of Google services, including Restricted Data Processing.
 
 **3\. US State Privacy Law Terms (under Restricted Data Processing).**
 
