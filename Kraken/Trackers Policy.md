@@ -3,7 +3,7 @@ Nothing is more important than your privacy. Learn how Kraken uses cookies and a
 **Advertising**
 ---------------
 
-Disabled
+Enabled
 
 Kraken uses Advertising cookies to place targeted Kraken ads on other sites you visit and measure your engagement with those ads.
 
@@ -12,7 +12,7 @@ View providers
 **Marketing & Analytics**
 -------------------------
 
-Disabled
+Enabled
 
 Marketing & Analytics cookies help us improve the Kraken website by allowing us to analyze how clients interact with our tools and services.
 
