@@ -110,9 +110,11 @@ We will provide you with information on our decision for any policy violation en
 > 
 > > ![An illustration representing Google](//storage.googleapis.com/support-kms-prod/wUNTEJ0JJrwXTcZRy4U1PDaPuEkdDhP6wabY)
 > > 
-> > Ads should respect user preferences and comply with legal regulations, so we don't allow certain kinds of sexual content in ads and destinations.  Some kinds of sexual content in ads and destinations are allowed only if they comply with the policies below and don't target minors, but they will only show in limited scenarios based on user search queries, user age, and local laws where the ad is being served. 
+> > Ads should respect user preferences and comply with legal regulations, so we don't allow certain kinds of sexual content in ads and destinations. Some kinds of sexual content in ads and destinations are allowed only if they comply with the policies below and don't target minors, but they will only show in limited scenarios based on user search queries, user age, and local laws where the ad is being served.
 > > 
 > > Learn about [what happens if you violate our policies](https://support.google.com/adspolicy/answer/7187501).
+> > 
+> > To troubleshoot the sexual content policy disapproval, refer to [Disapproval for sexual content: Troubleshoot](https://support.google.com/ads-help/answer/9124216).
 > > 
 > > _Examples of restricted sexual content:_ Visible genitalia and female breasts, hook-up dating, sex toys, strip clubs, sexually suggestive live chat, and models in sexualized poses.
 > 
