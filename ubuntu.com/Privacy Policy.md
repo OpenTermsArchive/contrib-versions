@@ -46,7 +46,7 @@ Specific details about personal data collection can be found in the relevant pri
 * [Confidentiality agreement privacy notice ›](https://ubuntu.com/legal/data-privacy/unilateral-nda)
 * [Canonical Credentials privacy notice ›](https://ubuntu.com/legal/data-privacy/credentials)
 * [Recruitment privacy notice ›](https://ubuntu.com/legal/data-privacy/recruitment)
-* [Ubuntu Community Discourse ›](https://ubuntu.com/legal/data-privacy/community-discourse)
+* [Ubuntu Community Discourse Privacy Notice ›](https://ubuntu.com/legal/data-privacy/community-discourse)
 
 Information we collect from you
 -------------------------------
@@ -179,6 +179,8 @@ You can find more information about the individual cookies we use and the purpos
 | Twitter | `guest_id`, `personalization_id`, `_ga`, `_gid` | Twitter tracking allows us to see how many people take action on our ads and which ad led to a conversion.<br><br>[Twitter's privacy policy](https://twitter.com/en/privacy) |
 | LiveChat | `__livechat`, `recent_window`, `notifications[]`, `message_text`, `main_window_timestamp`, `__lc_vv`, `__livechat`, `__livechat_lastvisit` | LiveChat allows potential customers to talk to our sales people through live chat. Cookies help the service function.<br><br>[LiveChat's privacy policy](https://www.livechatinc.com/privacy-policy/) |
 | Vimeo | `vuid` | Vimeo hosts our videos. Their cookies provides more information about how many people view our videos and for how long.<br><br>[Vimeo's privacy policy](https://vimeo.com/privacy) |
+| N.Rich | `_naiuid` | N.Rich tracking allows us to optimize our account-based marketing campaigns, enabling more granular, cookie-based analytics, and advertising personalization.<br><br>[N.Rich privacy notice](https://privacy.nrich.ai/privacy-notice) |
+| Salesloft | `sliguid`, `slirequested`, `slireg`, `sli_token`, `site_identity` | Salesloft website tracking lets us track activity and interactions with web pages in Salesloft's platform.<br><br>[Salesloft's privacy notice](https://salesloft.com/privacy-notice/) |
 
 Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
 
