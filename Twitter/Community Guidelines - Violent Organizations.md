@@ -6,7 +6,7 @@ Violent and hateful entities policy
 **  
 April 2023**
 
-There is no place on Twitter for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
 **You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
@@ -33,7 +33,7 @@ Additionally, any discussions of violent and hateful entities for clearly educat
 
 ### Who can report violations of this policy?
 
-Anyone can report potential violations of this policy, whether they have a Twitter account or not. 
+Anyone can report potential violations of this policy, whether they have an X account or not. 
 
 ### How can I report violations of this policy?
 
@@ -41,11 +41,11 @@ Anyone can report potential violations of this policy, whether they have a Twitt
 
 You can report this content for review in-app on iOS as follows:
 
-1. Select **Report Tweet** from the  icon.
+1. Select **Report Post** from the  icon.
 2. Select **It’s abusive or harmful**.
 3. Select **Threatening violence or physical harm**.
 4. Select the relevant option depending on who you are reporting on behalf of.
-5. Select up to 5 Tweets to report for review.
+5. Select up to 5 Posts to report for review.
 6. Submit your report.  
      
 
@@ -53,11 +53,11 @@ You can report this content for review in-app on iOS as follows:
 
 You can report this content for review via desktop as follows:
 
-1. Select **Report Tweet** from the  icon.
+1. Select **Report Post** from the  icon.
 2. Select **It’s abusive or harmful**.
 3. Select **Threatening violence or physical harm**.
 4. Select the relevant option depending on who you are reporting on behalf of.
-5. Select up to 5 Tweets to report for review.
+5. Select up to 5 Posts to report for review.
 6. Submit your report.  
      
 
