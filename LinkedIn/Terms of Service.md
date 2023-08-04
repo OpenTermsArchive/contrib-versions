@@ -1,7 +1,7 @@
 LinkedIn Service Terms
 ======================
 
-February 1, 2023
+August 4, 2023
 
 The following Service Terms apply to Customer to the extent the specific Service is included in the applicable ordering document. LinkedIn may update these Service Terms from time to time. LinkedIn reserves the right to upgrade, update or discontinue any aspect or feature of a Service in whole or in part; provided, however, that if LinkedIn discontinues a Service in whole during the term of an ordering document, then LinkedIn will provide Customer with an alternative or replacement service.
 
@@ -9,11 +9,11 @@ The following Service Terms apply to Customer to the extent the specific Service
 
 **1.1. Recruiter Corporate**
 
-Customer will use the Recruiter Corporate Service (and related services) and information about Members only to recruit individuals to become employees and consultants of Customer or its Affiliates, or, if Customer is acting as a Staffing Agency or BPO, only to recruit individuals to become employees and consultants of its clients. "**Staffing Agency**" means a Customer that uses the Services to recruit on behalf of a third-party client using Customer's own name and/or logo, including without limitation, staffing agencies, executive search firms, and direct hire firms. "**BPO**" means a business process outsourcer Customer that recruits on behalf of a client using the client's name and/or logo, including without limitation, recruitment process outsources, managed service providers, and clinical research outsourcers. Customer will inform LinkedIn of its Staffing Agency or BPO classification with a client before purchasing the Recruiter Corporate Service, and Agency will promptly inform LinkedIn of any change in classification. Staffing Agency purchases of Recruiter Corporate seats are governed by the master subscription agreement between LinkedIn and Staffing Agency. BPO purchases of Recruiter Corporate seats are governed by the master subscription agreement between LinkedIn and the BPO's client. Customer’s breach of this Section will be deemed a material breach of the Agreement.
+Customer will use the Recruiter Corporate Service (and related services) and information about Members only to recruit individuals to become employees and consultants of Customer or its Affiliates, or, if Customer is acting as a Staffing Agency or BPO, only to recruit individuals to become employees and consultants of its clients. "**Staffing Agency**" means a Customer that uses the Services to recruit on behalf of a third-party client using Customer's own name and/or logo, including without limitation, staffing agencies, executive search firms, and direct hire firms. "**BPO**" means a business process outsourcer Customer that recruits on behalf of a client using the client's name and/or logo, including without limitation, recruitment process outsourcers, managed service providers, and clinical research outsourcers. Customer will inform LinkedIn of its Staffing Agency or BPO classification with a client before purchasing the Recruiter Corporate Service, and Agency will promptly inform LinkedIn of any change in classification. Staffing Agency purchases of Recruiter Corporate seats are governed by the master subscription agreement between LinkedIn and Staffing Agency. BPO purchases of Recruiter Corporate seats are governed by the master subscription agreement between LinkedIn and the BPO's client. Customer’s breach of this Section will be deemed a material breach of the Agreement.
 
 **1.2. Recruiter Professional**
 
-Customer will use the Recruiter Professional Service and related services ("**RPS**") and information about Members only to recruit individuals to become employees and consultants of its clients. Only Staffing Agencies may use RPS. Customer is prohibited from using RPS to recruit on behalf of a client using the client's name and/or logo. Customer will inform LinkedIn of its Staffing Agency classification with a client before purchasing RPS, and Staffing Agency will promptly inform LinkedIn of any change in classification. Customer’s breach of this Section will be deemed a material breach of the Agreement.
+All capitalized terms in this section shall have the meaning assigned to them in these Service Terms and/or the LSA. Customer will use the Recruiter Professional Service and related services (“**RPS**”) and information about Members only to (i) recruit individuals to become employees and consultants of its clients and (ii) for Customer’s internal recruitment purposes, provided that only Staffing Agencies may use RPS. Customer will not, and will not permit Customers Users to, use RPS to recruit on behalf of a client using the client's name and/or logo, including (without limitation) through the use of the client’s name and/or logo in Customer Users’ LinkedIn.com profiles, Job Postings and/or LinkedIn InMails. Customer will inform LinkedIn of its Staffing Agency classification with a client before purchasing RPS, and Staffing Agency will promptly inform LinkedIn of any change in classification. Customer’s breach of this Section will be deemed a material breach of the Agreement.
 
 **1.3. Recruiter Lite**
 
@@ -25,37 +25,19 @@ Recruiter seats may be reassigned in accordance with the terms set forth on the 
 
 **1.5. Job Postings and Job Slots**
 
-The Job Postings and Job Slots Services (collectively, “**Jobs Services**”) are designed to help Customer reach quality candidates for job opportunities. Job Postings posted under available Job Slots will expire upon the expiration/termination of the ordering document. The Jobs Services allow Customer's postings to be served on properties (e.g., websites and mobile applications) of LinkedIn and enabled third parties. Customer is responsible for (i) all postings and content through the Jobs Services or otherwise to LinkedIn, including but not limited to the job descriptions, creatives, trademarks, images, URLs and pixels that comprise the postings or content therefor (collectively, “**Postings**”); and (ii) all content and property to which Postings may direct viewers, as well as redirects (“**Destinations**”). Customer may not resell or transfer access to the Jobs Services to any other party. Each Posting must be for 1 job opportunity; it is not permitted for a Posting to solicit applications for more than one position. Customer will not copy, duplicate, replicate, scrape or otherwise reproduce jobs from a hiring company’s website and upload them to LinkedIn as Postings without the hiring company’s prior knowledge and authorization. Where a hiring company informs LinkedIn that Customer has done so without its prior knowledge and authorization, LinkedIn reserves the right to remove such Postings immediately and without prior notice to Customer. In order to post a job for a position at a third-party entity, Customer must have an active contract in place with the third-party entity providing active recruiting services beyond job posting for the applicable position. Customer agrees that it will not, and will not enable or authorize any third party, by virtue of the Postings, Destinations, or use of the Jobs Services, to:
+All Postings must comply with the [LinkedIn Jobs Policies](https://www.linkedin.com/legal/l/jobs-policies) as well as all applicable laws. We periodically update our policies; Customer acknowledges and agrees that LinkedIn may update and change its policies at any time without notice. Job Postings and Job Slots Services (collectively, “**Jobs Services**”) are designed to help Customer reach quality candidates for job opportunities. Job Postings posted under available Job Slots will expire upon the expiration/termination of the ordering document. The Jobs Services allow Customer's postings to be served on properties (e.g., websites and mobile applications) of LinkedIn and enabled third parties. Customer is responsible for (i) all postings and content through the Jobs Services or otherwise to LinkedIn, including but not limited to the job descriptions, creatives, trademarks, images, URLs and pixels that comprise the postings or content therefor (collectively, “**Postings**”); and (ii) all content and property to which Postings may direct viewers, as well as redirects (“**Destinations**”). Customer may not resell or transfer access to the Jobs Services to any other party. Each Posting must be for 1 job opportunity; it is not permitted for a Posting to solicit applications for more than one position. Customer will not copy, duplicate, replicate, scrape or otherwise reproduce jobs from a hiring company’s website and upload them to LinkedIn as Postings without the hiring company’s prior knowledge and authorization. Where a hiring company informs LinkedIn that Customer has done so without its prior knowledge and authorization, LinkedIn reserves the right to remove such Postings immediately and without prior notice to Customer. In order to post a job for a position at a third-party entity, Customer must have an active contract in place with the third-party entity providing active recruiting services beyond job posting for the applicable position. To resolve disputes and ensure compliance with our policies, LinkedIn may request additional information to verify the contractual relationship and permission to post jobs for third parties. Customer agrees that it will not, and will not enable or authorize any third party, by virtue of the Postings, Destinations, or use of the Jobs Services, to:
 
-·      Create Postings without a reasonable and legitimate intent to hire for a bona fide job opportunity or the specific position listed;
+·        Provide identifiable candidate resume or application data to any other parties (except for Customer’s service providers (such as an applicant tracking system);
 
-·      Create Postings that intentionally misrepresent the job, hiring company, or poster;
+·        “**Spam**” or otherwise contact applicants for purposes other than related to the specific employment opportunity described in the posting;
 
-·      Fail to clearly disclose in any Posting that a position is for an independent contractor or is part-time, piecework, commission-based, or has otherwise nontraditional working conditions or compensation may constitute intentional misrepresentation;
+·        Harass, stalk, or contact any applicant after they have asked not to be contacted;
 
-·      Create Postings for “**business opportunities**” that require payments or recruitment of others or that resemble franchises, multi-level marketing, club memberships, distributorships, or are entirely or almost entirely commission-based;
+·        Except as expressly authorized by LinkedIn in writing, use any automated means or form of scraping or data extraction to access, modify, download, query or otherwise collect information from LinkedIn’s websites; or
 
-·      Provide identifiable candidate resume or application data to any other parties;
+·        Except as expressly authorized by LinkedIn in writing, copy, modify or create derivative works of the Jobs Services or any related technology.
 
-·      “**Spam**” or otherwise contact applicants for purposes other than related to the specific employment opportunity described in the posting;
-
-·      Harass, stalk, or contact any applicant after they have asked not to be contacted;
-
-·      Create Postings in the United States without possessing valid Federal or State Employer Identification Numbers, if applicable, or create Postings in any other location in a manner that would not allow compliance with applicable tax and employment laws;
-
-·      Create Postings for jobs that require applicants to pay for employment or otherwise bear costs related to employment in violation of applicable law;
-
-·      Soliciting employees by intentional misrepresentation;
-
-·      Create Postings, advertise employment positions, or otherwise engage in recruitment or hiring practices that would be a violation of the law in Customer’s state or country, the state or country where the job is to be performed, or the applicable laws of the jurisdiction that governs the LSA between the parties;
-
-·      Post jobs or engage in activities that violate LinkedIn’s [job post discrimination policy](https://www.linkedin.com/help/linkedin/answer/134872) or laws relating to job discrimination or eligibility to work;
-
-·      Except as expressly authorized by LinkedIn in writing, use any automated means or form of scraping or data extraction to access, modify, download, query or otherwise collect information from LinkedIn’s websites;
-
-·      Except as expressly authorized by LinkedIn in writing, copy, modify or create derivative works of the Jobs Services or any related technology; or
-
-·      Create Postings that contain malware, spyware or any other malicious code or otherwise interfere with the operation of the Jobs Services or any device or system or breach or circumvent any security measure of LinkedIn or a third party.
+Customer’s breach of this Section will be deemed a material breach of the Agreement.
 
 **1.6. Career Pages**
 
@@ -63,7 +45,7 @@ All Career page “**traffic driver**” ad impressions will launch within 90 da
 
 **1.7. Talent Hub**
 
-Talent Hub is a hiring platform that enables customers to source, manage, and hire candidates in one place. Talent Hub is a system of record that is an applicant management system designed to host all candidate data, including first name and last name, email address, telephone number, professional history, interview and hiring team feedback and evaluations, salary information, final disposition, and other candidate data received from Customer’s third-party talent acquisition extensions (“**Talent Hub Data**”). Talent Hub will be used to manage candidates through the recruiting workflow ultimately helping companies collaborate on jobs and candidates and hire in the same platform they use to source candidates. LinkedIn will use Talent Hub Data to provide, support, and improve LinkedIn’s Services , including to provide Talent Hub Data in the aggregate to surface insights and benchmarking to help companies have better insight into their process relative to their peers. Customer is solely responsible for the implementation of Talent Hub, including (i) migrating any candidate data from Customer’s third-party applicant tracking system to Talent Hub; (ii) providing the candidate data in a format that is acceptable to LinkedIn and compatible with Talent Hub; and (iii) ensuring it has all necessary consents to provide the candidate data to LinkedIn  (collectively, “**Implementation**”). LinkedIn disclaims any and all liability in connection with the Implementation.
+Talent Hub is a hiring platform that enables customers to source, manage, and hire candidates in one place. Talent Hub is a system of record that is an applicant management system designed to host all candidate data, including first name and last name, email address, telephone number, professional history, interview and hiring team feedback and evaluations, salary information, final disposition, and other candidate data received from Customer’s third-party talent acquisition extensions (“**Talent Hub Data**”). Talent Hub will be used to manage candidates through the recruiting workflow ultimately helping companies collaborate on jobs and candidates and hire in the same platform they use to source candidates. LinkedIn will use Talent Hub Data to provide, support, and improve LinkedIn’s Services , including to provide Talent Hub Data in the aggregate to surface insights and benchmarking to help companies have better insight into their process relative to their peers. Customer is solely responsible for the implementation of Talent Hub, including (i) migrating any candidate data from Customer’s third-party applicant tracking system to Talent Hub; (ii) providing the candidate data in a format that is acceptable to LinkedIn and compatible with Talent Hub; and (iii) ensuring it has all necessary consents to provide the candidate data to LinkedIn (collectively, “**Implementation**”). LinkedIn disclaims any and all liability in connection with the Implementation.
 
 **2\. SALES SERVICES**
 
@@ -101,7 +83,7 @@ The LinkedIn Sales Insights (“**LSI**”) Service provides customers self-serv
 
 **6\. ELEVATE SERVICE**
 
-Customer will maintain a social media policy and ensure that its personnel comply with the policy. Only Customer's designated curator(s) is/are authorized to post content to the Elevate Service. Customer Users, who are not curators, may only read and forward content. Customer will ensure that it owns or has the necessary licenses, rights, and consents to the content it posts to the Elevate Service.
+**\[Note: Elevate Service is no longer offered\]**
 
 **7\. GLINT SERVICES**
 
