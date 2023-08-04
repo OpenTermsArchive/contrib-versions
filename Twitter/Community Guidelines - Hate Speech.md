@@ -7,17 +7,17 @@ Hateful Conduct
 
 You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
 
-Twitter’s mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
 
-We recognize that if people experience abuse on Twitter, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
 
 We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
 
-If you see something on Twitter that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
+If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
 
 ### What is in violation of this policy?  
 
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Tweets or Direct Messages. 
+We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
 
 **Hateful references  
   
@@ -39,7 +39,7 @@ Note: content intended to incite violence against a protected category is prohib
 
 **Slurs and Tropes**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Tweet removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Tweet visibility as further described below.
+We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
 **Dehumanization**
 
@@ -59,9 +59,9 @@ Media depicting hateful imagery is not permitted within live video, account bio,
 
 You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
 
-### Do I need to be the target of this content for it to be a violation of the Twitter Rules?  
+### Do I need to be the target of this content for it to be a violation of the X Rules?  
 
-Some Tweets may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
+Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
 
 When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
 
@@ -73,21 +73,21 @@ Under this policy, we take action against behavior that targets individuals or a
 
 When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
 
-* Making content less visible on Twitter by:
-    * Removing the Tweet from search results, in-product recommendations, trends, notifications, and home timelines 
+* Making content less visible on X by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
         
-    * Restricting the Tweet’s discoverability to the author’s profile
+    * Restricting the Post discoverability to the author’s profile
         
-    * Downranking the Tweet in replies
+    * Downranking the Post in replies
         
-    * Restricting Likes, replies, Retweets, Quote Tweets, bookmarks, share, pin to profile, or engagement counts 
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
         
-    * Excluding the Tweet from having ads adjacent to it
+    * Excluding the Post from having ads adjacent to it
         
-* Excluding Tweets and/or accounts in email or in-product recommendations. 
+* Excluding Posts and/or accounts in email or in-product recommendations. 
     
-* Requiring Tweet removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Tweet again.
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
 * Suspending accounts that violate our Hateful Profile policy.
 
 Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
