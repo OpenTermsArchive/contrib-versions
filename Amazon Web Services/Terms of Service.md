@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: July 27, 2023
+#### Last Updated: August 4, 2023
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -851,9 +851,13 @@ If you do not comply with these requirements or otherwise fail to comply with al
 
 **54.1.3.** In using the Connect PSTN Service, you will not: (a) call PSTN telephone numbers (whether singly, sequentially, or automatically) to generate income from access or termination charges for you or others as a result of placing the call, or (b) engage in unusual calling patterns inconsistent with normal, individual use.
 
-**54.1.4.** If as a part of the Amazon Connect service, AMCS or AMCS SG provides you with an inbound calling number (whether toll or toll-free), you understand and agree that you do not own the number and you do not have the right to keep that number indefinitely subject to any number portability rights under applicable law. AMCS and AMCS SG reserve the right to change, cancel, or move telephone numbers.  
+**54.1.4.** At the customer’s request where number portability is available, the applicable AMCS entity will endeavor to transfer telephone numbers that are provided by the AMCS entity or transferred by the customer for use with the Amazon Connect service to a new service provider. However, due to limitations under applicable law and the policies of underlying telecommunications service providers, we may in some cases be unable to transfer a customer’s telephone number.
 
-**54.1.5.** Your use of the Connect PSTN Service in certain countries are subject to additional [Country Specific Communications Service Terms.](https://aws.amazon.com/service-terms/country-specific-communications-service-terms/)
+**54.1.5.** We reserve the right to change or reclaim telephone numbers assigned by the applicable AMCS entity (not including numbers that the customer has ported to Amazon Connect) in the event of a breach of these terms, where necessary for compliance with applicable law or regulation, or if the number has not been used for 90 days.  
+
+**54.1.6.** Your use of the Connect PSTN Service in certain countries are subject to additional [Country Specific Communications Service Terms.](https://aws.amazon.com/service-terms/country-specific-communications-service-terms/)
+
+**54.1.7.** Calling to premium rate numbers is supported subject to certain limits. Additional charges may apply to calls to premium rate number above those limits. For more information, please contact Amazon Connect support.
 
 **54.2.** Emergency calling 
 
@@ -871,7 +875,7 @@ If you do not comply with these requirements or otherwise fail to comply with al
 
 **54.6.** To enable the Apple Business Chat integration with Amazon Connect, you must create an Apple Business Register account and are responsible for reviewing and accepting any Apple terms pertaining to use of Apple Business Chat, such as Apple’s Terms of Use.  You agree that you are solely responsible for your or your End User’s use of Apple Business Chat, the content you or your End Users send through Apple Business Chat, and compliance with applicable Apple terms.
 
-**54.7. Amazon Connect Machine Learning Services.** “Amazon Connect ML Services” means, collectively, Contact Lens for Amazon Connect, Amazon Connect Customer Profiles Identity Resolution, Amazon Connect outbound campaigns with answering machine detection enabled, Amazon Connect Wisdom, and Amazon Connect Forecasting, Capacity Planning, and Scheduling. “Amazon Connect ML Content” means Your Content that is processed by an Amazon Connect ML Service. The following terms apply to your use of Amazon Connect ML Services:  
+**54.7. Amazon Connect Machine Learning Services.** “Amazon Connect ML Services” means, collectively, Contact Lens for Amazon Connect, Amazon Connect Customer Profiles Identity Resolution, Amazon Connect outbound campaigns, Amazon Connect Wisdom, and Amazon Connect Forecasting, Capacity Planning, and Scheduling. “Amazon Connect ML Content” means Your Content that is processed by an Amazon Connect ML Service. The following terms apply to your use of Amazon Connect ML Services:  
 
 (a) You agree and instruct that: (i) we may use and store Amazon Connect ML Content to maintain and provide Amazon Connect ML Services (including development and improvement of Amazon Connect ML Services and their underlying technologies); (ii) we may use and store Amazon Connect ML Content that is not personal data to develop and improve AWS and affiliate machine-learning and artificial intelligence technologies; and (iii) solely in connection with the development and improvement described in clauses (i) and (ii), we may store your Amazon Connect ML Content in AWS regions outside the AWS regions where you are using Amazon Connect ML Services. You may instruct AWS not to use and store Amazon Connect ML Content processed by Amazon Connect ML Services to develop and improve that Service or technologies of AWS or its affiliates by configuring an AI services opt out policy using AWS Organizations.  
 
@@ -893,7 +897,7 @@ If you do not comply with these requirements or otherwise fail to comply with al
 
 **54.8.3.** Amazon Connect Voice ID uses machine learning models that generate predictions based on patterns in data. Output generated by Amazon Connect Voice ID is probabilistic and should be evaluated for accuracy as appropriate for your use case, including by employing human review of the output or combining it with other verification factors. You and your End Users are responsible for all decisions made, advice given, actions taken, and failures to take action based on your use of Amazon Connect Voice ID.
 
-**54.9. Amazon Connect outbound campaigns.** You are responsible for complying with legal requirements related to unsolicited or unwanted communications or telemarketing, including without limitation, the Telephone Consumer Protection Act (TCPA), the FTC’s Telemarketing Sales Rule, the EU e-Privacy Directive, UK Privacy and Electronic Communications Regulations, Ofcom’s policies regarding nuisance calls and texts, or any similar federal, state, or local laws and regulations.
+**54.9. Amazon Connect outbound campaigns.** You are responsible for complying with legal requirements related to unsolicited or unwanted communications or telemarketing, including without limitation, the Telephone Consumer Protection Act (TCPA), the FTC’s Telemarketing Sales Rule, the EU e-Privacy Directive, UK Privacy and Electronic Communications Regulations, Ofcom’s policies regarding nuisance calls and texts, or any similar federal, state, or local laws and regulations. We reserve the right to suspend your use of Amazon Connect outbound campaigns if the percentage of answered calls falls below 20% of calls made in any 7 day period or such other level as we may establish in our documentation or policies for outbound campaigns.
 
 #### 55\. AWS Greengrass
 
