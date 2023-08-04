@@ -6,14 +6,14 @@ Overview
 
 **You may not promote or encourage suicide or self-harm.**
 
-At Twitter, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
 
 When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
  
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Tweets, images or videos, including live video. 
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
 
 We define suicide to be the act of taking one’s own life. We define self-harm to include:
 
@@ -65,7 +65,7 @@ To ensure that we handle reports sensitively, our in-app reporting provides sepa
 
 You can report content for review in-app as follows:
 
-1. Select Report Tweet from drop-down menu
+1. Select Report Post from drop-down menu
 2. Select “It expresses intentions of self-harm or suicide”
 3. Submit your report  
      
@@ -74,7 +74,7 @@ You can report content for review in-app as follows:
 
 You can report this content for review on desktop as follows:
 
-1. Select Report Tweet from drop-down menu
+1. Select Report Post from drop-down menu
     
 2. Select “It expresses intentions of self-harm or suicide”
     
@@ -91,7 +91,7 @@ You can also report this content for review via [our dedicated report form](http
 
 You can report content for review in-app as follows:
 
-1. Select Report Tweet from drop-down menu
+1. Select Report Post from drop-down menu
 2. Select “It expresses intentions of self-harm or suicide”
 3. Submit your report  
      
@@ -102,7 +102,7 @@ You can report content for review in-app as follows:
 
 You can report content for review in-app as follows:
 
-1. Select Report Tweet from drop-down menu  
+1. Select Report Post from drop-down menu  
     
 2. Select “It’s abusive or harmful”
     
@@ -116,7 +116,7 @@ You can report content for review in-app as follows:
 
 You can report this content for review on desktop as follows:
 
-1. Select Report Tweet from drop-down menu
+1. Select Report Post from drop-down menu
     
 2. Select “It’s abusive or harmful”
     
@@ -130,7 +130,7 @@ You can report this content for review on desktop as follows:
 
 Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
 
 We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
