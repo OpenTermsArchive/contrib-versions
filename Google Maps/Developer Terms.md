@@ -167,6 +167,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Vlaanderen - Datavindplaats [https://www.vlaanderen.be/datavindplaats](https://www.vlaanderen.be/datavindplaats)
             
+        * Gent City; contains government information obtained under the model license for free reuse Vlaanderen v1.0 (BE): [https://data.stad.gent/explore/?disjunctive.keyword&disjunctive.theme&sort=modified](https://data.stad.gent/explore/?disjunctive.keyword&disjunctive.theme&sort=modified)
+            
     7. **Belgium**
         * GeoBolivia (BO): [https://geo.gob.bo/geonetwork/srv/eng/catalog.search#/metadata/cbead6cb-be77-4560-a10a-d1e37928d4fe269690859](https://geo.gob.bo/geonetwork/srv/eng/catalog.search#/metadata/cbead6cb-be77-4560-a10a-d1e37928d4fe269690859)
             
@@ -902,6 +904,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * © Crown 2023 copyright Defra via [uk-air.defra.gov.uk](https://uk-air.defra.gov.uk/) - [https://uk-air.defra.gov.uk/about-these-pages](https://uk-air.defra.gov.uk/about-these-pages)
             
         * LondonAir [https://www.londonair.org.uk/LondonAir/API/](https://www.londonair.org.uk/LondonAir/API/), [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/)
+            
+        * Glasgow City Council (GB): [https://glasgow.gov.uk/](https://glasgow.gov.uk/)
             
     21. **Greece**
         * EuroGeographics; Copyright Geomatics Ltd.
@@ -2093,7 +2097,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
     86. **Sudan**
         
-        The Humanitarian Data Exchange (HDX), Sudan - [https://data.humdata.org/dataset/cod-ab-sdn?](https://data.humdata.org/dataset/cod-ab-sdn?)
+        The Humanitarian Data Exchange (SD) : [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
         
     87. **Tunisia**
         
