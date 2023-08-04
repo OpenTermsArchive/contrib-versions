@@ -136,7 +136,8 @@ You can find more information about the individual first-party cookies used for 
 | Strictly Necessary Cookies | taboola\_session\_id | Creates a temporary session ID to avoid the display of duplicate recommendations on the page. | trc.taboola.com | session |
 | Functionality Cookies | taboola\_select | Maintains a record of whether the user performed an action in the “Taboola Select” feature. | taboola.com | 1 year |
 | taboola\_fp\_td\_user\_id | Indicates that the user clicked on an item that was recommended by Taboola’s Services. This is used for reporting and analytics purposes. | taboola.com | 1 year |
-| t\_gid | Assigns a unique User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user. | taboola.com | 1 year |
+| t\_gid | Assigns a unique, partitioned User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with one advertiser or publisher. | taboola.com | 1 year |
+| t\_pt\_gid | Assigns a unique User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user. | Publisher or Advertiser Domain | 1 year |
 | trc\_cookie\_storage | Assigns a unique User ID that is used for attribution and reporting purposes. | Publisher’s Domain | 1 year |
 | \_tb\_sess\_r | Used on websites of our publisher Customers that utilize the Taboola Newsroom services. It maintains a session reference about the user’s visit to this particular website. | Publisher’s Domain | 30 minutes |
 | \_tb\_t\_ppg | Used on websites of our publisher Customers that utilize the Taboola Newsroom services. This cookie is used to identify the referring website (i.e. the website that the user visited prior to arriving at this publisher’s website). | Publisher’s Domain | 30 minutes |
