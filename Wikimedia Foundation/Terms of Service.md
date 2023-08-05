@@ -149,7 +149,7 @@ Other languages:
 * [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/my "Policy:အသုံးပြုသည်စ့ည်းမျဥ်းများ (3% translated)")
 * [ქართული](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ka "გამოყენების პირობები (37% translated)")
 * [ភាសាខ្មែរ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/km "លក្ខខណ្ឌ​ក្នុងការ​ប្រើប្រាស់ (6% translated)")
-* [中文](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh "使用条款 - 概述 (8% translated)")
+* [中文](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh "使用条款 - 概述 (9% translated)")
 * [中文（简体）](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh-hans "使用条款 (28% translated)")
 * [中文（繁體）](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh-hant "使用條款 (37% translated)")
 * [日本語](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja "方針:利用規約 (97% translated)")
