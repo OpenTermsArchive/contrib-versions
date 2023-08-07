@@ -27,7 +27,7 @@ These Controller Terms reflect the parties’ agreement on the processing of Con
 
 In these Controller Terms:
 
-“Additional Terms means the additional terms referred to in Appendix 1, which reflect the parties’ agreement on the terms governing the processing of Controller Personal Data in connection with certain Applicable Data Protection Legislation.
+“Additional Terms" means the additional terms referred to in Appendix 1, which reflect the parties’ agreement on the terms governing the processing of Controller Personal Data in connection with certain Applicable Data Protection Legislation.
 
 “Affiliate” means an entity that directly or indirectly controls, is controlled by, or is under common control with, a party.
 
