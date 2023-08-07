@@ -106,6 +106,10 @@ Mobile phone number and contact name, as saved on a Viber user’s phone address
 
 **If you are not a Viber user and would like to exclude your phone number, please contact us at [https://vb.me/ContactUs](https://vb.me/ContactUs)****.**
 
+**Caller ID**: Additionally, if you are not a Viber user, your phone number and contact name (if provided to us by a user through sharing their contacts or otherwise) will be added to our Caller ID database and used as part of Viber Caller ID feature (for more info see **[here](https://www.viber.com/en/blog/2023-04-05/free-caller-id-is-now-on-viber/)**), which allows to indicate your name to Caller ID users when you are on a call with them outside Viber. Such process enables Viber to improve Caller ID services with a purpose to reduce spam, fraud and harassment for our users.
+
+**To opt-out from the processing as part of Caller ID service, please visit this [page](https://help.viber.com/hc/en-us/requests/new?ticket_form_id=11857662434717).**
+
 Business partners data:
 
 When you communicate with us for business purposes as a business partner of ours, we will save your contact data provided by you (names, phone number, email, address etc.), as well as any correspondence we have had. We use trusted third-party providers to manage the maintenance and storage of such data.
@@ -281,6 +285,14 @@ The types of data we will use for such purpose will mainly include (as detailed 
 **B2B Communications and Engagements:**
 
 We will use Business Partners Data (as detailed in the “**[**Data We Collect**](#data-we-collect)**” section above) for the purpose of communicating with you, or as otherwise needed to facilitate our engagement, as well as to send you our marketing offers. You have the ability to opt out of our direct marketing emails at any time (see how you can do it in “**[**Your Choices**](#your-choices-and-controls)**” section).
+
+**Provide services using Non-User Data:**
+
+We will store and use Non-User Data (as detailed in the “[**Data We Collect**](#data-we-collect)” section above) which includes non-Viber users’ phone number (and names under which they were saved by Viber users) in the event such contact was included in our user’s address book that has been provided to us, for the purpose of showing our user who in their contacts is already using our Services and who is not, to allow the user find and communicate with their contacts in a more efficient way, through regular Viber and Viber Out communications.
+
+We also store and use Non-User Data for the Caller ID feature, to indicate your name to Caller ID users when you are on a call with them outside Viber for the purpose of reducing fraud, spam and harassment for our users.
+
+**If you are not a Viber user and would like to be excluded from such processing, please contact us [here](https://help.viber.com/hc/en-us/requests/new?ticket_form_id=5377663333917).**
 
 **Provide Service to Existing Users:**
 
