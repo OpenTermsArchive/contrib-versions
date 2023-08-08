@@ -2748,6 +2748,360 @@ Revision
 * March 30, 2020 As related as individual terms of pixiv services' Master Terms of Use, overall terms of Individual Terms of Use were modified.
 * December 21, 2018
 
+“VRoid Hub Developer” Terms of Use
+==================================
+
+Article 1: Introduction
+-----------------------
+
+1. These terms of use (“Individual Terms of Use”) set forth, for developers of apps linked with the “VRoid Hub” service (“Individual Service”) provided by the Company on the Site (defined in next article), the conditions of use appertaining to disclosure of the APIs required for development of such apps. Users wishing to use the Individual Service shall consent to these Individual Terms of Use before using APIs etc. (defined in next article).  
+    When a User has applied for use of APIs etc., such User will be deemed to have consented to all of the particulars set forth in these Individual Terms of Use.
+2. These Individual Terms of Use are individual terms of use under the pixiv service Master Terms of Use (“Master Terms of Use”) applicable to all services provided by the Company, and said Master Terms of Use, the VRoid SDK Terms of Use, and any guidelines or other regulations stipulated by the Company on the Individual Service shall apply to all matters not provided for in these Individual Terms of Use, except in cases specified herein as outside the scope of such application. Moreover, in the event of any discrepancy in relation to “SDKs” (defined in Article 2) between these Individual Terms of Use and the VRoid SDK Terms of Use, the VRoid SDK Terms of Use shall have priority hereover.
+
+Article 2: Definitions
+----------------------
+
+The terms used herein shall have the meanings ascribed to them in their respective items below. Any terms not specifically defined herein shall have the meanings ascribed to them in the Master Terms of Use.
+
+1. “Site” means the “VRoid Hub” (https://hub.vroid.com/) website on which the Company operates the Individual Service.
+2. “Creation” means a creation that has been Registered as a Character on the Site by a 3D Model Data Registrant in accordance with these Individual Terms of Use.
+3. “3D Model Data Registrant” means a User that has uploaded information for a Creation to the Site.
+4. “Conditions of Use” means the application settings that are set in accordance with Article 3, Paragraph 3 when a developer uploads information for a Creation to the Site.
+5. “APIs etc.” means “Application Programming Interfaces (individually “APIs”), Software Development Kits (individually “SDKs”), and associated tools, documents, data, technologies, code, and other materials provided by the Company via Subscriber websites” which the Company provides to other VR/AR platforms so that files, images, text, and other work information etc. related to Creations that 3D Model Data Registrants have Registered as Characters on the Site can be used on or in various other VR/AR platforms, 3D content, etc.
+6. “Subscriber” means any person using APIs etc. to create a Developed App linked to the Individual Service.
+7. “Developed App” means any app created by a Subscriber using APIs etc., and includes both Developed Apps that have been approved by the Company (“Certified Apps”) and non-certified Developed Apps that have not been approved by the Company (“Non-Certified Apps”).
+
+Article 3: Applying for Use
+---------------------------
+
+1. Users wishing to use APIs etc. shall complete Subscriber registration by Company-prescribed method when applying to use the same.
+2. The method of Subscriber registration shall conform to the account creation method set forth in Article 7 of the Master Terms of Use, and in the text of said article, “these Terms of Use”, “the Services”, and “account registration” shall be read as and superseded by “these Individual Terms of Use”, “the Individual Service”, and “Subscriber registration” respectively.
+3. Application settings related to Developed Apps planned for creation must be registered at the time of Subscriber registration. At such time, “model specifications information” shall be entered with particulars in line with the realities of the actual app.
+
+Article 4: API etc. Licenses
+----------------------------
+
+1. The Company will grant Subscribers a license to design and develop Developed Apps using APIs etc. both within and outside Japan, subject to such Subscribers’ compliance with the provisions of these Individual Terms of Use. Such licenses shall be non-exclusive and non-transferrable.
+2. Subscribers shall comply with the following when using APIs etc.
+    1. When using APIs etc. to obtain Creations, ensure that no one other than “Users permitted to use the Creations under the license issued by the Site” can use the same;
+    2. Subscribers shall create Developed Apps that conform to the application settings registered under the preceding article, and shall not create Developed Apps with particulars different from the pre-registered specifications information;
+    3. When using the Creations of 3D Model Data Registrants, Subscribers shall respect the Creations of 3D Model Data Registrants, shall be obligated to uphold the quality and image of the Creations of 3D Model Data Registrants, and shall promptly delete Developed Apps if there is a possibility that such quality will be compromised; and
+    4. If an extremely large number of requests are made in a certain time period, there may be cases where such requests cannot be accommodated, or the Company may impose restrictions on the number of requests to the Individual Service.
+3. Subscribers shall use APIs etc. only for the purposes formally declared by them to the Company, and shall not use APIs etc. for any other purposes.
+4. The consideration for a license to use APIs etc. shall be as set forth in Article 5.
+5. The preparation and maintenance of all client PCs, computers, and other hardware and software etc. necessary for use of APIs etc. shall be handled under the cost burden and responsibility of Subscribers, and the Company shall neither involve itself with nor bear any responsibility for Subscribers’ use environments.
+
+Article 5: Consideration for Use of APIs etc.
+---------------------------------------------
+
+Use of APIs etc. shall be free of charge; provided, however, that the Company will be entitled to charge for API etc. downloads or for use of the Individual Service in whole or in part if it has given advance notice of the effective date, and that from such effective dates onwards, Subscribers will be entitled to use paid services only if they have consented to the usage fees etc. separately specified by the Company.
+
+Article 6: Prohibitions
+-----------------------
+
+1. Subscribers shall not engage in any of the following conduct when using APIs etc.
+    1. Disrupting, altering, destroying, or disabling characteristics or functions of APIs etc. or API etc. monitoring mechanisms;
+    2. Creating or attempting to create services or products that are identical or similar to the Individual Service;
+    3. Selling, lending, leasing, sublicensing, distributing, transferring, or by other method assigning or providing access to APIs etc. in whole or in part to third parties;
+    4. Using APIs etc. for illegal, unauthorized, or other inappropriate purposes;
+    5. Infringing rights related to the Individual Service, APIs etc., or Creations registered thereon;
+    6. Infringing any rights related to Creations held by 3D Model Data Registrants;
+    7. Attempting to improperly access the Site, APIs etc., Company content, or associated systems or networks;
+    8. Using, outside of Developed Apps, model data that has been registered on the Site by a 3D Model Data Registrant, or implementing functions that allow such data to be shared with third parties, without the permission of the 3D Model Data Registrant;
+    9. Using images or text obtained from the Site (including icon data, user names, etc.) outside of Developed Apps created using APIs etc.;
+    10. Creating Developed Apps that adapt Creations for applications that fall under or may fall under sexually obscene material, child pornography, or child abuse which violates or may violate laws, ordinances, or Company-specified standards; transmitting, displaying, or selling such Developed Apps; or providing advertisements to third parties to encourage sale of the same; or
+    11. Other conduct that the Company deems inappropriate.
+2. The Company shall be entitled to suspend linkage to the Site and APIs etc. in the case where a Subscriber has breached any of the provisions of the preceding paragraph or the Company judges that such a breach may have occurred, and Subscribers consent to this without objection.
+
+Article 7: Registration of Developed Apps
+-----------------------------------------
+
+1. Subscribers shall, as a rule, formally notify the Company when they have created Developed Apps that use APIs etc.
+2. Upon being formally notified of a Developed App under the preceding paragraph, the Company shall conduct a review in accordance with Company-prescribed conditions regarding whether the Developed App follows the particulars of application settings as set forth in Article 4, and shall determine whether such app passes or fails the review.
+3. When a Developed App has failed review, instructions for improvement shall be given to the relevant Subscriber by the Company.
+4. When a Developed App has passed review, such Developed App shall be registered on the Site as a Certified App.
+5. Even when a Developed App has failed review, the relevant Subscriber shall still be entitled to distribute or allow Users to use such Developed App, but the Company shall define such Developed App as a Non-Certified App and shall be entitled to issue warnings on the Site that the app carries risks.
+
+Article 8: Ownership of Rights
+------------------------------
+
+1. All intellectual property rights and other such rights to APIs etc., the Individual Service, or information, websites, products, programs, applications, documents, or other goods etc. associated therewith, shall belong to the Company.
+2. Company authorization to use APIs etc. under these Individual Terms of Use shall not entail the transfer to Subscribers of any rights related to the above, and Subscribers shall be given merely a license that is limited to the extent necessary for such Subscribers to use Creations in Developed Apps in accordance herewith.
+3. All copyrights, moral rights of author, and other such rights to Creations shall belong to the relevant 3D Model Data Registrants or to creators of such Creations that have licensed use of the same to such 3D Model Data Registrants. When Subscribers use Creations in Developed Apps, they shall be entitled to do so only to the extent permitted hereunder.
+4. Copyrights to Developed Apps created using APIs etc. shall belong to the relevant Subscribers.
+
+Article 9: Updates
+------------------
+
+1. The Company shall be entitled to update, alter, or eliminate (hereinafter “Update” in each case) functions or characteristics of APIs etc. in whole or in part as the occasion demands.
+2. Subscribers shall always use the most recent version of APIs etc. and, when Developed Apps need to be modified as a result of an Update, Subscribers shall make such modifications under their own cost burden and responsibility.
+3. The Company shall not be held liable for damage of any kind resulting from Updates.
+
+Article 10: Suspension
+----------------------
+
+1. The Company shall be entitled to suspend or interrupt the provision of the Individual Service or APIs etc. at any time.
+2. The Company may interrupt provision of APIs etc. when it deems any of the following items to be applicable:
+    1. If it has become impossible to provide APIs etc. or the Individual Service because of a natural calamity or other force majeure event;
+    2. If it is necessary to interrupt provision of the Individual Service in whole or in part for operational or technical reasons of the Company; and
+    3. In addition to the foregoing, in the cases set forth in the items of Article 24, Paragraph 3 of the Master Terms of Use.
+3. The Company shall not be held liable for any damage suffered by Subscribers because of interruption of provision of APIs etc. under the provisions of the preceding paragraph.
+4. When suspending provision of the Individual Service, the Company shall be entitled to delete linkages for Developed Apps immediately.
+5. Subscribers shall be entitled to suspend their use of APIs etc. at any time.
+6. When a Subscriber suspends provision of a Certified App, it shall notify the Company in advance by Company-prescribed method.
+
+Article 11: Cancellation
+------------------------
+
+1. When a Subscriber has breached these Individual Terms of Use, the Company shall be entitled to cancel applicable agreements pertaining to use of APIs etc. as set forth in Article 4, deregister the Subscriber, or suspend linkage between the Site and such Subscriber’s apps.
+2. Subscribers shall be held liable for any damage which may be suffered by the Company in the case of the preceding paragraph.
+
+Article 12: No Guarantee
+------------------------
+
+1. APIs etc. provided by the Company will be provided to Subscribers as is, and no guarantees are made as to the following:
+    1. The quality, performance, suitability for purposes of use, etc. of APIs etc.;
+    2. Permanent Updating, improvement, defect repair, etc. of APIs etc.;
+    3. That the Site or APIs etc. will have no actual or legal defects (including deficiencies of safety, reliability, accuracy, completeness, effectiveness, or suitability for specific purposes; defects related security etc.; errors and bugs; rights infringements; etc.), will have no technical inaccuracies or typographical or coding errors, or will not experience failure or breakdown; or
+    4. That content associated with the Site or APIs etc. will not contain computer viruses etc.
+2. Subscribers shall resolve under their own cost burden and responsibility any claims which may be made by third parties for infringement of rights in regard to Developed Apps that use APIs etc.
+
+Article 13: Disclaimers
+-----------------------
+
+1. The Company shall owe no liability with regard to the matters set forth in the items below, nor any indemnity, damage liability, or other such liability for any direct or indirect damage, foreseeable or unforeseeable damage, or other such damage or loss that is suffered by Subscribers because of such matters.
+    1. Use or unavailability of the Individual Service or APIs etc. (including APIs etc. as improved or modified; hereinafter the same);
+    2. Alteration, suspension, or termination of the provision of the Site or APIs etc.;
+    3. User errors in using APIs etc.;
+    4. Defects, temporary shutdowns, partial deletion, alteration, or termination of APIs etc.;
+    5. Disputes etc. with Users resulting from use of APIs etc.; and
+    6. In addition to the foregoing, the subject matter of the non-guarantee etc. set forth in the preceding article.
+2. The Company shall not be held liable for, and shall not involve itself in, any trouble arising between Subscribers and Users in connection with the Individual Service. Any such trouble which does arise shall be resolved by litigious or non-litigious means among the parties concerned, and in the case where the Company suffers damage because of such trouble, the relevant Subscriber(s) shall indemnify against such damage and against all attorney fees and other such costs which are incurred by the Company.
+3. The provisions of Article 24 (Disclaimers), Paragraph 11 of the Master Terms of Use shall apply to these Individual Terms of Use as well.
+
+“VRoid SDK” Term of Use
+=======================
+
+Article 1. Introduction
+-----------------------
+
+1. These Terms of Use (these “Individual Terms of Use”) apply to all conduct in cases where Contracting Parties (defined in Article 2, Paragraph 2) use the VRoid SDK (the “SDK”) in order to use 3D model data and 3D model data related files, images, text, and other work information (collectively, “Works”) posted by 3D model data registered parties on the VRoid Hub (the “Site”) provided by the Company and all websites, software, applications, products, documents, and all other products and services (“Individual Services”) provided to Contracting Parties in relation to such 3D model data and Works.
+2. These Individual Terms of Use set forth the conditions for use of the Individual Services and the SDK. Users shall use the Individual Services and the SDK in accordance with these Individual Terms of Use after consenting to these Individual Terms of Use. If a User does not consent to the Individual Terms of Use, policies, and guidelines specified in the preceding paragraph, the User may not use the Individual Services and SDK.
+3. By using the Individual Services and SDK, a User shall be deemed to have agreed all provisions of the pixiv Master Terms of Use, pixiv Privacy Policy, Individual Terms of Use, VRoid Hub Terms of Use, and related guidelines and rules (the “Rules”).
+4. Any matters not specified in these Individual Terms of Use shall be governed by the pixiv Master Terms of Use. In the event of any discrepancy or conflict among these Individual Terms of Use, pixiv Master Terms of Use, VRoid Hub Terms of Use, and related guidelines and rules, except when otherwise provided in these Individual Terms of Use, in connection with the use of the Individual Services and SDK, the related guidelines and rules, these Individual Terms of use, the VRoid Hub Terms of Use, and pixiv Master Terms of Use shall apply preferentially in that order.
+
+Article 2. Definitions
+----------------------
+
+The definitions of the terms used in these Individual Terms of Use shall be as set forth in the following items. If not expressly provided in these Individual Terms of Use, the definitions of terms shall be governed by the Master Terms of Use and the VRoid Hub Terms of Use.
+
+1. “Use Agreement” means an agreement pursuant to these Individual Terms of Use for a User to receive provision of the SDK and Individual Services from the Company.
+2. “Contracting Party” means a User who submitted an application to the Company to use the SDK and the Individual Services in accordance with these Individual Terms of Use and was approved by the Company.
+3. “Contract Applicant” means a person who wishes to use the Individual Services and SDK.
+4. “SDK” means the software development kit provided by the Company to Contracting Parties for using information and so on of Works posted on the Site by 3D model data registrants on various VR/AR Platforms publicly released by Contracting Parties and 3D content and includes sample applications, incidental printed materials and electronic documents such as manuals, and other materials.  
+    When 3D model data registrants post 3D model data on the Site, they can freely designate whether the use of the 3D model data on various VR/AR Platforms and 3D content etc. is authorized, whether the 3D model data can be downloaded, whether commercial and non-commercial use by individuals or corporations is permitted, whether violent expression is permitted, and so on within the scope specified in these Individual Terms of Use.  
+    When Contracting Parties use the Works of 3D model data registrants with various types of VR/AR Platforms and 3D content, only use in accordance with the scope permitted by the 3D model data registrants is permitted.
+    
+    Use of Registered Works, Example1:
+    
+    3D Model Creator  
+    “I want the 3D models I have created to be seen and used freely by many people. Redistribution, adjustments, modifications and design changes by individuals or corporations, can also be carried out freely. However, please display my name as Creator on the relevant page.”
+    
+    VRoid Hub  
+    Conditions of Use can be set in regard to whether to allow downloading of Registered Works or use of the same in VR/AR platforms, 3D content or the like via SDK. Conditions which are not set in the pre-existing settings can be set in “Other Conditions”.
+    
+    Providers of VR/AR Platforms, 3D Content, etc.  
+    Use is allowed only within the scope of the Conditions of Use stipulated by the 3D Model Data Registrant on VRoid Hub. Please confirm with the 3D Model Creator about the specific credit attribution method etc. in cases where it is impossible to display the credit attribution etc. for use in videogames or the like.
+    
+    Use of Registered Works, Example2:
+    
+    3D Model Creator  
+    “I want to distribute videos myself on multiple platforms and reduce the burden of managing 3D models on each such platform. I do not want to allow use by other people.”
+    
+    VRoid Hub  
+    The use of Registered Works that have been Registered as Characters can be restricted to only by the 3D Model Registrant him/her/itself.
+    
+    Providers of VR/AR Platforms, 3D Content, etc.  
+    If a video distribution platform has introduced a VRoid Hub SDK, the Registered Works of which VRoid Hub allows use only by the 3D Model Data Registrant will be consulted, and only the relevant 3D Model Data Registrants will be entitled to use such Registered Works in video distribution etc.
+    
+    Use of Registered Works, Example3:
+    
+    3D Model Creator  
+    “I want the 3D models I have created to be seen and used freely by many people. Redistribution, adjustments, modifications, design changes and the like can also be carried out freely. However, using such 3D models in printed materials shall be prohibited.”
+    
+    VRoid Hub  
+    Please allow downloading of Registered Works or use of same in VR/AR platforms, 3D content or the like via SDK, and disallow use in printed materials.
+    
+    Providers of VR/AR Platforms, 3D Content, etc.  
+    Only use within the Scope of License stipulated by the 3D Model Creator is allowed. Use in printed materials is not possible.
+    
+    \*“3D Model Creator” means an individual or corporation that has created 3D model data and will be 3D Mode Data Registrant when it registered such 3D model data on Vroid Hub.
+    
+5. “VRoid License Software” means a program compatible with the SDK developed by a Contracting Party necessary to acquire 3D model data posted on the Site using the SDK and to use that data with various types of VR/AR Platforms and 3D content made public by Contracting Parties.  
+    When Contracting Parties use with various types of VR/AR Platforms and 3D content 3D model data posted on the Site by 3D model data registrants, such use is limited by the Individual Terms of Use and the VRoid Hub Terms of Use and to the scope permitted by the 3D model data registrants in accordance with the VRoid Hub Terms of Use (“VRoid License”).
+6. “VRoid License Content” means 3D model data of a 3D model data registrant posted to VRoid Hub which is acquired, used, copied, or modified by Contracting Parties via the SDK in accordance with the scope of the VRoid License for provision to End Users.
+7. “Platform” means websites or services (including 3D content) publicly released and operated by Contracting Parties.
+8. “End User” means a user who views etc. Platforms.
+
+Article 3. Use License, etc.
+----------------------------
+
+1. Subject to compliance with the provisions set forth in the Rules, the Company grants to Contracting Parties a non-exclusive and non-transferable license in Japan and other countries to design and develop VRoid License Software using the SDK and the Individual Services.
+2. A Contracting Party may create a reasonable number of VRoid License content only on Platforms publicly released and operated by the Contracting Party himself/herself and provide such content to End Users.
+3. A Contracting Party may use, copy, or modify in accordance with the VRoid License 3D model data posted on VRoid Hub by 3D model data registrants for use on Platforms publicly released and operated by the Contracting Party himself/herself.
+4. When the Company upgrades the SDK and the Individual Services, it shall provide notice to that effect to Contracting Parties on the Site or related sites, and Contracting Parties approve this in advance.
+
+Article 4. Use Rights and Use Fees
+----------------------------------
+
+1. Contracting Parties may download the SDK to a client PC in their possession and use the SDK.
+2. Download of the SDK and use of the Individual Services shall be free of charge.
+
+Article 5. Preparation of Use Environment
+-----------------------------------------
+
+1. Preparation of all client PCs, computers, and other hardware and software and the like necessary for use of the SDK and Individual Services shall be performed under the responsibility and at the expense of Contracting Parties.
+2. The Company shall not become involved in preparation of the use environment of Contracting Parties and shall not bear any liability whatsoever.
+
+Article 6. Application for Use Agreement and Non-approval of Application for Use Agreement
+------------------------------------------------------------------------------------------
+
+1. A Contract Applicant shall consent to the Rules including these Individual Terms of Use and apply for a Use Agreement by the method designated by the Company.
+2. The Company may determine whether an application submitted by a Contract Applicant pursuant to the preceding paragraph shall be approved as a Contracting Party.
+3. In cases where the Company determines that an application submitted pursuant to Paragraph 1 of this article falls under any of the following items, it shall not approve the application.
+    1. In cases where an application is made with false or misleading content;
+    2. In cases where a Contract Applicant failed to perform its duties under an agreement with the Company in the past in relation to services etc. provided by the Company or failed to perform its duties under the agreement with another user and in cases where the Company determines that the Contract Applicant is likely to fail to perform its duties in the future;
+    3. In cases where the Contract Applicant engaged in prohibited conduct specified in Article 10 of these Individual Terms of Use in the past or the Company determines that there is a likelihood that the Contract Applicant will engage in prohibited conduct in the future;
+    4. In cases where registration details contain inaccurate information or false information;
+    5. In cases where the Company determines that the Contract Applicant engaged in conduct that hindered or interfered with the Company’s operations or provision of services or use of services by other users and in cases where the Company determines there is a likelihood that the Contract Applicant engaged in such conduct; and
+    6. In cases where the Company otherwise determines that the Contract Applicant or accepting the application would substantially interfere with the Company’s operations.
+4. A Use Agreement between the Company and a Contract Applicant shall be formed at the time that the Company grants the approval specified in Paragraph 2.
+5. In cases where a Use Agreement is not formed, the Contract Applicant may not use the Individual Services.
+6. In cases where the Company does not approve a Use Agreement application, the Company shall not bear a duty to disclose or explain the reasons for non-approval to the Contract Applicant relating to the relevant application and shall not bear any liability whatsoever for damage incurred by the Contract Applicant as a result of the non-approval.
+
+Article 7. Contracting Parties’ Duties and Responsibilities任
+------------------------------------------------------------
+
+1. Contracting Parties understand the pixiv Terms of Use, Individual Terms of Use, and other Rules and shall endeavor to perform them and comply with them.
+2. Contracting Parties shall not engage in conduct that is prohibited by the Rules (“Prohibited Conduct”). If a Contracting Party engages in Prohibited Conduct, this shall be deemed as conduct in violation of the Rules including these Individual Terms of Use, regardless of the Contracting Party’s willful misconduct or negligence.
+3. When using the Individual Services or posted works of 3D model data registrants, Contracting Parties shall respect the Works of 3D model data registrants and shall bear a duty to maintain the quality and image of the Works of 3D model data registrants, and if there is a possibility of impairment of that quality, must promptly delete the SDK and the Works.
+4. In cases where the Company determines that conduct is in violation of the Rules or is inappropriate, the Company may, at its discretion, cancel the SDK and provision of the Individual Services. The Company shall not bear any liability whatsoever for damage incurred by Contracting Parties and End Users as a result of measures taken pursuant to this paragraph.
+5. In the case where a Contracting Party incurs damage as a result of use of the SDK or Individual Services or from VRoid License Content etc. created by the Contracting Party or in the case where a Contracting Party causes damage to a 3D model user registrant, other Contracting Party, other user, or third party, the Contracting Party shall resolve the matter under its own responsibility and at its own expense and shall not cause any damage to the Company. In such case, the Company shall not bear any liability whatsoever unless otherwise provided in the Rules.
+
+Article 8. Cancellation, etc. of Contracting Party Qualifications
+-----------------------------------------------------------------
+
+1. In cases where a Contracting Party or Contract Applicant falls under any of the following items, the Company may cancel or temporarily suspend such person’s qualifications as a contracting party, not enter into a Use Agreement, or refuse future use of the SDK or Individual Services.
+    1. In cases of violation of laws, regulations, or the Rule;
+    2. In cases of inappropriate conduct;
+    3. In cases corresponding to grounds for non-approval of an application specified in each item of Article 6, Paragraph 4 or in cases where it becomes clear to the Company that there are grounds for non-approval of an application;
+    4. In cases where there are not at least a certain number of logins within a certain period specified by the Company;
+    5. In cases where the Company determines that continued provision of the SDK and Individual Services would be infeasible because of reasonable grounds;
+    6. In cases where procedures are not performed or notice to the Company is not provided as required in accordance with the Rules;
+    7. In cases where it has been identified that a registered telephone number or email address is no longer accessible;
+    8. In cases where a Contracting Party incurs liabilities in excess of assets, becomes insolvent, suspends payments, or is unable to make payments;
+    9. In cases where a Contracting Party or Contract Applicant personally or through a third party engages in any of the following conduct: (i) violent demands, (ii) unjust demands that exceed legal responsibility, (iii) use of threatening language or behavior, or violent acts, or (iv) conduct damaging the reputation or obstructing the business of the other party by spreading rumors, or using fraudulent means or force;
+    10. In cases where problems are caused to other users or third parties, regardless of whether such problems are caused by willful misconduct or negligence on the part of the Contracting Party or Contract Applicant, as the case may be;
+    11. In cases where complaints are received from other users or third parties, regardless of whether such complaints are caused by willful misconduct or negligence on the part of the Contracting Party or Contract Applicant, as the case maybe; and
+    12. In other cases where the Company determines that the individual is not suitable as a Contracting Party.
+2. Unless otherwise provided in the Rules, the Company shall not bear a duty to disclose or explain the reasons for measures taken pursuant to the preceding paragraph and shall not bear any liability whatsoever for any damage, whether direct or indirect, incurred as a result of measures taken pursuant to the preceding paragraph.
+
+Article 9. Prohibition of Provision to Third Parties
+----------------------------------------------------
+
+The SDK and other content are provided by the Company to Contracting Parties pursuant to these Individual Terms of Use for use by the Contracting Parties only. Contracting Parties may not provide to third parties the SDK or any other content provided to Contracting Parties by the Company.
+
+Article 10. Prohibitions
+------------------------
+
+When using the SDK and Individual Services, Contracting Parties may not engage in conduct falling under the following items. In cases where a Contracting Party engages in conduct failing under the following items, the Company may deem such conduct to be a violation, regardless of whether such conduct was caused by willful misconduct or negligence, and may dismiss the Contracting Party from the Services (each service provided by the Company) including the Individual Services, suspend use, cancel VRoid Licenses, delete or modify data relating to the SDK in whole or in part, or take other disadvantageous measures (provided, however, that the Company shall not bear a duty to take such measures and shall not bear a duty to discloses the reasons for taking such measures).
+
+1. Reproducing information of Works uploaded to the Site without the consent of the 3D model data registrant relating to those Works;
+2. Altering Works to VRoid License Content that violates or is likely to violate the scope of the VRoid License, laws, regulations, or other standards established by the Company or that constitutes or is likely to constitute obscenity, child pornography, or child abuse, and distributing, displaying, or selling such VRoid License Content, or sending to End Users advertisements that bring to mind selling of such VRoid License Content;
+3. Using or providing computer viruses or other harmful programs via the SDK or in relation to the SDK or engaging in conduct likely to lead to such use or provision;
+4. Using or employing the SDK in excess of the scope specified by the SDK such as reproduction, public broadcast (including, in the case of automated public broadcast, making such broadcast possible), transmitting, transferring, loaning, modifying, or using adaptations or the like;
+5. Reverse engineering, reverse compiling, reverse assembling, or engaging in other analysis conduct of the Services or the SDK in whole or in part;
+6. Providing applications that directly use the SDK or VRoid Hub API on a server without obtaining the Company’s approval;
+7. Assigning, lending, or permitting the use by a third party of use rights to the SDK and Individual Services without obtaining the Company’s approval;
+8. Deleting or modifying displays of copyrights, author’s moral rights, or other rights attached to Works;
+9. Downloading or using the SDK and Individual Services by methods contrary to the procedure specified by the Company;
+10. Further to the preceding items, engaging in conduct contrary or likely contrary to the prohibition set forth in Article 15 of the pixiv Master Terms of Use or conduct in violation of or likely to violate the Rules; and
+11. Further to the above, engaging in conduct that the Company determines is inappropriate.
+
+Article 11. Suspension of Provision
+-----------------------------------
+
+1. If the Company determines that any of the following items apply, the Company may suspend provision of the SDK and Individual Services in whole or in part.
+    1. If provision of the SDK and Individual Services is no longer possible because of natural disaster or other force majeure;
+    2. If suspension of provision of Individual Services in whole or in part is necessary because of the Company’s operational or technical issues; or
+    3. Further to the preceding items, in cases specified in each item of Article 25, Paragraph 3 of the pixiv Master Terms of Use.
+2. In cases where the Company plans to suspend provision of the SDK and Individual Services in whole or in part pursuant to the preceding paragraph, the Company shall endeavor to provide notice to that effect to Contracting Parties; provided, however, that in cases where there is no prior plan or there are urgent or unavoidable circumstances, this shall not apply.
+3. Even if a Contracting Party incurs damage as a result of the suspension of provision of Individual Services pursuant to Paragraph 1 of this article, the Company shall not bear any liability whatsoever.
+
+Article 12. Modification, Supplementation, and Discontinuation of the SDK and Individual Services
+-------------------------------------------------------------------------------------------------
+
+1. The Company may, at its convenience, at any time, modify, supplement, or discontinue the SDK and Individual Services in whole or in part.
+2. In the case of the preceding paragraph, upgrading the SDK, Individual Services, and VRoid License Software may be necessary.
+3. In cases where the Company upgrades the SDK and Individual Services, it may not be possible to use the SDK, Individual Services, and VRoid License Software in whole or in part until such upgrade is completed.
+4. IIn cases where the Company determines that modification, supplementation, or discontinuation of the SDK and Individual Services pursuant to Paragraph 1 of this article will have a material impact on Contracting Parties, the Company shall provide prior notice to Contracting Parties regarding the details of the modification, supplementation, or discontinuation; provided, however, that this shall not apply in cases where there are urgent or unavoidable circumstances.
+5. Even if Contracting Parties incur damage in cases where the Company modifies, supplements, or discontinues the SDK and Individual Services in whole or in part pursuant to Paragraph 1 of this article, the Company shall not bear any liability whatsoever.
+
+Article 13. Termination of Use Agreement
+----------------------------------------
+
+1. In cases where a Contracting Party wishes to terminate a Use Agreement, the Contracting Party shall submit a request for termination of the agreement to the Company by the method specified by the Company.
+2. If a Contracting Party violates any provision of the Use Agreement, the Company may immediately cancel the Use Agreement without the provision of any prior warning or notice to the Contracting Party.
+
+Article 14. Measures at the Time of Termination of Use Agreement
+----------------------------------------------------------------
+
+1. In cases where a Use Agreement is terminated etc. (here and hereafter, including cases where a Use Agreement is canceled or rescinded, a Contracting Party loses qualifications as a Contracting Party, a Contracting Party is dismissed from the Services, or a VRoid License is canceled), the Contracting Party may no longer use the SDK and Individual Services. In this case, the Contracting Party shall immediately discontinue use of the SDK and delete using a method that makes recovery impossible the SDK and its copies and the VRoid License Content in the Contracting Party’s possession or under the Contracting Party’s management.
+2. Notwithstanding termination of a Use Agreement, Article 7, Article 11, Paragraph 3, Article 12, Paragraph 5, this Article 14, Article 15, Paragraph 4, and Article 16 shall survive and remain in effect.
+
+Article 15. Defects in the SDK and Individual Services
+------------------------------------------------------
+
+1. The Company provides the SDK and Individual Services in as-is condition, shall not bear any liability whatsoever including statutory defect liability in relation to the SDK and Individual Services, and makes no warranties whatsoever in these Individual Terms of Use, whether express or implied, written or orally (including without limitation any warranties concerning accuracy, reliability, safety, marketability, quality, product suitability, non-infringement of third party rights, or fitness for a particular purpose).
+2. In the case where the Company discovers a defect in the SDK and Individual Services and determines that correction of the defect is necessary, the Company shall endeavor to provide a defect-free SDK and Individual Services or to correct the defect in the SDK and Individuals Services, but does not guarantee that it will do so.
+3. Except when provided in these Terms of Use, the Company shall not make any guarantees, provide support, or respond to problems and the like in relation to the SDK and Individual Services. Contracting Parties shall resolve problems occurring in relation to the SDK and Individual Services under their own responsibility and at their own expense.
+4. Even if the Contracting Party incurs damage as a result of a defect in the SDK and Individual Services, unless otherwise provided in the Rules, the Company shall not bear any liability whatsoever.
+
+Article 16. Disclaimers
+-----------------------
+
+1. In cases where the Company temporarily suspends the SDK and Individual Services pursuant to Article 11, Paragraph 1, use and the effective period (in cases where there is a relevant expiration date) of the SDK and Individual Services may be extended; provided, however, that the Company shall not bear any liability whatsoever for direct or indirect damage incurred as a result of use or inability to use the SDK and Individual Services.
+2. Even in cases where a Use Agreement is continued and in cases where a Use Agreement is terminated etc., the Company shall be released from liability to Contracting Parties to pay compensation or indemnification for damage, losses, and other expenses incurred in conjunction with supplementation, modification, suspension, or termination of the SDK and Individual Services, whether direct or indirect and regardless of whether such damages etc. were foreseeable.
+3. The Company shall not bear any liability whatsoever in relation to the lawfulness, accuracy, and so on of Works. Further, the Company does not make any guarantees that Works provided on the Services comply with the internal rules and the like of the corporations and organizations with which the 3D model data registrants who posted the relevant Works are affiliated and shall not bear any liability whatsoever for any problems arising in relation to such compliance or non-compliance.
+4. The Company does not make any guarantees whatsoever that content related to the SDK and Individual Services is free of computer viruses etc. The Company shall not bear any liability whatsoever to Contracting Parties or third parties including End Users for any damage arising as a result of content related to the SDK and Individual Services containing computer viruses etc., whether direct or indirect and regardless of whether such damage was foreseeable.
+5. The Company shall make maximum efforts such that the SDK and Individual Services are useful to Contracting Parties, but the Company’s responsibility to Contracting Parties shall be limited to making reasonable efforts to operate the SDK and Individual Services such that they can be used by Contracting Parties without impediment, and the Company shall not bear any liability and shall not bear any duty whatsoever to pay compensation for damage incurred by Contracting Parties as a result of use or the inability to use the SDK and Individual Services or damage incurred by Contracting Parties or other parties arising from the SDK and Individual Services.
+6. The Company does not make any warranties whatsoever that the SDK and Individual Services are free of technological inaccuracies, typographical errors, or incorrect values and or that no problems or impairments will occur.
+7. The Company shall not bear any responsibility for or becomes involved in any problems arising between Contracting Parties and End Users or other third parties in relation to the SDK and Individual Services. In the case where a problem occurs, it shall be resolved judicially or extrajudicially among the parties, and in the case where the Company incurs damage as a result of such problem, the parties shall jointly and severally pay compensation to the Company for all expenses including attorney’s fees and damages.
+8. Further to the preceding paragraphs, matters relating to disclaimers between the Company and Contracting Parties shall be governed by Article 25 (Disclaimers), Paragraphs 1 to 12 of the pixiv Master Terms of Use. In the event of any contradiction between Article 25, Paragraph 11 or 12 of the pixiv Master Terms of Use and these Individual Terms of Use, Article 25, Paragraph 11 or 12 of the pixiv Master Terms of Use shall apply preferentially from the perspective of protection of consumers or users.
+
+Article 17. Ownership of Intellectual Property Rights
+-----------------------------------------------------
+
+1. Intellectual property rights and all other rights to the SDK and the Individual Services and related information, websites, products, programs, applications, documents, and all other goods etc. shall belong to the Company.
+2. Execution of Use Agreements pursuant to these Individual Terms of Use relating to the SDK and Individual Services does not constitute a transfer of any rights relating to the SDK and Individual Services to the Contracting Party and is no more than the grant to the Contracting Party of a use license limited to the extent necessary for the purpose of using Works with various VR/AR Platforms and 3D content etc. in accordance with the VRoid License.
+3. Copyrights, author’s moral rights, and all other rights to Works belong to 3D model data registrants or the creators of the relevant Works who permitted their use by 3D model data registrants. When Contracting Parties use Works with various VR/AR Platforms and 3D content etc., they may do so only to the extent of the VRoid License.
+4. Copyrights to VRoid License Software created using the SDK and Individual Services belong to the Contracting Parties who developed the VRoid License Software.
+
+Article 18. Open-Source Software
+--------------------------------
+
+Notwithstanding the provisions hereof, licenses to open-source software specified elsewhere are granted to users pursuant to the respective applicable license agreements.
+
+Article 19. Compliance with Import/Export Related Laws and Regulations
+----------------------------------------------------------------------
+
+In cases where a Contracting Party takes the SDK and Individual Services outside of Japan and import/export related laws and regulations etc. of Japan or other countries (“Import/Export Related Laws and Regulations”) apply, the Contracting Party shall comply with those Import/Export Related Laws and Regulations.
+
+Supplementary Provisions
+------------------------
+
+These Individual Terms of Use shall take effect on 01/28, 2019.
+
 “VRoid mobile” Individual Terms of Us
 =====================================
 
