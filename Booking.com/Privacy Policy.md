@@ -383,7 +383,7 @@ All companies within the Booking Holdings Inc. group of companies may need to ex
 
 ### How is your personal data shared and further processed for ground transport services?
 
-Booking.com Transport Limited, trading as Rentalcars.com, is a private limited liability company, incorporated under the laws of the United Kingdom with offices at 100 New Bridge Street, London, EC4V 6JA.
+Booking.com Transport Limited, trading as Rentalcars.com, is a private limited liability company, incorporated under the laws of the United Kingdom with offices at 6 Goods Yard Street, Manchester, M3 3BG, United Kingdom.
 
 Booking.com and Rentalcars.com (both part of the Booking Holdings Inc. group of companies) work together closely to offer you ground transport services via Booking.com websites and apps, such as cars.booking.com or taxi.booking.com.
 
