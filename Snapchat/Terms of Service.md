@@ -1,22 +1,20 @@
 Snap Group Limited Terms of Service
 ===================================
 
-(If you live outside the United States)
-
 Effective: 15 August 2023
 
 Welcome!
 --------
 
-We’ve drafted these Terms of Service (which we call the “Terms”), so you’ll know the rules that govern our relationship with you as a user of our Services. Although we have tried our best to strip the legalese from the Terms, there are places where they may still read like a traditional contract. There’s a good reason for that: these Terms form a legally binding contract between you and Snap Inc. (“Snap”). So please read them carefully.
+We’ve drafted these Terms of Service (which we call the “Terms”), so you’ll know the rules that govern our relationship with you as a user of our Services. Although we have tried our best to strip the legalese from the Terms, there are places where they may still read like a traditional contract. There’s a good reason for that: these Terms form a legally binding contract between you and Snap Group Limited (“Snap”). So please read them carefully.
 
 In order to use Snapchat, Bitmoji or any of our other products or services that are subject to these Terms (which we refer to collectively as the "Services"), you must accept these Terms, which are presented to you when you first open the app. If so, Snap grants you a non-assignable, non-exclusive, revocable and non-sublicensable licence to use the Services in accordance with these Terms and our policies. Of course, if you don’t accept them, then don’t use the Services.
 
-These Terms apply if you live in the United States or if your principal place of business is in the United States. If you live outside of the United States or if your principal place of business is outside of the United States, Snap Group Limited provides you the Services and your relationship is governed by the [Snap Group Limited Terms of Service](https://www.snap.com/en-GB/terms#terms-us).
+These Terms apply if you live outside the United States or if your principal place of business is outside of the United States. If you live in the United States or if your principal place of business is in the United States, Snap Inc. provides you the Services and your relationship is governed by the [Snap Inc. Terms of Service.](https://www.snap.com/en-GB/terms#terms-us)
 
 ARBITRATION NOTICE: IF YOU’RE USING THE SERVICES ON BEHALF OF A BUSINESS, THEN YOUR BUSINESS WILL BE BOUND BY THE ARBITRATION CLAUSE THAT APPEARS LATER IN THESE TERMS.
 
-1\. Who can use the services
+1\. Who can Use the Services
 ----------------------------
 
 Our services are not directed to children under the age of 13, and you must confirm that you are 13 years or older to create an account and use the Services. If we have actual knowledge that you are under the age of 13 (or the minimum age at which a person may use the Services in your state, province or country without parental consent, if greater), we will cease providing Services to you and delete your account and your data. We may offer additional Services with additional terms that may require you to be even older to use them. So please read all such terms carefully. By using the Services, you confirm that (and represent and warrant that):
@@ -32,31 +30,31 @@ Our services are not directed to children under the age of 13, and you must conf
 
 If you are using the Services on behalf of a business or some other entity, you confirm that you are authorized to bind that business or entity to these Terms and you agree to these Terms on behalf of that business or entity (and all references to "you" and "your" in these Terms will mean both you as the end user and that business or entity).
 
-_In summary: Our Services are not directed at anyone under the age of 13 or the minimum age at which a person may use the Services in your state, province or country if it is older than 13. If we become aware that you are under this age, we will suspend your use of the Services and delete your account and data. Other terms may apply to our Services which require you to be even older to use them. So, please review these carefully when prompted._
+_In summary: Our Services are not directed at anyone under the age of 13 or the minimum age at which a person may use the Services in your state, province or country if it is older than 13. If we become aware that you are under this age, we will suspend your use of the Services and delete your account and data. Other terms may apply to our Services which require you to be even older to use them so please review these carefully when prompted._
 
 2\. Rights You Grant Us
 -----------------------
 
 Many of our Services let you create, upload, post, send, receive and store content. When you do that, you retain whatever ownership rights to that content you had to begin with. But, you grant us a licence to use that content. How broad that licence is depends on which Services you use and the settings you have selected.
 
-For all content you submit to the Services (including Public Content), you grant Snap and our affiliates a worldwide, royalty-free (meaning that there is no ongoing payment to you required), sub-licensable, and transferable licence to host, store, cache, use, display, reproduce, modify, adapt, edit, publish, analyse, transmit, and distribute that content. This licence is for the limited purpose of operating, developing, providing, promoting and improving the Services and researching and developing new ones. This licence includes a right for us to make your content available to, and pass these rights along to, other service providers with whom we have contractual relationships related to the provision of the Services, solely for the purpose of providing such Services.
+For all content you submit to the Services (including Public Content), you grant Snap and our affiliates a worldwide, royalty-free (meaning that there is no ongoing payment to you required), sub-licensable, and transferable licence to host, store, cache, use, display, reproduce, modify, adapt, edit, publish, analyse, transmit, and distribute that content. This licence is for the limited purpose of operating, developing, providing, promoting and improving the Services and researching and developing new ones. This licence includes a right for us to make your content available to, and pass these rights along to, service providers with whom we have contractual relationships related to the provision of the Services, solely for the purpose of providing such Services.
 
-We call Public Story submissions and any other content you submit to public services, like Public Profiles, Spotlight, Snap Map or Lens Studio, "Public Content". Because Public Content is inherently public, you grant Snap, our affiliates, other users of the Services, and our business partners a worldwide, royalty-free, and irrevocable right and licence to create derivative works from, promote, exhibit, broadcast, syndicate, reproduce, distribute, Synchronize, overlay graphics and auditory effects on, publicly perform, and publicly display all or any portion of your Public Content in any form and in any and all media or distribution methods, now known or later developed. This licence applies to the separate video, image, sound recording, or musical compositions contained in your Public Content, as well as the name, image, likeness, and voice of anyone featured in Public Content that you create, upload, post, send, or appear in (including as reflected in your Bitmoji). This means, among other things, that you will not be entitled to any compensation if your content, videos, photos, sound recordings, musical compositions, name, image, likeness or voice are used by us, our affiliates, users of the Services or our business partners. The licences granted by you for Public Content continue for so long as the Public Content is on the Services and for a reasonable period of time after you remove or delete the Public Content from the Services (provided we may retain server copies of your Public Content indefinitely). For information about how to tailor who can watch your content, please take a look at our [Privacy Policy](https://values.snap.com/privacy/privacy-policy) and [Support Site](https://help.snapchat.com/). All Public Content must be appropriate for people ages 13+.
+We call Public Story submissions and any other content you submit to public Services, like Public Profiles, Spotlight, Snap Map or Lens Studio, "Public Content". Because Public Content is inherently public, you grant Snap, our affiliates, other users of the Services, and our business partners a worldwide, royalty-free, and irrevocable right and licence to create derivative works from, promote, exhibit, broadcast, syndicate, reproduce, distribute, synchronise, overlay graphics and auditory effects on, publicly perform, and publicly display all or any portion of your Public Content in any form and in any and all media or distribution methods, now known or later developed. This licence applies to the separate video, image, sound recording, or musical compositions contained in your Public Content, as well as the name, image, likeness, and voice of anyone featured in Public Content that you create, upload, post, send, or appear in (including as reflected in your Bitmoji). This means, among other things, that you will not be entitled to any compensation if your content, videos, photos, sound recordings, musical compositions, name, image, likeness or voice are used by us, our affiliates, users of the Services or our business partners. The licences granted by you for Public Content continue for so long as the Public Content is on the Services and for a reasonable period of time after you remove or delete the Public Content from the Services (provided we may retain server copies of your Public Content indefinitely). For information about how to tailor who can watch your content, please take a look at our [Privacy Policy](https://values.snap.com/privacy/privacy-policy) and [Support Site](https://help.snapchat.com/). All Public Content must be appropriate for people ages 13+.
 
 To the extent permissible by law, you irrevocably waive — or agree not to assert against Snap or its affiliates — any moral rights or equivalent rights you may have in content you share on the Services throughout the world.
 
-While we’re not required to do so, we reserve the right to access, review, screen, and delete any content: (i) which we think violates these Terms or any applicable laws, including any additional terms referenced in Section 3, or our policies, such as our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines), or (ii) if necessary to comply with our legal obligations. However, you alone remain responsible for the content you create, upload, post, send or store through the Services.
+While we’re not required to do so, we reserve the right to access, review, screen, and delete any content: (i) which we think violates these Terms or any applicable laws, including any additional terms referenced in Section 3, or our policies, such as our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines), or (ii) if necessary to comply with our legal obligations. You alone, though, remain responsible for the content you create, upload, post, send, or store through the Services.
 
 We, Snap Inc., our affiliates, and our third-party partners may place advertising on the Services, including personalized advertising — with your consent, where required — based on the information you provide us, we collect, or we obtain about you. Advertising may sometimes appear near, between, over, or in your content.
 
 We always love to hear from our users. But if you provide feedback or suggestions, just know that we can use them without compensating you and without any restriction or obligation to you. You agree that we will own all rights in anything we develop based on such feedback or suggestions.
 
-_In summary: If you post content that you own to the Services, you remain the owner, but you allow us and other to use it to provide and promote our Services. You also allow other users to view and, in some cases, use any content you make available to others on the Services. We have various rights to change and remove your content, but you always remain responsible for everything you create, post or share._
+_In summary: If you post content that you own to the Services, you remain the owner, but you allow us and others to use it to provide and promote our Services. You also allow other users to view and, in some cases, use any content you make available to others on the Services. We have various rights to change and remove your content, but you always remain responsible for everything you create, post or share._
 
 3\. **Additional Terms for Specific Services**
 ----------------------------------------------
 
-Additional terms and conditions listed on the [Snap Terms & Policies](https://www.snap.com/en-GB/policies) page or that are otherwise made available to you may apply to specific Services. If you use those Services, then those additional terms may apply and will then become part of these Terms. If any of the applicable additional terms conflict with these terms, the additional terms will override and apply in place of the conflicting parts of these Terms while you are using the Services to which those additional terms apply.
+Additional terms and conditions listed on the [Snap Terms & Policies](https://www.snap.com/en-GB/policies) page or that are otherwise made available to you may apply to specific Services. If you use those Services, then those additional terms may apply and will then become part of these Terms. If any of the applicable additional terms conflict with these Terms, the additional terms will override and apply in place of the conflicting parts of these Terms while you are using the Services to which those additional terms apply.
 
 _In summary: Additional terms may apply, please take the time to read them carefully._
 
@@ -75,19 +73,19 @@ _In summary: Some of our Services provide personalized advertising and other rec
 6\. Content Moderation
 ----------------------
 
-Much of the content on our Services is produced by users, publishers and other third parties. Whether that content is posted publicly or sent privately, the content is the sole responsibility of the use or entity that submitted it. Although Snap reserves the right to review, moderate or remove all content that appears on the Services, we do not review all of it. So, we cannot - and do not - guarantee that other users or the content they provide through the Services will comply with our Terms, [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines) or our other terms, policies or guidelines. You can read more about Snap's approach to content moderation on our [Support Site](https://help.snapchat.com/).
+Much of the content on our Services is produced by users, publishers and other third parties. Whether that content is posted publicly or sent privately, the content is the sole responsibility of the user or entity that submitted it. Although Snap reserves the right to review, moderate or remove all content that appears on the Services, we do not review all of it. So, we cannot - and do not - guarantee that other users or the content they provide through the Services will comply with our Terms, [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines) or our other terms, policies or guidelines. You can read more about Snap's approach to content moderation on our [Support Site](https://help.snapchat.com/).
 
-Users can report content produced by other or other's accounts for violation of our Terms, [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines) or other guidelines and policies. More information about how to report content and accounts is available on our [Support Site](https://help.snapchat.com/).
+Users can report content produced by others or others’ accounts for violation of our Terms, [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines) or other guidelines and policies. More information about how to report content and accounts is available on our [Support Site](https://help.snapchat.com/).
 
 We hope you'll understand any decisions we make about content or user accounts, but if you have any complaints or concerns, you can use the submission form available [here](https://help.snapchat.com/) or use available in-app options. If you use this process, your complaint must be submitted within six months of the relevant decision.
 
 Upon receiving a complaint, we will:
 
-* Ensure the complaint is reviewed in a timely, non-discriminatory, diligent and non-arbitrary manner;
+* ensure the complaint is reviewed in a timely, non-discriminatory, diligent and non-arbitrary manner;
     
 * reverse our decision if we determine our initial assessment was incorrect; and
     
-* inform you of our decision and of any possibilities for re-dress promptly.
+* inform you of our decision and of any possibilities for redress promptly.
     
 
 _In summary: Most content on the Services is owned or controlled by others, and we don't have any control or responsibility over that content. We have content moderation policies and processes in place that apply to content on the Services._
@@ -103,49 +101,49 @@ You must also respect Snap's rights and adhere to the [Snapchat Brand Guidelines
     
 * violate or infringe Snap’s, our affiliates’ or any other third party’s copyrights, trademarks, or other intellectual property rights, including by using the Services to submit, display, post, create or generate any infringing content;
     
-* Copy, modify, archive, download, upload, disclose, distribute, sell, lease, syndicate, broadcast, perform, display, make available, make derivatives of, or otherwise use the Services or the content on the Services, other than temporary files that are automatically cached by your web browser for display purposes, as otherwise expressly permitted in these Terms, as otherwise expressly permitted by us in writing, or as enabled by the Service’s intended functionality;
+* copy, modify, archive, download, upload, disclose, distribute, sell, lease, syndicate, broadcast, perform, display, make available, make derivatives of, or otherwise use the Services or the content on the Services, other than temporary files that are automatically cached by your web browser for display purposes, as otherwise expressly permitted in these Terms, as otherwise expressly permitted by us in writing, or as enabled by the Service’s intended functionality;
     
 * create another account if we have already disabled your account, attempt to access the Services through unauthorized third-party applications, solicit login credentials from other users, or buy, sell, rent, or lease access to your account, a username, Snaps, or a friend link;
     
-* Reverse engineer, duplicate, decompile, disassemble, or decode the Services (including any underlying idea or algorithm), or otherwise extract the source code of the software of the Service;
+* reverse engineer, duplicate, decompile, disassemble, or decode the Services (including any underlying idea or algorithm), or otherwise extract the source code of the software of the Service;
     
-* You will not use any robot, spider, crawler, scraper or other automated means or interface to access the Services or extract other users’ information.
+* use any robot, spider, crawler, scraper or other automated means or interface to access the Services or extract other users’ information;
     
-* You will not use or develop any third-party applications that interact with the Services or other users’ content or information without our written consent.
+* use or develop any third-party applications that interact with the Services or other users’ content or information without our written consent;
     
-* You will not use the Services in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying the Services, or that could damage, disable, overburden, or impair the functioning of the Services in any manner;
+* use the Services in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying the Services, or that could damage, disable, overburden, or impair the functioning of the Services in any manner;
     
-* Upload viruses or other malicious code or otherwise compromise, bypass, or circumvent the security of the Services;
+* upload viruses or other malicious code or otherwise compromise, bypass, or circumvent the security of the Services;
     
-* Attempt to circumvent any content-filtering techniques we employ or attempt to access areas or features of the Services that you are not authorized to access;
+* attempt to circumvent any content-filtering techniques we employ or attempt to access areas or features of the Services that you are not authorized to access;
     
-* Probe, scan, or test the vulnerability of our Services or any system or network;
+* probe, scan, or test the vulnerability of our Services or any system or network;
     
-* Violate any applicable law or regulation in connection with your access to or use of the Services; or
+* violate any applicable law or regulation in connection with your access to or use of the Services; or
     
-* Access or use the Services in any way not expressly permitted by these Terms or our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines).
+* access or use the Services in any way not expressly permitted by these Terms or our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines).
     
 
 _In summary: We own or control all of the content, features and functionalities of the Services. To ensure the Services and other users are protected from harm, there are rules we need you to follow when you use our Services. Failure to comply with these rules may result in suspension or termination of your account._
 
-6\. Respecting others’ rights
+8\. Respecting Others' Rights
 -----------------------------
 
-Snap Inc. respects the rights of others. And so should you. You therefore may not use the Services, or enable anyone else to use the Services, in a manner that violates or infringes someone else’s rights of publicity, privacy, copyright, trademark, or other intellectual property right. When you submit content to the Services, you are solely responsible for ensuring and must ensure that you own that content, or that you have received all necessary permissions, clearance and authorizations in order to submit it to the Services (including, if applicable, the right to make mechanical reproductions of the musical works embodied in any sound recordings, synchronize any compositions to any content, publicly perform any compositions or sound recordings, or any other applicable rights for any music not provided by Snap that you include in your content) and grant the rights and licences contained in these Terms for your content. You also agree that you will not use or attempt to use another user's account except as permitted by Snap or its affiliates.
+Snap respects the rights of others. And so should you. You therefore may not use the Services, or enable anyone else to use the Services, in a manner that violates or infringes someone else’s rights of publicity, privacy, copyright, trademark, or other intellectual property right. When you submit content to the Services, you are solely responsible for ensuring and must ensure that you own that content, or that you have received all necessary permissions, clearance and authorizations in order to submit it to the Services (including, if applicable, the right to make mechanical reproductions of the musical works embodied in any sound recordings, synchronize any compositions to any content, publicly perform any compositions or sound recordings, or any other applicable rights for any music not provided by Snap that you include in your content) and grant the rights and licences contained in these Terms for your content. You also agree that you will not use or attempt to use another user's account except as permitted by Snap or its affiliates.
 
-Snap honours copyright laws, including the Digital Millennium Copyright Act and takes reasonable steps to expeditiously remove from our Services any infringing material that we become aware of. If Snap becomes aware that a user has repeatedly infringed copyrights, we will take reasonable steps within our power to suspend or terminate the user's account. If you believe that anything on the Services infringes a copyright that you own or control, please report it using the form accessible through this [tool](https://help.snapchat.com/hc/articles/7012332110996). Or you may file a notice with our designated agent: Snap Inc., Attn: Copyright Agent, 3000 31st Street, Santa Monica, CA 90405, email: copyright@snap.com. Please don’t use this email address for anything other than reporting copyright infringement, as such emails will be ignored. To report other forms of infringement on the Services, please use the tool accessible [here](https://help.snapchat.com/hc/articles/7012332110996). If you file a notice with our Copyright Agent, it must:
+Snap honours copyright laws, including the Digital Millennium Copyright Act and takes reasonable steps to expeditiously remove from our Services any infringing material that we become aware of. If Snap becomes aware that a user has repeatedly infringed copyrights, we will take reasonable steps within our power to suspend or terminate the user's account. If you believe that anything on the Services infringes a copyright that you own or control, please report it using the form accessible through this [tool](https://help.snapchat.com/hc/articles/7012332110996). Or you may file a notice with our designated agent: Snap Inc., Attn: Copyright Agent, 3000 31st Street, Santa Monica, CA 90405, email: copyright@snap.com. Don’t use this email address for anything other than reporting copyright infringement, as such emails will be ignored. To report other forms of infringement on the Services, please use the tool accessible [here](https://help.snapchat.com/hc/articles/7012332110996). If you file a notice with our Copyright Agent, it must:
 
-* Contain the physical or electronic signature of a person authorized to act on behalf of the copyright owner.
+* contain the physical or electronic signature of a person authorized to act on behalf of the copyright owner;
     
-* Identify the copyrighted work claimed to have been infringed.
+* identify the copyrighted work claimed to have been infringed;
     
-* Identify the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed, or access to which is to be disabled, and information reasonably sufficient to let us locate the material.
+* identify the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed, or access to which is to be disabled, and information reasonably sufficient to let us locate the material;
     
-* Provide your contact information, including your address, telephone number and an email address.
+* provide your contact information, including your address, telephone number and an email address;
     
-* Provide a personal statement that you have a belief in good faith that the use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+* provide a personal statement that you have a good-faith belief that the use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
     
-* Provide a statement that the information in the notification is accurate and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
+* provide a statement that the information in the notification is accurate and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
     
 
 _In summary: Make sure you own or have the right to use any content you make available on the Services. If you use content owned by someone else without permission, we may terminate your account. If you see anything which you believe infringes your intellectual property rights, let us know._
@@ -161,10 +159,10 @@ We also care about your physical safety while using our Services. So do not use 
 
 _In summary: We try to make our Services as safe as possible, but we need your help. These Terms, our Community Guidelines and other Snap policies contain important information about how to keep the Services and other users safe. And never put yourself or others in harm's way when using our Services._
 
-10\. Your account
+10\. Your Account
 -----------------
 
-To use certain Services, you need to create an account. You agree to provide us with accurate, complete, and updated information for your account. Except in the unlikely event that activity occurs in your account outside of your control, you are responsible for any activity that occurs in your account. So it’s important that you keep your account secure. One way to help keep your account secure is to select a strong password that you don’t use for any other account and to enable two-factor authentication. If you think that someone has gained access to your account, please reach out to Snapchat [Support](https://help.snapchat.com/hc/articles/7012305621908), immediately. Any software that we provide to you may automatically download and install upgrades, updates, or other new features. You may be able to adjust these automatic downloads through your device’s settings. You agree not to create any account if we have previously removed or banned you or your account from any of our Services, unless we consent otherwise.
+To use certain Services, you need to create an account. You agree to provide us with accurate, complete, and updated information for your account. Except in the unlikely event that activity occurs in your account outside of your control, you are responsible for any activity that occurs in your account. So it’s important that you keep your account secure. One way to help keep your account secure is to select a strong password that you don’t use for any other account and to enable two-factor authentication. If you think that someone has gained access to your account, please reach out to [Support](https://help.snapchat.com/hc/articles/7012305621908), immediately. Any software that we provide to you may automatically download and install upgrades, updates, or other new features. You may be able to adjust these automatic downloads through your device’s settings. You agree not to create any account if we have previously removed or banned you or your account from any of our Services, unless we consent otherwise.
 
 _In summary: Keep your account details safe and secure. Only use an account if you are authorized by us to do so._
 
@@ -177,18 +175,18 @@ One of the options we provide with Memories is the ability to create a restricte
 
 Your content in Memories might become unavailable for any number of reasons, including things like an operational glitch or a decision on our end to terminate your account. Since we can’t promise that your content will always be available, we recommend keeping a separate copy of content you save to Memories. We make no promise that Memories will be able to accommodate your precise storage needs. We reserve the right to set storage limits for Memories, or to prohibit certain types of content from being eligible for use with Memories, and we may change these limits from time to time in our sole discretion.
 
-_In summary: Memories will be automatically enabled, but you can control some features. Please be careful with your Memories passcode as we can't help you recover it if you forget. We cannot guarantee that any Memories will be stores forever either, so please do keep a backup._
+_In summary: Memories will be automatically enabled, but you can control some features. Please be careful with your Memories passcode as we can't help you recover it if you forget. We cannot guarantee that any Memories will be stored forever either, so please do keep a backup._
 
 12\. Data Charges and Mobile Phones
 -----------------------------------
 
 You are responsible for any mobile charges that you may incur for using our Services. This includes data charges and charges for messaging, such as SMS. MMS or other messaging protocols or technologies (collectively, "Messages"). If you’re unsure what those charges may be, you should ask your service provider before using the Services.
 
-By providing us with your mobile phone number you agree, among other things, to receive Messages from Snap related to the Services, including about promotion (where we have consent or as permitted by law), your account, and your relationship with Snap. These Messages may be received even if your mobile phone number is registered on any kind of "Do Not Call" list, or international equivalent.
+By providing us with your mobile phone number you agree, among other things, to receive Messages from Snap related to the Services, including about promotions (where we have consent or as permitted by law), your account, and your relationship with Snap. These Messages may be received even if your mobile phone number is registered on any kind of "Do Not Call" list, or international equivalent.
 
-If you change or deactivate the mobile phone number that you used to create a Snapchat account, you must update your account information through Settings within 72 hours to prevent us from sending to someone else messages intended for you.
+If you change or deactivate the mobile phone number that you used to create an account, you must update your account information through Settings within 72 hours to prevent us from sending to someone else messages intended for you.
 
-_In summary: we may send you Messages, and mobile charges may apply when you use our Services._
+_In summary: We may send you Messages, and mobile charges may apply when you use our Services._
 
 13\. Third-Party Materials and Services
 ---------------------------------------
@@ -211,7 +209,7 @@ _In summary: Our Services are going to evolve over time. We may update these Ter
 
 While we hope you remain a lifelong Snapchatter, you can terminate these Terms at any time if you do not agree with any changes we make to these Terms, or for any other reason, by deleting your Snapchat account (or, in some cases, the account associated with the applicable part of the Services you are using).
 
-We may restrict, terminate or temporarily suspend your access to the Services if you fail to comply with these Terms, our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines) or the law, for reasons outside of our control, or for any other reason. That means that we may terminate these Terms, stop providing you with all or any part of the Services, or impose new or additional limits on your ability to use our Services. For example. We may deactivate your account due to prolonged inactivity, and we may reclaim your username at any time for any reason. And while we'll try to give you reasonable notice beforehand, we can't guarantee that notice will be possible in all circumstances.
+We may restrict, terminate or temporarily suspend your access to the Services if you fail to comply with these Terms, our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines) or the law, for reasons outside of our control, or for any other reason. That means that we may terminate these Terms, stop providing you with all or any part of the Services, or impose new or additional limits on your ability to use our Services. For example, we may deactivate your account due to prolonged inactivity, and we may reclaim your username at any time for any reason. And while we'll try to give you reasonable notice beforehand, we can't guarantee that notice will be possible in all circumstances.
 
 Where we restrict, terminate or suspend your access to the Services for violation of our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines), we will notify you and provide an opportunity for you to appeal.
 
@@ -233,11 +231,11 @@ _In summary: If you cause us some damage, you will compensate us._
 
 We will try hard to keep the Services up and running and free of annoyances. But we make no promises that we will succeed.
 
-The Services are provided "as is" and "as available" and to the extent permitted by law and except as state above, without warranties of any kind, either express or implied, including, in particular implied warranties, conditions or other terms relating to: (a) merchantability, satisfactory quality, fitness for a particular purpose, title, quiet enjoyment, non-infringement, or (b) arising from a course of dealing. In addition, while we attempt to provide a good user experience, we do not represent or warrant that: (i) the Services will always be entirely secure, error-free or timely, (ii) the Services will always function without delays, disruption or imperfections, or (iii) any content or information you obtain through the services will always be timely or accurate.
+The Services are provided "as is" and "as available" and to the extent permitted by law and except as stated above, without warranties of any kind, either express or implied, including, in particular implied warranties, conditions or other terms relating to: (a) merchantability, satisfactory quality, fitness for a particular purpose, title, quiet enjoyment, non-infringement, or (b) arising from a course of dealing. In addition, while we attempt to provide a good user experience, we do not represent or warrant that: (i) the Services will always be entirely secure, error-free or timely, (ii) the Services will always function without delays, disruption or imperfections, or (iii) any content or information you obtain through the Services will always be timely or accurate.
 
-IF THE LAW OF THE COUNTRY WHERE YOU LIVE DOES NOT ALLOW THE EXCLUSIONS OF LIABILITY PROVIDED FOR IN THIS CLAUSE, THOSE EXCLUSIONS SHALL NOT APPLY TO THE EXTENT PROHIBITED.
+IF THE LAW OF THE COUNTRY WHERE YOU LIVE DOES NOT ALLOW THE EXCLUSIONS PROVIDED FOR IN THIS CLAUSE, THOSE EXCLUSIONS SHALL NOT APPLY TO THE EXTENT PROHIBITED.
 
-To the fullest extent permitted by law, Snap, Snap Inc., and our affiliates take no responsibility and assume no liability for any content that you, another user, or a third-party creates, uploads, posts, sends, receive, views or stores on or through our Services and you understand and agree that you may be exposed to content that might be offensive, illegal, misleading or otherwise inappropriate, none of which Snap, Snap Inc. nor our affiliates will be responsible for.
+To the fullest extent permitted by law, Snap, Snap Inc., and our affiliates take no responsibility and assume no liability for any content that you, another user, or a third-party creates, uploads, posts, sends, receives, views or stores on or through our Services and you understand and agree that you may be exposed to content that might be offensive, illegal, misleading or otherwise inappropriate, none of which Snap, Snap Inc. nor our affiliates will be responsible for.
 
 Nothing in these Terms will exclude or limit any responsibility we may have to remove content if so required by the law of the country where you live.
 
@@ -270,12 +268,12 @@ _In summary: Get in touch with us if you have a complaint. Disputes with busines
 20\. Exclusive Venue
 --------------------
 
-To the extent the parties are permitted under these Terms to initiate litigation in a court, both you and Snap Group Limited agree that all claims and disputes (whether contractual or otherwise) arising out of or relating to the Terms or the use of the Services will be litigated exclusively in the courts of England in the United Kingdom, unless this is prohibited by the laws of the country where you reside. You and Snap Group Limited consent to the exclusive jurisdiction of those courts.
+To the extent that these Terms allow you or Snap to initiate litigation in a court, both you and Snap agree that all claims and disputes (whether contractual or otherwise) arising out of or relating to the Terms or the use of the Services will be litigated exclusively in the courts of England in the United Kingdom, unless this is prohibited by the laws of the country where you reside. You and Snap consent to the exclusive jurisdiction of those courts.
 
 21\. Choice of Law
 ------------------
 
-The laws of England and Wales govern these Terms and any claims and disputes (whether contractual contract, tort, or otherwise) arising out of or relating to these Terms or their subject matter. The courts in some countries may not apply the laws of England and Wales to some disputes related to these Terms. If you reside in one of those countries, the laws of your home country may apply to those disputes.
+The laws of England and Wales govern these Terms and any claims and disputes (whether contract, tort, or otherwise) arising out of or relating to these Terms or their subject matter. The courts in some countries may not apply the laws of England and Wales to some disputes related to these Terms. If you reside in one of those countries, the laws of your home country may apply to those disputes.
 
 22\. Severability
 -----------------
