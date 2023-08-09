@@ -245,7 +245,7 @@ We want you to be in control of your information, so we provide you with the fol
 * Advertising Preferences. We try to show you ads that we think will be relevant to your interests. If you would like to modify the information we and our advertising partners use to select these ads, you can do so in the app and through your device preferences. Go [here](https://help.snapchat.com/hc/articles/7012345515796) to learn more.
     
 
-* Tracking. For users who run devices with iOS 14.5 or more recent, some specific requirements apply. We’ve specified those [here](https://values.snap.com/privacy/ads-privacy). 
+* Tracking. For users who run devices with iOS 14.5 or more recent, some specific requirements apply. We’ve specified those [here](https://values.snap.com/privacy/ads-privacy#controlling-ads). 
     
 
 * Communicating with other Snapchatters. It’s important to us that you stay in control over whom you communicate with. That’s why we’ve built a number of tools in Settings that let you indicate, among other things, who you want to see your Stories, whether you’d like to receive Snaps from just your friends, your friends and contacts, or all Snapchatters, and whether you’d like to block another Snapchatter from contacting you again. Go [here](https://help.snapchat.com/hc/articles/7012343074580) to learn more.
