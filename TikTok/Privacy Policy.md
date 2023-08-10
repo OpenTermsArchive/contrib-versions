@@ -109,7 +109,7 @@ We share your information in other limited scenarios as follows:
 
   
 
-**Independent Researchers:** We share your information with independent researchers to facilitate research that meets certain criteria as described in [Our Legal Bases and How We Process Your Information](#legal-base).
+**Independent Researchers:** We share your information with independent researchers to facilitate research that meets certain criteria as described in [Our Legal Bases and How We Process Your Information](#legal-base)
 
   
 
@@ -193,7 +193,7 @@ We use your information where this is necessary to achieve legitimate interests 
 
 **Facilitate independent research.**
 
-* We share your information with Independent Researchers to facilitate research that meets certain criteria, including where such researchers have demonstrable experience and expertise in their area.
+* We share your information with Independent Researchers to facilitate research that meets certain criteria, including where such researchers have demonstrable experience and expertise in their area. Click [here](https://developers.tiktok.com/doc/about-research-api/) to learn more.
 * **Legitimate Interest relied upon**: To facilitate independent research that aims to develop society’s collective knowledge, including in the areas of misinformation and disinformation, violence, cybercrime, and social trends.
 * **Information used**: [Information You Provide](#info-you-provide) , [Automatically Collected Information](#auto-collect-info).
 
