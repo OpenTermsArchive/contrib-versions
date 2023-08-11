@@ -1,7 +1,7 @@
 Amazon.com Privacy Notice
 =========================
 
-**Last updated: June 30, 2023.** To see prior version, click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=202056900).
+**Last updated: August 11, 2023.** To see prior version, click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=202056900).
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Notice describes how Amazon.com and its affiliates (collectively "Amazon") collect and process your personal information through Amazon websites, devices, products, services, online and physical stores, and applications that reference this Privacy Notice (together "Amazon Services"). **By using Amazon Services, you are consenting to the practices described in this Privacy Notice.**
 
@@ -14,7 +14,7 @@ We know that you care how information about you is used and shared, and we appre
 * [What Information Can I Access?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_002EF744608C4F9CAA7685BECC6C85FC)
 * [What Choices Do I Have?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_697E8F46A0354B3B83E1A0D4C2FA52EE)
 * [Are Children Allowed to Use Amazon Services?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_D17374D6EE5B4077946965351E11175C)
-* [EU-US and Swiss-US Privacy Shield](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_A110DAC3F6BC4D5D9DDD59797104B1E5)
+* [EU-US and Swiss-US Data Privacy Framework](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_A110DAC3F6BC4D5D9DDD59797104B1E5)
 * [Additional State-Specific Privacy Disclosures](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_FE2374D302994717AB1A8CE585E7E8BE)
 * [Conditions of Use, Notices, and Revisions](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_BA2E1D5A9B1F41CB86BCF0A40D9B8604)
 * [Related Practices and Information](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_644071FEF22E48A2A160BAA332F95B27)
@@ -39,7 +39,7 @@ We use your personal information to operate, provide, develop, and improve the p
 * **Purchase and delivery of products and services.** We use your personal information to take and handle orders, deliver products and services, process payments, and communicate with you about orders, products and services, and promotional offers.
 * **Provide, troubleshoot, and improve Amazon Services.** We use your personal information to provide functionality, analyze performance, fix errors, and improve the usability and effectiveness of the Amazon Services.
 * **Recommendations and personalization.** We use your personal information to recommend features, products, and services that might be of interest to you, identify your preferences, and personalize your experience with Amazon Services.
-* **Provide voice, image and camera services.** When you use our voice, image and camera services, we use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services. For more information about Alexa voice services, click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=GVP69FUJ48X9DK8V).
+* **Provide voice, image and camera services.** When you use our voice, image and camera services, we use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services. For more information about Alexa voice services , click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=GVP69FUJ48X9DK8V).
 * **Comply with legal obligations.** In certain cases, we collect and use your personal information to comply with laws. For instance, we collect from sellers information regarding place of establishment and bank account information for identity verification and other purposes.
 * **Communicate with you.** We use your personal information to communicate with you in relation to Amazon Services via different channels (e.g., by phone, email, chat).
 * **Advertising.** We use your personal information to display interest-based ads for features, products, and services that might be of interest to you. We do not use information that personally identifies you to display interest-based ads. To learn more, please read our [Interest-Based Ads](https://www.amazon.com/ibanotice) notice.
@@ -108,10 +108,12 @@ Are Children Allowed to Use Amazon Services?
 
 Amazon does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Amazon Services only with the involvement of a parent or guardian. We do not knowingly collect personal information from children under the age of 13 without the consent of the child's parent or guardian. For more information, please see our [Children's Privacy Disclosure](https://www.amazon.com/childprivacydisclosure).
 
-EU-US and Swiss-US Privacy Shield
----------------------------------
+EU-US and Swiss-US Data Privacy Framework
+-----------------------------------------
 
-Amazon.com, Inc. participates in the EU-US and Swiss-US Privacy Shield frameworks. Click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=G202135380) to learn more.
+Amazon.com, Inc. participates in the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework\*. Click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=G202135380) to learn more.
+
+_\*We will not rely on the Swiss-US Data Privacy Framework or the UK Extension to the EU-US Data Privacy Framework until they enter into force, but we adhere to their required commitments in anticipation of their doing so._
 
 Additional State-Specific Privacy Disclosures
 ---------------------------------------------
