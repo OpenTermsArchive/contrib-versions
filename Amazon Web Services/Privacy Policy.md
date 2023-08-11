@@ -1,9 +1,9 @@
 Privacy Notice
 ==============
 
-#### Last Updated: June 30, 2023
+#### Last Updated: August 11, 2023
 
-To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20230505/).
+To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20230630/).
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -21,7 +21,7 @@ This Privacy Notice does not apply to the “content” processed, stored, or ho
     
 * [Retention of Personal Information](#Retention_of_Personal_Information)
 * [Contacts, Notices, and Revisions](#Contacts.2C_Notices.2C_and_Revisions)
-* [EU-US and Swiss-US Privacy Shield](#EU-US_and_Swiss-US_Privacy_Shield)
+* [EU-US and Swiss-US Data Privacy Framework](#EU-US_and_Swiss-US_Data_Privacy_Framework)
 * [Additional Information for Certain Jurisdictions](#Additional_Information_for_Certain_Jurisdictions)
 * [Examples of Information Collected](#Examples_of_Information_Collected)  
     
@@ -116,11 +116,11 @@ If you interact with AWS Offerings on behalf of or through your organization, th
 
 Our business changes constantly, and our Privacy Notice may also change. You should check our website frequently to see recent changes. You can see the date on which the latest version of this Privacy Notice was posted. Unless stated otherwise, our current Privacy Notice applies to all personal information we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of personal information collected in the past without informing affected customers and giving them a choice.  
 
-#### EU-US and Swiss-US Privacy Shield
+#### EU-US and Swiss-US Data Privacy Framework
 
-_**We do not rely on the Privacy Shield but continue to keep to the commitments that we made when we certified to the Privacy Shield.**_
+Amazon Web Services, Inc. participates in the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework\*. Click [here](https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=202135380) to learn more.
 
-Amazon Web Services, Inc. participates in the EU-US and Swiss-US Privacy Shield frameworks. Click [here](https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=202135380) to learn more.
+\*We will not rely on the Swiss-US Data Privacy Framework or the UK Extension to the EU-US Data Privacy Framework until they enter into force, but we adhere to their required commitments in anticipation of their doing so.
 
 #### Additional Information for Certain Jurisdictions
 
@@ -216,7 +216,7 @@ We provide additional information about our controllers and data protection offi
     
 * India
     
-    For any prospective or current customers of Amazon Internet Services Private Limited, our mailing address is: Amazon Internet Services Private Limited, Block E, 14th Floor, Unit Nos. 1401 to 1421, International Trade Tower, Nehru Place, New Delhi, Delhi 110019, India, ATTN: AISPL Legal.
+    For any prospective or current customers of Amazon Web Services India Private Limited (formerly known as Amazon Internet Services Private Limited), our mailing address is: Amazon Web Services India Private Limited, Block E, 14th Floor, Unit Nos. 1401 to 1421, International Trade Tower, Nehru Place, New Delhi, Delhi 110019, India, ATTN: AWS India Legal.
     
 * Japan
     
@@ -503,9 +503,9 @@ Customers can access the information above through AWS Offerings, such as the [A
 Privacy Notice
 ==============
 
-#### Last Updated: June 30, 2023
+#### Last Updated: August 11, 2023
 
-To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20230505/).
+To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20230630/).
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -523,7 +523,7 @@ This Privacy Notice does not apply to the “content” processed, stored, or ho
     
 * [Retention of Personal Information](#Retention_of_Personal_Information)
 * [Contacts, Notices, and Revisions](#Contacts.2C_Notices.2C_and_Revisions)
-* [EU-US and Swiss-US Privacy Shield](#EU-US_and_Swiss-US_Privacy_Shield)
+* [EU-US and Swiss-US Data Privacy Framework](#EU-US_and_Swiss-US_Data_Privacy_Framework)
 * [Additional Information for Certain Jurisdictions](#Additional_Information_for_Certain_Jurisdictions)
 * [Examples of Information Collected](#Examples_of_Information_Collected)  
     
@@ -618,11 +618,11 @@ If you interact with AWS Offerings on behalf of or through your organization, th
 
 Our business changes constantly, and our Privacy Notice may also change. You should check our website frequently to see recent changes. You can see the date on which the latest version of this Privacy Notice was posted. Unless stated otherwise, our current Privacy Notice applies to all personal information we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of personal information collected in the past without informing affected customers and giving them a choice.  
 
-#### EU-US and Swiss-US Privacy Shield
+#### EU-US and Swiss-US Data Privacy Framework
 
-_**We do not rely on the Privacy Shield but continue to keep to the commitments that we made when we certified to the Privacy Shield.**_
+Amazon Web Services, Inc. participates in the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework\*. Click [here](https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=202135380) to learn more.
 
-Amazon Web Services, Inc. participates in the EU-US and Swiss-US Privacy Shield frameworks. Click [here](https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=202135380) to learn more.
+\*We will not rely on the Swiss-US Data Privacy Framework or the UK Extension to the EU-US Data Privacy Framework until they enter into force, but we adhere to their required commitments in anticipation of their doing so.
 
 #### Additional Information for Certain Jurisdictions
 
@@ -718,7 +718,7 @@ We provide additional information about our controllers and data protection offi
     
 * India
     
-    For any prospective or current customers of Amazon Internet Services Private Limited, our mailing address is: Amazon Internet Services Private Limited, Block E, 14th Floor, Unit Nos. 1401 to 1421, International Trade Tower, Nehru Place, New Delhi, Delhi 110019, India, ATTN: AISPL Legal.
+    For any prospective or current customers of Amazon Web Services India Private Limited (formerly known as Amazon Internet Services Private Limited), our mailing address is: Amazon Web Services India Private Limited, Block E, 14th Floor, Unit Nos. 1401 to 1421, International Trade Tower, Nehru Place, New Delhi, Delhi 110019, India, ATTN: AWS India Legal.
     
 * Japan
     
