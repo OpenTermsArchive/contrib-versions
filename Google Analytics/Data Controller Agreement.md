@@ -326,18 +326,18 @@ The Google End Controllers are: (i) for European Controller Personal Data proces
 **5.7 Data Deletion on Termination**. To the extent that:
 
 * (a) Google LLC acts as data importer and Customer acts as data exporter under the Controller SCCs; and
-* (b) Customer terminates the Agreement in accordance with Clause 16(c) of the Controller SCCs, then for the purposes of Clause 16(d) of the Controller SCCs, Customer directs Google to delete Controller Personal Data, and, unless European Laws require storage, Google will facilitate such deletion as soon as is reasonably practicable, to the extent such deletion is reasonably possible (taking into account that Google is an independent Controller of such data, as well as the nature and functionality of the Controller Services).
+* (b) Customer terminates the Agreement in accordance with Clause 16(c) of the Controller SCCs, then for the purposes of Clause 16(d) of the Controller SCCs, Customer directs Google to delete Controller Personal Data, and, unless European Laws require storage, Google will facilitate such deletion as soon as is reasonably practicable, to the extent such deletion is reasonably possible (taking into account that Google is an independent Controller of such data, as well as the nature and functionality of the Measurement Services).
 
 ### 6\. Liability if Controller SCCs Apply.
 
 If Controller SCCs apply under paragraph 5 (Controller SCCs) of this Appendix 1A, then the total combined liability of:
 
 * (a) Google, Google LLC and Google Ireland Limited towards Customer; and
-* (b) Customer towards Google, Google LLC and Google Ireland Limited, under or in connection with the Agreement and the Controller SCCs combined will be subject to Section 6 (Liability). Clause 12 of the Controller SCCs will not affect the previous sentence.
+* (b) Customer towards Google, Google LLC and Google Ireland Limited, under or in connection with the Agreement and the Controller SCCs combined will be subject to Section 5 (Liability). Clause 12 of the Controller SCCs will not affect the previous sentence.
 
 ### 7\. Third-Party Beneficiaries
 
-Where Google LLC and/or Google Ireland Limited are not a party to the Agreement but are a party to the applicable Controller SCCs in accordance with paragraph 5 (Controller SCCs) of this Appendix 1A, Google LLC and/or Google Ireland Limited (as applicable) will be a third-party beneficiary of Section 4.3 (End Controllers), paragraphs 3 (Google End Controllers), 5 (Controller SCCs) and 6 (Liability if Controller SCCs Apply) of this Appendix 1A. To the extent this paragraph 7 (Third-Party Beneficiaries) conflicts or is inconsistent with any other clause in the Agreement, this paragraph 7 (Third-Party Beneficiaries) will apply.
+Where Google LLC and/or Google Ireland Limited are not a party to the Agreement but are a party to the applicable Controller SCCs in accordance with paragraph 5 (Controller SCCs) of this Appendix 1A, Google LLC and/or Google Ireland Limited (as applicable) will be a third-party beneficiary of Section 4.4 (End Controllers), paragraphs 3 (Google End Controllers), 5 (Controller SCCs) and 6 (Liability if Controller SCCs Apply) of this Appendix 1A. To the extent this paragraph 7 (Third-Party Beneficiaries) conflicts or is inconsistent with any other clause in the Agreement, this paragraph 7 (Third-Party Beneficiaries) will apply.
 
 ### 8\. Precedence
 
@@ -351,13 +351,13 @@ Where Google LLC and/or Google Ireland Limited are not a party to the Agreement 
 
 **1\. Introduction**
 
-Google may offer and Customer may enable certain in-product settings, configurations or other functionality for the Controller Services relating to restricted data processing, as described in supporting documentation available at [business.safety.google/rdp](https://business.safety.google/rdp), as updated from time to time (“**Restricted Data Processing**”). This Appendix 1B reflects the parties’ agreement on the processing of Customer Personal Data and Deidentified Data (as defined below) pursuant to the Agreement in connection with the US State Privacy Laws, and is effective solely to the extent each US State Privacy Law applies.
+Google may offer and Customer may enable certain in-product settings, configurations or other functionality for the Measurement Services relating to restricted data processing, as described in supporting documentation available at [business.safety.google/rdp](https://business.safety.google/rdp), as updated from time to time (“**Restricted Data Processing**”). This Appendix 1B reflects the parties’ agreement on the processing of Customer Personal Data and Deidentified Data (as defined below) pursuant to the Agreement in connection with the US State Privacy Laws, and is effective solely to the extent each US State Privacy Law applies.
 
 **2\. Additional Definitions and Interpretation.**
 
 In this Appendix 1B:
 
-* (a) “**Customer Personal Data**” means personal data that is processed by Google on behalf of Customer in Google’s provision of Controller Services.
+* (a) “**Customer Personal Data**” means personal data that is processed by Google on behalf of Customer in Google’s provision of Measurement Services.
 * (b) “**Deidentified Data**” means data information that is “deidentified” (as that term is defined by the CCPA) and “de-identified data” (as defined by other US State Privacy Laws), when disclosed by one party to the other.
 * (c) “**Instructions**” means, collectively, Customer’s instructions to Google to process Customer Personal Data only in accordance with US State Privacy Laws: (a) to provide the RDP Services and any related technical support; (b) as further specified through Customer’s use of the RDP Services (including in the settings and other functionality of such RDP Services) and any related technical support; (c) as documented in the form of the Agreement, including this Appendix 1B; (d) as further documented in any other written instructions given by Customer and acknowledged by Google as constituting instructions for purposes of this Appendix 1B; and (e) to process Customer Personal Data as permitted under US State Privacy Laws for service providers and processors.
 * (d) “**RDP Services**” means Controller Services operating under Restricted Data Processing.
@@ -455,7 +455,7 @@ In this Appendix 1B:
 
 **4\. US State Privacy Law Terms**
 
-**4.1 Deidentified Data.** With respect to Customer Personal Data processed with or without Restricted Data Processing enabled, and to the extent that one or more of the US State Privacy Laws applies to the processing of Customer Personal Data, each party will comply with the requirements for processing Deidentified Data set out in the US State Privacy Laws, with respect to any Deidentified Data it receives from the other party pursuant to the Agreement. For purposes of this paragraph 4.1 (Deidentified Data), Customer Personal Data means any personal data that is processed by a party under the Agreement in connection with its provision or use of the Controller Services.
+**4.1 Deidentified Data.** With respect to Customer Personal Data processed with or without Restricted Data Processing enabled, and to the extent that one or more of the US State Privacy Laws applies to the processing of Customer Personal Data, each party will comply with the requirements for processing Deidentified Data set out in the US State Privacy Laws, with respect to any Deidentified Data it receives from the other party pursuant to the Agreement. For purposes of this paragraph 4.1 (Deidentified Data), Customer Personal Data means any personal data that is processed by a party under the Agreement in connection with its provision or use of the Measurement Services.
 
 **5.Google’s CCPA Obligations.**
 
@@ -472,7 +472,7 @@ In this Appendix 1B:
 
 5.2 With respect to Customer Personal Data processed without Restricted Data Processing enabled, and to the extent that CCPA applies to the processing of Customer Personal Data:
 
-* (a) Google will process such Customer Personal Data for the specific purpose of performing the Controller Services, as applicable, as further described in the Agreement and supporting documentation (e.g., help center articles), or as otherwise permitted under the CCPA, and the parties agree that Customer is making such Customer Personal Data available to Google for such purposes;
+* (a) Google will process such Customer Personal Data for the specific purpose of performing the Measurement Services, as applicable, as further described in the Agreement and supporting documentation (e.g., help center articles), or as otherwise permitted under the CCPA, and the parties agree that Customer is making such Customer Personal Data available to Google for such purposes;
 * (b) Google will allow audits to verify Google’s compliance with its obligations under this Appendix 1B in accordance with paragraph 3.3.3(c) (Customer’s Audit Rights) herein;
 * (c) Google will notify Customer if Google makes a determination that it can no longer meet its obligations under the CCPA;
 * (d) If Customer reasonably believes that Google is processing Customer Personal Data in an unauthorized manner, Customer has the right to notify Google of such belief via the methods described at [privacy.google.com/businesses/processorsupport](https://privacy.google.com/businesses/processorsupport), and the parties will work together in good faith to remediate the allegedly violative processing activities, if necessary; and
