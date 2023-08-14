@@ -1642,12 +1642,12 @@ Article 3. Method of Use and Storage Fees
     
     ■ Maximum Number of Stored Products by Size ■
     
-    Yu-packet size
+    Nekopos size
     
     Product type and size
     =====================
     
-    Total of length, width, and height up to 60cm: Up to 34 cm length/width cm and up to 3 cm height
+    Up to 31.2 cm length, up to 22.8 cm width and up to 2.5 cm height
     
     Weight when packaged
     ====================
@@ -1842,7 +1842,7 @@ Article 7. Product Shipping on behalf of User and its Charges
 1. User shall pay to the Company the shipping fees specified in Paragraph 4 and storage shipping fees specified in Paragraph 5 of this article (referred as "Shipping fees etc.) for each parcel of stored products that the Company ships on behalf of User. Shipping fees shall not be refunded for any reason. Shipping fees shall be based on the amount of products delivered and shall be invoiced when a product sale is formed and the product is shipped. Selection of the method of shipping, shipping company, and so on shall be determined by the Company.
 2. The Company may at its discretion change shipping rates.
 3. Except for circumstances relating to the day of suspension of shipping operations for which prior notice is provided by the Company to User, in the event there is a possibility of User being disadvantaged as a result of loss of or damage to products as a result of the Company’s negligence, the Company shall use its reasonable efforts to control the situation. User shall have the right to consult with the Company regarding damage incurred and demand compensatory damages, and the Company shall pay compensation for products up to the lower cost of 10,000 yen or the sale amount of the products to the extent attributable to the Company.
-4. The shipping fees when the Company ships products on behalf of User via the Storage Service shall be, 400 yen per parcel in the case of Yu-packet (total of length, width, and height up to 60cm, with up to 34 cm length/width, up to 3cm height, and up to 1kg weight) and 730 yen per parcel in the case of home delivery service (Ta-Q-BIN) (total of length, width, and height up to 160 cm, up to 25 kg weight). The Company may, at its discretion, calculate the number of boxes necessary according to the quantity of products at the time of product shipment, calculate the shipping fees on the basis of the number of boxes, and invoice User.
+4. The shipping fees when the Company ships products on behalf of User via the Storage Service shall be, 400 yen per parcel in the case of Nekopos (up to 31.2 cm length, up to 22.8 cm width, up to 2.5 cm height, and up to 1kg weight) and 730 yen per parcel in the case of home delivery service (Ta-Q-BIN) (total of length, width, and height up to 160 cm, up to 25 kg weight). The Company may, at its discretion, calculate the number of boxes necessary according to the quantity of products at the time of product shipment, calculate the shipping fees on the basis of the number of boxes, and invoice User.
 5. The storage shipping fees cost 26 yen per order.
 
 Article 8. Refusal to Accept Product Storage
@@ -2086,6 +2086,7 @@ Supplementary Provisions
 Revision
 --------
 
+* August 14, 2023 "Article 3. Method of Use and Storage Fees" and "Article 7. Product Shipping on behalf of User and its Charges" were modified.
 * March 30, 2020 As related as individual terms of Master Terms of Use, overall terms of Individual Terms of Use were modified.
 * February 1, 2019
 * August 1, 2017
