@@ -59,7 +59,7 @@ The above information should be submitted to the following designated agent:
 > Attn: DMCA Notice  
 > 286 Spring Street #2, Portland, ME 04102  
 > Phone: 207-899-4108  
-> Email: [info![AT SIGN](https://lt-pics.s3.amazonaws.com/pics/squiggle.gif)librarything.com](mailto:info@librarything.com)
+> Email: [info![AT SIGN](https://image.librarything.com/pics/squiggle.gif)librarything.com](mailto:info@librarything.com)
 
 UNDER FEDERAL LAW, IF YOU KNOWINGLY MISREPRESENT THAT ONLINE MATERIAL IS INFRINGING, YOU MAY BE SUBJECT TO CRIMINAL PROSECUTION FOR PERJURY AND CIVIL PENALTIES, INCLUDING MONETARY DAMAGES, COURT COSTS, AND ATTORNEYS' FEES.
 
