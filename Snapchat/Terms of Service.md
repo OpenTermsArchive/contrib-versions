@@ -66,9 +66,9 @@ Your privacy matters to us. You can learn how your information is handled when y
 5\. Personalized Recommendations
 --------------------------------
 
-Our Services provide personalized recommendations. This is designed to make our Services more relevant and engaging for you. We will recommend content, advertising and other information to you based on what we know and infer about your and others' interests from use of our Services. It is necessary for us to handle your personal data for this purpose, as we explain in our [Privacy Policy](https://values.snap.com/privacy/privacy-policy). Is it also a condition of our contract with you for us to be able to do so, unless you opt to receive less personalization in the Services. You can find more information on personalized recommendations on our [Support Site](https://help.snapchat.com/hc/articles/17338132910484).
+Our Services provide personalized recommendations. This is designed to make our Services more relevant and engaging for you. We will recommend content, advertising and other information to you based on what we know and infer about your and others' interests from use of our Services. It is necessary for us to handle your personal data for this purpose, as we explain in our [Privacy Policy](https://values.snap.com/privacy/privacy-policy). Is it also a condition of our contract with you for us to be able to do so, unless you opt to receive less personalization in the Services. You can find more information on personalized recommendations on our [Support Site](https://help.snapchat.com/hc/articles/17338132910484?utm_source=web&utm_medium=tos&utm_campaign=personalization_opt_out).
 
-_In summary: Some of our Services provide personalized advertising and other recommendations to you based on data we collect as explained_ [_here_](https://help.snapchat.com/hc/articles/17338132910484) _and in our_ [_Privacy Policy_](https://values.snap.com/privacy/privacy-policy)_._
+_In summary: Some of our Services provide personalized advertising and other recommendations to you based on data we collect as explained_ [_here_](https://help.snapchat.com/hc/articles/17338132910484?utm_source=web&utm_medium=tos&utm_campaign=personalization_opt_out) _and in our_ [_Privacy Policy_](https://values.snap.com/privacy/privacy-policy)_._
 
 6\. Content Moderation
 ----------------------
