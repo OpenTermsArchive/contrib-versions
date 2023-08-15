@@ -286,7 +286,7 @@ The Google End Controllers are: (i) for European Controller Personal Data proces
 * (a) If Google has adopted an Alternative Transfer Solution for any Restricted European Transfers, then: (i) Google will ensure that such Restricted European Transfers are made in accordance with that Alternative Transfer Solution; and (ii) paragraph 5 (Controller SCCs) of this Appendix 1A will not apply to such Restricted European Transfers.
 * (b) If Google has not adopted, or informs Customer that Google is no longer adopting, an Alternative Transfer Solution for any Restricted European Transfers, then paragraph 5 (Controller SCCs) of this Appendix 1A will apply to such Restricted European Transfers.
 
-**4.3 Onward Transfer Provisions**
+**4.3 Onward Transfer Provisions.**
 
 * (a) **Application of Paragraph 4.3**. Paragraphs 4.3(b) (Use of Data Provider Personal Data) and 4.3(c) (Protection of Data Provider Personal Data) of this Appendix 1A will only apply to the extent that:
     * (i) a party (the “**Data Recipient**”) processes Controller Personal Data that is made available by the other party (the “**Data Provider**”) in connection with the Agreement (such Controller Personal Data, “**Data Provider Personal Data**”);
