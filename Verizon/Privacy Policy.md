@@ -601,9 +601,9 @@ Open all
     
     We may disclose personally identifiable information to a governmental entity to comply with valid legal process, but we will not disclose records revealing your video programming unless we receive a court order indicating that the governmental entity has made a specified showing of relevance and you were afforded an opportunity to contest the order. We may be required to disclose personally identifiable information (including your video programming) to a non-governmental entity to comply with a court order, after you have been provided notice.
     
-     We retain personally identifiable information only as long as reasonably necessary for business, accounting, tax or legal purposes. If you would like to access your personally identifiable information, you may [email us](mailto:privacyoffice@verizon.com?subject=Verizon%20Privacy%20Office) at [privacyoffice@verizon.com](mailto:privacyoffice@verizon.com?subject=Verizon%20Privacy%20Office) to arrange a time and convenient location to do so during business hours. If you believe any of your personally identifiable information is inaccurate, we will work with you to ensure that corrections are made.
+     We retain personally identifiable information only as long as reasonably necessary for business, accounting, tax or legal purposes. If you would like to access your personally identifiable information, Please submit a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries) to arrange a time and convenient location to do so during business hours. If you believe any of your personally identifiable information is inaccurate, we will work with you to ensure that corrections are made.
     
-    If you believe that your Cable Act privacy rights have been violated, please [email us](mailto:privacyoffice@verizon.com?subject=Privacy%20rights%20violation) at [privacyoffice@verizon.com](mailto:privacyoffice@verizon.com) and we will work with you to address your concerns. If you believe that you have been aggrieved as a result of a violation of the Cable Act, you may enforce the limitations imposed by the Cable Act through a civil action in a United States district court seeking damages, attorney's fees, and litigation costs. Other rights and remedies may also be available to you under federal or other applicable laws.
+    If you believe that your Cable Act privacy rights have been violated, please submit a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries) and we will work with you to address your concerns. If you believe that you have been aggrieved as a result of a violation of the Cable Act, you may enforce the limitations imposed by the Cable Act through a civil action in a United States district court seeking damages, attorney's fees, and litigation costs. Other rights and remedies may also be available to you under federal or other applicable laws.
     
 * [Do I have specific rights under privacy laws in the United States?
     ------------------------------------------------------------------
@@ -705,7 +705,7 @@ Open all
     
     **Reporting.** You can access our [2022 CCPA report](https://www.verizon.com/about/privacy/ccpa-reporting) to learn about the access and deletion requests we received during that year.
     
-    **Questions.** If you have questions about your rights under California Law or about our privacy policies and practices, please provide the information requested in this [form](https://www.verizon.com/about/privacy/privacy-inquiries) or call 800-922-0204 if you are a Mobile customer or call 800-837-4966 if you have Home-based services, such as Verizon Fios.
+    **Questions.** If you have questions about your rights under California Law or about our privacy policies and practices, please submit a  [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries) or call 800-922-0204 if you are a Mobile customer or call 800-837-4966 if you have Home-based services, such as Verizon Fios.
     
     ### Additional California Privacy Rights
     
@@ -713,8 +713,7 @@ Open all
     
     request
     
-    California residents can make a request by contacting us at:  
-    privacyoffice@verizon.com
+    California residents can make a request by contacting us by submitting a [privacy inquiry form](https://www.verizon.com/privacy/privacy-inquiries)
     
     Verizon Privacy Office  
     1300 I Street, NW Suite 500 East  
@@ -940,7 +939,7 @@ Open all
     
     Nevada law defines "sale" as the exchange of certain personally identifiable customer information for money. Personally identifiable information includes name, address, phone number, SSN, or any identifier that can be used to contact you electronically.  
     
-    Verizon doesn’t sell personally identifiable information today and we don’t have plans to start. If Verizon ever starts selling such personal information, current Verizon customers will be opted out. If you have questions, provide the information requested in this [privacy inquiries form](https://www.verizon.com/about/privacy/privacy-inquiries).
+    Verizon doesn’t sell personally identifiable information today and we don’t have plans to start. If Verizon ever starts selling such personal information, current Verizon customers will be opted out. If you have questions, please submit a [privacy inquiries form](https://www.verizon.com/about/privacy/privacy-inquiries).
     
     ### Virginia Consumer Data Protection Act
     
@@ -1081,6 +1080,6 @@ Verizon Privacy Office
 1300 I Street, NW Suite 500 East  
 Washington, DC 20005
 
-#### Email
+#### Online
 
-privacyoffice@verizon.com
+Submit a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries)
