@@ -78,7 +78,7 @@ In these Controller Terms:
 
 “UK GDPR” means the EU GDPR as amended and incorporated into UK law under the UK European Union (Withdrawal) Act 2018, and applicable secondary legislation made under that Act.
 
-“US State Privacy Laws” means, as applicable (i) the California Consumer Privacy Act of 2018 (including as amended by the California Privacy Rights Act of 2020) together with all implementing regulations (“CCPA”) (ii) Virginia’s Consumer Data Protection Act, Va. Code Ann. § 59.1-571 et seq.; and (iii) the Colorado Privacy Act, Colo. Rev. Stat. § 6-1-1301 et seq.; (iv) Connecticut’s Act Concerning Data Privacy and Online Monitoring, Pub. Act No. 22015; and (v) the Utah Consumer Privacy Act, Utah Code Ann. § 13-61-101 et seq.
+“US State Privacy Laws” means, as applicable: (i) the California Consumer Privacy Act of 2018 (including as amended by the California Privacy Rights Act of 2020) together with all implementing regulations (“CCPA”); (ii) Virginia’s Consumer Data Protection Act, Va. Code Ann. § 59.1-571 et seq.; and (iii) the Colorado Privacy Act, Colo. Rev. Stat. § 6-1-1301 et seq.; (iv) Connecticut’s Act Concerning Data Privacy and Online Monitoring, Pub. Act No. 22015; and (v) the Utah Consumer Privacy Act, Utah Code Ann. § 13-61-101 et seq.
 
 ### 2.2
 
