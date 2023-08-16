@@ -572,7 +572,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
                 
             * Collectivité de Corse - Chemins de fer. ([https://transport.data.gouv.fr/datasets/gtfs-transport-horaires-chemins-de-fer-corse/](https://transport.data.gouv.fr/datasets/gtfs-transport-horaires-chemins-de-fer-corse/))
                 
-            * Communauté Urbaine du Grand Reims - réseau Citura. ([https://transport.data.gouv.fr/datasets/parcours-arrets-et-horaires-theoriques-du-reseau-de-transport-citura-de-la-communaute-urbaine-du-grand-reims-gtfs/](https://transport.data.gouv.fr/datasets/parcours-arrets-et-horaires-theoriques-du-reseau-de-transport-citura-de-la-communaute-urbaine-du-grand-reims-gtfs/))
+            * Communauté Urbaine du Grand Reims - réseau Citura. ([https://transport.data.gouv.fr/datasets/fr-200052264-t0031-0000-1](https://transport.data.gouv.fr/datasets/fr-200052264-t0031-0000-1))
                 
             * Communauté d’Agglomération du Centre Littoral de Guyane - Agglobus. ([https://transport.data.gouv.fr/datasets/agence-agglobus/](https://transport.data.gouv.fr/datasets/agence-agglobus/))
                 
@@ -690,6 +690,14 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
                 
             * Réseau urbain et périurbain Fil Bleu. ([https://transport.data.gouv.fr/datasets/fil-bleu-syndicat-des-mobilites-gtfs-gtfs-rt](https://transport.data.gouv.fr/datasets/fil-bleu-syndicat-des-mobilites-gtfs-gtfs-rt))
                 
+            * Réseau urbain Gratibus. ([https://transport.data.gouv.fr/datasets/gtfs-noirmoutier-gratibus-ete-2023](https://transport.data.gouv.fr/datasets/gtfs-noirmoutier-gratibus-ete-2023))
+                
+            * Réseau urbain TUC. ([https://transport.data.gouv.fr/datasets/donnees-gtfs-reseau-tuc-communaute-dagglomeration-de-cambrai](https://transport.data.gouv.fr/datasets/donnees-gtfs-reseau-tuc-communaute-dagglomeration-de-cambrai))
+                
+            * Réseau urbain La Navette. ([https://transport.data.gouv.fr/datasets/donnees-theoriques-et-temps-reel-du-reseau-la-navette-communaute-de-communes-de-laire-cantilienne](https://transport.data.gouv.fr/datasets/donnees-theoriques-et-temps-reel-du-reseau-la-navette-communaute-de-communes-de-laire-cantilienne))
+                
+            * Réseau urbain Corolis. ([https://transport.data.gouv.fr/datasets/donnees-theoriques-et-temps-reel-du-reseau-corolis-urbain-communaute-dagglomeration-du-beauvaisis](https://transport.data.gouv.fr/datasets/donnees-theoriques-et-temps-reel-du-reseau-corolis-urbain-communaute-dagglomeration-du-beauvaisis))
+                
         * Muséum national d'Histoire Naturelle: [https://inpn.mnhn.fr/accueil/mentions-legales](https://inpn.mnhn.fr/accueil/mentions-legales)
             
         * Réseau urbain A Citadina - ([https://transport.data.gouv.fr/datasets/horaires-temps-reels-reseau-a-citadina](https://transport.data.gouv.fr/datasets/horaires-temps-reels-reseau-a-citadina))
@@ -743,6 +751,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Toulouse Métropole (FR): [https://data.toulouse-metropole.fr/pages/accueil/](https://data.toulouse-metropole.fr/pages/accueil/)
             
         * Nantes Métropole (FR): [https://data.nantesmetropole.fr/pages/home/](https://data.nantesmetropole.fr/pages/home/)
+            
+        * Pays de la Loire: Source of the data: Air Pays de la Loire: [https://www.airpl.org/](https://www.airpl.org/)
             
     18. **Gambia**
         * Gambia National Disaster Management Agency (NDMA) - [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
@@ -851,6 +861,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Landesamt für Geobasisinformation Sachsen (GeoSN) (DE): [http://www.landesvermessung.sachsen.de/benutzungshinweise-5557.html](http://www.landesvermessung.sachsen.de/benutzungshinweise-5557.html)
             
         * GDI-SH (DE): [https://geodaten.schleswig-holstein.de/gaialight-sh/\_apps/dladownload/index.php](https://geodaten.schleswig-holstein.de/gaialight-sh/_apps/dladownload/index.php)
+            
+        * Offene Geodaten Konstanz (DE): [https://offenedaten-konstanz.de/](https://offenedaten-konstanz.de/) License provided at: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
     20. **Great Britain**
         * This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
@@ -1143,6 +1155,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         "Mapa de Ubicación de Códigos Postales para la Ciudad de México" published by Correos de México. Accessed from [https://datos.gob.mx/](https://datos.gob.mx/) on 28-03-2022
         
         "Mapa de Ubicación de Códigos Postales para Jalisco" published by Correos de México. Accessed from [https://datos.gob.mx/busca/](https://datos.gob.mx/) on 28-03-2022
+        
+        La información de Calidad del Aire que publica la Secretaría del Medio Ambiente del Gobierno de la Ciudad de México, es elaborada a partir de la información que se obtiene de la Red de Monitoreo Atmosférico y sus estaciones de monitoreo en la Zona Metropolitana del Valle de México, que opera y administra la Dirección de Monitoreo de Calidad del Aire de la Dirección General de Calidad del Aire. Esta información es pública y gratuita, y está sujeta a procesos de calidad que podrían modificarla. La difusión o uso de esta información por terceros, queda bajo la responsabilidad de quien la pública o utiliza.
         
         * INEGI (MX) - [https://www.inegi.org.mx/inegi/terminos.html](https://www.inegi.org.mx/inegi/terminos.html)
             
