@@ -147,7 +147,9 @@ Roblox is a safe space for meeting online friends, chatting, and collaborating o
 * Engaging in sexually explicit conversations or soliciting sexual material from other Robloxians
 * Content that depicts, strongly suggests, or explicitly describes sexual acts
 * Nudity
-* Sexually suggestive avatar clothing items
+* Sexually suggestive avatar bodies and clothing items
+
+For more information about creating Avatar Bodies that comply with these policies, including required use of modesty layers, please review the guidelines [here](https://create.roblox.com/docs/art/marketplace/marketplace-policy).
 
 Illegal and Regulated Goods and Activities
 
@@ -320,13 +322,16 @@ Disruptive Content and Behavior
 * Falsely reporting other users or experiences or encouraging others to do so
 * Invading or flooding experiences or groups in an effort to disrupt the experience or its reputation
 
-Last Updated: August 1, 2023
+For more information about creating Avatar Bodies that comply with these policies, including requirements for clothing and accessories, please review the guidelines [here](https://create.roblox.com/docs/art/marketplace/marketplace-policy).
+
+Last Updated: August 16, 2023
 
 Change Log
 
 |     |     |
 | --- | --- |
 | **Announcement Date** | **Change Summary** |
+| August 16, 2023 | Update the following Community Standards<br><br>* Romantic and Sexual Content<br>    * Added link to Avatar Bodies feature requirements for modesty layers<br>    * Clarified language around prohibiting sexually suggestive avatar bodies in addition to clothing items<br>* Misusing Roblox Systems<br>    * Added link to Avatar Bodies feature requirements for clothing and accessories |
 | August 1, 2023 | Update the following Community Standard<br><br>* Sharing Personal Identifiable Information<br>    * Clarified language for unique identifiers<br>    * Added examples of prohibited content |
 | June 20, 2023 | Added a reference and link in the introduction of the Community Standards to detailed 17+ Policy Standards.<br><br>Added detail for prohibited types of simulated gambling in Illegal & Regulated Goods & Activities.<br><br>Clarified language for prohibited types of account and content access, including limited exceptions, in:<br><br>* Roblox Economy<br>* Misusing Roblox Systems<br><br>Clarified language for Spam to be applicable across all content and data types on Roblox.<br><br>Effective June 20, 2023 |
 | March 15, 2023 | Restructuring and consolidating categories of Community Standards from 30 categories to 20 categories, including:<br><br>* Combining violations in Threats, Bullying & Harassment, Abuse of Employees, Extortion & Blackmail, and Impersonation under “Threats, Bullying, and Harassment”<br>* Combining violations in Suicide & Self Harm, Dangerous Activities, and Suicide Lifeline resources under “Suicide, Self Injury, and Harmful Behavior”<br>* Combining violations in Illegal Activity under “Harmful Off-Platform Speech and Behavior”<br>* Renaming Real-World Tragic Events as “Real-World Sensitive Events”<br>* Combining violations in Romance and Dating with Sexual Content under “Romantic and Sexual Content”<br>* Combining violations in Contests & Sweepstakes and Illegal & Regulated Goods about gambling, supplements and substance abuse under “Illegal and Regulated Goods and Activities”<br>* Combining violations in Cheating & Exploits, Scams, Misrepresentation, some of Unauthorized Access under “Cheating and Scams”<br>* Combining violations regarding paid randomized items under “Roblox Economy”<br>* Combining violations in Unauthorized Access and Disruptive Audio under “Misusing Roblox Systems”<br><br>Effective March 15, 2023  <br>  <br><br>Updating the Advertising section for Independent Advertisement Publishing to add the following requirements:<br><br>* Using the Roblox AreAdsAllowed field of the PolicyService API to programmatically prohibit ad content in experiences from exposure to users under the age of 13<br>* Complying with Prohibited Advertising Content introduced in the new [Advertising Standards](https://en.help.roblox.com/hc/articles/13722260778260)<br>* Adding more specific requirements around disclosing advertising content, including prohibiting developers from mimicking Roblox Immersive Ads, or repurposing Roblox Immersive Ad content<br><br>Effective June 15, 2023  <br>These policies are effective for advertising served through the Roblox ad system on March 15, 2023. |
