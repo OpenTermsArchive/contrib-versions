@@ -2097,6 +2097,8 @@ Revision
 
 This document is an English translation of the original version for reference purposes only. The original version is written in the Japanese language. In the case of any discrepancy between the original Japanese version and this English translation, the original Japanese version shall prevail.
 
+pixivFACTORY seeks to remain a manufacturing partner that provides manufacturing services for goods that makes manufacturing more fun. We prepared these Individual Terms of Use with the hope that users will use our services with common sense so that we can provide services that users and holders of copyrights to original works can use with peace of mind and so that we can provide stable services.
+
 Article 1. Introduction
 -----------------------
 
@@ -2104,61 +2106,147 @@ Article 1. Introduction
 2. These Individual Terms of Use set forth conditions for use of the Individual Service. User agrees to, and shall use the Individual Service in accordance with, these Individual Terms of Use.
 3. By using the Individual Service, User shall be deemed to have agreed to the entire content of these Individual Terms of Use.
 4. Unless User agrees to these Individual Terms of Use, User may not use the Individual Services.
-5. These Individual Terms of Use are the individual terms of pixiv service Master Terms of Use ("Master Terms of Use"), which are applied for all services throughout pixiv Inc.'s services, and cases unspecified in these Individual Terms of Use, unless specified to exclude in the Individual Terms of Use, shall follow Master Terms of Use and other relating guidelines ("Terms etc.") set by the Company.
+5. These Individual Terms of Use are terms of use under the pixiv service Master Terms of Use (“Master Terms of Use”) applicable to all services provided by the Company. The Master Terms of Use, various rules including guidelines and help centers created individually for the effective operation of the Individual Service, and various rules including guidelines and help centers relating to the Individual Service (collectively referred to as “Terms etc.”) shall apply along with these Individual Terms of Use to any matters not specified in these Individual Terms of Use, except in cases where exempt from application by these Individual Terms of Use.
+6. In the event of any discrepancy between these Individual Terms of Use and Terms etc., the Terms etc. shall apply preferentially over these Individual Terms of Use.
 
 Article 2. Definitions
 ----------------------
 
-The terms used in these Individual Terms of Use shall have the meanings set forth in the following items. Terms not defined in these Individual Terms of Use shall have the meanings specified in the pixiv Master Terms of Use.
+The terms used in these Individual Terms of Use shall have the meanings set forth in the following items. Terms not defined in these Individual Terms of Use shall have the meanings specified in the Master Terms of Use.
 
-1. “Product” means an item that User can commission the manufacture of and can purchase through the Individual Service.
-2. “Related Service” means the service operated by the Company and named “BOOTH” ([https://booth.pm](https://booth.pm/)) and other service.
+1. “Product” means a good for which User can outsource manufacturing by using the Individual Service.
+2. “Product Materials” means goods that serve as the materials of a Product when User outsources the manufacture of a Product.
+3. “Design etc.” means a design, text, and/or the like that is added or applied to Product Materials.
+4. “Related Services” means the services referred to as “BOOTH” ([https://booth.pm](https://booth.pm/)) operated by the Company and EC shop operation services and the like provided in conjunction with the Individual Service.
 
-Article 3. Use of the Individual Service and User Responsibilities
-------------------------------------------------------------------
+Article 3. Use of the Individual Service
+----------------------------------------
 
-In cases where User uses the Individual Service in combination with the Related Service, User shall also bear duties pursuant to the terms of use relating to the Related Service.
+1. When using the Individual Service to outsource the manufacture of Products, User shall log in to an account registered with the Company in advance.
+2. When User outsourced the manufacture of Products by performing the procedures designated by the Company, the Company shall manufacture the Products by adding or applying the Design etc. selected and/or produced by User to the Product Materials selected by User.
+3. When manufacturing Products, there are instances where Products to which modifications were made or other action was taken unavoidably are delivered. Modifications and the like made pursuant to this paragraph are not eligible for return or replacement specified in Article 6.
+4. When using the Individual Service, the copyrights to the Designs etc. used by User belong to User, but User authorizes the Company to engage in the use and so on set forth below.
+    1. Gratis, non-exclusive, and perpetual use, exploitation (including modification to the extent necessary in light of the purposes of use), and implementation, etc. of User’s Designs etc. by the Company and third parties approved by the Company to the extent necessary for the effective provision of the Services and the Individual Service, promotion of use, advertising and publicity, and development, improvement, and maintenance of the Company’s systems. For example, the Company may post or repost User’s Designs etc. and Products manufactured using those Designs etc. on social media, such as Twitter and Instagram, websites operated by the Company, or materials and the like created by the Company for the purpose of publicizing and introducing the Services and the Individual Service.
+    2. The Company provides functions that enable viewing of Designs etc. on the Services, the Individual Service, and services with which the Company collaborates. In this case, a Design etc. may be processed according to the display format provided on the relevant service.
+5. User shall not exercise the moral rights of an author against the Company with regard to Designs etc. and Products created using the Individual Service.
 
-Article 4. Consignment of Product Manufacture and Purchase of Product
----------------------------------------------------------------------
+Article 4. Suspension of Manufacture of Products
+------------------------------------------------
 
-1. In the case where User commissions the manufacture of and purchases a Product using the procedure prescribed by the Company through the Individual Service, the Company shall process a registered image to add to the Product materials selected by the User, manufacture the Product, and deliver the Product to the address designated by the User.
-2. The Product manufacturing fees (including Product materials charges; referred to as “Product Materials Charges”) shall be decided by the Company. A User who commissions the manufacture of and purchases a Product shall pay the Product Materials Charges to the Company.
+1. If User violates any provision of the Master Terms of Use, these Individual Terms of Use, or Terms etc., if a Design etc. infringes on the rights of a third party, or if the Company determines that there is a likelihood of such a violation or infringement, the Company may refuse to manufacture the relevant Product. The Company shall not bear any liability whatsoever for any damage incurred by User as a result.
+2. If after the Company manufactures a Product, User violates any provision of the Master Terms of Use, these Individual Terms of Use, or Terms etc., if a Design etc. infringes on the rights of a third party, or if the Company determines that there is a likelihood of such a violation or infringement, the Company may cancel the contract relating to manufacture of the relevant Product and dispose of the manufactured Product. In this case, User shall pay to the Company an amount equivalent to the manufacturing outsourcing as a penalty. Further, the Company shall not bear any liability whatsoever for any damage incurred by User as a result.
+3. If after the Company ships a Product to User, the Company discovers that User violated any provision of the Master Terms of Use, these Individual Terms of Use, or Terms etc. or that a Design etc. infringed on the rights of a third party and the Company incurs damage as a result, the Company may demand compensation for such damage from User.
 
-Article 5. Sale of Products on the Related Service
---------------------------------------------------
-
-1. Through cooperation with the Related Service, User may register and sell on the Related Service by the method specified separately by the Company Products that User commissioned the manufacture of to the Company and purchases using the Individual Service. Use of the Related Service shall comply with the terms of use for the Related Service.
-2. In the case of sale of Products on the Related Service, the sale price (“Product Charges”) shall be set by User; provided, however, that the Company shall set maximum sale prices that may be set and the maximum number of products that may be displayed.
-3. In the case where User sells Products on the Related Service, User shall pay Product Materials Charges for the sold Products to the Company. The amounts of the Product Materials Charges shall be set separately by the Company on the Individual Service.
-4. In cases where a Product purchase and sale agreement is formed on the Related Service, the Company shall receive the Product Charges paid by the User who purchased the relevant product (“Purchaser”) on behalf of the User who sold the Product. In the case where the Company receives Product Charges from a Purchaser, the Company shall pay the amount (“Remittance Amount”) after deducting the Product Materials Charges from the relevant Product Charges (including consumption tax) by the method specified separately on the Related Service. The method of payment, payment date, and so on shall comply with the individual terms of use for the Related Service.
-
-Article 6. Suspension of Product Manufacturing Consignment
-----------------------------------------------------------
-
-1. In the case where the Company determines that User violated or is suspected of violating any provision of the pixiv Master Terms of Use, these Individual Terms of Use, the terms of use of the Related Service, or guidelines and the like, the Company may suspend delivery of the relevant Product. In this case, if User already sold the relevant Product to Purchaser and the Product Charges were paid by Purchaser, the Company may refund the Product Charges for the relevant Product to Purchaser.
-2. In the case of the second sentence of the preceding paragraph, measures including cancellation and revocation of the purchase and sale agreement for the relevant Product formed with Purchaser shall be undertaken between User and Purchaser, and the Company shall not bear any liability whatsoever in relation to damages incurred by User or Purchaser as a result.
-
-Article 7. Assumption of Risk
------------------------------
-
-In the case where a Product is lost or damaged before receipt of the Product by User or Purchaser for reasons not attributable to User, the Company, or Purchaser, User shall assume all risk relating to loss of or damage to the relevant Product.
-
-Article 8. Prohibited Conduct
------------------------------
-
-When using the Individual Service, User may not engage in any conduct prohibited by or in violation of the pixiv Master Terms of Use, these Individual Terms of Use, or other terms of use or guidelines. In the case where User engages in prohibited conduct or commits a violation, User may be subject to compulsory withdrawal, suspension of use, deletion of posted work data in whole or in part, modification of the scope of disclosure, or other disadvantageous measures; provided, however, that the Company shall not bear a duty to take these measures, and shall not bear a duty to disclose the reasons for measures it has taken.
-
-Article 9. Exchange of Products
+Article 5. Shipment of Products
 -------------------------------
 
-Because Products sold by means of the Individual Service are manufactured to order, User may not return or exchange any Product at User’s convenience. The Company conducts comprehensive Product quality control, but in cases where the Company acknowledges that the Product ordered by User and the completed product are clearly different, the Product may be exchanged for a non-defective product at the Company’s shipping expense. User shall submit a request to the Company to that effect by the method prescribed by the Company; provided, however, that User may not request exchange of a Product in the following cases:
+1. The Company shall endeavor to deliver Products manufactured pursuant to Article 3 to the address designated by User (limited to addresses in Japan) by the scheduled delivery date for which the Company provided notice.
+2. After the Company ships Products to the address designated by User, the Company shall not bear any liability whatsoever even in cases where the relevant Products are not received by User or do not arrive at User’s designated address as a result of mistaken addressee, incorrect address, or inability to accept the Products due to absence, and so on.
+3. In the case where Products do not arrive at User’s designated address and are returned to the Company, if User requests re-delivery, User shall bear the delivery expenses specified separately by the Company.
+4. If User does not request re-delivery within 30 days after Products are returned to the Company, User shall be deemed to have abandoned ownership rights to the relevant Products, and the Company may dispose of the Products. If the Company incurs expenses when disposing of the Products, the Company may bill User for those expenses.
 
-1. In the case where one week or more lapsed after receipt of the Product to the address specified by the User;
-2. In the case where some of the Products are used such as through distribution;
-3. In the case where the Product is damaged, marred, and so on for reasons not attributable to the Company;
-4. In the case where the Company determines that the Product quality is within a certain permissible range; and
-5. In the case where a service Product is damaged, marred, and so on during shipping.
+Article 6. Cancellation of Orders and Return or Replacement of Products
+-----------------------------------------------------------------------
+
+Since Products manufactured through the Individual Service are build-to-order products, cancellation of orders and return or replacement of Products at User’s convenience are not permitted. The Company takes all possible measures to ensure the quality control of Products, and in cases where the Company determines that a completed Product is clearly different from the particulars of User’s order, the Company shall replace the Product with a correct product and bear the shipping expense or refund the fees at the Company’s discretion. Such User shall submit a request to that effect in the manner designated by the Company; provided, however, that requests for Product replacement are not permitted in the following cases.
+
+1. After the lapse of one week from arrival of the Product at the address designated by User;
+2. If even some of the Products are used through distribution or otherwise;
+3. If the Products are damaged or scratched for reasons not attributable to the Company;
+4. If the Company determines that the quality of the Products is within a certain permissible range; or
+5. If service Products are damaged or scratched during shipping.
+
+Article 7. Liability for Noncompliance with Contract
+----------------------------------------------------
+
+If within one month after arrival of the Product, User discovers that the Product do not conform to the purposes of the contract such as defective quality due to negligence on the part of the Company and User provides notice to the Company to that effect within that period, the Company shall, at its option, replace the Product with good Product or reduce the product charges proportionally according to the degree of noncompliance.
+
+Article 8. Manufacturing Outsourcing Fees
+-----------------------------------------
+
+1. The manufacturing outsourcing fees for Products shall be as stated on the Individual Service. User shall pay the fees to the Company.
+2. In principle, manufacturing outsourcing fees shall be paid in advance. The Company shall manufacture the Products after confirming the receipt of payment from User; provided, however, that this shall not apply in cases approved by the Company.
+
+Article 9. Sale of Products on Related Services
+-----------------------------------------------
+
+1. User may, by the method designated separately by the Company, register and sell on Related Services Products whose manufacture was outsourced to the Company using the Individual Service by linking with related services. When using Related Services, User shall comply with the terms of use of those related services.
+2. In cases where User has a claim against the Company, the Company may at any time set off such claim against claims that the Company has against User.
+
+Article 10. Assumption of Risk
+------------------------------
+
+If Products are lost or damaged before arrival of the Product by User for reasons not attributable to User or the Company, the Company shall bear all risk associated with such loss of or damage to the Product.
+
+Article 11. Prohibited Conduct
+------------------------------
+
+When using the Individual Service, User may not engage in any conduct prohibited by or in violation of the Master Terms of Use, these Individual Terms of Use, or Terms etc. If User engages in prohibited conduct or commits a violation, the Company may take measures adverse to User including compulsory expulsion, suspension of use, deletion of all or some Design etc. data, or modification of the scope of public disclosure; provided, however, that the Company is not obligated to take these measures and is not obligated to disclose the reasons for taking these measures.
+
+Article 12. Measures against Violators
+--------------------------------------
+
+If the Company determines that User violated or likely violated the Master Terms of Use, these Individual Terms of Use, or Terms etc., the Company may cancel contracts with User relating to manufacturing outsourcing and may enjoin the violation by User. In cases where this article applies, Article 15, Paragraph 1 to Paragraph 3 and Article 16, Paragraph 2 and Paragraph 3 of the Master Terms of Use shall apply. The provisions of this article shall not preclude a demand by the Company to User for compensatory damages.
+
+Article 13. Disclaimers
+-----------------------
+
+1. Since Products manufactured by the Individual Service are build-to-order products, the Company may modify the initial scheduled delivery date due to the nature of the Products, the number of orders, problems during the Product manufacturing process, or similar issues. In this case, except in the case of intentional misconduct or gross negligence by the Company, the Company shall not bear any liability whatsoever.
+2. In addition to the preceding paragraph, except in cases where clearly stated in these Individual Terms of Use, the Company shall not bear any liability whatsoever; provided, however, that this shall not apply in the case of intentional misconduct or gross negligence by the Company.
+
+Special Provisions for Use of pixivFACTORY Palette
+==================================================
+
+Article 14. Definitions Relating to pixivFACTORY Palette
+--------------------------------------------------------
+
+The meanings of terms used in the Special Provisions for Use of pixivFACTORY Palette (these “Special Provisions”) are as set forth in the following items. In cases where not specified in these Special Provisions, terms shall have the meanings defined in the Master Terms of Use and Article 2 of these Individual Terms of Use.
+
+1. “pixivFACTORY Palette” means functions that enable User to outsource the manufacture of Products to the Company using Collection Materials provided by Collection Material Providers on the Individual Service. When using pixivFACTORY Palette, it is necessary to login in advance.
+2. “Collection Materials” means design images that can be selected on pixivFACTORY Palette. Collection Materials belong to Collection.
+3. “Collection” means a group that organizes Collection Materials and a group unit.
+4. “Collection Material Provider” means a person (individual or entity) who has licensed the use of Collection Materials to the Company and the Individual Service.
+
+Article 15. Special Provisions on Use of Collection Materials
+-------------------------------------------------------------
+
+1. When outsourcing the manufacture of Products, User may use Collection Materials as Designs, etc.
+2. The period of permissible use may be set for each Collection. In cases where a permissible use period is set, the Collection cannot be used after that period.
+3. The Company may, at its discretion, change the permissible use period of a Collection at any time (including setting a use period for a Collection that originally did not have a set use period), and User agrees to this.
+
+Article 16. Special Provisions on Manufacture of Products Using Collection Materials
+------------------------------------------------------------------------------------
+
+1. User may create Designs etc. using Collection Materials that are registered on pixivFACTORY Palette at the time that User uses the Individual Service.
+2. When using pixivFACTORY Palette, the Product Materials that can be manufactured may be specified for each Collection. Such Product Materials that can be manufactured shall be as described as the Product Materials that can be manufactured on pixivFACTORY Palette when User creates a Design etc. using pixivFACTORY Palette.
+3. Notwithstanding the preceding paragraph, please note that it may not be possible to manufacture Products depending on the size of the Collection Materials used or the size of the design layout.
+4. Depending on the Collection, the Company may make modifications or take other action that it determines to be necessary in order to manufacture the Products. Modifications and the like made pursuant to this paragraph are not eligible for the Product return or replacement specified in Article 6.
+5. When User creates a Design etc., multiple Collection Materials may be combined only within specific Collections. Designs etc. may not be created by selecting multiple collections.
+6. User may not manufacture Products using a combination of Collection Materials and Designs etc. uploaded by User.
+7. User may not create Products and the like by making substantial modifications to Collection Materials. If the manufacture of Products using Designs, etc. that have been substantially modified from the Collection Materials posted on the service is outsourced, the Company may cancel the relevant manufacturing outsourcing.
+
+Article 17. Ownership of Intellectual Property Rights and Licensing
+-------------------------------------------------------------------
+
+1. Intellectual property rights to Collection Materials and accompanying text and the like belong to the Collection Material Provider or the third party that licensed the Collection Materials to the Collection Material Provider, regardless of the creation of Designs etc. by User.
+2. Intellectual property rights to Designs etc. created by User using pixivFACTORY Palette belong to User, except for those portions for which intellectual property rights belonging to others already exist.
+3. User grants to the Company the license described below for the use(including related actions) of Designs etc. created by User using Collection Materials.
+    1. Gratis, non-exclusive, and perpetual use, exploitation (including modification to the extent necessary in light of the purposes of use), and implementation, etc. of User’s Designs etc. by the Company and third parties approved by the Company to the extent necessary for the effective provision of the Services and the Individual Service, promotion of use, advertising and publicity, and development, improvement, and maintenance of the Company’s systems. For example, the Company may post or repost User’s Designs etc. and Products manufactured using those Designs etc. on social media, such as Twitter and Instagram, websites operated by the Company, or materials and the like created by the Company for the purpose of publicizing and introducing the Services and the Individual Service.
+    2. The Company provides functions that enable viewing of Designs etc. on the Services, the Individual Service, and services with which the Company collaborates. In this case, a Design etc. may be processed according to the display format provided on the relevant service.
+4. User shall not exercise the moral rights of an author against the Company with regard to Designs etc. and Products created using pixivFACTORY Palette.
+5. When using Designs etc. in the format specified in Paragraph 3, the Company may omit some information or display of names and the like (including display of pseudonyms such as pen names).
+
+Article 18. Prohibitions when Using pixivFACTORY Palette
+--------------------------------------------------------
+
+1. User may not use Collection Materials for any purpose other than the creation of Designs etc. or manufacture of Products using Collection Materials.
+2. User may not sell Products using Collection Materials to third parties. Article 9 does not apply to Products using Collection Materials.
+3. User may transmit Designs etc. created pursuant to this article to third parties such as on social media.
+4. User may not make any expressions that are detrimental to the image of Collection Material Providers and may not use the Individual Service for the purpose of harming the reputations of Collection Material Providers or defaming Collection Material Providers.
+5. User may reproduce and transmit to the public Collection Materials only in the cases specified in Paragraph 1 and Paragraph 3 of this article, and with the exception of the cases specified in this article, may not engage in conduct that infringes on the rights of Collection Material Providers.
+6. User may not register intellectual property rights concerning designs and Products that include Collection Materials and other data designated by the Company.
+7. User may not engage in conduct contrary to the warnings and prohibitions described on the Individual Service.
+8. In addition to the preceding paragraphs, User may not engage in any conduct deemed by the Company to be inappropriate.
 
 Supplementary Provisions
 ------------------------
@@ -2168,6 +2256,7 @@ Supplementary Provisions
 Revision
 --------
 
+* August 17, 2023 Overall terms of Individual Terms of Use were updated following the release of the new function.
 * March 30, 2020 As related as individual terms of Master Terms of Use, overall terms of Individual Terms of Use were modified.
 
 pixiv Live Feature Guidelines
