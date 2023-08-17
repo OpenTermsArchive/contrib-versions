@@ -1012,6 +1012,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Ordnance Survey Ireland, OSI (IE): [https://osi.ie/](https://osi.ie/)
             
+        * Environmental Protection Agency (EPA): [https://www.epa.ie/](https://www.epa.ie/) [https://airquality.ie/](https://airquality.ie/) - License: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
     29. **Isle of Man**
         
         Isle of Man Government
@@ -1431,6 +1433,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Centro de Descargas (ES): [https://centrodedescargas.cnig.es/CentroDescargas/locale?request\_locale=en](https://centrodedescargas.cnig.es/CentroDescargas/locale?request_locale=en)
             
         * Open Data Buenos Aires City: [https://data.buenosaires.gob.ar/dataset/](https://data.buenosaires.gob.ar/dataset/)
+            
+        * United Arab Emirates Ministry of Climate Change and Environment [https://www.moccae.gov.ae/en/open-data.aspx#page=1](https://www.moccae.gov.ae/en/open-data.aspx#page=1)
             
     55. **Sweden**
         * © 2009 Cartesia GIS AB
@@ -1951,6 +1955,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         209. Rhode Island Department of transportation (US): [https://www.dot.ri.gov/](https://www.dot.ri.gov/)
             
         210. South Dakota Department of Transportation (US): [https://dot.sd.gov/](https://dot.sd.gov/)
+            
+        211. MVGo Link to their license: [https://opendatacommons.org/licenses/by/summary/](https://opendatacommons.org/licenses/by/summary/)
             
     64. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
