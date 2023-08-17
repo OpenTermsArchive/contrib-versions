@@ -187,6 +187,10 @@ General inquiries from law enforcement or government officials (not requesting u
   
 All legal requests, including preservations, requests for account information (routine and emergency), and content removal requests may be submitted via Twitter’s Legal Request Submissions site available at: t.co/lr or [legalrequests.twitter.com](https://legalrequests.twitter.com/forms/landing_disclaimer).
 
+Twitter’s Legal Request Submission site is the designated single point of contact as provided under Article 11 of Regulation (EU) 2022/2065 (Digital Services Act).
+
+All legal requests made under the Digital Services Act must be provided in English.
+
 If you experience issues with our Legal Request Submissions site, you may ask for assistance through our [web form](https://support.twitter.com/forms/lawenforcement) by selecting “other inquiries” for the type of request.  
 
 Receipt of correspondence by this means is for convenience only and does not waive any objections, including the lack of jurisdiction or proper service.  
