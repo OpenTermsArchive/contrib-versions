@@ -311,8 +311,8 @@ If you are the guardian of a teen, our [Guardian's Guide](https://www.tiktok.com
 
 We may amend or update this Privacy Policy from time to time. We will notify you of any material changes to this policy by a notice provided through the Platform or by other means. The “Last Updated” date at the top of this policy reflects the effective date of such policy changes.
 
-Contact Us
-----------
+**Contact Us**
+--------------
 
 You can contact us about this Privacy Policy through our [webform](https://www.tiktok.com/legal/report/privacy). You can reach TikTok's Data Protection Officer [here](https://www.tiktok.com/legal/report/DPO).
 
