@@ -445,7 +445,7 @@ CONTACT US
 
 Privacy Officer
 
-* Privacy Officer, 110 William Street, Floor 28, New York, NY 10038, [privacy@stackoverflow.com](mailto:privacy@stackoverflow.com), phone: 212-232-8280
+* Privacy Officer, 14 Wall Street, 20th Floor, New York, NY 10005, [privacy@stackoverflow.com](mailto:privacy@stackoverflow.com), phone: 212-232-8280
 
 UK Representative
 
