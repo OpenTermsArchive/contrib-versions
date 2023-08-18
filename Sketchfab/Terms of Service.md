@@ -182,6 +182,6 @@ Under this Agreement, User Content is considered to be created using Generative 
 
 The effective date of these Terms of Use is March 23, 2023.
 
-**Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated February 17, 2023)**  
-The estimated average monthly active recipients in the European Union of Sketchfab for the past six months was 802,000.  
+**Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated August 18, 2023)**  
+The estimated average monthly active recipients in the European Union of Sketchfab for the past six months was 840,000.  
 Users who accessed more than one of Epic's services or products in a given month are counted as a user for each service or product.
