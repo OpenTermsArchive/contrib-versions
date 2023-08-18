@@ -658,49 +658,49 @@ _Creator TermsTerms of Use applicable to all Users who access the Services. They
 
 We also made changes to other portions of the Roblox TermsThe terms and conditions that apply to and govern a User’s and Creator’s use of the Services. The Roblox Terms include the User Terms, Creator Terms, Roblox Community Standards, Roblox Privacy & Cookie Policy, and regional Supplemental Provisions and other Additional Terms. to align with these changes. Please take some time to review them. In addition, we subsequently will be publishing Roblox TermsThe terms and conditions that apply to and govern a User’s and Creator’s use of the Services. The Roblox Terms include the User Terms, Creator Terms, Roblox Community Standards, Roblox Privacy & Cookie Policy, and regional Supplemental Provisions and other Additional Terms. applicable for Korea Users, which will be published in Korean.
 
-* [ES - Términos de uso de Roblox - 1 de agosto de 2023.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884930989844/ES_-_Te_rminos_de_uso_de_Roblox_-_1_de_agosto_de_2023.pdf)
+* [ES - Términos de uso de Roblox - 1 de agosto de 2023.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884930989844)
     
-    1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884930989844/ES_-_Te_rminos_de_uso_de_Roblox_-_1_de_agosto_de_2023.pdf)
+    1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884930989844)
     
-* [ZH-TW - Roblox 使用條款 - 2023 年 8 月 1 日.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884952761748/ZH-TW_-_Roblox______-_2023___8___1__.pdf)
+* [ZH-TW - Roblox 使用條款 - 2023 年 8 月 1 日.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884952761748)
     
-    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884952761748/ZH-TW_-_Roblox______-_2023___8___1__.pdf)
+    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884952761748)
     
-* [ZH-CN - Roblox使用条款 - 2023 年 8 月 1 日.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884914635028/ZH-CN_-_Roblox_____-_2023___8___1__.pdf)
+* [ZH-CN - Roblox使用条款 - 2023 年 8 月 1 日.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884914635028)
     
-    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884914635028/ZH-CN_-_Roblox_____-_2023___8___1__.pdf)
+    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884914635028)
     
-* [ID - Roblox Ketentuan Penggunaan - 1 Agustus 2023.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884931085588/ID_-_Roblox_Ketentuan_Penggunaan_-_1_Agustus_2023.pdf)
+* [ID - Roblox Ketentuan Penggunaan - 1 Agustus 2023.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884931085588)
     
-    1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884931085588/ID_-_Roblox_Ketentuan_Penggunaan_-_1_Agustus_2023.pdf)
+    1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884931085588)
     
-* [IT - Condizioni di utilizzo di Roblox - 1 agosto, 2023.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884931170580/IT_-_Condizioni_di_utilizzo_di_Roblox_-_1_agosto__2023.pdf)
+* [IT - Condizioni di utilizzo di Roblox - 1 agosto, 2023.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884931170580)
     
-    1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884931170580/IT_-_Condizioni_di_utilizzo_di_Roblox_-_1_agosto__2023.pdf)
+    1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884931170580)
     
-* [FR - Conditions d\_utilisation de Roblox - 1er août 2023.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884952914324/FR_-_Conditions_d_utilisation_de_Roblox_-_1er_aou_t_2023.pdf)
+* [FR - Conditions d\_utilisation de Roblox - 1er août 2023.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884952914324)
     
-    1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884952914324/FR_-_Conditions_d_utilisation_de_Roblox_-_1er_aou_t_2023.pdf)
+    1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884952914324)
     
-* [EN - Roblox Terms of Use - August 1 2023.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884914814356/EN_-_Roblox_Terms_of_Use_-_August_1_2023.pdf)
+* [EN - Roblox Terms of Use - August 1 2023.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884914814356)
     
-    1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884914814356/EN_-_Roblox_Terms_of_Use_-_August_1_2023.pdf)
+    1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884914814356)
     
-* [DE - Nutzungsbedingungen von Roblox - 1. August 2023.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884959687444/DE_-_Nutzungsbedingungen_von_Roblox_-_1._August_2023.pdf)
+* [DE - Nutzungsbedingungen von Roblox - 1. August 2023.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884959687444)
     
-    1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884959687444/DE_-_Nutzungsbedingungen_von_Roblox_-_1._August_2023.pdf)
+    1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884959687444)
     
-* [JA - Roblox利用規約 - 2023年8月1日.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884943420436/JA_-_Roblox_____-_2023_8_1_.pdf)
+* [JA - Roblox利用規約 - 2023年8月1日.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884943420436)
     
-    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884943420436/JA_-_Roblox_____-_2023_8_1_.pdf)
+    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884943420436)
     
-* [KO - Roblox 이용 약관 - 2023년 8월 1일.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884931368596/KO_-_Roblox______________-_2023____8____1___.pdf)
+* [KO - Roblox 이용 약관 - 2023년 8월 1일.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884931368596)
     
-    3 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884931368596/KO_-_Roblox______________-_2023____8____1___.pdf)
+    3 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884931368596)
     
-* [PT-BR - Termos de Uso da Roblox - 1o de agosto de 2023.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884943537556/PT-BR_-_Termos_de_Uso_da_Roblox_-_1o_de_agosto_de_2023.pdf)
+* [PT-BR - Termos de Uso da Roblox - 1o de agosto de 2023.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/17884943537556)
     
-    1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884943537556/PT-BR_-_Termos_de_Uso_da_Roblox_-_1o_de_agosto_de_2023.pdf)
+    1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/17884943537556)
     
 
 [Return to top](#article-container)
