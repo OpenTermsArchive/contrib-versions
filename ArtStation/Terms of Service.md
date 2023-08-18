@@ -623,8 +623,8 @@ Under this Agreement, Your Content is considered to be created using Generative 
 
 * * *
 
-Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated February 17, 2023)
+Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated August 18, 2023)
 
-The estimated average monthly active recipients in the European Union of ArtStation for the past six months was 1.2 million.
+The estimated average monthly active recipients in the European Union of ArtStation for the past six months was 1.3 million.
 
 Users who accessed more than one of Epic's services or products in a given month are counted as a user for each service or product.
