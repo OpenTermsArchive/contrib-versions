@@ -224,8 +224,8 @@ March 17, 2022: Simplified the terms to remove redundant language already addres
   
   
 
-### Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated February 17, 2023).
+### Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated August 17, 2023).
 
-The estimated average monthly active recipients in the European Union of Bandcamp for the past six months was 3.3 million.
+The estimated average monthly active recipients in the European Union of Bandcamp for the past six months was 5.7 million.
 
 Users who accessed more than one of Epic’s services or products in a given month are counted as a user for each service or product.
