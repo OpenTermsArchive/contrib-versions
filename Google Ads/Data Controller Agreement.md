@@ -207,7 +207,7 @@ The Google End Controllers are: (i) for European Controller Personal Data proces
 
 (ii)If the Data Recipient determines that it cannot comply with paragraph 4.3(c)(i), it will: (A) notify the Data Provider in writing; and (B) either cease processing the Data Provider Personal Data or take reasonable and appropriate steps to remedy such non-compliance.
 
-(d)**Alternative Transfer Solution Adoption and Certification.** Information about Google and/or its Affiliates’ adoption of, or certification under, any Alternative Transfer Solutions can be found at [https://policies.google.com/privacy/frameworks](https://policies.google.com/privacy/frameworks). This paragraph 4.3(d) constitutes notice in writing of Google and or its Affiliates’ current certifications as at the Terms Effective Date for the purpose of paragraph 4.3(a)(iii).
+(d)**Alternative Transfer Solution Adoption and Certification.** Information about Google and/or its Affiliates’ adoption of, or certification under, any Alternative Transfer Solutions can be found at [https://business.safety.google/adsdatatransfers](https://privacy.google.com/adsdatatransfers). This paragraph 4.3(d) constitutes notice in writing of Google and or its Affiliates’ current certifications as at the Terms Effective Date for the purpose of paragraph 4.3(a)(iii).
 
 5. Controller SCCs
 
@@ -279,9 +279,11 @@ In this Appendix 1B:
 
 (d)“**RDP Services**” means Controller Services operating under Restricted Data Processing.
 
-(e) the terms “**business**”, “**consumer**”, “**personal information**”, “**sale(s)**”, “**sell**”, “**service provider**”, and “**share**” as used in this Appendix 1B have the meanings given in the US State Privacy Laws.
+(e)“**Term**” means the period from the Terms Effective Date until the end of Google’s provision of the Controller Services under the Agreement.
 
-(f)Customer is solely liable for its compliance with each of the US State Privacy Laws in its use of Google services, including Restricted Data Processing.
+(f) the terms “**business**”, “**consumer**”, “**personal information**”, “**sale(s)**”, “**sell**”, “**service provider**”, and “**share**” as used in this Appendix 1B have the meanings given in the US State Privacy Laws.
+
+(g)Customer is solely liable for its compliance with each of the US State Privacy Laws in its use of Google services, including Restricted Data Processing.
 
 3. US State Privacy Law Terms (under Restricted Data Processing).
 
