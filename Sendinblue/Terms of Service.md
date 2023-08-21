@@ -6,13 +6,13 @@ Table of contents
 
 [I. General conditions of use](https://www.brevo.com/legal/termsofuse/#generalconditions)
 
-[Annex 1 : Agreement on the processing of personal data](https://www.brevo.com/legal/termsofuse/#annex)
-
 [II. Terms of use applicable to the Brevo Payment product](https://www.brevo.com/legal/termsofuse/#II)
 
 [III.  Terms of use applicable to Users incorporated in USA, Canada, Australia and New-Zealand](https://www.brevo.com/legal/termsofuse/#NA)
 
 If the legal entity you represent or act on behalf of is incorporated in the **USA, Canada, Australia or New Zealand**, the following terms are applicable to you: [Sendinblue Inc. Terms of Use](https://www.brevo.com/legal/termsofuse/#NA)
+
+[Data Processing Agreement (DPA)](https://www.brevo.com/legal/termsofuse/#annex)
 
 ### I. General Conditions of Use
 
@@ -804,7 +804,7 @@ This Data Processing Agreement and its Annex (collectively, the “**DPA**”) i
 
 **(b)** Contact/recipient: identification and contact details as uploaded by the User (name, email address, telephone number, notes, imported file); IT information (IP addresses, open/click rate and events related), sending information (date and time).
 
-**3.7.** **Instructions:** Brevo shall Process, retain, use, store, or disclose Customer Data only according to written, documented instructions issued by Customer to Brevo to perform a specific or general action with regard to Customer Data for the purpose of providing the services to Customer pursuant to the Terms (Customer’s “Instructions”). The parties agree that the Terms (including this DPA), together with Customer’s use of the Brevo services in accordance with the Terms, constitute Customer’s complete and final Instructions to Brevo in relation to the Processing of Customer Data. Brevo shall inform Customer without delay if, in Brevo’s opinion, an Instruction violates applicable Data Protection Laws or Brevo is unable follow an Instruction and, where necessary, cease all Processing until Customer issues new Instructions with which Brevo is able to comply.
+**3.7.** **Instructions:** Brevo shall Process, retain, use, store, or disclose Customer Data only according to written, documented instructions issued by Customer to Brevo to perform a specific or general action with regard to Customer Data for the purpose of providing the services to Customer pursuant to the Terms (Customer’s “Instructions”). The parties agree that the Terms (including this DPA), together with Customer’s use of the Brevo services in accordance with the Terms, constitute Customer’s complete and final Instructions to Brevo in relation to the Processing of Customer Data. Brevo shall inform Customer without delay if, in Brevo’s opinion, an Instruction violates applicable Data Protection Laws or Brevo is unable to follow an Instruction and, where necessary, cease all Processing until Customer issues new Instructions with which Brevo is able to comply.
 
 ### 4\. Customer Obligations
 
@@ -842,7 +842,7 @@ Brevo shall make reasonable efforts to identify the cause of such Data Breach an
 
 **6.2.** **Audit**: Brevo endeavors to provide Customer with all the information and documents necessary for Customer to demonstrate its compliance with the obligations set out in this DPA. Brevo undertakes to accede to all reasonable requests made by Customer to verify that Brevo complied with the contractual obligations imposed by this DPA. If Customer requires further documentation related to this DPA, upon Customer’s written request and at reasonable intervals and Customer’s sole expense, and subject to the confidentiality obligations set forth in the Terms, Brevo shall make available to Customer documentation regarding Brevo compliance with the obligations set forth in this DPA in the form of a copy of Brevo’s then most recent third-party audits or certifications or comparable documentation as determined by Brevo or, upon request by Customer, documentation of a Sub-Processor’s compliance with this DPA (collectively, “Audit Documentation”). Customer acknowledges that: (i) documentation of a Sub-Processor’s compliance shall be considered confidential and (ii) certain Sub-Processors may require Customer to execute a non-disclosure Terms with them to view Sub-Processor documentation. 
 
-**6.3: Audit Limitations:** The audits described in Section 6.2: (i) may not occur more than one (1) time per contract year; (ii) will be limited to Customer Data processing activities performed by Brevo on behalf of the Customer; (iii) may not involve any on site investigation, except as mutually agreed in writing by the Brevo and Customer ; and (iv) available Audit Documentation shall be limited to the extent necessary for Brevo to comply with the legal rights of Brevo employees.
+**6.3: Audit Limitations:** The audits described in Section 6.2: (i) may not occur more than one (1) time per contract year; (ii) will be limited to Customer Data processing activities performed by Brevo on behalf of the Customer; (iii) may not involve any on site investigation, except as mutually agreed in writing by the Brevo and Customer; and (iv) available Audit Documentation shall be limited to the extent necessary for Brevo to comply with the legal rights of Brevo employees.
 
 ### 7\. Sub-Processors
 
@@ -866,8 +866,8 @@ Brevo shall make reasonable efforts to identify the cause of such Data Breach an
 
 The Services may at times require the Processing of Customer Data outside the EEA where Brevo, its Affiliates or its Sub-processors maintain operations. Brevo shall at all times provide an adequate level of protection of the Customer Data processed, in accordance with the requirements of applicable Data Protection Laws, including Standard Contractual Clauses and supplementary measures. Brevo reserves the right to rely on the EU-US Data Privacy Framework for transfers to the US, as long as this framework remains valid.
 
-ANNEX : LIST OF SUB-PROCESSORS
-------------------------------
+ANNEX: List of Sub-Processors
+-----------------------------
 
 The following Sub-processors are necessary for Brevo to provide the Services. When marked as “optional”, the Services shall be available to the Customer via the use of the Platform, but shall only be considered Customer’s Sub-processors in the event Customer actually uses these Services.
 
