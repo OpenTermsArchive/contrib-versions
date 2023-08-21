@@ -276,87 +276,6 @@ The General Conditions of Use are governed solely by French law.
 
 Any dispute between the Parties arising from questions as to the validity, interpretation and/or performance, termination or breach of the General Conditions of Use shall be submitted by the first-acting Party to the Commercial Court of Paris, including in the event of summary proceedings, guarantee claims and/or multiple defendants.
 
-ANNEX 1 – Agreement on the processing of personal data
-------------------------------------------------------
-
-In the context of the Services provided to the User, Brevo is required to carry out personal data processing operations on behalf of the User. This processing is carried out for the duration of the contractual relationship between Brevo and the User.
-
-The processing carried out by Brevo on behalf of the User is described below:
-
-* Storage of contact lists uploaded by Users
-* Sending messages by email or SMS, whether automated or not
-* Retention and analysis of email deliverability data
-* Retargeting display
-* Collection of unsubscriptions and User information affected
-* Collection of consents (in the event that the User uses the Brevo form to retrieve contact data from their own site)
-
-In this respect, Brevo (ex Sendinblue) declares that it offers sufficient guarantees as to the implementation of appropriate technical and organizational measures so that the processing meets the requirements of the GDPR and ensures the protection of the data subject’s rights, and undertakes to respect the following obligations:
-
-### 1\. Brevo’s Obligations
-
-#### a) User’s instructions
-
-Brevo (ex Sendinblue) undertakes to process personal data only for the purposes of performing the Services in accordance with the User’s instructions. Thus, Brevo (ex Sendinblue) agrees not to concede, rent, transfer or otherwise communicate to another person, all or part of the personal data, even free of charge, and not to use the personal data for purposes other than those provided in the General Conditions of Use.
-
-In the event that Brevo (ex Sendinblue) considers that an instruction given by the User constitutes a violation of an applicable law, Brevo (ex Sendinblue) must immediately inform the User.
-
-#### b) Confidentiality and security
-
-Brevo (ex Sendinblue) guarantees the confidentiality of personal data processed in connection with the Services. As such, it ensures (i) that personal data is communicated only to persons who need to know it, (ii) that these persons are aware of the User’s instructions and undertake to process the personal data entrusted to them only in strict compliance with the instructions and for no other purpose, (iii) that they are subject to an appropriate contractual or legal obligation of confidentiality, and (iv) that they receive the necessary training in the field of data protection.
-
-Brevo (ex Sendinblue) undertakes to implement the appropriate technical and organizational measures in order to preserve the confidentiality and security of personal data and, in particular, to prevent it from being distorted, damaged or communicated to unauthorised third parties, and more generally, to protect personal data against accidental or unlawful destruction, accidental loss, alteration, unauthorised dissemination or access, as well as against any form of unlawful processing, it being specified that these measures must ensure, taking into account best practice and the costs associated with their implementation, a level of security appropriate to the risks presented by the processing and the nature of the data to be protected and, more generally, in order to guarantee a level of security of personal data appropriate to the risk.
-
-#### c) Notification of violations of personal data
-
-In the event of an accidental or unlawful breach of security resulting in the destruction, loss, alteration, unauthorised disclosure of, or unauthorised access to, personal data processed by Brevo (ex Sendinblue), Brevo (ex Sendinblue) undertakes to immediately notify the User within 72 hours of the detection of the incident.
-
-In such circumstances, and in consultation with the User, Brevo (ex Sendinblue) undertakes to put in place the necessary data protection measures and to limit any negative effects on the data subjects.
-
-Brevo (ex Sendinblue) undertakes to provide the User with all reasonable information and assistance to enable the latter to comply with its obligations to notify the data protection authorities and, where applicable, the data subjects.
-
-#### d) User support
-
-Brevo (ex Sendinblue) undertakes, as far as possible, to assist the User in fulfilling its own obligations. Thus, Brevo (ex Sendinblue) shall:
-
-* take charge of the requests to unsubscribe from distribution lists on behalf of the User;
-* respond promptly to any request from the User concerning the personal data processed, in order to enable the User to take into account, within the time limits set, any potential requests from data subjects (right of access, right of rectification, right of destruction, etc.), and more generally to take into account the nature of the processing and help the User through appropriate technical and organisational measures to comply with their obligation to respond to requests submitted by the data subjects with a view to exercising their rights;
-* forward to the User, on receipt, requests from the data subjects to exercise their rights;
-* assist and collaborate with the User in order to guarantee compliance with its obligations, in accordance with the applicable regulations on the matter, and in particular help the User to ensure the security of personal data, to comply with its obligations in the event of a security breach and to assist the User in carrying out any measures necessary prior to processing, such as the implementation of an impact analysis.
-
-#### e) Data access / deletion
-
-At any time during the implementation of the General Conditions of Use, the User may access the personal data processed by Brevo (ex Sendinblue) or delete it directly from the Site using the export and integrated deletion features.
-
-At the end of the contractual relationship, Brevo undertakes, at the User’s request, to destroy all personal data, or to return it to the User or another data processor designated by them if technically feasible and within a maximum period of 3 months. The return must be accompanied by the destruction of existing copies in Brevo’s information systems, unless any applicable law requires their retention.
-
-### 2\. Audit
-
-Brevo (ex Sendinblue) undertakes to provide the User with all the information and documents necessary to demonstrate compliance with the obligations set out herein.
-
-Brevo (ex Sendinblue) authorises the User or any other external auditor not competing with Brevo (ex Sendinblue) and mandated by the User to inspect and audit its personal data processing activities, and undertakes to accede to all reasonable requests made by the User to verify that Brevo (ex Sendinblue) complies with the contractual obligations imposed by this Annex.
-
-It is agreed that, subject to any requests from the regulators to this effect, such audits may take place no more than once (1) per contract year. In all cases, the User must give Brevo (ex Sendinblue) a minimum notice of fifteen (15) days, and the audit must in no case disrupt the ongoing activities of Brevo (ex Sendinblue). The audit will be limited to the personal data processing activities performed by Brevo (ex Sendinblue) on behalf of the User, and the User will not be able to access data concerning other Brevo (ex Sendinblue) customers.
-
-Brevo (ex Sendinblue) undertakes to communicate all supporting documentation proving the compliance of the processing with the User’s instructions, and that the appropriate security measures have indeed been put in place.
-
-### 3\. Sub-processing
-
-The User is informed, and expressly accepts, that Brevo (ex Sendinblue) may have recourse to sub-processors within the context of the Services, who will have access/process the personal data entrusted by the User on their behalf. The list of the relevant processors is as follows: [see the list](https://bit.ly/subcontactors-SIB-EN-int).
-
-The User is made aware that some of these sub-processors are located in countries outside the European Union, including in the United States, and, as such, the User expressly authorizes Brevo (ex Sendinblue) to transfer personal data outside the European Union. Brevo (ex Sendinblue) undertakes to put in place all the necessary guarantees in order to supervise these transfers in compliance with the applicable rules.
-
-In this context, the User shall expressly mandate Brevo (ex Sendinblue) to sign, in its name and on its behalf, standard contractual clauses ” data controller to data processor ” with the sub-processors (see the standard clauses of the European Commission at the following address: [https://commission.europa.eu/system/files/2021-06/1\_en\_annexe\_acte\_autonome\_cp\_part1\_v5\_0.pdf](https://commission.europa.eu/system/files/2021-06/1_en_annexe_acte_autonome_cp_part1_v5_0.pdf) ).
-
-In the event of modification of the list of its sub-processors, Brevo (ex Sendinblue) will notify the User by email or by notification through the customer account, and the User will have the possibility to cancel the subscription in the event of an objection. It is specified that this notification will include any information relating to possible transfers of personal data outside the European Union.
-
-When Brevo (ex Sendinblue) uses sub-processors to carry out specific processing activities on behalf of and on the instructions of the User, the same data protection obligations as those laid down in these GCU are imposed contractually on the sub-processors, in particular with regard to providing sufficient guarantees as to the implementation of the appropriate technical and organisational measures.
-
-It is Brevo (ex Sendinblue)’s responsibility to ensure that sub-processors provide sufficient guarantees to ensure that the processing meets the requirements of the GDPR. If the sub-processors do not fulfil their data protection obligations, it is recalled that Brevo (ex Sendinblue) remains fully liable to the User for the performance by sub-processors of their obligations.
-
-### 4\. Transfers of personal data outside the EU for legal purposes
-
-If Brevo is required to make such transfers under the applicable law, it undertakes to immediately inform the User of this legal obligation before the processing, unless the applicable law prohibits such information for reasons of public interest.
-
 II. Brevo Payment Terms and Conditions
 --------------------------------------
 
@@ -801,3 +720,170 @@ Any claim or dispute brought by you arising from or relating to these Terms, or 
 **Modification of Terms of Use.** Brevo (ex Sendinblue) reserves the right to revise these Terms of Use by updating the Terms of Use posted to its website without prior notice.  Your continued use of our Services following the posting of changes constitutes your acceptance of such changes. You are advised to periodically visit this page to determine the then current Terms of Use. 
 
 **Contact Us.** If you have any questions about these Terms, please contact us at [\[email protected\]](https://www.sendinblue.com/cdn-cgi/l/email-protection).
+
+_The DPA has been updated on 08/21/23 to notably:_
+
+* _adapt its content to Brevo’s new products and services;_
+* _take into account the latest changes of applicable privacy laws;_
+* _detail the description of the processing._
+
+_To consult the previous version please ask the support team._
+
+DATA PROCESSING AGREEMENT (DPA)
+-------------------------------
+
+This Data Processing Agreement and its Annex (collectively, the “**DPA**”) is part of the Terms and Conditions between Brevo and the Customer (the “Terms”) and sets forth the terms and conditions relating to Processing of Personal Data by Brevo. The Parties agree to comply with the terms and conditions in this DPA in connection with such Processing of Personal Data contained in Customer Data. For the purpose of this agreement, the Parties agree that Brevo acts as Processor and Customer acts as Controller as those terms are defined under Data Protection Laws. In some cases where Customer acts as Processor for an end-user, Brevo shall act as subprocessor. This DPA shall not replace any comparable or additional rights relating to Processing of Personal Data contained in the Terms. All capitalized terms not defined herein have the same meaning set forth in the Terms. All capitalized terms not defined in this DPA shall have the meaning set forth in the Terms.
+
+### 1\. Definitions
+
+“**Affiliate**” means an entity that directly or indirectly Controls, is Controlled by or is under common Control with an entity. 
+
+“**CCPA**” means the California Consumer Privacy Act, Cal. Civ. Code§ 1798.100 et seq., and its implementing regulations, as amended from time to time.
+
+“**Control**” means an ownership, voting or similar interest representing fifty percent (50%) or more of the total interests then outstanding of the entity in question. The term “**Controlled**” shall be construed accordingly. 
+
+“**Controller**” means the entity which determines the means and purposes of the Processing of Personal Data.
+
+“**Customer Data**” means any Personal Data that Brevo processes on behalf of Customer as a Processor in the course of providing Services, as more particularly described in this DPA. 
+
+“**Data Protection Laws**” means all laws and regulations applicable to the Processing of Personal Data under the Terms, including without limitation CCPA and other laws and regulations of the United States and its states, the GDPR and other EU Data Protection Laws and Regulations, each as amended from time to time. 
+
+“**Data Subject**” means the identified or identifiable person to whom Personal Data relates.
+
+“**EEA**” means, for the purposes of this DPA, the European Economic Area, United Kingdom and Switzerland. 
+
+“**EU Data Protection Law**” means (i) Regulation 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of Personal Data and on the free movement of such data (General Data Protection Regulation) (“**GDPR**”); and (ii) Directive 2002/58/EC concerning the processing of Personal Data and the protection of privacy in the electronic communications sector, and other applicable laws and regulations of the European Union, the European Economic Area and their member states, Switzerland, and the United Kingdom, as well as applicable national implementations thereof (as may be amended, superseded or replaced). 
+
+“**Group**” means any and all Affiliates that are part of an entity’s corporate group. 
+
+“**Personal Data**” means any information contained in Customer Data that is protected under applicable Data Protection Laws and Regulations, such as information describing or relating to: (i) an identified or identifiable natural person or household or (ii) an identified or identifiable legal entity (where such information is protected as personal data or personally identifiable information under applicable Data Protection Laws and Regulations). 
+
+“**Processing**” has the meaning given to it in the GDPR and “**process**”, “**processes**” and “**processed**” shall be interpreted accordingly. 
+
+“**Processor**” means the Party which Processes Personal Data on behalf of the Controller, including as applicable any “Service Provider” as that term is defined by the CCPA and comparable U.S. privacy laws.
+
+**“Services”** means all features and services provided by Brevo via its online Platform.
+
+“**Security Incident**” means any unauthorized or unlawful breach of security that leads to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of or access to Customer Data. 
+
+“**Sub-processor**” means any Processor engaged by Brevo or its Affiliates to assist in fulfilling its obligations with respect to providing the Services pursuant to the Terms or this DPA. Sub-processors may include third parties or members of the Brevo Group.
+
+### 2\. Relationship with the Terms
+
+**2.1.** If there is any conflict between this DPA and any other provision of the Terms, this DPA shall prevail to the extent of that conflict. 
+
+**2.2.**  Any claims brought under or in connection with this DPA shall be subject to the terms of the Terms, including but not limited to the exclusions and limitations set forth in the Terms. 
+
+**2.3.** No one other than a party to this DPA, its successors and permitted assignees shall have any right to enforce any of its terms. 
+
+**2.4.** This DPA shall be governed by and construed in accordance with governing law and jurisdiction provisions in the Terms, unless required otherwise by applicable Data Protection Laws.
+
+**2.5.** This DPA applies where and only to the extent that Data Protection Laws are applicable to the processing of Customer Data. 
+
+### 3\. Details of Data Processing
+
+**3.1. Role of Parties:** The parties acknowledge and agree that (i) with regard to the Processing of Customer Data, Customer is the Controller and Brevo is the Processor and (ii) Brevo will engage Sub-Processors pursuant to the requirements set forth in Section 7 “Sub-Processors” below. Brevo may process Customer Data as a Controller in accordance with Brevo’s privacy policy that Customer hereby acknowledges ([https://www.brevo.com/legal/privacypolicy/](https://www.brevo.com/legal/privacypolicy/)) in order to manage the Customer’s account, provide billing, produce statistics, or defend its rights in court or in settlement.  
+
+**3.2.** **Duration:**  Brevo shall Process Customer Data throughout the duration of the term of the Terms or any renewal thereof. Upon termination of the Services by either party, Brevo shall cease processing Customer Data. Brevo may use Customer Data for the purpose of creating statistics and improving its products and services in an anonymized or aggregated manner or to comply with legal obligations applicable to Brevo in its role as a hosting provider.
+
+**3.3.** **Nature of Processing:** The nature of Brevo’s Processing of Customer Data as Customer’s Processor is described in and governed by the Terms. The provision of the standard Services includes, without limitation, maintaining and improving the security of Brevo’s platform, maintaining and improving the deliverability conditions of electronic communications, and developing the Brevo product and user experience.
+
+**3.4.** **Purpose of Processing:** The purpose of Brevo’s Processing of Customer Data as Customer’s Processor is the provision of Brevo’s standard Services to the Customer and the performance of Brevo’s obligations to Customer and under applicable laws. In particular, Brevo shall process Customer Data for the following purposes: 
+
+* Storage of contact lists uploaded by Users
+* Sending messages by email or SMS or other means of electronic communications, whether automated or not
+* Retention and analysis of email deliverability data
+* Collection of unsubscriptions 
+* Collection of consents (in the event that the User uses the Brevo form to retrieve contact data from their own site)
+
+**3.5**. **Categories of Data Subjects:** Users, and any individual: (i) whose email address and/or telephone number is included in the Customer distribution list; (ii) whose information is stored or collected via the Services, or (iii) to whom Users send emails or otherwise engage or communicate with via the Services.
+
+**3.6.** **Subject matter:** The subject-matter of data Processed under this DPA is Customer Data as described in the Terms and this DPA.
+
+**(a)** Customer and Users: identification and contact details (name, address, title, contact details, username, company/organization details, phone number); organization details (geographic location, website), sending information (email address, IP address, date and time). 
+
+**(b)** Contact/recipient: identification and contact details as uploaded by the User (name, email address, telephone number, notes, imported file); IT information (IP addresses, open/click rate and events related), sending information (date and time).
+
+**3.7.** **Instructions:** Brevo shall Process, retain, use, store, or disclose Customer Data only according to written, documented instructions issued by Customer to Brevo to perform a specific or general action with regard to Customer Data for the purpose of providing the services to Customer pursuant to the Terms (Customer’s “Instructions”). The parties agree that the Terms (including this DPA), together with Customer’s use of the Brevo services in accordance with the Terms, constitute Customer’s complete and final Instructions to Brevo in relation to the Processing of Customer Data. Brevo shall inform Customer without delay if, in Brevo’s opinion, an Instruction violates applicable Data Protection Laws or Brevo is unable follow an Instruction and, where necessary, cease all Processing until Customer issues new Instructions with which Brevo is able to comply.
+
+### 4\. Customer Obligations
+
+**4.1.** **Customer Processing:** Customer shall, in Customer’s use of the Services, Process Personal Data in accordance with the requirements of all applicable Data Protection Laws and Regulations. Customer represents and warrants that Customer has established a lawful basis to Process Personal Data, Customer’s use of the Brevo services will not violate the rights of any Data Subject, and Customer has the right to transfer, or provide access to, the Personal Data to Brevo for Processing in accordance with the terms of the Terms (including this DPA).
+
+**4.2.** **Customer Responsibilities:** Customer shall have sole responsibility for the accuracy, quality, and legality of Personal Data and the means by which Customer acquired Personal Data. If Customer is established in a jurisdiction governed by Data Protection Law(s), or if its Distribution List contains Personal Data of citizens of one or more jurisdictions governed by Data Protection Law(s), Customer agrees that (i) it shall comply with its obligations as a Controller under applicable Data Protection Law in respect of its processing of Customer Data and any processing instructions it issues to Brevo; and (ii) it has provided notice and obtained (or shall obtain) all consents from Data Subjects and rights necessary under Data Protection Laws for Brevo to process Customer Data and provide the Services pursuant to the Terms and this DPA.  
+
+**4.3.** **Data Retention:** The Parties agree that Customer (including its Users), and not Brevo, are responsible for managing the retention periods of Personal Data that they upload onto Brevo’s Platform, and that it is incumbent on Customer to delete such Personal data as and when the applicable retention period expires. Brevo is responsible only for deleting or anonymizing data at the end of its contractual relationship with Customer. 
+
+**4.4**. **No Sensitive Personal Data:** Customer undertakes not to include in the Distribution Lists uploaded onto the Platform any Personal Data known as “sensitive” within the meaning of Article 9 of the GDPR or as defined in Cal. Civ. Code § 1798.140(ae) of the CCPA or comparable U.S. Data Protection Laws.
+
+**4.5.** **Notice to Brevo:** Customer shall inform Brevo without undue delay if Customer is not able to comply with Customer’s obligations under this DPA or any applicable Data Protection Laws. For the avoidance of doubt, Brevo is not responsible for compliance with any Data Protection Laws applicable to Customer or Customer’s industry that are not generally applicable to Brevo.
+
+### 5\. Brevo’s Obligations
+
+**5.1.** **Brevo Processing:** Customer hereby appoints Brevo to process Customer Data on Customer’s behalf for the purposes described in the Terms (including this DPA) and its privacy policy ([https://www.brevo.com/legal/privacypolicy/](https://www.brevo.com/legal/privacypolicy/)). Brevo shall Process Customer Data in accordance with Customer’s Instructions, as further specified in the Terms and this DPA. All Customer Data Processed under the Terms (including this DPA) will be stored, organized, and made available to Customer as the Controller. Brevo shall appoint a Data Protection Officer: [\[email protected\]](https://www.sendinblue.com/cdn-cgi/l/email-protection).
+
+**5.2.** **Register:** Brevo shall maintain a register with a list of the processing operations carried out on behalf of the Controller as required by applicable Data Protection Laws. Such register shall include all the information listed in Article 30 (2) of the GDPR.
+
+**5.3.** **Data** **Destruction or Export**: Customer may, at any time during the performance of the Terms, (i) access or delete Customer Data processed by Brevo directly via the Platform or (ii) retrieve the data that the Customer has uploaded on the Platform or reports relating to the data by clicking on the “export button” in Customer’s Brevo account. Upon termination of the Terms, Brevo shall, upon Customer’s request, destroy all Customer Data within three (3) months of termination. Upon request by Customer, Brevo shall provide Customer with written confirmation of such destruction. Notwithstanding the foregoing, Brevo reserves the right to retain Customer Data for longer periods where a longer retention period is required by applicable law. 
+
+**5.4.** **Security**: Brevo undertakes to take all commercially reasonable and legally necessary precautions, in respect of the nature of Personal Data and the risks presented by the processing, to preserve the security of Personal Data and in particular, to prevent it from being distorted, damaged or accessed by unauthorized third parties. Brevo shall implement and maintain appropriate technical and organizational security and confidentiality measures available on demand.
+
+**5.5.** **Confidentiality**: Brevo shall treat Customer Data as Confidential Information. Brevo undertakes to ensure that only its employees authorized to process Personal Data for the purpose of performing the contract have access to it within the strict limits of what is necessary for the performance of their duties, and these employees undertake to respect the confidentiality of Personal Data. 
+
+**5.6.** **Required Disclosure:** If Brevo is required by applicable law to disclose Customer Data for a purpose unrelated to the Terms, Brevo will first inform Customer of the legal requirement and give Customer an opportunity to object or challenge the requirement, unless the law prohibits such notice. Notwithstanding the foregoing, Brevo shall have the right to collect and use Personal Data contained in Customer Data to investigate a use of the Brevo services that is unlawful or violates the Terms, provide, and develop such services, respond to legal actions, or for administrative purposes such as accounting and compliance.
+
+**5.7.** **Data Breach**: Brevo shall notify Customer without undue delay at Customer’s email address on file or via Customer’s account on the Platform after becoming aware of a Data Breach occurring on Brevo’s Platform or information systems, or information systems of a Brevo Sub-Processor upon Brevo becoming aware. Brevo shall provide such notification in compliance with applicable Data Protection Laws and such notification shall include, at a minimum, the details listed in Article 33 (3) of the GDPR. 
+
+Brevo shall make reasonable efforts to identify the cause of such Data Breach and take such steps as Brevo deems necessary and reasonable to remediate the cause of such a Data Breach to the extent the remediation is within its reasonable control. At Customer’s reasonable request, and to the extent Brevo is required to do so under applicable Data Protection Laws, Brevo will promptly provide Customer with commercially reasonable assistance as necessary to enable Customer to meet Customer’s obligations under applicable Data Protection Laws to notify authorities and/or affected Data Subjects. The obligations herein shall not apply to incidents that are caused by Customer or Customer’s Users.
+
+### 6\. Assistance and Audit
+
+**6.1.** **Assistance**: To the extent Customer is unable to independently access the relevant Customer Data via the Platform, upon written request by Customer and at Customer’s expense, Brevo shall reasonably assist and cooperate with Customer to respond to a Data Subject request to exercise rights as required by applicable Data Protection Laws or a request from applicable data protection authorities relating to the processing of Personal Data under the Terms. If any such request is made directly to Brevo, Brevo shall not respond to such request directly without Customer’s prior authorization unless legally compelled to do so. If Brevo is legally compelled to directly respond to such a request, Brevo shall promptly notify Customer and provide Customer with a copy of the request unless legally prohibited from doing so. Brevo may directly execute a data subject’s request if (i) the request is an automatic unsubscription or if (ii) the request refers to an unsolicited communication, a prohibited use of the Services or a potential breach of this Agreement by the Customer or one of Brevo’s customers. In cases (i) and/or (ii), Brevo will execute the request of the data subject without the prior approval of the Customer. In case (ii), Brevo may suspend the possibility of sending any electronic communication to the domain of the person concerned.
+
+**6.2.** **Audit**: Brevo endeavors to provide Customer with all the information and documents necessary for Customer to demonstrate its compliance with the obligations set out in this DPA. Brevo undertakes to accede to all reasonable requests made by Customer to verify that Brevo complied with the contractual obligations imposed by this DPA. If Customer requires further documentation related to this DPA, upon Customer’s written request and at reasonable intervals and Customer’s sole expense, and subject to the confidentiality obligations set forth in the Terms, Brevo shall make available to Customer documentation regarding Brevo compliance with the obligations set forth in this DPA in the form of a copy of Brevo’s then most recent third-party audits or certifications or comparable documentation as determined by Brevo or, upon request by Customer, documentation of a Sub-Processor’s compliance with this DPA (collectively, “Audit Documentation”). Customer acknowledges that: (i) documentation of a Sub-Processor’s compliance shall be considered confidential and (ii) certain Sub-Processors may require Customer to execute a non-disclosure Terms with them to view Sub-Processor documentation. 
+
+**6.3: Audit Limitations:** The audits described in Section 6.2: (i) may not occur more than one (1) time per contract year; (ii) will be limited to Customer Data processing activities performed by Brevo on behalf of the Customer; (iii) may not involve any on site investigation, except as mutually agreed in writing by the Brevo and Customer ; and (iv) available Audit Documentation shall be limited to the extent necessary for Brevo to comply with the legal rights of Brevo employees.
+
+### 7\. Sub-Processors
+
+**7.1. Authorized Sub-Processors**: Customer is informed and expressly authorizes Brevo to engage the Sub-Processors on the Sub-Processor List in Annex as of the Effective Date to Process Customer Data pursuant to the Terms (including this DPA). Brevo has entered into a written Terms with each Sub-Processor containing data protection obligations not less protective than those in this DPA with respect to the protection of Customer Data to the extent applicable to the nature of the services provided by such Sub-Processor.
+
+**7.2. Sub-processor Obligations:** Brevo shall: (i) enter into a written Terms with each Sub-Processor imposing data protection terms that require the Sub-Processor to protect the Customer Data to the standard required by Data Protection Laws; and (ii) remain responsible for Sub-Processor compliance with the obligations of this DPA and for any acts or omissions of the Sub-Processor that cause Brevo to breach any of its obligations under this DPA. 
+
+**7.3. Changes to Sub-Processor**: Brevo shall provide notification to Customer by email or through Customer’s account on the Platform of any new Sub-Processors before authorizing such new Sub-processor(s) to Process Customer Data. Customer will have the possibility, in the event of an objection that is justified by a violation of EU Data Protection Law, to terminate the Terms during thirty (30) days following the email or notification.
+
+### 8\. U.S. Data Subjects
+
+**8.1. Definitions**: This Section 8 applies to the extent that Brevo Processes Personal Data on Customer’s behalf that is subject to the protections of the CCPA or comparable U.S. state consumer privacy law (“**Personal Information**”). For the purposes of this section: (i) “**Business**”, “**Service Provider**”, “**Sell**”, and “**Share**” shall have the meanings given to them in the CCPA or other applicable U.S. state Data Protection Law and (ii) “**Controller**” is replaced with “**Business**”, “**Processor**” is replaced with “**Service Provider**”, and “**Personal Data**” is replaced with “**Personal Information**” throughout this DPA to the extent necessary for alignment with applicable Data Protection Laws. 
+
+**8.2. Responsibilities:** The Parties agree that Brevo will Process Personal Information contained in Customer Data as Customer’s Service Provider in accordance with the CCPA or other applicable U.S. Data Protection Laws strictly for the business purpose of performing the Services under the Terms. Brevo shall not (i) Sell Personal Information contained in Customer Data; (ii) Share Personal Information contained in Customer Data with third parties for cross-contextual behavioral advertising purposes; (iii) retain, use, or disclose Personal Information contained in Customer Data for a commercial purpose other than for such business purpose or as otherwise permitted by applicable U.S. Data Protection Laws; or (iv) retain, use, or disclose Personal Information contained in Customer Data outside of the direct business relationship between Customer and Brevo. Customer agrees that Customer is solely liable for Customer’s compliance with applicable Data Protection Laws in Customer’s use of Brevo services.
+
+**8.3.** **Certification:** Brevo certifies that it understands and will comply with the restrictions of Section 8.2.
+
+**8.4. No Sale of Personal Information:** The parties agree that Customer does not sell Personal Information to Brevo because, as a Service Provider, Brevo may only use Personal Information contained in Customer Data for the purposes of providing the Services to Customer.
+
+### 9\. International Transfers
+
+The Services may at times require the Processing of Customer Data outside the EEA where Brevo, its Affiliates or its Sub-processors maintain operations. Brevo shall at all times provide an adequate level of protection of the Customer Data processed, in accordance with the requirements of applicable Data Protection Laws, including Standard Contractual Clauses and supplementary measures. Brevo reserves the right to rely on the EU-US Data Privacy Framework for transfers to the US, as long as this framework remains valid.
+
+ANNEX : LIST OF SUB-PROCESSORS
+------------------------------
+
+The following Sub-processors are necessary for Brevo to provide the Services. When marked as “optional”, the Services shall be available to the Customer via the use of the Platform, but shall only be considered Customer’s Sub-processors in the event Customer actually uses these Services.
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Company** | **Sub Processed Activity** | **Company Location** | **Server Location and location of processing** |
+| **Google Cloud Platform** | Hosting | France | Belgium |
+| **Scaleway/Iliad** | Hosting | France | France |
+| **OVH** | Hosting | France | France |
+| **Cloudflare** | Content delivery network and WAF | USA | EU  |
+| **Dynatrace** | Monitoring & support | France | EU  |
+| **Vonage**  <br>(optional if Customer uses the SMS feature) | SMS routing | USA | EU  |
+| **Zendesk** | Ticketing platform | USA | USA & EU |
+| **Sendinblue GmbH**  <br>Group company owned by Sendinblue | Customer experience & maintenance | Germany | Belgium (storage)  <br>France (storage) |
+| **Silver Line**  <br>Group company owned by Sendinblue | Customer experience & maintenance | India | Belgium (storage)  <br>France (storage)  <br>India (access\*) |
+| **Sendinblue Inc.**  <br>Group company owned by Sendinblue | Customer experience & maintenance | USA | Belgium (storage)  <br>France (storage)  <br>USA (access\*) |
+| **Sendinblue Canada Inc.**  <br>Group company owned by Sendinblue | Customer experience & maintenance | Canada | Belgium (storage)  <br>France (storage)  <br>Canada (access\*) |
+
+\*access to the Customer account can be deactivated from the platform
