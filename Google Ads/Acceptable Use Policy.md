@@ -34,7 +34,7 @@ Our advertising policies cover 4 broad areas:
 > 
 > Click through the policies below for policy definitions, examples, and troubleshooting steps.
 
-We use a combination of Google's AI and human evaluation to ensure that ads comply with these policies. Our enforcement technologies use Google's AI, modeled on human reviewers’ decisions, to help protect our users and keep our ad platforms safe. More complex, nuanced or severe cases are often reviewed and evaluated by our specially-trained experts.
+We use a combination of Google AI and human evaluation to ensure that ads comply with these policies. Our enforcement technologies use Google AI, modeled on human reviewers’ decisions, to help protect our users and keep our ad platforms safe. More complex, nuanced or severe cases are often reviewed and evaluated by our specially-trained experts.
 
 We take action on content that violates our policies. This may include disapproving violating ads so they don’t serve, as well as suspending accounts for repeat or egregious violations. We take repeat violations of our policies seriously and continue to expand a strike system for repeat offenders.
 
