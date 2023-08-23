@@ -169,6 +169,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Gent City; contains government information obtained under the model license for free reuse Vlaanderen v1.0 (BE): [https://data.stad.gent/explore/?disjunctive.keyword&disjunctive.theme&sort=modified](https://data.stad.gent/explore/?disjunctive.keyword&disjunctive.theme&sort=modified)
             
+        * City of Antwerp (BE): [https://portaal-stadantwerpen.opendata.arcgis.com/](https://portaal-stadantwerpen.opendata.arcgis.com/)
+            
     7. **Belgium**
         * GeoBolivia (BO): [https://geo.gob.bo/geonetwork/srv/eng/catalog.search#/metadata/cbead6cb-be77-4560-a10a-d1e37928d4fe269690859](https://geo.gob.bo/geonetwork/srv/eng/catalog.search#/metadata/cbead6cb-be77-4560-a10a-d1e37928d4fe269690859)
             
@@ -1014,6 +1016,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Environmental Protection Agency (EPA): [https://www.epa.ie/](https://www.epa.ie/) [https://airquality.ie/](https://airquality.ie/) - License: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
+        * South Dublin City Council (IE): [https://data.gov.ie/](https://data.gov.ie/) Licensed under Creative Commons Attribution 4.0 International (CC By 4.0)
+            
     29. **Isle of Man**
         
         Isle of Man Government
@@ -1096,6 +1100,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Trenord agency Link to their license: [https://opendefinition.org/licenses/cc-by/](https://opendefinition.org/licenses/cc-by/)
             
+        * Regione Campania (IT): [https://dati.regione.campania.it/catalogo/datasetdetail/rete-viaria](https://dati.regione.campania.it/catalogo/datasetdetail/rete-viaria) Licensed under Creative Commons Attribution 4.0 International (CC By 4.0)
+            
+        * Commune di Milano (IT): [https://www.comune.milano.it/](https://www.comune.milano.it/) Licensed under Creative Commons Attribution 2.5 Italy (CC By 2.5 IT): [https://creativecommons.org/licenses/by/2.5/it/deed.en](https://creativecommons.org/licenses/by/2.5/it/deed.en)
+            
     32. **Ivory Cost (Côte d'Ivoire)**
         
         OCHA Côte d'Ivoire ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
@@ -1159,6 +1167,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         "Mapa de Ubicación de Códigos Postales para Jalisco" published by Correos de México. Accessed from [https://datos.gob.mx/busca/](https://datos.gob.mx/) on 28-03-2022
         
         La información de Calidad del Aire que publica la Secretaría del Medio Ambiente del Gobierno de la Ciudad de México, es elaborada a partir de la información que se obtiene de la Red de Monitoreo Atmosférico y sus estaciones de monitoreo en la Zona Metropolitana del Valle de México, que opera y administra la Dirección de Monitoreo de Calidad del Aire de la Dirección General de Calidad del Aire. Esta información es pública y gratuita, y está sujeta a procesos de calidad que podrían modificarla. La difusión o uso de esta información por terceros, queda bajo la responsabilidad de quien la pública o utiliza.
+        
+        Inventario Nacional de Emisiones de Gases y Compuestos de Efecto Invernadero (INEGYCEI) 2020, published by Instituto Nacional de Ecología y Cambio Climático, INECC; CGMCC. Viewed at [https://datos.gob.mx/busca/dataset/inventario-nacional-de-emisiones-de-gases-y-compuestos-de-efecto-invernadero-inegycei/resource/4c0c768a-bcde-45af-af77-76a4c9a10741](https://datos.gob.mx/busca/dataset/inventario-nacional-de-emisiones-de-gases-y-compuestos-de-efecto-invernadero-inegycei/resource/4c0c768a-bcde-45af-af77-76a4c9a10741) on 2023-08-14. License: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
         
         * INEGI (MX) - [https://www.inegi.org.mx/inegi/terminos.html](https://www.inegi.org.mx/inegi/terminos.html)
             
