@@ -82,8 +82,8 @@ Merrion Road, Dublin 4, D04 X2K5, Ireland
 
 For Instagram users in countries outside of the European region, the service provider is Meta Platforms, Inc., please ensure that any requests for Instagram or Facebook user data are correctly addressed to:  
 Meta Platforms, Inc.  
-1601 Willow Road,  
-Menlo Park, CA 94025.
+One Hacker Way  
+Menlo Park, CA 94025
 
 Mail:
 
