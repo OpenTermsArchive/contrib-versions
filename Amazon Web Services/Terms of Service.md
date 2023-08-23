@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: August 16, 2023
+#### Last Updated: August 22, 2023
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -756,7 +756,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **50.8.4.** Law Enforcement Agencies that use Amazon Rekognition for criminal investigations must provide a public disclosure describing their use of facial recognition systems. The method and content of the disclosure is at the reasonable discretion of the agency, but should be easily accessible to the public (such as a posting on a website), describe how the facial recognition system is used, and summarize safeguards in place to prevent violations of civil liberties or equivalent human rights. For examples, see [statements](https://www.fbi.gov/news/testimony/facial-recognition-technology-ensuring-transparency-in-government-use) and [privacy assessments](https://www.fbi.gov/services/information-management/foipa/privacy-impact-assessments/facial-analysis-comparison-and-evaluation-face-services-unit) from the FBI and the [Facial Recognition Policy Development Template](https://bja.ojp.gov/sites/g/files/xyckuh186/files/Publications/Face-Recognition-Policy-Development-Template-508-compliant.pdf) published by the U.S Department of Justice’s Bureau of Justice Assistance.
 
-**50.9.** Amazon has implemented a moratorium on use of Amazon Rekognition’s face comparison feature by police departments in connection with criminal investigations. This moratorium does not apply to use of Amazon Rekognition’s face comparison feature to help identify or locate missing persons. For more information, see our announcement on our [Amazon Day One Blog](https://blog.aboutamazon.com/policy/we-are-implementing-a-one-year-moratorium-on-police-use-of-rekognition).
+**50.9.** Amazon has implemented a moratorium on use of Amazon Rekognition’s face comparison feature by police departments in connection with criminal investigations. This moratorium does not apply to use of Amazon Rekognition’s face comparison feature to help identify or locate missing persons. 
 
 **50.10. Amazon CodeWhisperer Professional Defense of Claims and Indemnity Cap.** The following terms apply to Amazon CodeWhisperer Professional:
 
