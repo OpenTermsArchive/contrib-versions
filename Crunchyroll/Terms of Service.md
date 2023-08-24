@@ -164,7 +164,7 @@ Arbitration Agreement Survival. This arbitration agreement will survive the term
 15\. Force Majeure.
 -------------------
 
-Ellation will not be liable to you by reason of any failure or delay in the performance of its obligations hereunder on account of events beyond its reasonable control, which may include, without limitation, denial-of-service attacks, strikes, shortages, riots, insurrection, fires, flood, storm, explosions, acts of God, war, terrorism, governmental action, labor conditions, earthquakes, material shortages, failure of the internet or extraordinary connectivity issues experienced by major telecommunications providers and unrelated to Ellation infrastructure or connectivity to the internet or failure at an Ellation co-location facility (each a "Force Majeure Event"). Upon the occurrence of a Force Majeure Event, Ellation will be excused from any further performance of its obligations effected by the Force Majeure Event for so long as the event continues, and for such further period of time that Ellation may reasonably require to recover from the effects of such Force Majeure Event.
+Crunchyroll will not be liable to you by reason of any failure or delay in the performance of its obligations hereunder on account of events beyond its reasonable control, which may include, without limitation, denial-of-service attacks, strikes, shortages, riots, insurrection, fires, flood, storm, explosions, acts of God, war, terrorism, governmental action, labor conditions, earthquakes, material shortages, failure of the internet or extraordinary connectivity issues experienced by major telecommunications providers and unrelated to Crunchyroll infrastructure or connectivity to the internet or failure at an Crunchyroll co-location facility (each a "Force Majeure Event"). Upon the occurrence of a Force Majeure Event, Crunchyroll will be excused from any further performance of its obligations effected by the Force Majeure Event for so long as the event continues, and for such further period of time that Crunchyroll may reasonably require to recover from the effects of such Force Majeure Event.
 
 16\. Relationship of the Parties.
 ---------------------------------
@@ -174,27 +174,27 @@ Notwithstanding any provision hereof, for all purposes of these Terms of Use eac
 17\. Notice; Consent to Electronic Notice.
 ------------------------------------------
 
-You consent to the use of (a) electronic means to complete these Terms of Use and to deliver any notices pursuant to these Terms of Use and (b) electronic records to store information related to these Terms of Use or your use of the Site or Services. Any notice or other communication to be given hereunder will be in writing and given (x) by Ellation via email (in each case to the address that you provide), (y) a posting on the Site or (z) by you via email to [e-notice@ellation.com](mailto:e-notice@ellation.com) or to such other addresses as Ellation may specify in writing. The date of receipt will be deemed the date on which such notice is transmitted.
+You consent to the use of (a) electronic means to complete these Terms of Use and to deliver any notices pursuant to these Terms of Use and (b) electronic records to store information related to these Terms of Use or your use of the Site or Services. Any notice or other communication to be given hereunder will be in writing and given (x) by Crunchyroll via email (in each case to the address that you provide), (y) a posting on the Site or (z) by you via email to [e-notice@ellation.com](mailto:e-notice@ellation.com) or to such other addresses as Crunchyroll may specify in writing. The date of receipt will be deemed the date on which such notice is transmitted.
 
 18\. Links to other Websites.
 -----------------------------
 
-The Site or Services may provide links to websites other than Crunchyroll.com. Such links are provided for reference only, and Ellation neither controls such websites nor endorses any of the material on any such websites or any association with their operators. Ellation is not responsible for the activities or such sites, and has no liability to you for any harms, injuries or losses you might suffer as a result of using or accessing such websites.
+The Site or Services may provide links to websites other than Crunchyroll.com. Such links are provided for reference only, and Crunchyroll neither controls such websites nor endorses any of the material on any such websites or any association with their operators. Crunchyroll is not responsible for the activities or such sites, and has no liability to you for any harms, injuries or losses you might suffer as a result of using or accessing such websites.
 
 19\. Miscellaneous.
 -------------------
 
-In the event that any provision in these Terms of Use is held to be invalid or unenforceable, the unenforceable part will be given effect to the greatest extent permitted by law and the remaining provisions will remain in full force and effect to the maximum extent permitted by law. The failure of a party to enforce any right or provision of these Terms of Use will not be deemed a waiver of such right or provision. You may not assign or transfer these Terms of Use (by operation of law or otherwise) without the prior written consent of Ellation and any prohibited assignment will be null and void. Ellation may assign these Terms of Use or any rights hereunder without your consent. You agree that these Terms of Use and the rules, restrictions and policies contained herein, and Ellation's enforcement thereof, are not intended to confer and do not confer any rights or remedies upon any person other than you and Ellation. These Terms of Use together with the rules and policies of Ellation incorporated herein by reference constitute the entire agreement between Ellation and you with respect to the subject matter of these Terms of Use.
+In the event that any provision in these Terms of Use is held to be invalid or unenforceable, the unenforceable part will be given effect to the greatest extent permitted by law and the remaining provisions will remain in full force and effect to the maximum extent permitted by law. The failure of a party to enforce any right or provision of these Terms of Use will not be deemed a waiver of such right or provision. You may not assign or transfer these Terms of Use (by operation of law or otherwise) without the prior written consent of Crunchyroll and any prohibited assignment will be null and void. Crunchyroll may assign these Terms of Use or any rights hereunder without your consent. You agree that these Terms of Use and the rules, restrictions and policies contained herein, and Crunchyroll's enforcement thereof, are not intended to confer and do not confer any rights or remedies upon any person other than you and Crunchyroll. These Terms of Use together with the rules and policies of Crunchyroll incorporated herein by reference constitute the entire agreement between Crunchyroll and you with respect to the subject matter of these Terms of Use.
 
 20\. No Unsolicited Submissions.
 --------------------------------
 
-As a general practice, Ellation, LLC. does not accept unsolicited material that is not represented by a reputable agent, agency, manager, producer, production company or studio. Any unsolicited creative ideas, suggestions or materials of any kind, including for new or improved products, names, promotions, advertisements, marketing, processes pitches, outlines, scripts, treatments, artwork, designs, visual materials, etc. will be discarded and will not be read. The purpose of this policy is to avoid any potential misunderstandings if your original work seems similar to Ellation content since many works and submissions are based on the same or similar ideas. Please note, if you choose to disregard this policy and submit materials regardless, you acknowledge that you have read the Ellation submission policy and understand that by making such a submission, you understand that Ellation has no obligation to you or your submission and that you have no claim whatsoever based on such submission.
+As a general practice, Crunchyroll, LLC. does not accept unsolicited material that is not represented by a reputable agent, agency, manager, producer, production company or studio. Any unsolicited creative ideas, suggestions or materials of any kind, including for new or improved products, names, promotions, advertisements, marketing, processes pitches, outlines, scripts, treatments, artwork, designs, visual materials, etc. will be discarded and will not be read. The purpose of this policy is to avoid any potential misunderstandings if your original work seems similar to Crunchyroll content since many works and submissions are based on the same or similar ideas. Please note, if you choose to disregard this policy and submit materials regardless, you acknowledge that you have read the Crunchyroll submission policy and understand that by making such a submission, you understand that Crunchyroll has no obligation to you or your submission and that you have no claim whatsoever based on such submission.
 
 21\. Questions.
 ---------------
 
-If you have questions about these Terms of Use or would like to request a copy of these Terms of Use or any other records relating to these Terms of Use or your use of the Site and Services, please contact Ellation at [feedback@crunchyroll.com](mailto:feedback@crunchyroll.com) or by sending a written request to Ellation, LLC. at _444 Bush Street, San Francisco, CA 94108, Phone: (415) 796-3560_.
+If you have questions about these Terms of Use or would like to request a copy of these Terms of Use or any other records relating to these Terms of Use or your use of the Site and Services, please contact Crunchyroll at [feedback@crunchyroll.com](mailto:feedback@crunchyroll.com) or by sending a written request to Crunchyroll, LLC. at _444 Bush Street, San Francisco, CA 94108, Phone: (415) 796-3560_.
 
   
 
@@ -203,19 +203,19 @@ Last Modified: 3/14/2019
 Copyright Infringement Notification.
 ------------------------------------
 
-Ellation.com respects all copyright and license owners and adheres to the Digital Millenium Copyright Act.
+Crunchyroll.com respects all copyright and license owners and adheres to the Digital Millennium Copyright Act.
 
-* If you are a content owner and would like us to help distribute your content, contact us.
+* If you are a content owner and would like us to help distribute your content, contact us.
 * If you would like your content removed from this website, follow the instructions below.
 
-If you have questions about these Terms of Use or would like to request a copy of these Terms of Use or any other records relating to these Terms of Use or your use of the Site and Services, please contact Ellation at [feedback@crunchyroll.com](mailto:feedback@crunchyroll.com) or by sending a written request to Ellation, LLC. at _444 Bush Street, San Francisco, CA 94108, Phone: (415) 796-3560_.
+If you have questions about these Terms of Use or would like to request a copy of these Terms of Use or any other records relating to these Terms of Use or your use of the Site and Services, please contact Crunchyroll at [feedback@crunchyroll.com](mailto:feedback@crunchyroll.com) or by sending a written request to Crunchyroll, LLC. at _444 Bush Street, San Francisco, CA 94108, Phone: (415) 796-3560_.
 
 1. A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 2. Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site.
 3. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate the material. **Providing URLs in the body of an email is the best way to help us locate content quickly**.
 4. Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted.
 5. A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
-6. 6\. A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+6. A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
 Such written notice should be sent to our designated agent as follows:
 
@@ -249,7 +249,7 @@ Such written notice should be sent to our designated agent as follows:
 
 DMCA Complaints
 
-Ellation.com
+Crunchyroll.com
 
 Email: [copyright@ellation.com](mailto:copyright@ellation.com)
 
