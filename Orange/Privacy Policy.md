@@ -16,10 +16,10 @@ Les données personnelles collectées par Orange sont regroupées sous les caté
 
 |     |     |
 | --- | --- |
-| Données d’identification | Identité (nom, prénom, pseudo), identifiant administratif (carte d’identité, SIREN, passeport, identifiant fiscal, Kbis…), identifiant émis par un tiers non administratif (compte Facebook, twitter…) |
+| Données d’identification | Identité (nom, prénom, pseudo), identifiant administratif (carte d’identité, passeport, numéro de la carte d'identité ou du passeport, SIREN, identifiant fiscal, Kbis…), identifiant émis par un tiers non administratif (compte Facebook, twitter…) |
 | Vie personnelle | Centres d’intérêts, statut marital, composition du foyer, habitudes de vie, client déclarant avoir une offre chez un opérateur concurrent |
 | Vie professionnelle | Emploi occupé, organisation du travail, |
-| Caractéristiques personnelles | Etat civil, mesure de protection juridique, client bénéficiaire de tarifs sociaux, caractéristiques physiques, photo ou avatar, procuration, signature |
+| Caractéristiques personnelles | Civilité, date et lieu de naissance, date de décès, nationalité, mesures de protection juridique, client bénéficiaire de tarifs sociaux, caractéristiques physiques, photo ou avatar, procuration, signature |
 | Données de contact | Adresse postale, email, numéro de téléphone |
 | Données de localisation | Géolocalisation de la personne ou d’un équipement associé à une personne |
 | Données de connexion, d’usage des services et d’interaction | Logs de connexion, et d’usage, données de trafic, compte rendu d’intervention, équipements détenus, rendez-vous technicien, contenu d’une demande faite à Orange, faits litigieux d’une réclamation ou d’un contentieux, références du dossier, date de début et de clôture du dossier, commentaires relatifs à la description et au suivi du dossier… |
@@ -215,7 +215,7 @@ Vos Données Personnelles sont conservées sur les périodes suivantes :
 * Données relatives au paiement : ces données relatives sont conservées pendant 13 mois suivant la date de débit à titre de preuve, et jusqu’à 15 mois afin de prendre en compte la possibilité d'utilisation de cartes de paiement à débit différé.
 * Données relatives au score et à la segmentation client : ces données sont conservées jusqu’à 2 ans à compter de leur calcul.
 * Données utilisées dans le cadre de la gestion des impayés : en cas de non-paiement, les informations sont conservées jusqu’à 56 mois après la résiliation, durée éventuellement prolongée d’un délai correspondant à la période maximale pendant laquelle un client mobile peut être inscrit dans le fichier du GIE Préventel. En cas de paiement les informations sont conservées 48 heures à compter du paiement.
-* Données spécifiques utilisées pour éviter la fraude et préserver le chiffre d’affaire : les données d’alerte en cas de fraude sont conservées dans un délai de 12 mois à compter de l'émission des alertes pour les qualifier. Les alertes non qualifiées sont supprimées directement. Les données d’alerte en cas de fraude avérée sont conservées pour une durée maximale de 5 ans à compter de la clôture du dossier de fraude. Les données de lutte contre le blanchiment sont conservées pendant 5 ans à compter de l’exécution de l’opération. Justificatifs d’identité : Ils sont conservés pendant 18 mois à compter de leur collecte à des fins de lutte contre la fraude
+* Données spécifiques utilisées pour éviter la fraude et préserver le chiffre d’affaire : les données d’alerte en cas de fraude sont conservées dans un délai de 12 mois à compter de l'émission des alertes pour les qualifier. Les alertes non qualifiées sont supprimées directement. Les données d’alerte en cas de fraude avérée sont conservées pour une durée maximale de 5 ans à compter de la clôture du dossier de fraude. Les données de lutte contre le blanchiment sont conservées pendant 5 ans à compter de l’exécution de l’opération. Justificatifs d’identité : Ils sont conservés jusu'à 18 mois à compter de leur collecte à des fins de lutte contre la fraude.
 * Données utilisées pour mesurer l’audience en boutique : les données sont conservées pour la durée de l'opération technique nécessaire au comptage des flux visiteurs (maximum 24h).
 * Données permettant de réaliser des jeux concours : les données sont conservées 3 mois et jusqu’à 6 mois après la fin du jeu s’il existe un risque élevé de contestation.
 * Données permettant de piloter notre impact environnemental : pour le traitement des plaintes environnementales, les données sont conservées 12 mois à partir de la collecte ou du dépôt de la plainte. Pour le calcul et la restitution de l’empreinte carbone, les données ne sont pas conservées.
@@ -358,4 +358,4 @@ Le dispositif technique utilisé par Flux Vision garantit une anonymisation irr�
 
 La présente Politique de Protection des Données personnelles peut être amenée à évoluer.
 
-Dernière mise à jour le 30/06/2022
+Dernière mise à jour le 24/08/2023
