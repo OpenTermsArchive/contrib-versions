@@ -62,11 +62,13 @@ Other languages:
 * English
 * [Esperanto](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/eo "Niaj uzkondiĉoj (10% translated)")
 * [Fulfulde](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ff "Policy:Terms of Use/ff (5% translated)")
+* [Gaeilge](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ga "Policy:Terms of Use/ga (1% translated)")
 * [Hausa](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ha "Fassara: Dokoki: Kaidojin anfani/bayyanar da shafuka/ha
     Dokoki: Ka'idojin anfani (1% translated)")
 * [Kreyòl ayisyen](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ht "Kondisyon itilizasyon (3% translated)")
 * [Latina](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/la "conditionem úimo (1% translated)")
 * [Lëtzebuergesch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lb "Konditioune fir d'Benotzenfr (4% translated)")
+* [Malti](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mt "Policy:Terms of Use/mt (1% translated)")
 * [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nl "Gebruiksvoorwaarden (100% translated)")
 * [Qafár af](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/aa "Policy:Terms of Use/aa (4% translated)")
 * [Qaraqalpaqsha](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/kaa "Paydalanıw shártleri (1% translated)")
@@ -84,6 +86,7 @@ Other languages:
 * [bosanski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bs "Uslovi korištenja (3% translated)")
 * [català](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ca "Policy:Terms of Use/ca (36% translated)")
 * [dansk](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/da "Brugsbetingelser (37% translated)")
+* [eesti](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/et "Policy:Terms of Use/et (1% translated)")
 * [español](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es "Términos de uso (100% translated)")
 * [euskara](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/eu "Erabilera baldintzak (8% translated)")
 * [français](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr "Politique:Conditions d’utilisation (100% translated)")
