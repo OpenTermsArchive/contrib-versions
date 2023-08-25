@@ -29,7 +29,9 @@ Thank you for using LinkedIn, where the world’s professionals come together to
 
 * ### Tell us if you see abusive content
     
-    If you see something you believe may violate our policies, whether in profiles, posts, messages, comments, or anywhere else, please [report it to us](https://www.linkedin.com/help/linkedin/answer/146). Combined with our automated defenses, these reports help us identify and prevent abuse. Please use the reporting tools responsibly and only for their intended purposes. To learn more about how to report inappropriate content, behavior, or members, visit our [Safety Center](https://safety.linkedin.com/identifying-abuse).
+    If you see something you believe may violate our policies, whether in profiles, posts, messages, comments, or anywhere else, please [report it to us](https://www.linkedin.com/help/linkedin/answer/146). Combined with our automated defenses, these reports help us identify and prevent abuse. Users can report content by clicking on the three dots icon in the upper right-hand corner of the content itself on LinkedIn. Please use the reporting tools responsibly and only for their intended purposes. To learn more about how to report inappropriate content, behavior, or members, visit our [Transparency Center](https://about.linkedin.com/transparency).
+    
+    In addition to LinkedIn's trained content reviewers, we use automated systems to identify potentially violative content. Violating content can be removed from LinkedIn. Learn more about our approach to content moderation, including our automated systems, [here](https://www.linkedin.com/help/linkedin/answer/a1441504).
     
 * ### Violating our community policies can result in action against your account or content
     
@@ -43,7 +45,7 @@ Thank you for using LinkedIn, where the world’s professionals come together to
     
     Only bring safe conversations to LinkedIn.
     
-    **Do not post harassing content:** We don’t allow bullying or harassment. This includes targeted personal attacks, intimidation, shaming, disparagement, and abusive language directed at other members. Do not reveal others' personal or sensitive information (aka "doxing"), or incite others to do the same. You may not engage in trolling or other repetitive negative content that disrupts other members or conversations on the platform.
+    **Do not post harassing content:** We don’t allow bullying or harassment. This includes targeted personal attacks, intimidation, shaming, disparagement, and abusive language directed at other members. Do not reveal others' personal or sensitive information (for example, doxing), or incite others to do the same. You may not engage in trolling or other repetitive negative content that disrupts other members or conversations on the platform.
     
     Learn more about our [harassing and abusive content policies](https://www.linkedin.com/help/linkedin/answer/137369)**.**
     
