@@ -41,9 +41,10 @@ These cookies are necessary for our website to function properly and cannot be s
 
 | Domain | Cookies | Used as |
 | --- | --- | --- |
-| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | acct, csouser, drafts, fkey, flash-message-json, have\_a\_cookie, hero-dismissed, job-alert-tooltip-dismissed, job-alert-verified-email, job-visitor-survey-dismissed, jquery-fallback, mobileSearchAccordion, no-responsiveness, OptanonAlertBoxClosed, OptanonConsent, optimizelyEndUserId, optimizelyPPID, prov, sgt, theme, uauth, usr | 1st Party |
+| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | acct, csouser, drafts, fkey, flash-message-json, have\_a\_cookie, hero-dismissed, job-alert-tooltip-dismissed, job-alert-verified-email, job-visitor-survey-dismissed, jquery-fallback, mobileSearchAccordion, no-responsiveness, optimizelyEndUserId, optimizelyPPID, prov, sgt, theme, uauth, usr | 1st Party |
 | stackoverflow.email | iterableEmailCampaignId, iterableEndUserId, iterableMessageId, iterableTemplateId | 1st Party |
 | stackexchange.com | mc, rawr | 1st Party |
+| meta.stackoverflow.com | OptanonAlertBoxClosed, OptanonConsent | 1st Party |
 | imgur.com | \_\_cfduid | 3rd Party |
 | stacksnippets.net | intercom-id-inf0secd, intercom-session-inf0secd | 3rd Party |
 | google.com | \_\_Secure-3PAPISID, \_\_Secure-3PSID, \_\_Secure-APISID, \_\_Secure-HSID, \_\_Secure-SSID, 1P\_JAR, APISID, HSID, NID, SAPISID, SID, SIDCC, SSID | 3rd Party |
@@ -87,7 +88,7 @@ These cookies are used to make advertising messages more relevant to you and may
 
 | Domain | Cookies | Used as |
 | --- | --- | --- |
-| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | \_\_gads, \_gat\_legacyTracker, prov\_tgt, urr | 1st Party |
+| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | \_\_gads, \_gat\_legacyTracker, \_so\_tgt, urr | 1st Party |
 | pt.stackoverflow.com | GoogleAdServingTest | 1st Party |
 | youtube.com | GPS | 3rd Party |
 | linkedin.com | bcookie, lang, li\_gc, lidc, lissc, UserMatchHistory | 3rd Party |
@@ -104,7 +105,7 @@ These cookies are used to make advertising messages more relevant to you and may
 | facebook.com | fr  | 3rd Party |
 | demdex.net | demdex | 3rd Party |
 | yahoo.com | A1, A1S, A3, B, GUC | 3rd Party |
-| en.wikipedia.org | WMF-Last-Access | 3rd Party |
+| en.wikipedia.org | NetworkProbeLimit, WMF-Last-Access | 3rd Party |
 | www.facebook.com |     | 3rd Party |
 
 You can withdraw any consent to the use of cookies or manage any other cookie preferences by visiting our [Cookie Settings](#) or clicking on the bottom of every page of our websites. You can then toggle on or off the buttons as appropriate. It may be necessary to refresh the page for the updated settings to be displayed.
