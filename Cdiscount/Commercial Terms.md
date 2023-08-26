@@ -1504,7 +1504,7 @@ L’utilisation du Service par le Client est subordonnée à l’acceptation par
 
 **2.1.**    **PROPOSITION DE DON**
 
-Quand le Service est actif sur le Site, tout Client de Cdiscount se voit automatiquement proposer au moment de la validation de sa commande et avant le paiement de celle-ci la possibilité de réaliser un don au profit déun des quatre Projets portés par les Associations Partenaires et sélectionnés pour le Site.
+Quand le Service est actif sur le Site, tout Client de Cdiscount se voit automatiquement proposer au moment de la validation de sa commande et avant le paiement de celle-ci la possibilité de réaliser un don au profit d’un des quatre Projets portés par les Associations Partenaires et sélectionnés pour le Site.
 
 Pour lui permettre de faire librement son choix, toutes les informations utiles concernant les différents Projets, les Associations Partenaires ainsi que les Causes URCT sont à la disposition du Client sur le Site et sur le site [http://www.unriencesttout.org](http://www.unriencesttout.org/).  
 
