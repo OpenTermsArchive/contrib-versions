@@ -223,7 +223,7 @@ Such written notice should be sent to our designated agent as follows:
 
 DMCA Complaints
 
-Ellation.com
+Crunchyroll.com
 
 Email: [copyright@ellation.com](mailto:copyright@ellation.com)
 
