@@ -7,7 +7,7 @@ General information
 * Last updated: 1 June 2023
 * Here we inform you about data processing in connection with the entire service XING and its applications (XING, kununu, onlyfy, etc.).
 * New Work SE is the body responsible for the processing of personal data.
-* Our Data Protection Officer is Felix Lasse.
+* Our Data Protection Officer is Christian Schmidt.
 
 #### XING is a comprehensive service with various applications
 
@@ -27,7 +27,7 @@ We, New Work SE, assume the role of controller as per the [EU General Data Prote
 
 #### Data Protection Officer
 
-Our Data Protection Officer is Felix Lasse, Am Strandkai 1, 20457 Hamburg, Germany, contact link: [https://www.xing.com/support/contact/security/data\_protection](https://www.xing.com/support/contact/security/data_protection).
+Our Data Protection Officer is Christian Schmidt, Am Strandkai 1, 20457 Hamburg, Germany, contact link: [https://www.xing.com/support/contact/security/data\_protection](https://www.xing.com/support/contact/security/data_protection).
 
 #### Processing for another purpose
 
@@ -452,7 +452,7 @@ We use the web analysis tool Mouseflow from Mouseflow ApS, Denmark. You can opt 
 
 #### Measurement and optimisation of advertising
 
-With your permission, we and third-party providers we commission will use cookies, device identifiers or other information saved or viewed on your device (tracking) and your data (see also [information you provide us with](https://privacy.xing.com/en/privacy-policy/information-you-provide-us-with/)) to measure the success of advertising campaigns, to build up a profile of your interests, and to serve you relevant ads based on this profile. The cookies have a lifespan of up to 2 years.  
+With your permission, we and third-party providers we commission will use cookies, device identifiers or other information saved or viewed on your device (tracking) and your data (see also [information you provide us with](https://privacy.xing.com/en/privacy-policy/information-you-provide-us-with/)) to measure the success of advertising campaigns, to build up a profile of your interests, and to serve you relevant ads based on this profile. If you opt in, a cookie is set on your end device that enables us to recognise you on XING web pages even if you’re not logged in. The cookies have a lifespan of up to 2 years.  
 In this context, the servers of third-party providers (e.g. marketers) might be accessed directly when using XING. Here, the respective third-party provider may record the fact that you visited our website(s). In addition, such site visits may lead to information being sent to some of these third-party providers with the aim of optimising and measuring the performance of our advertising. This includes, for example, information about the kind of pages you visited, or encoded user attributes such as you belonging to a certain target audience we have defined (e.g. that you are a XING member). Calling third-party provider servers directly allows third-party providers to use cookies and advertising IDs for retargeting purposes. Retargeting technologies enables third-party providers to show you personalised advertising based on your previous browsing behaviour on partner websites. Third-party providers are, to some extent, able to link your various technical IDs and thus show you personalised advertising across multiple devices. Third-party providers such as Xandr or The AdEx enable us to offer advertising campaigns outside of XING so that advertisers can also promote their products and services on and outside of XING based on targeting criteria we supply to advertisers. To ensure maximum protection of your data, we use a complex hashing algorithm which encrypts your information stored in the cookie. To measure and evaluate an advertising campaign's performance, we may send the third-party provider randomly generated click IDs which enable us to assign user conversions to a certain campaign.  
 In addition, an advertising partner can also send us their randomly generated user ID which may be linked to a XING user ID. By linking these technical IDs, we can identify users and provide advertising partners with information such as whether a user is a registered XING user. This may also include information such as an IP address or device IDs (e.g. a combination of browser version and operating system). The aforementioned link serving to transfer information between our website and third-party providers, be it for conversion measurement or as remarketing technology, is generally provided in the form of a pixel or other similar technology.  
 When remarketing on third-party-provider platforms such as Google, we also create custom audiences on these third-party platforms (e.g. Google Customer Match or Facebook Custom Audiences). These custom audience features (e.g. from Meta Platforms Ireland Limited, Facebook) are designed to serve users with targeted advertising based on their interests when visiting the respective third-party platform (e.g. Facebook or some other Meta platform). In addition to cookies and technical IDs, we use hashed information such as your e-mail address or phone number along with the aforementioned encoded user attributes and other technical IDs to create custom audiences. Custom audience data is only supplied to respective third-party providers such as Meta in highly hashed form. To recognise repeat visitors to their platform, third-party providers apply the same method to hash their users' e-mail addresses and phone numbers. Better user identification means better use of targeting technologies and matching job offers for you in ads.  
@@ -689,7 +689,7 @@ Please note that, depending on the invitation feature used, recipients may be sh
 
 * Your name
 * Your company
-* Your position
+* Your job title
 * Your e-mail address
 * Your photo
 * Your user status
@@ -797,7 +797,7 @@ As a kununu, kununu Research Community, HalloFreelancer, onlyfy TalentService, X
 
 #### kununu
 
-Use the following link to request the data we saved about you in this application: [kununu data disclosure report](https://www.kununu.com/user/inquiry)
+Use the following link to request the data we saved about you in this application: [kununu data disclosure report](https://www.kununu.com/user/inquiry). Please e-mail support@kununu.com if you don't have a kununu account.
 
 #### kununu Research Community
 
