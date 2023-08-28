@@ -225,7 +225,7 @@ DMCA Complaints
 
 Crunchyroll.com
 
-Email: [copyright@ellation.com](mailto:copyright@ellation.com)
+Email: [\[email protected\]](https://www.crunchyroll.com/cdn-cgi/l/email-protection)
 
 Fax: 415.796.3561
 
@@ -251,7 +251,7 @@ DMCA Complaints
 
 Crunchyroll.com
 
-Email: [copyright@ellation.com](mailto:copyright@ellation.com)
+Email: [\[email protected\]](https://www.crunchyroll.com/cdn-cgi/l/email-protection)
 
 Fax: 415.796.3561
 
