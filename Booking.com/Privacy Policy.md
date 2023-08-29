@@ -4,7 +4,7 @@ Privacy and Cookie Statement
 Privacy Statement
 -----------------
 
-19 Dec 2022
+8 Aug 2023
 
 First things first – your privacy is important to us. That might be the kind of thing all these notices say, but we mean it. You place your trust in us by using Booking.com services and we value that trust. That means we’re committed to protecting and safeguarding your personal data. We act in our customers’ best interest and we are transparent about the processing of your personal data.
 
