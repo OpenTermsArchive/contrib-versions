@@ -174,7 +174,7 @@ Notwithstanding any provision hereof, for all purposes of these Terms of Use eac
 17\. Notice; Consent to Electronic Notice.
 ------------------------------------------
 
-You consent to the use of (a) electronic means to complete these Terms of Use and to deliver any notices pursuant to these Terms of Use and (b) electronic records to store information related to these Terms of Use or your use of the Site or Services. Any notice or other communication to be given hereunder will be in writing and given (x) by Crunchyroll via email (in each case to the address that you provide), (y) a posting on the Site or (z) by you via email to [e-notice@ellation.com](mailto:e-notice@ellation.com) or to such other addresses as Crunchyroll may specify in writing. The date of receipt will be deemed the date on which such notice is transmitted.
+You consent to the use of (a) electronic means to complete these Terms of Use and to deliver any notices pursuant to these Terms of Use and (b) electronic records to store information related to these Terms of Use or your use of the Site or Services. Any notice or other communication to be given hereunder will be in writing and given (x) by Crunchyroll via email (in each case to the address that you provide), (y) a posting on the Site or (z) by you via email to [\[email protected\]](https://www.crunchyroll.com/cdn-cgi/l/email-protection) or to such other addresses as Crunchyroll may specify in writing. The date of receipt will be deemed the date on which such notice is transmitted.
 
 18\. Links to other Websites.
 -----------------------------
