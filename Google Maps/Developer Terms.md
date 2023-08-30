@@ -1018,6 +1018,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * South Dublin City Council (IE): [https://data.gov.ie/](https://data.gov.ie/) Licensed under Creative Commons Attribution 4.0 International (CC By 4.0)
             
+        * AirQWeb: [https://www.airqweb.com/tacAirqweb.jsp](https://www.airqweb.com/tacAirqweb.jsp)
+            
     29. **Isle of Man**
         
         Isle of Man Government
@@ -1169,6 +1171,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         La información de Calidad del Aire que publica la Secretaría del Medio Ambiente del Gobierno de la Ciudad de México, es elaborada a partir de la información que se obtiene de la Red de Monitoreo Atmosférico y sus estaciones de monitoreo en la Zona Metropolitana del Valle de México, que opera y administra la Dirección de Monitoreo de Calidad del Aire de la Dirección General de Calidad del Aire. Esta información es pública y gratuita, y está sujeta a procesos de calidad que podrían modificarla. La difusión o uso de esta información por terceros, queda bajo la responsabilidad de quien la pública o utiliza.
         
         Inventario Nacional de Emisiones de Gases y Compuestos de Efecto Invernadero (INEGYCEI) 2020, published by Instituto Nacional de Ecología y Cambio Climático, INECC; CGMCC. Viewed at [https://datos.gob.mx/busca/dataset/inventario-nacional-de-emisiones-de-gases-y-compuestos-de-efecto-invernadero-inegycei/resource/4c0c768a-bcde-45af-af77-76a4c9a10741](https://datos.gob.mx/busca/dataset/inventario-nacional-de-emisiones-de-gases-y-compuestos-de-efecto-invernadero-inegycei/resource/4c0c768a-bcde-45af-af77-76a4c9a10741) on 2023-08-14. License: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+        
+        Secretaría del Medio Ambiente (SEDEMA) - Dirección de Monitoreo Atmosférico (CDMX): [https://creativecommons.org/licenses/by/4.0/deed.es](https://creativecommons.org/licenses/by/4.0/deed.es)
         
         * INEGI (MX) - [https://www.inegi.org.mx/inegi/terminos.html](https://www.inegi.org.mx/inegi/terminos.html)
             
@@ -1445,6 +1449,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Open Data Buenos Aires City: [https://data.buenosaires.gob.ar/dataset/](https://data.buenosaires.gob.ar/dataset/)
             
         * United Arab Emirates Ministry of Climate Change and Environment [https://www.moccae.gov.ae/en/open-data.aspx#page=1](https://www.moccae.gov.ae/en/open-data.aspx#page=1)
+            
+        * TMB agency Link to their license: [https://developer.tmb.cat/docs/terms-conditions](https://developer.tmb.cat/docs/terms-conditions)
             
     55. **Sweden**
         * © 2009 Cartesia GIS AB
