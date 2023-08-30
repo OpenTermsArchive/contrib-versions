@@ -79,6 +79,22 @@ Is content that:
     **Examples**: Swear or curse words, variations and misspellings of profane language
     
 
+**Exception for gameplay imagery**: In the context of gameplay imagery, content is only considered to "contain gruesome, graphic, or disgusting accounts or imagery" or "depict acts of violence" if it depicts:
+
+* torture.
+    
+    **Examples**: An act of violence that inflicts severe pain or suffering on restrained or imprisoned characters
+    
+* sexual violence.
+* violence against minors.
+* violence against prominent real-name persons.
+    
+    **Examples**: Any type of violence towards real-world presidents, public officials, celebrities or sports players
+    
+* violence against an individual or group on the basis of a characteristic that is associated with systemic discrimination or marginalization.
+* **Examples**: Violence against an individual on the basis of their race or ethnic origin, religion, disability, age, nationality, veteran status, sexual orientation, gender or gender identity
+    
+
   ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about shocking content](https://support.google.com/publisherpolicies/answer/10437538)_
 
 ### Explosives
