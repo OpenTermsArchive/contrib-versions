@@ -309,6 +309,10 @@ If you are in Taiwan, the following additional information applies to you:
 
 If you do not provide your personal information to us, we may not be able to (as applicable) provide you with the information, products or services that you request.
 
+_**If you are in Colombia, find out more…**_
+
+This Privacy Notice must be understood as a Personal Data Processing Policy in the terms of Colombian law. For all activities that involve the processing of personal data, including the international transfer of personal data, we will abide by the provisions of Law 1581 of 2012, Decree 1377 of 2017 and the other regulations that modify or add them, for which we will always obtain your consent in advance, unless a legal exception applies. You may: (i) optionally answer the questions about sensitive data or about the data of children and adolescents; (ii) request to be informed by us, upon request, regarding the use that we have given to your personal data; (iii) ask us for proof of your consent, and; (iv) withdraw your consent, provided there is no legal or contractual duty to remain in a database. We may request information related to your status as a smoker, based on the type of product we sell. Enquires, complaints and claims are handled by the Privacy area. If you wish to contact this area, you can find the contact information in the linked data that appears at the top of this notice. This notice is effective for Colombia on September 4, 2023.
+
 Who should you contact with questions?
 --------------------------------------
 
@@ -321,4 +325,4 @@ Changes to this notice
 
 We may update this notice (and any supplemental privacy notice), from time to time. Where the law requires it, we will notify you of the changes; further, where the law requires it, we will also obtain your consent to the changes.
 
-Last modified 1 April 2022. You can find [previous versions](https://pmiprivacy.com/global/en/consumer/legal-documents/) of this notice.
+Last modified 28 August 2023. You can find [previous versions](https://pmiprivacy.com/global/en/consumer/legal-documents/) of this notice.
