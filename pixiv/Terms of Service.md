@@ -798,14 +798,13 @@ Article 8: Payment of Sale Proceeds to Creators
 
 1. Creators shall grant in advance to the Company the legal right to receive the Sale Proceeds paid by Fans to Creators on behalf of Creators and the authority to grant such proxy receipt authority to a third party specified by the Company.
 2. When the total balance of Sale Proceeds is 5,000 yen or greater, such balance shall be automatically paid to the relevant Creator on a monthly basis in accordance with this article (“Automatic Payment”). When the total balance of Sale Proceeds is less than 5,000 yen, the Creator will be entitled to demand payment of such Sale Proceeds by making a request for remittance of Sale Proceeds (“Remittance Request”) .
-3. When paying Sale Proceeds as specified in the preceding paragraph, the Company shall subtract the Platform Fee (defined in Item (1) below) from the relevant Creator’s Sale Proceeds (the amount thereby calculated is hereinafter the “Received Amount”), subtract from the Received Amount a Remittance Fee (defined in Item (2) below), and pay the Creator the resulting amount, in accordance with the provisions of Paragraph 7, by remittance to a remittance destination determined in accordance with this article; provided, however, that unless otherwise specified, the remittance destination shall be a bank account or PayPal account registered by the Creator as of the 19th of the month in which remittance will be carried out.
+3. When paying Sale Proceeds as specified in the preceding paragraph, the Company shall subtract the Platform Fee (defined in Item (1) below) from the relevant Creator’s Sale Proceeds (the amount thereby calculated is hereinafter the “Received Amount”), subtract from the Received Amount a Remittance Fee (defined in Item (2) below), and pay the Creator the resulting amount, in accordance with the provisions of Paragraph 7, by remittance to a remittance destination determined in accordance with this article; provided that unless otherwise specified, the remittance will be transferred to the transfer account registered by the Creator as of the 19th of that month.
     
-    * \*In situations where the Received Amount is high, the remittance destination shall be determined by the first business day of the month of when the remittance will be done.
+    * \*In situations where the Received Amount is high, the remittance destination shall be determined by the first business day of the month of when the remittance will be done. The details regarding transfer accounts and transfer fees are listed in the following Help section: ( [https://www.pixiv.help/hc/sections/900000413206](https://www.pixiv.help/hc/sections/900000413206)).
     
     1. The Platform Fee shall be an amount equivalent to 10% of the Sale Proceeds (including consumption tax equivalent, and rounding off fractions to the nearest whole number).
-    2. Fee for Remittance to Bank Account (“Remittance Fee”): 200 yen if total Received Amount is less than 30,000 yen; 300 yen if total Received Amount is 30,000 yen or greater.
 4. The amount remitted for a single Remittance Request shall not exceed 1,000,000 yen.
-5. If, in the case where a Sale Proceeds balance is less than 5,000 yen, the relevant Creator has not made a Remittance Request by the last day of the month preceding the month marking the passage of 180 days from the Request transmission date (if there is Co-requesting, then the date of transmission of the original Request), the Company shall pay such balance to a bank account designated in advance by such Creator. Cases of flawed account information etc. shall be handled in accordance with the terms of Article 9.
+5. If, in the case where a Sale Proceeds balance is less than 5,000 yen, the relevant Creator has not made a Remittance Request by the last day of the month preceding the month marking the passage of 180 days from the Request transmission date (if there is Co-requesting, then the date of transmission of the original Request), the Company shall pay such balance to a transfer account designated in advance by such Creator. Cases of flawed account information etc. shall be handled in accordance with the terms of Article 9.
 6. No interest shall accrue for the period from receipt of Sale Proceeds by the Company or a third party designated by the Company until payment by the Company to the relevant Creator.
 7. When the setting for the Automatic Payment is valid, or when a Creator has made a Remittance Request, the Company shall remit the Received Amount as of the last day of the preceding month within five business days of the 20th of the month immediately following the month in which the balance of the Received Amount subject to the Automatic Payment existed or in which the Remittance Request was made (“Remittance Period”);
 8. Received Amounts shall include consumption tax equivalents for the prices of any Request Rewards sold.
@@ -887,6 +886,7 @@ Supplemental Provisions
 Revision
 --------
 
+* August 31st, 2023 “Article 8: Payment of Sale Proceeds to Creators” was updated.
 * May 31, 2021 "Article 2: Definitions", "Article 5: Formation of Request Agreements" and "Article 8: Payment of Sale Proceeds to Creators" were modified.
 * May 13, 2021 In order to ease the communication between creators and fans, Articles 11.1 and 16 have been added.
 
@@ -1035,12 +1035,10 @@ Article 15. Direct Deposit Request
 
 1. Creators shall pay Platform fees (Article 2.11.a) to the Company when a Support Agreement is concluded.​​The Creators shall agree in advance to pay the fees to the Company by the method that the Company will deduct the fees from the Support Money, etc..
 2. Creators may request payment of Support Monies by setting up Regular Transfer or applying for an Instant Transfer by the method prescribed by the Company.
-3. In such case of setting up Regular Transfer, the Company shall pay the remaining balance of Amount Receivable as of the 20th of the current month minus the assorted fees specified below by remittance to the bank account or PayPal account specified in advance by the Creator within 5 business days from the 20th of each month.
-    1. Remittance fees: 200 yen in the case where the total amount received is less than 30,000 yen, and 300 yen in the case where the total amount received is 30,000 yen or more
-    2. Transfer fee to PayPal account: 0 yen
+3. In such case of setting up Regular Transfer, the Company shall pay the remaining balance of Amount Receivable as of the 20th of the current month minus the assorted fees specified below by remittance to the transfer account specified in advance by the Creator within 5 business days from the 20th of each month.The details regarding transfer accounts and transfer fees are listed in the following Help section: ( [https://fanbox.pixiv.help/hc/articles/360005114953](https://fanbox.pixiv.help/hc/articles/360005114953) ).
 4. Notwithstanding the provisions of the preceding paragraph, the Company may transfer all or part of Amount Receivable in the following month if the amount of the Amount Receivable is high.
 5. In cases where the Company is unable to complete a remittance because the remittance account information registered by a Creator is incomplete or incorrect, or the amount of Amount Receivable is less than 5,000 yen, the remittance shall be carried over to the following and subsequent months, with the same procedure to be performed in subsequent months.
-6. In case of Instant Transfer, the Company shall pay the remaining balance of an arbitrary amount of money specified by the Creator within the range of the Amount Receivable at the time of the request by applying minus the assorted fees specified in the Paragraph 3 by remittance to the bank account or PayPal account specified in advance by the Creator within 5 business days from the date of application.
+6. In case of Instant Transfer, the Company shall pay the remaining balance of an arbitrary amount of money specified by the Creator within the range of the Amount Receivable at the time of the request by applying minus the assorted fees specified in the Paragraph 3 by remittance to the transfer account specified in advance by the Creator within 5 business days from the date of application.
 7. The maximum amount that can be applied for at one time in an Instant Transfer application is 1,000,000 yen.
 8. No interest shall accrue during the period from when the Company or the third party specified by the Company receives Support Monies until the Company makes payment to the Creator.
 9. In cases where doubt concerning the rights and so on to a Supporter-exclusive Posted Content published by a Creator or a Privilege arise and in cases where the Company determines that a problem arising between the Creator and a User on the basis of inquiries and the like from the User cannot be resolved within a certain period, the Company may suspend remittance to the relevant Creator, and Creators agree to this.
@@ -1075,6 +1073,7 @@ Supplementary provision:
 Revision
 --------
 
+* August 31st, 2023　“Article 15. Direct Deposit Request” was updated.
 * July 25, 2023 “Article 5. Cancellation of Creator Registration” and “Article 7. Posting” have been revised.
 * October 25, 2021 "Article 2. Support by Supporters" , "Article 15. Direct Deposit Request", "Article 16. Insufficient or Incorrect Direct Deposit Account Information" and "Article 18. Prohibitions" have been revised.
 * May 31, 2021 "Article 9. Support by Supporters" and "Article 14. Payment" have been revised.
@@ -1518,7 +1517,7 @@ Article 10. Payment of Sales Revenues to Shop Owners
     4. Convenience store payment: the transaction fees per payment shall be 3.6% of total settlement price.
     5. Rakuten Pay payment: the transaction fees per payment shall be 3.6% of total settlement price.
     6. Storage shipping fee: additional fee of 26 yen per delivered Products with the transaction price.
-6. Remittance fees shall be determined on the basis of the total Balance. If the total Balance is less than 30,000 yen, the remittance fees shall be 200 yen, and if the total Balance is 30,000 yen or more, the remittance fees shall be 300 yen.
+6. Remittance fees shall be determined on the basis of the total Balance. The details regarding transfer accounts and transfer fees are listed in the following Help section: ( [https://booth.pixiv.help/hc/ja/sections/115000544873](https://booth.pixiv.help/hc/ja/sections/115000544873) )
 7. Remittance Amounts shall include amounts corresponding to consumption tax on the sales proceeds of the Products sold.
 8. In cases where the Company is unable to complete a remittance because the remittance account information registered by a Shop Owner is incomplete or incorrect, the remittance shall be carried over to the following and subsequent months, with the same procedure to be performed in subsequent months.
 9. In cases where a remittance is not completed because of incorrect remittance account information or the like, the Company shall consider the Shop Owner to have released the Company from its duty to pay the relevant Balance after the lapse of six months from the day on which the remittance could not be completed.
@@ -1580,14 +1579,22 @@ Compensation
 ------------
 
 * Refund to the shop
-    * When trouble arises which the provider company is responsible of.
-* Buyer
+    * When trouble arises for which the provider company is responsible.
+* Refund to buyer
     * When trouble arises during transaction which the owner is responsible of.
     * Delivery accidents
-* Disclaimer
-    * When remittance of the refund was not possible due to payee's flaw, the remittance is carried over to after the following month and to be the same afterwards.
 
-When remittance of the refund was not possible due to the flaw in remittance information, or if the situation stated in previously paragraph and is determined difficult to continue the process, the Company shall regard this refund payment as exemption from duty by the payee, and the Company shall not take any responsibility in the remittance delay or impossibility, unless specified in the Master Terms of Use or the Individual Terms of Use.
+Disclaimers
+-----------
+
+* Disclaimers regarding refunds
+    * If the refund could not be remitted due to an error in the recipient’s payment information, the remittance is carried over to the following month, and will continue to be carried over if correct payment information is not provided.
+    * When remittance of the refund was not possible due to an error in the recipient’s payment information, or if the carry-over of the remittance as stipulated in the previous Item has continued for a period of time, and the Company deems it difficult to continue to offer the refund, the Company may assume that the payee has declared the Company exempt from this refund payment, and the company shall not bear any responsibility for delays in payment or non-payment of the refund, except in cases specified in the Master Terms of Use or the Individual Terms of Use.
+* Disclaimers regarding product shipment
+    * When the Company ships merchandise from the Company’s own storage facility, the Company shall make every possible effort to ship the merchandise to the address specified by the User (addresses within Japan only).
+    * The Company cannot bear any responsibility if the merchandise is not delivered to the User or the address specified by the User due to a mistake in the address, or the absence of the recipient.
+    * If the merchandise is not delivered to the address specified by the User as stipulated in the previous Item, and is instead returned to the Company and the User wishes the item to be reshipped, the User must pay an extra shipping fee separately determined by the Company.
+    * If an item is returned to the Company and the User does not request reshipment within 30 days, the User forfeits ownership rights to the item, and the Company is empowered to dispose of the item at its own discretion. The Company may bill all disposal fees and costs to the User.
 
 Supplementary Provisions
 ------------------------
@@ -1598,6 +1605,7 @@ Supplementary Provisions
 Revision
 --------
 
+* August 31st, 2023 "Article 10. Payment of Sales Revenues to Shop Owners", the "compensation" and "disclaimers" items have been updated.
 * May 31, 2021 "Article 4. Use of the Individual Service and User Responsibilities" and "Article 10. Payment of Sales Revenues to Shop Owners" were modified.
 * April 30, 2021
 * August 26, 2020
