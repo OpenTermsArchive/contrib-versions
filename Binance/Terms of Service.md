@@ -1,10 +1,6 @@
 **BINANCE TERMS OF USE**
 ========================
 
-We have updated our Terms of Use which will be effective and binding from 31 August 2023. Your continued use of the Binance Services constitutes acceptance of the new Terms of Use.
-
-You can view the existing terms [here](https://www.binance.com/en/legal/terms-june-2023).
-
 **Last Updated: 21 August 2023**  
 **Effective Date: 31 August 2023**
 
