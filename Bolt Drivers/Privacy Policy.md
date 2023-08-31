@@ -1,5 +1,5 @@
 Privacy Notice for Drivers in Ireland
--------------------------------------
+=====================================
 
 **Bolt Operations OÜ** (hereinafter: “**Bolt Head Office**”) _Registered seat:_ Vana-Lõuna tn 15, Tallinn Harjumaa 10134, Estonia _E-mail:_ [privacy@bolt.eu](mailto:privacy@bolt.eu) _Website:_ [https://bolt.eu](https://bolt.eu/)
 
@@ -23,6 +23,7 @@ Bolt Ireland - as the entity in charge of the taxi dispatching in Ireland - is d
 * Information about disputes/complaints.
 * The financial data of providing transportation services is not considered as personal data, because Drivers provide services in the course of economic and professional activities.
 * Communication and correspondence records: such as when the driver engages with our in-app chat ("Send a Message" option), or speak with our customer service agents, the date and time of the communication, and its content.
+* Information required under applicable law for taxation purposes: such as your taxpayer identification number, VAT ID, place of birth, financial account identifier, information of each Member State in which you are a resident.
 
 **2\. Purposes of the processing**
 
@@ -56,7 +57,7 @@ Bolt Ireland - as the entity in charge of the taxi dispatching in Ireland - is d
     
 * Depending on the location of the Driver, the personal data may be disclosed to the Bolt local ​subsidiaries, representatives, affiliates, agents etc)​. Processing of personal data will occur as established in the relevant country’s privacy notice.
     
-* The competent Authorities, in case of an investigation or audit, are entitled to request personal data in written form and we shall comply with such requests.
+* We may disclose information under a court order or where we cooperate with a data protection supervisory authority in handling complaints or investigations. We may also share your personal data with law enforcement or other public authorities (such as tax authorities), including responding to requests when the information is required by law or furthers a public interest task. In any scenario, we’ll always satisfy ourselves that we have a lawful basis on which to share the information, and we’ll make sure that we document our decision.
     
 
 **5\. Data Processing by Bolt Ireland**
@@ -83,7 +84,7 @@ Bolt Ireland - as the entity in charge of the taxi dispatching in Ireland - is d
 
 * You shall not process the personal data of passengers without our permission or that of the passenger. You shall not contact any passenger or collect, record, store, grant access, use or cross-use the personal data provided by the passenger or accessible to you via the Bolt app for any reason other than for the purposes of fulfilling the respective transportation service.
     
-* You must in any case comply with the rules and conditions for processing of personal data of passengers as set forth in the Privacy Notice for Passengers (​[https://www.bolt.eu/legal/](https://www.bolt.eu/legal/)). If you violate the requirements for the processing of personal data of passengers, we may terminate your account and claim damages from you.
+* You must in any case comply with the rules and conditions for processing of personal data of passengers as set forth in the Privacy Notice for Passengers (​[http://www.bolt.eu/legal/](https://www.bolt.eu/legal/)). If you violate the requirements for the processing of personal data of passengers, we may terminate your account and claim damages from you.
     
 
 **7\. Access, correction and restriction**
@@ -99,11 +100,8 @@ Bolt Ireland - as the entity in charge of the taxi dispatching in Ireland - is d
 
 * Your personal data will be stored by Bolt Head Office as long as you have an active account. If your account will be closed the personal data will be stored for an additional 3 year period, unless such data is required to be retained for longer for accounting, dispute resolution or fraud prevention purposes.
     
-* Financial data regarding transportation services provided to passengers will be stored for 3 years after the last journey.
+* Financial data regarding transportation services provided to passengers will be stored for 3 years after the last journey. Data necessary for accounting purposes shall be stored for 7 years by Bolt Head Office.
     
-
-Data necessary for accounting purposes shall be stored for 7 years by Bolt Head Office.
-
 * In the event of suspicions of a administrational or criminal offence, fraud or false information, the data shall be stored for 10 years by Bolt Head Office in order to hinder the renewed registration of the person who acted unlawfully.
     
 * In the event of disputes, the data shall be retained until the claim is satisfied or statue of limitation of such claim is reached (usually 5 years).
@@ -146,4 +144,4 @@ We will respond to any request for transfer of personal data submitted by e-mail
 * In case you believe that the data processing is unlawful, you are entitled to start the procedure before the Irish Data Protection Commission (Postal address: Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland; web contact: [https://forms.dataprotection.ie/contact](https://forms.dataprotection.ie/contact)) and initiate judicial proceedings or before the Estonian Data Protection Inspectorate ([www.aki.ee](https://www.aki.ee/)) which can be contacted by email: [info@aki.ee](mailto:info@aki.ee).
     
 
-This privacy notice was last updated on 25 April 2022.
+This privacy notice was last updated on 28 December 2022.
