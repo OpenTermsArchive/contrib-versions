@@ -1,5 +1,5 @@
 Global Privacy Notice for Passengers and Riders
------------------------------------------------
+===============================================
 
 This privacy notice lets you know how we promise to look after your personal data. This notice tells you things like what information we use to provide you with our bundle of transportation services, how we use your information to keep you safe, and the choices and controls available to you. This notice also tells you about your privacy rights and how data protection rules work to protect everyone.
 
@@ -9,7 +9,7 @@ Our postal address is :
 
 Vana-Lõuna 15 Tallinn 10134 Estonia
 
-We have nominated a Data Protection Officer, and you can contact him at [](mailto:privacy@bolt.eu)[privacy@bolt.eu](mailto:privacy@bolt.eu) or via any one of our postal addresses found in the [city pages](https://bolt.eu/en/cities/). Please mark the envelope ‘Data Protection Officer’.
+We have nominated a Data Protection Officer, and you can contact him at <a href="mailto:privacy@bolt.eu" rel ="nofollow">[privacy@bolt.eu](mailto:privacy@bolt.eu)</a> or via any one of our postal addresses found in the [city pages](https://bolt.eu/en/cities/). Please mark the envelope ‘Data Protection Officer’.
 
 The term “us” or “we” refers to Bolt Operations OÜ a private limited company incorporated and registered under the laws of Republic of Estonia with registration code 14532901.
 
@@ -166,7 +166,7 @@ You will always have the right for human review of the decision and to contest t
 
 **10\. Dispute resolution**
 
-* Disputes relating to the processing of personal data are resolved through customer support (\[[info@bolt.eu](mailto:info@bolt.eu)\]([](mailto:info@bolt.eu)[info@bolt.eu](mailto:info@bolt.eu))) in the first instance. You have the right to contact Bolt's Data Protection Officer (\[[privacy@bolt.eu](mailto:privacy@bolt.eu)\]([](mailto:privacy@bolt.eu)[privacy@bolt.eu](mailto:privacy@bolt.eu))).
+* Disputes relating to the processing of personal data are resolved through customer support (\[[info@bolt.eu](mailto:info@bolt.eu)\](<a href="mailto:info@bolt.eu" rel ="nofollow">[info@bolt.eu](mailto:info@bolt.eu)</a>)) in the first instance. You have the right to contact Bolt's Data Protection Officer (\[[privacy@bolt.eu](mailto:privacy@bolt.eu)\](<a href="mailto:privacy@bolt.eu" rel ="nofollow">[privacy@bolt.eu](mailto:privacy@bolt.eu)</a>)).
     
 * Our supervisory authority is the Estonian Data Protection Inspectorate ([www.aki.ee](https://bolt.eu/en/legal/ie/privacy-for-riders/www.aki.ee)).
     
