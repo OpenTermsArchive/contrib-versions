@@ -1,14 +1,14 @@
 General Terms and Conditions
 ============================
 
-**“XING”** means the service as described below (including all applications) and/or the provider of this service, New Work SE.
+**“XING”** means the service as described below (including all applications such as XING, kununu and onlyfy) and/or the provider of this service, New Work SE.
 
 A. General Terms and Conditions for the use of the XING service 
 ----------------------------------------------------------------
 
-The XING service is rendered via websites (e.g. xing.com, xing.de, xing-events.com, kununu.com, lebenslauf.com, bewerbung.com, hallofreelancer.com), a number of different sub-domains and domain aliases, and via mobile applications (“apps”), background applications, web services and third-party-site integrations (e.g. iFrame). All websites, sub-domains, aliases, mobile applications, background applications, web services and third-party-site integrations provided by XING and where XING is available are hereinafter referred to as **“XING Websites”**.
+The XING service is rendered via websites (e.g. xing.com, xing.de, kununu.com, onlyfy.io, lebenslauf.com, bewerbung.com), a number of different sub-domains and domain aliases, and via mobile applications (“apps”), background applications, web services and third-party-site integrations (e.g. iFrame). All websites, sub-domains, aliases, mobile applications, background applications, web services and third-party-site integrations provided by XING and where XING is available are hereinafter referred to as **“XING Websites”**.
 
-The XING service applications include, in particular, contact and communication forums (hereinafter referred to as **“social network”**) for which the user can obtain membership, an **“events platform”** and an **“employer review platform”**. Some of the XING applications may appear under other brand names or by using other XING Websites.
+The XING service applications include, in particular, contact and communication forums (hereinafter referred to as **“social network”**) for which the user can obtain membership, a **“talent acquisition platform”** and an **“employer review platform”**. Some of the XING applications may appear under other brand names (e.g. kununu or onlyfy) or by using other XING Websites.
 
 These General Terms and Conditions for the use of the XING service govern the contractual relationship between the user and XING, irrespective of which XING Websites the User visits to take use XING services.
 
@@ -156,7 +156,7 @@ The contract is concluded with New Work SE, Am Strandkai 1, 20457 Hamburg, Germa
 
 XING shall notify users of such changes to its GTC, e.g. via the XING Websites.
 
-**5.6** Products that are booked separately and not offered within the scope of a continuing obligation (e.g. booking ads or posting events) are subject to a separate agreement for which additional terms and conditions will be explicitly displayed prior to booking. The corresponding contractual terms and services can be modified for future bookings irrespective of the service modification requirements stipulated here.
+**5.6** Products that are booked separately and not offered within the scope of a continuing obligation (e.g. booking ads) are subject to a separate agreement for which additional terms and conditions will be explicitly displayed prior to booking. The corresponding contractual terms and services can be modified for future bookings irrespective of the service modification requirements stipulated here.
 
 **5.7** The user’s right to cancellation pursuant to Section 7 remains unaffected in the event of modifications to services or GTC governed by this provision.
 
@@ -283,193 +283,7 @@ _Premium membership shall run for the initial term selected by the user during t
 
 **11.9** These GTC are available in English, German, French and Spanish. In the event of any contradiction between the different language versions of these GTC, the German version shall take precedence.
 
-B. Additional terms for using the events platform 
---------------------------------------------------
-
-On its events platform, XING provides its users with the opportunity to plan, organise and advertise private or commercial events, meetings, celebrations, get-togethers, conferences, virtual events, etc. (hereinafter referred to as **"events"**), to register people for events, and to sell tickets and other products and services and to have them billed by XING (users who organise events shall hereinafter be referred to as **"organiser"**). XING may also offer organisers other related services.
-
-Conversely, XING provides its users with the opportunity to purchase tickets and other related products and services (users who purchase tickets are hereinafter referred to as **"ticket buyer"**), and to register themselves or third parties as participants (hereinafter referred to as **"participant"**).
-
-XING reserves the right to charge fees for certain services in connection with the events platform.
-
-These additional terms and conditions for the use of the events platform supplement the General Terms and Conditions for using the XING service.
-
-### 1\. Conditions of use, conclusion of contract and warranties upon conclusion of contract 
-
-**1.1** The contractual obligation pertaining to events and buying/selling tickets is only entered into between the organiser and ticket buyers. In this regard, XING acts solely as a commercial representative or agent acting on behalf of and for the account of the organiser and processes the purchase agreement on the organiser’s behalf. For this reason, XING excludes all liability should the organiser go into administration or if an event is cancelled.
-
-**1.2** Information about the respective event, number of available tickets, ticket prices and payment methods is based entirely on the settings adopted by the respective organiser when posting an event on the XING Website. XING has absolutely no influence over these settings, and the organiser is responsible for ensuring that the settings used are correct.
-
-**1.3** The organiser may implement their own additional terms and conditions for an event they organise. XING has absolutely no influence in that regard.
-
-**1.4** An uploaded event that offers tickets, states the number of available tickets, ticket prices, and payment methods constitutes an offer to conclude a purchase agreement. The ticket buyer enters into a purchase agreement by clicking on the respective button on the ticket order form. Valid acceptance of the offer by ticket buyers is contingent upon their completing all of the mandatory fields on the ticket order form. Immediately after entering into a purchase agreement, the ticket buyer shall receive an e-mail to confirm conclusion of the purchase agreement. The ticket buyer is obliged to inform XING if they do not receive this confirmation e-mail at all or in good time.
-
-**1.5** XING is permitted to cancel a ticket buyer’s order (unilateral right of cancellation) if the participant breaches the terms of the event stipulated in advance by the organiser or XING, or if the ticket buyer attempts to circumvent said terms. A declaration of cancellation may also take place implicitly by means of crediting the paid fees. Section 350 BGB does not apply.
-
-**1.6** The organiser grants XING permission to only send invoices to ticket buyers in electronic form.
-
-### 2\. Right of withdrawal for consumers 
-
-**Right of withdrawal**
-
-**You may withdraw from your contractual agreement with XING in writing (e.g. by letter or e-mail) within fourteen (14) days without stating a reason. The two-week period begins upon receipt of these instructions, but not before the contract has been executed, and also not prior to fulfilment of our informational duties as per Article 246 Section 2 in connection with Section 1 (1 and 2) EGBGB, as well as our duties as per Section 312g (1) line 1 BGB in connection with Article 246 Section 3 EGBGB. You can withdraw from the contract by sending timely notification to:**
-
-**XING Events GmbH**  
-**Sandstr. 33**  
-**80335 Munich**  
-**Germany**
-
-**Phone: +49 89 552 7358-0**  
-**E-mail: info@xing-events.com**
-
-**Consequences of withdrawal**
-
-**In the event of a valid withdrawal, services and fees provided by both parties are to be returned, and any economic advantages gained (e.g. interest) are to be repaid. If you are not able to return the services and utilisation (exercised benefits) rendered fully or in part, or only in a lesser form, you are obliged to reimburse us for the value lost. This can mean that you are required to fulfil the contractual payment obligations for the time period until withdrawal. Obligations to reimburse payments must be fulfilled within 30 days. This period begins for you when you send your contract withdrawal, for us when we receive it.**
-
-**Additional information:**
-
-**Your right of withdrawal lapses before the end of the right of withdrawal period if the contract has been completely fulfilled to the satisfaction of both parties before you exercise your right of withdrawal.**
-
-**Exclusion of right of withdrawal:**
-
-**The right of withdrawal does not exist if, when entering into a legal transaction, you act in exercise of your trade, business or profession and are therefore deemed to be an entrepreneur (Section 14 BGB).**
-
-**The right of withdrawal vis-à-vis XING does not apply to agreements you enter into with third parties, i.e. where XING is not legally involved. Any such rights of withdrawal may only be brought against the respective third party, which is why there is no right of withdrawal vis-à-vis XING when purchasing tickets on the events platform.**
-
-**Other additional information:**
-
-**You expressly agree that we will start to render the service before the end of the withdrawal period.**
-
-**You are required to pay the fees agreed for services we render up until the time you withdraw from your contract.**
-
-### 3\. Obligations of the user and special provisions for users 
-
-**Terms for ticket buyers and participants**
-
-**3.1** Ticket delivery, loss and complaints
-
-(a) Immediately after receipt of payment or after ordering (only when buying tickets on account), XING will send a purchased ticket to the physical or e-mail address the ticket buyer entered during the order process unless an alternative option was agreed (e.g. ticket collection at the venue).
-
-(b) The ticket buyer and/or participant is responsible for checking that the received tickets are correct, and for arranging any amendments by XING in good time before the event takes place.
-
-(c) The ticket buyer and/or participant may request electronic tickets be sent again at any time.
-
-(d) XING shall not replace any tickets sent to the ticket buyer and /or participant by post which the ticket buyer and/or participant has lost or destroyed.
-
-**3.2** Return of tickets, reimbursement of purchase price
-
-(a) If an event is cancelled or postponed, the ticket buyer’s right to return a purchased ticket depends on the law as well as any agreements entered into between the ticket buyer and the organiser.
-
-(b) If the ticket buyer is entitled to return a ticket, XING shall reimburse the ticket buyer for the ticket price agreed on between the ticket buyer and the organiser (in particular any applicable cancellation fees) within fourteen (14) days of receipt of the returned ticket should XING not have already reimbursed the organiser for the ticket fees. If XING has already reimbursed the organiser for the ticket fees, the ticket buyer cannot demand a reimbursement from XING.
-
-**Terms for organisers**
-
-**3.3** General requirements
-
-(a) The organiser is obliged to correctly and sufficiently inform ticket buyers with regard to any cancellation or return rights. The organiser is obliged to provide terms and conditions should it be legally required to do so.
-
-(b) If an event is cancelled for which tickets are or were sold, or if the time, date, venue or other major factors were amended, the organiser shall inform XING about said amendments immediately after gaining knowledge thereof.
-
-(c) The organiser assures XING that (i) there is no agreement or other arrangement in place between the organiser and a venue, nor with the promoter or operator of a venue, nor with a third party which can limit or prevent the organiser from procuring the events platform services as defined by these GTC; (ii) upon conclusion of this agreement, the organiser is permitted and authorised to commission XING with advertising and selling tickets as defined by these GTC; (iii) the organiser is entitled to hold or advertise the event offered on the XING Websites; and (iv) the organiser is not aware of any reason preventing an event from being held. Upon request, the organiser is obliged to prove to XING that they have complied and comply with the assurances in this section.
-
-(d) For the term of this agreement, the organiser commissions and authorises XING, acting as representative on behalf of and for the account of the organiser, to publicly sell tickets to events which the organiser organises, plans or offers in any other way via the XING Websites, and to handle payment transactions with ticket buyers and/or their respective credit institutions, and to send tickets to participants.
-
-(e) The organiser is responsible for paying the VAT or any other taxes arising from ticket sales.
-
-**3.4** Ticket prices and fees
-
-(a) The organiser is at liberty to determine the base price for tickets. The organiser is entitled to receive the base price if the fees set out in Sections 3.4 (b) to 3.4 (f) are added to the base price and charged to the ticket buyers. When selecting ticket prices, the organiser can choose whether these fees should be added to the base price. This only applies to the indicated ticket price as the organiser is always charged these fees.
-
-(b) XING shall receive a fee (**“ticketing fee”**) from the organiser for the event platform services and for the organiser’s use of the XING Websites based on the current valid price list or separate agreement. This ticketing fee shall also be due if tickets are collected and paid for at the venue.
-
-(c) If XING offers to send tickets by post and the ticket buyer accepts this offer, XING shall receive a fee (“delivery fee”) from the organiser for sending tickets by post. The delivery fee is based on the current valid price list.
-
-(d) Other fees based on the current valid price list shall, in particular, include the sale and delivery of merchandising, supplementary products and services, and in the event that tickets are to be refunded.
-
-(e) XING aims to suggest events to users that match their interests and preferences in the best way possible. However, event organisers can pay a fee to target events at specific audiences with said events labelled correspondingly. Event organisers are aware that event rankings on XING Websites are largely influenced by the audiences selected by the event organisers, and by user settings and behaviour.
-
-(f) If an event is not held for reasons for which XING is not responsible, the fees for the services rendered by XING shall still be due.
-
-(g) If any fees for services rendered by XING do not appear in the price list, they shall be listed on the XING Websites upon use of the respective services. Unless governed otherwise, the above-mentioned fees shall be subject to the current valid rate of VAT.
-
-**3.5** Refunds
-
-(a) If an event is cancelled or if tickets are legitimately returned by the ticket buyer due to some other change to the event, the organiser commissions XING to reimburse the ticket buyer for the amounts paid to acquire (an) event ticket(s), including any fees, within fourteen (14) days as stipulated in Section 3.4 (a). The organiser authorises XING to reimburse such amounts on behalf of and for the account of the organiser.
-
-(b) As set out in the current valid price list, the organiser shall also pay XING an additional cancellation fee per ticket for handling reimbursements as per Section 3.5 (a). Following the accounting process, the organiser shall receive a statement of due fees, at the latest however one (1) year after the originally planned event date. XING is permitted to provide interim statements, but is not obliged to do so. XING shall pay out to the organiser any reimbursements not claimed by ticket buyers within one (1) year of the originally planned event date.
-
-(c) XING commits to handle a reversal on behalf of and for the account of the organiser if a ticket purchased via the XING Websites is cancelled should
-
-* XING be legally obliged to do so, or
-* should the organiser request or permit this.
-
-The organiser authorises XING to reimburse the ticket amounts paid by ticket buyers on behalf of and for the account of the organiser. As set out in the current valid price list, the organiser shall also pay XING an additional cancellation fee per ticket for handling reimbursements. After the accounting process, the organiser shall receive a statement of due fees, at the latest however one (1) year after the originally planned event date.
-
-**3.6** Protection against misuse and fraud
-
-(a) XING has a comprehensive security system in place that protects organisers from payment reversals, in particular with regard to tickets paid for by credit card. In exceptional cases, this fraud protection system may cause payments to be rejected by third-party payment providers/banks or the ticket buyer’s bank.
-
-(b) If there is any reason to suspect that the organiser is misusing the XING platform, XING reserves the right to deactivate the ticket sale function and prohibit the organiser from selling tickets. The following points constitute reasons to suspect that the organiser is misusing the XING platform:
-
-* If it becomes known prior to the event that the event will not take place or at all or not as communicated to the ticket buyers
-* If the event is purported to involve illegal or immoral activities
-* If the reimbursement rate for the event is above average, or
-* If information is available that implies that the organiser is not permitted to sell tickets for that particular event.
-
-If such a suspicion cannot be eliminated within thirty (30) days, XING reserves the right to reverse the transactions and reimburse ticket buyers for the amounts they paid for tickets.
-
-**3.7** Complaints/out-of-court dispute settlements for commercial event organisers
-
-Commercial event organisers should submit complaints about XING by e-mailing complaints@xing-events.com. XING will assess the complaint and inform the organiser of its decision. XING always strives to settle disputes out of court, and this also applies to commercial event organisers. Should XING not be able to resolve a complaint with a commercial event organiser, XING is prepared to seek an out-of-court settlement with mediators registered with the Hamburg Chamber of Commerce.
-
-### 4\. Fees, billing, invoicing, payment terms 
-
-**Terms for organisers**
-
-**4.1** The organiser can choose which payment methods offered by XING (e.g. credit card, direct debit, advance payment, on account, PayPal) they would like to offer ticket buyers in order to collect funds via the XING platform. Based on the organiser’s selection, XING shall handle the collection of payments made by ticket buyers for tickets and manage collected funds in a separate account. The organiser hereby grants XING power of attorney to do so.
-
-**4.2** XING shall generally transfer the amounts collected in Section 4.1 less the fee to be paid to XING in Section 3.4 by the 10th day of the following month of the scheduled event date. XING in particular reserves the right to deviate from this stipulation and retain event proceeds for longer periods of time if there is a suspicion of misuse. The amounts to be forwarded shall be transferred to the bank account the organiser entered on the XING Websites. Once said amounts have been transferred, XING shall be deemed to have fulfilled its contractual obligations. XING reserves the right to pay out amounts for recurring events before they are held. The organiser is not, however, entitled to demand this. XING shall not accept any liability for fees incurred due to payments being returned because the organiser supplied incorrect bank account details. To this end, XING reserves the right to bill the organiser for such fees. Transfers to account holders outside of the European Economic and Monetary Union (EMU) may be subject to currency conversion fluctuations and bank charges upon receipt of payment. The organiser shall bear the cost of such fluctuations and such charges, not XING.
-
-**4.3** The organiser is aware of the risk that ticket buyers are able to reverse payments with certain payment methods (e.g. direct debit or credit card) and that they bear sole responsibility for this risk. Reverse payments that occur following payment to the organiser as set out in Section 4.2 will be billed to the organiser plus a charge at the rate set out in the current valid price list.
-
-**4.4** The organiser is obliged to submit objections to invoices from XING as soon as possible, but no later than four (4) weeks of receipt of the invoice. Otherwise the invoice shall be deemed to have been accepted.
-
-**4.5** The organiser is aware that ticket invoice amounts may remain unpaid with certain payment methods (primarily on account and advance payment). The organiser bears this risk and is responsible for collecting such unpaid amounts.
-
-**4.6** XING considers it essential that event organisers are not disadvantaged, i.e. that they are in a position to generate the same revenues they would do if they managed ticket sales themselves. Consequently, when managing proceeds from ticket sales, XING only uses accounts provided by financial institutions whose assurances extend beyond those of statutory compensation schemes and who hold membership with a deposit protection fund, in turn providing higher guarantee ceilings. However, the organiser is aware that XING cannot assume any liability for unusual, unforeseeable events, e.g. if the credit institutions used are declared bankrupt (Section 676c of the German Civil Code (BGB) applies mutatis mutandis). In such cases, XING may only be held liable up to the guarantee ceiling, for revenues capped at the amount the respective credit institution would reimburse if a claim were submitted. The organiser bears any risk extending beyond the scope of these provisions.
-
-**Terms for ticket buyers**
-
-**4.7** Credit card payments for this service are processed by:
-
-Concardis GmbH  
-Helfmann-Park 7  
-65760 Eschborn  
-Germany
-
-Frankfurt am Main Local Court: HRB 57036  
-VAT no.: DE 228 965 682  
-Managing Directors: Robert Hoffmann, Carsten Höltkemeyer
-
-Phone: +49 (0)69 7922 0  
-Fax: +49 (0)69 7922 4500  
-[service@concardis.com](mailto:service@concardis.com)   
-[https://www.concardis.com/de-en/](https://www.concardis.com/de-en/) 
-
-Privacy Policy:  
-[https://www.concardis.com/de-en/protecting-your-data](https://www.concardis.com/de-en/protecting-your-data) 
-
-**4.8** Depending on the agreement reached between XING and the respective organiser, the fees for processing ticket sales shall be added on to the ticket price and listed separately during the ticket shop order process. The total purchase price may increase due to any supplementary products or services the ticket buyer has booked. Any charges or currency fluctuations that occur in connection with foreign transactions shall be borne by the participant. The ticket shop will state whether the ticket price is inclusive or exclusive of VAT.
-
-**4.9** The total purchase price is due for payment immediately upon receipt of the confirmation e-mail.
-
-**4.10** XING will collect direct debit payments by serving advance notice of six (6) business days. This is in derogation to the regular advance notice of fourteen (14) calendar days.
-
-### 5\. Validity of the provisions of the General Terms and Conditions for using the XING service 
-
-In any other respect, the GTC for use of the XING service shall apply.
-
-C. Additional terms for using the employer review platform 
+B. Additional terms for using the employer review platform 
 -----------------------------------------------------------
 
 The employer review platform provides employees the opportunity to rate their employer on XING Websites.
