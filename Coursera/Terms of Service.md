@@ -229,6 +229,11 @@ Please note that specific Content Offerings may have additional rules and requir
 * Impersonate or misrepresent your affiliation with any person or entity.
 * Encourage or help anyone do any of the things on this list.
 
+#### 3\. Without prior written consent from us, you also aren't allowed to:
+
+* Visit or use our Services for any form of content, data, or text scraping (including but not limited to screen scraping, web harvesting, or web data extracting) through manual, mechanical, or automated means including by the use of bots or other similar software.
+* Use any content, data, or text in any form in the Services for text or data mining purposes, or develop or train any application, software, code, or data models including but not limited to generative artificial intelligence or other artificial intelligence and machine learning models irrespective of the purposes whether commercial or non-commercial.
+
 * * *
 
 Copyright and Trademark Policy
