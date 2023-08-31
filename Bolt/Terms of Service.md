@@ -1,5 +1,5 @@
 General Terms and Conditions for Passengers
--------------------------------------------
+===========================================
 
 These General Terms and Conditions (“GTC”) set out the terms and conditions applying to and governing the usage of the Bolt App - technology which connects passengers, fleet partners and drivers and helps to move around cities more efficiently.
 
