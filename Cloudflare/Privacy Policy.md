@@ -1,9 +1,10 @@
 Cloudflare Privacy Policy
 =========================
 
-This Privacy Policy is effective as of July 3, 2023.
+This Privacy Policy is effective as of August 31, 2023.
 
-_We have updated our December 20, 2022 Privacy Policy to add a new subsidiary (Cloudflare Mexico S. de R.L de C.V.) in section 17._
+_We have updated our July 3, 2023 Privacy Policy to add a new subsidiary (Cloudflare Malaysia Sdn. Bhd.) and replace statements about Cloudflare’s certification to the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield with statements indicating our certification to the EU-U.S. Data Privacy Framework (DPF), the Swiss-U.S. DPF, and the UK Extension to the EU-U.S. DPF._  
+  
 
 * * *
 
@@ -170,7 +171,7 @@ These partners’ use of your information will be based on their own privacy pol
 
 California residents can find additional information about data sharing for marketing and advertising purposes and their data subject rights in Section 16, below  
 
-### 6\. NOTICE TO UK AND EU RESIDENTS
+### 6\. NOTICE TO EU, UK, AND SWISS RESIDENTS
 
 “Personal information” as referenced in this Privacy Policy means “personal data” as that term is defined under the European Union (“EU”) General Data Protection Regulations (“GDPR”) and its United Kingdom (“UK”) GDPR counterpart. Cloudflare is a data controller for the personal information collected from all categories of data subjects listed above, with the following exceptions: Cloudflare is a data processor of Customer Logs, Administrative User logs, and some account settings information. In addition, Cloudflare is a data processor for any of the content provided by Customers and End Users through the Services that transits, or in some cases, is stored on, the Cloudflare network. Where Cloudflare is a data processor, Cloudflare processes data on behalf of its Customers pursuant to their data processing instructions.
 
@@ -184,17 +185,21 @@ If you have any questions about or need further information concerning the legal
 
 Cloudflare is a U.S. based, global company. We primarily store your information in the United States and the European Economic Area. To facilitate our global operations, we may transfer and access such information from around the world, including from other countries in which the Cloudflare Group has operations for the purposes described in this Policy.
 
-Whenever a Cloudflare company transfers personal information originating in the EEA, the UK, or Switzerland with another member of the Cloudflare group or a third party service provider or partner outside the EEA, the UK, or Switzerland, we will implement appropriate safeguards, consistent with the laws of the territory from which the data is exported. For example, where transfers are made from the EEA, we rely on the EU standard contractual clauses, including supplementary measures as necessary.
+Whenever a Cloudflare company transfers personal information originating from one country to another Cloudflare group company or a third party service provider or partner in a different country, we will implement appropriate safeguards, consistent with the laws of the territory from which the data is exported. We describe the safeguards we implement [here](https://www.cloudflare.com/trust-hub/). If you have any questions about or need further information concerning the safeguards Cloudflare has in place to protect your personal information, please contact us at [privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com).
 
-If you are accessing or using our Websites or Services or otherwise providing information to us, we may transfer your personal information outside of the EEA, the UK, or Switzerland, ensuring appropriate safeguards are in place to protect your personal information. We describe our additional safeguards [here](https://www.cloudflare.com/en-gb/gdpr/introduction/). If you have any questions about or need further information concerning the appropriate safeguards Cloudflare has in place to protect your personal information, please contact us at [privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com).
+When Cloudflare transfers personal data from the EEA, Switzerland, or the United Kingdom (UK) internationally, we rely on the EU standard contractual clauses, including supplementary measures as necessary or, for transfers to the United States, we have also certified our compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF), and the UK Extension to the EU-U.S. DPF.  
+  
+Self-certification to the Data Privacy Framework  
+  
+Cloudflare complies with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF as set forth by the U.S. Department of Commerce. Cloudflare has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Cloudflare has also certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
-While Cloudflare no longer relies on the EU-U.S. and the Swiss -U.S. Privacy Shield as a lawful basis for international transfers of personal information from the EEA and Switzerland to the U.S., Cloudflare remains [certified](https://www.privacyshield.gov/participant?id=a2zt0000000GnZKAA0&status=Active) under both the EU-U.S. and the Swiss-U.S. Privacy Shield Frameworks respectively as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the EEA, the UK, and Switzerland to the United States, respectively (“Privacy Shields”). Cloudflare is responsible for the personal data it receives under each Privacy Shield framework and subsequently transfers to a third party agent acting on our behalf. Cloudflare complies with the Privacy Shield Principles for all onward transfers of personal data from the EEA, Switzerland, and the United Kingdom, including the onward transfer liability provisions. We commit to periodically review and verify the accuracy of our policies and our compliance with the Privacy Shields. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. For more information on the EU-U.S. Privacy Shield or Swiss-U.S. Privacy Shield, please visit the U.S. Department of Commerce’s Privacy Shield website at: [https://www.privacyshield.gov/welcome](https://www.privacyshield.gov/welcome).
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF (together, the “DPFs”), Cloudflare commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU, UK, and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the DPFs should first contact us by emailing sar@cloudflare.com or via mail to: Cloudflare, Inc., 101 Townsend St., San Francisco, CA 94107, Attn: Data Protection Officer. We will respond to your inquiry within 30 days of receipt and verification of your identity.  
+  
+In compliance with the DPFs, Cloudflare commits to refer unresolved complaints concerning our handling of personal information received in reliance on the DPFs to TRUSTe, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) for more information or to file a complaint. The services of TRUSTe, LLC are provided at no cost to you. You have the possibility, under certain conditions, to invoke binding arbitration for complaints regarding DPF compliance not resolved by any of the other mechanisms set out in this DPF Notice or our Privacy Notice. For more information, please see Annex 1 of the DPF Principles, available [here](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2).
 
-If you believe that we maintain copies of your personal information within the scope of the Privacy Shields, you may direct any inquiries to sar@cloudflare.com or via mail to: Cloudflare, Inc., 101 Townsend St., San Francisco, CA 94107, Attn: Data Protection Officer. We will respond to your inquiry within 30 days of receipt and verification of your identity.
+The Federal Trade Commission has jurisdiction over Cloudflare’s compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF). We may be required to disclose personal information we receive under the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request). If neither we nor our dispute resolution provider are able to resolve your complaint, as a last resort you may engage in binding arbitration through the Privacy Shield Panel.
-
-Our commitments under the Privacy Shields are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. We may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Under such circumstances, we may be prohibited by law, court order or other legal process from providing notice of disclosure.
+Cloudflare is liable for the processing of personal information it receives under the DPF Principles and subsequently transfers to a third party acting as an agent on its behalf. Cloudflare shall remain liable under the DPF Principles if its agent processes such personal information in a manner inconsistent with the DPF Principles, unless Cloudflare proves that it is not responsible for the event giving rise to the damage.  
 
 ### 8\. DATA SUBJECT RIGHTS AND CHOICES
 
@@ -420,6 +425,20 @@ Ciudad de México, C.P. 05120
 Attention: Data Protection Officer  
 [privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
 
+Cloudflare Malaysia Sdn. Bhd.  
+Level 21, Suite 21.01, The Gardens South Tower,  
+Mid Valley City,  
+Lingkaran Syed Putra,  
+Kuala Lumpur  
+Wilayah Persekutuan  
+59200  
+Attention: Data Protection Officer  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+
+  
+  
+  
+  
   
   
   
