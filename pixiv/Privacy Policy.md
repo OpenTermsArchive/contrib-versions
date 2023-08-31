@@ -117,6 +117,12 @@ Company shall acquire or may in the future acquire the User Information specifie
     
     * the following information of a User as a seller of goods or services on the Services: the date of application for such sales, company name, postal codes, address, phone number, industry types, the name and birth date of the representative of such company, the name, phone number, address and zip code of shops relevant to such transaction, the URL for the websites of such shops, industry types, the goods or services sold at such shops, the corporate number and classification (corporation or individual).
     
+    m For Wise transfers
+    ====================
+    
+    * ID, date and time, payment amount, currency unit, e-mail address
+    * (For certain countries, regions, and currencies): postal code, address, Swift code or IBAN code, card number
+    
     Time of acquisition
     ===================
     
@@ -285,6 +291,20 @@ Company shall acquire or may in the future acquire the User Information specifie
         To bill Users who used the Individual Service for use fees, to receive payment for products purchased by Users, to make payment of the amounts received to Sellers  
         \* Company does not retain card information, and payment is made via the settlement service company.
         
+        * * *
+        
+        (5) Full name, postal code, address, telephone number
+        
+        Time of acquisition
+        ===================
+        
+        Registration for individual services or updates/additions to registration information
+        
+        Purpose of use
+        ==============
+        
+        To apply for an insurance contract covering items stored through our storage service
+        
 3. pixiv Sketch LIVE
     
     (1)Bank account information
@@ -313,7 +333,7 @@ Except in the cases set forth below, Company shall use Personal Information acqu
 Article 5. Provision of Personal Information to third parties, etc.
 -------------------------------------------------------------------
 
-1. Except in the cases set forth in the following items or in paragraph5.2, Company shall not provide User Information that constitutes Personal Information to third parties (except the persons specified in each item of Article 27, Paragraph 5 of the Act on the Protection of Personal Information).
+1. Except in the cases stipulated in each Item in this Article or set forth below, the Company shall not provide User Information that constitutes Personal Information to third parties (except the persons specified in each item of Article 27, Paragraph 5 of the Act on the Protection of Personal Information).
     1. In cases where the User consents in advance to the provision to the third party;
     2. In cases the provision of Personal Information is based on laws and regulations;
     3. In cases where the provision of Personal Information is necessary to protect the life, body, or property of an individual and it is difficult to obtain the consent of the person whom the Personal Information concerns;
@@ -339,7 +359,7 @@ Article 5. Provision of Personal Information to third parties, etc.
         2. In cases where provision of User information is required by a court, administrative agency, supervisory authority, or other public agency;
         3. In cases where a member causes inconvenience to third parties and Company determines that disclosure is necessary to resolve the matter;
         4. In cases where Company determines that the disclosure of information is necessary to protect the rights and interests of Users of the Services and third parties; and
-        5. In cases where Company otherwise determines that disclosure is necessary for maintenance of the Services.
+        5. If a User uses the storage service and the Company deems it necessary.
 5. In the cases set forth in the following items, Company may provide User Information that constitutes Personal Information without the User’s consent pursuant to Article 27, Paragraph 5 of the Act on the Protection of Personal Information.
     1. In cases where operations are entrusted in whole or in part to service providers which Company has found to be sufficiently reliable, including sole proprietor, and with which Company has entered into personal information confidentiality agreements in order to process User Information, provide information to Users, administer campaign questionnaires, and so on and in other cases where Company outsources a portion of the Services and provides User Information to the extent necessary for performance of the outsourced services;
     2. In cases where the Personal Information of Users who use fee-based services or purchase the Products is entrusted by Company to trustees such as settlement substituting companies etc., including those in Japan and foreign countries, for the purpose of billing Users who use the fee-based services or purchase the Products;
@@ -522,6 +542,7 @@ Revision History
 
 | Revision date | Content of revision |
 | --- | --- |
+| August 31st, 2023 | “Article 3. Information Company acquires and purposes of use (according to each Service)” and “Article 5. Provision of Personal Information to third parties, etc.” were updated. |
 | June 13th, 2023 | Revised “Article 14. Use of cookies, advertising identifiers, ID solutions, etc.” in accordance with the updated Telecommunications Business Act (Japanese law), regarding external disclosure of information. |
 | July 28th, 2022 | Revised “procedures and methods” for “Article 3. Information the Company acquires and purposes of use”, “Article 5. Provision of Personal Information to third parties, etc.”, “Article 6. Information input by Users for the purposes of credit card payments on the Services”, and “Article 7. Disclosure, Correction, etc.”. |
 | July 7th, 2022 | Revised “Article 14. Use of cookies, advertising identifiers, ID solutions, etc.”. |
