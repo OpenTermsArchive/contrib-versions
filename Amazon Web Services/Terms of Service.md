@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: August 22, 2023
+#### Last Updated: August 30, 2023
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -145,7 +145,7 @@ c. The specific compliance and assurance programs for which AWS Outposts are in
 **5.2.** In conjunction with the Services, you may be allowed to use certain software (including related support, maintenance, and documentation) developed, owned, or provided by third parties or their licensors. Use of third party software is subject to these additional terms and conditions:
 
 * By using NVIDIA Corporation’s GRID Software, you agree to be bound by the terms and conditions of the [NVIDIA GRID Cloud End User License Agreement](https://aws-nvidia-license-agreement.s3.amazonaws.com/NvidiaGridAWSUserLicenseAgreement.DOCX).
-* By using NVIDIA Corporation’s Tesla Driver, CUDA Toolkit, cuDNN, NVENC, NVCUVID, NVM:, nvidia-smi, and NCCL Library Software, toolkits, and drivers, you agree to be bound by the terms and conditions of the [NVIDIA Cloud End User License Agreement](https://s3.amazonaws.com/EULA/Nvidia-EULA.txt) and [NVIDIA Third Party Materials Notices](https://s3.amazonaws.com/EULA/Nvidia-3P-Notice.txt).
+* By using NVIDIA Corporation’s Tesla Driver, CUDA Toolkit, cuDNN, NVENC, NVCUVID, NVM:, nvidia-smi, and NCCL Library Software, toolkits, and drivers, you agree to be bound by the terms and conditions of the [NVIDIA Cloud End User License Agreement](https://s3.amazonaws.com/EULA/NVidiaEULAforAWS.pdf) and [NVIDIA Third Party Materials Notices](https://s3.amazonaws.com/EULA/Nvidia-3P-Notice.txt).
 * By using Red Hat, Inc.’s software, you agree to be bound by the terms and conditions of the [Red Hat Cloud Software Subscription Agreement](http://www.redhat.com/licenses/cloud_cssa/). Red Hat also disclaims any (i) warranties with respect to Red Hat, Inc. software; and (ii) liability for any damages, whether direct, indirect, incidental, special, punitive or consequential, and any loss of profits, revenue, data or data use, arising from use of Red Hat, Inc. software.
 * By using SUSE LLC’s software, you agree to be bound by the terms and conditions of the [SUSE End User License Agreement](https://www.suse.com/licensing/eula) and the [SUSE Terms and Conditions](https://www.suse.com/products/terms_and_conditions.pdf).
 * By using Apple Inc.’s software, you agree to be bound by the terms and conditions of the applicable [Apple Software License Agreement](https://www.apple.com/legal/sla/).  
@@ -932,6 +932,8 @@ If your messages sent through Amazon MQ are blocked, delayed, or prevented from 
 **58.3.2.** AWS does not provide security, risk, governance, legal or compliance advice. You are responsible for making your own assessment of whether your use of the MEM Services meets applicable legal and regulatory requirements. You are also solely responsible for carrying out any advice or recommendations we provide.  
 
 **58.3.3.** Payments for MEM Services are not refundable, and your sole remedy is for AWS to re-perform the relevant MEM Services, provided that you must notify us of any failure within 10 business days of the original date of performance. We will invoice you in the manner set forth on your engagement summary.
+
+**58.4.** In conjunction with AWS Media Services, you can use watermarking software and technology developed and owned by third-parties (Licensors). This technology is Third-Party Content. You are solely responsible for obtaining all required licenses from Licensors to use their technology, paying any necessary royalties or fees, and complying with applicable terms and conditions.  
 
 #### 59\. AWS Entity Resolution
 
