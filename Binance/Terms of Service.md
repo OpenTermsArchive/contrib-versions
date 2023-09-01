@@ -865,4 +865,17 @@ c. any other security incident (including a cyber-security attack) affecting you
 
 **User Materials** means the Intellectual Property Rights in any reviews, posts, information, data, and comments you or other users provide to us on the Sites (through our “Contact Us” pages or otherwise), the Platform, through use of Binance Services, or otherwise.
 
-**Website** means the website located at [www.binance.com](http://www.binance.com/).
+**Website** means the website located at [www.binance.com](http://www.binance.com/). 
+
+Product Terms
+
+Please note, some products may not be available in your location.
+
+|     |     |     |
+| --- | --- | --- |
+| [Auto-Invest](https://www.binance.com/en/terms-autoinvest) | [Mining Pool](https://www.binance.com/en/terms-binance-pool) | [BLVT](https://www.binance.com/en/leveraged-tokens/agreement) |
+| [BNB Vault](https://www.binance.com/en/terms-BNB-vault) | [Cloud Mining](https://www.binance.com/en/terms-cloud-mining) | [Crypto Loan](https://www.binance.com/en/terms-crypto-loans) |
+| [DeFi Staking](https://www.binance.com/en/terms-defi-staking) | [ETH Staking](https://www.binance.com/en/terms-ETH-2-0-staking) | [Fiat](https://www.binance.com/en/legal/terms-fiat) |
+| [Futures](https://www.binance.com/en/binance-futures-services-agreement) | [Gift Card](https://www.binance.com/en/legal/terms-gift-card) | [NFT Staking](https://www.binance.com/en/legal/NFT_Staking_Terms) |
+| [Options](https://www.binance.com/en/legal/terms-options) | [OTC Terms](https://www.binance.com/en/terms-otc) | [Pay](https://www.binance.com/en/legal/terms-pay) |
+| [Simple Earn](https://www.binance.com/en/terms-simple-earn) | [Swap](https://www.binance.com/en/terms-swap-farming) |     |
