@@ -243,7 +243,7 @@ We may subcontract certain services required for providing our Services (e.g.: b
 The subcontractor will access the Personal Data only to the minimum extent required for performing the subcontracted services on our behalf, and will not use the Personal Data beyond the scope of the subcontracted services.  
 We will: (i) comply with Applicable Laws and sufficiently investigate the qualification as a subcontractor; (ii) take measures to have the subcontractor comply with the eight (8) principles under the OECD Privacy Guidelines by ways such as prescribing matters related to confidentiality and data protection in the contract with the subcontractor; and (iii) thereby establish a system for properly managing Personal Data.
 
-Countries and regions to which Personal Data is transferred: Japan, Korea, Vietnam, Thailand, Taiwan, Indonesia and the Philippines.
+Countries and regions to which Personal Data is transferred: Japan, Korea, Vietnam, Thailand, Taiwan, Indonesia, the United States, and the Philippines.
 
 5.c.Sharing of Personal Data among group companies
 
@@ -474,8 +474,7 @@ LINE Corporation
 CEO and President - Takeshi Idezawa
 
 Formulated on August 15, 2012  
-Last revised on June 9, 2023  
-(Description of “Handling of user information related to external transmission” is added.)
+Last revised on September 1, 2023 (the United States was added to "Countries and regions to which Personal Data is transferred.")
 
 10.Reference
 ------------
