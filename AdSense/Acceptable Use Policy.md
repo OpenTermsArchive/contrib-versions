@@ -366,18 +366,6 @@ Publishers must:
 
             ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about use of device and location data](https://support.google.com/publisherpolicies/answer/10437073)_
 
-### Standard Contractual Clauses (SCCs)
-
-Google relies on Standard Contractual Clauses (SCCs) for transfers of online advertising and measurement personal data out of Europe. For those [services where Google acts as a processor](https://privacy.google.com/businesses/adsservices/), the [Google Ads Data Processing Terms](https://privacy.google.com/businesses/processorterms/) include, as necessary for the relevant data transfers, both the relevant SCCs issued by the European Commission (to help legitimize data transfers under the GDPR) and UK SCCs (to help legitimize data transfers under the GDPR as incorporated into UK law). Similarly, for [those services where Google acts as a controller](https://privacy.google.com/businesses/adsservices/), the [Google Ads Controller-Controller Data Protection Terms](https://privacy.google.com/businesses/controllerterms/) include, as necessary for the relevant data transfers, both the relevant European Commission-issued SCCs and UK SCCs. 
-
-If partner processes personal data that originated in the European Economic Area, UK, or Switzerland and that is made available by Google in connection with partner's use of Google Ad Manager, then:
-
-* partner must only use that personal data in a manner consistent with the consent provided by the data subject to whom it relates;
-* partner must provide a level of protection for that personal data that is at least equivalent to that required under the SCCs; and
-* if partner determines that it cannot comply with the above requirements, partner must notify Google in writing, and either cease processing the personal data or take reasonable and appropriate steps to remedy such non-compliance.
-
-             ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about Standard Contractual Clauses (SCCs)](https://support.google.com/publisherpolicies/answer/10437486)_
-
 ### Children’s Online Privacy Protection Act (COPPA)
 
 If you implement any Google advertising service on a site or section of a site that is covered by the Children's Online Privacy Protection Act (COPPA), you must:
