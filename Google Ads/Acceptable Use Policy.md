@@ -192,6 +192,10 @@ We will provide you with information on our decision for any policy violation en
 > > 
 > > Advertisers may not run personalized ads on content set as [made for kids](https://support.google.com/youtube/answer/9528076). [See here](https://support.google.com/adspolicy/answer/9683742) for categories restricted for advertising on made for kids content.
 > 
+> ### Limited ad serving
+> 
+> > To protect the integrity of our Google Ads ecosystem, we limit impressions of ads that have a higher potential of causing abuse or a poor experience for our users. In these specific instances, only qualified advertisers will be able to serve ads without impression limits. Learn more about when [limited ad serving](https://support.google.com/adspolicy/answer/13889491) applies and who is a qualified advertiser.
+> 
 > Editorial & technical requirements
 > ----------------------------------
 > 
