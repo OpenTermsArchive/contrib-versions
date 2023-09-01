@@ -1,7 +1,7 @@
-* [Aller au contenu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#content)
-* [Aller au menu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#main-nav)
-* [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#recherche)
-* [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#footer)
+* [Aller au contenu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#content)
+* [Aller au menu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#main-nav)
+* [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#recherche)
+* [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#footer)
 
 [![Accueil Ministère de la Santé et de la Prévention](IMG/logo/siteon0.png?1679998366)](http://sante.gouv.fr/)
 ==============================================================================================================
@@ -749,7 +749,6 @@
 * [Maladies](https://sante.gouv.fr/soins-et-maladies/maladies/) >
 * [Maladies infectieuses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/) >
 * [Coronavirus](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/) >
-* [Tout savoir sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/) >
 * TousAntiCovid
 
 TousAntiCovid
@@ -757,22 +756,22 @@ TousAntiCovid
 
 publié le22.12.22 mise à jour30.06.23
 
-* [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#)
-* [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#)
-* [Imprimer](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid# "Imprimer")
+* [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#)
+* [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#)
+* [Imprimer](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid# "Imprimer")
 
-* [Envoyer le lien de l'article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Ftout-savoir-sur-le-covid-19%2Farticle%2Ftousanticovid "Envoyer le lien de l'article par email à un ami")
-* [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Ftout-savoir-sur-le-covid-19%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
-* [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Ftout-savoir-sur-le-covid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
-* [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Ftout-savoir-sur-le-covid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
+* [Envoyer le lien de l'article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Farticle%2Ftousanticovid "Envoyer le lien de l'article par email à un ami")
+* [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
+* [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Farticle%2Ftousanticovid "Partager sur facebook")
+* [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-### La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid# "Retour au sommaire")
+### La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid# "Retour au sommaire")
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
 Les objectifs initiaux de l’application (contribution aux activités de contact tracing, accompagnement des cas et personnes contacts, mise à disposition d’informations sur l’épidémie et les mesures de gestion, stockage des certificats sanitaires) ont été remplis. Nous remercions tous les utilisateurs de TousAntiCovid pour leur confiance, leur contribution à la gestion de la pandémie, mais également pour vos retours sur l’application qui nous ont aidé à l’améliorer et l’adapter durant ces trois années.
 
-En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le (...)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
+En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le (...)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
 
 Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plus d’information sur :
 
@@ -781,7 +780,7 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 
 * * *
 
-### Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid# "Retour au sommaire")
+### Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid# "Retour au sommaire")
 
 [Comment importer son certificat de vaccination ?](javascript:;)
 
@@ -819,7 +818,7 @@ L’application ne nécessite pas de renseigner mes informations personnelles po
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-### Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid# "Retour au sommaire")
+### Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid# "Retour au sommaire")
 
 **–** La foire aux questions technique
 
@@ -837,9 +836,9 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
 
 * * *
 
-\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
+\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
-[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#0 "Haut de page")
+[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#0 "Haut de page")
 
 ![Accueil Ministère de la Santé et de la Prévention](IMG/logo/siteon0.png?1679998366) 
 
@@ -861,10 +860,10 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
 * [www.gouvernement.fr](http://www.gouvernement.fr/)
 * [www.france.fr](http://www.france.fr/)
 
-* [Aller au contenu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#content)
-* [Aller au menu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#main-nav)
-* [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#recherche)
-* [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#footer)
+* [Aller au contenu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#content)
+* [Aller au menu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#main-nav)
+* [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#recherche)
+* [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#footer)
 
 [![Accueil Ministère de la Santé et de la Prévention](IMG/logo/siteon0.png?1679998366)](http://sante.gouv.fr/)
 ==============================================================================================================
@@ -1612,7 +1611,6 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
 * [Maladies](https://sante.gouv.fr/soins-et-maladies/maladies/) >
 * [Maladies infectieuses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/) >
 * [Coronavirus](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/) >
-* [Tout savoir sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/) >
 * TousAntiCovid
 
 TousAntiCovid
@@ -1620,22 +1618,22 @@ TousAntiCovid
 
 publié le22.12.22 mise à jour30.06.23
 
-* [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#)
-* [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#)
-* [Imprimer](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid# "Imprimer")
+* [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#)
+* [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#)
+* [Imprimer](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid# "Imprimer")
 
-* [Envoyer le lien de l'article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Ftout-savoir-sur-le-covid-19%2Farticle%2Ftousanticovid "Envoyer le lien de l'article par email à un ami")
-* [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Ftout-savoir-sur-le-covid-19%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
-* [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Ftout-savoir-sur-le-covid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
-* [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Ftout-savoir-sur-le-covid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
+* [Envoyer le lien de l'article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Farticle%2Ftousanticovid "Envoyer le lien de l'article par email à un ami")
+* [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
+* [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Farticle%2Ftousanticovid "Partager sur facebook")
+* [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-### La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid# "Retour au sommaire")
+### La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid# "Retour au sommaire")
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
 Les objectifs initiaux de l’application (contribution aux activités de contact tracing, accompagnement des cas et personnes contacts, mise à disposition d’informations sur l’épidémie et les mesures de gestion, stockage des certificats sanitaires) ont été remplis. Nous remercions tous les utilisateurs de TousAntiCovid pour leur confiance, leur contribution à la gestion de la pandémie, mais également pour vos retours sur l’application qui nous ont aidé à l’améliorer et l’adapter durant ces trois années.
 
-En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le (...)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
+En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le (...)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
 
 Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plus d’information sur :
 
@@ -1644,7 +1642,7 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 
 * * *
 
-### Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid# "Retour au sommaire")
+### Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid# "Retour au sommaire")
 
 [Comment importer son certificat de vaccination ?](javascript:;)
 
@@ -1682,7 +1680,7 @@ L’application ne nécessite pas de renseigner mes informations personnelles po
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-### Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid# "Retour au sommaire")
+### Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid# "Retour au sommaire")
 
 **–** La foire aux questions technique
 
@@ -1700,14 +1698,14 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
 
 * * *
 
-\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
+\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
-[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#0 "Haut de page")
+[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#0 "Haut de page")
 
-* [Aller au contenu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#content)
-* [Aller au menu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#main-nav)
-* [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#recherche)
-* [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#footer)
+* [Aller au contenu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#content)
+* [Aller au menu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#main-nav)
+* [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#recherche)
+* [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#footer)
 
 [![Accueil Ministère de la Santé et de la Prévention](IMG/logo/siteon0.png?1679998366)](http://sante.gouv.fr/)
 ==============================================================================================================
@@ -2450,10 +2448,10 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             
     
 
-* [Aller au contenu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#content)
-* [Aller au menu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#main-nav)
-* [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#recherche)
-* [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#footer)
+* [Aller au contenu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#content)
+* [Aller au menu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#main-nav)
+* [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#recherche)
+* [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#footer)
 
 [![Accueil Ministère de la Santé et de la Prévention](IMG/logo/siteon0.png?1679998366)](http://sante.gouv.fr/)
 ==============================================================================================================
@@ -7424,7 +7422,6 @@ Retour
 * [Maladies](https://sante.gouv.fr/soins-et-maladies/maladies/) >
 * [Maladies infectieuses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/) >
 * [Coronavirus](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/) >
-* [Tout savoir sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/) >
 * TousAntiCovid
 
 TousAntiCovid
@@ -7432,22 +7429,22 @@ TousAntiCovid
 
 publié le22.12.22 mise à jour30.06.23
 
-* [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#)
-* [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#)
-* [Imprimer](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid# "Imprimer")
+* [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#)
+* [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#)
+* [Imprimer](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid# "Imprimer")
 
-* [Envoyer le lien de l'article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Ftout-savoir-sur-le-covid-19%2Farticle%2Ftousanticovid "Envoyer le lien de l'article par email à un ami")
-* [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Ftout-savoir-sur-le-covid-19%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
-* [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Ftout-savoir-sur-le-covid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
-* [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Ftout-savoir-sur-le-covid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
+* [Envoyer le lien de l'article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Farticle%2Ftousanticovid "Envoyer le lien de l'article par email à un ami")
+* [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
+* [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Farticle%2Ftousanticovid "Partager sur facebook")
+* [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-### La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid# "Retour au sommaire")
+### La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid# "Retour au sommaire")
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
 Les objectifs initiaux de l’application (contribution aux activités de contact tracing, accompagnement des cas et personnes contacts, mise à disposition d’informations sur l’épidémie et les mesures de gestion, stockage des certificats sanitaires) ont été remplis. Nous remercions tous les utilisateurs de TousAntiCovid pour leur confiance, leur contribution à la gestion de la pandémie, mais également pour vos retours sur l’application qui nous ont aidé à l’améliorer et l’adapter durant ces trois années.
 
-En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le (...)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
+En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le (...)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
 
 Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plus d’information sur :
 
@@ -7456,7 +7453,7 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 
 * * *
 
-### Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid# "Retour au sommaire")
+### Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid# "Retour au sommaire")
 
 [Comment importer son certificat de vaccination ?](javascript:;)
 
@@ -7494,7 +7491,7 @@ L’application ne nécessite pas de renseigner mes informations personnelles po
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-### Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid# "Retour au sommaire")
+### Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid# "Retour au sommaire")
 
 **–** La foire aux questions technique
 
@@ -7512,31 +7509,31 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
 
 * * *
 
-\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
+\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
-[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#0 "Haut de page")
+[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#0 "Haut de page")
 
 TousAntiCovid
 -------------
 
 publié le22.12.22 mise à jour30.06.23
 
-* [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#)
-* [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#)
-* [Imprimer](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid# "Imprimer")
+* [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#)
+* [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#)
+* [Imprimer](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid# "Imprimer")
 
-* [Envoyer le lien de l'article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Ftout-savoir-sur-le-covid-19%2Farticle%2Ftousanticovid "Envoyer le lien de l'article par email à un ami")
-* [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Ftout-savoir-sur-le-covid-19%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
-* [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Ftout-savoir-sur-le-covid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
-* [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Ftout-savoir-sur-le-covid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
+* [Envoyer le lien de l'article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Farticle%2Ftousanticovid "Envoyer le lien de l'article par email à un ami")
+* [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
+* [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Farticle%2Ftousanticovid "Partager sur facebook")
+* [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-### La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid# "Retour au sommaire")
+### La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid# "Retour au sommaire")
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
 Les objectifs initiaux de l’application (contribution aux activités de contact tracing, accompagnement des cas et personnes contacts, mise à disposition d’informations sur l’épidémie et les mesures de gestion, stockage des certificats sanitaires) ont été remplis. Nous remercions tous les utilisateurs de TousAntiCovid pour leur confiance, leur contribution à la gestion de la pandémie, mais également pour vos retours sur l’application qui nous ont aidé à l’améliorer et l’adapter durant ces trois années.
 
-En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le (...)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
+En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le (...)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
 
 Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plus d’information sur :
 
@@ -7545,7 +7542,7 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 
 * * *
 
-### Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid# "Retour au sommaire")
+### Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid# "Retour au sommaire")
 
 [Comment importer son certificat de vaccination ?](javascript:;)
 
@@ -7583,7 +7580,7 @@ L’application ne nécessite pas de renseigner mes informations personnelles po
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-### Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid# "Retour au sommaire")
+### Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid# "Retour au sommaire")
 
 **–** La foire aux questions technique
 
@@ -7601,31 +7598,31 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
 
 * * *
 
-\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
+\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
-[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#0 "Haut de page")
+[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#0 "Haut de page")
 
 TousAntiCovid
 -------------
 
 publié le22.12.22 mise à jour30.06.23
 
-* [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#)
-* [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#)
-* [Imprimer](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid# "Imprimer")
+* [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#)
+* [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#)
+* [Imprimer](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid# "Imprimer")
 
-* [Envoyer le lien de l'article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Ftout-savoir-sur-le-covid-19%2Farticle%2Ftousanticovid "Envoyer le lien de l'article par email à un ami")
-* [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Ftout-savoir-sur-le-covid-19%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
-* [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Ftout-savoir-sur-le-covid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
-* [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Ftout-savoir-sur-le-covid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
+* [Envoyer le lien de l'article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Farticle%2Ftousanticovid "Envoyer le lien de l'article par email à un ami")
+* [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
+* [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Farticle%2Ftousanticovid "Partager sur facebook")
+* [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-infectieuses%2Fcoronavirus%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-### La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid# "Retour au sommaire")
+### La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid# "Retour au sommaire")
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
 Les objectifs initiaux de l’application (contribution aux activités de contact tracing, accompagnement des cas et personnes contacts, mise à disposition d’informations sur l’épidémie et les mesures de gestion, stockage des certificats sanitaires) ont été remplis. Nous remercions tous les utilisateurs de TousAntiCovid pour leur confiance, leur contribution à la gestion de la pandémie, mais également pour vos retours sur l’application qui nous ont aidé à l’améliorer et l’adapter durant ces trois années.
 
-En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le (...)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
+En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le (...)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
 
 Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plus d’information sur :
 
@@ -7634,7 +7631,7 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 
 * * *
 
-### Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid# "Retour au sommaire")
+### Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid# "Retour au sommaire")
 
 [Comment importer son certificat de vaccination ?](javascript:;)
 
@@ -7672,7 +7669,7 @@ L’application ne nécessite pas de renseigner mes informations personnelles po
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-### Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid# "Retour au sommaire")
+### Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid# "Retour au sommaire")
 
 **–** La foire aux questions technique
 
@@ -7690,14 +7687,14 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
 
 * * *
 
-\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
+\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
 TousAntiCovid
 -------------
 
 publié le22.12.22 mise à jour30.06.23
 
-\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/tout-savoir-sur-le-covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
+\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
 ![Accueil Ministère de la Santé et de la Prévention](IMG/logo/siteon0.png?1679998366) 
 
