@@ -75,3 +75,8 @@ We may make certain beta services available to you from time to time (each, a �
 7. The Beta Service is made available to you on a pre-release, “beta” basis. We may from time to time, in our sole discretion and without prior notice to you, change, improve, or correct the Beta Service or any functionality available through the Beta Service, or terminate or suspend your use of the Beta Service for cause.  We may, at any time, terminate or suspend your use of the Beta Service without cause. Without affecting the foregoing, we will use commercially reasonable efforts to provide 7 days’ notice prior to terminating or suspending your use of the Beta Service without cause. The Beta Service and these Beta Program Specific Terms will terminate automatically at the end of the beta period, including if this Agreement includes program-specific terms for the Beta Service (or successor program) that are separate from these Beta Program Specific Terms. 
 8. We may change and update these Beta Program Specific Terms at any time in our sole discretion by emailing you revised terms or posting the revised terms online. Your continued participation in the Beta Service will constitute your acceptance of the changes and updates.
 9. These Beta Program Specific Terms, the Product Terms, and the APS Agreement are our entire agreement regarding the Beta Service. The Beta Service, your participation in the Beta Service, and these Beta Terms are Amazon’s Confidential Information.
+
+Auction Mechanisms
+------------------
+
+The advertising fees that you earn reflect a transaction fee that we deduct from Amazon Demand and UAM bid prices on a pre-auction, per auction basis.
