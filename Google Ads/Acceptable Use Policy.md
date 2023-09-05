@@ -160,7 +160,7 @@ We will provide you with information on our decision for any policy violation en
 > > 
 > > We want users to have adequate information to make informed financial decisions. Our policies are designed to give users information to weigh the costs associated with financial products and services, and to protect users from harmful or deceitful practices. For the purposes of this policy, we consider financial products and services to be those related to the management or investment of money and cryptocurrencies, including personalized advice.
 > > 
-> > When promoting financial products and services, you must comply with state and local regulations for any region or country that your ads target — for example, include specific disclosures required by local law. Refer to our non-exhaustive list of [country-specific requirements](https://support.google.com/adspolicy/answer/6023676) for more information but note that advertisers are expected to do their own research on the local regulations for any location their ads target.
+> > When promoting financial products and services, you must comply with state and local regulations for any location that your ads target — for example, include specific disclosures required by local law. Refer to our non-exhaustive list of [location-specific requirements](https://support.google.com/adspolicy/answer/6023676) for more information but note that advertisers are expected to do their own research on the local regulations for any location their ads target.
 > 
 > ### [Trademarks](https://support.google.com/adspolicy/answer/6118)
 > 
