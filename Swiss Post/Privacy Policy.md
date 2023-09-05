@@ -7,6 +7,7 @@ Subnavigation
 * [Overview](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer)
 * [Digital presence](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer/privacy-policy)
 * [Services](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer/services)
+* [Branches](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer/branches)
 * [Cookies and SoMe](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer/cookies-and-social-media)
 * [Addresses](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer/delivery-address-data)
 * [Legal information](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer/legal-information)
@@ -27,6 +28,12 @@ How your data is processed when you access our digital presence
 How your data is processed when you use our services
 
 [Services](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer/services "Services")
+
+### Swiss Post branches
+
+How we process your data in our branches
+
+[Swiss Post branches](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer/branches "Swiss Post branches")
 
 ### Cookies and social media
 
