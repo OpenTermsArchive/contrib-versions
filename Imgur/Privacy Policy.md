@@ -96,3 +96,5 @@ Changes to this Privacy Policy
 ------------------------------
 
 We may revise our privacy policy from time to time by posting the changes here. You can determine the date of the most recent changes by looking at the “effective date” at the top.
+
+[Print Imgur's Privacy Policy](#)
