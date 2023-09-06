@@ -1,8 +1,13 @@
-**BINANCE TERMS OF USE**
-========================
+Binance Terms of Use
+====================
 
-**Last Updated: 21 August 2023**  
-**Effective Date: 31 August 2023**
+**TERMS OF USE - United Kingdom**
+=================================
+
+You can download a PDF copy of these terms [here](https://public.bnbstatic.com/static/terms_doc/2023_07_27_terms_of_use_uk_consolidated-f8ef267b2.pdf).
+
+**Last Updated: 27 July 2023**  
+**Effective Date: 10 August 2023**
 
 These Terms constitute a legally binding agreement between you (“**you**” or “**your**”) and Binance (“**Binance**”, “**we**”, “**our**” or “**us**”). The Terms govern your use of the Binance Services made available to you on or through the Platform or otherwise. Binance Services may be provided by Binance or, if specified in these Terms, any Product Terms or any additional terms, by any Binance Affiliate.
 
@@ -72,7 +77,7 @@ i. a jurisdiction where it would be illegal under Applicable Law for you to acce
 
 ii. a country listed in our [List of Prohibited Countries](https://www.binance.com/en/legal/list-of-prohibited-countries).
 
-2.2. **Amending our eligibility criteria**. We may amend our eligibility criteria at any time in our sole discretion. Where possible, we will give you notice in advance of the change. However, we may occasionally need to make changes without telling you in advance. This may include where:
+2.2. **Amending our eligibility criteria**. We may amend our eligibility criteria at any time in our sole discretion. Where possible, we will give you at least fourteen (14) calendar days’ notice in advance of the change. However, we may occasionally need to make changes without telling you in advance. This may include where:
 
 a. we are making the change as a result of legal and/or regulatory changes;
 
@@ -134,7 +139,7 @@ You authorise us to make inquiries, whether directly or through third parties, t
 
 When we carry out inquiries, you acknowledge and understand that your personal data , and that of any Permitted Users, may be disclosed to identity verification, compliance data recordation, credit reference, fraud prevention, or financial crime agencies and that these agencies may respond to our inquiries in full.  
   
-You can review our Privacy Notice to have more information about how we process your p[ersonal data](https://www.binance.com/en/privacy). 
+You can review our Privacy Notice to have more information about how we process your [personal data](https://www.binance.com/en/privacy). 
 
 7.4. **Enhanced due diligence**. We may also require you to comply with our enhanced due diligence procedures by submitting additional information about yourself, your business or your Permitted Users, providing additional records or documentation, or having face to face meetings with representatives of Binance.
 
@@ -311,7 +316,7 @@ a. mark your Binance Account as a dormant account;
 
 b. convert the Digital Assets to a different type of Digital Asset. In doing so, we will not be liable for any loss of profit, tax obligations or any other loss, damage or expense incurred by you resulting from such conversion;
 
-c. transfer such dormant account and/or any Digital Assets held in that account to any third party (including, without limitation, another Binance Affiliate, any third-party custodian or an isolated wallet) if we consider it is reasonably necessary to do so. If this happens, you have the right to retrieve your Digital Assets, subject to satisfying our (or the relevant third party’s) reasonable verification requirements and any other applicable terms and conditions; 
+c. transfer such dormant account (including any Digital Assets held in the account) to another Binance Affiliate, any third-party custodian or an isolated wallet where we consider it is reasonably necessary to do so. If this happens, you have the right to retrieve your Digital Assets, subject to satisfying our reasonable verification requirements; 
 
 d. adjust your dormant account such that you will receive a contractual claim on the quantity and type of Digital Assets, which were held on your Binance Account before being converted into a dormant account;
 
@@ -383,7 +388,7 @@ a. the examples set out in clause ‎20.1 above of when we might take action to 
 
 b. our decision to take certain actions, including, without limitations, to terminate, suspend, or restrict your access to your Binance Account or the Binance Services, may be based on confidential criteria that are essential to our risk management and security protocols. You agree that we are under no obligation to disclose the details of our risk management and security procedures to you.
 
-20.3. **What happens when we exercise our right**. Where we terminate, suspend, hold or restrict your access to one or more Binance Services:
+**20.3. What happens when we exercise our right**. Where we terminate, suspend, hold or restrict your access to one or more Binance Services:
 
 a. if you have Instructions, trades, positions or Transactions that are open, they may be closed by you, or by us, depending on the circumstances of the termination, suspension, hold, restriction or other action we take;
 
@@ -393,9 +398,9 @@ c. to reactivate suspended and/or restricted Binance Account or Binance Services
 
 d. you are liable for any credited amounts in case of a chargeback, and you authorise and grant us the right to deduct costs and fees directly from any assets in your Binance Account without notice.
 
-20.4. **Unlawful possession**. If we are informed and reasonably believe that any Digital Assets or Fiat Currencies held in your Binance Account are stolen or otherwise are not lawfully possessed by you (whether by error or otherwise), we may, but have no obligation to, place a hold on the affected funds and your Binance Account. Where we place a hold on some or all of any Digital Assets or Fiat Currencies held in your Binance Account, or on your entire Binance Account, we may continue such hold until such time as evidence, acceptable to us, proves that you are entitled to possession of the Digital Assets and/or Fiat Currency held in your Binance Account. We will not get involved in any dispute, or the resolution of the dispute, relating to any Digital Assets and/or Fiat Currency held in your Binance Account. 
+**20.4. Unlawful possession**. If we are informed and reasonably believe that any Digital Assets or Fiat Currencies held in your Binance Account are stolen or otherwise are not lawfully possessed by you (whether by error or otherwise), we may, but have no obligation to, place a hold on the affected funds and your Binance Account. Where we place a hold on some or all of any Digital Assets or Fiat Currencies held in your Binance Account, or on your entire Binance Account, we may continue such hold until such time as evidence, acceptable to us, proves that you are entitled to possession of the Digital Assets and/or Fiat Currency held in your Binance Account. We will not get involved in any dispute, or the resolution of the dispute, relating to any Digital Assets and/or Fiat Currency held in your Binance Account. 
 
-20.5. **Access to Binance Services in other jurisdictions**. Residents of some countries may only be able to access some, but not all, Binance Services. We may change the Binance Services that are available to you from time to time. If you travel to a location included on our [List of Prohibited Countries](https://www.binance.com/en/legal/list-of-prohibited-countries), Binance Services may not be available and your access to the Binance Services may be blocked. You acknowledge that this may impact your ability to trade on the Platform and/or monitor any existing orders or open positions or otherwise use the Binance Services. You must not attempt in any way to circumvent any such restriction, including by use of any virtual private network to modify your internet protocol address.
+**20.5. Access to Binance Services in other jurisdictions**. Residents of some countries may only be able to access some, but not all, Binance Services. We may change the Binance Services that are available to you from time to time. If you travel to a location included on our [List of Prohibited Countries](https://www.binance.com/en/legal/list-of-prohibited-countries), Binance Services may not be available and your access to the Binance Services may be blocked. You acknowledge that this may impact your ability to trade on the Platform and/or monitor any existing orders or open positions or otherwise use the Binance Services. You must not attempt in any way to circumvent any such restriction, including by use of any virtual private network to modify your internet protocol address.
 
 **INTELLECTUAL PROPERTY**
 
@@ -629,9 +634,11 @@ c. any losses forming part of a Claim that has not been commenced by way of form
 
 32.8. Notice: if Binance commences arbitration against you, Binance will give you notice at the email address or mailing address you have provided. You agree that any notice sent to this email or mailing address shall be deemed effective for all purposes, including without limitation to determinations of the adequacy of service. It is your obligation to ensure that the email address and/or mailing address on file with Binance is up-to-date and accurate.
 
+32.9. Nothing in these Terms shall prevent a user resident in the United Kingdom from having the right to bring a Claim against Binance in a court in the United Kingdom.
+
 **33\. Confidentiality**
 
-33.1. The parties agree that the arbitration shall be kept confidential. The existence of the arbitration, the existence or content of the Claim, all documents and information provided or exchanged in connection with the arbitration, and any submissions, orders or awards made in the arbitration shall be kept confidential and no party shall disclose any of the foregoing to any third party except the tribunal, the HKIAC, the parties, their counsels, experts, witnesses, accountants and auditors, insurers and reinsurers, and any other persons necessary to the conduct of the arbitration. Notwithstanding the foregoing, a party may disclose such confidential information:
+**33.1.** The parties agree that the arbitration shall be kept confidential. The existence of the arbitration, the existence or content of the Claim, all documents and information provided or exchanged in connection with the arbitration, and any submissions, orders or awards made in the arbitration shall be kept confidential and no party shall disclose any of the foregoing to any third party except the tribunal, the HKIAC, the parties, their counsels, experts, witnesses, accountants and auditors, insurers and reinsurers, and any other persons necessary to the conduct of the arbitration. Notwithstanding the foregoing, a party may disclose such confidential information:
 
 a. if the written consent of the other party is obtained;
 
@@ -645,7 +652,9 @@ This term of confidentiality in this clause shall survive termination of these T
 
 **34\. Governing law**
 
-Aside from where Applicable Law requires or provides you with a choice otherwise, these Terms (including this arbitration agreement) shall be governed by, and construed in accordance with, the laws of Hong Kong.
+34.1. Subject to clause 34.2 below and aside from where Applicable Law requires or provides you with a choice otherwise, these Terms (including this arbitration agreement) shall be governed by, and construed in accordance with, the laws of Hong Kong.
+
+34.2. If you are a user resident in the United Kingdom, these Terms shall be governed by, and construed in accordance with, the relevant laws of the United Kingdom.
 
 **35\. Class action waiver**
 
@@ -749,7 +758,7 @@ g. except where the context requires others, the following terms shall have the 
 
 **Binance API** means an API made available by a Binance Affiliate to you as a service, or third-party applications relying on such an API.
 
-**Binance IP** means the Created IP and all other Intellectual Property Rights owned by or licensed, on a sub-licenseable basis, to us as at the date of the Terms and any other Intellectual Property Rights owned or acquired by or licensed, on a sub-licenseable basis, to us after the date of these Terms, and which are provided by us to you in the course of providing you with the Binance Services.
+**Binance IP** means the Created IP and all other Intellectual Property Rights owned by or licensed, on a sub-licensable basis, to us as at the date of the Terms and any other Intellectual Property Rights owned or acquired by or licensed, on a sub-licensable basis, to us after the date of these Terms, and which are provided by us to you in the course of providing you with the Binance Services.
 
 **Binance Services** means the services offered by us to you through the Platform.
 
@@ -819,7 +828,7 @@ m. an event which significantly disrupts the market for Digital Assets, which co
 
 **Intellectual Property Rights** means: (a) copyright, patents, database rights and rights in trade marks, designs, know-how and confidential information (whether registered or unregistered); (b) applications for registration, and rights to apply for registration, of any of the foregoing rights; and (c) all other intellectual property rights and equivalent or similar forms of protection existing anywhere in the world.
 
-**List of Prohibited Countries** means the list of countries accessible at [https://www.binance.com/en/legal/list-of-prohibited-countries](https://www.binance.com/en/legal/list-of-prohibited-countries).
+**List of Prohibited Countries** means the list of countries accessible at https://www.binance.com/en/legal/list-of-prohibited-countries.
 
 **Local Terms** means the terms governing your use of the Binance Services provided in any particular jurisdiction.
 
@@ -869,13 +878,9 @@ c. any other security incident (including a cyber-security attack) affecting you
 
 Product Terms
 
-Please note, some products may not be available in your location.
-
 |     |     |     |
 | --- | --- | --- |
-| [Auto-Invest](https://www.binance.com/en/terms-autoinvest) | [Mining Pool](https://www.binance.com/en/terms-binance-pool) | [BLVT](https://www.binance.com/en/leveraged-tokens/agreement) |
-| [BNB Vault](https://www.binance.com/en/terms-BNB-vault) | [Cloud Mining](https://www.binance.com/en/terms-cloud-mining) | [Crypto Loan](https://www.binance.com/en/terms-crypto-loans) |
-| [DeFi Staking](https://www.binance.com/en/terms-defi-staking) | [ETH Staking](https://www.binance.com/en/terms-ETH-2-0-staking) | [Fiat](https://www.binance.com/en/legal/terms-fiat) |
-| [Futures](https://www.binance.com/en/binance-futures-services-agreement) | [Gift Card](https://www.binance.com/en/legal/terms-gift-card) | [NFT Staking](https://www.binance.com/en/legal/NFT_Staking_Terms) |
-| [Options](https://www.binance.com/en/legal/terms-options) | [OTC Terms](https://www.binance.com/en/terms-otc) | [Pay](https://www.binance.com/en/legal/terms-pay) |
-| [Simple Earn](https://www.binance.com/en/terms-simple-earn) | [Swap](https://www.binance.com/en/terms-swap-farming) |     |
+| [Auto-Invest](https://www.binance.com/en/terms-autoinvest) | [Mining Pool](https://www.binance.com/en/terms-binance-pool) |     |
+| [Crypto Loan](https://www.binance.com/en/terms-crypto-loans) | [Fiat](https://www.binance.com/en/legal/terms-fiat) |     |
+| [Gift Card](https://www.binance.com/en/legal/terms-gift-card) | [OTC Terms](https://www.binance.com/en/terms-otc) |     |
+| [Swap](https://www.binance.com/en/terms-swap-farming) |     |     |
