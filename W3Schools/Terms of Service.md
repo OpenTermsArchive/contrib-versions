@@ -295,3 +295,7 @@ Contact Information
 -------------------
 
 If you have any questions or concerns regarding these Terms, please contact us at help@w3schools.com
+
+  
+
+[★ +1](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com "Your W3Schools Profile")
