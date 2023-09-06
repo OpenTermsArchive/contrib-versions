@@ -12,7 +12,7 @@ In event of dispute, account ownership is determined as follows: If a paid accou
 #### Freedom of discussion and personal attacks
 
 * LibraryThing has no speech code per se.
-* LibraryThing prohibits all personal attacks on members. As [Wikipedia's](http://en.wikipedia.org/wiki/Wikipedia:No_personal_attacks) policy states, "Comment on content, not on the contributor."
+* LibraryThing prohibits all personal attacks on members. As [Wikipedia's](https://en.wikipedia.org/wiki/Wikipedia:No_personal_attacks) policy states, "Comment on content, not on the contributor."
 * Personal attacks are attacks on a person. To dispute or disparage someone's words is not a personal attack. It is the line between "You are a liar" and "Your recent post was a lie." The former is a violation of the TOS. The latter is not.
 * Personal attacks include name-calling. Name-calling is not restricted to pure insults (e.g., "asshole"), but also ones that imply both a personal and a content problem (e.g., "liar," "Nazi").
 
@@ -35,7 +35,7 @@ In event of dispute, account ownership is determined as follows: If a paid accou
 
 #### How LibraryThing deals with abuse
 
-* As stated, members are encouraged to report abuse, not merely to flag it. Email info@librarything.com.
+* As stated, members are encouraged to report abuse, not merely to flag it. Email [\[email protected\]](https://www.librarything.com/cdn-cgi/l/email-protection).
 * When reporting abuse be as specific as possible.
 * Avoid responding to abuse with abuse. It will not be excused.
 * LibraryThing staff are empowered to admonish, warn, suspend, and ban users for violations of these terms. We are happy to talk things through, but our decisions are final.
@@ -43,7 +43,7 @@ In event of dispute, account ownership is determined as follows: If a paid accou
 #### Advertising and spam
 
 * LibraryThing is not an advertising medium. Egregious commercial solicitation is forbidden.
-* No matter how great your novel, this _does_ apply to authors. (See [Tips and Guidelines for Authors](http://www.librarything.com/about_authors.php).)
+* No matter how great your novel, this _does_ apply to authors. (See [Tips and Guidelines for Authors](https://www.librarything.com/about_authors.php).)
 * Authors caught manipulating the system have had all their books permanently marked with a spam and manipulation warning. You don't want that, believe me.
 * Do not spam member comments or group invitations. Inviting people in your town to a new group is okay; inviting hundreds of members is not.
 
@@ -59,7 +59,7 @@ In event of dispute, account ownership is determined as follows: If a paid accou
 * Do not set up "shell" or "sock puppet" accounts for any purpose whatsover.
 * Common Knowledge, covers and other core, shared bibliographic data must be edited in good faith.
 * LibraryThing is for _your_ books—books you own, have read or want. It would not be appropriate to fill your LibraryThing catalog with all the books in your local library or Project Gutenberg.
-* Except by permission or through an authorized API, you may not add to or query your library automatically. See our [APIs](http://www.librarything.com/services/).
+* Except by permission or through an authorized API, you may not add to or query your library automatically. See our [APIs](https://www.librarything.com/services/).
 
 #### Other rules
 
@@ -83,11 +83,11 @@ The mailing address and email information you provide for this program will only
 
 Recipients of books who submit reviews to LibraryThing hereby grant LibraryThing, the book's publisher, and its author perpetual non-exclusive permission to use of the review, together with their first name and city/town of residence, for purposes of entertainment, advertising, promotion, or publicity without additional compensation, except where prohibited by law. LibraryThing, the publisher, and the author reserve the right to edit reviews for clarity or language or to use only excerpts from them. Neither LibraryThing nor the publisher is under any obligation to publish a review.
 
-For more rules and conditions see [your profile](http://www.librarything.com/ner/settings).
+For more rules and conditions see [your profile](https://www.librarything.com/ner/settings).
 
 ### Pay-for-review schemes
 
-LibraryThing encourages members to participate in our book give-away program ([Early Reviewers](http://www.librarything.com/ner)). We forbid reviews from "pay-for-review" schemes.
+LibraryThing encourages members to participate in our book give-away program ([Early Reviewers](https://www.librarything.com/ner)). We forbid reviews from "pay-for-review" schemes.
 
 * Reviewers must be free to write what they think. They may not be required or rewarded to write positive reviews, or punished for writing bad ones.
 * Reviewers must own and control their reviews, granting other parties only a non-exclusive license.
@@ -96,4 +96,4 @@ LibraryThing encourages members to participate in our book give-away program ([E
 
 ### Member recommendations
 
-In adding a Member recommendation to any given work page, you are expected to make good-faith, disinterested recommendations. You can only make three recommendations per book, and cannot recommend the same book more than five times overall. **Recommending your own book is strictly forbidden.** Members can rate the validity of other member recommendations from the [Rate Recommendations](http://www.librarything.com/profile_raterecommendations.php) page. You are free to recommend books already listed by others or by LibraryThing itself.
+In adding a Member recommendation to any given work page, you are expected to make good-faith, disinterested recommendations. You can only make three recommendations per book, and cannot recommend the same book more than five times overall. **Recommending your own book is strictly forbidden.** Members can rate the validity of other member recommendations from the [Rate Recommendations](https://www.librarything.com/profile_raterecommendations.php) page. You are free to recommend books already listed by others or by LibraryThing itself.
