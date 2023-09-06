@@ -151,3 +151,7 @@ For more information about our privacy practices, if you have questions, or if y
 w3schools  
 \[Re: Privacy Compliance Officer\]  
 Larsamyraa 18, 4313 SANDNES, Norway
+
+  
+
+[★ +1](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com "Your W3Schools Profile")
