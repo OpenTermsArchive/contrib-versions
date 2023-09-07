@@ -2584,7 +2584,7 @@ Article 2: Definitions
 
 1. “Software” means all computer programs and data included in the 3D model generation software “VRoid Studio”.
 2. “Site” means the website entitled “VRoid (https://vroid.pixiv.net)” operated by the Company.
-3. “Client PC” means any computer on which the Software is installed.
+3. "Client PC" means the computer or tablet on which the software is installed.
 4. “User” means individuals and corporations that have agreed to the Terms etc. and installed Software on Client PCs.
 5. “Output Item” means items outputted of data related to avatars, items, and other 3D models created using the Software with agreement to these Individual Terms of Use.
 6. “Provided Content” means content provided by the Company on VRoid Studio, including provided meshes such as model bodies (shapes of 3D models), and provided textures (images used for outer appearance of 3D models).
@@ -2698,6 +2698,10 @@ Supplementary Provisions
 Revision
 --------
 
+* September 7, 2023
+    
+    > "Article 2: Definitions" has been revised to reflect the release of VRoid Studio for iPad.
+    
 * October 31st, 2021
     
     > Terms of Use were updated following the release of the stable version of VRoid Studio.
