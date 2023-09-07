@@ -85,4 +85,4 @@ Find out how to manage cookies on popular browsers:
 
 ### Opt out of being tracked by Google Analytics
 
-You can opt out of Google Analytics cookies across all websites, by visiting [http://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
+You can opt out of Google Analytics cookies across all websites, by visiting [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
