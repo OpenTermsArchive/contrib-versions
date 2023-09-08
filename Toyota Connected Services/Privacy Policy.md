@@ -236,6 +236,10 @@ Toyota may collect Personal Information from you in different ways and for diffe
 
 We may sell your Personal Information to third parties or share your Personal Information with third parties for targeted advertising. However, we do not knowingly sell, share, use for targeted advertising, or disclose the Personal Information of minors under the age of 16. For more information about opting out of the sale or sharing of your Personal Information, please see the [**Privacy Notice**](#_prvri) section below.
 
+**Opt-Out Preference Signals**
+
+If you visit certain Toyota websites while logged in to your account, we also honor opt-out preference signals if technically capable. An opt-out preference signal is a signal that is sent by a platform, technology, or mechanism on your behalf that communicates your choice to opt out of sharing for targeted advertisements or sale of your Personal Information. You can learn more about implementing opt-out preference signals at [https://globalprivacycontrol.org/](https://globalprivacycontrol.org/), or by exploring other developing technologies and services that offer this tool.
+
 **Sensitive Personal Information**
 
 Under United States privacy laws, certain types of Personal Information are considered “sensitive” Personal Information or data and require additional data privacy rights and obligations. We collect precise geolocation data, biometric information for the purpose of uniquely identifying an individual, account login information, and financial information, which may be considered “sensitive” Personal Information under privacy laws. Where required by law, we will obtain your consent before processing your sensitive Personal Information. We will also generally use your sensitive Personal Information for limited purposes, such as to provide the goods or services you requested; to prevent, detect, and investigate security incidents; to resist malicious, deceptive, fraudulent or illegal actions; to ensure physical safety; and to verify or maintain the quality or safety of our products, services or devices.
