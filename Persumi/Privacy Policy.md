@@ -160,7 +160,7 @@ If you are a resident of the European Union (EU) and European Economic Area (EEA
 
 We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
 
-If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please email us at [\[email protected\]](https://persumi.com/cdn-cgi/l/email-protection).
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please email us at [support@persumi.com](mailto:support@persumi.com).
 
 In certain circumstances, you have the following data protection rights:
 
@@ -194,7 +194,7 @@ According to CalOPPA we agree to the following:
     
 3. users will be notified of any privacy policy changes on our Privacy Policy Page;
     
-4. users are able to change their personal information by emailing us at [\[email protected\]](https://persumi.com/cdn-cgi/l/email-protection).
+4. users are able to change their personal information by emailing us at [support@persumi.com](mailto:support@persumi.com).
     
 
 Our Policy on “Do Not Track” Signals:
@@ -235,7 +235,7 @@ If you are a California resident, you are entitled to learn what data we collect
     
     To exercise your California data protection rights described above, please send your request(s) by one of the following means:
     
-    By email: [\[email protected\]](https://persumi.com/cdn-cgi/l/email-protection)
+    By email: [support@persumi.com](mailto:support@persumi.com)
     
     By visiting this page on our website: [https://persumi.com/about](https://persumi.com/about)
     
@@ -284,7 +284,7 @@ We may use third-party Service Providers to show advertisements to you to help s
 
 Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
 
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](http://www.google.com/ads/preferences/)
 
 Behavioral Remarketing
 ----------------------
@@ -295,7 +295,7 @@ Wuit Pty Ltd uses remarketing services to advertise on third party websites to y
 
 Google Ads (AdWords) remarketing service is provided by Google Inc.
 
-You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: [http://www.google.com/settings/ads](https://www.google.com/settings/ads)
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: [http://www.google.com/settings/ads](http://www.google.com/settings/ads)
 
 Google also recommends installing the Google Analytics Opt-out Browser Add-on - [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) - for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
@@ -342,4 +342,4 @@ Contact Us
 
 If you have any questions about this Privacy Policy, please contact us:
 
-By email: [\[email protected\]](https://persumi.com/cdn-cgi/l/email-protection).
+By email: [support@persumi.com](mailto:support@persumi.com).
