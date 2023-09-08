@@ -12,7 +12,7 @@ Our Privacy Policy also governs your use of our Service and explains how we coll
 
 Your agreement with us includes these Terms and our Privacy Policy (“**Agreements**“). You acknowledge that you have read and understood Agreements, and agree to be bound of them.
 
-If you do not agree with (or cannot comply with) Agreements, then you may not use the Service, but please let us know by emailing at [\[email protected\]](https://persumi.com/cdn-cgi/l/email-protection) so we can try to find a solution. These Terms apply to all visitors, users and others who wish to access or use Service.
+If you do not agree with (or cannot comply with) Agreements, then you may not use the Service, but please let us know by emailing at [support@persumi.com](mailto:support@persumi.com) so we can try to find a solution. These Terms apply to all visitors, users and others who wish to access or use Service.
 
 Thank you for being responsible.
 
@@ -164,7 +164,7 @@ Service and its original content (excluding Content provided by users), features
 Error Reporting and Feedback
 ----------------------------
 
-You may provide us directly at [\[email protected\]](https://persumi.com/cdn-cgi/l/email-protection) with information and feedback concerning errors, suggestions for improvements, ideas, problems, complaints, and other matters related to our Service (“**Feedback**“). You acknowledge and agree that: (i) you shall not retain, acquire or assert any intellectual property right or other right, title or interest in or to the Feedback; (ii) Company may have development ideas similar to the Feedback; (iii) Feedback does not contain confidential information or proprietary information from you or any third party; and (iv) Company is not under any obligation of confidentiality with respect to the Feedback. In the event the transfer of the ownership to the Feedback is not possible due to applicable mandatory laws, you grant Company and its affiliates an exclusive, transferable, irrevocable, free-of-charge, sub-licensable, unlimited and perpetual right to use (including copy, modify, create derivative works, publish, distribute and commercialize) Feedback in any manner and for any purpose.
+You may provide us directly at [support@persumi.com](mailto:support@persumi.com) with information and feedback concerning errors, suggestions for improvements, ideas, problems, complaints, and other matters related to our Service (“**Feedback**“). You acknowledge and agree that: (i) you shall not retain, acquire or assert any intellectual property right or other right, title or interest in or to the Feedback; (ii) Company may have development ideas similar to the Feedback; (iii) Feedback does not contain confidential information or proprietary information from you or any third party; and (iv) Company is not under any obligation of confidentiality with respect to the Feedback. In the event the transfer of the ownership to the Feedback is not possible due to applicable mandatory laws, you grant Company and its affiliates an exclusive, transferable, irrevocable, free-of-charge, sub-licensable, unlimited and perpetual right to use (including copy, modify, create derivative works, publish, distribute and commercialize) Feedback in any manner and for any purpose.
 
 Links To Other Web Sites
 ------------------------
@@ -240,4 +240,4 @@ Contact Us
 
 Please send your feedback, comments, requests for technical support:
 
-By email: [\[email protected\]](https://persumi.com/cdn-cgi/l/email-protection).
+By email: [support@persumi.com](mailto:support@persumi.com).
