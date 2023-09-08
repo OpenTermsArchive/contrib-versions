@@ -7,7 +7,7 @@ Policy:Terms of Use
 
  Add languages
 
-[Add links](https://www.wikidata.org/wiki/Special:EntityPage/Q121842997#sitelinks-wikipedia "Add interlanguage links")
+[Add links](https://www.wikidata.org/wiki/Special:NewItem?site=foundationwiki&page=Policy%3ATerms+of+Use "Add interlanguage links")
 
 * [Policy](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use "View the subject page [c]")
 * [Discussion](https://foundation.wikimedia.org/wiki/Policy_talk:Terms_of_Use "Discussion about the content page [t]")
@@ -38,7 +38,6 @@ General
 * [Special pages](https://foundation.wikimedia.org/wiki/Special:SpecialPages "A list of all special pages [q]")
 * [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=267246 "Permanent link to this revision of this page")
 * [Page information](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=info "More information about this page")
-* [Wikidata item](https://www.wikidata.org/wiki/Special:EntityPage/Q121842997 "Link to connected data repository item [g]")
 
 Print/export
 
