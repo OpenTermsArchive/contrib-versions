@@ -11,7 +11,7 @@ To change your EU status, go to your Member [Privacy Center](https://www.library
 
 #### Data Protection Officer
 
-Per the GDPR, LibraryThing's Data Protection Officer (DPO) is Tim Spalding. Our DPO can be reached at [\[email protected\]](https://www.librarything.com/cdn-cgi/l/email-protection).
+Per the GDPR, LibraryThing's Data Protection Officer (DPO) is Tim Spalding. Our DPO can be reached at tim@librarything.com.
 
 #### The GDPR's Defined Roles and the Handling of Data in LibraryThing and TinyCat
 
@@ -59,7 +59,7 @@ The above information should be submitted to the following designated agent:
 > Attn: DMCA Notice  
 > 286 Spring Street #2, Portland, ME 04102  
 > Phone: 207-899-4108  
-> Email: [\[email protected\]](https://www.librarything.com/cdn-cgi/l/email-protection)
+> Email: [info![AT SIGN](https://image.librarything.com/pics/squiggle.gif)librarything.com](mailto:info@librarything.com)
 
 UNDER FEDERAL LAW, IF YOU KNOWINGLY MISREPRESENT THAT ONLINE MATERIAL IS INFRINGING, YOU MAY BE SUBJECT TO CRIMINAL PROSECUTION FOR PERJURY AND CIVIL PENALTIES, INCLUDING MONETARY DAMAGES, COURT COSTS, AND ATTORNEYS' FEES.
 
@@ -145,7 +145,7 @@ LibraryThing collects Personally Identifiable Information (PII) for these purpos
 ### Emergency Situations
 
 * LibraryThing takes member health and safety seriously.
-* Members are encouraged to report emergency cases, such as when a member has threatened to harm themselves or others, to [\[email protected\]](https://www.librarything.com/cdn-cgi/l/email-protection) and [\[email protected\]](https://www.librarything.com/cdn-cgi/l/email-protection). Please put EMERGENCY in the subject line.
+* Members are encouraged to report emergency cases, such as when a member has threatened to harm themselves or others, to info@librarything.com and tim@librarything.com. Please put EMERGENCY in the subject line.
 * LibraryThing cannot guarantee member privacy in emergencies.
 
 ### Member rights
@@ -162,7 +162,7 @@ The EU General Data Protection Regulation (GDPR) includes certain rights for cer
 
 LibraryThing has created a Member [Privacy Center](https://www.librarything.com/settings/privacy) (see above) which allows you to set preferences and exercise these rights. See Member [Privacy Center](https://www.librarything.com/settings/privacy) section above for a full listing of what options are available.
 
-If you have any questions about your rights under the GDPR, and how they relate to your LibraryThing data, please contact [\[email protected\]](https://www.librarything.com/cdn-cgi/l/email-protection), making clear your question and your status under the GDPR.
+If you have any questions about your rights under the GDPR, and how they relate to your LibraryThing data, please contact info@librarything.com, making clear your question and your status under the GDPR.
 
 ### Cookies
 
