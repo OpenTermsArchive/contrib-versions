@@ -204,4 +204,4 @@ In the event of a dispute, if an amicable agreement cannot be reached, the compe
 
 The Services provided by Match to the Members and Subscribers pursuant to these Terms and Conditions, are offered by Match.com International Limited, a private limited company incorporated in England and Wales with registered company number 04791534 (VAT number 815337437) whose postal and registered office is at C/O Skadden 40 Bank Street, Canary Wharf, London, E14 5DS. The Websites are hosted on the Meetic Group servers.
 
-For any questions, you can contact Match by mail: [matchevents@eu.match.com](mailto:matchevents@eu.match.com), or by completing the [contact form](http://uk.match.com/faq/).
+For any questions, you can contact Match by mail: [customercare@help.match.co.uk](mailto:customercare@help.match.co.uk), or by completing the [contact form](http://uk.match.com/faq/).
