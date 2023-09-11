@@ -1,0 +1,82 @@
+Back to [Amazon Publisher Services Agreement](https://ams.amazon.com/webpublisher/apsmanaged/apsagreement.html)
+
+Editorial Adjacency Policy
+--------------------------
+
+You will not place our Ads adjacent to any content that: (a) promotes or contains content or activity that is defamatory, false (e.g. fake news), deceptive, obscene, hateful (e.g. hate speech), sexually explicit, violent (including the use of firearms), discriminatory, illegal, harmful, invasive of another’s privacy, threatening, abusive, harassing or offensive, (b) contains, links to, uses or otherwise causes the downloading of any malicious code, (c) artificially increases impression, click or engagement behavior for the purpose of increasing advertising revenue.
+
+Video Policy
+------------
+
+You will comply with the Digital Video Ad Serving Template specifications version 2.0 (VAST 2.0) or higher as set forth at [http://www.iab.net/](http://www.iab.net/).
+
+Trademark Usage Guidelines
+--------------------------
+
+These Trademark Usage Guidelines (the “**Guidelines**”) apply to your use of the Trademarks set forth in the IO only in materials that have been approved in advance by us.  Strict compliance with these Guidelines is required at all times, and any use of a Trademark in violation of these Guidelines will automatically terminate any license related to your use of the Trademark.
+
+1. You may use the Trademark solely for the purpose expressly authorized by us and your use must: (i) comply with the most up-to-date version of all agreement(s) with us regarding your use of the Trademark (collectively “**Agreements**”); (ii) comply with the most up-to-date version of these Guidelines; and (iii) comply with any other terms, conditions, or policies that we may issue from time to time that apply to the use of the Trademark.
+    
+2. We will supply an approved Trademark image for your use.  You may not alter the Trademark in any manner, including, but not limited to, changing the proportion, color, or font of the Trademark, or adding or removing any element(s) from the Trademark.
+    
+3. You will not use the Trademark in any manner that implies sponsorship or endorsement by us other than by using the Trademark as specifically authorized under the Agreements.
+    
+4. You will not use the Trademark to disparage us, our products or services, or in a manner which, in our sole discretion, may diminish or otherwise damage or tarnish our goodwill in the Trademark.
+    
+5. The Trademark must appear by itself, with reasonable spacing between each side of the Trademark and other visual, graphic or textual elements.  Under no circumstance should the Trademark be placed on any background which interferes with the readability or display of the Trademark.
+    
+6. You must include the following statement in any materials that display the Trademark: “\[Trademarks\] are trademarks of Amazon.com, Inc. or its Affiliates."
+    
+7. You acknowledge that all rights to the Trademark are the exclusive property of ours, and all goodwill generated through your use of the Trademark will inure to our benefit.  You will not take any action that is in conflict with our rights in, or ownership of, the Trademark.
+    
+
+We reserve the right, exercisable at our sole discretion, to modify these Guidelines and/or the approved Trademarks at any time and to take appropriate action against any use without permission or any use that does not conform to these Guidelines.
+
+Vendor Data Terms
+-----------------
+
+1\. **Creative Quality.** To the extent you engage any Marketplace Vendor to provide you with creative quality services (e.g., malware scanning services), you acknowledge that Amazon does not receive, store, transfer, or otherwise process any EU Data or BR Data collected directly by Marketplace Vendors in order for them to perform creative quality services. Such Marketplace Vendors may act as a controller or processor acting on your instruction, in accordance with the terms of the relevant Marketplace Vendor Direct Agreement governing the creative quality services. You can instruct Amazon at any time to disable or remove the technology used by Marketplace Vendors to deliver the creative quality services.
+
+2\. **Advertising Identity.** To the extent that you engage a Marketplace Vendor to provide you with third party-generated, pseudonymized identifiers that comprise EU Data or BR Data (such identifiers, “**3P IDs**”), Data Processor (as defined below) agrees to act as your processor in respect of the transfer of such 3P IDs to the third parties (including Buyers) of your choice. You instruct us to process such 3P IDs in accordance with the terms and conditions of the DPA (as defined below). References to Customer Personal Data in the DPA will mean the 3P IDs that you instruct us to send to third parties. You expressly agree that such third parties will not act as Amazon’s processor or sub-processor, but rather instruct Amazon to enter into data transfer arrangements on your behalf, as are necessary for that third party to process Customer Personal Data received from Amazon. The DPA terms apply only to Customer Personal Data processed in relation to Connections Marketplace Program. For the purposes of the DPA, Customer Personal Data excludes 3P IDs that Amazon Ads uses to bid on Sites. 
+
+1. For purposes of EU Data, “Data Processor” means AEC and “DPA” means the Data Processing Addendum available [here](https://m.media-amazon.com/images/G/02/ADX/erm/OnlineAdSales/V2/Amazon_Advertising_Data_Processing_Addendum.pdf).
+2. For purposes of BR Data, “Data Processor” means ASVB and “DPA” means the Data Processing Addendum available [here](https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/Amazon_BR__Advertising_Data_Processing_Addendum_LGPD._TTH_.pdf).
+
+3\. **Creative Formats.** To the extent you engage any Marketplace Vendor to provide creative formats services (e.g., in-video ads or native ads), you acknowledge that Amazon does not receive, store, transfer, or otherwise process any EU Data or BR Data collected directly by Marketplace Vendors in order for them to perform creative formats services. Such Marketplace Vendors may act as a controller or processor acting on your instruction, in accordance with the terms of the relevant Marketplace Vendor Direct Agreement governing the creative formats services. You can instruct Amazon at any time to disable or remove the technology used by Marketplace Vendors to deliver the creative formats services.
+
+4. **Contextual.** To the extent you engage any Marketplace Vendor to provide you with contextual segment services (e.g., providing “entertainment/movies” as a segment based on your Site’s attributes or subject matter), you acknowledge that Amazon does not receive, store, transfer or otherwise process any EU Data or BR Data in order for the Marketplace Vendors to provide contextual segment services.  Such Marketplace Vendors may act as a controller or processor acting on your instruction, in accordance with the terms of the relevant Marketplace Vendor Direct Agreement governing the provision of contextual segment services.  You can instruct Amazon at any time to disable or remove the technology used by the Marketplace Vendors to deliver the contextual segment services.
+
+5. **Verification.** To the extent you engage any Marketplace Vendor to provide you with verification services (e.g., identify invalid traffic or detect spoofed devices), Data Processor (as defined in Section 2 of the Vendor Data Terms) agrees to act as your processor in respect of the transfer of any pseudonymized identifiers (e.g., IP address, user agent) that comprise EU Data or BR Data (such identifiers “**Verification** **IDs**”) to the Marketplace Vendor. You instruct us to process such Verification IDs in accordance with the terms and conditions of the DPA (as defined in Section 2 of the Vendor Data Terms). References to Customer Personal Data in the DPA will mean the Verification IDs that you instruct us to send to the Marketplace Vendor. You expressly agree that such Marketplace Vendor will not act as Amazon’s processor or sub-processor, but rather you instruct Amazon to enter into such data transfer arrangements on your behalf as are necessary for such Marketplace Vendor to receive process Customer Personal Data from Amazon. The DPA terms apply only to Customer Personal Data processed in relation to Connections Marketplace Program. For the purposes of the DPA, Customer Personal Data excludes Verification IDs that Amazon Ads uses to bid on Sites.
+
+5. **Bidder Signals.** To the extent you engage any Marketplace Vendor to provide you with bidder signal services (e.g., the insertion of bidder-specific signals into your bid requests), Data Processor (as defined in Section 2 of the Vendor Data Terms) agrees to act as your processor in respect of the transfer of any pseudonymized identifiers (e.g., a token or identity envelope specific to a particular demand partner) that comprise EU Data or BR Data (such identifiers, “**Bidder IDs**”) to the Marketplace Vendor. You instruct us to process such Bidder IDs in accordance with the terms and conditions of the DPA (as defined in Section 2 of the Vendor Data Terms). References to Customer Personal Data in the DPA will mean the Bidder IDs that you instruct us to send to the Marketplace Vendor. You expressly agree that such Marketplace Vendor will not act as Amazon’s processor or sub-processor, but rather instruct Amazon to enter into data transfer arrangements on your behalf, as are necessary for such Marketplace Vendor to receive and process Customer Personal Data from Amazon. The DPA terms apply only to Customer Personal Data processed in relation to Connections Marketplace Program. For the purposes of the DPA, Customer Personal Data excludes Bidder IDs that Amazon Ads uses to bid on Sites.
+
+Server-to-Server and Client-to-Server Terms
+-------------------------------------------
+
+1. **Server-to-Server Integrations.** If you use a server-to-server integration as part of your participation in any of the Programs, you will comply with the following terms:
+    1. **Device Data.** You will not modify any device data (e.g., Precise Location Data or advertising identifier) that you receive from the device before such data is sent to us. 
+    2. **Storage.** You will not store Collected Data (excluding aggregated Collected Data as described in Section 1(e) of the Terms Applicable to Programmatic or Non-Programmatic Ads) for more than six months from the date on which you obtained such Collected Data, unless as required by applicable Law. You must store all Collected Data in a manner that allows you to distinguish Collected Data from any other data stored by you. 
+    3. **Data Security.** You will maintain a level of security for Collected Data that is consistent with industry standards. You must provide us with 24 hours written notice of any incident that involves or you reasonably believe involves the unauthorized access, use or disclosure of Collected Data. Following any security incident, the Parties will consult in good faith regarding remediation efforts (“Remediation Efforts”). At our option, you will undertake all reasonable Remediation Efforts at your sole expense, or reimburse us for our costs and expenses incurred by such reasonable Remediation Efforts. 
+    4. ****Compliance.**** You will accurately respond within 30 calendar days to any commercially reasonable requests for information we may submit to you from time to time regarding your compliance with the data provisions in the Agreement.
+2. **Client-to-Server Integrations.** If you use a client-to-server integration as part of your participation in any of the Programs, you will comply with the following term:
+    1. **Device Data.** You will not modify any device data (e.g., Precise Location Data or advertising identifier) that you receive from the device before such data is sent to us.
+
+APS Beta Program Specific Terms
+-------------------------------
+
+We may make certain beta services available to you from time to time (each, a “**Beta Service**”).
+
+1. Product-specific terms (“**Product Terms**”) may also apply to your use of the Beta Service. You agree to comply with any Product Terms that we make available to you, as may be updated from time to time.  In the event of a conflict between these Beta Program Specific Terms and the Product Terms, the Product Terms will control. 
+2. The Beta Service is made available to you at no charge. We reserve the right to start charging fees after the end of the beta period.
+3. You may elect to provide or make available suggestions, comments, ideas, improvements, or other feedback or materials (“**Suggestions**”) to Amazon in connection with the Beta Service.  At our request, you will provide us with information on viewer experience (together with Suggestions, “**Feedback**”).  Amazon will be free to use, disclose, reproduce, modify, sublicense, transfer, distribute and exploit Feedback in any manner without compensation to you.  
+4. THE BETA SERVICE IS PROVIDED “AS IS,” WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR NON-INFRINGEMENT.   WE DO NOT WARRANT THAT THE BETA SERVICE WILL CONTINUE TO BE PROVIDED, WILL FUNCTION AS DESCRIBED, CONSISTENTLY OR IN ANY PARTICULAR MANNER, OR WILL BE UNINTERRUPTED, ERROR FREE, OR FREE OF HARMFUL COMPONENTS.
+5. EXCEPT FOR ANY INDEMNIFICATION OBLIGATIONS HEREIN, IN NO EVENT WILL ANY PARTY BE LIABLE FOR ANY CONSEQUENTIAL, INDIRECT, INCIDENTAL, PUNITIVE, SPECIAL, OR EXEMPLARY DAMAGES WHATSOEVER, INCLUDING DAMAGES FOR LOSS OF PROFITS, BUSINESS INTERRUPTION, LOSS OF INFORMATION, AND THE LIKE, INCURRED BY THE OTHER PARTY ARISING OUT OF THESE BETA TERMS, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. AMAZON WILL HAVE NO LIABILITY UNDER THESE BETA TERMS (INCLUDING ANY INDEMNIFICATION OBLIGATIONS) ARISING OUT OF OR RELATED TO YOUR USE OF THE BETA SERVICE.  
+6. You will indemnify, defend, and hold harmless us and our Affiliates against any liability, damage, loss or expense (including reasonable attorneys’ fees) in connection with any third-party claim, suit, action, demand or judgment arising from your use of the Beta Service. 
+7. The Beta Service is made available to you on a pre-release, “beta” basis. We may from time to time, in our sole discretion and without prior notice to you, change, improve, or correct the Beta Service or any functionality available through the Beta Service, or terminate or suspend your use of the Beta Service for cause.  We may, at any time, terminate or suspend your use of the Beta Service without cause. Without affecting the foregoing, we will use commercially reasonable efforts to provide 7 days’ notice prior to terminating or suspending your use of the Beta Service without cause. The Beta Service and these Beta Program Specific Terms will terminate automatically at the end of the beta period, including if this Agreement includes program-specific terms for the Beta Service (or successor program) that are separate from these Beta Program Specific Terms. 
+8. We may change and update these Beta Program Specific Terms at any time in our sole discretion by emailing you revised terms or posting the revised terms online. Your continued participation in the Beta Service will constitute your acceptance of the changes and updates.
+9. These Beta Program Specific Terms, the Product Terms, and the APS Agreement are our entire agreement regarding the Beta Service. The Beta Service, your participation in the Beta Service, and these Beta Terms are Amazon’s Confidential Information.
+
+Auction Mechanisms
+------------------
+
+The advertising fees that you earn reflect a transaction fee that we deduct from Amazon Demand and UAM bid prices on a pre-auction, per auction basis.
