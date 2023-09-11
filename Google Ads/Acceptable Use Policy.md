@@ -259,3 +259,11 @@ We will provide you with information on our decision for any policy violation en
 > ----------------------
 > 
 > Rate how helpful this page is and share your feedback with us below:
+
+Was this helpful?
+
+How can we improve it?
+
+YesNo
+
+Submit
