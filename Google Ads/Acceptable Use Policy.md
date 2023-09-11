@@ -1,264 +1,456 @@
-Google Ads policies
-===================
+Policies
+--------
 
-Google provides translated versions of our Help Center, though they are not meant to change the content of our policies. The English version is the official language we use to enforce our policies. To view this article in a different language, use the language dropdown at the bottom of the page.
+Google Publisher Policies
+=========================
 
-Display & Video 360 users must comply with this Google Ads policy. Visit the [Display & Video 360 help center](https://support.google.com/displayvideo/answer/6027406) for additional restrictions.
+[](https://support.google.com/adsense/answer/1282103?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/10437795?hl=en&ref_topic=1250104)
 
-As part of our recent suspension of ads in Russia, we will also pause ads on Google properties and networks globally for advertisers based in Russia.
+**(March 23, 2022)** Due to the war in Ukraine, we will pause monetization of content that exploits, dismisses, or condones the war.
 
-Due to the ongoing war in Ukraine, we will be temporarily pausing Google ads from serving to users located in Russia.
+**(March 10, 2022)** Given the recent suspension of Google advertising systems in Russia, we’ll be pausing the creation of new Russian accounts on AdSense, AdMob, and Google Ad Manager. Additionally, we will pause ads on Google properties and networks globally for advertisers based in Russia.
 
-Welcome to the Google Advertising Policies Center
--------------------------------------------------
+**(March 3, 2022)** Due to the ongoing war in Ukraine, we will be temporarily pausing ads from serving to users located in Russia.
 
-|     |     |     |
-| --- | --- | --- |
-| [![This is the first button for the Google Ads policy options, select this to manage your account using the Policy manager.](//storage.googleapis.com/support-kms-prod/k1MH7t2ydWQaQ0AqYe2v3Og4i4xjvbIBaBtE)](https://ads.google.com/aw/policymanager/issues) | [![This is the second button for the Google Ads policy options, select to learn how to appeal a suspended account.](//storage.googleapis.com/support-kms-prod/K2X2pe8IVRbfC2d6COKed6eeMpwfRPecCnJ0)](https://ads.google.com/nav/login?dst=/aw/overview?supportResource%3Dsuspension_help) | [![This is the third button for the Google Ads policy options, select to report an ad violation.](//storage.googleapis.com/support-kms-prod/beGVAEgSbnM1YzJAsX0lZ0Z8okdo2CTZGukk)](https://support.google.com/ads/troubleshooter/4578507) |
+**(February 26, 2022)** In light of the war in Ukraine, we are pausing Google’s monetization of Russian Federation state-funded media. 
 
-Overview of our policies and how we enforce them
-------------------------------------------------
+**We will continue to actively monitor the situation and make adjustments as necessary.**
 
-We strive to support a healthy digital advertising ecosystem—one that's trustworthy and transparent, and works for users, advertisers, and publishers. The purpose of this help center is to help you build Google Ads campaigns that align with our advertising policies listed below.
+We are in the process of migrating and consolidating all of the Google Publisher Policies and Google Publisher Restrictions to the new [Publisher Policies Help Center](https://support.google.com/publisherpolicies). For now, you can still view all the policies in the [AdMob](https://support.google.com/admob/), [AdSense](https://support.google.com/adsense/), and [Ad Manager](https://support.google.com/admanager/) Help Centers, as well as the new Help Center. 
 
-These policies are designed to ensure a safe and positive experience for our users and abide by applicable laws. This means that our policies prohibit content that is harmful to users and the overall advertising ecosystem.
+When you monetize your content with Google ad code you are required to adhere to the following policies. Failure to comply with these policies may result in Google blocking ads from appearing against your content, or suspending or terminating your account.
 
-Our advertising policies cover 4 broad areas:
+These policies apply in addition to any other policies governing your use of Google publisher products.
 
-> |     |     |
-> | --- | --- |
-> | ![Google Ads policies \| prohibited content](//storage.googleapis.com/support-kms-prod/RrjdySjRxcYJL3NpcXaobwTxuk7zctDbL8rX) | **[Prohibited content](#con):** Content you can't advertise on the Google Network |
-> | ![Google Ads policies \| prohibited practice](//storage.googleapis.com/support-kms-prod/aYpRwkWqocXCGj8TVXwShJAbVpbcYO9qABIs) | **[Prohibited practices](#pra):** Things you can't do if you want to advertise with us |
-> | ![Google Ads policies \| restricted content](//storage.googleapis.com/support-kms-prod/tNErobNFH6ZkSwZtpMfEXrQkhCi1uMdPn3ur) | **[Restricted content and features](#res):** Content you can advertise, but with limitations |
-> | ![Google Ads policies \| Editorial and technical](//storage.googleapis.com/support-kms-prod/hza1ZDCgK38me1XBTkYHl7o1eUaDUDjNGfVT) | **[Editorial and technical](#ed):** Quality standards for your ads, websites, and apps |
-> 
-> Click through the policies below for policy definitions, examples, and troubleshooting steps.
+Google helps to enable a free and open internet by helping publishers monetize their content and advertisers reach prospective customers with useful, relevant products and services. Maintaining trust in the ads ecosystem requires setting limits on what we will monetize.
 
-We use a combination of Google AI and human evaluation to ensure that ads comply with these policies. Our enforcement technologies use Google AI, modeled on human reviewers’ decisions, to help protect our users and keep our ad platforms safe. More complex, nuanced or severe cases are often reviewed and evaluated by our specially-trained experts.
+Google Publisher Policies are organized into the following categories:
 
-We take action on content that violates our policies. This may include disapproving violating ads so they don’t serve, as well as suspending accounts for repeat or egregious violations. We take repeat violations of our policies seriously and continue to expand a strike system for repeat offenders.
+* [Content policies](#content) 
+* [Behavioral policies](#behavioral) 
+* [Privacy-related policies](#privacy)
+* [Requirements and other standards](#standards) 
 
-We will provide you with information on our decision for any policy violation enforcement actions we take. If one of your ads is disapproved, you can [fix that ad or appeal the decision](https://ads.google.com/aw/policymanager/issues) (or here for [DV360 ads](https://support.google.com/displayvideo/answer/12726387)). You can also [appeal an account suspension decision](https://ads.google.com/nav/login?dst=/aw/overview?supportResource%3Dsuspension_help) (or here for [DV360 appeals](https://support.google.com/displayvideo/contact/tns_dv360_account_suspension)). For these links to work, you’ll need to be signed into your Google Ads account.
+Learn more about the commonly used policy terms and what they mean in the [glossary](https://support.google.com/publisherpolicies/table/10563033). 
 
-> ### [Counterfeit goods](https://support.google.com/adspolicy/answer/176017)
-> 
-> > Google Ads prohibits the sale or promotion for sale of counterfeit goods. Counterfeit goods contain a trademark or logo that is identical to or substantially indistinguishable from the trademark of another. They mimic the brand features of the product in an attempt to pass themselves off as a genuine product of the brand owner. This policy applies to the content of your ad and your website or app. 
-> 
->   
-> 
-> ### [Dangerous products or services](https://support.google.com/adspolicy/answer/6014299)
-> 
-> > We want to help keep people safe both online and offline, so we don't allow the promotion of some products or services that cause damage, harm, or injury.
-> > 
-> > _Examples of dangerous content:_ Recreational drugs (chemical or herbal); psychoactive substances; equipment to facilitate drug use; weapons, ammunition, explosive materials and fireworks; instructions for making explosives or other harmful products; tobacco products
-> 
-> ### [Enabling dishonest behavior](https://support.google.com/adspolicy/answer/6016086)
-> 
-> > We value honesty and fairness, so we don't allow the promotion of products or services that are designed to enable dishonest behavior.
-> > 
-> > _Examples of products or services that enable dishonest behavior:_ Hacking software or instructions; services designed to artificially inflate ad or website traffic; fake documents; academic cheating services
-> 
-> ### [Inappropriate content](https://support.google.com/adspolicy/answer/6015406)
-> 
-> > We value diversity and respect for others, and we strive to avoid offending users, so we don’t allow ads or destinations that display shocking content or promote hatred, intolerance, discrimination, or violence.
-> > 
-> > _Examples of inappropriate or offensive content:_ bullying or intimidation of an individual or group, racial discrimination, hate group paraphernalia, graphic crime scene or accident images, cruelty to animals, murder, self-harm, extortion or blackmail, sale or trade of endangered species, ads using profane language
-> 
->   
-> 
-> Prohibited practices
-> --------------------
-> 
-> ### [Abusing the ad network](https://support.google.com/adspolicy/answer/6020954)
-> 
-> > We want ads across the Google Network to be useful, varied, relevant, and safe for users. We don’t allow advertisers to run ads, content, or destinations that attempt to trick or circumvent our ad review processes.
-> > 
-> > _Examples of abuse of the ad network:_ promoting content that contains malware; "cloaking" or using other techniques to hide the true destination that users are directed to; "arbitrage" or promoting destinations for the sole or primary purpose of showing ads; promoting "bridge" or "gateway" destinations that are solely designed to send users elsewhere; advertising with the sole or primary intent of gaining public social network endorsements from the user; "gaming" or manipulating settings in an attempt to circumvent our policy review systems
-> 
-> ### [Data collection and use](https://support.google.com/adspolicy/answer/6020956)
-> 
-> > We want users to trust that information about them will be respected and handled with appropriate care. As such, our advertising partners should not misuse this information, nor collect it for unclear purposes or without appropriate disclosures or security measures.
-> > 
-> > Note that additional policies apply when using [personalized advertising, which includes remarketing and custom audiences.](https://support.google.com/adspolicy/answer/143465) If you use personalized advertising targeting features, be sure to review the personalized ads [data collection and use policies](https://support.google.com/adspolicy/answer/143465).
-> > 
-> > _Examples of user information that should be handled with care:_ full name; email address; mailing address; phone number; national identity, pension, social security, tax ID, health care, or driver's license number; birth date or mother's maiden name in addition to any of the above information; financial status; political affiliation; sexual orientation; race or ethnicity; religion
-> > 
-> > _Examples of irresponsible data collection & use:_ obtaining credit card information over a non-secure server, promotions that claim to know a user's sexual orientation or financial status, violations of our policies that apply to [interest-based advertising and remarketing](https://support.google.com/adspolicy/answer/143465)
-> 
-> ### [Misrepresentation](https://support.google.com/adspolicy/answer/6020955)
-> 
-> > We want users to trust the ads on our platform, so we strive to ensure ads are clear and honest, and provide the information that users need to make informed decisions. We don’t allow ads or destinations that deceive users by excluding relevant product information or providing misleading information about products, services, or businesses.
-> > 
-> > _Examples of misrepresentation:_ omitting or obscuring billing details such as how, what, and when users will be charged; omitting or obscuring charges associated with financial services such as interest rates, fees, and penalties; failing to display tax or licence numbers, contact information, or physical address where relevant; making offers that aren't actually available; making misleading or unrealistic claims regarding weight loss or financial gain; collecting donations under false pretenses; "phishing" or falsely purporting to be a reputable company in order to get users to part with valuable personal or financial information
-> 
->   
-> 
-> Restricted content and features
-> -------------------------------
-> 
-> The policies below cover content that is sometimes legally or culturally sensitive. Online advertising can be a powerful way to reach customers, but in sensitive areas, we also work hard to avoid showing these ads when and where they might be inappropriate.
-> 
-> For that reason, we allow the promotion of the content below, but on a limited basis. These promotions may not show to every user in every location, and advertisers may need to meet additional requirements before their ads are eligible to run. Note that not all ad products, features, or networks are able to support this restricted content. Further details can be found in the Policy Center.
-> 
-> ### [Default Ads Treatment](https://support.google.com/adspolicy/answer/10959786)
-> 
-> > ![An illustration representing Google's Default Ads Treatment limiting certain ad categories for users under 18 years old.](//storage.googleapis.com/support-kms-prod/bwwYPHeLAgRTvXAn3GC4RpZEwdWqPL9WRZZX)
-> > 
-> > Google is committed to delivering a safe and trustworthy ad experience for all users. That’s why we limit serving certain types of ad categories for users that aren't signed in or users that our systems indicate are under 18.
-> 
-> ### [Sexual content](https://support.google.com/adspolicy/answer/6023699)
-> 
-> > ![An illustration representing Google's policy of limiting certain ads that involve sexual content.](//storage.googleapis.com/support-kms-prod/wUNTEJ0JJrwXTcZRy4U1PDaPuEkdDhP6wabY)
-> > 
-> > Ads should respect user preferences and comply with legal regulations, so we don't allow certain kinds of sexual content in ads and destinations. Some kinds of sexual content in ads and destinations are allowed only if they comply with the policies below and don't target minors, but they will only show in limited scenarios based on user search queries, user age, and local laws where the ad is being served.
-> > 
-> > Learn about [what happens if you violate our policies](https://support.google.com/adspolicy/answer/7187501).
-> > 
-> > To troubleshoot the sexual content policy disapproval, refer to [Disapproval for sexual content: Troubleshoot](https://support.google.com/ads-help/answer/9124216).
-> > 
-> > _Examples of restricted sexual content:_ Visible genitalia and female breasts, hook-up dating, sex toys, strip clubs, sexually suggestive live chat, and models in sexualized poses.
-> 
-> ### [Alcohol](https://support.google.com/adspolicy/answer/6012382)
-> 
-> > ![An illustration representing Google's policy of limiting certain ads that involve alcohol and drinks that resemble alcohol.](//storage.googleapis.com/support-kms-prod/rV7qiFM6JGSN6S9aUAXiKU0XmrZE7wvxx4Fo)
-> > 
-> > We abide by local alcohol laws and industry standards, so we don’t allow certain kinds of alcohol-related advertising, both for alcohol and drinks that resemble alcohol. Some types of alcohol-related ads are allowed if they meet the policies below, don’t target minors, and target only countries that are explicitly allowed to show alcohol ads.
-> > 
-> > _Examples of restricted alcoholic beverages:_ beer, wine, sake, spirits or hard alcohol, Champagne, fortified wine, non-alcoholic beer, non-alcoholic wine, and non-alcoholic distilled spirits
-> 
-> ### [Copyrights](https://support.google.com/adspolicy/answer/6018015)
-> 
-> > ![An illustration representing Google's policy of protecting the rights of copyright holders.](//storage.googleapis.com/support-kms-prod/hLcXkRSKs6d8pdOYPVKwQKzqp5EHllM9mz40)
-> > 
-> > We abide by local copyright laws and protect the rights of copyright holders, so we don’t allow ads that are unauthorized to use copyrighted content. If you are legally authorized to use copyrighted content, [apply for certification](https://support.google.com/google-ads/contact/copyright) to advertise. If you see unauthorized content, [submit a copyright-related complaint](https://support.google.com/legal/troubleshooter/1114905).
-> 
-> ### [Gambling and games](https://support.google.com/adspolicy/answer/6018017)
-> 
-> > ![An illustration representing Google's policy of limiting certain ads that involve gambling-related advertising.](//storage.googleapis.com/support-kms-prod/cMFkvwBwIhYs0qqEHAh6pNRJg5VoGgIyvdTp)
-> > 
-> > We support responsible gambling advertising and abide by local gambling laws and industry standards, so we don’t allow certain kinds of gambling-related advertising. Gambling-related ads are allowed if they comply with the policies below and the advertiser has received the proper Google Ads certification. Gambling ads must target approved countries, have a landing page that displays information about responsible gambling, and never target minors. Check local regulations for the areas you want to target.
-> > 
-> > _Examples of restricted gambling-related content:_ physical casinos; sites where users can bet on poker, bingo, roulette, or sports events; national or private lotteries; sports odds aggregator sites; sites offering bonus codes or promotional offers for gambling sites; online educational materials for casino-based games; sites offering "poker-for-fun" games; non-casino-based cash game sites
-> 
-> ### [Healthcare and medicines](https://support.google.com/adspolicy/answer/176031)
-> 
-> > ![An illustration representing Google's policy of limiting certain ads that involve healthcare-related content.](//storage.googleapis.com/support-kms-prod/vr4Y0ip39lsn3rjwSldAAWfHsTVUzvDthJwE)
-> > 
-> > We are dedicated to following advertising regulations for healthcare and medicine, so we expect that ads and destinations follow appropriate laws and industry standards. Some healthcare-related content can’t be advertised at all, while others can only be advertised if the advertiser is certified with Google and targets only approved countries. Check local regulations for the areas you want to target.
-> 
-> ### [Political content](https://support.google.com/adspolicy/answer/6014595)
-> 
-> > ![An illustration representing Google's policy of limiting certain ads that contain political content.](//storage.googleapis.com/support-kms-prod/y6iDGOCaxR2J6O71JmH8mG32HavtiEOrwQl1)
-> > 
-> > We support responsible political advertising and expect all political ads and destinations to comply with local campaign and election laws for any areas they target. This policy includes legally mandated election “silence periods.”  
-> > 
-> > _Examples of political content:_ promotion of political parties or candidates, political issue advocacy
-> 
-> ### [Financial services](https://support.google.com/adspolicy/answer/2464998)
-> 
-> > ![An illustration representing Google's policy of limiting certain ads that discuss financial services.](//storage.googleapis.com/support-kms-prod/okv8r3f0myDHbgAKCeMUmah8kxXIi9Ea5wOg)
-> > 
-> > We want users to have adequate information to make informed financial decisions. Our policies are designed to give users information to weigh the costs associated with financial products and services, and to protect users from harmful or deceitful practices. For the purposes of this policy, we consider financial products and services to be those related to the management or investment of money and cryptocurrencies, including personalized advice.
-> > 
-> > When promoting financial products and services, you must comply with state and local regulations for any location that your ads target — for example, include specific disclosures required by local law. Refer to our non-exhaustive list of [location-specific requirements](https://support.google.com/adspolicy/answer/6023676) for more information but note that advertisers are expected to do their own research on the local regulations for any location their ads target.
-> 
-> ### [Trademarks](https://support.google.com/adspolicy/answer/6118)
-> 
-> > ![An illustration representing Google's policy of limiting certain ads that include trademarks.](//storage.googleapis.com/support-kms-prod/8JbxEmpHESDk4XMVL5Y92VjxCxlOY8FhfvU9)
-> 
-> > There are multiple factors that determine when trademarks can be used in ads. Along with the factors described in our Policy Center, these policies apply only when a trademark owner has submitted a valid complaint to Google.
-> 
-> ### [Legal requirements](https://support.google.com/adspolicy/answer/6023676)
-> 
-> > ![An illustration representing Google's policy on compliance with all applicable laws and regulations. ](//storage.googleapis.com/support-kms-prod/uPrjgfkAKYXXdZ7m9FRSE1sHH7dEr2x0AD5X)
-> > 
-> > You’re always responsible for ensuring that you comply with all applicable laws and regulations, in addition to Google's advertising policies, for all of the locations where your ads are showing.
-> 
-> ### [Other restricted businesses](https://support.google.com/adspolicy/answer/6368711)
-> 
-> > ![An illustration representing Google's policy on restricting certain kinds of businesses from advertising on Google Ads.](//storage.googleapis.com/support-kms-prod/WsKLidB9IEfpSseFX2oT8SzGoL083NcfXwwg)
-> 
-> > We restrict certain kinds of businesses from advertising with us to prevent users from being exploited, even if individual businesses appear to comply with our other policies. Based on our own continuous reviews, and feedback from users, regulators, and consumer protection authorities, we occasionally identify products or services that are prone to abuse. If we feel that certain kinds of businesses pose an unreasonable risk to user safety or user experience, then we may limit or stop related ads from running.
-> 
-> ### [Restricted ad formats and features](https://support.google.com/adspolicy/answer/9481382)
-> 
-> > ![An illustration representing Google's requirements and certification process for advanced ad formats.](//storage.googleapis.com/support-kms-prod/Aw61HddwNifI9MSppC0ynriMaJzscvE4CL7Q)
-> > 
-> > There are multiple factors that determine access to advanced ad formats and features on Google Ads. Certain ad formats are not available for all advertisers until they meet our specific requirements or complete the certification process.
-> 
-> ### Requirements for made for kids content
-> 
-> > ![An illustration representing Google's policy on restricting ads for made for kids content. ](//storage.googleapis.com/support-kms-prod/6DBAL9kwU9qgXa59X7Khyqq3OHdKRM42JJxq)
-> > 
-> > Advertisers may not run personalized ads on content set as [made for kids](https://support.google.com/youtube/answer/9528076). [See here](https://support.google.com/adspolicy/answer/9683742) for categories restricted for advertising on made for kids content.
-> 
-> ### Limited ad serving
-> 
-> > To protect the integrity of our Google Ads ecosystem, we limit impressions of ads that have a higher potential of causing abuse or a poor experience for our users. In these specific instances, only qualified advertisers will be able to serve ads without impression limits. Learn more about when [limited ad serving](https://support.google.com/adspolicy/answer/13889491) applies and who is a qualified advertiser.
-> 
-> Editorial & technical requirements
-> ----------------------------------
-> 
-> We want to deliver ads that are engaging for users without being annoying or difficult to interact with, so we've developed editorial requirements to help keep your ads appealing to users. We've also specified technical requirements to help users and advertisers get the most out of the variety of ad formats we offer.
-> 
-> ### [Editorial](https://support.google.com/adspolicy/answer/6021546)
-> 
-> > In order to provide a quality user experience, Google requires that all ads, assets, and destinations meet high professional and editorial standards. We only allow ads that are clear, professional in appearance, and that lead users to content that is relevant, useful, and easy to interact with.
-> > 
-> > _Examples of promotions that don't meet these editorial and professional requirements:_
-> > 
-> > > * overly generic ads that contain vague phrases such as "Buy products here"
-> > > * gimmicky use of words, numbers, letters, punctuation, or symbols such as FREE, f-r-e-e, and F₹€€!!
-> 
-> ### [Destination requirements](https://support.google.com/adspolicy/answer/6368661)
-> 
-> > We want consumers to have a good experience when they click on an ad, so ad destinations must offer unique value to users and be functional, useful, and easy to navigate.
-> > 
-> > _Examples of promotions that don't meet destination requirements:_
-> > 
-> > > * a display URL that does not accurately reflect the URL of the landing page, such as "google.com" taking users to "gmail.com"
-> > > * sites or apps that are under construction, parked domains, or are just not working
-> > > * sites that are not viewable in commonly used browsers
-> > > * sites that have disabled the browser's back button
-> 
-> ### [Technical requirements](https://support.google.com/adspolicy/answer/6088505)
-> 
-> > To help us keep ads clear and functional, advertisers must meet our technical requirements.
-> 
-> ### [Ad format requirements](https://support.google.com/adspolicy/topic/6021648)
-> 
-> > In order to help you provide a quality user experience and deliver attractive, professional-looking ads, we only allow ads that comply with specific requirements for each ad format. Review the requirements for all ad formats that you're using.
-> > 
-> > Note that we don't allow Non-family safe ads in image ads, video ads, and other non-text ad formats. Read more about our [Adult content policy](https://support.google.com/adspolicy/answer/6023699).
-> > 
-> > Advertisers participating in beta programs of new ad formats should reach out to their Google Ads representatives or Google Ads customer support to learn about format-specific policy requirements.
-> > 
-> > _Examples of ad format requirements:_ character limits for the ad headline or body, image size requirements, file size limits, video length limits, aspect ratios
-> 
-> * * *
-> 
-> * * *
-> 
-> About our policies
-> ------------------
-> 
-> Google Ads enables businesses of all sizes, from around the world, to promote a wide variety of products, services, applications, and websites on Google and across our network. We want to help you reach existing and potential customers and audiences. However, to help create a safe and positive experience for users, we listen to their feedback and concerns about the types of ads they see. We also regularly review changes in online trends and practices, industry norms, and regulations. And finally, in crafting our policies, we also think about our values and culture as a company, as well as operational, technical, and business considerations. As a result, we have created a set of policies that apply to all promotions on the Google Network.
-> 
-> Google requires that advertisers comply with all [applicable laws and regulations](https://support.google.com/adspolicy/answer/6023676) and the Google policies described above. It's important that you familiarize yourself with and keep up to date on these requirements for the places where your business operates, as well as any other places your ads are showing. When we find content that violates these requirements, we may block it from appearing, and in cases of repeated or egregious violations, we may stop you from advertising with us.
-> 
-> Advertisers have a responsibility not to promote content or engage in behavior that risks harm to our users, employees, or the Ads ecosystem. If we see such content or behavior, we may take action, including but not limited to restricting or blocking your ads or suspending your account.
-> 
-> Need help?
-> ----------
-> 
-> If you have questions about our policies, let us know: [Contact Google Ads Support](https://support.google.com/google-ads/gethelp)
-> 
->   
-> 
-> Tell us what you think
-> ----------------------
-> 
-> Rate how helpful this page is and share your feedback with us below:
+* * *
+
+Content policies 
+-----------------
+
+### Illegal content
+
+We do not allow content that:
+
+* is illegal, promotes illegal activity, or infringes on the legal rights of others.
+
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about illegal content_](https://support.google.com/publisherpolicies/answer/10437537)
+
+### Intellectual property abuse
+
+We do not allow content that:
+
+* infringes copyright. It is our policy to respond to notices of alleged infringement that comply with the Digital Millennium Copyright Act (DMCA). You can file a counter-notification via [this form](https://support.google.com/legal/contact/lr_counternotice?product=websearch).
+* sells or promotes the sale of counterfeit products. Counterfeit goods contain a trademark or logo that is identical to or substantially indistinguishable from the trademark of another. They mimic the brand features of the product in an attempt to pass themselves off as a genuine product of the brand owner.
+
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about intellectual property abuse](https://support.google.com/publisherpolicies/answer/10402772)_
+
+### Dangerous or derogatory content
+
+We do not allow content that:
+
+* incites hatred against, promotes discrimination of, or disparages an individual or group on the basis of their race or ethnic origin, religion, disability, age, nationality, veteran status, sexual orientation, gender, gender identity, or other characteristic that is associated with systemic discrimination or marginalization.
+    
+    **Examples**: Promoting hate groups or hate group paraphernalia, encouraging others to believe that a person or group is inhuman, inferior, or worthy of being hated
+    
+* harasses, intimidates, or bullies an individual or group of individuals.
+    
+    **Examples**: Singling out someone for abuse or harassment, suggesting a tragic event did not happen or that victims or their families are actors or complicit in a cover-up of the event
+    
+* threatens or advocates for physical or mental harm to oneself or others.
+    
+    **Examples**: Content advocating suicide, anorexia, or other self-harm; threatening someone with real-life harm or calling for the attack of another person; promoting, glorifying, or condoning violence against others; content made by or in support of terrorist groups or transnational drug trafficking organizations, or content that promotes terrorist acts, including recruitment, or that celebrates attacks by transnational drug trafficking or terrorist organizations
+    
+* exploits others through extortion.
+    
+    **Examples**: Exploitative removals, revenge porn, blackmail
+    
+
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about dangerous and derogatory content](https://support.google.com/publisherpolicies/answer/10522641)_
+
+### Animal cruelty
+
+We do not allow content that:
+
+* promotes cruelty or gratuitous violence towards animals.
+    
+    **Examples**: Promoting animal cruelty for entertainment purposes, such as cock or dog fighting
+    
+* promotes the sale of products obtained from endangered or threatened species.
+    
+    **Examples**: Sale of tigers, shark fins, elephant ivory, tiger skins, rhino horn, dolphin oil
+    
+
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about animal cruelty](https://support.google.com/publisherpolicies/answer/10400059)_
+
+### Misrepresentative content
+
+#### Misleading representation
+
+We do not allow content that:
+
+* misrepresents, misstates, or conceals information about the publisher, the content creator, the purpose of the content, or the content itself.
+* falsely implies having an affiliation with, or endorsement by, another individual, organization, product, or service.
+    
+    **Examples**: Impersonating Google products, misusing company logos
+    
+
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about misleading representation](https://support.google.com/publisherpolicies/answer/11185754)_
+
+#### Unreliable and harmful claims
+
+We do not allow content that:
+
+* makes claims that are demonstrably false and could significantly undermine participation or trust in an electoral or democratic process.
+    
+    **Examples**: information about public voting procedures, political candidate eligibility based on age or birthplace, election results, or census participation that contradicts official government records
+    
+* promotes harmful health claims, or relates to a current, major health crisis and contradicts authoritative scientific consensus.
+    
+    **Examples**: Anti-vaccine advocacy, denial of the existence of medical conditions such as AIDS or Covid-19, gay conversion therapy
+    
+* contradicts authoritative scientific consensus on climate change.
+    
+
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about unreliable and harmful claims](https://support.google.com/publisherpolicies/answer/11188580)_
+
+#### Deceptive practices
+
+We do not allow:
+
+* enticing users to engage with content under false or unclear pretenses.
+* attempting to steal personal information or trick users into sharing personal information
+    
+    **Example**: Social engineering like phishing
+    
+* promoting content, products, or services using false, dishonest, or deceptive claims.
+    
+    **Examples**: "Get Rich Quick" schemes
+    
+* coordinating with other sites or accounts and concealing or misrepresenting your identity or other material details about yourself, where your content relates to politics, social issues or matters of public concern.
+    
+* directing content about politics, social issues, or matters of public concern to users in a country other than your own, if you misrepresent or conceal your country of origin or other material details about yourself.
+    
+
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about deceptive practices](https://support.google.com/publisherpolicies/answer/11185755)_
+
+#### Manipulated media
+
+We do not allow content that:
+
+* deceives users through manipulated media related to politics, social issues, or matters of public concern.
+
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about manipulated media](https://support.google.com/publisherpolicies/answer/11185657)_ 
+
+### Enabling dishonest behavior
+
+We do not allow content that:
+
+* helps users to mislead others.
+    
+    **Examples**: Creating fake or false documents such as passports, diplomas, or accreditation; sale or distribution of term papers, paper-writing or exam-taking services; information or products for passing drug tests
+    
+* promotes any form of hacking or cracking and/or provides users with instructions, equipment, or software that tampers with or provides unauthorized access to devices, software, servers, or websites.
+    
+    **Examples**: Pages or products that enable illegal access of cell phones and other communications or content delivery systems or devices; products or services that bypass copyright protection, including circumvention of digital rights management technologies; products that illegally descramble cable or satellite signals in order to get free services; pages that assist or enable users to download streaming videos if prohibited by the content provider
+    
+
+* enables a user, or promotes products and services that enable a user, to track or monitor another person or their activities without their authorization.
+    
+    **Examples**: Spyware and technology used for intimate partner surveillance including but not limited to spyware/malware that enables a user to monitor another person’s texts, phone calls, or browsing history; GPS trackers specifically marketed to spy or track someone without their consent; promotion of surveillance equipment (e.g. cameras, audio recorders, dash cams, nanny cams) marketed with the express purpose of spying
+    
+    This does not include (a) private investigation services or (b) products or services designed for parents to track or monitor their underage children.
+    
+
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about enabling dishonest behavior_](https://support.google.com/publisherpolicies/answer/10436828)
+
+### Sexually explicit content
+
+We do not allow content that:
+
+* includes graphic sexual text, image, audio, video, or games.
+    
+    **Examples**: Sex acts such as genital, anal, and/or oral sex; masturbation; cartoon porn or hentai; graphic nudity
+    
+* contains non-consensual sexual themes, whether simulated or real.
+    
+    **Examples**: Rape, incest, bestiality, necrophilia, snuff, lolita or teen-themed pornography, underage dating
+    
+
+    ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about sexually explicit content_](https://support.google.com/publisherpolicies/answer/10438119)
+
+### Compensated sexual acts
+
+We do not allow content that:
+
+* may be interpreted as promoting a sexual act in exchange for compensation.
+    
+    **Examples**: Prostitution; companionship and escort services; intimate massage; cuddling sites; compensated dating or sexual arrangements where one participant is expected to provide money, gifts, financial support, mentorship, or other valuable benefits to another participant such as "Sugar" dating
+    
+
+     ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about compensated sexual acts_](https://support.google.com/publisherpolicies/answer/10438120)
+
+### Mail order brides
+
+We do not allow content that:
+
+* facilitates marriage to a foreigner.
+    
+    **Examples**: Mail order brides, international marriage brokers, romance tours
+    
+
+      ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about mail order brides](https://support.google.com/publisherpolicies/answer/10437885)_
+
+### Adult themes in family content
+
+We do not allow content that:
+
+* is made to appear appropriate for a family audience, but contains adult themes including sex, violence, or other depictions of children or popular children’s characters that are unsuitable for a general audience.
+
+       ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about adult themes in family content](https://support.google.com/publisherpolicies/answer/10437484)_
+
+### Child sexual abuse and exploitation
+
+We do not allow content that:
+
+* Sexually exploits or abuses children or content that promotes the sexual exploitation or abuse of children. This includes all child sexual abuse materials.
+* Endangers children. Including but not limited to:
+    * ‘Child grooming’ (for example, befriending a child online to facilitate, either online or offline, sexual contact and/or exchanging sexual imagery with that child);
+    * ‘Sextortion’ (for example, threatening or blackmailing a child by using real or alleged access to a child’s intimate images);
+    * Sexualization of a minor (for example, content that depicts, encourages or promotes the sexual abuse or exploitation of children); and
+    * Trafficking of a child (for example, advertising or solicitation of a child for commercial sexual exploitation).
+
+We will take appropriate action, which may include reporting to the National Center for Missing & Exploited Children and disabling accounts. If you believe a child is in danger of or has been subject to abuse, exploitation, or trafficking, contact the police immediately. If you have concerns a child is being or was being endangered in connection with our products, you can [report the behavior to Google](https://support.google.com/families/contact/report_child_grooming).
+
+        ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about child sexual abuse and exploitation](https://support.google.com/publisherpolicies/answer/10436971)_
+
+* * *
+
+Behavioral policies 
+--------------------
+
+### Dishonest declarations
+
+Information provided by publishers to enable their use of or interaction with Google advertising systems:
+
+* must be materially accurate and complete, without misleading omissions; and
+* cannot be expressed in a deceptive or misleading manner.
+    
+    **Examples:** The personal information or payment details provided by a publisher are materially incomplete, obscured or inaccurate. Information provided about a publisher’s website (e.g., in the ads.txt file) or app (e.g., in the app-ads.txt file) is inaccurate. Ad requests that contain partial or inaccurate URLs or AppIDs.
+    
+
+               ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about dishonest declarations](https://support.google.com/publisherpolicies/answer/11037245)_
+
+### Ads interfering 
+
+#### Google-served ads interfering with content or user interactions
+
+We do not allow Google-served ads that:
+
+* overlay or are adjacent to navigational or other action items and may lead to unintended ad interactions,
+* severely interfere with consumption of content including overlaying the content or pushing the content off the display,
+* are placed on a "dead end" screen where the user is not able to exit the screen without clicking the ad. 
+
+               ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about ads interfering](https://support.google.com/publisherpolicies/answer/11035030)_
+
+### Inventory value
+
+#### Google-served ads on screens without publisher-content
+
+We do not allow Google-served ads on screens:
+
+* without publisher-content or with low-value content,
+* that are under construction,
+* that are used for alerts, navigation or other behavioral purposes
+
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about Google-served ads on screens without publisher-content](https://support.google.com/publisherpolicies/answer/11112688)_
+
+#### Out of context ads
+
+We do not allow Google-served ads:
+
+* in apps or web pages that run in the background,
+* that appear outside the display,
+* when the user's attention is expected to be elsewhere and not on the screen hosting the ad.
+
+It must be clear to the user with which publisher-content the ad is associated.
+
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about out of context ads](https://support.google.com/publisherpolicies/answer/11190357)_
+
+#### Google-served ads on screens with replicated content
+
+We do not allow Google-served ads on screens:
+
+* with embedded or copied content from others without additional commentary, curation, or otherwise adding value to that content.
+
+You are also required to comply with our [Intellectual property abuse policy](https://support.google.com/publisherpolicies/answer/10402772).
+
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about Google-served ads on screens with replicated content](https://support.google.com/publisherpolicies/answer/11190248)_
+
+#### More ads or paid promotional material than publisher-content
+
+We do not allow Google-served ads on screens:
+
+* with more ads or other paid promotional material than publisher-content.
+
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about More ads or paid promotional material than publisher-content](https://support.google.com/publisherpolicies/answer/11169917)_
+
+####  Unsupported languages
+
+We do not allow content that:
+
+* is not primarily in one of the supported languages.
+
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about unsupported languages](https://support.google.com/publisherpolicies/answer/10436912)_
+
+ 
+
+* * *
+
+Privacy-related policies
+------------------------
+
+### Privacy disclosures
+
+Publishers must:
+
+* have and abide by a privacy policy that clearly discloses any data collection, sharing and usage that takes place on any site, app, email publication or other property as a consequence of your use of Google products. The privacy policy must disclose to users that third parties may be placing and reading cookies on your users' browsers, or using web beacons to collect information as a result of ad serving on your website.
+    
+    To comply with this disclosure obligation with respect to Google’s use of data, you have the option to display a prominent link to [How Google uses data when you use our partners’ sites or apps](http://www.google.com/policies/privacy/partners/).
+    
+
+           ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about privacy disclosures](https://support.google.com/publisherpolicies/answer/10437794)_
+
+### Cookies on Google domains
+
+Publishers must:
+
+* not set a cookie on Google's domains or modify, intercept or delete cookies set on Google's domains.
+
+           ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about cookies on Google domains](https://support.google.com/publisherpolicies/answer/10437485)_
+
+### Identifying users
+
+Publishers must:
+
+* not use device fingerprints or locally shared objects (e.g., Flash cookies, Browser Helper Objects, HTML5 local storage) other than HTTP cookies, or user-resettable mobile device identifiers designed for use in advertising. This does not limit the use of IP address for the detection of fraud.
+* not pass any information to Google data that Google could use or recognize as personally identifiable information; or that permanently identifies a particular device (such as a mobile phone's unique device identifier if such an identifier cannot be reset).
+* not use our services to identify users or facilitate the merging of personally identifiable information with information previously collected as non-personally identifiable information without robust notice of, and the user's prior affirmative (i.e., opt-in) consent to, that identification or merger. Irrespective of users' consent, you must not attempt to disaggregate data that Google reports in aggregate.
+    
+    For more information, please refer to [Guidance for complying with the Identifying Users Policy](https://support.google.com/adsense/topic/6162392).
+    
+* comply with the [EU user consent policy](http://www.google.com/about/company/user-consent-policy.html).
+
+           ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about identifying users](https://support.google.com/publisherpolicies/answer/10436913)_
+
+### Use of device and location data
+
+If publishers collect, process, or disclose information that identifies or can be used to infer an end user's precise geographic location, such as sourced from GPS, wifi or cell tower data then,
+
+Publishers must:
+
+* disclose to the user, via an interstitial or just-in-time notice, the purposes for which their data may be used (including, ad personalization, analytics, and attribution, as applicable), including that the data may be shared with partners;
+* obtain express (i.e., opt-in) consent from end users before collecting, processing, or disclosing such information;
+* send such information to Google in an encrypted state or via an encrypted channel; and
+* disclose such information collection, processing, or disclosure in all applicable privacy policies.
+
+            ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about use of device and location data](https://support.google.com/publisherpolicies/answer/10437073)_
+
+### Children’s Online Privacy Protection Act (COPPA)
+
+If you implement any Google advertising service on a site or section of a site that is covered by the Children's Online Privacy Protection Act (COPPA), you must:
+
+* notify Google of those sites or sections of sites covered by COPPA using the [Google Search Console](https://search.google.com/search-console/coppa), tag the ad request using the [AdMob SDK](https://firebase.google.com/docs/admob/android/targeting) , or tag your site, app, or ad request for child-directed treatment;
+*  not use interest-based advertising (including remarketing) to target:
+    * past or current activity by users known by you to be under the age of 13 years or
+    * past or current activity on sites directed at users under the age of 13 years.
+
+               ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about Children's Online Privacy Protection Act (COPPA)_](https://support.google.com/publisherpolicies/answer/10436800)
+
+* * *
+
+Requirements and other standards
+--------------------------------
+
+### Spam policies for Google web search
+
+You must not:
+
+* place Google-served ads on pages that violate the [Spam policies for Google web search](https://developers.google.com/search/docs/essentials/spam-policies).
+
+               ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about the Spam policies for Google web search](https://support.google.com/publisherpolicies/answer/11035931)_
+
+### Abusive experiences 
+
+You must not:
+
+* place Google-served ads on screens that contain [abusive experiences](https://support.google.com/webtools/answer/7347327).
+
+               ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about abusive experiences](https://support.google.com/publisherpolicies/answer/11128079)_
+
+### Malware or unwanted software
+
+You must not:
+
+* place Google-served ads on screens that contain malicious software or "malware" that may harm or gain unauthorized access to a computer, device, or network.
+    
+    **Examples**: Computer viruses, ransomware, worms, trojan horses, rootkits, keyloggers, dialers, spyware, rogue security software, and other malicious programs or apps
+    
+* place Google-served ads on screens that violate [Google's Unwanted Software policy](http://www.google.com/about/company/unwanted-software-policy.html).
+    
+    **Examples**: Failure to be transparent about the functionality that the software provides or the full implications of installing the software; failing to include Terms of Service or an End User License Agreement; bundling software or applications without the user's knowledge; making system changes without the user's consent; making it difficult for users to disable or uninstall the software; failing to properly use publicly available Google APIs when interacting with Google services or products
+    
+
+   ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about malware or unwanted software_](https://support.google.com/publisherpolicies/answer/10437483)
+
+### Better Ads Standards 
+
+You must not:
+
+* place Google-served ads on screens that do not conform to the [Better Ads Standards](https://www.betterads.org/standards/). For more information about the types of disallowed ad experiences, please visit the [Coalition for Better Ads](https://www.betterads.org/) website.
+
+               ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about Better Ads Standards](https://support.google.com/publisherpolicies/answer/11127848)_
+
+### Authorized inventory
+
+You must not:
+
+* place Google-served ads on a domain that uses `ads.txt` where you are not included as an authorized seller of the inventory in the `ads.txt` file. 
+
+For syndication partners, Parents must ensure Children promptly add an `ads.txt` file to Child domains with Parents as authorized sellers of Child Inventory.
+
+               ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about authorized inventory](https://support.google.com/publisherpolicies/answer/11128498)_
+
+### Sanctions compliance
+
+Google must comply with sanctions and export controls maintained by the United States Treasury Department’s [Office of Foreign Assets Control](http://www.treasury.gov/resource-center/sanctions/Pages/default.aspx) (OFAC), United States Commerce Department’s Bureau of Industry & Security and other applicable  sanctions. As a result, Google publisher products are not available to publishers in the following countries or territories:
+
+* Crimea
+* Cuba
+* So-called Donetsk People's Republic (DNR) and Luhansk People's Republic (LNR) 
+* Iran
+* North Korea
+* Syria
+
+Google publisher products also may not be used for or on behalf of a party located in the above listed sanctioned countries or regions. 
+
+In addition, Google publisher products are not eligible for any entities or individuals that are restricted under applicable trade sanctions and export compliance laws. Google publisher products are not eligible for entities or individuals owned or controlled by or acting for or on behalf of such restricted entities or individuals. 
+
+Publishers must also comply with applicable sanctions and export regulations, which includes OFAC sanctions, and agree to not cause Google to violate these regulations. You cannot use Google publisher products for or on behalf of restricted entities or individuals. You cannot use Google publisher products for or on behalf of entities or individuals located in sanctioned countries or regions.
+
+               ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about sanctions compliance](https://support.google.com/publisherpolicies/answer/11128499)_
+
+[](https://support.google.com/adsense/answer/1282103?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/10437795?hl=en&ref_topic=1250104)
 
 Was this helpful?
 
