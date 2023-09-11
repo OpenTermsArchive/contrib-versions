@@ -15,7 +15,7 @@ These include our:
 * Social media partners
 * Advertising partners
 
-The data controller for this website ([hsbc.com](https://www.hsbc.com/)) and its sub-domains (e.g. [internationalservices.hsbc.com](https://internationalservices.hsbc.com/) ) and for the processing activities carried out on these websites is HSBC Holdings plc, established in the UK. As such, this notice follows the UK’s data protection requirements. We’ve set out contact details at the end of this notice if you need to reach us.
+The data controller for this website ([hsbc.com](https://www.hsbc.com/)) and its sub-domains (e.g. [internationalservices.hsbc.com](https://internationalservices.hsbc.com/)) and for the processing activities carried out on these websites is HSBC Holdings plc, established in the UK. As such, this notice follows the UK’s data protection requirements. We’ve set out contact details at the end of this notice if you need to reach us.
 
 Our privacy notices
 -------------------
@@ -104,7 +104,7 @@ We use your information to:
 
 We use your information to help protect you and ourselves against fraud or crime. For example, our service providers look at all use of our website to help block malicious activity. This helps keep you and us safe.
 
-One of our security providers is Google ReCaptcha. Google asks us to tell you that this is subject to the [Google Privacy Policy (opens in new window)](https://www.google.com/policies/privacy/) and [Terms of Use (opens in new window)](https://www.google.com/policies/terms/)
+One of our security providers is Google ReCaptcha. Google asks us to tell you that this is subject to the [Google Privacy Policy](https://www.google.com/policies/privacy/) and [Terms of Use](https://www.google.com/policies/terms/)
 
 ### Personalising our website
 
@@ -214,7 +214,7 @@ Last updated: 26 May 2023
 
 Thank you for reading this privacy notice.
 
-Accessibility
--------------
+Website accessibility
+---------------------
 
-HSBC is committed to ensuring that the information on this website, including this privacy notice, is accessible to the widest possible audience and by those using assistive technologies. For more information, please visit our [Accessibility page](https://www.hsbc.com/accessibility).
+HSBC is committed to ensuring that the information on this website, including this privacy notice, is accessible to the widest possible audience and by those using assistive technologies. For more information, please visit our [Website accessibility page](https://www.hsbc.com/website-accessibility).
