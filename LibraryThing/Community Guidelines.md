@@ -35,7 +35,7 @@ In event of dispute, account ownership is determined as follows: If a paid accou
 
 #### How LibraryThing deals with abuse
 
-* As stated, members are encouraged to report abuse, not merely to flag it. Email [\[email protected\]](https://www.librarything.com/cdn-cgi/l/email-protection).
+* As stated, members are encouraged to report abuse, not merely to flag it. Email info@librarything.com.
 * When reporting abuse be as specific as possible.
 * Avoid responding to abuse with abuse. It will not be excused.
 * LibraryThing staff are empowered to admonish, warn, suspend, and ban users for violations of these terms. We are happy to talk things through, but our decisions are final.
