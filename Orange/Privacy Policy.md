@@ -339,7 +339,30 @@ Si vos échanges avec Orange n’ont pas été satisfaisants, vous avez la possi
 10\. Y a-t-il des particularités pour certains services ?
 ---------------------------------------------------------
 
-### 10.1. Annuaires
+### 10.1. Service Utiq
+
+#### **À propos du service Utiq**
+
+Le Service Utiq est opéré par Utiq SA/NV (« Utiq »), une entreprise européenne de publicité en ligne qui fournit un service de consentement authentique alimenté par les opérateurs téléphoniques pour permettre une commercialisation numérique responsable.
+
+  
+Le service Utiq vous offre un contrôle accru et une transparence sur l'utilisation de vos données lorsque vous activez la publicité personnalisée, les produits et le contenu ou les analyses sur les sites partenaires d'Utiq. Dans le cadre du service Utiq, vous avez accès à un portail centralisé en libre-service, appelé [consenthub](https://consenthub.utiq.com/) d'Utiq, qui vous permet de gérer tous vos choix de Service Utiq et vos consentements Utiq ainsi que d’exercer vos droits en matière de protection des données. A tout moment. En un seul endroit.
+
+#### **À propos de notre partenariat avec Utiq**
+
+Orange fournit l'infrastructure basée sur le réseau pour ce service. Cela signifie que si vous donnez votre consentement sur un site participant, votre adresse IP sera utilisée, tout d'abord pour vérifier votre éligibilité à utiliser le service, puis pour vous aider à activer le service Utiq. Dans le cadre de l'activation, nous utilisons votre adresse IP et la comparons à votre abonnement réseau pour créer un identifiant pseudonyme appelé "**Network Signal**". Cette valeur est créée à l'aide d'une méthode sécurisée de chiffrement pour protéger votre identité avant de la partager avec Utiq. Utiq utilise ensuite cela dans son système de consentpass pour aider les annonceurs et les éditeurs partenaires à vous offrir une expérience personnalisée ou l'utilisation d'analyses sur leurs sites web tout en vous permettant de conserver le contrôle sur vos données. Nous n'enrichissons pas le "**Network Signal**" avec vos données clients, de navigation, de trafic ou d'autres informations. Nous ne créons pas non plus de profil de votre comportement sur les sites web individuels. De plus, ce traitement de vos données de notre part ne sera effectué que si vous avez donné votre consentement pour les finalités indiquées sur le site web partenaire.
+
+  
+En tant qu'abonné de Orange, vous pouvez utiliser le service Utiq sur les sites web que vous visitez et qui ont établi un partenariat avec Utiq. L'utilisation du service n'est possible qu'après avoir donné votre consentement, volontaire et éclairé, le Service Utiq étant desactivé par défaut. Veuillez noter que le consentement doit être donné spécifiquement sur chaque site partenaire.
+
+#### **Comment gérer votre service Utiq**
+
+Vous pouvez consulter et gérer tous vos choix Utiq, y compris retirer tous les consentements Utiq que vous avez donnés, ou désactiver ou empêcher l'activation du service, à tout moment via le [consenthub](https://consenthub.utiq.com/) d'Utiq. Le retrait de votre consentement ici signifie que vous retirez également le consentement pour le traitement des données par Orange.
+
+  
+Vous pouvez trouver plus d’informations sur le Service Utiq dans le [consenthub](https://consenthub.utiq.com/) d’Utiq ou dans la [Déclaration de confidentialité d’Utiq](https://consenthub.utiq.com/pages/privacy-statement).
+
+### 10.2. Annuaires
 
 Orange en tant qu’opérateur de communications électroniques, vous permet en tant qu’abonné d’un service de téléphonie ouvert au public (fixe ou mobile), de décider si vous souhaitez que vos coordonnées (numéro de téléphone, nom, prénom, adresse postale complète ou non, adresse électronique, profession ou activité) soient ou non publiées, gratuitement, dans sa liste d’annuaire. Cette liste, conformément à ses obligations règlementaires, est transmise par Orange à tout éditeur réalisant un annuaire ou fournissant un service de renseignements.
 
@@ -347,7 +370,7 @@ Vous pouvez limiter gratuitement leur parution en vous inscrivant sur les listes
 
 Vous pouvez modifier vos choix à tout moment et gratuitement sur votre espace client.
 
-### 10.2. Utilisation de données anonymes – Flux vision
+### 10.3. Utilisation de données anonymes – Flux vision
 
 Les données relatives à la localisation des utilisateurs du réseau mobile Orange sont agrégées afin de constituer des indicateurs statistiques de fréquentation de provenance et de déplacement à destination de divers partenaires du secteur du commerce, du tourisme, des transports…
 
@@ -358,4 +381,4 @@ Le dispositif technique utilisé par Flux Vision garantit une anonymisation irr�
 
 La présente Politique de Protection des Données personnelles peut être amenée à évoluer.
 
-Dernière mise à jour le 24/08/2023
+Dernière mise à jour le 11/09/2023
