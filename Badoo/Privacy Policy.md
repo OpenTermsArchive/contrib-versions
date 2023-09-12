@@ -102,10 +102,6 @@ When you visit our Sites or when you use our App, we may collect personal data f
 2\. USE OF YOUR INFORMATION
 ---------------------------
 
-### Our Matching Algorithms
-
-We have developed matching algorithms to predict your compatibility with other users and so we can show you people we think are a good match for you. Our matching algorithms use the following data about you to predict your compatibility with others and generate profile recommendations: the things you tell us about yourself in your profile; information about your activity in our apps; whether you are a photo verified user; and your device coordinates, which are necessary to understand your proximity to other members. The legal basis for processing profile and proximity information is that this is necessary for the provision of our contractual services to you pursuant to Article 6(1)(b) GDPR. Where we process information about your app activity, this is based on our legitimate interests pursuant to Article 6(1)(f) GDPR, and specifically our legitimate interest in generating more personalised and relevant recommendations for who you can match with in our App. Where you have included sensitive information in your profile, such as information about your beliefs, the processing of this information is based on your voluntary and explicit consent.
-
 Our main goal is to ensure your experience on Badoo is an enjoyable one and in order to deliver it to you, we may use your Registration and other information to:
 
 * offer you our services and features;
@@ -117,6 +113,10 @@ Our main goal is to ensure your experience on Badoo is an enjoyable one and in o
 * investigate fraud, protect our legal rights, and to enforce our [Terms and Conditions of Use](https://badoo.com/terms/);
 * to send you information about the promotions and offers we have available (e.g., specify the types of goods/services/offers to be provided via direct marketing) by direct marketing or other modes of communication - if you’ve signed up for our communications or otherwise told us it’s ok. We will not use your information in email direct marketing unless you give us your consent during the Account creating process or via Settings in the App (you can withdraw from marketing at any time via Settings in the App or by using the opt-out mechanisms and links provided in each message); and
 * protect our Users and third parties from harm.
+
+### Our Matching Algorithms
+
+We have developed matching algorithms to predict your compatibility with other users and so we can show you people we think are a good match for you. Our matching algorithms use the following data about you to predict your compatibility with others and generate profile recommendations: the things you tell us about yourself in your profile; information about your activity in our apps; whether you are a photo verified user; and your device coordinates, which are necessary to understand your proximity to other members. The legal basis for processing profile and proximity information is that this is necessary for the provision of our contractual services to you pursuant to Article 6(1)(b) GDPR. Where we process information about your app activity, this is based on our legitimate interests pursuant to Article 6(1)(f) GDPR, and specifically our legitimate interest in generating more personalised and relevant recommendations for who you can match with in our App. Where you have included sensitive information in your profile, such as information about your beliefs, the processing of this information is based on your voluntary and explicit consent.
 
 ### Moderation Practices
 
