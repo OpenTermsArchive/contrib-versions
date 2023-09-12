@@ -464,13 +464,13 @@ Tracking and processing of your data as described here are based on your consent
 
 In the following you will find further information about the tracking technologies used and information from providers about data processing.
 
+#### Active Agent
+
+More information is available [here](https://www.adition.com/en/privacy-platform/)
+
 #### Adform
 
 More information is available [here](https://site.adform.com/privacy-center/overview)
-
-#### Adobe DMP
-
-More information is available [here](https://www.adobe.com/privacy/policy.html)
 
 #### ADITION
 
@@ -480,6 +480,18 @@ More information in German is available [here](https://www.adition.com/datenschu
 
 More information is available [here](https://www.adjust.com/terms/privacy-policy/)
 
+#### Adobe DMP
+
+More information is available [here](https://www.adobe.com/privacy/policy.html)
+
+#### advanced store
+
+More information is available [here](https://www.advanced-store.com/en/data-privacy/)
+
+#### Adzuna
+
+More information is available [here](https://www.adzuna.de/privacy-policy.html)
+
 #### AppNexus / Xandr
 
 [More information](https://www.xandr.com/privacy/platform-privacy-policy/)
@@ -487,6 +499,10 @@ More information is available [here](https://www.adjust.com/terms/privacy-policy
 #### Criteo
 
 More information is available [here](https://www.criteo.com/privacy/)
+
+#### Emetriq
+
+More information is available [here](https://www.emetriq.com/datenschutz/)
 
 #### Google
 
@@ -499,6 +515,18 @@ More information is available [here](https://instapage.com/privacy-policy)
 #### IQ Digital
 
 More information is available [here](https://www.iqdigital.de/en/Ueber-uns/Datenschutz)
+
+#### Joblift
+
+More information is available [here](https://joblift.freshdesk.com/en/support/solutions/articles/7000048898-privacy-policies-for-joblift-s-tracking-pixel)
+
+#### Jobrapido
+
+More information is available [here](https://de.jobrapido.com/info/privacy-policy)
+
+#### Jooble
+
+More information is available [here](https://de.jooble.org/info/privacy)
 
 #### LinkedIn
 
@@ -532,6 +560,10 @@ More information in German is available [here](https://www.performance-media.de/
 
 More information is available [here](https://policy.pinterest.com/privacy-policy)
 
+#### Pubmatic
+
+More information is available [here](https://pubmatic.com/legal/privacy-policy/)
+
 #### RTB House
 
 More information is available [here](https://www.rtbhouse.com/rtbhouse-paperflite-privacy-policy/)
@@ -540,6 +572,14 @@ More information is available [here](https://www.rtbhouse.com/rtbhouse-paperflit
 
 More information is available [here](https://values.snap.com/en-GB/privacy/privacy-center)
 
+#### Taboola
+
+More information is available [here](https://www.taboola.com/policies/privacy-policy)
+
+#### Talent.com
+
+More information is available [here](https://www.talent.com/tos#cookies)
+
 #### Teads
 
 More information is available [here](https://www.teads.com/privacy-policy/)
@@ -547,10 +587,6 @@ More information is available [here](https://www.teads.com/privacy-policy/)
 #### The Trade Desk
 
 More information is available [here](https://www.thetradedesk.com/us/privacy)
-
-#### Taboola
-
-More information is available [here](https://www.taboola.com/policies/privacy-policy)
 
 #### TikTok
 
@@ -563,6 +599,10 @@ More information is available [here](https://twitter.com/en/privacy)
 #### Wonderkind
 
 More information is available [here](https://wonderkind.com/wp-content/uploads/2020/10/Wonderkind-privacy-statement-2020.pdf)
+
+#### Yieldlab
+
+More information is available [here](https://yieldlab.com/datenschutz/)
 
 #### Zeotap
 
