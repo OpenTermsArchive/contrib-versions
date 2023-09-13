@@ -16,7 +16,7 @@ Your vehicle may be equipped with Connected Services that electronically transmi
 
 **Toyota Privacy Statement – Summary**
 
-This summary of the Toyota Privacy Statement applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our"). Some of our products and services may have additional privacy statements that apply, such as Toyota Connected Services. Where product- or service-specific privacy statements conflict with this Privacy Statement, those privacy statements shall govern. This Privacy Statement was last updated on January 1, 2023.
+This summary of the Toyota Privacy Statement applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our"). Some of our products and services may have additional privacy statements that apply, such as Toyota Connected Services. Where product- or service-specific privacy statements conflict with this Privacy Statement, those privacy statements shall govern. This Privacy Statement was last updated on September 7, 2023.
 
 **Information Collected**
 
@@ -68,7 +68,7 @@ To read our full Privacy Statement [click here.](#privacy)
 
 [\[Versión en Español\]](https://www.toyota.com/espanol/support/privacy-rights)
 
-UPDATED AS OF: January 1, 2023
+UPDATED AS OF: September 7, 2023
 
 Toyota Motor Sales, U.S.A., Inc. is committed to maintaining your confidence and trust as it relates to the privacy of your Personal Information (as defined below). Please read below and learn how we collect, protect, share and use your Personal Information including information we collect as part of our technology Platforms (including, without limitation, our Toyota-owned and branded websites, web pages, interactive features, applications, and mobile applications that link to this Privacy Statement ("Platforms"), offline, and from other parties.
 
