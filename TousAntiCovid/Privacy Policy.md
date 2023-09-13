@@ -70,7 +70,7 @@
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-monparcourspsy)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
             * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
@@ -431,7 +431,7 @@
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-monparcourspsy)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
             * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
@@ -932,7 +932,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-monparcourspsy)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
             * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
@@ -1293,7 +1293,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-monparcourspsy)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
             * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
@@ -1774,7 +1774,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-monparcourspsy)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
             * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
@@ -2135,7 +2135,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-monparcourspsy)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
             * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
@@ -2562,7 +2562,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-monparcourspsy)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
             * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
@@ -2929,7 +2929,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-monparcourspsy)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
             * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
@@ -3296,7 +3296,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-monparcourspsy)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
             * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
@@ -3663,7 +3663,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-monparcourspsy)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
             * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
@@ -4030,7 +4030,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-monparcourspsy)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
             * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
@@ -4397,7 +4397,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-monparcourspsy)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
             * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
@@ -4730,7 +4730,7 @@ Retour
 * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
 
 * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-* [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-monparcourspsy)
+* [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
 * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
 
 Retour
@@ -4953,7 +4953,7 @@ Retour
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-monparcourspsy)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
             * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
@@ -5314,7 +5314,7 @@ Retour
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-monparcourspsy)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
             * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
@@ -5675,7 +5675,7 @@ Retour
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-monparcourspsy)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
             * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
@@ -6036,7 +6036,7 @@ Retour
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-monparcourspsy)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
             * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
@@ -6397,7 +6397,7 @@ Retour
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-monparcourspsy)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
             * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
@@ -6758,7 +6758,7 @@ Retour
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-monparcourspsy)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
             * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
@@ -6909,7 +6909,7 @@ Retour
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-monparcourspsy)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
             * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
@@ -7032,7 +7032,7 @@ Retour
 * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
 
 * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-* [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-monparcourspsy)
+* [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
 * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
 
 Retour
