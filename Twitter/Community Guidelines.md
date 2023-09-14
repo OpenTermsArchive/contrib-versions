@@ -1,252 +1,453 @@
-Synthetic and manipulated media policy
-======================================
+Trademark policy
+================
 
 ### Overview 
 
-### April 2023
+**April 2023**
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+**You may not violate others’ intellectual property rights, including copyright and trademark.**
 
-Synthetic and manipulated media policy
-======================================
+A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
+  
 
-### Overview 
+### What is in violation of this policy? 
 
-### April 2023
+Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
+ 
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+### What is not a violation of this policy? 
 
-Synthetic and manipulated media policy
-======================================
+Referencing another’s trademark is not automatically a violation of Twitter's trademark policy. Examples of non-violations include:
 
-### Overview 
+* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
+* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
 
-### April 2023
-
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
-
-Synthetic and manipulated media policy
-======================================
+Trademark policy
+================
 
 ### Overview 
 
-### April 2023
+**April 2023**
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+**You may not violate others’ intellectual property rights, including copyright and trademark.**
 
-Synthetic and manipulated media policy
-======================================
+A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
+  
 
-### Overview 
+### What is in violation of this policy? 
 
-### April 2023
+Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
+ 
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+### What is not a violation of this policy? 
 
-Synthetic and manipulated media policy
-======================================
+Referencing another’s trademark is not automatically a violation of Twitter's trademark policy. Examples of non-violations include:
 
-### Overview 
+* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
+* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
 
-### April 2023
-
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
-
-Synthetic and manipulated media policy
-======================================
+Trademark policy
+================
 
 ### Overview 
 
-### April 2023
+**April 2023**
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+**You may not violate others’ intellectual property rights, including copyright and trademark.**
 
-Synthetic and manipulated media policy
-======================================
+A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
+  
 
-### Overview 
+### What is in violation of this policy? 
 
-### April 2023
+Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
+ 
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+### What is not a violation of this policy? 
 
-Synthetic and manipulated media policy
-======================================
+Referencing another’s trademark is not automatically a violation of Twitter's trademark policy. Examples of non-violations include:
 
-### Overview 
+* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
+* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
 
-### April 2023
-
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
-
-Synthetic and manipulated media policy
-======================================
+Trademark policy
+================
 
 ### Overview 
 
-### April 2023
+**April 2023**
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+**You may not violate others’ intellectual property rights, including copyright and trademark.**
 
-Synthetic and manipulated media policy
-======================================
+A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
+  
 
-### Overview 
+### What is in violation of this policy? 
 
-### April 2023
+Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
+ 
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+### What is not a violation of this policy? 
 
-Synthetic and manipulated media policy
-======================================
+Referencing another’s trademark is not automatically a violation of Twitter's trademark policy. Examples of non-violations include:
 
-### Overview 
+* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
+* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
 
-### April 2023
-
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
-
-Synthetic and manipulated media policy
-======================================
+Trademark policy
+================
 
 ### Overview 
 
-### April 2023
+**April 2023**
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+**You may not violate others’ intellectual property rights, including copyright and trademark.**
 
-Synthetic and manipulated media policy
-======================================
+A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
+  
 
-### Overview 
+### What is in violation of this policy? 
 
-### April 2023
+Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
+ 
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+### What is not a violation of this policy? 
 
-Synthetic and manipulated media policy
-======================================
+Referencing another’s trademark is not automatically a violation of Twitter's trademark policy. Examples of non-violations include:
 
-### Overview 
+* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
+* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
 
-### April 2023
-
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
-
-Synthetic and manipulated media policy
-======================================
+Trademark policy
+================
 
 ### Overview 
 
-### April 2023
+**April 2023**
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+**You may not violate others’ intellectual property rights, including copyright and trademark.**
 
-Synthetic and manipulated media policy
-======================================
+A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
+  
+
+### What is in violation of this policy? 
+
+Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
+ 
+
+### What is not a violation of this policy? 
+
+Referencing another’s trademark is not automatically a violation of Twitter's trademark policy. Examples of non-violations include:
+
+* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
+* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
+
+Trademark policy
+================
 
 ### Overview 
 
-### April 2023
+**April 2023**
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+**You may not violate others’ intellectual property rights, including copyright and trademark.**
 
-### What is in violation of this policy 
+A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
+  
 
-In order for content with **misleading media** (including images, videos, audios, gifs, and URLs hosting relevant content) to be labeled or removed under this policy, it must:
+### What is in violation of this policy? 
 
-* Include media that is significantly and deceptively altered, manipulated, or fabricated, or
-* Include media that is shared in a deceptive manner or with false context, and
-* Include media likely to result in widespread confusion on public issues, impact public safety, or cause serious harm
+Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
+ 
 
-We use the following criteria as we consider posts and media for labeling or removal under this policy as part of our ongoing work to enforce our rules and ensure healthy and safe conversations on X:
+### What is not a violation of this policy? 
 
-**1\. Is the content significantly and deceptively altered, manipulated, or fabricated?**
+Referencing another’s trademark is not automatically a violation of Twitter's trademark policy. Examples of non-violations include:
 
-In order for content to be labeled or removed under this policy, we must have reason to believe that media are significantly and deceptively altered, manipulated, or fabricated. Synthetic and manipulated media take many different forms and people can employ a wide range of technologies to produce these media. Some of the factors we consider include:
+* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
+* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
 
-* whether media have been substantially edited or post-processed in a manner that fundamentally alters their composition, sequence, timing, or framing and distorts their meaning; 
-* whether there are any visual or auditory information (such as new video frames, overdubbed audio, or modified subtitles) that has been added, edited, or removed that fundamentally changes the understanding, meaning, or context of the media;
-* whether media have been created, edited, or post-processed with enhancements or use of filters that fundamentally changes the understanding, meaning, or context of the content; and
-* whether media depicting a real person have been fabricated or simulated, especially through use of artificial intelligence algorithms
+Trademark policy
+================
 
-We will not take action to label or remove media that have been edited in ways that do not fundamentally alter their meaning, such as retouched photos or color-corrected videos. 
+### Overview 
 
-In order to determine if media have been significantly and deceptively altered or fabricated, we may use our own technology or receive reports through partnerships with third parties. In situations where we are unable to reliably determine if media have been altered or fabricated, we may not take action to label or remove them.
+**April 2023**
 
-**2\. Is the content shared in a deceptive manner or with false context?**
+**You may not violate others’ intellectual property rights, including copyright and trademark.**
 
-We also consider whether the context in which media are shared could result in confusion or suggests a deliberate intent to deceive people about the nature or origin of the content, for example, by falsely claiming that it depicts reality. We assess the context provided alongside media to see whether it provides true and factual information. Some of the types of context we assess in order to make this determination include:
+A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
+  
 
-* whether inauthentic, fictional, or produced media are presented or being endorsed as fact or reality, including produced or staged works, reenactments, or exhibitions portrayed as actual events;
-* whether media are presented with false or misleading context surrounding the source, location, time, or authenticity of the media;
-* whether media are presented with false or misleading context surrounding the identity of the individuals or entities visually depicted in the media;
-* whether media are presented with misstatements or misquotations of what is being said or presented with fabricated claims of fact of what is being depicted
+### What is in violation of this policy? 
 
-We will not take action to label or remove media that have been shared with commentary or opinions that do not advance or present a misleading claim on the context of the media such as those listed above. 
+Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
+ 
 
-In order to determine if media have been shared in a deceptive manner or with false context, we may use our own technology or receive reports through partnerships with third parties. In situations where we are unable to reliably determine if media have been shared with false context, we will not label or remove the content.
+### What is not a violation of this policy? 
 
-**3\. Is the content likely to result in widespread confusion on public issues, impact public safety, or cause serious harm?**
+Referencing another’s trademark is not automatically a violation of Twitter's trademark policy. Examples of non-violations include:
 
-Posts that share misleading media are subject to removal under this policy if they are likely to cause serious harm. Some specific harms we consider include:
+* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
+* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
 
-* Threats to physical safety of a person or group
-* Incitement of abusive behavior to a person or group
-* Risk of mass violence or widespread civil unrest
-* Risk of impeding or complicating provision of public services, protection efforts, or emergency response
-* Threats to the privacy or to the ability of a person or group to freely express themselves or participate in civic events, such as:
-    * Stalking or unwanted and obsessive attention
-    * Targeted content that aims to harass, intimidate, or silence someone else's voice
-    * Voter suppression or intimidation
+Trademark policy
+================
 
-We also consider the time frame within which the content may be likely to impact public safety or cause serious harm, and are more likely to remove content under this policy if immediate harm is likely to result.
+### Overview 
 
-Posts with misleading media that are not likely to result in immediate harm but still have a potential to impact public safety, result in harm, or cause widespread confusion towards a public issue (health, environment, safety, human rights and equality, immigration, and social and political stability) may be labeled to reduce their spread and to provide additional context. 
+**April 2023**
 
-While we have other rules also intended to address these forms of harm, including our policies on violent threats, civic integrity, and hateful conduct, we will err toward removal in borderline cases that might otherwise not violate existing rules for Posts that include misleading media.
+**You may not violate others’ intellectual property rights, including copyright and trademark.**
 
-### What is not a violation of this policy 
+A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
+  
 
-We seek to protect public conversation surrounding various issues. Media often accompany these conversations and encourage further discourse. In the absence of other policy violations, the following are generally not in violation of this policy:
+### What is in violation of this policy? 
 
-* **Memes or satire,** provided these do not cause significant confusion about the authenticity of the media;
-* **Animations, illustrations, and cartoons,** provided these do not cause significant confusion about the authenticity of the media.
-* **Commentary, reviews, opinions, and/or reactions.** Sharing media with edits that only add commentary, reviews, opinions, or reactions allows for further debate and discourse relating to various issues and are not in violation of this policy.
-* **Counterspeech.** We allow for direct responses to misleading information which seek to undermine its impact by correcting the record, amplifying credible information, and educating the wider community about the prevalence and dynamics of misleading information.
+Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
+ 
 
-### What happens if you violate this policy? 
+### What is not a violation of this policy? 
 
-The consequences for violating our synthetic and manipulated media policy depends on the severity of the violation.
+Referencing another’s trademark is not automatically a violation of Twitter's trademark policy. Examples of non-violations include:
 
-**Post Deletion  
-**For high-severity violations of the policy, including misleading media that have a serious risk of harm to individuals or communities, we will require you to remove this content.
+* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
+* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
 
-**Labeling**  
-In circumstances where we do not remove content which violates this policy, we may provide additional context on posts sharing the misleading media where they appear on X. This means we may:
+Trademark policy
+================
 
-* Apply a label and/or warning message to the post
-* Show a warning to people before they share or like the post;
-* Reduce the visibility of the post on the platform and/or prevent it from being recommended;
-* Turn off likes, replies, and Reposts; and/or
-* Provide a link to additional explanations or clarifications, such as relevant X policies.
+### Overview 
 
-In most cases, we will take a combination of the above actions on posts we label. 
+**April 2023**
 
-**Account locks**  
-If we determine that an account has advanced or continuously shares harmful misleading narratives that violate the synthetic and manipulated media policy, we may temporarily reduce the visibility of the account or lock or suspend the account. 
+**You may not violate others’ intellectual property rights, including copyright and trademark.**
 
-If you believe that your account was locked or suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
+  
+
+### What is in violation of this policy? 
+
+Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
+ 
+
+### What is not a violation of this policy? 
+
+Referencing another’s trademark is not automatically a violation of Twitter's trademark policy. Examples of non-violations include:
+
+* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
+* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
+
+Trademark policy
+================
+
+### Overview 
+
+**April 2023**
+
+**You may not violate others’ intellectual property rights, including copyright and trademark.**
+
+A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
+  
+
+### What is in violation of this policy? 
+
+Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
+ 
+
+### What is not a violation of this policy? 
+
+Referencing another’s trademark is not automatically a violation of Twitter's trademark policy. Examples of non-violations include:
+
+* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
+* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
+
+Trademark policy
+================
+
+### Overview 
+
+**April 2023**
+
+**You may not violate others’ intellectual property rights, including copyright and trademark.**
+
+A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
+  
+
+### What is in violation of this policy? 
+
+Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
+ 
+
+### What is not a violation of this policy? 
+
+Referencing another’s trademark is not automatically a violation of Twitter's trademark policy. Examples of non-violations include:
+
+* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
+* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
+
+Trademark policy
+================
+
+### Overview 
+
+**April 2023**
+
+**You may not violate others’ intellectual property rights, including copyright and trademark.**
+
+A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
+  
+
+### What is in violation of this policy? 
+
+Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
+ 
+
+### What is not a violation of this policy? 
+
+Referencing another’s trademark is not automatically a violation of Twitter's trademark policy. Examples of non-violations include:
+
+* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
+* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
+
+Trademark policy
+================
+
+### Overview 
+
+**April 2023**
+
+**You may not violate others’ intellectual property rights, including copyright and trademark.**
+
+A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
+  
+
+### What is in violation of this policy? 
+
+Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
+ 
+
+### What is not a violation of this policy? 
+
+Referencing another’s trademark is not automatically a violation of Twitter's trademark policy. Examples of non-violations include:
+
+* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
+* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
+
+Trademark policy
+================
+
+### Overview 
+
+**April 2023**
+
+**You may not violate others’ intellectual property rights, including copyright and trademark.**
+
+A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
+  
+
+### What is in violation of this policy? 
+
+Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
+ 
+
+### What is not a violation of this policy? 
+
+Referencing another’s trademark is not automatically a violation of Twitter's trademark policy. Examples of non-violations include:
+
+* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
+* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
+
+Trademark policy
+================
+
+### Overview 
+
+**April 2023**
+
+**You may not violate others’ intellectual property rights, including copyright and trademark.**
+
+A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
+  
+
+### What is in violation of this policy? 
+
+Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
+ 
+
+### What is not a violation of this policy? 
+
+Referencing another’s trademark is not automatically a violation of Twitter's trademark policy. Examples of non-violations include:
+
+* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
+* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
+
+Trademark policy
+================
+
+### Overview 
+
+**April 2023**
+
+**You may not violate others’ intellectual property rights, including copyright and trademark.**
+
+A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
+  
+
+### What is in violation of this policy? 
+
+Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
+ 
+
+### What is not a violation of this policy? 
+
+Referencing another’s trademark is not automatically a violation of Twitter's trademark policy. Examples of non-violations include:
+
+* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
+* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)  
+    
+
+### Who can report violations of this policy? 
+
+Twitter only investigates requests that are submitted by the trademark holder or their authorized representative e.g., a legal representative or other representative for a brand.   
+ 
+
+### How can I report violations of this policy? 
+
+You can submit a trademark report through our [trademark report form](https://help.twitter.com/forms/trademark). Please provide all the information requested in the form. If you submit an incomplete report, we’ll need to follow up about the missing information. Please note that this will result in a delay in processing your report.
+
+**Note:** We may provide the account holder with your name and other information included in the copy of the report.  
+  
+
+### What happens if you violate this policy?  
+  
+
+If we determine that you violated our trademark policy, we may suspend your account. Depending on the type of violation, we may give you an opportunity to comply with our policies. In other instances, an account may be permanently suspended upon first review. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
 ### Additional resources 
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-Synthetic and manipulated media policy
-======================================
+Trademark policy
+================
 
 ### Overview 
 
-### April 2023
+**April 2023**
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+**You may not violate others’ intellectual property rights, including copyright and trademark.**
+
+A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
+  
+
+### What is in violation of this policy? 
+
+Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
+ 
+
+### What is not a violation of this policy? 
+
+Referencing another’s trademark is not automatically a violation of Twitter's trademark policy. Examples of non-violations include:
+
+* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
+* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
