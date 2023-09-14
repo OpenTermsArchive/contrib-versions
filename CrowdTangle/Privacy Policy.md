@@ -1,6 +1,6 @@
 Data Policy
 
-Effective Date: May 26th, 2022
+Effective Date: September 13th, 2023
 
 CrowdTangle, Inc. (“CrowdTangle,” “we” or “us”) is a social analytic platform that helps publishers and media companies surface stories that matter, measure their social performance and identify influencers on social media platforms (also known as our “Platform Partners”). This Data Policy describes how CrowdTangle processes personal information of users of the CrowdTangle platform (“CrowdTangle Users”), in particular information obtained from CrowdTangle Users on the CrowdTangle website and any other website, online service, or mobile application that we operate and that links to this Data Policy (the “Services”). This Data Policy also describes our practices for handling personal information of individuals who visit, use, or interact with our Platform Partners’ websites and apps who integrate our services. We refer to CrowdTangle Users and Platform Partner users separately throughout this Data Policy, but collectively we refer to each as “you” or “your”.
 
@@ -129,19 +129,13 @@ We generally retain information until it is no longer necessary to serve the pur
 
 _Data Transfers_
 
-CrowdTangle is a corporation based in the United States and our customers are based throughout the world. Due to our location and the fact that we share information globally, both internally within the Meta Companies and externally with our partners (including Platform Partners), and with those you connect and share information with around the world, operationally, we are not able to provide the Services without making these data transfers. Where we transfer personal information from the European Economic Area or Switzerland ("EEA") to a country outside the EEA without an adequacy determination by the EU Commission (a “Restricted Country”, such as the United States), we do so in accordance with the standard contractual clauses approved by the European Commission.
+CrowdTangle is a corporation based in the United States and our customers are based throughout the world.
+
+Where we transfer personal information from the European Economic Area or Switzerland ("EEA") to a country outside the EEA without an adequacy determination by the EU Commission (a “Restricted Country”, such as the United States), we do so in accordance with the standard contractual clauses approved by the European Commission.
 
 Where we transfer personal information from the United Kingdom to a Restricted Country, we do so in accordance with the standard contractual clauses applicable in the United Kingdom.
 
 When we enter into these arrangements, we ensure that your data subject rights are honoured and that you are able to raise concerns about these transfers (see How You Exercise Your Rights for more information). If you have any questions about these arrangements or wish to exercise any of your data subject rights, please contact our Data Protection Officer at [privacy@crowdtangle.com](mailto:privacy@crowdtangle.com).
-
-In addition to the contractual safeguards outlined above that CrowdTangle puts in place for personal information that is transferred from the EEA and/ or the United Kingdom to a Restricted Country, CrowdTangle is certified under the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (collectively, “Privacy Shield”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, Switzerland, and the United Kingdom to the United States, as described in our [certification](https://www.privacyshield.gov/participant?id=a2zt0000000PJWFAA4&status=Active). To learn more about the Privacy Shield program, and to view our certification, please visit [http://privacyshield.gov](http://privacyshield.gov/). While CrowdTangle is certified under the Privacy Shield program, the current legal mechanisms for CrowdTangle’s international data transfers are the applicable adequacy decisions or standard contractual clauses, as explained in the paragraphs above.
-
-Under the Privacy Shield Principles, individuals have the right to opt out of (i) disclosures of their personal information to third parties; or (ii) uses of their personal information for a purpose that is materially different from the purpose(s) for which it was originally collected or subsequently authorized by the individual. Individuals also have the right under the Privacy Shield Principles to access, correct, amend, or delete their personal information that is inaccurate or has been processed in violation of the Privacy Shield Principles, subject to certain exceptions.
-
-In compliance with the Privacy Shield Principles, CrowdTangle commits to resolve complaints about our collection or use of your personal information. EEA and United Kingdom individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at [privacy@crowdtangle.com](mailto:privacy@crowdtangle.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request).
-
-The Federal Trade Commission has jurisdiction over CrowdTangle’s compliance with the Privacy Shield. In certain circumstances, you may be able to invoke binding arbitration with respect to adherence to the Privacy Shield. If CrowdTangle shares personal information with certain third parties, CrowdTangle may be liable if those parties process that information in a manner that is inconsistent with the Privacy Shield Principles.
 
 ### Contact Information
 
