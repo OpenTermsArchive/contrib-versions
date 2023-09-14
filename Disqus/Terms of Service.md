@@ -6,7 +6,7 @@ Disqus' Terms of Service for Users and Publishers.
 
 Written by Disqus
 
-Updated over a week ago
+Updated yesterday
 
 DISQUS TERMS
 ============
@@ -40,7 +40,7 @@ By creating a Disqus account, you agree to these Terms. When creating your accou
 
 **Privacy.** 
 
-The [Disqus Privacy Policy](https://help.disqus.com/terms-and-policies/disqus-privacy-policy) describes how we use and process the information you provide to us when you use the Service. You understand that by using the Services you consent to the collection, use and disclosure of your information as set forth in our Privacy Policy. 
+The [Disqus Privacy Policy](https://disqus.com/privacy-policy/) describes how we use and process the information you provide to us when you use the Service. You understand that by using the Services you consent to the collection, use and disclosure of your information as set forth in our Privacy Policy. 
 
 **Content on the Services**. 
 
@@ -150,7 +150,7 @@ Contact Disqus:
 
 3 Park Ave 33rd floor, New York, NY 10016
 
-[Click here](https://help.disqus.com/customer/portal/articles/466259-privacy-policy) to view the Privacy Policy.
+[Click here](https://disqus.com/privacy-policy/) to view the Privacy Policy.
 
 PUBLISHER TERMS OF SERVICE AGREEMENT
 ====================================
