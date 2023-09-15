@@ -1,1907 +1,288 @@
-Non-consensual nudity policy
-============================
+Misleading and deceptive identities policy
+==========================================
 
-[Take the survey](https://www.research.net/r/QFBQSNC)
+Overview
+--------
 
-### Overview
+April 2023
+==========
 
-**  
-December 2021**
+**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
+==============================================================================================================================
 
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
 
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [Twitter Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
+Misleading and deceptive identities policy
+==========================================
 
-### What is a violation of this policy?
+Overview
+--------
 
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
+April 2023
+==========
 
-Examples of the types of content that violate this policy include, but are not limited to:  
+**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
+==============================================================================================================================
 
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
+We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
 
-### What is not a violation of this policy?
+Misleading and deceptive identities policy
+==========================================
 
-  
-Pornography and other forms of consensually produced adult content are allowed on Twitter, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+Overview
+--------
 
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you Tweet as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
+April 2023
+==========
 
-### Who can report violations of this policy?
+**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
+==============================================================================================================================
 
-  
-Because Twitter allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
+We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
 
-**Content reportable by anyone**
+Misleading and deceptive identities policy
+==========================================
 
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+Overview
+--------
 
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
+April 2023
+==========
 
-**Content reportable by featured individual(s)**
+**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
+==============================================================================================================================
 
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
+We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
 
-### How can I report violations of this policy?
+Misleading and deceptive identities policy
+==========================================
 
-**  
-In-app**
+Overview
+--------
 
-You can report this content for review in-app as follows:
+April 2023
+==========
 
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
+**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
+==============================================================================================================================
 
-**Desktop**
+We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
 
-You can report this content for review via desktop as follows:
+Misleading and deceptive identities policy
+==========================================
 
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
+Overview
+--------
 
-**Report form**  
+April 2023
+==========
 
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
+**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
+==============================================================================================================================
 
-### What happens if you violate this policy?
+We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
 
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+Misleading and deceptive identities policy
+==========================================
 
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
+Overview
+--------
 
-### Additional resources
+April 2023
+==========
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
+==============================================================================================================================
 
-Non-consensual nudity policy
-============================
+We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
 
-[Take the survey](https://www.research.net/r/QFBQSNC)
+Misleading and deceptive identities policy
+==========================================
 
-### Overview
+Overview
+--------
 
-**  
-December 2021**
+April 2023
+==========
 
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
+==============================================================================================================================
 
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [Twitter Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
+We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
 
-### What is a violation of this policy?
+Misleading and deceptive identities policy
+==========================================
 
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
+Overview
+--------
 
-Examples of the types of content that violate this policy include, but are not limited to:  
+April 2023
+==========
 
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
+**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
+==============================================================================================================================
 
-### What is not a violation of this policy?
+We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
 
-  
-Pornography and other forms of consensually produced adult content are allowed on Twitter, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+Misleading and deceptive identities policy
+==========================================
 
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you Tweet as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
+Overview
+--------
 
-### Who can report violations of this policy?
+April 2023
+==========
 
-  
-Because Twitter allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
+**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
+==============================================================================================================================
 
-**Content reportable by anyone**
+We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
 
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+Misleading and deceptive identities policy
+==========================================
 
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
+Overview
+--------
 
-**Content reportable by featured individual(s)**
+April 2023
+==========
 
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
+**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
+==============================================================================================================================
 
-### How can I report violations of this policy?
+We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
 
-**  
-In-app**
+Misleading and deceptive identities policy
+==========================================
 
-You can report this content for review in-app as follows:
+Overview
+--------
 
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
+April 2023
+==========
 
-**Desktop**
+**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
+==============================================================================================================================
 
-You can report this content for review via desktop as follows:
+We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
 
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
+Misleading and deceptive identities policy
+==========================================
 
-**Report form**  
+Overview
+--------
 
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
+April 2023
+==========
 
-### What happens if you violate this policy?
+**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
+==============================================================================================================================
 
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
 
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
+Misleading and deceptive identities policy
+==========================================
 
-### Additional resources
+Overview
+--------
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+April 2023
+==========
 
-Non-consensual nudity policy
-============================
+**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
+==============================================================================================================================
 
-[Take the survey](https://www.research.net/r/QFBQSNC)
+We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
 
-### Overview
+Misleading and deceptive identities policy
+==========================================
 
-**  
-December 2021**
+Overview
+--------
 
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+April 2023
+==========
 
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [Twitter Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
+**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
+==============================================================================================================================
 
-### What is a violation of this policy?
+We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
 
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
+Misleading and deceptive identities policy
+==========================================
 
-Examples of the types of content that violate this policy include, but are not limited to:  
+Overview
+--------
 
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
+April 2023
+==========
 
-### What is not a violation of this policy?
+**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
+==============================================================================================================================
 
-  
-Pornography and other forms of consensually produced adult content are allowed on Twitter, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
 
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you Tweet as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
+Misleading and deceptive identities policy
+==========================================
 
-### Who can report violations of this policy?
+April 2023
+==========
 
-  
-Because Twitter allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
+**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
+==============================================================================================================================
 
-**Content reportable by anyone**
+We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
 
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+We prohibit the following behaviors under this policy:
 
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
+**Impersonation  
+**
 
-**Content reportable by featured individual(s)**
+You may not pose as an existing person, group, or organization to mislead others about who you are or who you represent. Accounts that violate this policy will misrepresent their identity by using **at least two elements** of another identity, such as the name, image, or false claims of affiliation with another individual or organization in their profile or posts.
 
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
+**Deceptive Identities**
 
-### How can I report violations of this policy?
+You may not pose as someone who doesn’t exist to mislead others about who you are or who you represent. This includes using at least one element of someone else's identity on your profile or posts in a misleading way, such as using another individual’s image or making a false statement of affiliation with an existing individual or entity. We also consider accounts to be deceptive if they use a computer generated image of a person to pose as someone who doesn’t exist.
 
-**  
-In-app**
+We believe giving people choice in terms of how they represent themselves online enables them to express themselves and control their privacy. X allows the use of pseudonymous accounts, meaning an account’s profile is not required to use the name or image of the account owner. Accounts that appear similar to others on X are not in violation of this policy, so long as their purpose is not to deceive or manipulate others. Accounts that share your name but have no other commonalities are not in violation of this policy.
 
-You can report this content for review in-app as follows:
+**Parody, Commentary, or Fan Accounts**
 
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
+Accounts that depict another person, group, or organization in their profile to discuss, satirize, or share information about that entity are not in violation of this policy. While these accounts may use elements of another’s identity, they also include profile language or other indicators that inform people on X that the account is not affiliated with the subject of the profile.
 
-**Desktop**
+To avoid confusing others about an account’s affiliation, Parody, Commentary, and Fan accounts must distinguish themselves in their account name and in their bio. Accounts that fail to sufficiently distinguish themselves are considered non-compliant and in violation of this policy.
 
-You can report this content for review via desktop as follows:
+* **Account name:** The account name should clearly indicate that the account is not affiliated with the subject portrayed in the profile. Accounts can indicate this by incorporating words such as, but not limited to, "parody," "fake," "fan," or "commentary.” This language should be stated in a way that can be understood by any audience and should not be contradicted by other affiliation terminology such as “official.” Please note, an account name is separate from the username (i.e. @handle).
+* **Bio:** The bio should clearly state that the account is not affiliated with the subject portrayed in the profile. Non-affiliation can be indicated by incorporating words such as, but not limited to, “not affiliated with,” "parody," "fake," "fan," or "commentary.” This language should be stated in a way that can be understood by any audience.
 
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
+If you believe an account is posing as you or your brand, you can file a report [here](https://help.twitter.com/forms/impersonation). If you believe an account is using a deceptive fake identity or misusing the identity of somebody else, you can flag it as a bystander by [reporting](https://help.twitter.com/en/rules-and-policies/twitter-report-violation.html) directly from the account’s profile.
 
-**Report form**  
+In cases where an account is suspected of misusing a specific individual or entity’s identity, we may need more information to determine whether the account is run or authorized by the entity portrayed in the profile. To ensure we have enough context, we may need a report from the portrayed party in order to take action.
 
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
+The consequences for violating the policy depend on the severity and type of violation, as well as an account’s history of previous violations. The actions we take may include the following:
 
-### What happens if you violate this policy?
+**Profile modifications**
 
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+If your account is potentially confusing in terms of its affiliation, including as a non-compliant parody, commentary or fan account, we may require you to edit the content on your profile. If you violate this policy again after your first warning, your account may be suspended.
 
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
+**Suspension**  
 
-### Additional resources
+If you are engaged in impersonation or are using a deceptive identity, we may suspend your account. If we believe you may be in violation of this policy, we may require you to provide government issued identification (such as a driver’s license or passport) in order to reinstate your account.   
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+If you believe that your account was locked or suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-Non-consensual nudity policy
-============================
+To report an account that may be misusing your trademark, please see our [trademark policy.](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) For information about our spam rules, you can read more on our [platform manipulation and spam](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html) policy. You may submit feedback using this [form](https://help.twitter.com/en/twitter-for-you).
 
-[Take the survey](https://www.research.net/r/QFBQSNC)
+Misleading and deceptive identities policy
+==========================================
 
-### Overview
+Overview
+--------
 
-**  
-December 2021**
+April 2023
+==========
 
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
+==============================================================================================================================
 
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [Twitter Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on Twitter, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you Tweet as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because Twitter allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
-
-**Content reportable by anyone**
-
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
-
-### How can I report violations of this policy?
-
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
-
-### What happens if you violate this policy?
-
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [Twitter Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on Twitter, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you Tweet as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because Twitter allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
-
-**Content reportable by anyone**
-
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
-
-### How can I report violations of this policy?
-
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
-
-### What happens if you violate this policy?
-
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [Twitter Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on Twitter, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you Tweet as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because Twitter allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
-
-**Content reportable by anyone**
-
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
-
-### How can I report violations of this policy?
-
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
-
-### What happens if you violate this policy?
-
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [Twitter Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on Twitter, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you Tweet as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because Twitter allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
-
-**Content reportable by anyone**
-
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
-
-### How can I report violations of this policy?
-
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
-
-### What happens if you violate this policy?
-
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [Twitter Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on Twitter, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you Tweet as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because Twitter allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
-
-**Content reportable by anyone**
-
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
-
-### How can I report violations of this policy?
-
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
-
-### What happens if you violate this policy?
-
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [Twitter Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on Twitter, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you Tweet as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because Twitter allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
-
-**Content reportable by anyone**
-
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
-
-### How can I report violations of this policy?
-
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
-
-### What happens if you violate this policy?
-
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [Twitter Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on Twitter, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you Tweet as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because Twitter allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
-
-**Content reportable by anyone**
-
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
-
-### How can I report violations of this policy?
-
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
-
-### What happens if you violate this policy?
-
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [Twitter Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on Twitter, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you Tweet as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because Twitter allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
-
-**Content reportable by anyone**
-
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
-
-### How can I report violations of this policy?
-
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
-
-### What happens if you violate this policy?
-
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [Twitter Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on Twitter, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you Tweet as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because Twitter allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
-
-**Content reportable by anyone**
-
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
-
-### How can I report violations of this policy?
-
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
-
-### What happens if you violate this policy?
-
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [Twitter Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on Twitter, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you Tweet as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because Twitter allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
-
-**Content reportable by anyone**
-
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
-
-### How can I report violations of this policy?
-
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
-
-### What happens if you violate this policy?
-
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [Twitter Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on Twitter, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you Tweet as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because Twitter allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
-
-**Content reportable by anyone**
-
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
-
-### How can I report violations of this policy?
-
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
-
-### What happens if you violate this policy?
-
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [Twitter Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on Twitter, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you Tweet as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because Twitter allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
-
-**Content reportable by anyone**
-
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
-
-### How can I report violations of this policy?
-
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
-
-### What happens if you violate this policy?
-
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [Twitter Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on Twitter, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you Tweet as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because Twitter allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
-
-**Content reportable by anyone**
-
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
-
-### How can I report violations of this policy?
-
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
-
-### What happens if you violate this policy?
-
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [Twitter Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on Twitter, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you Tweet as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because Twitter allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
-
-**Content reportable by anyone**
-
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
-
-### How can I report violations of this policy?
-
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
-
-### What happens if you violate this policy?
-
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [Twitter Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on Twitter, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you Tweet as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because Twitter allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
-
-**Content reportable by anyone**
-
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
-
-### How can I report violations of this policy?
-
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report Tweet** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 Tweets to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
-
-### What happens if you violate this policy?
-
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
