@@ -549,6 +549,7 @@ Privacy-related pages
 * [Glossary of key terms](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms")
 * [Subpoena FAQ](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Subpoena_FAQ "Special:MyLanguage/Policy:Privacy policy/Subpoena FAQ")
 * [Data retention guidelines](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Data_retention_guidelines "Special:MyLanguage/Legal:Data retention guidelines")
+* [Data publication guidelines](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Data_publication_guidelines "Special:MyLanguage/Legal:Data publication guidelines")
 * [Cookie statement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement "Special:MyLanguage/Policy:Cookie statement")
 * [Access to nonpublic personal data](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy "Special:MyLanguage/Policy:Access to nonpublic personal data policy")
     * [Confidentiality agreement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Confidentiality_agreement_for_nonpublic_information "Special:MyLanguage/Legal:Confidentiality agreement for nonpublic information")
