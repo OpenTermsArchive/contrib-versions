@@ -46,7 +46,7 @@ Advertising policies
 * [ADSP account suspension for Malvertising Policy](https://advertising.amazon.com/resources/ad-policy/adsp-account-suspension-for-malvertising-policy?ref_=a20m_us_spcs_malpo)
 * [Advertising and the EU general data protection regulation](https://advertising.amazon.com/resources/ad-policy/eu-data-protection-and-privacy?ref_=a20m_us_spcs_gdpr)
 * [Advertising and the BR general data protection law](https://advertising.amazon.com/resources/ad-policy/lgpd?ref_=a20m_us_spcs_lgpd)
-* [Alexa Home Screen guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/alexa-home-screen?ref_=a20m_us_spcs_alxhs)
+* [Advertising on Alexa Guidelines and Acceptance Policies](https://advertising.amazon.com/resources/ad-policy/alexa-home-screen?ref_=a20m_us_spcs_alxhs)
 * [Amazon Ads API policies](https://advertising.amazon.com/resources/ad-policy/api?ref_=a20m_us_spcs_api)
 * [Amazon Ads guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/creative-acceptance?ref_=a20m_us_spcs_cap)
 * [Amazon Ad Server advertising policies](https://advertising.amazon.com/resources/ad-policy/amazon-ad-server?ref_=a20m_us_spcs_aas)
