@@ -7,7 +7,7 @@ Policy:Terms of Use
 
  Add languages
 
-[Add links](https://www.wikidata.org/wiki/Special:NewItem?site=foundationwiki&page=Policy%3ATerms+of+Use "Add interlanguage links")
+[Add links](https://www.wikidata.org/wiki/Special:EntityPage/Q122595223#sitelinks-wikipedia "Add interlanguage links")
 
 * [Policy](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use "View the subject page [c]")
 * [Discussion](https://foundation.wikimedia.org/wiki/Policy_talk:Terms_of_Use "Discussion about the content page [t]")
@@ -38,6 +38,7 @@ General
 * [Special pages](https://foundation.wikimedia.org/wiki/Special:SpecialPages "A list of all special pages [q]")
 * [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=267246 "Permanent link to this revision of this page")
 * [Page information](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=info "More information about this page")
+* [Wikidata item](https://www.wikidata.org/wiki/Special:EntityPage/Q122595223 "Link to connected data repository item [g]")
 
 Print/export
 
@@ -149,6 +150,7 @@ Other languages:
 * [ລາວ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lo "ນະໂຍບາຍ: ຂໍ້ກຳນົດການໃຊ້ງານ (10% translated)")
 * [ပအိုဝ်ႏဘာႏသာႏ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/blk "မူဝါဒ:သုင်ꩻအဝ်ႏ ဖွောင်ꩻရဲဉ်ႏဖုံႏ (1% translated)")
 * [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/my "Policy:အသုံးပြုသည်စ့ည်းမျဥ်းများ (6% translated)")
+* [მარგალური](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/xmf "გჷმორინაფაშ წესეფი (23% translated)")
 * [ქართული](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ka "გამოყენების პირობები (37% translated)")
 * [ភាសាខ្មែរ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/km "លក្ខខណ្ឌ​ក្នុងការ​ប្រើប្រាស់ (6% translated)")
 * [ᱥᱟᱱᱛᱟᱲᱤ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sat "ᱩᱠᱩᱣᱟᱜ : ᱵᱮᱵᱷᱟᱨ ᱨᱮᱭᱟᱜ ᱟᱹᱱ ᱟᱹᱨᱤ (5% translated)")
