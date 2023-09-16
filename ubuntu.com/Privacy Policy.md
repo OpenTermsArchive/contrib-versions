@@ -338,8 +338,10 @@ The open source software platform that runs everywhere from the smartphone, the 
 * [AI / ML](https://ubuntu.com/ai) [AI / ML](#)
     ---------------------------------------------
     
-    * [What is Kubeflow](https://ubuntu.com/ai/what-is-kubeflow)
-    * [Services](https://ubuntu.com/ai/services)
+    * [MLOps](https://ubuntu.com/ai/mlops)
+    * [Kubeflow](https://ubuntu.com/ai/what-is-kubeflow)
+    * [MLflow](https://ubuntu.com/ai/mlflow)
+    * [Consulting](https://ubuntu.com/ai/consulting)
     * [Roadshow](https://ubuntu.com/ai/roadshow)
 * [Robotics](https://ubuntu.com/robotics) [Robotics](#)
     -----------------------------------------------------
