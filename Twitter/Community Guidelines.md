@@ -1,288 +1,554 @@
-Misleading and deceptive identities policy
-==========================================
+Perpetrators of Violent Attacks
+===============================
 
 Overview
---------
 
-April 2023
-==========
+**February 2023**
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-Misleading and deceptive identities policy
-==========================================
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-Overview
---------
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-April 2023
-==========
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+**What is a manifesto?**
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-Misleading and deceptive identities policy
-==========================================
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-Overview
---------
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-April 2023
-==========
-
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
-
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
-
-Misleading and deceptive identities policy
-==========================================
+Perpetrators of Violent Attacks
+===============================
 
 Overview
---------
 
-April 2023
-==========
+**February 2023**
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-Misleading and deceptive identities policy
-==========================================
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-Overview
---------
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-April 2023
-==========
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+**What is a manifesto?**
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-Misleading and deceptive identities policy
-==========================================
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-Overview
---------
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-April 2023
-==========
-
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
-
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
-
-Misleading and deceptive identities policy
-==========================================
+Perpetrators of Violent Attacks
+===============================
 
 Overview
---------
 
-April 2023
-==========
+**February 2023**
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-Misleading and deceptive identities policy
-==========================================
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-Overview
---------
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-April 2023
-==========
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+**What is a manifesto?**
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-Misleading and deceptive identities policy
-==========================================
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-Overview
---------
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-April 2023
-==========
-
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
-
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
-
-Misleading and deceptive identities policy
-==========================================
+Perpetrators of Violent Attacks
+===============================
 
 Overview
---------
 
-April 2023
-==========
+**February 2023**
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-Misleading and deceptive identities policy
-==========================================
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-Overview
---------
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-April 2023
-==========
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+**What is a manifesto?**
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-Misleading and deceptive identities policy
-==========================================
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-Overview
---------
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-April 2023
-==========
-
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
-
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
-
-Misleading and deceptive identities policy
-==========================================
+Perpetrators of Violent Attacks
+===============================
 
 Overview
---------
 
-April 2023
-==========
+**February 2023**
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-Misleading and deceptive identities policy
-==========================================
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-Overview
---------
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-April 2023
-==========
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+**What is a manifesto?**
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-Misleading and deceptive identities policy
-==========================================
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-Overview
---------
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-April 2023
-==========
-
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
-
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
-
-Misleading and deceptive identities policy
-==========================================
+Perpetrators of Violent Attacks
+===============================
 
 Overview
---------
 
-April 2023
-==========
+**February 2023**
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-Misleading and deceptive identities policy
-==========================================
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-April 2023
-==========
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+**What is a manifesto?**
 
-We prohibit the following behaviors under this policy:
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-**Impersonation  
-**
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-You may not pose as an existing person, group, or organization to mislead others about who you are or who you represent. Accounts that violate this policy will misrepresent their identity by using **at least two elements** of another identity, such as the name, image, or false claims of affiliation with another individual or organization in their profile or posts.
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-**Deceptive Identities**
-
-You may not pose as someone who doesn’t exist to mislead others about who you are or who you represent. This includes using at least one element of someone else's identity on your profile or posts in a misleading way, such as using another individual’s image or making a false statement of affiliation with an existing individual or entity. We also consider accounts to be deceptive if they use a computer generated image of a person to pose as someone who doesn’t exist.
-
-We believe giving people choice in terms of how they represent themselves online enables them to express themselves and control their privacy. X allows the use of pseudonymous accounts, meaning an account’s profile is not required to use the name or image of the account owner. Accounts that appear similar to others on X are not in violation of this policy, so long as their purpose is not to deceive or manipulate others. Accounts that share your name but have no other commonalities are not in violation of this policy.
-
-**Parody, Commentary, or Fan Accounts**
-
-Accounts that depict another person, group, or organization in their profile to discuss, satirize, or share information about that entity are not in violation of this policy. While these accounts may use elements of another’s identity, they also include profile language or other indicators that inform people on X that the account is not affiliated with the subject of the profile.
-
-To avoid confusing others about an account’s affiliation, Parody, Commentary, and Fan accounts must distinguish themselves in their account name and in their bio. Accounts that fail to sufficiently distinguish themselves are considered non-compliant and in violation of this policy.
-
-* **Account name:** The account name should clearly indicate that the account is not affiliated with the subject portrayed in the profile. Accounts can indicate this by incorporating words such as, but not limited to, "parody," "fake," "fan," or "commentary.” This language should be stated in a way that can be understood by any audience and should not be contradicted by other affiliation terminology such as “official.” Please note, an account name is separate from the username (i.e. @handle).
-* **Bio:** The bio should clearly state that the account is not affiliated with the subject portrayed in the profile. Non-affiliation can be indicated by incorporating words such as, but not limited to, “not affiliated with,” "parody," "fake," "fan," or "commentary.” This language should be stated in a way that can be understood by any audience.
-
-If you believe an account is posing as you or your brand, you can file a report [here](https://help.twitter.com/forms/impersonation). If you believe an account is using a deceptive fake identity or misusing the identity of somebody else, you can flag it as a bystander by [reporting](https://help.twitter.com/en/rules-and-policies/twitter-report-violation.html) directly from the account’s profile.
-
-In cases where an account is suspected of misusing a specific individual or entity’s identity, we may need more information to determine whether the account is run or authorized by the entity portrayed in the profile. To ensure we have enough context, we may need a report from the portrayed party in order to take action.
-
-The consequences for violating the policy depend on the severity and type of violation, as well as an account’s history of previous violations. The actions we take may include the following:
-
-**Profile modifications**
-
-If your account is potentially confusing in terms of its affiliation, including as a non-compliant parody, commentary or fan account, we may require you to edit the content on your profile. If you violate this policy again after your first warning, your account may be suspended.
-
-**Suspension**  
-
-If you are engaged in impersonation or are using a deceptive identity, we may suspend your account. If we believe you may be in violation of this policy, we may require you to provide government issued identification (such as a driver’s license or passport) in order to reinstate your account.   
-
-If you believe that your account was locked or suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-To report an account that may be misusing your trademark, please see our [trademark policy.](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) For information about our spam rules, you can read more on our [platform manipulation and spam](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html) policy. You may submit feedback using this [form](https://help.twitter.com/en/twitter-for-you).
-
-Misleading and deceptive identities policy
-==========================================
+Perpetrators of Violent Attacks
+===============================
 
 Overview
---------
 
-April 2023
-==========
+**February 2023**
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
+
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
+
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
+
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
+
+**What is a manifesto?**
+
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
+
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
+
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
+
+Perpetrators of Violent Attacks
+===============================
+
+Overview
+
+**February 2023**
+
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
+
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
+
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
+
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
+
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
+
+**What is a manifesto?**
+
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
+
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
+
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
+
+Perpetrators of Violent Attacks
+===============================
+
+Overview
+
+**February 2023**
+
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
+
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
+
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
+
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
+
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
+
+**What is a manifesto?**
+
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
+
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
+
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
+
+Perpetrators of Violent Attacks
+===============================
+
+Overview
+
+**February 2023**
+
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
+
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
+
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
+
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
+
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
+
+**What is a manifesto?**
+
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
+
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
+
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
+
+Perpetrators of Violent Attacks
+===============================
+
+Overview
+
+**February 2023**
+
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
+
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
+
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
+
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
+
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
+
+**What is a manifesto?**
+
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
+
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
+
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
+
+Perpetrators of Violent Attacks
+===============================
+
+Overview
+
+**February 2023**
+
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
+
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
+
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
+
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
+
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
+
+**What is a manifesto?**
+
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
+
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
+
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
+
+Perpetrators of Violent Attacks
+===============================
+
+Overview
+
+**February 2023**
+
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
+
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
+
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
+
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
+
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
+
+**What is a manifesto?**
+
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
+
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
+
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
+
+Perpetrators of Violent Attacks
+===============================
+
+Overview
+
+**February 2023**
+
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
+
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
+
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
+
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
+
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
+
+**What is a manifesto?**
+
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
+
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
+
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
+
+Perpetrators of Violent Attacks
+===============================
+
+Overview
+
+**February 2023**
+
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
+
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
+
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
+
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
+
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
+
+**What is a manifesto?**
+
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
+
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
+
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
+
+Perpetrators of Violent Attacks
+===============================
+
+Overview
+
+**February 2023**
+
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
+
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
+
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
+
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
+
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
+
+**What is a manifesto?**
+
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
+
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
+
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
+
+Perpetrators of Violent Attacks
+===============================
+
+Overview
+
+**February 2023**
+
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
+
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
+
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
+
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
+
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
+
+**What is a manifesto?**
+
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
+
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
+
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies. 
+
+What is in violation of this policy?
+
+Under this policy, we will permanently suspend accounts belonging to apparent individual perpetrators of terrorist, violent extremist, and mass violent attacks, as well as accounts dedicated to the sharing of harmful and violent content associated with the perpetrators or the violent attack.
+
+Additionally, you may not Post any of the following:
+
+**Manifestos and other content created by perpetrators**
+
+We may remove content containing manifestos and other content created by individual perpetrators or their accomplices. Violations can occur via Posts, Spaces, images, and videos, including live video. Examples of content that we may action under this policy include, but are not limited to:
+
+* Sharing or linking full-length manifestos, regardless of context
+* Any Posts containing excerpt(s) of a reproduced manifesto (edited or sliced) or of the original manifesto, except when shared in a newsworthy context.
+    * Regardless of context, it is always prohibited to share any of the following: 
+        
+        * Excerpt(s) that convey suggestions about how to arm oneself and choose targets.
+        * Excerpt(s) that share hateful slogans, symbols, memes, and/or hateful conspiracy theories such as the Great Replacement Theory.
+        * Excerpt(s) outlining the perpetrator’s ideology, tactical choices, and/or plan of attack.
+* Sharing perpetrator-generated media related to the attack in all instances. This includes, but is not limited to:
+    
+    * Media filmed by the perpetrator of the attack
+    * Memes, stickers, or graffiti shared and/or produced by the perpetrator
+    * Media of the weapons utilized in the attack
+* Other perpetrator-generated content that is not associated with the violent attack but that is specific to the promotion or support of violence.
+* Bystander-generated content of the attack as the attack is taking place, such as content that displays a moment of the assault or death, dead bodies, content that identifies victims, or content that depicts the perpetrator(s) conducting the attack.
+
+**Multimedia content, URLs, and hashtags**
+
+We may put a sensitive media interstitial over some media. The interstitial places images and videos behind a warning message that needs to be acknowledged before the media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. The types of media we may interstitial include, but are not limited to:
+
+* Media depicting a perpetrator 
+* Excerpts of the attacker’s manifesto that are shared as part of a news report
+
+We may label URLs linking directly to documents believed to be a manifesto to prevent these URLs from being shared on X.
+
+We may denylist hashtags identifying perpetrators on trends to reduce the visibility of perpetrators’ identities, as well as all hashtags that are used uniquely to surface manifestos.
+
+What is not a violation of this policy?  
+  
+
+* Accounts that belong to
+    * Bystanders who happened to be close to the violent attack and/or managed to stop the attack, for example someone who shot the perpetrator(s)
+    * Perpetrators whose convictions were overturned after a not guilty verdict
+* Content depicting any of the following:
+    * The use of force by law enforcement and military personnel, as part of the scope of their official functions, that resulted in casualties;
+    * Violence against military personnel and law enforcement;
+    * Human rights abuses
+    * Violent attacks that are part of an armed conflict
+    * Violence used as a means of self defense
+    * Violent attacks, where there is probable doubt about the intent behind the attack
+    * Cases of vandalism and attacks resulting in damage to essential infrastructure
+    * Sharing a few sentences from the manifesto(s), either in a newsworthy context or to bring more awareness to the rise of hate or violence towards a specific group. For example: “the shooter said he wants to eradicate x group” is not actionable under this policy.
+
+Who can report violations of this policy?
+
+  
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+
+What happens if I violate this policy? 
+
+  
+The consequences for violating our violent events policy depends on the severity of the violation. Accounts maintained by perpetrators of terrorist, violent extremist, or mass violent attacks will be permanently suspended. As described above, we may also remove content containing manifestos and other content created by perpetrators or their accomplices. 
+
+In addition, we will also remove content that violates our policies regarding [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html) or [other parts of Our Rules](https://help.twitter.com/en/rules-and-policies.html#general-policies.html).
+
+Additional resources
+
+  
+Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Perpetrators of Violent Attacks
+===============================
+
+Overview
+
+**February 2023**
+
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
+
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
+
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
+
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
+
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
+
+**What is a manifesto?**
+
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
+
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
+
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
