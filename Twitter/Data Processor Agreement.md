@@ -1,7 +1,7 @@
 Additional information about data processing
 ============================================
 
-**This supplements the [Twitter Privacy Policy](https://twitter.com/privacy) to provide additional information about the types of data we collect, where we get it, and how we process and share it.** 
+**This supplements the [X Privacy Policy](https://twitter.com/privacy) to provide additional information about the types of data we collect, where we get it, and how we process and share it.** 
 
 ### Data processing summary 
 
@@ -21,7 +21,7 @@ Operating our services, including:
 
 * [Account creation](https://help.twitter.com/create-twitter-account)
 * [Account controls](https://help.twitter.com/managing-your-account#account-settings)
-* Content creation, including [Tweets](https://help.twitter.com/using-twitter/how-to-tweet), [Retweets](https://help.twitter.com/using-twitter/how-to-retweet), [likes](https://help.twitter.com/using-twitter/liking-tweets-and-moments), and Direct Messages
+* Content creation, including [posts](https://help.twitter.com/using-twitter/how-to-tweet), [reposts](https://help.twitter.com/using-twitter/how-to-retweet), [likes](https://help.twitter.com/using-twitter/liking-tweets-and-moments), and Direct Messages
 * Content display, recommendations, and [ranking](https://blog.twitter.com/engineering/en_us/topics/insights/2017/using-deep-learning-at-scale-in-twitters-timelines.html), such as in your [timeline](https://help.twitter.com/using-twitter/twitter-timeline), [trends](https://help.twitter.com/using-twitter/twitter-trending-faqs), [conversations](https://help.twitter.com/using-twitter/twitter-conversations), [Moments](https://help.twitter.com/using-twitter/twitter-moments), or [search](https://help.twitter.com/using-twitter/twitter-search)
 * Developer products, including our [APIs](https://help.twitter.com/rules-and-policies/twitter-api) and [embeds](https://dev.twitter.com/web/overview)
 * Service-related [notifications](https://help.twitter.com/managing-your-account#notifications) and [customer support](https://help.twitter.com/forms)
@@ -95,7 +95,7 @@ Inferences about your account - such as interests, age, and gender - which we us
 * Recommendations
 * Timeline ranking
 
-You can always review and modify these inferences by visiting [Your Twitter data](https://twitter.com/settings/your_twitter_data).  
+You can always review and modify these inferences by visiting [Your X data](https://twitter.com/settings/your_twitter_data).  
 
 Data
 
@@ -122,7 +122,7 @@ Primary legal basis/bases for processing personal data from the EU, EFTA States,
 
 Processing purpose
 
-[Advertising](https://business.twitter.com/en/help/ads-policies/introduction-to-twitter-ads/twitter-ads-policies.html) we show you on Twitter based on data you provide or we collect on Twitter
+[Advertising](https://business.twitter.com/en/help/ads-policies/introduction-to-twitter-ads/twitter-ads-policies.html) we show you on X based on data you provide or we collect on X
 
 Advertising we show you on other websites or mobile applications based only on information collected there
 
@@ -225,7 +225,7 @@ Primary legal basis/bases for processing personal data from the EU, EFTA States,
 
 Processing purpose
 
-[Personalized advertising](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads): advertising we show you on and off Twitter based on information we collect from you on Twitter, your other activity online, and data from our partners
+[Personalized advertising](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads): advertising we show you on and off X based on information we collect from you on X, your other activity online, and data from our partners
 
 Data
 
@@ -336,7 +336,7 @@ Primary legal basis/bases for processing personal data from the EU, EFTA States,
 Consent
 
   
-Legitimate Interests (only for some Log data collected prior to Twitter account sign up)
+Legitimate Interests (only for some Log data collected prior to X account sign up)
 
 Processing purpose
 
@@ -413,7 +413,7 @@ Consent
 
 Processing purpose
 
-Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about your Twitter activity, related content, Direct Messages, and other Twitter product features
+Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about your X activity, related content, Direct Messages, and other X product features
 
 Data
 
@@ -440,7 +440,7 @@ Primary legal basis/bases for processing personal data from the EU, EFTA States,
 
 Processing purpose
 
-Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about our Twitter business products and third-party services
+Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about our X business products and third-party services
 
 Data
 
@@ -449,7 +449,7 @@ Information you share with us, including:
 * [Basic account information](https://twitter.com/privacy#chapter1.1)
 * [Public information](https://twitter.com/privacy#chapter1.2)
 * [Contact information](https://twitter.com/privacy#chapter1.3)
-* [Non-public communications](https://twitter.com/privacy#chapter1.4) (between you and Twitter)
+* [Non-public communications](https://twitter.com/privacy#chapter1.4) (between you and X)
 * [Payment information](https://twitter.com/privacy#chapter1.5)
 * Account controls
 
@@ -484,7 +484,7 @@ Information we process with your consent, including:
 * [Precise location data](https://help.twitter.com/safety-and-security/twitter-location-services-for-mobile)
 * [Address book data](https://help.twitter.com/using-twitter/upload-your-contacts-to-search-for-friends)
 
-[Twitter for web data](https://help.twitter.com/using-twitter/tailored-suggestions)\*
+[X for web data](https://help.twitter.com/using-twitter/tailored-suggestions)\*
 
 [Devices we infer belong to you](https://help.twitter.com/about-personalization-across-your-devices)
 
@@ -498,7 +498,7 @@ Processing purpose
 
 The processing activities described above:
 
-* [Advertising](https://business.twitter.com/en/help/ads-policies/introduction-to-twitter-ads/twitter-ads-policies.html) we show you on Twitter based on data you provide or we collect on Twitter
+* [Advertising](https://business.twitter.com/en/help/ads-policies/introduction-to-twitter-ads/twitter-ads-policies.html) we show you on X based on data you provide or we collect on X
     
 * Advertising we show you on other websites or mobile applications based only on information collected there
     
@@ -507,7 +507,7 @@ The processing activities described above:
 * Personalizing our services based on the places you’ve been
     
 
-Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about your Twitter activity, related content, Direct Messages, and other Twitter product features
+Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about your X activity, related content, Direct Messages, and other X product features
 
 Data
 
@@ -524,14 +524,14 @@ Consent
 
 Processing purpose
 
-[Additional personalization of our services based on where you see Twitter content across the web](https://help.twitter.com/using-twitter/tailored-suggestions)
+[Additional personalization of our services based on where you see X content across the web](https://help.twitter.com/using-twitter/tailored-suggestions)
 
 Additionally, the processing activities described above:
 
 * [Personalize based on your inferred identity](https://help.twitter.com/about-personalization-across-your-devices)
     
 
-Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about your Twitter activity, related content, Direct Messages, and other Twitter product features
+Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about your X activity, related content, Direct Messages, and other X product features
 
 Data
 
@@ -540,7 +540,7 @@ Information you share with us, including:
 * Account controls
     
 
-[Twitter for web data](https://help.twitter.com/using-twitter/tailored-suggestions)\*
+[X for web data](https://help.twitter.com/using-twitter/tailored-suggestions)\*
 
 [Devices we infer belong to you](https://help.twitter.com/about-personalization-across-your-devices)
 
@@ -550,57 +550,57 @@ Primary legal basis/bases for processing personal data from the EU, EFTA States,
 
 Consent
 
-\* We do not collect Twitter for Web data from browsers that we believe to be located in the European Union or the European Economic Area.
+\* We do not collect X for Web data from browsers that we believe to be located in the European Union or the European Economic Area.
 
 † We set and use cookies as described in [Our use of cookies and similar technologies](https://help.twitter.com/rules-and-policies/twitter-cookies), and if you are in the European Union, an EFTA State, or the United Kingdom with your consent as provided for under Directive 95/46/EC.
 
-❖Twitter also shares non-public personal information with advertisers that are not acting as data processors in order to enable those advertisers to measure their own advertising. As described above, Twitter treats such partnerships as consent-based data processing and Twitter customers located in the European Union, an EFTA state, or the United Kingdom must have their  “Allow additional information sharing with business partners” setting enabled in order for Twitter and its data processors to share their non-public personal information with non-data-processors in such circumstances.
+❖X also shares non-public personal information with advertisers that are not acting as data processors in order to enable those advertisers to measure their own advertising. As described above, X treats such partnerships as consent-based data processing and X customers located in the European Union, an EFTA state, or the United Kingdom must have their  “Allow additional information sharing with business partners” setting enabled in order for X and its data processors to share their non-public personal information with non-data-processors in such circumstances.
 
 ### Legitimate interests analysis summary – inferences about your account 
 
-Twitter uses information that individuals provide and data that it receives (as described in Twitter’s Privacy Policy) to make inferences about the people who use Twitter and content on the platform. This includes inferences like what [topics](https://help.twitter.com/using-twitter/follow-and-unfollow-topics) people may be interested in, how old a person is, what languages a person speaks, and whether the content of one account may be of interest to others on the platform. This helps Twitter offer better services and personalize the content Twitter shows, including ads.
+X uses information that individuals provide and data that it receives (as described in X’s Privacy Policy) to make inferences about the people who use X and content on the platform. This includes inferences like what [topics](https://help.twitter.com/using-twitter/follow-and-unfollow-topics) people may be interested in, how old a person is, what languages a person speaks, and whether the content of one account may be of interest to others on the platform. This helps X offer better services and personalize the content X shows, including ads.
 
-Without these inferences, people would have a harder time finding content that interested them, Twitter would have a more difficult time keeping the platform safe and enjoyable for everyone, and Twitter’s advertising would be less compelling to those who saw it and less valuable to Twitter’s business customers.
+Without these inferences, people would have a harder time finding content that interested them, X would have a more difficult time keeping the platform safe and enjoyable for everyone, and X’s advertising would be less compelling to those who saw it and less valuable to X’s business customers.
 
-To safeguard the rights of those who use our services, if an individual wishes to review and modify information that Twitter has inferred about them, that individual may do so by using [Your Twitter data](https://help.twitter.com/managing-your-account/accessing-your-twitter-data). This service is available both to individuals with a Twitter account and those who do not have an account or are logged out of Twitter.   
+To safeguard the rights of those who use our services, if an individual wishes to review and modify information that X has inferred about them, that individual may do so by using [Your X data](https://help.twitter.com/managing-your-account/accessing-your-twitter-data). This service is available both to individuals with a X account and those who do not have an account or are logged out of X.   
  
 
-### Legitimate interests analysis summary – advertising we show you on Twitter based on data you provide or we collect on Twitter, or on other websites or mobile apps based on information collected there 
+### Legitimate interests analysis summary – advertising we show you on X based on data you provide or we collect on X, or on other websites or mobile apps based on information collected there 
 
-Twitter uses information that individuals provide and data that it receives during the individual’s use of Twitter (as described in Twitter’s Privacy Policy) to improve the quality of the ads the individual sees on the platform. When Twitter shows ads in other apps or websites, Twitter uses information from that app or website to improve the quality of the ads the individual sees.
+X uses information that individuals provide and data that it receives during the individual’s use of X (as described in X’s Privacy Policy) to improve the quality of the ads the individual sees on the platform. When X shows ads in other apps or websites, X uses information from that app or website to improve the quality of the ads the individual sees.
 
-This enables Twitter to give individuals a better product experience that is more in line with their interests and the content they find most meaningful and relevant to them, and to provide more valuable advertising offerings that generate revenue to support and improve its services. Without this processing, Twitter’s advertising would be less compelling to those who saw it and less valuable to Twitter’s business customers.
+This enables X to give individuals a better product experience that is more in line with their interests and the content they find most meaningful and relevant to them, and to provide more valuable advertising offerings that generate revenue to support and improve its services. Without this processing, X’s advertising would be less compelling to those who saw it and less valuable to X’s business customers.
 
-To safeguard the rights of those who use our services, Twitter offers individuals a variety of controls over the ads they see on Twitter.  Individuals may block or mute specific advertisers if they do not wish to see ads from those advertisers, report bad or offensive ads, and flag ads that they do not like. In addition, every ad on Twitter provides a dropdown “Why am I seeing this ad?” option to let the individual see the basis on which the ad was shown to them, such as inferred age, gender, and interests. The individual may then modify that information in [Your Twitter data](https://help.twitter.com/managing-your-account/accessing-your-twitter-data) to affect future ads that they see. This service is available both to individuals with a Twitter account and those who do not have an account or are logged out of Twitter.  
+To safeguard the rights of those who use our services, X offers individuals a variety of controls over the ads they see on X.  Individuals may block or mute specific advertisers if they do not wish to see ads from those advertisers, report bad or offensive ads, and flag ads that they do not like. In addition, every ad on X provides a dropdown “Why am I seeing this ad?” option to let the individual see the basis on which the ad was shown to them, such as inferred age, gender, and interests. The individual may then modify that information in [Your X data](https://help.twitter.com/managing-your-account/accessing-your-twitter-data) to affect future ads that they see. This service is available both to individuals with a X account and those who do not have an account or are logged out of X.  
  
 
 ### Legitimate interests analysis summary – Measuring the effectiveness of advertising we show you 
 
-Twitter uses information that individuals provide and data that it receives (as described in Twitter’s Privacy Policy) to measure the effectiveness of the advertising Twitter shows to individuals. 
+X uses information that individuals provide and data that it receives (as described in X’s Privacy Policy) to measure the effectiveness of the advertising X shows to individuals. 
 
-This enables Twitter to give advertisers a means of better understanding the performance of the advertising they purchase through Twitter. Such advertising measurement offerings are a critical component of Twitter’s business because they enable advertisers to make informed decisions about what kinds of advertisements they should run, when they should run them, what kinds of content they should include, and the audiences they should try to reach. Without this processing, Twitter’s advertising would be less compelling to those who saw it and less valuable to Twitter’s business customers.
+This enables X to give advertisers a means of better understanding the performance of the advertising they purchase through X. Such advertising measurement offerings are a critical component of X’s business because they enable advertisers to make informed decisions about what kinds of advertisements they should run, when they should run them, what kinds of content they should include, and the audiences they should try to reach. Without this processing, X’s advertising would be less compelling to those who saw it and less valuable to X’s business customers.
 
-To safeguard the rights of those who use our services, Twitter primarily offers advertising measurement through data processor partnerships that generate reports for advertisers about key performance indicators of their Twitter advertising campaigns. These data processors are subject to a number of contractual restrictions around how they are permitted to process data received from Twitter, including that they are prohibited from sharing with third parties that are not acting as data processors any Twitter data that by itself can be used to identify an individual. 
+To safeguard the rights of those who use our services, X primarily offers advertising measurement through data processor partnerships that generate reports for advertisers about key performance indicators of their X advertising campaigns. These data processors are subject to a number of contractual restrictions around how they are permitted to process data received from X, including that they are prohibited from sharing with third parties that are not acting as data processors any X data that by itself can be used to identify an individual. 
 
-Twitter also shares non-public personal information with advertisers that are not acting as data processors in order to enable those advertisers to measure their own advertising. As described above, Twitter treats such partnerships as consent-based data processing and Twitter customers located in the European Union, an EFTA state, or the United Kingdom must have their  “Allow additional information sharing with business partners” setting enabled in order for Twitter and its data processors to share their non-public personal information with non-data-processors in such circumstances.  
+X also shares non-public personal information with advertisers that are not acting as data processors in order to enable those advertisers to measure their own advertising. As described above, X treats such partnerships as consent-based data processing and X customers located in the European Union, an EFTA state, or the United Kingdom must have their  “Allow additional information sharing with business partners” setting enabled in order for X and its data processors to share their non-public personal information with non-data-processors in such circumstances.  
  
 
 ### Legitimate interests analysis summary – enabling advertisers to exclude an advertiser-submitted audience from being eligible for an advertising campaign 
 
-Twitter uses information that individuals provide and data that it receives (as described in Twitter’s Privacy Policy) to enable advertisers to exclude an advertiser-submitted audience from being eligible for an advertising campaign. 
+X uses information that individuals provide and data that it receives (as described in X’s Privacy Policy) to enable advertisers to exclude an advertiser-submitted audience from being eligible for an advertising campaign. 
 
-This enables Twitter to give advertisers a way to avoid showing their ads to people who are irrelevant to the goals of their campaigns (e.g., people who have already installed the advertiser’s game). This feature is a critical component of Twitter’s business because it helps Twitter serve fewer irrelevant ads and enables Twitter advertisers to effectively run advertising campaigns at scale while reducing bad user experiences with irrelevant ads and wasting money serving ads to users who have already taken the action being advertised. Without this processing, Twitter’s advertising would be less compelling to those who saw it and less valuable to Twitter’s business customers, some of whom would not run advertising campaigns on Twitter at all.
+This enables X to give advertisers a way to avoid showing their ads to people who are irrelevant to the goals of their campaigns (e.g., people who have already installed the advertiser’s game). This feature is a critical component of X’s business because it helps X serve fewer irrelevant ads and enables X advertisers to effectively run advertising campaigns at scale while reducing bad user experiences with irrelevant ads and wasting money serving ads to users who have already taken the action being advertised. Without this processing, X’s advertising would be less compelling to those who saw it and less valuable to X’s business customers, some of whom would not run advertising campaigns on X at all.
 
-To safeguard the rights of those who use our services, Twitter implements technical measures, contracts, and policies to disclose this processing, separate out the personal data processed only for this purpose, minimize the amount and type of personal data processed for this purpose, and avoid processing of personal data based on categories that may be sensitive or are prohibited by law, such as race, religion, politics, sex life, or health.  
+To safeguard the rights of those who use our services, X implements technical measures, contracts, and policies to disclose this processing, separate out the personal data processed only for this purpose, minimize the amount and type of personal data processed for this purpose, and avoid processing of personal data based on categories that may be sensitive or are prohibited by law, such as race, religion, politics, sex life, or health.  
  
 
-### Legitimate interests analysis summary – non-service related notifications about your Twitter activity, related content, Direct Messages, and other Twitter product features 
+### Legitimate interests analysis summary – non-service related notifications about your X activity, related content, Direct Messages, and other X product features 
 
-Twitter uses information that individuals provide and data that it receives (as described in Twitter’s Privacy Policy) to send non-service related notifications to Twitter account holders about their Twitter activity, related content, Direct Messages, and other Twitter product features. This enables Twitter to provide information that individuals may find valuable or useful, such as Tweets or Direct Messages directed to the individual, analytics about content the individual authored, and new product features.
+X uses information that individuals provide and data that it receives (as described in X’s Privacy Policy) to send non-service related notifications to X account holders about their X activity, related content, Direct Messages, and other X product features. This enables X to provide information that individuals may find valuable or useful, such as posts or Direct Messages directed to the individual, analytics about content the individual authored, and new product features.
 
-Without these notifications, people would have a harder time learning of content relevant to them on Twitter, would receive less feedback about their content on Twitter, and would potentially miss out on conversations with others on Twitter.
+Without these notifications, people would have a harder time learning of content relevant to them on X, would receive less feedback about their content on X, and would potentially miss out on conversations with others on X.
 
-To safeguard the rights of those who use our services, each non-service related email notification contains an opt out link that enables the individual to disable any or all such notifications. An individual can similarly update his or her preferences at any time while logged into Twitter.com or our mobile apps. For individuals in the European Union, an EFTA State, and the United Kingdom, control is also provided during the registration process in which the individual’s email address is first collected.  
+To safeguard the rights of those who use our services, each non-service related email notification contains an opt out link that enables the individual to disable any or all such notifications. An individual can similarly update his or her preferences at any time while logged into X.com or our mobile apps. For individuals in the European Union, an EFTA State, and the United Kingdom, control is also provided during the registration process in which the individual’s email address is first collected.  
  
 
 ### Sources of personal data we process 
@@ -621,7 +621,7 @@ Online Activity
 
 Data
 
-* Information you post on Twitter (see the [Public Information](https://twitter.com/privacy#chapter1.2) section of our Privacy Policy)
+* Information you post on X (see the [Public Information](https://twitter.com/privacy#chapter1.2) section of our Privacy Policy)
     
 * [Direct Messages and other non-public communications](https://twitter.com/privacy#chapter1.4)
     
@@ -639,16 +639,16 @@ Data
     
 * [Data from other third parties and affiliates](https://twitter.com/privacy#chapter2.8)
     
-* [Twitter for web data](https://help.twitter.com/using-twitter/tailored-suggestions)
+* [X for web data](https://help.twitter.com/using-twitter/tailored-suggestions)
     
 
 Source(s)
 
 * You or your devices, for example, through your use of our services and third-party services 
     
-* Other people on Twitter, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a Tweet, or sending you Direct Messages
+* Other people on X, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct Messages
     
-* Third-party services that integrate Twitter content, [such as embedded timelines or Tweet buttons](https://developer.twitter.com/en/docs/twitter-for-websites/overview)
+* Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/en/docs/twitter-for-websites/overview)
     
 * Our [corporate affiliates](https://help.twitter.com/rules-and-policies/twitter-services-and-corporate-affiliates)
     
@@ -686,7 +686,7 @@ Data
 
 * [Basic account information](https://twitter.com/privacy#chapter1.1)
     
-* Information you post on Twitter (see the [Public Information](https://twitter.com/privacy#chapter1.2) section of our Privacy Policy)
+* Information you post on X (see the [Public Information](https://twitter.com/privacy#chapter1.2) section of our Privacy Policy)
     
 * [Developer data](https://twitter.com/privacy#chapter2.7)
     
@@ -709,7 +709,7 @@ Source(s)
 
 * You or your devices, for example, through your use of our services or third-party services
     
-* Third-party services that integrate Twitter content, [such as embedded timelines or Tweet buttons](https://developer.twitter.com/en/docs/twitter-for-websites/overview)
+* Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/en/docs/twitter-for-websites/overview)
     
 * Our [corporate affiliates](https://help.twitter.com/rules-and-policies/twitter-services-and-corporate-affiliates)
     
@@ -726,7 +726,7 @@ _(Characteristics of certain legally protected classifications, such as age rang
 
 Data
 
-* Information you post on Twitter (see the [Public Information](https://twitter.com/privacy#chapter1.2) section of our Privacy Policy)
+* Information you post on X (see the [Public Information](https://twitter.com/privacy#chapter1.2) section of our Privacy Policy)
     
 * Inferences about your account, as listed below
     
@@ -735,9 +735,9 @@ Source(s)
 
 * You or your devices, for example, through your use of our services or third-party services
     
-* Other people on Twitter, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a Tweet, or sending you Direct Messages
+* Other people on X, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct Messages
     
-* Third-party services that integrate Twitter content, [such as embedded timelines or Tweet buttons](https://developer.twitter.com/en/docs/twitter-for-websites/overview)
+* Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/en/docs/twitter-for-websites/overview)
     
 * Our [corporate affiliates](https://help.twitter.com/rules-and-policies/twitter-services-and-corporate-affiliates)
     
@@ -754,7 +754,7 @@ _(Records of products or services purchased, obtained, or considered, and other 
 
 Data
 
-* Information you post on Twitter (see the [Public Information](https://twitter.com/privacy#chapter1.2) section of our Privacy Policy)
+* Information you post on X (see the [Public Information](https://twitter.com/privacy#chapter1.2) section of our Privacy Policy)
     
 * [Interactions with links](https://twitter.com/privacy#chapter2.2)
     
@@ -768,14 +768,14 @@ Data
     
 * [Data from other third parties and affiliates](https://twitter.com/privacy#chapter2.8)
     
-* [Twitter for web data](https://help.twitter.com/using-twitter/tailored-suggestions)
+* [X for web data](https://help.twitter.com/using-twitter/tailored-suggestions)
     
 
 Source(s)
 
 * You or your devices, for example, through your use of our services or third-party services
     
-* Third-party services that integrate Twitter content, [such as embedded timelines or Tweet buttons](https://developer.twitter.com/en/docs/twitter-for-websites/overview)
+* Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/en/docs/twitter-for-websites/overview)
     
 * Our [corporate affiliates](https://help.twitter.com/rules-and-policies/twitter-services-and-corporate-affiliates)
     
@@ -792,7 +792,7 @@ _(Audio, electronic, visual, and similar information)_
 
 Data
 
-* Information you post on Twitter (see the [Public Information](https://twitter.com/privacy#chapter1.2) section of our Privacy Policy)
+* Information you post on X (see the [Public Information](https://twitter.com/privacy#chapter1.2) section of our Privacy Policy)
     
 * [Direct Messages and other non-public communications](https://twitter.com/privacy#chapter1.4)
     
@@ -801,7 +801,7 @@ Source(s)
 
 * You or your devices, for example, through your use of our services 
     
-* Other people on Twitter, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a Tweet, or sending you Direct Messages or protected Tweets
+* Other people on X, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct Messages or protected posts
     
 
 Data Category
@@ -836,9 +836,9 @@ Source(s)
 
 * You or your devices, for example, through your use of our services or third-party services
     
-* Other people on Twitter, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a Tweet, or sending you Direct Messages
+* Other people on X, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct Messages
     
-* Third-party services that integrate Twitter content, [such as embedded timelines or Tweet buttons](https://developer.twitter.com/en/docs/twitter-for-websites/overview)
+* Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/en/docs/twitter-for-websites/overview)
     
 * Our [corporate affiliates](https://help.twitter.com/rules-and-policies/twitter-services-and-corporate-affiliates)
     
@@ -869,7 +869,7 @@ Sensory Information
 
 We may share with...
 
-* [Entities with whom you direct us to share your information](https://twitter.com/privacy#chapter3.1), such as when you Tweet publicly 
+* [Entities with whom you direct us to share your information](https://twitter.com/privacy#chapter3.1), such as when you post publicly 
     
 * [Entities you provide access to your account](https://twitter.com/privacy#chapter3.1), such as third-party web clients or applications you authorize
     
