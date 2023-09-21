@@ -74,7 +74,6 @@ Prohibited Categories
 * Exploit or endanger minors
 * Segregate or classify individuals or groups of people by race, religion, ethnicity, sexual origin, color, age, gender identity, family status, disability, or medical condition
 * Include the use or promotion of weaponry or explosives
-* State a political point of view
 
 #### High Risk of Fraud
 
@@ -179,7 +178,9 @@ Marketers are solely responsible for complying with applicable federal, state an
 * **Be Positive** - Nothing negative. Ads must not humiliate, disparage, or incite against a candidate, party, or population group. All information should be neutral or positive and must be based in fact.
 * **Headlines** - Content can call out political groups or leanings in the headline, as long as paid sponsorship is clearly disclosed.Stance language is authorized as long as it does not discriminate against any group, person, or belief.
 * **Images**: When selecting images for your campaign please ensure they are relevant to the campaign or cause you are promoting. You may not use images of your competitors.
-* **Clarification**: Political ads don't include ads for products or services, including promotional political merchandise like t-shirts, or ads run by news organizations to promote their coverage of federal election campaigns, candidates, or current elected federal officeholders.
+* Clarification
+    * Political ads don't include ads for products or services, including promotional political merchandise like t-shirts, or ads run by news organizations to promote their coverage of federal election campaigns, candidates, or current elected federal officeholders.
+    * Outside of clearly disclosed political ads (as defined above), taking or expressing political stands is not allowed.
 
 #### Fundraising
 
