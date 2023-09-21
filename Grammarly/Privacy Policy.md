@@ -238,7 +238,7 @@ Where required, we will use appropriate safeguards for transferring data outside
   
 _Data Privacy Framework: EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework_  
   
-Grammarly complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework as set forth by the U.S. Department of Commerce.  
+Grammarly complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework as set forth by the U.S. Department of Commerce. [Learn more.](https://support.grammarly.com/hc/en-us/articles/360021115751-Does-Grammarly-participate-in-the-EU-U-S-Data-Privacy-Framework-EU-U-S-DPF-the-UK-Extension-to-the-EU-U-S-DPF-and-the-Swiss-U-S-Data-Privacy-Framework-)  
   
   
 _Legal basis for processing_  
