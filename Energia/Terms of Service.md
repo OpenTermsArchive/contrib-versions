@@ -866,6 +866,24 @@ View the February 2023 NL Competitions terms and conditions [_here_](https://ww
   
 View the March 2023 Six Nation Tickets Competition terms and conditions [_here_](https://www.energia.ie/getmedia/37a7d482-3d2a-4aac-b471-e184c01a6865/Two-tickets-to-Ireland-vs-England-2023-Guinness-Six-Nations-Social-Competition-(1).pdf.aspx;). 
 
-36\. Download all Terms and Conditions
+36\. Social Media Competition Terms & Conditions
+
+General Social Compeition: Energia's decision regarding prize winners will be final, and no correspondence regarding that decision will be entered into.
+
+* Prizes are non-transferable, and will only be awarded to the prize winner.
+* Use of a false name or address by a competition entrant, i.e. a name by which the entrant is not usually known, will disqualify them from receiving any prize.
+* Energia will not store prize winners data once the prize has been delivered.
+* Our competitions are open only to residents of the Republic Of Ireland.
+* Energia will deliver prizes within one month of winning unless otherwise specified.
+* Where applicable, winners on social media will chosen at random by a third party agency to Energia.
+* When, due to circumstances beyond our control, a prize is not available, we reserve the right to substitute a prize of equal value.
+* These terms and conditions shall be governed by Irish law and the courts of Ireland shall have exclusive jurisdiction.
+* Any person or persons found to be in disregard of any of the above rules will be disqualified automatically.
+* Energia reserves the right to disqualify any contestant for any reason whatsoever in its sole discretion.
+
+  
+Paperboyo - competition is running from the 18-09-2023 until midnight on the 1st of October. Entry is via Instagram social media only. @energiaireland and #thinkofthepossibilities must be included in the entry. Entrants must be following Energia Instagram. One entry only per person. 
+
+37\. Download all Terms and Conditions
 
 You can download all Terms & Conditions [here.](https://www.energia.ie/getattachment/c17c13d4-4322-425a-ac32-768974c4396f/5366-Energia-Domestic-Terms-and-Conditions-Nov-21.pdf?lang=en-GB)
