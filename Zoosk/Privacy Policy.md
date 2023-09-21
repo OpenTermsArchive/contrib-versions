@@ -240,8 +240,8 @@ Our full details are:
 
 Zoosk Customer Care – Spark Networks Services  
 Attn: Data Protection Officer  
-10808 S River Front Parkway Suite 398  
-South Jordan, UT 84095  
+3731 W South Jordan Parkway, Suite 102-405,  
+South Jordan, UT  84009  
 United States  
 Email: dataprotectionofficer@zoosk.com  
 Phone: 020-3051-6952
