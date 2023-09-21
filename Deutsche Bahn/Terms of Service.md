@@ -1,6 +1,17 @@
 Terms of use for your personal customer account
 ===============================================
 
+* [Jump to: 1\. What is the purpose of the customer account?1\. What is the purpose of the customer account?](#1)
+* [Jump to: 2\. What are these Terms of Use for?2\. What are these Terms of Use for?](#2)
+* [Jump to: 3\. How do you get a Customer Account?3\. How do you get a Customer Account?](#3)
+* [Jump to: 4\. What does the Customer Account offer you?4\. What does the Customer Account offer you?](#4)
+* [Jump to: 5\. What do I need to know about the availability of the Customer Account?5\. What do I need to know about the availability of the Customer Account?](#5)
+* [Jump to: 6\. What happens to your data?6\. What happens to your data?](#6)
+* [Jump to: 7\. How can you terminate your customer account?7\. How can you terminate your customer account?](#7)
+* [Jump to: 8\. How is liability regulated?8\. How is liability regulated?](#8)
+* [Jump to: 9\. How are these terms of use changed?9\. How are these terms of use changed?](#9)
+* [Jump to: 10\. Which law is applicable and which court has jurisdiction?10\. Which law is applicable and which court has jurisdiction?](#10)
+
 1\. What is the purpose of the customer account?
 ------------------------------------------------
 
