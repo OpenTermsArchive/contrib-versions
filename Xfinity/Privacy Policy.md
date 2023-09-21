@@ -1,4 +1,4 @@
-Effective July 1, 2023 | [Download PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-5055_xfinity-com-welcome-kit-legal/PP_07012023.pdf) [Descargar PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-5055_xfinity-com-welcome-kit-legal/PP_SP_07012023.pdf)
+Effective September 20, 2023 | [Download PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-5055_xfinity-com-welcome-kit-legal/PP_09202023.pdf) [Descargar PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-5055_xfinity-com-welcome-kit-legal/PP_SP_09202023.pdf)
 
   
 
@@ -51,7 +51,7 @@ You can review this Privacy Policy and the information in the Xfinity Privacy Ce
 When the Privacy Policy applies
 -------------------------------
 
-This Privacy Policy applies to the information we collect when you use or interact with the [business entities, products, services, networks, and platforms](#/privacy/overlays/Xfinity-branded), including our websites, mobile apps, and other services and devices where this policy is referenced. These may include Xfinity-branded services, Comcast-branded Services, and other products and services we deliver. This Privacy Policy also applies when you otherwise interact with us. We’ll refer to all of these as our “Services” in this Privacy Policy. It also applies to the information we collect about you from third parties. 
+This Privacy Policy applies to the information we collect when you use or interact with the [business entities, products, services, networks, and platforms](#/privacy/overlays/Xfinity-branded), including our websites, mobile apps, and other services and devices where this policy is referenced. These may include Xfinity-branded services, Comcast-branded Services, Xumo-branded Services, and other products and services we deliver. This Privacy Policy also applies when you otherwise interact with us. We'll refer to all of these as our "Services" in this Privacy Policy. It also applies to the information we collect about you from third parties. 
 
 This Privacy Policy does _**not**_ apply to the [other products, services, websites, and applications](#/privacy/overlays/Other-products) (mobile or television) that you may use or interact with through Xfinity platforms.
 
