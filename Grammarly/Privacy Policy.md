@@ -1,9 +1,9 @@
-Effective as of March 1, 2023 | Posted: December 1, 2022
+Effective as of September 22, 2023 | Posted: September 19, 2023
 
 Privacy Policy
 --------------
 
-([View Previous Version](https://www.grammarly.com/privacy-policy-2022))  
+([View Previous Version](https://www.grammarly.com/privacy-policy-spring-2023))  
   
 When you use Grammarly’s products, you’re trusting us to handle your personal information with care. We take that trust seriously. This Privacy Policy describes how we collect, use, and protect your personal information.   
   
@@ -13,7 +13,7 @@ When we refer to our products in this Privacy Policy, we’re referring to all o
   
 While we hope you read this entire Privacy Policy, here is a brief overview of some important points:  
 
-* We don’t and will not sell your data. ([read more](#sectionSingleColumn_7nmDoRmUmKysimq2v8tcBS))  
+* We don’t and will not sell your data. ([read more](#sectionSingleColumn_51qLjMIKnP2BOgokskyVEE))  
     
 * We offer a free product and hope you’ll purchase one of our paid products. That’s how we make money. ([read more](#sectionSingleColumn_7nmDoRmUmKysimq2v8tcBS))  
     
@@ -27,35 +27,33 @@ While we hope you read this entire Privacy Policy, here is a brief overview of s
     
 * You can exercise your region-specific rights (like GDPR and CCPA rights). ([read more](#sectionSingleColumn_3Z1LRU777j7BhLK4OZuaCG))  
     
-* If you have any questions or concerns about this policy, you can [contact us](https://support.grammarly.com/hc/en-us/requests/new#/).  
-    
 
   
 
 Table of Contents
 -----------------
 
-[How Does Grammarly Make Money?](#sectionSingleColumn_7nmDoRmUmKysimq2v8tcBS)  
+[How Does Grammarly Make Money?](https://www.grammarly.com/privacy-policy#sectionSingleColumn_7nmDoRmUmKysimq2v8tcBS)  
+  
+[What Personal Information Does Grammarly Process or Collect?](https://www.grammarly.com/privacy-policy#sectionSingleColumn_51qLjMIKnP2BOgokskyVEE)  
+  
+[How Does Grammarly Use Personal Information?](https://www.grammarly.com/privacy-policy#sectionSingleColumn_4wCvOJM48EUdjmdLE7jWdh)  
+  
+[How Does Grammarly Secure and Store Personal Information?](https://www.grammarly.com/privacy-policy#sectionSingleColumn_4C6KOleBeBhbafKqrRoEsj)  
+  
+[With Whom Does Grammarly Share Personal Information?](https://www.grammarly.com/privacy-policy#sectionSingleColumn_10Hz2kTWhHqadehr2vdfHe)  
+  
+[Does Grammarly Collect Information from Children?](https://www.grammarly.com/privacy-policy#sectionSingleColumn_4uoe7S46PxKI9x0UeGQIQY)  
 
-[What Personal Information Does Grammarly Process or Collect?](#sectionSingleColumn_51qLjMIKnP2BOgokskyVEE)  
-
-[How Does Grammarly Use Personal Information?](#sectionSingleColumn_5BgYgXtfaCoBIsAe0hDAcW)  
-
-[How Does Grammarly Secure and Store Personal Information?](#sectionSingleColumn_4C6KOleBeBhbafKqrRoEsj)  
-
-[With Whom Does Grammarly Share Personal Information?](#sectionSingleColumn_10Hz2kTWhHqadehr2vdfHe)  
-
-[Does Grammarly Collect Information from Children?](#sectionSingleColumn_4uoe7S46PxKI9x0UeGQIQY)  
-
-[Exercising Your Data Rights](#sectionSingleColumn_2bLlhI55Zz88VsCRsIj43P)  
-
-[What Other Policies Apply to the Use of Grammarly’s Products?](#sectionSingleColumn_4eG6QNJ5LG9QbvtFVNWUyk)  
-
-[When and How Will Grammarly Update this Policy?](#sectionSingleColumn_6zBw9Z2SqNusuBmA1mS0HE)  
-
-[Contact Information](#sectionSingleColumn_2GVidZDoG5A2ZM0cGHWNc5)  
-
-[Additional Information for Users in Specific Regions and Teams](#sectionSingleColumn_3Z1LRU777j7BhLK4OZuaCG)  
+[Exercising Your Data Rights](https://www.grammarly.com/privacy-policy#sectionSingleColumn_2bLlhI55Zz88VsCRsIj43P)  
+  
+[What Other Policies Apply to the Use of Grammarly’s Products?](https://www.grammarly.com/privacy-policy#sectionSingleColumn_4eG6QNJ5LG9QbvtFVNWUyk)  
+  
+[When and How Will Grammarly Update this Policy?](https://www.grammarly.com/privacy-policy#sectionSingleColumn_6zBw9Z2SqNusuBmA1mS0HE)  
+  
+[Contact Information](https://www.grammarly.com/privacy-policy#sectionSingleColumn_2GVidZDoG5A2ZM0cGHWNc5)  
+  
+[Additional Information for Users in Specific Regions and Teams](https://www.grammarly.com/privacy-policy#sectionSingleColumn_3Z1LRU777j7BhLK4OZuaCG)  
 
 How Does Grammarly Make Money? 
 -------------------------------
@@ -77,7 +75,7 @@ Here are the categories of information we collect or process:
     
 * **Sales and support data**, which is the personal information you share with us when you interact with our customer support and sales teams.   
     
-* **User content**, which consists of all the text and documents that you upload, enter, or otherwise transmit when you use our products. For information on how we use, process, protect, and store user content, please see [How Does Grammarly Use Personal Information](https://www.grammarly.com/privacy-policy#sectionSingleColumn_5BgYgXtfaCoBIsAe0hDAcW) and [How Does Grammarly Secure and Store Personal Information?](https://www.grammarly.com/privacy-policy#sectionSingleColumn_4C6KOleBeBhbafKqrRoEsj)  
+* **User content**, which consists of all the text and documents that you upload, enter, or otherwise transmit when you use our products. For information on how we use, process, protect, and store user content, please see [How Does Grammarly Use Personal Information](#sectionSingleColumn_4wCvOJM48EUdjmdLE7jWdh) and [How Does Grammarly Secure and Store Personal Information?](https://www.grammarly.com/privacy-policy#sectionSingleColumn_4C6KOleBeBhbafKqrRoEsj)  
     
 * **Usage data**, which includes information about how you use and interact with our products. For example, we collect usage data to provide you with weekly activity reports.   
     
@@ -92,8 +90,8 @@ Here are the categories of information we collect or process:
 
   
 
-How Does Grammarly Use Personal Information? 
----------------------------------------------
+How Does Grammarly Use Personal Information?
+--------------------------------------------
 
 We use your information to provide, build, protect, improve, and promote our products.  
   
@@ -122,6 +120,7 @@ We use your information for the following specific purposes:
 * **Complying with legal obligations.** We use personal information where required by law or where we believe it is necessary to protect our or others’ legal rights. For example, we may process account information to help you exercise your data protection rights.  
     
 
+  
   
 We use automated and manual processing techniques when using information for these purposes. Our automated methods include artificial intelligence (AI), which is a set of technologies that allow computers to perform tasks that would typically require human knowledge and intelligence. Our manual methods frequently work in conjunction with, and support, our automated methods, and all of our data handling is subject to the security practices described at [https://www.grammarly.com/trust](https://www.grammarly.com/trust).   
 
@@ -168,7 +167,7 @@ Exercising Your Data Rights
 
 You have a number of ways to interact with the personal information that Grammarly processes, including requesting a record of your information, updating or correcting it, and deleting it.  
 
-* **Request a personal data report.** You can submit an access request for your data by submitting a support ticket through [this link](https://support.grammarly.com/hc/en-us/requests/new?personaldatareport).   
+* **Request a personal data report.** You can submit an access request for your data by submitting a support ticket through [this link](https://support.grammarly.com/hc/en-us/requests/new#/).   
     
 * **Correct or update your data.** You can update your name, email address, and language preference through your Grammarly account settings. If you registered for Grammarly using Google or Facebook, or if you otherwise have problems updating this information, please [submit a support ticket](https://support.grammarly.com/hc/en-us/requests/new?showform).   
     
@@ -188,8 +187,8 @@ What Other Policies Apply to the Use of Grammarly’s Products?
 
 When you use Grammarly’s products, your use is subject to our [Terms of Service](https://www.grammarly.com/terms) and [Acceptable Use Policy](https://www.grammarly.com/acceptable-use-policy). Our Terms of Service include provisions governing how to resolve disputes, our limited warranties, and limitations on damages.   
 
-When and How Will Grammarly Update this Policy? 
-------------------------------------------------
+When and How Will Grammarly Update this Policy?
+-----------------------------------------------
 
 We stand behind the promises we make and will never materially change our policies and practices to make them less protective of your information without giving you advance notice. You must keep your email address up to date because we may use that email address to provide you with notice of any updates. We may also provide an update via an in-product notification. When our business or privacy regulations change, we will update this Privacy Policy accordingly. You should check this Privacy Policy page to see recent changes.  
 
@@ -237,6 +236,11 @@ Information submitted to Grammarly will be transferred to, processed, and stored
   
 Where required, we will use appropriate safeguards for transferring data outside of Europe, Switzerland, and the UK. For more information about these transfer mechanisms, please contact us as detailed in the [Contact Information](#sectionSingleColumn_2GVidZDoG5A2ZM0cGHWNc5) section above.  
   
+_Data Privacy Framework: EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework_  
+  
+Grammarly complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework as set forth by the U.S. Department of Commerce.  
+  
+  
 _Legal basis for processing_  
   
 The EU GDPR and UK data protection laws require a legal basis for our use of personal information. Our basis varies depending on the specific purpose for which we use personal information. We use the following bases:  
@@ -260,7 +264,7 @@ This information supplements the information in our Privacy Policy and applies t
   
 _Summary of information we collect_  
   
-Throughout the Privacy Policy, we discuss in detail the specific pieces of personal information we collect from and about users, the sources of that information, and how we share it. For the categories of personal information we collect, please see the section titled [What Personal Information Does Grammarly Collect and Process?](#sectionSingleColumn_51qLjMIKnP2BOgokskyVEE). Our service providers and we use the categories of personal information we collect from and about you consistent with the various business and commercial purposes we discuss throughout this Privacy Policy—please see the section titled [How Does Grammarly Use Personal Information?](#sectionSingleColumn_5BgYgXtfaCoBIsAe0hDAcW) for more details. Finally, for information about the categories of third parties with whom we share your information, see the section titled [With Whom Does Grammarly Share Your Information?](#sectionSingleColumn_10Hz2kTWhHqadehr2vdfHe).   
+Throughout the Privacy Policy, we discuss in detail the specific pieces of personal information we collect from and about users, the sources of that information, and how we share it. For the categories of personal information we collect, please see the section titled [What Personal Information Does Grammarly Collect and Process?](#sectionSingleColumn_51qLjMIKnP2BOgokskyVEE). Our service providers and we use the categories of personal information we collect from and about you consistent with the various business and commercial purposes we discuss throughout this Privacy Policy—please see the section titled [How Does Grammarly Use Personal Information?](#sectionSingleColumn_4wCvOJM48EUdjmdLE7jWdh) for more details. Finally, for information about the categories of third parties with whom we share your information, see the section titled [With Whom Does Grammarly Share Your Information?](#sectionSingleColumn_10Hz2kTWhHqadehr2vdfHe).   
   
 _Rights_   
   
