@@ -7,7 +7,7 @@ Policy:Terms of Use
 
  Add languages
 
-[Add links](https://www.wikidata.org/wiki/Special:EntityPage/Q122595223#sitelinks-wikipedia "Add interlanguage links")
+[Add links](https://www.wikidata.org/wiki/Special:EntityPage/Q118719909#sitelinks-wikipedia "Add interlanguage links")
 
 * [Policy](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use "View the subject page [c]")
 * [Discussion](https://foundation.wikimedia.org/wiki/Policy_talk:Terms_of_Use "Discussion about the content page [t]")
@@ -38,13 +38,17 @@ General
 * [Special pages](https://foundation.wikimedia.org/wiki/Special:SpecialPages "A list of all special pages [q]")
 * [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=267246 "Permanent link to this revision of this page")
 * [Page information](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=info "More information about this page")
-* [Wikidata item](https://www.wikidata.org/wiki/Special:EntityPage/Q122595223 "Link to connected data repository item [g]")
+* [Wikidata item](https://www.wikidata.org/wiki/Special:EntityPage/Q118719909 "Link to connected data repository item [g]")
 
 Print/export
 
 * [Create a book](https://foundation.wikimedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Policy%3ATerms+of+Use)
 * [Download as PDF](https://foundation.wikimedia.org/w/index.php?title=Special:DownloadAsPdf&page=Policy%3ATerms_of_Use&action=show-download-screen)
 * [Printable version](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&printable=yes "Printable version of this page [p]")
+
+In other projects
+
+* [Meta-Wiki](https://meta.wikimedia.org/wiki/Terms_of_use)
 
 From Wikimedia Foundation Governance Wiki
 
@@ -78,9 +82,9 @@ Other languages:
 * [Schweizer Hochdeutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de-ch "Nutzungsbedingungen (1% translated)")
 * [Scots](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sco "Terms o uise (3% translated)")
 * [Sunda](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/su "Sarat pamakéan (6% translated)")
-* [Tagalog](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tl "Takdang gamit (9% translated)")
+* [Tagalog](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tl "Patakaran:Kasunduan sa Paggamit (13% translated)")
 * [Tiếng Việt](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/vi "Điều khoản Sử dụng (100% translated)")
-* [Türkçe](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tr "Kullanım şartları (100% translated)")
+* [Türkçe](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tr "Kullanım şartları (90% translated)")
 * [Zazaki](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/diq "Şerte karkerdışi (10% translated)")
 * [asturianu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ast "Términos d'usu (37% translated)")
 * [azərbaycanca](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/az "İstifadə Şərtləri (7% translated)")
@@ -126,7 +130,7 @@ Other languages:
 * [српски / srpski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sr "Услови коришћења (17% translated)")
 * [тоҷикӣ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tg "Қоидаҳои истифода (3% translated)")
 * [українська](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/uk "Політика:Умови використання (94% translated)")
-* [հայերեն](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hy "Օգտագործման պայմաններ (11% translated)")
+* [հայերեն](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hy "Օգտագործման պայմաններ (15% translated)")
 * [ייִדיש](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/yi "תנאים פון באניץ (3% translated)")
 * [עברית](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/he "Policy:Terms of Use/he (37% translated)")
 * [اردو](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ur "شرائط استعمال (3% translated)")
