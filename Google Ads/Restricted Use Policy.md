@@ -130,7 +130,7 @@ We will provide you with information on our decision for any policy violation en
 > 
 > > ![An illustration representing Google](//storage.googleapis.com/support-kms-prod/hLcXkRSKs6d8pdOYPVKwQKzqp5EHllM9mz40)
 > > 
-> > We abide by local copyright laws and protect the rights of copyright holders, so we don’t allow ads that are unauthorized to use copyrighted content. If you are legally authorized to use copyrighted content, [apply for certification](https://support.google.com/google-ads/contact/copyright) to advertise. If you see unauthorized content, [submit a copyright-related complaint](https://support.google.com/legal/troubleshooter/1114905).
+> > We abide by local copyright laws and protect the rights of copyright holders, so we don’t allow ads that are unauthorized to use copyrighted content. If you are legally authorized to use copyrighted content, [apply for certification](https://support.google.com/google-ads/contact/copyright) (or here for [DV360](https://support.google.com/displayvideo/contact/dv360_youtube_copyright_documentation_web_form)) to advertise. If you see unauthorized content, [submit a copyright-related complaint](https://support.google.com/legal/troubleshooter/1114905).
 > 
 > ### [Gambling and games](https://support.google.com/adspolicy/answer/6018017)
 > 
