@@ -244,7 +244,7 @@ In the event of a conflict between a Third Party Store’s or mobile carrier’s
 13\. DISPUTE RESOLUTION.
 ------------------------
 
-**Please read the following arbitration agreement in this Section (“Arbitration Agreement”) carefully. Unless you opt out in the manner described in Section 13(9) below, this Arbitration Agreement requires you and Bumble Group to resolve disputes by binding arbitration instead of in court, and limits the manner in which we may seek relief from each other.**
+**Please read the following arbitration agreement in this Section (“Arbitration Agreement”) carefully. Unless you opt out in the manner described in Section 13(10) below, this Arbitration Agreement requires you and Bumble Group to resolve disputes by binding arbitration instead of in court, and limits the manner in which we may seek relief from each other.**
 
 **1\. When Does This Arbitration Agreement Apply?** This Arbitration Agreement applies to any disputes or claims of any kind whatsoever (whether based in contract, tort, statute, regulation, ordinance, fraud, misrepresentation or any other legal or equitable theory) between you and the Bumble Group arising out of or relating to the Terms, prior versions of the Terms, your use of our App, or any other aspect of your relationship with Bumble, including claims or disputes arising (but not actually filed in arbitration) before the effective date of these Terms. It requires that, and by entering into these Terms you and Bumble Group agree, that such disputes or claims will be resolved by binding arbitration, rather than in court, except that (i) you or Bumble may assert individual claims in small claims court if your claims qualify; and (ii) you or Bumble may seek equitable relief in court for infringement or misuse of intellectual property rights.
 
@@ -290,7 +290,7 @@ If a decision is issued stating that applicable law precludes enforcement of any
 
 * _Enforcement of Subsection._ A Court of competent jurisdiction located in a venue allowed under Section 17 of the Terms and Conditions shall have the power to enforce this subsection.
 
-**Offer of Judgment.** At least 14 days before the date set for the arbitration hearing, any party may serve an offer in writing upon the other party to allow judgment on specified terms. If the offer made by one party is not accepted by the other party, and the other party fails to obtain a favorable award, the other party shall not recover any post-offer costs to which they otherwise would be entitled and shall pay the offering party’s costs from the time of the offer.
+**9\. Offer of Judgment.** At least 14 days before the date set for the arbitration hearing, any party may serve an offer in writing upon the other party to allow judgment on specified terms. If the offer made by one party is not accepted by the other party, and the other party fails to obtain a favorable award, the other party shall not recover any post-offer costs to which they otherwise would be entitled and shall pay the offering party’s costs from the time of the offer.
 
 **10\. Opt-Out.** Updates to Bumble’s Terms do not provide a new opportunity for you to opt out of arbitration if you previously agreed to a prior version of Bumble’s Terms containing an arbitration provision and did not validly opt out of arbitration.
 
