@@ -2,246 +2,503 @@
 
   
 
-**Status September 2020**
+**Data Protection Statement**
 
-Gumb is taking the protection of your personal data very seriously. This privacy act declaration governs the storage, processing and disclosure of personal user data by Gumb in accordance with the EU General Data Protection Regulation (GDPR). It is valid part in addition and within the scope of Gumb's General Business Terms and Conditions
-
-  
-
-**Controller Responsible for Data Processing**
-
-Controller in accordance with Article 4 paragraph 7 EU General Data Protection Regulation (GDPR) is Gumb AG, Buesingerstrasse 5, CH-8203 Schaffhausen, Email: support@gumb.app (see our Imprint).
+**Status September 2023**
 
   
 
-**Ways of Contacting**
-
-You can reach us at https://gumb.app/contact-us/
+Data protection is a particularly high priority for us. In the following, we inform you about the collection of personal data when using our website and our apps. Personal data refers to all data with which it is possible to draw conclusions about you personally, for example, name, address, email addresses, user behavior. The processing of a data subject's personal data shall always be in line with the General Data Protection Regulation (GDPR) and in accordance with the Swiss Data Protection Act (DSG) applicable to GUMB AG.
 
   
 
-**Your Rights**
+**1\. Data Controller for Data Processing**
 
-You have the following rights with respect to the personal data relating to you:
-
-General Rights
-
-• Right of access  
-• Right to rectification or deletion  
-• Right to restriction of processing  
-• Right to object to processing  
-• Right of data portability
-
-If you claim any of your rights and/or you would like more information about it, please contact us at support@gumb.app.
-
-Objection or Withdrawal
-
-If you have given us consent for processing your data, you can withdraw this at any time. Withdrawal of this kind affects the admissibility of processing your personal data after you have expressed this to Gumb.
-
-If we base the processing of your personal data on a weighing of interests, in particular on Art. 6 paragraph 1 sentence 1 (f) GDPR, you can object to the processing. This is the case if, in particular, the processing is not required in order to fulfill a contract, which we describe in the following description for each function. If you express such an objection, which you can send to the contact details referred to in point 2 above, please explain the reasons why we should not process your personal data as we have done. We will review the situation and either discontinue or adapt the data processing or show you our compelling legitimate reasons for continuing our processing.
-
-Of course, you can object to the processing of your personal data for the purposes of advertising and data analysis at any time. Please direct your objection to processing for advertising to the contact details mentioned under point 2 above.
-
-Right to Complain to a Supervisory Authority
-
-You also have the right to complain to a supervisory authority about the processing of your personal data by us.
+The Data Controller within the meaning of the EU General Data Protection Regulation (GDPR) or within the meaning of the Swiss Data Protection Act (DSG) is Gumb AG, Büsingerstrasse 5, CH-8203 Schaffhausen, email: support@gumb.app (see our Legal Notice).
 
   
 
-**Collection of Personal Data when Visiting our Website**
+**2\. Ways of Contacting Gumb Data Protection Officer**
 
-In the case you are using the website purely for information purposes, i.e. if you do not register or provide us with information otherwise, we only collect the personal data that your browser transfers to our server. If you wish to view our website, we collect the following information that is technically necessary for us in order to display our website and to ensure its stability and security. The legal basis for this is Article 6 paragraph 1 sentence 1 (f) GDPR:
+You can reach our data protection officer at support@gumb.app or either one of our postal addresses with the addition of  “Data Protection Officer”.
 
-IP address, date and time of the request, time zone difference to Greenwich mean time (GMT), content of the request (specific page), access status/HTTP status code, amount of data transferred in each case, web site that the request comes from, browser, operating system, and its interface, language and version of the browser software.
+Gumb AG
 
-  
+Büsingerstrasse 5
 
-**Collection of Personal Data When Using Our Mobile App**
+8203 Schaffhausen
 
-Data processing operations of the App Store operator
-
-When downloading the mobile app, the required information is transferred to the App Store, in particular the username, email address and customer number of your account, time of download, payment information and the individual device code. We have no influence on this data collection and are not responsible for it. We only process the data as far as is necessary for downloading the mobile app to your mobile device.
-
-Data processing operations when using the App
-
-If you wish to use our apps, we collect the following personal data that is technically necessary for us to offer you the features of our mobile app and to ensure stability and security (legal basis is Article 6 paragraph 1 sentence 1 (f) GDPR):
-
-• IP Address  
-• Date and time of the request  
-• time zone difference to Greenwich mean time (GMT)  
-• content of the request (concrete page)  
-• access status/HTTP status code  
-• amount of data transferred in each case  
-• web site that the request comes from  
-• Browser  
-• Operating system, and its interface  
-• Language and version of the browser software
+Switzerland
 
   
 
-**Contact by Email or Contact Form**
+**3\. Your Rights**
 
-When you contact us by email or through a contact form, the information you provide (your email address, your name and telephone number if applicable) will be stored by us to answer your questions. If our contact form request fields that are not required for us to contact you, these will always be marked as optional. This information serves to substantiate your request and to improve the handling of your request. This information is expressly disclosed on a voluntary basis and with your consent, Article 6 paragraph 1 (a) GDPR. If this information corresponds to communication channels (for example, email address, telephone number), you also agree that we may also contact you via this communication channel to answer your request. Of course, you can withdraw this consent for the future at any time.
+We would like to inform you that you have the right to request information about which of your data is processed by us at any time in accordance with Art. 15 GDPR and Art. 25 DSG. The right of access also includes the right to receive a copy of the data, provided that this does not adversely affect the rights and freedoms of other persons (Art. 15 GDPR). You are entitled to request the correction or completion of incorrect or incomplete data concerning you (Art. 16 GDPR, Art. 6 para. 5 DSG).
 
-We delete the data that arises in this context after storage is no longer required, or we limit the processing if there are legal retention requirements.
+You are entitled to know, in case of transfer abroad, to which state the personal data will be disclosed and, if applicable, the guarantees according to Art. 16 para. 2 DSG or the application of an exception according to Art. 17 DSG.
+
+You are entitled to data disclosure if your data is processed automatically and the data is processed with your consent or in direct connection with the conclusion or processing of a contract (Art. 20 para. 1 GDPR, Art. 28 para. 1 DSG). You also have the right to data portability (Art. 28 (2) DSG) if the requirements of Art. 28 para. 1 DSG are met, and according to Art. 20 para. 2 of the GDPR when exercising the right to data portability pursuant to Art. 20 para. 1 of the GDPR.
+
+In principle, you are entitled to delete your data (Art. 17 GDPR). However, the right to deletion does not exist, for example, if the processing is necessary for the fulfillment of a legal or contractual obligation.
+
+You are entitled to request the restriction of the processing of your data if certain conditions are fulfilled (Art. 18 GDPR). In principle, you also have the right to receive the transmission of the data provided by you in a structured, common and machine-readable format.
+
+If you wish to exercise any of your rights and/or want additional information about them, please contact us in accordance with point 2.
 
   
 
-**Registration and Service Use**
+**3.1 Objection or Withdrawal**
 
-Registration
+If you have given us consent to process your data, you can withdraw this at any time. Withdrawal of this kind affects the admissibility of processing your personal data after you have expressed this to Gumb. If we base the processing of your personal data on a weighing of interests, in particular on Art. 6 paragraph 1 sentence 1 (f) GDPR, you can object to the processing. This is the case if, in particular, the processing is not required to fulfill a contract, which we describe in the following description for each function. If you express such an objection, which you can send to the contact details referred to in point 2 above, please explain the reasons why we should not process your personal data as we have done. We will review the situation and either discontinue or adapt the data processing or show our compelling legitimate reasons for continuing our processing. Of course, you can object to the processing of your personal data for the purposes of advertising and data analysis at any time. Please direct your objection to processing for advertising to the contact details mentioned under point 2 above.
+
+  
+
+**3.2 The right to lodge a legal complaint with a supervisory authority**
+
+You also have the right to lodge a complaint with the competent supervisory authority. The competent supervisory authority in Switzerland is the Federal Data Protection and Information Commissioner (FDPIC).
+
+  
+
+**4\. Collection of Personal Data when Visiting our Website**
+
+In the case you are using the website purely for information purposes, i.e., if you do not register or provide us with information otherwise, we only collect the personal data that your browser transfers to our server. If you wish to view our website, we collect the following information that is technically necessary for us to display our website and to ensure its stability and security. The legal basis for this is Article 6, paragraph 1 sentence 1 (f) GDPR:IP address, date, and time of the request, time zone difference to Greenwich Mean Time (GMT), content of the request (specific page), access status/HTTP status code, amount of data transferred in each case, website/app that the request comes from, browser, operating system, and its interface, language and version of the browser software. We use Google Analytics to collect this information from the website. Please refer to 12.2 for details on Google Analytics. You can also control the tracking via the website cookie banner.
+
+  
+
+**4.1 Data processing operations when using the Apps**
+
+If you wish to use our apps, we collect the following personal data that is technically necessary for us to offer you the features of our products (legal basis is Article 6, paragraph 1 sentence 1 (f) GDPR) and to ensure stability and security (legal basis is Article 6, paragraph 1 sentence 1 (f) GDPR):
+
+* IP Address
+* Device Type
+* Date and time of the request
+* time zone difference to Greenwich Mean Time (GMT)
+* content of the request (concrete page)
+* access status/HTTP status code
+* amount of data transferred in each case
+* website/app that the request comes from, if applicable
+* Browser, if applicable
+* Operating system, and its interface
+* Language and version of the browser software, if applicable
+
+  
+
+**4.2 Contact by Email or Contact Form**
+
+If you contact us by email or via a contact form, the information you provide (your email address, possibly your name and your telephone number) will be stored by us to be able to answer your questions. If fields on our contact form are marked as not required to contact you, they will always be marked as optional. This information is used to substantiate your request and to improve the processing of your request. This information is expressly shared on a voluntary basis and with your consent, Art. 6 para.1 (a) of the GDPR or Art. 6 para. 6 DSG.
+
+If this information corresponds to your communication channels (e.g., email address, telephone number), you also agree that we can contact you via this communication channel to respond to your request.
+
+To enhance our customer support and manage and document your inquiries and feature requests, we utilize Zendesk as a platform. This aids us in identifying users' technical issues and providing effective assistance. Our goal is to continually refine our service through this process. You can review Zendesk's privacy policy [HERE](https://www.zendesk.com/company/agreements-and-terms/privacy-notice/?_ga=2.180671591.1554512012.1695114617-288658004.1695114617). The legal basis for this data processing is Art. 6 Para. 1 S. 1 (f) GDPR. 
+
+Of course, you can revoke this consent at any time in the future. We delete the data arising in this context after the storage is no longer necessary or restrict the processing if there are legal retention obligations (Art. 5 para. 1 e) of the GDPR or Art. 6 para. 4 DSG).
+
+  
+
+**5\. Registration and Service Use**
+
+**5.1 Registration**
 
 You have the opportunity to register with us and create a customer account. For the registration we collect and store the following data:
 
-• Email address (username)  
-• Password  
+* Email address (username)
+* Password
 
-After registration, you will receive personal, password-protected access and can view and manage the data you have provided. Registration is voluntary but may be required to use our services.
-
-If you use our service, we store your data and possibly also details of the payment method required to fulfill the contract, until you finally delete your account. Furthermore, we will store the voluntary data you provide for the time of your use of the portal, unless you delete it before. All information can be managed and changed in your account. The legal basis for this is Article 6 paragraph 1 sentence 1 (b) and (f) GDPR.
-
-Service Use
-
-Furthermore, for technical and contractual reasons, we log anonymously how communities are managed and how often and in which way appointments are planned. This data is only collected during active use. Technical support or the “Community-Management” are recommended to the user based on this data. Additional data will not be purchased and the data will not be passed on to third parties. You can object to this kind of recommendation at any time. Please refer to the email address provided in point 4.1 for this purpose. The legal basis is Article 6 paragraph 1 sentence (f) GDPR.
+After registration, you will receive personal, password-protected access and can view and manage the data you have provided. Registration is voluntary but may be required to use our services. If you use our service, we store your data and possibly also details of the payment method required to fulfill the contract, until you finally delete your account. Furthermore, we will store the voluntary data you provide for the time of your use of the app, unless you delete it before. All information can be managed and changed in your account. The legal basis for this is Article 6, paragraph 1 sentence 1 (b) and (f) GDPR.
 
   
 
-**Online Orders – Website and In-App purchase**
+**5.2 Service Use**
 
-When you place an order online on our website (and in-app), we collect various data required for the conclusion of the contract. The legal basis is the conclusion and execution of a contract in accordance with Article 6 paragraph 1 sentence 1 (b) GDPR. The data is stored for the duration of the contract and according to legal obligations. For payment, we use various payment service providers, which are always identified and accept your input directly and are therefore recipients of your personal data collected in connection with the payment process. The legal basis for the engagement of payment service providers is the contract execution according to Article 6 paragraph 1 sentence 1 (b) GDPR. Data for the purpose of payment is stored for the duration of the payment.
-
-  
-
-**Participation in Competitions**
-
-If you participate in competitions, we will collect information necessary to conduct the competition. These are usually an individual competition entry (for example, a comment or a photo), as well as name and contact details. It may be that we pass on your data to our competition partners, e.g. to give you your prize. The data processing and data transfer may vary depending on the competition and is therefore described in detail in the respective conditions of participation. Participation in the competition and the associated data collection is of course voluntary. The legal basis for data processing is your consent according to Article 6 paragraph 1 sentence 1 (a) GDPR. Your data will be deleted after the end of the competition.
+For technical reasons, we also log which planning functions and the number of events have been used in our app, in a pseudonymized form. This data is collected only during the active use of the app and serves for performance optimization and for recommending suitable features to the user. No additional data is acquired. You can object to this type of recommendation at any time. Please refer to the contact details provided in section 2. The legal basis is Art. 6 Para. 1 S. 1 (f) GDPR.
 
   
 
-**Social Media**
+**6\. Online Orders - Shop**
 
-Use of Social Plugins
-
-Our website and apps use social plugins from the providers Facebook, Twitter and Google. By default, these plugins collect data from you and transfer it to the servers of the respective provider. To protect your privacy, we have taken technical measures to ensure that your information can not be collected by the providers of the plug-in without your consent. When a page containing integrated plugins is accessed, these are initially deactivated. The plugins are only activated by clicking on the respective symbol and you give your consent that the data listed in point 5 are transferred to the respective provider.
-
-In the case of Facebook, (for example in Germany) the IP address is anonymized immediately after collection, according to the provider. By activating the plugin, personal data will be transferred by you to the respective plugin provider and stored there (with US providers in the USA). Since the plugin provider carries out the data collection, in particular via cookies, we recommend that you delete all cookies via your browser's security settings before clicking to activate the plugin.
-
-Data Processing Operations of the Plugin Providers
-
-We have no influence on the collected data and data processing operations, nor are we aware of the full extent of data collection, the purpose of the processing or the retention periods. As a general rule, we also have no information about deleting the data collected by the plugin provider.
-
-Purpose and Legal Basis of the Data Processing by the Plugin Providers
-
-The plugin provider stores the data collected about you as usage profiles and uses them for purposes of advertising, market research and/or needs-based website design. Such an evaluation is carried out in particular (also for non-logged-in users) for the presentation of needs-based advertising and to inform other users of the social network about your activities on our website. You have the right to object to the creation of these user profiles; you must contact the respective plug-in provider to exercise this. Through the plugins, we offer you the opportunity to interact with the social networks and other users, so that we can improve our service and make it more interesting for you as a user. The legal basis for the use of the plugins is Article 6 paragraph 1 sentence 1 (f) GDPR.
-
-Data Transfer to the Plugin Providers
-
-The data transfer takes place regardless of whether you have an account with the plugin provider and are logged in there. If you are logged in to the plugin provider, your data collected from us will be assigned directly to your existing account with the plugin provider. If you click the button once it has been activated and, for example, if you link to the page, the plugin provider also stores this information in your user account and shares it publicly with your contacts. We recommend that you log out regularly after using a social network, but especially before activating the button, as this will prevent you from being assigned to your profile with the plug-in provider.
-
-Further Information and Addresses of the Plugin Providers
-
-For more information on the purpose and scope of the data collection and its processing by the plug-in provider, please refer to the privacy statements of these providers below. There you will also find further information about your rights and settings options for the protection of your privacy.
-
-Addresses of the respective plugin providers and URLs with their privacy notices:
-
-a) Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2 Ireland; http://www.facebook.com/policy.php; further information about data collection: http://www.facebook.com/help/186325668085084, http://www.facebook.com/about/privacy/your-info-on-other#applications  
-b) Google Inc., 1600 Amphitheater Parkway, Mountainview, California 94043, USA; https://www.google.com/policies/privacy/partners/?hl=de. Google complies with the EU-US Privacy Shield, https://www.privacyshield.gov/EU-US-Framework.  
-c) Twitter, Inc., 1355 Market St, Suite 900, San Francisco, California 94103, USA; https://twitter.com/privacy. Twitter complies with the EU-US Privacy Shield, https://www.privacyshield.gov/EU-US-Framework.  
-d) Amazon Europe Core S.à.r.l., die Amazon EU S.à.r.l, die Amazon Services Europe S.à.r.l. and Amazon Media EU S.à.r.l., all four based in 5, Rue Plaetis, L-2338 Luxembourg, as well as Amazon Instant Video Germany GmbH, Domagkstr. 28, 80807 Munich, Germany (together "Amazon Europe"); https://www.amazon.de/gp/help/customer/display.html/ref=hp\_left\_v4\_sib?ie=UTF8&nodeId=201909010. Amazon complies with the EU-US Privacy Shield, https://www.privacyshield.gov/EU-US-Framework.
+When you place an order online on our website or apps, we collect various data required for the conclusion of the contract. The legal basis is the conclusion and execution of a contract in accordance with Article 6, paragraph 1 sentence 1 (b) GDPR. The data is stored for the duration of the contract and according to legal obligations. The legal basis for storing the data due to statutory retention requirements is Art. 6 Para. 1 lit.c GDPR. For payment, we use various payment service providers, which are always identified and accept your input directly and are therefore recipients of your personal data collected in connection with the payment process. The legal basis for the engagement of payment service providers is the contract execution according to Article 6, paragraph 1 sentence 1 (b) GDPR. Data for the purpose of payment is stored for the duration of the payment.
 
   
 
-**Facebook Connect**
+**7\. Participation in Competitions**
 
-We offer you the opportunity to register and sign up through your Facebook account. If you sign up through Facebook, Facebook will ask for your consent to share certain information in your Facebook account with us. This may include your first name, last name, and your email address to verify your identity and gender, as well as the general location, a link to your Facebook profile, your time zone, your date of birth, and your profile picture.
+If you participate in competitions, we collect the information necessary for the execution of the competition. This is usually an individual competition entry (for example, a comment or a photo) as well as names and contact details. We may share your information with our competitors, for example to give you your prize.
 
-This data is collected from Facebook and sent to us in compliance with the provision of the Facebook Data Policy. You can control the information we receive from Facebook through the privacy settings in your Facebook account.
-
-These data are used to set up, provide and personalize your account. The legal basis for this is Article 6 paragraph 1 sentence 1 (b) and (f) GDPR.
-
-When you sign up with us via Facebook, your account will automatically be linked to your Facebook account, and information about your activity on our websites may be shared on Facebook and posted on your timeline and displayed in the news feeds of your friends.
+The data processing and transmission may vary depending on the competition and is therefore described in detail in the respective conditions of participation. Participation in the competition and the associated data collection is, of course, voluntary. The legal basis for data processing is your consent in accordance with Art. 6 para. 1 a) of the GDPR or Art. 6 para. 6 DSG. Your data will be deleted after the end of the competition.
 
   
 
-**Google**
+**8\. Facebook Connect**
 
-You can also register and sign in through your Google+ account. If you sign up through Google, Google will ask for your permission to share certain details of your Google Account with us. This may include your first name, last name, gender, and your email address to verify your identity, as well as a link to your Google+ profile and your profile picture. This data is collected from Google and sent to us in compliance with the provision of the Google Privacy Policy.
+We offer you the opportunity to register and sign up through your Facebook account. If you sign up through Facebook, Facebook will ask for your consent to share certain information in your Facebook account with us. This may include your first name, last name, and your email address to verify your identity and gender, as well as the general location, a link to your Facebook profile, your time zone, your date of birth, and your profile picture. This data is collected from Facebook and sent to us in compliance with the provision of the Facebook Privacy Policy. You can control the information we receive from Facebook through the privacy settings in your Facebook account. This data is used to set up, provide and personalize your account. The legal basis for this is Article 6, paragraph 1 sentence 1 (b) and (f) GDPR. 
 
-By default, when you sign up with Google, information about your activity on our web pages is visible to everyone in your Google+ circles on Google and shared with Google in accordance with Google's Terms of Service and Google's Privacy Policy. For more information on managing activities shared in your Google Account, visit the Google Help page. On the Google+ app's settings page, you can control which people within your Google+ circles see your activity on our websites.
-
-These data are used to set up, provide and personalize your account. The legal basis for this is Article 6 paragraph 1 sentence1 (b) and (f) GDPR.
+When you sign up with us via Facebook, your account will automatically be linked to your Facebook account, and information about your activity on our websites and applications may be shared on Facebook and posted on your timeline and displayed in the news feeds of your friends.
 
   
 
-**Use of Cookies**
+**9\. Google**
 
-When you use our website and our apps, cookies are stored on your computer. Cookies are small text files that are stored on your device memory associated with the browser or app you are using, and that provide certain information to the party that sets the cookie. Cookies cannot run programs or transfer viruses to your device. They serve to make the Internet service more user-friendly and effective overall. We also use cookies to identify you for follow-up visits if you have an account with us. Otherwise you would have to log in again for each visit.
-
-We use the following types of cookies, the scope and operation of which are explained below:
-
-Transient Cookies
-
-These cookies are automatically deleted when you close the browser or app. These include the session cookies in particular. These store a so-called session ID, with which various requests from your browser or app can be assigned to the shared session. This will allow your device to be recognized when you return. The session cookies are deleted when you log out or close the browser.
-
-Persistent Cookies
-
-These cookies are automatically deleted after a specified period, which may differ depending on the cookie. You can delete the cookies in the security settings of your browser at any time.
-
-Prevention of Cookies
-
-You can configure your browser settings according to your wishes and e.g. refuse to accept third-party cookies or all cookies. Please be aware that you may not be able to use all functions of this website in that case. You can configure the settings of your mobile operating system and the app to your liking and e.g. refuse to accept third-party cookies or all cookies. Please be aware that you may not be able to use all functions of our mobile app in that case.
-
-Legal Basis and Duration of Storage
-
-The legal bases for possible processing of personal data and their duration of storage vary and are presented in the following sections.
+You can also register and sign in through your Google account. If you sign up through Google, Google will ask for your permission to share certain details of your Google Account with us. This may include your first name, last name, gender, and your email address to verify your identity, as well as a link to your Google profile and your profile picture. This data is collected from Google and sent to us in compliance with the provision of the Google Privacy Policy. By default, when you sign up with Google, information about your activity on our apps is shared with Google in accordance with Google's Terms of Service and Google's Privacy Policy. For more information on managing activities shared in your Google Account, visit the Google Help page. This data is used to set up, provide and personalize your account. The legal basis for this is Article 6, paragraph 1 sentence1 (b) and (f) GDPR.
 
   
 
-**Analysis Services**
+**10\. Apple**
 
-For the purposes of analyzing and optimizing our websites and apps, we use various services, which are outlined below. So we can e.g. analyze how many people visit our site, what information is most in demand, and how people find the service. Among other things, we collect data on which website a data subject came to another website from (known as a referrer), which subpages of the website were accessed or how often a subpage was viewed and long the person remained on the subpage. This helps us to design and improve our services in a user-friendly way. The data collected is not intended to personally identify individual users. Anonymous or, at most, pseudonymized data is collected. The legal basis for this is Article 6 paragraph 1 sentence 1 (f) GDPR.
+You can also register and sign in through your Apple account. If you sign in with Apple, Apple will ask you for a confirmation to use your Apple account to sign in to Gumb. Sign in with Apple protects your privacy by allowing you to sign in to our website and apps without having to provide us with information that personally identifies you except information used by your browser for normal web functions. 
 
-Google Analytics & Google Optimize
+We may ask for your name and email address when you use Sign in with Apple. Your name will default to the name associated with your Apple ID and for the email address, you can choose to provide us with any of the email addresses associated with your Apple ID, or to hide your email address. If you decide to hide your email address from us and also disable email forwarding from the Apple generated email address to your personal email address, please understand that we will not be able to reach out to you with our communication messages. The legal basis for this is Article 6, paragraph 1 sentence1 (b) and (f) GDPR.
 
-Our website and apps use Google Analytics, a web analytics service provided by Google Inc, (1600 Amphitheater Parkway Mountain View, CA 94043, USA). Usage involves the Universal Analytics operating mode. This makes it possible to assign data, sessions and interactions across multiple devices to a pseudonymous user ID, thus analyzing the activities of a user across devices.
+  
+
+**11\. Cookies and Similar Technologies**
+
+When using our website, apps or other Gumb services – we, our affiliates, vendors, and business partners may use cookies or similar technologies to enable our services, collect usage data and store preferences. Cookies or similar technologies can either be persistent (i.e., they remain on your device or browser until you delete or reset them) or temporary (i.e., they last only until you close your browser or application). Further information on how to reset or delete them can be found in your browser settings or device manufacture Manual. The Technologies can include-
+
+  
+
+**11.1 Cookies and local storage**
+
+When you use our website and our apps, cookies are stored on your devices. Cookies are small text files that are stored on your device memory associated with the browser or app you are using, and that provide certain information to the party that sets the cookie. Cookies cannot run programs or transfer viruses to your device. They serve to make the Internet service more user-friendly and effective overall. We also use cookies to identify you for follow-up visits if you have an account with us. Otherwise, you would have to log in again for each visit. We may use both temporary cookies and persistent cookies to better understand how you use our services, to customize content and advertising or for other purposes as described further on in this section. We may create a unique device or user ID for you and store it in a cookie or other storage option, so we can customize your experience based on your preferences. We may also collect information through other kinds of local storage (also referred to as “Flash cookies”) and HTML5 local storage. This allows us to improve our service offering and your user experience.
+
+  
+
+**11.2 Advertising Identifier (IDFA/AAID)**
+
+For advertising purposes, we use what is known as “advertising identifiers” (e.g., “AAID” or ”IDFA”). These are unique but non-permanent valid identification IDs for a particular device provided by device operating systems. With your consent, the data collected through advertising identifiers may be linked to your login. We use advertising identifiers to provide you with personalized advertising and to evaluate your usage of our apps. The advertising identifier of your device can be reset at any time in the device settings. The new advertising identifier cannot be associated with the previous one. In addition, the transfer and use of the advertising identifier can be disabled in the device settings. Please be aware that you may not be able to use all the features of our service if you restrict the use of advertising identifiers. The legal basis for this is Article 6, paragraph 1 sentence 1 (b) and (f) GDPR.
+
+  
+
+**11.3 Web Beacons, Pixels, and SDKs**
+
+In addition, we may use other technologies such as web beacons or pixel tags, which can be embedded in web pages, videos, or emails, to collect certain types of information from your browser or device, check whether you have viewed a particular web page, ad, or email message, and determine, among other things, the time and date on which you viewed the content, the IP address of your device, and the URL of the web page from which the content was viewed. We may also use or work with third parties including our business partners and service providers who use Software Development Kits (“SDKs”) to collect information, such as advertising identifiers (e.g., “AAID” or “IDFA”), user IDs and information related to how mobile devices, or other devices such as Personal Computer and Mac devices, interact with our services.
+
+  
+
+**11.4 Cookies and similar technologies that will collect data are categorized as the following:**
+
+**11.4.1 Strictly Necessary**
+
+Strictly Necessary Cookies and similar technologies are necessary for the website or application to function and cannot be switched off in your systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies. Please be aware that this would strongly impact the functionality of our service. These cookies do not store any Personally Identifiable Information.
+
+  
+
+**11.4.2 Functional**
+
+Functional cookies and similar technologies enable the website or application to provide enhanced functionality and personalization. They may be set by us or by third-party providers whose services we have added to our pages. If you do not allow these, some or all of these services may not function properly.
+
+  
+
+**11.4.3 Performance**
+
+Performance cookies and similar technologies allow us to count visits and traffic sources, so we can measure and improve the performance of our website and apps. They help us to know which pages are the most and least popular and see how visitors use our products. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site and will not be able to monitor its performance.
+
+  
+
+**11.4.4 Targeting**
+
+Targeting cookies and similar technologies may be set through our apps by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant advertisements. They are based on uniquely identifying your browser, user ID and internet device. If you do not allow these, you will experience less targeted advertising.
+
+  
+
+**11.4.5 Social Media**
+
+Social Media cookies and similar technologies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks or to login directly with your social media account. The social media services are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these, you may not be able to use or see certain functionalities of our service.
+
+  
+
+**11.5 Prevention of Cookies**
+
+You can configure your browser settings according to your wishes and e.g., refuse to accept third-party cookies or all cookies. Please be aware that you may not be able to use all the functions of our website or apps in that case. You can configure the settings of your mobile operating system and the app to your liking and e.g., refuse to accept third-party cookies or all cookies. Please be aware that you may not be able to use all the functions of our mobile app in that case. Transfer of cookies to your browser/device can also be controlled using the cookie banner.
+
+  
+
+To obtain, manage and document your consent preferences we use Cookie-Script as a Consent Management Platform. The legal basis for the processing of the data is Article 6, paragraph 1 sentence 1 (c) GDPR. The aim is to know the consent preferences of the users, follow legal requirements and to act accordingly. The data is deleted as soon as it is no longer required for our purposes. Possible processing of personal data and their duration of storage may vary and is presented in the preference center, which is accessible anytime in the user’s account settings or can be accessed on our website and apps. The preference center provides transparency about the data usage and allows you to configure individual settings according to your wishes and e.g., refuse third-party cookies or usage of data for certain purposes. Please be aware that you may not be able to use our services when refusing to allow cookies or similar technologies.
+
+  
+
+**11.6 Legal Basis and Duration of Storage**
+
+The legal bases for possible processing of personal data and their duration of storage vary and are presented in the following sections. More information about Cookies can be gathered from the Cookie banner. Users can also set preferences in the Cookie banner to only allow selected cookies.
+
+  
+
+**12\. Analysis Services**
+
+For analysis purposes and to optimize our websites and apps, we use various services, which we describe below. For example, we can analyze how many people visit our website, which information is most in demand and how people find our services.
+
+Among other things, we collect information about the website from which a data subject accessed another website (known as the "referrer"), which subpages of our website or apps were accessed or how often a subpage was viewed and how long the person stayed on the subpage. This helps us to design and improve our services in a user-friendly manner.
+
+The data collected is not used for the personal identification of individual users. Anonymous or at most pseudonymous data is collected. The legal basis for this is Art. 6 para. 1 a) of the GDPR or Art. 6 para. 6 DSG.
+
+  
+
+**12.1 Technical usage data**
+
+Data regarding your interaction with the application/platform is collected; this includes the webpages you visit, the planners you access, your membership in communities and subgroups, the number of reactions to events, search terms used, as well as the duration, frequency, and periods of sessions within the application. This data is used to provide and enhance the services and features of the application in terms of security, availability, and user-friendliness in accordance with our contractual obligations. This event data is retained for 12 months before being summarized in standardized analysis reports without personal reference. This data may be transferred to countries outside the EU. We take all necessary steps to ensure compliance with applicable data protection laws and regulations. The legal basis for this is Article 6, Paragraph 1 Sentence 1 (b) and (f) of the GDPR.
+
+  
+
+**12.2 Google Analytics & Google Optimize**
+
+If you have given your consent, our products use Google Analytics, a web analysis service of Google LLC. The responsible service provider in the EU is Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland ("Google").
 
 Our services also use Google Optimize. Google Optimize analyzes the use of different variations of our website and helps us to improve the usability according to the behavior of our users on the website. Google Optimize is a tool associated with Google Analytics.
 
-Google Analytics and Google Optimize use cookies that allow you to analyze the use of the website. The information generated by the cookie about your use of this website is usually transferred to a Google server in the USA and stored there. However, by activating IP anonymization on this website, your IP address will be shortened by Google beforehand within member states of the European Union or in other contracting states of the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be sent to a Google server in the US and shortened there. For the exceptional cases in which personal data is transferred to the US, Google complies with the EU-US Privacy Shield, https://www.privacyshield.gov/EU-US-Framework. The IP address transferred by your browser as part of Google Analytics will not be combined with other Google data. On behalf of the operator of this website, Google will use this information to evaluate your use of the website, to compile reports on website activity and to provide other services related to the website usage and internet usage to the website operator. In these purposes, our legitimate interest lies in the data processing. The data sent by us and linked to cookies, user IDs (e.g. user IDs) or advertising IDs will be automatically deleted after 26 months. Data that has reached its retention period is deleted automatically once a month. For more information about Terms of use and data protection, see https://www.google.com/analytics/terms/de.html or https://policies.google.com/?hl=de.
+  
 
-You can prevent the storage of cookies by setting your browser software or settings of your mobile operating system and the app; however, please be aware that in this case you may not be able to use all functions of this website or the app in full. In addition, you may prevent the collection of the data generated by the cookie and related to your use of the website (including your IP address) by Google as well as the processing of this data by Google by downloading and installing https://tools.google.com/dlpage/gaoptout?hl=de. Opt-out cookies prevent future collection of your data when you visit this website. To prevent Universal Analytics tracking across devices, you must opt out on all systems you use. If you wish that Gumb deactivate Google Analytics, please, send your request to our support team: Email: support@gumb.app. 
+**12.2.1 Scope of processing**
 
-The legal basis is Article 6 paragraph 1 sentence 1 (f) GDPR.
+Google Analytics and Google Optimize uses cookies that enable an analysis of your use of our apps. The information collected by the cookies about your use of our apps is usually transferred to a Google server in the USA and stored.
 
-Usage Statistics with the Help of Hotjar
+We use the function User-ID. The User ID allows us to assign a unique, permanent ID to one or more sessions (and the activities within these sessions) and to analyze user behavior across devices.
 
-Gumb uses the web analytics service Hotjar to analyze usage. Hotjar Ltd. (St Julian's Business Centre, 3, Elia Zammit Street, St Julian’s STJ 1000, Malta) complies with the Data Protection Act, Chapter 440 of the Laws of Malta (“Applicable Law”), which implements all relevant European Union directives on data protection. Hotjar is a service that analyzes users’ behavior and feedback on web pages using a combination of analysis and feedback tools. Hotjar gives Gumb a “complete picture” of how to improve the website performance and end-user experience. For this purpose, the following information is collected: The IP address of the device (collected and stored in an anonymized format), screen/display resolution, type of device, operating system, browser type, geographic location (country only), preferred language, and mouse events (movements, position and clicks). The collected data is transferred and stored using an encrypted connection to servers located in Ireland (EU). The sole purpose of this data collection is to improve the user experience on the Hotjar-based websites. No personal data is collected or stored. For more information on how Hotjar complies with data protection regulations, please click here: www.hotjar.com/privacy. You can refuse permission for Hotjar to collect your data when you visit Gumb at any time on Hotjar's opt-out page https://www.hotjar.com/legal/compliance/opt-out and clicking on “Disable Hotjar”. The legal basis is Article 6 paragraph 1 sentence 1 (f) GDPR.
+We use Google Signals. This allows Google Analytics and Google Optimize to collect additional information about users who have activated personalized ads (interests and demographic data). Furthermore, ads can be delivered to these users in cross-device remarketing campaigns.
+
+We use the function 'anonymizeIP' (so-called IP-Masking): Due to the activation of IP-anonymization on our website or apps , your IP-address will be shortened by Google within member states of the European Union or in other signatory states of the Agreement on the European Economic Area. Only in exceptional cases the full IP address will be transferred to a Google server in the USA and shortened there. The IP address transmitted by your browser / Device Operating System within the framework of Google Analytics is not merged with other data from Google.
 
   
 
-**Data Transfer**
+During your app use the following data will be collected:
 
-We host our systems at Amazon Web Services, Inc. 410 Terry Avenue North, Seattle WA 98109, USA ("AWS"). For technical reasons, the infrastructure may be maintained from the USA. AWS is subject to the EU-US Privacy Shield.
-
-The legal basis for the above-mentioned data processing is Art. 6 para. 1 f) DSGVO based on our legitimate interest. We want to provide you with the technical infrastructure to offer our products and services.
-
-For further information, please refer to the AWS privacy policy
-
-Further external service providers and partner companies, such as online payment providers will only receive your data if this is necessary to process your order. In these cases, however, the amount of data transferred is limited to the minimum required. Insofar as our service providers come into contact with your personal data, we ensure in the context of order processing in accordance with Article 28 GDPR that they comply with the provisions of data protection laws in the same way. Please also see the respective privacy policy of the provider. The respective service provider is responsible for the content of external services, where we check the reasonableness of the services for compliance with legal requirements.
-
-  
-
-**Data Security**
-
-We have put extensive technical and operational safeguards in place to protect your data from accidental or intentional manipulation, loss, destruction or access by unauthorized persons. Our security procedures are regularly reviewed and adapted to developments in technology.
+* The pages you call up, your "click behavior“
+* Achievement of "website / apps goals" (conversions, e.g., newsletter registrations, downloads, purchases)
+* Your user behavior (for example clicks, dwell time, bounce rates)
+* Your approximate location (region)
+* Your IP addresses (in abbreviated form)
+* Technical information about your browser and the end devices you use (e.g., language settings, screen resolution)
+* Your internet provider
+* The referrer URL (via which website/advertising medium you came to this website/apps)
 
   
 
-**Applications**
+**12.2.2 Purposes of processing**
 
-You can apply to our company electronically, in particular via email or via our application portal online. Of course, we will only use your information to process your application and will not pass it on to third parties. Please note that unencrypted emails are not transferred with access protection.  
-The legal basis for this is Article 6 paragraph 1 sentence 1 (b) and (f) GDPR as well as Section 26 of the Federal Data Protection Act (BDSG).
+On behalf of the operator of this app, Google will use this information to evaluate your (pseudonymous \[NOT USER ID\]) use of the app and to compile reports on the app activity. The reports provided by Google Analytics serve to analyze the performance of our apps and the success of our marketing campaigns.
 
-If you have applied for a certain position and it has already been filled or we consider you suitable or even more suitable for a different position, we would like to forward your application within the company. Please let us know if you do not agree to your application being forwarding.
+  
 
-Your personal data will be deleted no later than 6 months after completing the application process, unless you have expressly given us your consent to store your data for longer or it has led to a contract being concluded. The legal basis for this is Article 6 paragraph 1 sentence 1 (a) GDPR as well as Section 26 BDSG.
+**12.2.2 Recipient**
+
+The data recipient is 
+
+* Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland
+
+as a data processor. For this purpose, we have concluded a contract with Google. Google LLC, headquartered in California, USA, and, if applicable, US authorities can access the data stored at Google.
+
+  
+
+**12.2.3 Transfer to third countries**
+
+A transfer of data to the USA cannot be excluded. However, we pay attention to ensure their compliance to GDPR guidelines.
+
+  
+
+**12.2.4 Duration of storage**
+
+The data sent by us and linked to cookies is automatically deleted after 2 months. Data is automatically deleted once a month as soon as the storage period is reached.
+
+  
+
+You can also prevent the collection of data generated by the cookie and related to your use of the app (including your IP address) to Google and the processing of this data by Google by
+
+* not giving your consent to the settings of the cookie or
+* downloading and installing the browser add-on to disable Google Analytics [HERE](https://tools.google.com/dlpage/gaoptout?hl=en).
+
+  
+
+By setting your browser software accordingly you can also prevent the storage of cookies. If your browser is set to refuse all cookies, the functionality of this and other websites and apps may be limited.
+
+  
+
+**12.2.5 Legal basis and right of withdrawal**
+
+The legal basis for this data processing is your consent in accordance with Art. 6 para. 1 a) of the GDPR or Art. 6 para. 6 DSG. You can revoke your consent at any time with future effect by changing your selection in the cookie preference in the account settings or by opening our apps to the cookie preference center.
+
+  
+
+For more information about Google Analytics terms of use and Google's privacy policy, please visit 
+
+[this page](https://marketingplatform.google.com/about/analytics/terms/gb/) and the [policies](https://policies.google.com/?hl=en).
+
+  
+
+**12.3 Google Firebase: Storage, Crashlytics, and Analytics**
+
+Our website utilizes Google Firebase Storage, a cloud storage service by Google, to host and deliver simple images and other media content. This allows us to provide media content efficiently and in high quality, while ensuring a fast and reliable user experience.
+
+In addition, we use Firebase Crashlytics. This tool assists us in identifying and rectifying crashes and errors on our website or app. By collecting and analyzing error reports, we ensure a stable and error-free use of our services.
+
+Furthermore, we employ Firebase Analytics to gather user statistics. These analyses give us valuable insights into user behavior, enabling us to continuously enhance the user experience. It's important to note that Firebase Analytics is closely linked with Google Analytics, and data collected through Firebase Analytics can also be integrated into Google Analytics.
+
+All these services might use servers located outside the European Union. However, Google has committed to the EU-US Privacy Shield, thus ensuring adequate data protection.
+
+The use of Google Firebase (Storage, Crashlytics, and Analytics) is based on our legitimate interest in a stable and efficient technology infrastructure in accordance with Article 6, Paragraph 1 lit. f GDPR.
+
+For more detailed information on the data protection practices of Google Firebase, we recommend consulting [Google's Privacy Policy](https://policies.google.com/privacy?hl=de) and [Firebase Privacy Policy](https://firebase.google.com/support/privacy?hl=de).
+
+  
+
+**12.4 Sentry.io: Error Monitoring and Performance Monitoring**
+
+To optimize our technical performance, we use the service Sentry.io. It is essential to emphasize that Sentry.io processes strictly technical data and does not store any personal data or information about our users. This service assists us in tracking technical errors and monitoring the performance of our application. With Sentry.io, we gain detailed insights about product errors and performance bottlenecks. This enables us to promptly address technical issues and improve the stability and speed of our application.
+
+For the security of this technical data: Sentry undergoes annual penetration tests conducted by an independent third-party agency. In this context, Sentry provides the agency with an isolated copy of sentry.io and an overview of the application architecture. Customer data is never made accessible to the agency during these tests.
+
+The use of Sentry.io is based on our legitimate interest in continuous technical optimization in accordance with Article 6, Paragraph 1 lit. f GDPR.
+
+For more detailed information on Sentry.io's data protection practices, please consult their [privacy policy](https://sentry.io/trust/privacy/).
+
+  
+
+**12.5 Hotjar**
+
+Gumb uses the web analytics service Hotjar to analyze usage. Hotjar Ltd. (St. Julian's Business Center, 3, Elia Zammit Street, St. Julian’s STJ 1000, Malta) complies with the Data Protection Act, Chapter 440 of the Laws of Malta (“Applicable Law”), which implements all relevant European Union directives on data protection. Hotjar is a service that analyzes users’ behavior and feedback on web pages using a combination of analysis and feedback tools. Hotjar gives Gumb a “complete picture” of how to improve the website performance and end-user experience. For this purpose, the following information is collected: The IP address of the device (collected and stored in an anonymized format), screen/display resolution, type of device, operating system, browser type, geographic location (country only), preferred language, and mouse events (movements, position, and clicks). The collected data is transferred and stored using an encrypted connection to servers located in Ireland (EU). The sole purpose of this data collection is to improve the user experience on the Hotjar-based websites. No personal data is collected or stored. For more information on how Hotjar complies with data protection regulations, please click here: [www.hotjar.com/privacy](http://www.hotjar.com/privacy). You can refuse permission for Hotjar to collect your data when you visit Gumb at any time on [Hotjar's opt-out page](https://www.hotjar.com/legal/compliance/opt-out) and click on “Disable Hotjar”. The legal basis is Art. 6, para. 1 a) of the GDPR or Art. 6 para. 6 DSG.
+
+  
+
+**12.6 Prismic for Support Page**
+
+In the specialized help section of our website, we use Prismic.io, a CMS backend (Content Management System). Its primary function is to host and deliver simple images, help article texts, and other relevant media content. By leveraging Prismic.io, we ensure that our users receive high-quality help articles and media content swiftly and reliably, providing an optimal user experience.
+
+Please note that Prismic.io might utilize servers located outside the European Union. However, Prismic has committed to the EU-US Privacy Shield, ensuring appropriate data protection standards.
+
+Our decision to use Prismic.io stems from our legitimate interest in relying on a stable and efficient technology infrastructure, in accordance with Article 6, Paragraph 1 lit. f of the GDPR.
+
+For more in-depth information regarding Prismic's data protection practices, we recommend consulting Prismic's [privacy policy](https://prismic.io/legal/privacy).
+
+  
+
+**13\. Advertising**
+
+We use cookies for marketing purposes to target our users with interest-based advertising. In addition, we use cookies to restrict the likelihood that an ad will be displayed and to measure the effectiveness of our advertising operations. The technology for advertising is provided by Google Ad Manager. This information may also be shared with third parties such as ad networks. A list of all advertising networks can be found [here](https://support.google.com/admanager/answer/9012903?hl=en). The legal basis for this is Article 6, paragraph 1 sentence 1 (f) GDPR. Gumb’s direct marketing operations have a legitimate interest in the objectives pursued with the data processing. You have the right to object at any time to the processing of your data for the purpose of such advertising. For this purpose, you can prevent cookies from being set in your browser settings, via the cookie banner or privacy settings in our apps. The legal basis is Art. 6, para. 1 a) of the GDPR or Art. 6 para. 6 DSG.
+
+  
+
+**13.1 Facebook Advertising**
+
+We use the pixel of Facebook Ireland Limited for targeting (Facebook Website Custom Audiences) and conversion tracking purposes. Through the pixel, information about the use of our products is collected and shared with Facebook. This information can be assigned to you thanks to further information that Facebook Ireland Limited has stored about you, e.g., due to your ownership of an account on the social network Facebook. Based on this information interest-related advertisements can be displayed to you in your Facebook account. 
+
+We have not enabled “automatic advanced matching” as part of Facebook’s pixel feature. Therefore, we do not share hashed information such as email, name, gender, city, state, zip code, and date of birth or phone number with Facebook. The pixel of Facebook gets only activated in your browser if you have agreed to marketing cookies via our cookie consent banner. You can revoke consent at any time via our consent banner. The legal basis for this is article 6, section 1 letter (a), (f) of the GDPR.
+
+For more information on the purpose and scope of data collection and the further processing and use of data by Facebook and your options to protect your privacy, please refer to Facebook’s privacy policy, which can be found [here](https://www.facebook.com/ads/website_custom_audiences/) and [here](https://www.facebook.com/privacy/explanation). If you wish to object to the use of Facebook Website Custom Audiences, you can do so on [this page](https://www.facebook.com/ads/website_custom_audiences/).
+
+  
+
+**13.2 Google Ads**
+
+**13.2.1 Google Retargeting**
+
+Our products use “Google Ads Remarketing” to advertise Gumb on Google’s search results as well as on third-party websites. The provider is Google Ireland Limited, Gordon House, 4 Barrow St., Dublin, D04 E5W5, Ireland (hereinafter "Google"). For this purpose, Google sets a cookie in your device's browser that automatically enables interest-based advertising based on a pseudonymous cookie ID and on the pages you visit.
+
+Additional data processing only takes place if you have consented to Google, linking your Internet and app browsing history to your Google account and using information from your Google account to personalize ads that you see on the web.
+
+Data processing from our apps will only be enabled if you have agreed to the use of marketing cookies via our cookie consent banner. You can revoke consent at any time via our consent banner. The legal basis for this is article 6, section 1 letter (a), (f) of the GDPR.
+
+Further information and the privacy policy regarding advertising and Google can be found [here](https://www.google.com/policies/technologies/ads/).
+
+  
+
+**13.2.2 Google Conversion Tracking**
+
+We use conversion tracking as part of the “Google Ads” service. When you click on an ad placed by Google, a cookie for conversion tracking is stored on your device. These cookies lose their validity after 30 days, do not contain any personal data and are therefore not used for personal identification. The information obtained using the conversion cookie is used to create conversion statistics for Google Ads customers who have opted in for conversion tracking. Google Ads conversion tracking will only be enabled if you have agreed to the use of marketing cookies via our cookie consent banner. You can revoke consent at any time via our consent banner. The legal basis for this is article 6, section 1 letter (a), (f) of the GDPR.
+
+  
+
+**13.3 YouTube with expanded data protection integration**
+
+Our website embeds videos of the website YouTube. The website operator is Google Ireland Limited (“Google”), Gordon House, Barrow Street, Dublin 4, Ireland.
+
+We use YouTube in the expanded data protection mode. According to YouTube, this mode ensures that YouTube does not store any information about visitors to this website before they watch the video. Nevertheless, this does not necessarily mean that the sharing of data with YouTube partners can be ruled out as a result of the expanded data protection mode. For instance, regardless of whether you are watching a video, YouTube will always establish a connection with the Google DoubleClick network.
+
+The YouTube videos on our website are embedded using a method that does NOT automatically establish a connection to YouTube. Only after your confirmation by clicking the button, a connection to YouTube’s servers will be established. As a result, the YouTube server will be notified, which of our pages you have visited. If you are logged into your YouTube account while you visit our site, you enable YouTube to directly allocate your browsing patterns to your personal profile. You have the option to prevent this by logging out of your YouTube account.
+
+As soon as you start to play a YouTube video on this website, a connection to YouTube’s servers will be established. As a result, the YouTube server will be notified, which of our pages you have visited. If you are logged into your YouTube account while you visit our site, you enable YouTube to directly allocate your browsing patterns to your personal profile. You have the option to prevent this by logging out of your YouTube account.
+
+Furthermore, after you have started to play a video, YouTube will be able to place various cookies on your device or comparable technologies for recognition (e.g., device fingerprinting). In this way YouTube will be able to obtain information about this website’s visitors. Among other things, this information will be used to generate video statistics with the aim of improving the user-friendliness of the site and to prevent attempts to commit fraud.
+
+Under certain circumstances, additional data processing transactions may be triggered after you have started to play a YouTube video, which are beyond our control.
+
+The use of YouTube is based on our interest in presenting our online content in an appealing manner. Pursuant to Art. 6(1)(f) GDPR, this is a legitimate interest. If appropriate consent has been obtained, the processing is carried out exclusively on the basis of Art. 6(1)(a) GDPR and § 25 (1) TTDSG, insofar the consent includes the storage of cookies or the access to information in the user’s end device (e.g., device fingerprinting) within the meaning of the TTDSG. This consent can be revoked at any time.
+
+For more information on how YouTube handles user data, please consult the YouTube Data Privacy Policy under: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en).
+
+  
+
+**13.4 Google Web Fonts (local embedding)**
+
+Our website uses so-called Web Fonts provided by Google to ensure the uniform use of fonts on this site. These Google fonts are locally installed so that a connection to Google’s servers will not be established in conjunction with this application.
+
+For more information on Google Web Fonts, please follow this link: [https://developers.google.com/fonts/faq](https://developers.google.com/fonts/faq) and consult Google’s Data Privacy Declaration under: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en).
+
+  
+
+**14\. Data Transfer**
+
+We host our systems with Amazon Web Services, Inc., 410 Terry Avenue North, Seattle, WA 98109, USA ("AWS"). For technical reasons, infrastructure maintenance may sometimes be conducted from the USA. AWS adheres to the EU-US Privacy Shield.
+
+The legal basis for the aforementioned data processing is Article 6, Paragraph 1 f) GDPR, based on our legitimate interest. We aim to provide you with the technical infrastructure to offer our products and services.
+
+Within AWS, we use specific services to ensure an optimal user experience and the highest security standards:
+
+S3: This is our primary cloud storage service. We use it to securely and scalable store data, ensuring fast and reliable access to your data at all times.
+
+Amazon Pinpoint: This service allows us to communicate with you through various channels, such as email, SMS, or push messages. It also helps us understand user behavior better and optimize our services accordingly.
+
+Cognito: This is our identity management tool. It ensures secure access to our services and verifies that only authorized users have access to their data. Through 'Federated Identities', a secure and seamless user experience is created, providing you with various login options.
+
+Amazon Simple Email Service (SES): A service specifically designed for sending and receiving emails, ensuring that the communications you receive from us are secure and reliable.
+
+Additionally, AWS employs other services for specific functions, especially for Android mobile devices. This includes 'Amazon (Mobile) Analytics', which helps us understand the usage of our services better and continuously improve the user experience.
+
+By disclosing this information, we want to ensure you are fully aware of how and where your data is processed within our technical infrastructure. For more detailed information on the privacy practices of these specific AWS services, we recommend consulting AWS's privacy policy.
+
+Your data will not be shared with other third parties unless we are legally obligated to do so, the data transfer is necessary for the execution of the contractual relationship, or you have previously expressly consented to the sharing of your data.
+
+External service providers and partner companies, such as online payment providers, only receive your data if this is necessary to process your order. In these cases, however, the amount of data transferred is limited to the required minimum.
+
+Insofar as our service providers come into contact with your personal data, we ensure in the context of order processing in accordance with Art. 28 GDPR or Art. 9 DSG that they comply with the provisions of the data protection law in the same way. In addition, please note the respective privacy policy of the provider. The respective provider is responsible for the content of external services, where we check the appropriateness of the services for compliance with legal requirements.
+
+We attach great importance to the processing of your data within the EU/EEA. However, we may use providers who process data outside the EU/EEA. In these cases, we ensure that the recipient ensures an adequate level of data protection before transferring your personal data. This means that a level of data protection comparable to standards within the EU is achieved through EU standard contracts or an adequacy decision.
+
+  
+
+**15\. Data Security**
+
+We have taken extensive technical and operational security precautions to protect your data from accidental or intentional manipulation, loss, destruction, or access by unauthorized individuals. Our security procedures are regularly reviewed and adapted to technological developments (Art. 32 GDPR, Articles 7, 8 DSG).
+
+  
+
+**16\. Job Applications**
+
+You can apply for a job with us online via our application portal. We process your personal data exclusively for the purpose of your application for an employment relationship, insofar as this is necessary for the decision on the establishment of an employment relationship with us. The legal basis for this is Article 6 para.1 b) of the GDPR and § 26 para. 1 with para. 8 p. 2 BDSG (job advertisement and implementation of pre-contractual measures) and Art. 6 para. 1 f) of the GDPR for unsolicited applications. Your personal data will be treated confidentially.
+
+The following data can be processed by us in the application process:
+
+* Master data (title, first name, surname, if necessary date of birth)
+* Contact data (address, telephone, or mobile phone number, private email address)
+* Application data (e.g., profile picture as well as other documents such as CV, cover letter, overall application, certificates).
+
+If we are unable to offer you a position, you reject an offer of a position or withdraw your application, we reserve the right to store the data you have transmitted based on our legitimate interests (Art. 6 para. 1 f) of the GDPR) for up to 6 months as of the end of the application process (rejection or withdrawal of the application). The data is then deleted and the physical application documents destroyed. In particular, data is stored for evidence purposes in the event of a legal dispute. If the data will be foreseeably required after the 12-month period has expired (e.g., due to an impending or pending legal dispute), deletion will only take place if the purpose of further storage is no longer applicable.
+
+Data can also be stored for a longer period of time if you consent to this in accordance with (Art. 6 para. 1 (a) of the GDPR or Art. 6 para. 6 DSG) or if statutory storage obligations preclude the deletion.
+
+If we do not make you a job offer, you may be able to join our applicant pool. In case of admission, all documents and information from the application will be transferred to the applicant pool to contact you in case of suitable vacancies.
+
+Admission to the applicant pool is based exclusively on your express consent (Art. 6 para. 1 (a) of the GDPR or Art. 6 para. 6 DSG). The submission agreement is voluntary and has no relation to the ongoing application procedure. You can revoke your consent at any time. In this case, the data from the applicant pool will be irrevocably deleted, provided there are no legal reasons for storage. The data from the applicant pool will be irrevocably deleted no later than two years after consent has been granted.
+
+  
+
+**16.1 Wellfound**
+
+We utilize the platform services of Wellfound, a leading job portal specializing in developer roles. For operational reasons, certain backend operations or data storage of Wellfound may sometimes be based in locations apart from the EU. It is pertinent to note that Wellfound strictly complies with the principles of the General Data Protection Regulation ("GDPR") and the California Consumer Protection Act ("CCPA").
+
+The legal basis for the aforementioned data processing is Article 6, Paragraph 1 f) GDPR, based on our legitimate interest. Our primary objective is to optimize our recruitment processes, ensuring we connect with highly qualified developer candidates in a seamless and efficient manner.
+
+Within Wellfound, there are specific functionalities and mechanisms designed to ensure an optimal user experience, as well as maintain the highest standards of data protection and privacy. See [HERE](https://wellfound.com/privacy#:~:text=Wellfound%20uses%20Personal%20Data%20we,number%20of%20visitors%2C%20traffic%2C%20and) their private policy.
+
+  
+
+**17\. Updating the Privacy Policy**
+
+Occasionally, we will update this Privacy Policy. If it is updated, we will update the date at the top of this Privacy Policy. We encourage you to check our website and apps occasionally to inform yourself of any changes to this Privacy Policy.
