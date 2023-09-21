@@ -405,7 +405,7 @@ Dublin 2
 
 (h) Smart code of Practice
 
-18.4 Here you can find [The Codes of Practice](http://~/home/codes-of-practice) or by any of the means contained in Clause 20.1. If we fall in our commitments to you, you may be entitled to compensation. 
+18.4 Here you can find [The Codes of Practice](https://www.energia.ie/home/codes-of-practice) or by any of the means contained in Clause 20.1. If we fall in our commitments to you, you may be entitled to compensation. 
 
 19\. Marketing
 
@@ -596,7 +596,7 @@ All prices are subject to change as per our General Terms and Conditions above.
 
 31\. Free Gas Boiler Offer
 
-[See here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Earlybird-Gas-Boiler-Offer/Supplementary-Energia-TCs-Extended-June-2022.pdf.aspx;?lang=en-IE) for Limited Offer Free Boiler Servicing Terms & Conditions.
+Learn more about our [Limited Offer Free Boiler Servicing Terms & Conditions](https://www.energia.ie/getmedia/5057a354-08af-4088-a667-a4a54418dc39/Free-Gas-Boiler-Service-terms-and-conditions.pdf).
 
 32\. Energia Solar & Battery Terms and Conditions
 
@@ -850,21 +850,9 @@ EAB €1,512, based on average annual usage. 12 month contract, discounted unit 
 
 35\. Newsletter competition terms and conditions
 
-View September 2022 rugby newsletter terms and conditions _[here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/September-2022-Two-tickets-to-Ireland-vs-Fiji-November-Series.pdf.aspx;?lang=en-IE)._  
+[View the February 2023 NL Competition terms and conditions](https://www.energia.ie/getmedia/96d12fc1-d14c-4566-a859-c2fc2a3c5240/February-2023-NL-Competition-Terms-and-Conditions.pdf)   
   
-View the ​September NL Competition terms and conditions _[here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/September-2022-Two-tickets-to-Ireland-vs-South-Africa-Autumn-International-2022-Competition-(1).pdf.aspx;)._   
-  
-View the October Rugby Mascot Competition terms and conditions [here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/October-2022-Rugby-mascot-for-Ireland-vs-Fiji-November-Series.pdf.aspx;?lang=en-IE)  
-  
-View the November Leinster v Ulster and Leinster v Gloucester tickets competition terms and conditions [here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/Comp-1-Nov-2022-Two-tickets-to-Leinster-v-Ulster-two-tickets-to-Leinster-v-Gloucester.pdf.aspx;?lang=en-IE)  
-  
-View the November Leinster v Connacht tickets competition terms and conditions [here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/Comp-2-Nov-2022-Two-tickets-to-Leinster-v-Connacht-01-Jan-23.pdf.aspx;?lang=en-IE)  
-  
-View the November Energia AIL Women's Final tickets competition terms and conditions [here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/Comp-3-Nov-2022-Two-tickets-to-the-Energia-AIL-Women-s-Final-and-a-Voucher-for-Dinner-at-Layla-s-Rooftop-Restaurant.pdf.aspx;?lang=en-IE)  
-  
-View the February 2023 NL Competitions terms and conditions [_here_](https://www.energia.ie/getmedia/94302682-e37c-4de6-b601-d95051625d68/February-NL-Two-tickets-to-Ireland-vs-England-2023-Guinness-Six-Nations-Competition.pdf.aspx;).   
-  
-View the March 2023 Six Nation Tickets Competition terms and conditions [_here_](https://www.energia.ie/getmedia/37a7d482-3d2a-4aac-b471-e184c01a6865/Two-tickets-to-Ireland-vs-England-2023-Guinness-Six-Nations-Social-Competition-(1).pdf.aspx;). 
+[View the March 2023 Six Nation Tickets Competition terms and conditions](https://www.energia.ie/getmedia/a9617712-9e09-4cf1-983d-dd804d44c8a6/March-2023-Six-Nations-Competitions-terms-and-conditions.pdf)
 
 36\. Social Media Competition Terms & Conditions
 
