@@ -557,7 +557,7 @@ To avail of the cashback offer you must be successfully signed up to Energia. 
 
 28\. Boiler Services Terms & Conditions
 
-Learn more about our [Boiler Servicing Terms & Conditions](https://www.energia.ie/getattachment/702455b3-c54b-4da9-9852-17502169c70b/Boiler-Services-Terms-and-Conditions.pdf?lang=en-GB).
+Learn more about our [Boiler Services Terms and Conditions](https://www.energia.ie/getattachment/702455b3-c54b-4da9-9852-17502169c70b/Boiler-Services-Terms-and-Conditions.pdf?lang=en-GB)
 
 29\. "Get a Quote Calculator" Promotional Terms & Conditions
 
