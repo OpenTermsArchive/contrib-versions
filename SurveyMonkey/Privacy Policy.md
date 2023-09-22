@@ -3,14 +3,14 @@
 Privacy Notice
 ==============
 
-LAST UPDATED: August 1, 2023
+LAST UPDATED: September 22, 2023
 
-_Effective as of August 1, 2023, Momentive Inc. will become SurveyMonkey Inc., Momentive Europe UC will become SurveyMonkey Europe UC, and Momentive Brasil Internet Eireli will become SurveyMonkey Brasil Internet Eireli._
+_Effective as of August 1, 2023, Momentive Inc. will become SurveyMonkey Inc., Momentive Europe UC will become SurveyMonkey Europe UC, and Momentive Brasil Internet Eireli will become SurveyMonkey Brasil Internet Ltda._
 
 1\. Introduction
 ----------------
 
-This Privacy Notice applies to all the products, services, websites and apps offered by SurveyMonkey Inc., SurveyMonkey Europe UC, SurveyMonkey Brasil Internet Eireli, SurveyMonkey Netherlands B.V., and other SurveyMonkey affiliates (collectively “SurveyMonkey”), except where otherwise noted. The services include SurveyMonkey, SurveyMonkey Apply, SurveyMonkey Audience, SurveyMonkey Rewards, SurveyMonkey Contribute, Wufoo, TechValidate, GetFeedback Direct, and GetFeedback Digital. We refer to those products, services, websites, and apps collectively as the “services” in this notice. Unless otherwise noted in your contract, our services are provided by SurveyMonkey Inc. inside of the United States, by SurveyMonkey Brasil Internet Eireli inside of Brazil, and by SurveyMonkey Europe UC everywhere else.
+This Privacy Notice applies to all the products, services, websites and apps offered by SurveyMonkey Inc., SurveyMonkey Europe UC, SurveyMonkey Brasil Internet Ltda., SurveyMonkey Netherlands B.V., and other SurveyMonkey affiliates (collectively “SurveyMonkey”), except where otherwise noted. The services include SurveyMonkey, SurveyMonkey Apply, SurveyMonkey Audience, SurveyMonkey Rewards, SurveyMonkey Contribute, Wufoo, TechValidate, GetFeedback Direct, and GetFeedback Digital. We refer to those products, services, websites, and apps collectively as the “services” in this notice. Unless otherwise noted in your contract, our services are provided by SurveyMonkey Inc. inside of the United States, by SurveyMonkey Brasil Internet Ltda. inside of Brazil, and by SurveyMonkey Europe UC everywhere else.
 
 US residents: Please visit our [Region Specific Privacy Notice](https://www.surveymonkey.com/mp/legal/region-specific-privacy-statement/?ut_source=legal&ut_source2=privacy&ut_source3=inline) for more information on our privacy practices specific to individual states. 
 
@@ -37,42 +37,23 @@ This Privacy Notice does not apply to personal information we collect from our e
 This Notice consists of the following sections: 
 
 1. [Introduction](#introduction) 
-
-2. [Personal Data we collect and the sources](#personal-data-we-collect) 
-
-3. [How we use the Personal Data we collect](#how-we-use-the-personal-data-we-collect) 
-
-4. [How we share or disclose Personal Data](#how-we-share-or-disclose-personal-data) 
-
+2. [Personal Data we collect and the sources](#personal-data-we-collect)
+3. [How we use the Personal Data we collect](#how-we-use-the-personal-data-we-collect)
+4. [How we share or disclose Personal Data](#how-we-share-or-disclose-personal-data)
 5. [Data retention](#data-retention) 
-
 6. [Personalized marketing and cookies](#personalized-marketing-and-cookies) 
-
 7. [Security](#security) 
-
-8. [Minors](#minors) 
-
-9. [Data transfers](#data-transfers) 
-
-10. [Who is my data controller?](#who-is-my-data-controller) 
-
-11. [Your rights](#your-rights) 
-
-12. [Changes to our Privacy Notice](#changes-to-our-privacy-notice) 
-
+8. [Minors](#minors)
+9. [Data transfers](#data-transfers)
+10. [Who is my data controller?](#who-is-my-data-controller)
+11. [Your rights](#your-rights)
+12. [Changes to our Privacy Notice](#changes-to-our-privacy-notice)
 13. [Information specific to other services](#information-specific-to-other-services) 
-
-1. [TechValidate](https://www.surveymonkey.com/mp/legal/privacy-information-specific-to-other-services/) 
-
-2. [Apply](https://www.surveymonkey.com/mp/legal/privacy-information-specific-to-other-services/) 
-
-3. [Wufoo](https://www.surveymonkey.com/mp/legal/privacy-information-specific-to-other-services/) 
-
-4. [GetFeedback Digital](https://www.surveymonkey.com/mp/legal/privacy-information-specific-to-other-services/) 
-
-5. [GetFeedback Direct](https://www.surveymonkey.com/mp/legal/privacy-information-specific-to-other-services/)
-
-6. [Audience (Rewards and Contribute)](https://www.surveymonkey.com/mp/legal/privacy-information-specific-to-other-services/) 
+    1. [TechValidate](https://www.surveymonkey.com/mp/legal/privacy-information-specific-to-other-services/)
+    2. [Apply](https://www.surveymonkey.com/mp/legal/privacy-information-specific-to-other-services/) 
+    3. [Wufoo](https://www.surveymonkey.com/mp/legal/privacy-information-specific-to-other-services/) 
+    4. [GetFeedback Digital](https://www.surveymonkey.com/mp/legal/privacy-information-specific-to-other-services/) 
+    5. [Audience (Rewards and Contribute)](https://www.surveymonkey.com/mp/legal/privacy-information-specific-to-other-services/) 
 
 2\. Personal Data we collect and the sources
 --------------------------------------------
@@ -483,17 +464,17 @@ Your information and data may be processed in and transferred or disclosed in th
 
 We have also provided a [help article](https://help.surveymonkey.com/en/policy/data-processing-agreements-eu/) which answers some additional questions about data transfers to the US.
 
-EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield.
+EU-U.S. Data Privacy Framework (DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF Principles.
 
-SurveyMonkey Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield. SurveyMonkey is committed to subjecting all personal information received from the European Union (EU) member countries, the United Kingdom, and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List see [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
+SurveyMonkey Inc. has self-certified its compliance under the EU-U.S. Data Privacy Framework, and will certify to the UK Extension and the Swiss-U.S. DPF Principles once approved. SurveyMonkey is committed to subjecting all personal information received from the European Union (EU) member countries, the United Kingdom, and Switzerland to the Framework’s applicable Principles. To learn more about the DPF, see [https://www.dataprivacyframework.gov/s](https://www.privacyshield.gov/).
 
-SurveyMonkey also complies with the onward transfer liability provisions of the Privacy Shield Principles.
+SurveyMonkey also complies with the onward transfer liability provisions of the DPF.
 
-When SurveyMonkey receives personal information under the Privacy Shield and then transfers it to a third-party service provider acting as agent on SurveyMonkey's behalf, SurveyMonkey has certain liability under the Privacy Shield if both (i) the agent processes the information in a manner inconsistent with the Privacy Shield and (ii) SurveyMonkey is responsible for the event giving rise to the damage. In certain situations, SurveyMonkey may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+When SurveyMonkey receives personal information under the DPF and then transfers it to a third-party service provider acting as agent on SurveyMonkey's behalf, SurveyMonkey has certain liability under the DPF if both (i) the agent processes the information in a manner inconsistent with the DPF and (ii) SurveyMonkey is responsible for the event giving rise to the damage. In certain situations, SurveyMonkey may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, SurveyMonkey is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. Please contact SurveyMonkey as described in Section 14 below if you have any concerns or complaints of any nature. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider, (free of charge) at [https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim](https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim).
+With respect to personal data received or transferred pursuant to the DPF, SurveyMonkey is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. Please contact SurveyMonkey as described in Section 11 below if you have any concerns or complaints of any nature. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider, (free of charge) at [https://www.jamsadr.com/dpf-dispute-resolution](https://www.jamsadr.com/dpf-dispute-resolution).
 
-Under certain conditions, more fully described on the Privacy Shield website [https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Under certain conditions, more fully described on the DPF website [https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf](https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 10\. Who is my data controller?
 -------------------------------
