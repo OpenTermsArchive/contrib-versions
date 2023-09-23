@@ -1,9 +1,9 @@
 Privacy Notice
 ==============
 
-#### Last Updated: August 11, 2023
+#### Last Updated: September 22, 2023
 
-To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20230630/).
+To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20230811/).
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -164,7 +164,9 @@ We provide additional information about our controllers and data protection offi
     * request deletion of personal information that is no longer necessary for the purposes underlying the processing, processed based on withdrawn consent, or processed in non-compliance with applicable legal requirements; and
     * lodge a complaint with us regarding our practices related to your personal information.
     
-    If you wish to do any of these things and you are an AWS customer, please [contact us](https://console.aws.amazon.com/support/home). If you are not an AWS customer, please contact us at the address stated under [Contacts, Notices, and Revisions](https://aws.amazon.com/privacy/#Contacts.2C_Notices.2C_and_Revisions) above. Further, the Amazon Web Services Canada, Inc. Privacy Officer can be contacted at aws-canada-privacy@amazon.com or by mail at the address noted above.
+    If you wish to do any of these things and you are an AWS customer, please [contact us](https://console.aws.amazon.com/support/home). If you are not an AWS customer, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html) or by mail at 120 Bremner Blvd, 26th Floor, Toronto, Ontario, M5J 0A8, Canada, ATTN: AWS Canada Legal. Further, the Amazon Web Services Canada, Inc. Privacy Officer can be contacted at [aws-canada-privacy@amazon.com](mailto:aws-canada-privacy@amazon.com) or by mail at the address noted above.
+    
+    When you consent to our processing your personal information for a specified purpose, you may withdraw your consent at any time, and we will stop any further processing of your data for that purpose.
     
 * Costa Rica
     
@@ -503,9 +505,9 @@ Customers can access the information above through AWS Offerings, such as the [A
 Privacy Notice
 ==============
 
-#### Last Updated: August 11, 2023
+#### Last Updated: September 22, 2023
 
-To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20230630/).
+To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20230811/).
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -666,7 +668,9 @@ We provide additional information about our controllers and data protection offi
     * request deletion of personal information that is no longer necessary for the purposes underlying the processing, processed based on withdrawn consent, or processed in non-compliance with applicable legal requirements; and
     * lodge a complaint with us regarding our practices related to your personal information.
     
-    If you wish to do any of these things and you are an AWS customer, please [contact us](https://console.aws.amazon.com/support/home). If you are not an AWS customer, please contact us at the address stated under [Contacts, Notices, and Revisions](https://aws.amazon.com/privacy/#Contacts.2C_Notices.2C_and_Revisions) above. Further, the Amazon Web Services Canada, Inc. Privacy Officer can be contacted at aws-canada-privacy@amazon.com or by mail at the address noted above.
+    If you wish to do any of these things and you are an AWS customer, please [contact us](https://console.aws.amazon.com/support/home). If you are not an AWS customer, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html) or by mail at 120 Bremner Blvd, 26th Floor, Toronto, Ontario, M5J 0A8, Canada, ATTN: AWS Canada Legal. Further, the Amazon Web Services Canada, Inc. Privacy Officer can be contacted at [aws-canada-privacy@amazon.com](mailto:aws-canada-privacy@amazon.com) or by mail at the address noted above.
+    
+    When you consent to our processing your personal information for a specified purpose, you may withdraw your consent at any time, and we will stop any further processing of your data for that purpose.
     
 * Costa Rica
     
