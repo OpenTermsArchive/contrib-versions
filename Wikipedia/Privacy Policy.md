@@ -27,7 +27,7 @@ Other languages:
 * [Napulitano](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nap "Privacy policy (9% translated)")
 * [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nl "Policy:Privacy policy/nl (100% translated)")
 * [Nederlands (informeel)](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nl-informal "Privacybeleid (2% translated)")
-* [Nordfriisk](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/frr "Dootenseekerhaid (33% translated)")
+* [Nordfriisk](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/frr "Dootenseekerhaid (21% translated)")
 * [Oromoo](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/om "Imaammata Mateenyaa (9% translated)")
 * [Qaraqalpaqsha](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/kaa "Konfidenciallıq siyasatı (1% translated)")
 * [Ripoarisch](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ksh "Bedengonge för der Ömjang met prevaate Daate (4% translated)")
