@@ -1,8 +1,6 @@
 Privacy Policy
 
-[Prior versions](https://www.quora.com/about/privacy_archive "www.quora.com")
-
-Last Updated: Jul 24, 2023
+Effective date: August 25, 2023
 
 This Quora Privacy Policy (“Privacy Policy”) describes our policies and procedures on the collection, use, disclosure, and sharing of your personal information when you use the Quora Platform. This Privacy Policy applies to activities by Quora, Inc. and its affiliates and subsidiaries (collectively “Quora,” “we” or “us”). Capitalized terms that are not defined in this Privacy Policy have the meaning given to them in our [Terms of Service](https://www.quora.com/about/tos "www.quora.com"). Quora Inc. is the data controller of your personal information and is responsible for providing you with this Privacy Policy.
 
@@ -171,3 +169,5 @@ VeraSafe has been appointed as Quora’s representative in the European Union an
 Privacy Policy Updates
 
 We may occasionally update this Privacy Policy to reflect changes in our privacy practices or relevant data protection laws. We will notify you if we make any material changes and will revise the "Last Updated" date at the top of this Privacy Policy.
+
+[Prior versions](https://www.quora.com/about/privacy_archive "www.quora.com")
