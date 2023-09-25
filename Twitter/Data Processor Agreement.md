@@ -550,6 +550,29 @@ Primary legal basis/bases for processing personal data from the EU, EFTA States,
 
 Consent
 
+Processing purpose
+
+Identify verification for safety & security and general verification
+
+Data
+
+What We Collect:   
+Image of your ID, selfie, which includes face biometric data, and data from your ID
+
+How long do we store:  
+Selfie is deleted soon after we receive verification/processing result
+
+Image of your ID is deleted in 72 hours after processing
+
+Data extracted from the ID may be kept for a longer period for safety purposes, including fraud and impersonation. The data extracted from the ID is deleted after for 30 days. This provides you an opportunity to appeal a verification decision and for X to review your appeal.
+
+Who Stores the data & Who we share with:  
+X does not directly store this data. X shares it with Au10tix, who acts as our data processor. Au10tix processes and stores the data as detailed above.
+
+Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
+
+Consent
+
 \* We do not collect X for Web data from browsers that we believe to be located in the European Union or the European Economic Area.
 
 † We set and use cookies as described in [Our use of cookies and similar technologies](https://help.twitter.com/rules-and-policies/twitter-cookies), and if you are in the European Union, an EFTA State, or the United Kingdom with your consent as provided for under Directive 95/46/EC.
