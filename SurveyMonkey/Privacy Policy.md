@@ -26,7 +26,7 @@ This Privacy Notice does not apply to personal information we collect from our e
 
 **Quick Links**
 
-* If you want to identify your data controller please see the “[Who is my data controller?](https://www.surveymonkey.com/mp/legal/privacy/?ut_source=legal&ut_source2=privacy&ut_source3=inline#who-is-my-data-controller)” section below.
+* If you want to identify your data controller please see the “[Who is my data controller?](https://www.surveymonkey.com/mp/legal/privacy-policy/?ut_source=legal&ut_source2=privacy&ut_source3=inline#who-is-my-data-controller)” section below.
 
 * For a quick snapshot of how SurveyMonkey treats personal information see our [Privacy Basics](https://www.surveymonkey.com/mp/legal/privacy-basics/?ut_source=legal&ut_source2=privacy&ut_source3=inline).
 
@@ -67,7 +67,7 @@ This Notice consists of the following sections: 
 * Device and browser data.  
     We collect information from the device and application you use to access our services. Device data mainly means your IP address, operating system version, device type, device ID/MAC address, system and performance information, and browser type. If you are on a mobile device we also collect the UUID for that device.
 * Information from page tags.  
-    We use first party and third party cookies and tracking services that employ cookies and page tags (also known as [web beacons](https://www.surveymonkey.com/mp/legal/cookies/)) to collect data about visitors to our websites. This data includes usage and user statistics. Emails sent by SurveyMonkey or by users through our services also include page tags that allow the sender to collect information about who opened those emails and clicked on links in them. We provide more information on cookies [below](https://www.surveymonkey.com/mp/legal/privacy/#cookies) and in our [Cookies Notice.](https://www.surveymonkey.com/mp/legal/cookies/?ut_source=legal&ut_source2=privacy&ut_source3=inline)
+    We use first party and third party cookies and tracking services that employ cookies and page tags (also known as [web beacons](https://www.surveymonkey.com/mp/legal/cookies/)) to collect data about visitors to our websites. This data includes usage and user statistics. Emails sent by SurveyMonkey or by users through our services also include page tags that allow the sender to collect information about who opened those emails and clicked on links in them. We provide more information on cookies [below](https://www.surveymonkey.com/mp/legal/privacy-policy/#cookies) and in our [Cookies Notice.](https://www.surveymonkey.com/mp/legal/cookies/?ut_source=legal&ut_source2=privacy&ut_source3=inline)
 * Log Data.  
     Like most websites today, our web servers keep log files that record data each time a device accesses those servers. The log files contain data about the nature of each access, including originating IP addresses, internet service providers, the files viewed on our site (e.g. HTML pages, graphics, etc.), operating system versions, device type and timestamps.
 * Referral information.  
@@ -203,7 +203,7 @@ Account Information
     
     * **De-identified Survey Data**
     
-    We also use survey questions and responses on an aggregated or deidentified basis as described in this Privacy Notice. We will never sell individual response data or identify/contact individual respondents except on your request or where required by law. Feature descriptions will identify where this feature is linked. See our “[Respondent](https://www.surveymonkey.com/mp/legal/privacy/#three-two-respondent)” section.
+    We also use survey questions and responses on an aggregated or deidentified basis as described in this Privacy Notice. We will never sell individual response data or identify/contact individual respondents except on your request or where required by law. Feature descriptions will identify where this feature is linked. See our “[Respondent](https://www.surveymonkey.com/mp/legal/privacy-policy/#three-two-respondent)” section.
     
     * If you are part of a SurveyMonkey Enterprise plan, your plan’s administrator(s) can transfer your survey questions and responses to, or share them with, other members in your team, including your plan’s administrator(s) themselves.  Your plan’s administrator(s) can also delete your survey questions and responses.  Your plan’s administrator(s) may also have the ability to make changes to any aspects of your survey questions and analysis.  Please refer to your organization’s internal policies if you have questions about this. 
     
@@ -229,7 +229,7 @@ Account Information
     
     * Cookies (to include page tags).
     
-    We collect information using cookies when you take a survey. These cookies are used to ensure that the full functionality of our survey service is operational, to ensure the survey operates appropriately and optimally. For more information please read our [Cookies section below](https://www.surveymonkey.com/mp/legal/privacy/#cookies) and our [Respondent Cookies Notice](https://www.surveymonkey.com/mp/legal/survey-page-cookies/?ut_source=legal&ut_source2=privacy&ut_source3=inline). After completion of a survey, in most cases, you will be re-directed to our website and treated as a website visitor where other cookies may be used so you should read our Website Visitor section if this is of interest to you.
+    We collect information using cookies when you take a survey. These cookies are used to ensure that the full functionality of our survey service is operational, to ensure the survey operates appropriately and optimally. For more information please read our [Cookies section below](https://www.surveymonkey.com/mp/legal/privacy-policy/#cookies) and our [Respondent Cookies Notice](https://www.surveymonkey.com/mp/legal/survey-page-cookies/?ut_source=legal&ut_source2=privacy&ut_source3=inline). After completion of a survey, in most cases, you will be re-directed to our website and treated as a website visitor where other cookies may be used so you should read our Website Visitor section if this is of interest to you.
     
     Examples
     
@@ -241,7 +241,7 @@ Account Information
     
     Examples
     
-    We collect information about the types of questions you answer. This data will be aggregated and deidentified so we can examine patterns in terms of respondent preferences when submitting responses (see further below in Information for Survey Respondent [section](https://www.surveymonkey.com/mp/legal/privacy/#two-one-respondents)). We collect and use all this data for our legitimate interests like helping us improve the experience for respondents (so that questions are easier to answer), for training purposes and to understand industry trends in and to help improve the completion rates on surveys/forms.
+    We collect information about the types of questions you answer. This data will be aggregated and deidentified so we can examine patterns in terms of respondent preferences when submitting responses (see further below in Information for Survey Respondent [section](https://www.surveymonkey.com/mp/legal/privacy-policy/#two-one-respondents)). We collect and use all this data for our legitimate interests like helping us improve the experience for respondents (so that questions are easier to answer), for training purposes and to understand industry trends in and to help improve the completion rates on surveys/forms.
     
     We will also use usage information such as the type of survey, form, questionnaire or application that you answered to personalize products we show you on completion of a survey when you are re-directed to our website and to make recommendations to our customers about usage of our services.
     
@@ -338,7 +338,7 @@ Account Information
     
     Examples
     
-    To personalize marketing campaigns run through third party advertisers and help SurveyMonkey measure online advertising success and to deliver ads for our services based on user preferences. See our [Cookies section](https://www.surveymonkey.com/mp/legal/privacy/#cookies). If you do not want SurveyMonkey to use this information to serve you targeted ads about our services, you may indicate your preferences at [https://www.aboutads.info](https://www.aboutads.info/), [https://preferences-mgr.truste.com/](https://preferences-mgr.truste.com/) or, if you are located in the European Union, at [https://www.youronlinechoices.eu/](https://www.youronlinechoices.eu/). You may continue to receive ads over the internet that are not based on information you provided to SurveyMonkey.
+    To personalize marketing campaigns run through third party advertisers and help SurveyMonkey measure online advertising success and to deliver ads for our services based on user preferences. See our [Cookies section](https://www.surveymonkey.com/mp/legal/privacy-policy/#cookies). If you do not want SurveyMonkey to use this information to serve you targeted ads about our services, you may indicate your preferences at [https://www.aboutads.info](https://www.aboutads.info/), [https://preferences-mgr.truste.com/](https://preferences-mgr.truste.com/) or, if you are located in the European Union, at [https://www.youronlinechoices.eu/](https://www.youronlinechoices.eu/). You may continue to receive ads over the internet that are not based on information you provided to SurveyMonkey.
     
     **Legitimate Interest**
     
