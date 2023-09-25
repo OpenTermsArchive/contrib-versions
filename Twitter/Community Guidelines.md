@@ -1,1727 +1,1205 @@
-Hateful Conduct
-===============
+Child sexual exploitation policy
+================================
 
 ### Overview 
 
-**April 2023**
+**October 2020**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is in violation of this policy? 
 
-**Incitement  
-**
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+The following behaviors are also not permitted:   
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-**Slurs and Tropes**  
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Additional resources 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-**Hateful Imagery** 
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Child sexual exploitation policy
+================================
 
 ### Overview 
 
-**April 2023**
+**October 2020**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is in violation of this policy? 
 
-**Incitement  
-**
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+The following behaviors are also not permitted:   
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-**Slurs and Tropes**  
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Additional resources 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-**Hateful Imagery** 
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Child sexual exploitation policy
+================================
 
 ### Overview 
 
-**April 2023**
+**October 2020**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is in violation of this policy? 
 
-**Incitement  
-**
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+The following behaviors are also not permitted:   
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-**Slurs and Tropes**  
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Additional resources 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-**Hateful Imagery** 
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Child sexual exploitation policy
+================================
 
 ### Overview 
 
-**April 2023**
+**October 2020**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is in violation of this policy? 
 
-**Incitement  
-**
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+The following behaviors are also not permitted:   
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-**Slurs and Tropes**  
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Additional resources 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-**Hateful Imagery** 
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Child sexual exploitation policy
+================================
 
 ### Overview 
 
-**April 2023**
+**October 2020**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is in violation of this policy? 
 
-**Incitement  
-**
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+The following behaviors are also not permitted:   
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-**Slurs and Tropes**  
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Additional resources 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-**Hateful Imagery** 
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Child sexual exploitation policy
+================================
 
 ### Overview 
 
-**April 2023**
+**October 2020**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is in violation of this policy? 
 
-**Incitement  
-**
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+The following behaviors are also not permitted:   
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-**Slurs and Tropes**  
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Additional resources 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-**Hateful Imagery** 
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Child sexual exploitation policy
+================================
 
 ### Overview 
 
-**April 2023**
+**October 2020**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is in violation of this policy? 
 
-**Incitement  
-**
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+The following behaviors are also not permitted:   
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-**Slurs and Tropes**  
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Additional resources 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-**Hateful Imagery** 
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Child sexual exploitation policy
+================================
 
 ### Overview 
 
-**April 2023**
+**October 2020**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is in violation of this policy? 
 
-**Incitement  
-**
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+The following behaviors are also not permitted:   
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-**Slurs and Tropes**  
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Additional resources 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-**Hateful Imagery** 
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Child sexual exploitation policy
+================================
 
 ### Overview 
 
-**April 2023**
+**October 2020**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is in violation of this policy? 
 
-**Incitement  
-**
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+The following behaviors are also not permitted:   
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-**Slurs and Tropes**  
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Additional resources 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-**Hateful Imagery** 
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Child sexual exploitation policy
+================================
 
 ### Overview 
 
-**April 2023**
+**October 2020**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is in violation of this policy? 
 
-**Incitement  
-**
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+The following behaviors are also not permitted:   
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-**Slurs and Tropes**  
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Additional resources 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-**Hateful Imagery** 
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Child sexual exploitation policy
+================================
 
 ### Overview 
 
-**April 2023**
+**October 2020**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is in violation of this policy? 
 
-**Incitement  
-**
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+The following behaviors are also not permitted:   
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-**Slurs and Tropes**  
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Additional resources 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-**Hateful Imagery** 
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Child sexual exploitation policy
+================================
 
 ### Overview 
 
-**April 2023**
+**October 2020**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is in violation of this policy? 
 
-**Incitement  
-**
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+The following behaviors are also not permitted:   
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-**Slurs and Tropes**  
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Additional resources 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-**Hateful Imagery** 
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Child sexual exploitation policy
+================================
 
 ### Overview 
 
-**April 2023**
+**October 2020**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is in violation of this policy? 
 
-**Incitement  
-**
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+The following behaviors are also not permitted:   
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-**Slurs and Tropes**  
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Additional resources 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-**Hateful Imagery** 
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Child sexual exploitation policy
+================================
 
 ### Overview 
 
-**April 2023**
+**October 2020**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is in violation of this policy? 
 
-**Incitement  
-**
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+The following behaviors are also not permitted:   
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-**Slurs and Tropes**  
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Additional resources 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-**Hateful Imagery** 
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Child sexual exploitation policy
+================================
 
 ### Overview 
 
-**April 2023**
+**October 2020**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is in violation of this policy? 
 
-**Incitement  
-**
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+The following behaviors are also not permitted:   
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-**Slurs and Tropes**  
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Additional resources 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-**Hateful Imagery** 
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Child sexual exploitation policy
+================================
 
 ### Overview 
 
-**April 2023**
+**October 2020**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is in violation of this policy? 
 
-**Incitement  
-**
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+The following behaviors are also not permitted:   
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-**Slurs and Tropes**  
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Additional resources 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-**Hateful Imagery** 
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Child sexual exploitation policy
+================================
 
 ### Overview 
 
-**April 2023**
+**October 2020**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is in violation of this policy? 
 
-**Incitement  
-**
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+The following behaviors are also not permitted:   
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-**Slurs and Tropes**  
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Additional resources 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-**Hateful Imagery** 
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Child sexual exploitation policy
+================================
 
 ### Overview 
 
-**April 2023**
+**October 2020**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is in violation of this policy? 
 
-**Incitement  
-**
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+The following behaviors are also not permitted:   
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-**Slurs and Tropes**  
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Additional resources 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-**Hateful Imagery** 
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
