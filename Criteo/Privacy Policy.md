@@ -112,9 +112,9 @@ Criteo respects the [self-regulatory principles of the Digital Advertising Alli
 
 Criteo adheres to the [codes of conduct of the Network Advertising Initiative (NAI)](http://www.networkadvertising.org/code-enforcement/code) and is integrated with the [NAI unsubscription platform](http://optout.networkadvertising.org/?c=1), which offers you the opportunity to express your choices regarding online advertising to all the players involved, and in particular your desire to disable their services.
 
-* **IAB Europe****![](https://www.criteo.com/wp-content/uploads/2017/10/iabeurope.jpg-Q-width76-height76iabeurope.jpg)**
+* **IAB Europe** **![](https://www.criteo.com/wp-content/uploads/2023/09/IAB-Europe-logo.png)**
 
-Criteo respects the [IAB Europe principles on online behavioural advertising](https://www.iabeurope.eu/files/5013/8487/2916/2013-11-11_IAB_Europe_OBA_Framework.pdf) and is integrated with the [IAB Europe unsubscription platform “YourOnlineChoices”](http://www.youronlinechoices.com/uk/your-ad-choices), which offers you the opportunity to express your choices about online advertising to all its stakeholders, including your desire to disable their services.
+Criteo participates in the [IAB Europe Transparency & Consent Framework](https://iabeurope.eu/transparency-consent-framework/) and complies with its Specifications and Policies. Criteo’s identification number within the framework is 91.
 
 Criteo imposes a high level of requirements on its partners
 
