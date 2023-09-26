@@ -41,9 +41,9 @@ NEXTROLL MAY UPDATE OR OTHERWISE MODIFY THIS AGREEMENT FROM TIME TO TIME. CUSTOM
 
 * **"Ad(s)"** means Customer’s advertisements, in any form, including without limitation    display, video, email, or TV.
     
-* **“Agency(ies)”** means an advertising agency that manages Services on behalf of one or more Clients (defined in Section 4.1), and has executed an Order Form or Insertion Order.  References to “Customers” shall include Agencies. 
+* **“Agency(ies)”** means an advertising agency that manages Services on behalf of one or more Clients (defined in Section 4.1), and has executed an Agency Advanced Package Agreement, or Order Form or Insertion Order.  References to “Customers” shall include Agencies.
     
-* **“Applicable Law(s)”** means any applicable federal, state, and foreign laws or regulations or any industry self-regulatory rules or guidelines that relate to a party’s rights and obligations under this Agreement (including, but not limited to, the Interactive Advertising Bureau (IAB) Guidelines, Standards & Best Practices, the Network Advertising Initiative (NAI) Code of Conduct, the Digital Advertising Alliance (DAA) Self-Regulatory Principles for Online Behavioral Advertising, the General Data Protection Regulation (EU) 2016/679 (GDPR), the California Consumer Privacy Act of 2018 (CCPA), the California Privacy Rights Act of 2020 (CPRA), and the Childrens’ Online Privacy Protection Act (COPPA)).
+* **“Applicable Law(s)”** means any applicable federal, state, and foreign laws or regulations or any industry self-regulatory rules or guidelines that relate to a party’s rights and obligations under or in connection with  this Agreement, or which otherwise regulate a party’s conduct (including, but not limited to, the Interactive Advertising Bureau (IAB) Guidelines, Standards & Best Practices, the Network Advertising Initiative (NAI) Code of Conduct, the Digital Advertising Alliance (DAA) Self-Regulatory Principles for Online Behavioral Advertising, the General Data Protection Regulation (EU) 2016/679 (GDPR), the California Consumer Privacy Act of 2018 (CCPA), the California Privacy Rights Act of 2020 (CPRA), and the Childrens’ Online Privacy Protection Act (COPPA)).
     
 * **“Authorized Reseller”** means an entity that is authorized by NextRoll to resell the Services to Clients (defined in Section 4.1) through its own proprietary platform, that has executed an Order Form or Insertion Order.  References to “Customers” shall include Authorized Resellers.
     
@@ -146,7 +146,7 @@ NEXTROLL MAY UPDATE OR OTHERWISE MODIFY THIS AGREEMENT FROM TIME TO TIME. CUSTOM
     
 2. No exclusivity. Agency Clients may request at any time to be migrated over to another Agency Account or to a direct Account with NextRoll and nothing in this Agreement will prevent NextRoll from facilitating such transfer or from Clients from entering into a direct relationship with NextRoll.
     
-3. Disclosure to Clients about Agency Rebates and/or Referral Fees. NextRoll may provide rebates and/or referral fees to Agencies that introduce Clients to NextRoll.  If applicable, Agency represents and warrants to NextRoll that it will make all appropriate disclosures about the rebate and/or referral fee to Clients as required under Applicable Law.
+3. Disclosure to Clients about Agency Rebates and/or Referral Fees. NextRoll may provide rebates and/or referral fees to Agencies that introduce Clients to NextRoll.  If applicable, Agency represents and warrants to NextRoll that it will make all appropriate disclosures about Agency Advance Package Agreement and the rebate and/or referral fee to Clients as required under Applicable Law.
     
 
 **4.3 Authorized Resellers.** Authorized Resellers may establish a “**Reseller Account**” to facilitate Authorized Resellers’ marketing and sale of Services to Clients.  Authorized Resellers may be required to enter into a separate license to use NextRoll’s Reseller API ([https://www.nextroll.com/terms/api](https://www.nextroll.com/terms/api)). 
