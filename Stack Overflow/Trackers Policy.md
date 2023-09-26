@@ -209,7 +209,7 @@ How to contact us
 
 If you have any questions, comments, or concerns regarding this Cookies Policy, please contact Stack Overflow at:
 
-[privacy@stackoverflow.com](mailto:privacy@stackoverflow.com)
+[\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection)
 
 Changes to this policy
 
