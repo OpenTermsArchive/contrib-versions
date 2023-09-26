@@ -1,6 +1,6 @@
 Privacy Notice - Binance
 
-Last updated: 27 July 2023
+Last updated: 26 September 2023
 
 Binance (“Binance”, “we”, or “us”) is committed to protecting the privacy of our customers, and we take our data protection responsibilities with the utmost seriousness.
 
@@ -155,7 +155,7 @@ Subject to applicable law, as outlined below, you have a number of rights in rel
     
 * **Right to withdraw your consent:** for processing requiring your consent, you have the right to withdraw your consent at any time. Exercising this right does not affect the lawfulness of the processing based on the consent given before the withdrawal of the latter;
     
-* **Right to lodge a complaint with the relevant data protection authority:** We hope that we can satisfy any queries you may have about the way in which we process your personal data. However, if you have unresolved concerns, you also have the right to complain to the Irish Data Protection Commission or the data protection authority in the location in which you live, work or believe a data protection breach has occurred.
+* **Right to lodge a complaint with the relevant data protection authority:** We hope that we can satisfy any queries you may have about the way in which we process your personal data. However, if you have unresolved concerns, you also have the right to complain to the data protection authority in the location in which you live, work or believe a data protection breach has occurred.
     
 
 If you have any questions or objection as to how we collect and process your personal data, please contact us using the webform available [here](https://privacyportal-bn.my.onetrust.com/webform/99f99939-5a0d-4feb-aef3-ba45f16b6907/207567de-2c3f-440e-8e36-adcae06ed0e5).
