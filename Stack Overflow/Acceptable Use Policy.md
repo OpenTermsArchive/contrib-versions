@@ -17,7 +17,7 @@ When your account is suspended, public access to content contributed under that 
 
 **Disruptions and Exploits.** We will terminate accounts and block addresses of those who attempt unauthorized use of the Stack Exchange Network.
 
-**Copyright.** Using copyrighted material does not constitute infringement in all cases. In general, however, users should be careful when using copyrighted content without the permission of those who created it. It is our policy to respond to notices of alleged infringement sent to legal@stackoverflow.com that comply with the [Digital Millennium Copyright Act ("DMCA")](http://www.loc.gov/copyright/legislation/dmca.pdf).
+**Copyright.** Using copyrighted material does not constitute infringement in all cases. In general, however, users should be careful when using copyrighted content without the permission of those who created it. It is our policy to respond to notices of alleged infringement sent to [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection) that comply with the [Digital Millennium Copyright Act ("DMCA")](http://www.loc.gov/copyright/legislation/dmca.pdf).
 
 **Mass Registration and Automation.** Accounts that are registered automatically or systematically will be removed and access will be permanently suspended.
 
