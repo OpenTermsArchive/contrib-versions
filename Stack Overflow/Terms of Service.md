@@ -109,7 +109,7 @@ The parties to these Public Network Terms are independent contractors and these 
 
 #### f. Notices
 
-Unless otherwise specified in these Public Network Terms, all notices under these Public Network Terms will be in writing and will be deemed to have been duly given when received, if personally delivered or sent by certified or registered mail, return receipt requested; when receipt is electronically confirmed, if transmitted by facsimile or e-mail; or the day after it is sent, if sent for next day delivery by recognized overnight delivery service. Electronic notices should be sent to legal@stackoverflow.com.
+Unless otherwise specified in these Public Network Terms, all notices under these Public Network Terms will be in writing and will be deemed to have been duly given when received, if personally delivered or sent by certified or registered mail, return receipt requested; when receipt is electronically confirmed, if transmitted by facsimile or e-mail; or the day after it is sent, if sent for next day delivery by recognized overnight delivery service. Electronic notices should be sent to [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection).
 
 #### g. No Waiver
 
@@ -160,6 +160,6 @@ Stack Exchange Inc.
 New York, NY 10005  
 **Tel**: +1 (212) 232-8280  
 **Fax**: +1 (212) 785-4578  
-**Email**: [dmca@stackoverflow.com](mailto:dmca@stackoverflow.com)  
+**Email**: [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection)  
 
 Last update: January 12, 2022
