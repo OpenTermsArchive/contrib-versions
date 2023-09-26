@@ -7,8 +7,8 @@ We believe in our core mission to _"make the Internet a better place to get expe
 
 This document is designed to establish guidelines for use of our names (copyright) and logos (trademarks). The "names" and "logos" discussed here refer collectively to **any** **site or service** on the Stack Exchange network and Stack Exchange Inc. This document does not replace or waive any rights protected under Trademark or Copyright law. Please note:
 
-* If you would like to use our trademark or name in ways **not clearly covered** by this document, please [contact us](mailto:team@stackexchange.com).
-* If you ever stumble across anything that looks like it violates our copyright, trademark, or policies, please [let us know](mailto:team@stackexchange.com).
+* If you would like to use our trademark or name in ways **not clearly covered** by this document, please [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection).
+* If you ever stumble across anything that looks like it violates our copyright, trademark, or policies, please [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection).
 
 ### Trademark and Copyright
 
