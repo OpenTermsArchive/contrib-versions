@@ -1,7 +1,7 @@
 Privacy policy
 ==============
 
-This version (Version 4.13) is effective as of July 21, 2023.
+This version (Version 4.14) is effective as of September 26, 2023.
 
 * [Overview](#overview)
 * [About Us](#about)
@@ -62,7 +62,7 @@ The contact information above should also be used for communications relating to
 Our EU representative: as we, O'Reilly Media, Inc. and Safari Books Online, LLC, are not established in the EU, pursuant to Article 27 of the General Data Protection Regulation (GDPR), we have appointed European Data Protection Office (EDPO) as our GDPR representative in the EU, whom you may contact if you are located in the EU to raise any issues or queries you have relating to our processing of your personal information and/or this Privacy Policy more generally. You can contact EDPO:
 
 * By using EDPO's online request form: [https://edpo.com/gdpr-data-request/](https://edpo.com/gdpr-data-request/)
-* By writing to EDPO at Regus Block 1, Blanchardstown Corporate Park, Ballycoolen Road, Blanchardstown, Dublin 15, D15 AKK1, Ireland
+* By writing to EDPO at Regus Block 1, Blanchardstown Corporate Park, Ballycoolin Road, Blanchardstown, Dublin 15, D15 AKK1, Ireland
 
 Our UK representative: we have appointed O'Reilly UK Limited as our representative in the UK, whom you may contact if you are located in the UK to raise any issues or queries you have relating to our processing of your personal information and/or this Privacy Policy more generally. You can contact O'Reilly UK Limited via email at the following address:
 
@@ -270,9 +270,9 @@ You can also play a part in keeping your information safe by:
 
 O'Reilly and Safari are both based in the United States of America.
 
-### 5.1 EU-US Data Privacy Framework
+### 5.1 Data Privacy Framework: EU-US, Swiss-US, and UK Extension
 
-O'Reilly Media, Inc. and Safari Books Online, LLC (and entities and subsidiaries that are, or may become, covered by O'Reilly or Safari's Data Privacy Framework certification) participate in and have certified their compliance with the EU-US Data Privacy Framework and the Swiss-US Data Privacy Framework (collectively the "Data Privacy Framework"). O'Reilly and Safari are committed to subjecting all personal information received from the European Economic Area, United Kingdom, and Switzerland ("DPF Covered Data"), respectively, in reliance on each Data Privacy Framework, to the Framework's applicable Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, and Enforcement and Liability, any applicable supplemental principles (collectively the "DPF Principles"). O'Reilly and Safari have each certified to the US Department of Commerce that it adheres to the DPF Principles. To learn more about the Data Privacy Framework and to view O'Reilly and Safari's certifications, please visit the US Department of Commerce's Data Privacy Framework List, available at [https://www.dataprivacyframework.gov/s/](https://www.dataprivacyframework.gov/s/). If there is any conflict between the terms in this Policy and the DPF Principles, the DPF Principles shall govern. Additionally, O'Reilly and Safari may protect your data through other legally valid methods, including international data transfer agreements.
+O'Reilly Media, Inc. and Safari Books Online, LLC (and entities and subsidiaries that are, or may become, covered by O'Reilly or Safari's Data Privacy Framework certification) participate in and have certified their compliance with the EU-US Data Privacy Framework, the Swiss-US Data Privacy Framework, and the UK Extension to the EU-US Data Privacy Framework (collectively the "Data Privacy Framework"). O'Reilly and Safari are committed to subjecting all personal information received from the European Economic Area, United Kingdom, and Switzerland ("DPF Covered Data"), respectively, in reliance on each Data Privacy Framework, to the Framework's applicable Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, and Enforcement and Liability, any applicable supplemental principles (collectively the "DPF Principles"). O'Reilly and Safari have each certified to the US Department of Commerce that it adheres to the DPF Principles. To learn more about the Data Privacy Framework and to view O'Reilly and Safari's certifications, please visit the US Department of Commerce's Data Privacy Framework List, available at [https://www.dataprivacyframework.gov/s/](https://www.dataprivacyframework.gov/s/). If there is any conflict between the terms in this Policy and the DPF Principles, the DPF Principles shall govern. Additionally, O'Reilly and Safari may protect your data through other legally valid methods, including international data transfer agreements.
 
 Under the Data Privacy Framework, O'Reilly and Safari collect, use, and disclose DPF Covered Data for the purposes described in this Policy. Under the Data Privacy Framework, as described in Section 6 below, you may inquire as to whether O'Reilly and/or Safari is processing personal information about you, request access to personal information, and ask that we correct, amend, or delete your personal information where it is inaccurate or has been processed in violation of the DPF Principles. O'Reilly and Safari are responsible for the processing of personal information each receives, under each Data Privacy Framework, and subsequently transfers to a third party acting as an agent on its behalf. The Data Privacy Framework requires that O'Reilly and Safari remain liable should their third parties process personal information in a manner inconsistent with the DPF Principles. O'Reilly and Safari comply with the DPF Principles for all onward transfers of personal data from the European Economic Area, United Kingdom, and Switzerland, including the onward transfer liability provisions.
 
@@ -282,7 +282,7 @@ If you are an EU or Swiss citizen and feel that we are not abiding by the terms 
 
 Under certain conditions, more fully described on the Data Privacy Framework website [https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf](https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted. For additional information, see [https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf](https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf).
 
-If you are not satisfied with our response, O'Reilly and Safari further commit to cooperate with the [EU data protection authorities (DPAs)](https://edpb.europa.eu/about-edpb/about-edpb/members_en) and the [Swiss Federal Data Protection and Information Commissioner (FDPIC)](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/task.html) with regard to the investigation and resolution of unresolved Data Privacy Framework complaints concerning data transferred from the EU and Switzerland to the United States.
+If you are not satisfied with our response, O'Reilly and Safari further commit to cooperate with the EU data protection authorities (DPAs), the UK Information Commissioner's Office (ICO), and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to the investigation and resolution of unresolved Data Privacy Framework complaints concerning data transferred from the EU and Switzerland to the United States.
 
 ### 5.2 Special note to users outside of the United States
 
@@ -416,6 +416,8 @@ Please note that this Policy may change from time to time. We will not reduce yo
 --------------------------------------------
 
 ### 12.1 O'Reilly and Safari privacy policies
+
+[Click here for version 4.13](https://www.oreilly.com/privacy-072123.html)
 
 [Click here for version 4.12](https://www.oreilly.com/privacy-120622.html)
 
