@@ -56,7 +56,7 @@ Stack Exchange, Inc. is the Controller responsible for your personal data collec
 
 If you interact with Stack Overflow through your organization, please refer to the specific privacy notices applicable to those Products.
 
-If you have any questions about this Privacy Notice or the way in which we use your personal data, please contact us at [privacy@stackoverflow.com](mailto:privacy@stackoverflow.com)
+If you have any questions about this Privacy Notice or the way in which we use your personal data, please contact us at [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection)
 
 WHAT INFORMATION DO WE COLLECT?
 
@@ -247,7 +247,7 @@ As the world’s largest developer community, Stack Overflow publishes an annual
 
 When we publish our surveys, they are published as a compilation of anonymized data. We may ask for your consent to contact you following completion of the surveys.
 
-If you have any questions concerning the Developer Survey or other survey and our security measures to protect your sensitive personal data, please contact us at: [privacy@stackoverflow.com](mailto:privacy@stackoverflow.com).
+If you have any questions concerning the Developer Survey or other survey and our security measures to protect your sensitive personal data, please contact us at: [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection).
 
 **Advertising on our Network**
 
@@ -340,7 +340,7 @@ We may carry out interest-based advertising through third party services such as
 
 More information and resources on how you can control your ad choices and how to opt out of interest based advertising can be found on [NAI Consumer Opt Out](https://optout.networkadvertising.org/?c=1) and [YourAdChoices.com](https://youradchoices.com/).
 
-If you want to access or control personal data processed by Stack Overflow that is not available via the tools, please refer to [Your Rights](#rights) or contact us at [privacy@stackoverflow.com](mailto:privacy@stackoverflow.com).
+If you want to access or control personal data processed by Stack Overflow that is not available via the tools, please refer to [Your Rights](#rights) or contact us at [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection).
 
 YOUR RIGHTS
 
@@ -383,7 +383,7 @@ If applicable, we will only transfer or share your personal data outside the UK/
 * to a country, territory or organization that has been assessed as providing an adequate level of protection for personal data ‘adequacy decision’ by the UK or the EU Commission;
 * By using legally-approved UK or EU Standard Contractual Clauses (SCCS) or Model Clauses, in addition to implementing appropriate supplementary measures to ensure the protection of the personal data.
 
-If you are located in the UK or the EU, you may contact us at [legal@stackoverflow.com](mailto:legal@stackoverflow.com) to request a copy of the Standard Contractual Clauses.
+If you are located in the UK or the EU, you may contact us at [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection) to request a copy of the Standard Contractual Clauses.
 
 By accessing the Stack Overflow Network and engaging with our Products and Services, you acknowledge that your personal data may be collected and transferred from your local jurisdiction (including those in the European Economic Area (EEA) and the UK) to the United States or other jurisdictions.
 
@@ -429,7 +429,7 @@ You can find more information about (a) what we collect and sources of that info
 
 California consumers have additional rights under the CCPA (subject to certain limitations), including the right to request access to or deletion of your personal information, and information about our data practices, as well as the right not to be discriminated against for exercising your privacy rights.
 
-These rights can be exercised by contacting us at [privacy@stackoverflow.com](mailto:privacy@stackoverflow.com).
+These rights can be exercised by contacting us at [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection).
 
 We will verify your request using the information associated with your account, including email address. Government identification may be required. Consumers can also designate an authorized agent to exercise these rights on their behalf.
 
@@ -445,14 +445,14 @@ CONTACT US
 
 Privacy Officer
 
-* Privacy Officer, 14 Wall Street, 20th Floor, New York, NY 10005, [privacy@stackoverflow.com](mailto:privacy@stackoverflow.com), phone: 212-232-8280
+* Privacy Officer, 14 Wall Street, 20th Floor, New York, NY 10005, [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection), phone: 212-232-8280
 
 UK Representative
 
-* Privacy Officer, Bentima House, 168-172 Old Street, London EC1V 9BP, [privacy@stackoverflow.com](mailto:privacy@stackoverflow.com), phone: +44 (0) 20 3349 1000
+* Privacy Officer, Bentima House, 168-172 Old Street, London EC1V 9BP, [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection), phone: +44 (0) 20 3349 1000
 
 EU Representative
 
 * The MD Stack Overflow GMBH HRB 234500  
     3 Frieslandstraat, Amsterdam,  
-    [privacy@stackoverflow.com](mailto:privacy@stackoverflow.com), phone: +44 (0) 20 3349 1000
+    [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection), phone: +44 (0) 20 3349 1000
