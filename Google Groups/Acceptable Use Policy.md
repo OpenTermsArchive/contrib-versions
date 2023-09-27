@@ -12,7 +12,7 @@ Our content policies play an important role in maintaining a positive experience
 
 * Do not use Groups as a way to make money on adult content. For example, don’t link to commercial porn websites in order to make money in your posts.
 * We do not allow non-consensual or illegal sexual content, including image, video or textual content that depicts or encourages rape, incest, bestiality, or necrophilia.
-* Do not post or distribute private nude, sexually explicit, or non-explicit intimate and sexual images or videos without the subject’s consent. If someone has posted a private nude, sexually explicit, or non-explicit intimate and sexual image or video of you, please report it to us [here](https://support.google.com/blogger/answer/7540088).
+* Do not post or distribute private nude, sexually explicit, or non-explicit intimate and sexual images or videos without the subject’s consent. If someone has posted a private nude, sexually explicit, or non-explicit intimate and sexual image or video of you, please report it to us [here](https://support.google.com/groups/answer/7540088).
 
 **Child safety**: We have a zero tolerance policy towards content that exploits children. Some examples of this include:
 
