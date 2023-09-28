@@ -441,6 +441,7 @@ Specific Google services
 
 The following privacy notices provide additional information about some Google services:
 
+* [Chrome & the Chrome Operating System](https://www.google.com/chrome/intl/en-GB/privacy.html)
 * [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=en-GB)
 * [Fiber](https://fiber.google.com/legal/privacy.html)
 * [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
