@@ -40,7 +40,7 @@ This Site and Children
 
 As described above, we do not knowingly collect personally identifiable information from children under 13.
 
-If you are a parent or legal guardian and have questions about this privacy policy or think your child under 13 has given us information, you can email us at [privacy@coolmath.com](mailto:privacy@coolmath.com).
+If you are a parent or legal guardian and have questions about this privacy policy or think your child under 13 has given us information, you can email us at [\[email protected\]](https://www.coolmath4kids.com/cdn-cgi/l/email-protection).
 
 Security
 
@@ -52,7 +52,7 @@ If you click on a link to another website, you may be taken to websites with dif
 
 Questions or Concerns
 
-If you have any questions or concerns about this policy, please email us at [privacy@coolmath.com](mailto:privacy@coolmath.com).
+If you have any questions or concerns about this policy, please email us at [\[email protected\]](https://www.coolmath4kids.com/cdn-cgi/l/email-protection).
 
 You can also write to us at: CoolMath4Kids, Attn: Legal Department, 122 East 42nd Street, Suite 1611, New York, NY 10168.
 
