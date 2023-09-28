@@ -1,6 +1,8 @@
 LINE Terms and Conditions of Use
 ================================
 
+**Starting from October 1, 2023, the LINE Terms and Conditions of Use will be replaced by the LY Corporation Common Terms of Use, and these will be applied accordingly. Click [here](https://terms.line.me/line_terms_notice?lang=en) to view the LY Corporation Common Terms of Use.**
+
 These LINE Terms and Conditions of Use (these “Terms and Conditions“) set forth the terms and conditions for the use of any and all products and services (collectively, the “Services”) provided by LINE Corporation (“LINE“) to users of the Services (the “User“ or “Users“, depending upon the context).
 
 **1\. Definitions**
