@@ -1,11 +1,11 @@
 Google Chrome and ChromeOS Additional Terms of Service
 ======================================================
 
-Last modified: 01 January, 2021
+Last modified: 08 September, 2023
 
 By using Chrome or ChromeOS, you agree to the Google Terms of Service located at https://policies.google.com/terms and these Google Chrome and ChromeOS Additional Terms of Service.
 
-These Google Chrome and ChromeOS Additional Terms of Service apply to the executable code version of Chrome and ChromeOS. Most source code for Chrome is available free of charge under open source software license agreements at https://code.google.com/chromium/terms.html.
+These Google Chrome and ChromeOS Additional Terms of Service apply to the executable code version of Chrome and ChromeOS. Most source code for Chrome is available free of charge under open source software license agreements at chrome://credits.
 
 Your use of certain components of Chrome and ChromeOS is subject to the following terms:
 
