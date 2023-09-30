@@ -36,7 +36,7 @@ General
 * [What links here](https://foundation.wikimedia.org/wiki/Special:WhatLinksHere/Policy:Terms_of_Use "A list of all wiki pages that link here [j]")
 * [Related changes](https://foundation.wikimedia.org/wiki/Special:RecentChangesLinked/Policy:Terms_of_Use "Recent changes in pages linked from this page [k]")
 * [Special pages](https://foundation.wikimedia.org/wiki/Special:SpecialPages "A list of all special pages [q]")
-* [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=267246 "Permanent link to this revision of this page")
+* [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=285736 "Permanent link to this revision of this page")
 * [Page information](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=info "More information about this page")
 * [Get shortened URL](https://foundation.wikimedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
 * [Wikidata item](https://www.wikidata.org/wiki/Special:EntityPage/Q118719909 "Link to connected data repository item [g]")
@@ -76,7 +76,7 @@ Other languages:
 * [Lëtzebuergesch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lb "Konditioune fir d'Benotzenfr (4% translated)")
 * [Malti](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mt "Policy:Terms of Use/mt (1% translated)")
 * [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nl "Gebruiksvoorwaarden (100% translated)")
-* [Qafár af](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/aa "Policy:Terms of Use/aa (4% translated)")
+* [Qafár af](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/aa "Policy:Terms of Use/aa (0% translated)")
 * [Qaraqalpaqsha](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/kaa "Paydalanıw shártleri (1% translated)")
 * [Ripoarisch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ksh "Bedengonge för der Jebruch (17% translated)")
 * [Runa Simi](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/qu "Q'apinapa kamachikuna (5% translated)")
@@ -486,7 +486,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 ![](//foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=267246](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=267246)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=285736](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=285736)"
 
 [Categories](https://foundation.wikimedia.org/wiki/Special:Categories "Special:Categories"):
 
