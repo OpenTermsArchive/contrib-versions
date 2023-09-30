@@ -18,16 +18,19 @@ These policies are designed to ensure a safe and positive experience for our cus
 
 Our Shopping ads policies cover four broad areas:
 
-* ![Google Ads policies | prohibited content](//storage.googleapis.com/support-kms-prod/RrjdySjRxcYJL3NpcXaobwTxuk7zctDbL8rX) **[Prohibited content](#con)**: Content that you're not allowed to promote on the Google Network
-* ![Google Ads policies | prohibited practice](//storage.googleapis.com/support-kms-prod/aYpRwkWqocXCGj8TVXwShJAbVpbcYO9qABIs) **[Prohibited practices](#pra)**: Things you can't do if you want to advertise with us
-* ![Google Ads policies | restricted content](//storage.googleapis.com/support-kms-prod/tNErobNFH6ZkSwZtpMfEXrQkhCi1uMdPn3ur) **[Restricted content](#res)**: Content that you can advertise but with limitations
-* ![Google Ads policies | editorial and technical content](//storage.googleapis.com/support-kms-prod/MIXDdIdSQ69Eq1NzuL5dUJjHRDYr9sjXX3wp) **[Editorial and technical](#ed)**: Quality standards for your ads and website
+**[Prohibited content](#con):** Content that you're not allowed to promote on the Google Network
+
+**[Prohibited practices](#pra):** Things that you can't do if you want to advertise with us
+
+**[Restricted content](#res):** Content that you can advertise, but with limitations
+
+**[Editorial and technical](#ed):** Quality standards for your ads and website
 
 Click through the policies below for policy definitions, examples and troubleshooting steps.
 
-We use a combination of Google's AI and human evaluation to ensure that Shopping ads comply with these policies. Our enforcement technologies use Google's AI, modelled on human reviewers' decisions, to help protect our customers and keep our ad platforms safe. More complex, nuanced or severe cases are often reviewed and evaluated by our specially trained experts.
+We use a combination of Google AI and human evaluation to ensure that Shopping ads comply with these policies. Our enforcement technologies use Google AI, modelled on human reviewers' decisions, to help protect our customers and keep our ad platforms safe. More complex, nuanced or severe cases are often reviewed and evaluated by our specially trained experts.
 
-We take action on content that violates our policies. This may include disapproving violating Shopping ads so that they don't serve, temporarily capping ad impressions for some accounts flagged by Google's AI and suspending accounts for repeat or egregious violations.
+We take action on content that violates our policies. This may include disapproving violative Shopping ads so that they aren't served, temporarily capping ad impressions for some accounts flagged by Google AI and suspending accounts for repeat or egregious violations.
 
 We will provide you with information on our decision for any policy violation enforcement actions that we take. If one of your Shopping ads is disapproved, [you can fix that Shopping ad or appeal the decision](https://support.google.com/merchants/answer/6109185). You can also [appeal an account suspension decision](https://ads.google.com/nav/selectaccount?authuser=0&dst=/aw/overview?supportResource%3Dsuspension_help) (for this link to work, you'll need to be signed in to your Google Ads account).
 
@@ -35,13 +38,13 @@ We will provide you with information on our decision for any policy violation en
 
 #### [Counterfeit goods](https://support.google.com/merchants/merchants/answer/6149993)
 
-> Google prohibits the sale or promotion for sale of counterfeit products. Counterfeit goods contain a trademark or logo that is identical to or substantially indistinguishable from the trademark or logo of another brand. They mimic the brand features of the product in an attempt to pass themselves off as a genuine product of the brand owner.  
+> Google prohibits the sale or promotion for sale of counterfeit products. Counterfeit goods contain a trademark or logo that is identical to or substantially indistinguishable from the trademark or logo of another. They mimic the brand features of the product in an attempt to pass themselves off as a genuine product of the brand owner.  
 >   
-> This policy applies to the content of your Shopping ads and your website.
+> This policy applies to the content of your Shopping ads and your website.
 
 #### [Dangerous products](https://support.google.com/merchants/merchants/answer/6150004)
 
-> Google wants to help keep people safe both online and offline, so we don't allow the promotion of some products that cause damage, harm or injury.
+> Google wants to help keep people safe both online and offline, so we don't allow the promotion of some products that can cause damage, harm or injury.
 > 
 > _Examples of dangerous products:_ Recreational drugs (chemical or herbal); psychoactive substances; equipment to facilitate drug use; weapons, ammunition, explosive materials and fireworks; instructions for making explosives or other harmful products; tobacco products.
 
@@ -139,7 +142,7 @@ For that reason, we allow promotion of the content below but on a limited basis.
 
 #### [Copyrighted content](https://support.google.com/merchants/merchants/answer/6150163)
 
-> Google restricts the promotion of copyrighted content. If you would like to promote copyrighted content and believe that you are legally authorised to do so, you can [contact us](https://support.google.com/google-ads/contact/copyright). To learn more about how we handle copyright-related issues or to submit a copyright-related complaint, [use this form](https://support.google.com/legal/troubleshooter/1114905).
+> Google restricts the promotion of copyrighted content. If you would like to promote copyrighted content and believe that you are legally authorised to do so, you can [contact us](https://support.google.com/google-ads/contact/copyright). To learn more about how we handle copyright-related issues or to submit a copyright-related complaint, use the [Report content on Google](https://support.google.com/legal/troubleshooter/1114905) form.
 
 #### [Gambling-related content](https://support.google.com/merchants/merchants/answer/6150164)
 
@@ -171,7 +174,7 @@ For that reason, we allow promotion of the content below but on a limited basis.
 
 #### [Trademarks](https://support.google.com/merchants/merchants/answer/6172182)
 
-> Shopping ads don't restrict the use of trademarks by merchants in the title or description of an ad when it's for a trademarked product or a product compatible with the trademarked product. Merchants need to reference trademarks to be able to communicate to users what they're offering and users need that information as it's relevant to their searches. We'll review claims by trademark owners that the use of their trademark is likely to cause consumers confusion about the origin of a product. To submit a trademark-related complaint if you're an owner of the trademark, [use this form](https://support.google.com/legal/contact/TM_CF_Shopping?product=productsearch).
+> Shopping ads don't restrict the use of trademarks by merchants in the title or description of an ad when it's for a trademarked product or a product compatible with the trademarked product. Merchants need to reference trademarks to be able to communicate to users what they're offering and users need that information as it's relevant to their searches. We'll review claims by trademark owners that the use of their trademark is likely to cause consumers confusion about the origin of a product. To submit a trademark-related complaint if you're an owner of the trademark, use the [Report a legal issue in Shopping ads](https://support.google.com/legal/contact/TM_CF_Shopping?product=productsearch) form.
 
 #### [High fat, sugar and salt food and beverages](https://support.google.com/merchants/merchants/answer/11191042)
 
@@ -185,7 +188,7 @@ We want to deliver ads that are engaging for users without being annoying or dif
 
 #### [Editorial and professional requirements](https://support.google.com/merchants/merchants/answer/6150244)
 
-> In order to provide a quality customer experience, Google requires that all Shopping ads meet high professional and editorial standards. We only allow promotions that are clear and professional in appearance. These ads should lead customers to products and landing pages that are relevant, useful and easy to interact with.
+> To provide a quality customer experience, Google requires all Shopping ads to meet high professional and editorial standards. We only allow promotions that are clear and professional in appearance. These ads should lead customers to products and landing pages that are relevant, useful and easy to interact with.
 > 
 > _Examples of promotions that don't meet these editorial and professional requirements:_
 > 
@@ -198,8 +201,8 @@ We want to deliver ads that are engaging for users without being annoying or dif
 About our policies
 ------------------
 
-> Shopping ads enable businesses of all sizes from around the world to promote a wide variety of products and websites on Google and across our network. We want to help you reach existing and potential customers and audiences. However, to help create a safe and positive experience for users, we listen to their feedback and concerns about the types of ads that they see. We also regularly review changes in online trends and practices, industry norms and regulations. And finally, in crafting our policies, we also think about our values and culture as a company, as well as operational, technical and business considerations. As a result, we have created a set of policies that apply to all promotions on the Google Network.
+> Shopping ads enable businesses of all sizes from around the world to promote a wide variety of products and websites on Google and across our network. We want to help you reach existing and potential customers and audiences. However, to help create a safe and positive experience for users, we listen to their feedback and concerns about the types of ads that they view. We also regularly review changes in online trends and practices, industry norms and regulations. And finally, in crafting our policies, we also think about our values and culture as a company, as well as operational, technical and business considerations. As a result, we have created a set of policies that apply to all promotions on the Google Network.
 > 
-> Google requires that advertisers comply with all applicable laws and regulations and the Google policies described above. It's important that you familiarise yourself with and keep up to date on these requirements for the places where your business operates, as well as any other places that your ads are showing. When we find content that violates these requirements, we may block it from appearing and, in cases of repeated or egregious violations, we may stop you from advertising with us.
+> Google requires advertisers to comply with all applicable laws and regulations and the Google policies described above. It's important that you familiarise yourself with and keep up to date on these requirements for the places where your business operates, and any other places where your ads are showing. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may stop you from advertising with us.
 > 
-> Advertisers have a responsibility to not promote content or engage in behaviour that risks harm to our users, employees or the ads ecosystem. If we see such content or behaviour, we may take action, including but not limited to, restricting or blocking your ads or suspending your account.
+> Advertisers have a responsibility not to promote content or engage in behaviour that risks harm to our users, employees or the Ads ecosystem. If we find such content or behaviour, we may take action, including but not limited to restricting or blocking your ads or suspending your account.
