@@ -1,2663 +1,1907 @@
-Suicide and Self-harm policy
+Non-consensual nudity policy
 ============================
 
-Overview  
- 
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**You may not promote or encourage suicide or self-harm.**
+### Overview
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**  
+December 2021**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-### What is in violation of this policy? 
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+### What is a violation of this policy?
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-### What is not a violation of this policy? 
+### What is not a violation of this policy?
 
-Some examples of behavior that are not considered a violation of this policy include: 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
      
-    
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
  
 
-### Who can report violations of this policy? 
+### How can I report violations of this policy?
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**  
+In-app**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+You can report this content for review in-app as follows:
 
-### How to report violations of this policy 
-
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
-    
 
-**Reporting form**
+**Report form**  
 
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
  
 
-**In-App**
+### What happens if you violate this policy?
 
-You can report content for review in-app as follows:
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-### What happens if you violate this policy? 
-
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
-
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
   
 
-Additional resources  
+### Additional resources
+
   
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
+Non-consensual nudity policy
 ============================
 
-Overview  
- 
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**You may not promote or encourage suicide or self-harm.**
+### Overview
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**  
+December 2021**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-### What is in violation of this policy? 
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+### What is a violation of this policy?
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-### What is not a violation of this policy? 
+### What is not a violation of this policy?
 
-Some examples of behavior that are not considered a violation of this policy include: 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
      
-    
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
  
 
-### Who can report violations of this policy? 
+### How can I report violations of this policy?
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**  
+In-app**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+You can report this content for review in-app as follows:
 
-### How to report violations of this policy 
-
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
-    
 
-**Reporting form**
+**Report form**  
 
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
  
 
-**In-App**
+### What happens if you violate this policy?
 
-You can report content for review in-app as follows:
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-### What happens if you violate this policy? 
-
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
-
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
   
 
-Additional resources  
+### Additional resources
+
   
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
+Non-consensual nudity policy
 ============================
 
-Overview  
- 
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**You may not promote or encourage suicide or self-harm.**
+### Overview
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**  
+December 2021**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-### What is in violation of this policy? 
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+### What is a violation of this policy?
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-### What is not a violation of this policy? 
+### What is not a violation of this policy?
 
-Some examples of behavior that are not considered a violation of this policy include: 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
      
-    
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
  
 
-### Who can report violations of this policy? 
+### How can I report violations of this policy?
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**  
+In-app**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+You can report this content for review in-app as follows:
 
-### How to report violations of this policy 
-
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
-    
 
-**Reporting form**
+**Report form**  
 
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
  
 
-**In-App**
+### What happens if you violate this policy?
 
-You can report content for review in-app as follows:
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-### What happens if you violate this policy? 
-
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
-
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
   
 
-Additional resources  
+### Additional resources
+
   
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
+Non-consensual nudity policy
 ============================
 
-Overview  
- 
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**You may not promote or encourage suicide or self-harm.**
+### Overview
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**  
+December 2021**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-### What is in violation of this policy? 
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+### What is a violation of this policy?
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-### What is not a violation of this policy? 
+### What is not a violation of this policy?
 
-Some examples of behavior that are not considered a violation of this policy include: 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
      
-    
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
  
 
-### Who can report violations of this policy? 
+### How can I report violations of this policy?
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**  
+In-app**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+You can report this content for review in-app as follows:
 
-### How to report violations of this policy 
-
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
-    
 
-**Reporting form**
+**Report form**  
 
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
  
 
-**In-App**
+### What happens if you violate this policy?
 
-You can report content for review in-app as follows:
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-### What happens if you violate this policy? 
-
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
-
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
   
 
-Additional resources  
+### Additional resources
+
   
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
+Non-consensual nudity policy
 ============================
 
-Overview  
- 
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**You may not promote or encourage suicide or self-harm.**
+### Overview
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**  
+December 2021**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-### What is in violation of this policy? 
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+### What is a violation of this policy?
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-### What is not a violation of this policy? 
+### What is not a violation of this policy?
 
-Some examples of behavior that are not considered a violation of this policy include: 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
      
-    
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
  
 
-### Who can report violations of this policy? 
+### How can I report violations of this policy?
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**  
+In-app**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+You can report this content for review in-app as follows:
 
-### How to report violations of this policy 
-
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
-    
 
-**Reporting form**
+**Report form**  
 
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
  
 
-**In-App**
+### What happens if you violate this policy?
 
-You can report content for review in-app as follows:
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-### What happens if you violate this policy? 
-
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
-
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
   
 
-Additional resources  
+### Additional resources
+
   
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
+Non-consensual nudity policy
 ============================
 
-Overview  
- 
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**You may not promote or encourage suicide or self-harm.**
+### Overview
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**  
+December 2021**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-### What is in violation of this policy? 
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+### What is a violation of this policy?
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-### What is not a violation of this policy? 
+### What is not a violation of this policy?
 
-Some examples of behavior that are not considered a violation of this policy include: 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
      
-    
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
  
 
-### Who can report violations of this policy? 
+### How can I report violations of this policy?
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**  
+In-app**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+You can report this content for review in-app as follows:
 
-### How to report violations of this policy 
-
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
-    
 
-**Reporting form**
+**Report form**  
 
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
  
 
-**In-App**
+### What happens if you violate this policy?
 
-You can report content for review in-app as follows:
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-### What happens if you violate this policy? 
-
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
-
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
   
 
-Additional resources  
+### Additional resources
+
   
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
+Non-consensual nudity policy
 ============================
 
-Overview  
- 
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**You may not promote or encourage suicide or self-harm.**
+### Overview
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**  
+December 2021**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-### What is in violation of this policy? 
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+### What is a violation of this policy?
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-### What is not a violation of this policy? 
+### What is not a violation of this policy?
 
-Some examples of behavior that are not considered a violation of this policy include: 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
      
-    
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
  
 
-### Who can report violations of this policy? 
+### How can I report violations of this policy?
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**  
+In-app**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+You can report this content for review in-app as follows:
 
-### How to report violations of this policy 
-
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
-    
 
-**Reporting form**
+**Report form**  
 
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
  
 
-**In-App**
+### What happens if you violate this policy?
 
-You can report content for review in-app as follows:
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-### What happens if you violate this policy? 
-
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
-
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
   
 
-Additional resources  
+### Additional resources
+
   
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
+Non-consensual nudity policy
 ============================
 
-Overview  
- 
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**You may not promote or encourage suicide or self-harm.**
+### Overview
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**  
+December 2021**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-### What is in violation of this policy? 
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+### What is a violation of this policy?
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-### What is not a violation of this policy? 
+### What is not a violation of this policy?
 
-Some examples of behavior that are not considered a violation of this policy include: 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
      
-    
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
  
 
-### Who can report violations of this policy? 
+### How can I report violations of this policy?
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**  
+In-app**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+You can report this content for review in-app as follows:
 
-### How to report violations of this policy 
-
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
-    
 
-**Reporting form**
+**Report form**  
 
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
  
 
-**In-App**
+### What happens if you violate this policy?
 
-You can report content for review in-app as follows:
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-### What happens if you violate this policy? 
-
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
-
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
   
 
-Additional resources  
+### Additional resources
+
   
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
+Non-consensual nudity policy
 ============================
 
-Overview  
- 
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**You may not promote or encourage suicide or self-harm.**
+### Overview
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**  
+December 2021**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-### What is in violation of this policy? 
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+### What is a violation of this policy?
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-### What is not a violation of this policy? 
+### What is not a violation of this policy?
 
-Some examples of behavior that are not considered a violation of this policy include: 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
      
-    
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
  
 
-### Who can report violations of this policy? 
+### How can I report violations of this policy?
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**  
+In-app**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+You can report this content for review in-app as follows:
 
-### How to report violations of this policy 
-
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
-    
 
-**Reporting form**
+**Report form**  
 
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
  
 
-**In-App**
+### What happens if you violate this policy?
 
-You can report content for review in-app as follows:
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-### What happens if you violate this policy? 
-
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
-
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
   
 
-Additional resources  
+### Additional resources
+
   
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
+Non-consensual nudity policy
 ============================
 
-Overview  
- 
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**You may not promote or encourage suicide or self-harm.**
+### Overview
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**  
+December 2021**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-### What is in violation of this policy? 
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+### What is a violation of this policy?
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-### What is not a violation of this policy? 
+### What is not a violation of this policy?
 
-Some examples of behavior that are not considered a violation of this policy include: 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
      
-    
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
  
 
-### Who can report violations of this policy? 
+### How can I report violations of this policy?
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**  
+In-app**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+You can report this content for review in-app as follows:
 
-### How to report violations of this policy 
-
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
-    
 
-**Reporting form**
+**Report form**  
 
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
  
 
-**In-App**
+### What happens if you violate this policy?
 
-You can report content for review in-app as follows:
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-### What happens if you violate this policy? 
-
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
-
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
   
 
-Additional resources  
+### Additional resources
+
   
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
+Non-consensual nudity policy
 ============================
 
-Overview  
- 
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**You may not promote or encourage suicide or self-harm.**
+### Overview
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**  
+December 2021**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-### What is in violation of this policy? 
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+### What is a violation of this policy?
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-### What is not a violation of this policy? 
+### What is not a violation of this policy?
 
-Some examples of behavior that are not considered a violation of this policy include: 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
      
-    
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
  
 
-### Who can report violations of this policy? 
+### How can I report violations of this policy?
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**  
+In-app**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+You can report this content for review in-app as follows:
 
-### How to report violations of this policy 
-
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
-    
 
-**Reporting form**
+**Report form**  
 
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
  
 
-**In-App**
+### What happens if you violate this policy?
 
-You can report content for review in-app as follows:
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-### What happens if you violate this policy? 
-
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
-
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
   
 
-Additional resources  
+### Additional resources
+
   
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
+Non-consensual nudity policy
 ============================
 
-Overview  
- 
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**You may not promote or encourage suicide or self-harm.**
+### Overview
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**  
+December 2021**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-### What is in violation of this policy? 
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+### What is a violation of this policy?
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-### What is not a violation of this policy? 
+### What is not a violation of this policy?
 
-Some examples of behavior that are not considered a violation of this policy include: 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
      
-    
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
  
 
-### Who can report violations of this policy? 
+### How can I report violations of this policy?
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**  
+In-app**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+You can report this content for review in-app as follows:
 
-### How to report violations of this policy 
-
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
-    
 
-**Reporting form**
+**Report form**  
 
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
  
 
-**In-App**
+### What happens if you violate this policy?
 
-You can report content for review in-app as follows:
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-### What happens if you violate this policy? 
-
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
-
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
   
 
-Additional resources  
+### Additional resources
+
   
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
+Non-consensual nudity policy
 ============================
 
-Overview  
- 
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**You may not promote or encourage suicide or self-harm.**
+### Overview
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**  
+December 2021**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-### What is in violation of this policy? 
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+### What is a violation of this policy?
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-### What is not a violation of this policy? 
+### What is not a violation of this policy?
 
-Some examples of behavior that are not considered a violation of this policy include: 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
      
-    
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
  
 
-### Who can report violations of this policy? 
+### How can I report violations of this policy?
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**  
+In-app**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+You can report this content for review in-app as follows:
 
-### How to report violations of this policy 
-
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
-    
 
-**Reporting form**
+**Report form**  
 
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
  
 
-**In-App**
+### What happens if you violate this policy?
 
-You can report content for review in-app as follows:
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-### What happens if you violate this policy? 
-
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
-
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
   
 
-Additional resources  
+### Additional resources
+
   
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
+Non-consensual nudity policy
 ============================
 
-Overview  
- 
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**You may not promote or encourage suicide or self-harm.**
+### Overview
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**  
+December 2021**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-### What is in violation of this policy? 
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+### What is a violation of this policy?
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-### What is not a violation of this policy? 
+### What is not a violation of this policy?
 
-Some examples of behavior that are not considered a violation of this policy include: 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
      
-    
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
  
 
-### Who can report violations of this policy? 
+### How can I report violations of this policy?
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**  
+In-app**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+You can report this content for review in-app as follows:
 
-### How to report violations of this policy 
-
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
-    
 
-**Reporting form**
+**Report form**  
 
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
  
 
-**In-App**
+### What happens if you violate this policy?
 
-You can report content for review in-app as follows:
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-### What happens if you violate this policy? 
-
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
-
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
   
 
-Additional resources  
+### Additional resources
+
   
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
+Non-consensual nudity policy
 ============================
 
-Overview  
- 
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**You may not promote or encourage suicide or self-harm.**
+### Overview
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**  
+December 2021**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-### What is in violation of this policy? 
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+### What is a violation of this policy?
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-### What is not a violation of this policy? 
+### What is not a violation of this policy?
 
-Some examples of behavior that are not considered a violation of this policy include: 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
      
-    
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
  
 
-### Who can report violations of this policy? 
+### How can I report violations of this policy?
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**  
+In-app**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+You can report this content for review in-app as follows:
 
-### How to report violations of this policy 
-
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
-    
 
-**Reporting form**
+**Report form**  
 
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
  
 
-**In-App**
+### What happens if you violate this policy?
 
-You can report content for review in-app as follows:
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-### What happens if you violate this policy? 
-
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
-
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
   
 
-Additional resources  
+### Additional resources
+
   
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
+Non-consensual nudity policy
 ============================
 
-Overview  
- 
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**You may not promote or encourage suicide or self-harm.**
+### Overview
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**  
+December 2021**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-### What is in violation of this policy? 
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+### What is a violation of this policy?
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-### What is not a violation of this policy? 
+### What is not a violation of this policy?
 
-Some examples of behavior that are not considered a violation of this policy include: 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
      
-    
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
  
 
-### Who can report violations of this policy? 
+### How can I report violations of this policy?
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**  
+In-app**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+You can report this content for review in-app as follows:
 
-### How to report violations of this policy 
-
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
-    
 
-**Reporting form**
+**Report form**  
 
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
  
 
-**In-App**
+### What happens if you violate this policy?
 
-You can report content for review in-app as follows:
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-### What happens if you violate this policy? 
-
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
-
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
   
 
-Additional resources  
+### Additional resources
+
   
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
+Non-consensual nudity policy
 ============================
 
-Overview  
- 
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**You may not promote or encourage suicide or self-harm.**
+### Overview
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**  
+December 2021**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-### What is in violation of this policy? 
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+### What is a violation of this policy?
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-### What is not a violation of this policy? 
+### What is not a violation of this policy?
 
-Some examples of behavior that are not considered a violation of this policy include: 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
      
-    
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
  
 
-### Who can report violations of this policy? 
+### How can I report violations of this policy?
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**  
+In-app**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+You can report this content for review in-app as follows:
 
-### How to report violations of this policy 
-
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
-    
 
-**Reporting form**
+**Report form**  
 
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
  
 
-**In-App**
+### What happens if you violate this policy?
 
-You can report content for review in-app as follows:
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-### What happens if you violate this policy? 
-
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
-
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
   
 
-Additional resources  
+### Additional resources
+
   
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
+Non-consensual nudity policy
 ============================
 
-Overview  
- 
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**You may not promote or encourage suicide or self-harm.**
+### Overview
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**  
+December 2021**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-### What is in violation of this policy? 
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+### What is a violation of this policy?
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-### What is not a violation of this policy? 
+### What is not a violation of this policy?
 
-Some examples of behavior that are not considered a violation of this policy include: 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
      
-    
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
  
 
-### Who can report violations of this policy? 
+### How can I report violations of this policy?
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**  
+In-app**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+You can report this content for review in-app as follows:
 
-### How to report violations of this policy 
-
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
      
-    
 
-**Reporting form**
+**Report form**  
 
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
  
 
-**In-App**
+### What happens if you violate this policy?
 
-You can report content for review in-app as follows:
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-### What happens if you violate this policy? 
-
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
-
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
   
 
-Additional resources  
+### Additional resources
+
   
-
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
