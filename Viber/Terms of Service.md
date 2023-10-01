@@ -49,7 +49,7 @@ _Some features of our Services may be subject to additional terms and conditions
 
  Viber additional terms and specifications (“**Additional Terms**”):
 
-* [**Viber Pay Terms of Service**](https://www.viber.com/en/terms/viber-pay-terms-main-page)
+* [**Viber payment services Terms of Service**](https://www.viber.com/en/terms/viber-pay-terms-main-page)
 * [**Viber Developer Agreement**](https://www.viber.com/en/terms/viber-developer-distribution-agreement/)
 * [**Viber Business Terms and Conditions**](http://www.viber.com/en/terms/viber-business-terms-and-conditions/)
 
@@ -300,7 +300,7 @@ To allow safe access to emergency services, the Viber mobile app initiates emerg
 
 In case you experience any issue with the Viber Out service, please contact our support as provided under section 21 of the Terms and our team will check such report and will endeavor to remedy any such fault as reasonably feasible. For any information relating to technical details with respect to the calls transferred between mobile networks, please review your agreement with your mobile operator.
 
-Current Terms of Use PDF [**Viber Terms of Service April 2023**](https://www.viber.com/app/uploads/Viber-Terms-of-Service-EN-April-2023.pdf)
+Current Terms of Use PDF [**Viber Terms of Service April 2023**](https://www.viber.com/app/uploads/Viber-Terms-of-Service-EN-April-2023-1.pdf)
 
 Previous Terms of Use PDF [**Viber Terms of Service March 2022**](https://www.viber.com/app/uploads/Viber-Terms-of-Service-EN-March-2022-1.pdf)
 
