@@ -2,7 +2,7 @@
 
 Last Updated: July 3rd, 2023
 
-The following policy governs how ironSource Ltd. (“ironSource“, “Company” “we” or “us“), and its subsidiaries, handle information collected from users of its websites, at the addresses [is.com/](https://www.is.com/), lunalabs.io/, bidalgo.com/ and their subdomains (the “Sites“), including ironSource Mobile Dashboard, Luna Create Hub and the Luna Control Hub (the “Dashboards”).
+The following policy governs how ironSource Ltd. (“ironSource“, “Company” “we” or “us“), and its subsidiaries, handle information collected from users of its websites, at the addresses [is.com/](https://www.is.com/), lunalabs.io/, bidalgo.com/, tapjoy.com/ and their subdomains (the “Sites“), including ironSource Mobile Dashboard, Tapjoy Dashboard, Luna Create Hub and the Luna Control Hub (the “Dashboards”).
 
 Capitalized terms which are not defined herein, shall have the meaning ascribed to them in our Terms of Use available on the Site, which this Privacy Policy is incorporated thereto by reference.
 
