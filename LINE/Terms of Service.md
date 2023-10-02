@@ -1,206 +1,535 @@
-LINE Terms and Conditions of Use
-================================
+LY Corporation Common Terms of Use
+==================================
 
-**Starting from October 1, 2023, the LINE Terms and Conditions of Use will be replaced by the LY Corporation Common Terms of Use, and these will be applied accordingly. Click [here](https://terms.line.me/line_terms_notice?lang=en) to view the LY Corporation Common Terms of Use.**
+These LY Corporation Common Terms of Use (these “Terms of Use”) apply commonly to all persons (“you” or “User(s)”, depending upon the context) to use the services, software and other products (collectively, “Services”) provided by LY Corporation (“we,” “us,” or “our”).  
+  
 
-These LINE Terms and Conditions of Use (these “Terms and Conditions“) set forth the terms and conditions for the use of any and all products and services (collectively, the “Services”) provided by LINE Corporation (“LINE“) to users of the Services (the “User“ or “Users“, depending upon the context).
+**Chapter 1 General Rules**  
+  
 
-**1\. Definitions**
+**1\. Definitions**  
+  
 
-The following words and terms shall have the meanings set forth below when they are used in these Terms and Conditions.
+The following words and terms shall have the meanings set forth below when they are used in these Terms of Use.  
+  
 
-1.1. “Contents” means information such as text, sounds, music, images, videos, software, programs, computer code, and other information.
+1.1. “Contents” means information such as text, sounds, music, images, videos, software, programs, computer code, and other information.  
+  
 
-1.2. “Subject Contents” means Contents that may be accessed through the Services.
+1.2. “Subject Contents” means Contents that may be accessed through the Services.  
+  
 
-1.3. “Submitted Contents” means Contents that Users have submitted, transmitted or uploaded on or to the Services.
+1.3. “Submission (Submit)” means the act of submitting, posting, disclosing, providing or transmitting Contents to or on the Services.  
+  
 
-1.4. “Coins” refers to the prepaid payment instrument or the like which Users may exchange for Contents and services offered by LINE which are provided for a fee within the Services.
+1.4. “Submitted Contents” means Contents that Users have Submitted to the Services.  
+  
 
-1.5. “Separate Terms and Conditions” means terms and conditions separate from these Terms and Conditions that pertain to the Services released or uploaded by LINE under names such as “terms,” “guidelines,” “policies,” or the like.
+1.5. “Individual Conditions of Use” means the conditions of use separate from these Terms of Use that pertain to specific Services released or uploaded by us, and which apply to the use of the Services, under names such as “general conditions,” “terms”, “guidelines,” “policies,” or the like.  
+  
 
-**2\. Agreement to these Terms and Conditions**
+1.6. “Charges” means the cost required for using the Services regardless of the name such as charge, rate, fee, membership fee or otherwise (including the User’s debts for which we have been entrusted the collection thereof by a third party).  
+  
 
-2.1. All Users shall use the Services in accordance with these Terms and Conditions. Users may not use the Services unless they agree to these Terms and Conditions.
+1.7. “Subscription Services” means services where you can use specific Contents or the Services designated by us for a given period of time by paying a fixed fee.  
+  
 
-2.2. Users who are minors may only use the Services by obtaining prior consent from their parents or legal guardians. Furthermore, if Users will be using the Services on behalf of, or for the purposes of, a business enterprise, then such business enterprise must also agree to these Terms and Conditions prior to using the Services.
+**2\. Use of the Services**  
+  
 
-2.3. If there are Separate Terms and Conditions applicable to the Services, Users shall also comply with such Separate Terms and Conditions as well as these Terms and Conditions in using the Services.
+2.1. In order to use the Services, you need to agree to these Terms of Use, irrespective of whether Charges are applicable or whether account registration is required.  
+  
 
-**3\. Modification to these Terms and Conditions**
+2.2. We will deem that you have agreed to these Terms of Use by actually using the Services which are provided free of charge (limited to those which can be used without registering an account).  
+  
 
-LINE may modify these Terms and Conditions in accordance with the relevant laws and regulations when modification becomes necessary, within the scope of the purposes of the Services. In such case, LINE will indicate the contents of the modified version of these Terms and Conditions, as well as the effective date of the modification, on the Services or on LINE’s website, or will publicize the same to Users by notifying Users in the manner prescribed by LINE.
+2.3. Users who are minors may only use the Services by obtaining prior consent from their parents or legal guardians.  
+  
 
-The modified version of these Terms and Conditions shall become effective as of the effective date thereof.
+2.4. If Users will be using the Services on behalf of, or for the purposes of, a business enterprise, then such business enterprise must also agree to these Terms of Use prior to using the Services.  
+  
 
-**4\. Account** 
+2.5. Users shall use the Services under their own responsibility.  
+  
 
-4.1. When using the Services, Users may need to set up an account by registering certain information. Users must register true, accurate and complete information, and must revise the same to keep such information up-to-date at all times.
+**3\. Restriction on use of the Services**  
+  
 
-4.2. If Users register any authentication information when using the Services, they must exercise due care in handling such information at their own responsibility to ensure that such information is not used in an unlawful manner. When the User’s registered authentication information is used in order to use the Service, LINE will provide the Service by assuming the same to be an act of the User with whom the authentication information is registered.
+3.1. We may add conditions for use of the Services, such as limiting their use to those who have a registered account (including a LINE account or Yahoo! JAPAN ID), or who are a certain age or older, or who satisfy certain requirements through procedures specified by us, such as identity identification.  
+  
 
-4.3. Any User who has registered for the Services may delete such User’s account and cancel the Services at any time.
+3.2. We do not allow use by members of anti-social forces (including those who were members in the past), or by persons so involved, or by persons who abuse the Services, or through their use cause trouble to a third party.  
+  
 
-4.4. LINE reserves the right to delete any account that has been inactive for a period of one (1) year or more since its last activation, without any prior notice to the applicable User.
+**4\. Account registration information**  
+  
 
-4.5. Any and all rights of a User to use the Service shall cease to exist when such User’s account has been deleted for any reason. Please take note that an account cannot be retrieved even if a User has accidentally deleted their account.
+4.1. When registering an account, you are obligated to (1) register true and accurate information, and (2) make appropriate corrections by yourself to keep that registered information up to date.  
+  
 
-4.6. Each account in the Services is for exclusive use and belongs solely to the User of such account. Users may not transfer, lease or otherwise dispose their rights to use the Service to any third party, nor may the same be inherited or succeeded to by any third party.
+4.2. Any User who has registered an account may delete such User’s account at any time.  
+  
 
-**5\. Privacy**
+4.3. Any and all rights of a User to use the Services for which the registration of an account is required shall cease to exist when such User’s account has been deleted for any reason. Please take note that an account cannot be retrieved even if a User has accidentally deleted his/her account.  
+  
 
-5.1. LINE places top priority on the privacy of its Users.
+4.4. An account is for exclusive use and belongs solely to the User of such account. Users may not transfer, lease or otherwise dispose their rights to use the Services for which the registration of an account is required to any third party, nor may the same be inherited or succeeded to by any third party.  
+  
 
-5.2. LINE will appropriately handle privacy information and personal information of Users in accordance with the [LINE Privacy Policy](http://terms.line.me/line_rules/?lang=en).
+**5\. Provision of Subscription Services**  
+  
 
-5.3. LINE promises to exercise the utmost care and attention to its security measures to ensure the safe management of any and all information collected from Users.
+5.1. Users may receive Subscription Services under the conditions prescribed by us. In addition to these Terms, Users shall abide by the fees for the Subscription Services, the payment method thereof, as well as other Individual Conditions of Use posted on the Services or on our website.  
+  
 
-**6\. Provision of the Service**
+5.2. Excluding the cases set out in the Individual Conditions of Use, Users may take procedures for the cancellation of Subscription Services at any time; provided, however, that even if a User takes the procedures for cancellation prior to the intended period of use, the User may not change such period of use, nor may the User cancel the purchase of the Subscription Services. In such case, the fees already paid will not be refunded, nor will there be any refund on a pro rata basis. However, the foregoing will not apply if laws or regulations require otherwise.  
+  
 
-6.1. Users shall supply PCs, mobile phone devices, smartphones and other communication devices, operating systems, communication methods and electricity, etc. necessary for using the Services at their own responsibility and expense.
+5.3. If a User does not complete its cancellation procedure by the designated date and time, the period of use of the Subscription Services may be automatically renewed in accordance with the terms prescribed by us even after the end of the period of use of such Subscription Services.  
+  
 
-6.2. LINE reserves the right to limit access to all or part of the Services by Users depending upon conditions that LINE considers necessary, such as the age and identification of User, current registration status, and the like.
+**6\. Advertisement**  
+  
 
-6.3. LINE reserves the right to modify, at LINE's discretion, all or part of the Services as LINE determines necessary anytime without any prior notice to Users.
+We may post our ads or those of a third party on the Services.  
+  
 
-6.4. LINE may cease providing all or part of the Services without any prior notice to Users in case of the occurrence of any of the following:
+**7\. No emergency call functions**  
+  
 
-(1) When conducting maintenance or repair of systems;
+The Services cannot be depended upon for emergency calls, such as those made to law enforcement agencies, maritime safety authorities, fire brigade or other emergency services.  
+  
 
-(2) When the Services cannot be provided due to force majeure such as an accident (fire, power outage, etc.), act of God, war, riot, labor dispute;
+**8\. Contents**  
+  
 
-(3) When there is system failure or heavy load on the system;
+8.1. We grant Users a non-transferable, non-sublicensable, non-exclusive license to use the Subject Contents provided by us, solely for the purpose of using the Services.  
+  
 
-(4) When securing the safety of Users or third parties, or in the case of an emergency for the public welfare; or
+8.2. Users shall abide by the conditions applicable thereto when using the Subject Contents which are subject to conditions of use, such as additional fees and periods of use and the like. Even if terms such as “Purchase”, “Sales,” and the like appear on the screens for the Services, we shall remain the owner of all intellectual property rights as well as all other rights in the Contents offered to Users by us, and such rights shall not be transferred to Users. Users will only be granted usage rights as set forth above.  
+  
 
-(5) When LINE reasonably determines it to be necessary, other than those set forth in items (1) through (4).
+8.3. You must not use (including, without limitation, copying, transmitting, reproducing and modifying) the Subject Contents beyond the scope of the intended use of the Subject Contents in the Services.  
+  
 
-**7\. No Emergency Call Functions**
+**9\. Handling of User’s data and Contents**  
+  
 
-The Services cannot be depended upon for emergency calls, such as those made to law enforcement agencies, maritime safety authorities, fire brigade or other emergency services.
+9.1. We shall not be obligated to back up data and the Submitted Contents stored by you on servers managed by us. You are responsible for backing it up yourself.  
+  
 
-**8\. Advertisements**
+9.2. Copyrights in the Submitted Contents belong to you or the copyright holder of such Contents.  
+  
 
-LINE reserves the right to post advertisements for LINE or a third party on the Services.
+Among the Submitted Contents, with regard to those Submitted to the Services that can be accessed by unspecified or large number of Users, such as electronic bulletin boards, and those disclosed to other general Users, who are not your friends, in the Services such as the application “LINE” provided by us, you shall license (including, without limitation, a sublicensing right) us the right to use (including, without limitation, replication, screening, public transmission, exhibition, distribution, transfer, loan, translation, adaptation and publication) such Submitted Contents free of charge and non-exclusively, with indefinite duration within and outside of Japan.  
+  
 
-**9\. Third-Party Services**
+The Services may include functions where multiple Users may edit Contents (post, correct, and delete, etc.). In such case, a User who posted his/her Submitted Contents shall grant other Users the right to edit such Submitted Contents.  
+  
 
-The Services may contain services or Contents provided by third parties other than LINE. Such third parties shall bear any and all responsibility regarding such services and/or Contents. Furthermore, there may be terms or use or other terms and conditions provided by such third party which are applicable to such services and Contents.
+Moreover, you shall not exercise rights such as author’s moral rights.  
+  
 
-**10\. Contents**
+9.3. If we acknowledge that you have violated, or may violate, laws and regulations or these Terms of Use in connection with the Submitted Contents, or when otherwise reasonably required for business, we may restrict the use of the Services, such as by deleting the Submitted Contents, without requiring any prior notice to you.  
+  
 
-10.1. LINE grants Users a non-transferable, non-sublicensable, non-exclusive license to use the Subject Contents provided by LINE, solely for the purpose of using the Services.
+9.4. We may check and confirm the contents of the Submitted Contents by Users to the extent permissible under laws and regulations, when it is necessary for us to confirm compliance with related laws and regulations or the provisions set out in these Terms, etc.; provided, however, that we are not obligated to conduct such confirmation.  
+  
 
-10.2. Users shall abide by the conditions applicable thereto when using the Subject Contents which are subject to conditions of use, such as additional fees and periods of use and the like. Even if terms such as “Purchase”, “Sales,” and the like appear on the screens for the Services, LINE shall remain the owner of all intellectual property rights as well as all other rights in the Subject Contents offered to Users by LINE, and such rights shall not be transferred to Users. Users will only be granted usage rights as set forth above.
+**10\. Message function using an electronic bulletin board, browsing thereof and right of deletion**  
+  
 
-10.3. Users shall not use the Subject Contents beyond the scope of the intended use of the Subject Contents in the Services (including, without limitation, acts of copying, transmitting, reproducing, and modifying).
+Certain Services provide a message exchanging function among Users by using the system of an electronic bulletin board. Certain electronic bulletin boards can only be browsed by the three parties of the sender of the message, recipient of the message, and us. In the foregoing case, we may browse the subject matter as needed and delete the message in light of these Terms of Use.  
+  
 
-10.4. If Users wish to back-up all or part of the Submitted Contents, they will need to do so themselves. LINE will not undertake the obligation of backing up any of the Submitted Contents.
+**11\. User’s responsibility related to account and password, etc.**  
+  
 
-10.5. The Services may include functions where multiple Users may edit Contents (post, correct, and delete, etc.). In such case, a User who posted his/her Submitted Contents shall grant other Users the right to edit such Submitted Contents.
+When registering authentication information in using the Services, a User must strictly manage such authentication information under its own responsibility so that it will not be abused. If an operation is performed using the User’s authentication information that was registered (including without limitation cases where the User is authentication based on a combination of account and password, or based on a comparison of the code uniquely assigned for each mobile phone number sent from a mobile operator and the registered information), we will provide the Services by deeming that such operation is an act by the actual User. If Charges are incurred for the use of the Services or purchase of products as a result of a person other than the registered User performing operations using the User’s authentication information, we will bill such Charges to the User unless there was willful misconduct or negligence on our part.  
+  
 
-10.6. Users shall retain their rights to their Submitted Contents, and LINE shall not acquire 　any such rights; provided, however, that, among the Submitted Contents, for those made available to other Users generally (i.e., not just to the User's “friends”), the User who posted such Submitted Contents shall be deemed to have granted LINE a worldwide, perpetual, royalty-free license (including the right to amend (such as abbreviating) such Contents to the extent LINE deems necessary and appropriate, and the right to sublicense such usage rights to other third parties working together with LINE), to use such Contents for services and/or promotional purposes.
+**12\. Provision of the Services**  
+  
 
-10.7. Users shall not exercise their rights such as author’s moral rights with respect to the Submitted Contents in relation to the use by LINE or a third party under Articles 10.5 and 10.6 above.
+12.1. Users shall supply PCs, mobile phone devices, smartphones and other communication devices, operating systems, communication methods and electricity, etc. necessary for using the Services at their own responsibility and expense.  
+  
 
-10.8. LINE may check and confirm the contents of the Submitted Contents by Users to the extent permissible under laws and regulations, when it is necessary for LINE to confirm compliance with related laws and regulations or the provisions set out in these Terms and Conditions, etc.; provided, however, that LINE is not obligated to conduct such confirmation.
+12.2. We may temporarily suspend providing all or part of the Services in case of the occurrence of any of the following:  
+  
 
-10.9. If LINE believes that a User has violated or may violate any applicable laws or regulations or the provisions of these Terms and Conditions in relation to the Submitted Contents, or when otherwise reasonably necessary for LINE’s business, then LINE reserves the right to preclude such User's use of the Services in certain manners, such as deleting the Submitted Contents without providing prior notice to the User.
+(1) when conducting maintenance or repair of systems;  
+  
 
-**11\. Coins**
+(2) when the Services cannot be provided due to force majeure such as an accident (fire, power outage, etc.), act of God, war, riot, labor dispute;  
+  
 
-11.1. Coins will be provided to Users by the means specified by LINE, such as purchases in the Services, special offers and the like. The purchase unit, method of payment, and any other terms and conditions for granting the Coins will be determined by LINE and indicated in the Services or on LINE’s website.
+(3) when there is system failure or heavy load on the system;  
+  
 
-11.2. Coins may not be exchanged or used for cash, property or other economic gain other than the services and Contents designated by LINE. The number of Coins required for receiving the services or Contents, as well as other terms for the exchange of Coins, will be determined by LINE and indicated in the Services or on LINE’s website.
+(4) when securing the safety of Users or third parties, or in the case of an emergency for the public welfare; or  
+  
 
-11.3. Coins may only be used by the account that obtained the same. Furthermore, Coins provided by terminal devices of different operating systems may not be carried over or combined, even if they are under the same name, since the types of Coins are different.
+(5) when we reasonably determine it to be necessary, other than those set forth in each of the preceding items.  
+  
 
-11.4. Coins will not be refunded for any reason whatsoever; provided, however, that this shall not apply if necessary under applicable laws and regulations. In such case, LINE shall determine the process for refunds in accordance with the relevant laws and regulations, and such information will be made available on LINE's website, etc.
+**13\. Warranty of and modification to the Services**  
+  
 
-**12\. Provision of Subscription Services**
+13.1. With regard to the contents of the Services, we make no guarantee, whether express or implied, about the nonexistence of problems (including, without limitation, security-related defects, errors and bugs and infringement of rights), or about its security, reliability, accuracy, completeness, effectiveness and suitability for a particular purpose, and continuity of the provision of the Services. We are not obligated to provide the Services to you upon eliminating such problems.  
+  
 
-12.1. Users may receive services in exchange for payment of a fee or under the terms and conditions prescribed by LINE, wherein the Users pay a certain amount of considerations to use certain Subject Contents designated by LINE for a certain period of time (the “Subscription Services”). Users shall abide by these Terms and Conditions, the fees for the Subscription Services, the payment method thereof, as well as other terms and conditions of use posted on the Services or on LINE’s website.
+13.2. We may modify all or a part of the contents of the Services when corresponding to any of the following items:  
+  
 
-12.2. Users may take procedures for the cancellation of Subscription Services at any time; provided, however, that even if a User takes the procedures for cancellation prior to the intended period of use, the User may not change such period of use, nor may the User cancel the purchase of the Subscription Services. In such case, the fees already paid will not be refunded, nor will there be any refund on a pro rata basis. However, the foregoing will not apply if laws or regulations require otherwise.
+(1) when modification to the contents of the Services, such as addition of functions to or improvement of the Services, conforms to the general interests of Users; or  
+  
 
-12.3. If a User does not complete their cancellation procedure by the designated date and time, the period of use of the Subscription Services may be automatically renewed in accordance with the terms prescribed by LINE even after the end of the period of use of such Subscription Services.
+(2) in cases other than the preceding item, there is rationality in light of the necessity to modify the contents of the Services, appropriateness of the contents after modification, and other circumstances concerning the modification.  
+  
 
-**13\. Restricted Matters**
+**14\. Prohibition of reuse of the Services, etc.**  
+  
 
-LINE prohibits Users from engaging in any of the following acts when using the Services:
+Unless otherwise prescribed by us, you may not use the Services, or the data they consist of, for a purpose other than the purpose for which they are provided. If you do, we have the right to suspend such an act and charge you an amount equivalent to the profit or benefit you received from such an act.  
+  
 
-13.1. Acts that violate the laws and regulations, court verdicts, resolutions or orders, or administrative measures that are legally binding;
+**15\. Matters to be observed in using the Services**  
+  
 
-13.2. Acts that may be in violation of public order, morals or customs;
+The following acts are prohibited when using the Services:  
+  
 
-13.3. Acts that infringe intellectual property rights, such as copyrights, trademarks and patent rights, rights to fame, privacy, and all other rights granted by law or by a contract with LINE and/or a third party;
+(1) act that is in violation of laws and regulations, court judgments, decisions or orders, or legally binding administrative measures;  
+  
 
-13.4. Acts of posting or transmitting excessively violent or explicit sexual expressions; expressions that amount to child pornography or child abuse; expressions that lead to discrimination by race, national origin, creed, gender, social status, family origin, etc.; expressions that induce or encourage suicide, self-injurious behavior or drug abuse; or expressions that include anti-social content and lead to the discomfort of others;
+(2) act that is contrary to social norms or public policy, act of infringing upon the copyrights, trademark rights, patent rights or other intellectual property rights, honor rights, privacy rights or other rights granted by law or other contractual rights of us or those of a third party, or act of causing trouble to others;  
+  
 
-13.5. Acts that lead to the misrepresentation of LINE and/or a third party or that intentionally spread false information;
+(3) act of Submitting excessively violent expressions, sexually explicit expressions, expressions corresponding to child pornography or child abuse, expressions that lead to discrimination by race, nationality, beliefs, gender, social status or family origin, expressions that may induce or facilitate suicide, self-injury or drug abuse, or other expressions that include antisocial contents and cause displeasure to others;  
+  
 
-13.6. Acts of sending the same or similar messages to a large, indefinite number of Users (except for those approved by LINE), indiscriminately adding other Users as friends or to group chats, or any other acts deemed by LINE to constitute spamming;
+(4) act of Submitting programs, etc. that will destroy or obstruct the functions of software and hardware, etc. being used by other Users;  
+  
 
-13.7. Acts of exchanging the right to use the Services or Contents into cash, property or other economic benefits, other than by using the method prescribed by LINE;
+(5) act of destroying or obstructing the functions of our server or network, act of wrongfully operating the Services by using BOT, cheat tools or other technical means, act of intentionally using a defect of the Services, act of making unreasonable inquiries or requests to us, such as by repeatedly asking the same question, or any other act that obstructs or impairs the operation of the Services or the use of the Services by other Users;  
+  
 
-13.8. Acts of using the Services for sales, marketing, advertising, solicitation or other commercial purposes (except for those approved by LINE); using the Services for the purpose of sexual conduct or obscene acts; using the Services for the purpose of meeting or engaging in sexual encounters with an unknown third party; using the Services for the purpose of harassment or libelous attacks against other Users; or otherwise using the Services for purposes other than as intended by the Services;
+(6) act of performing reverse engineering, disassembly, or decoding of the source code by any other means for unjustifiable purposes or in a wrongful manner;  
+  
 
-13.9. Acts that benefit or involve collaboration with anti-social groups;
+(7) act of obstructing the Services, ads distributed by us, or services or ads provided on our sites or apps;  
+  
 
-13.10. Acts that are related to religious activities or invitations to certain religious groups;
+(8) act of wrongfully collecting, accumulating, disclosing or providing information related to third parties such as personal information, registration information and usage history information;  
+  
 
-13.11. Acts of unauthorized or improper collection, disclosure, or provision of any other person's personal information, registered information, user history, or the like;
+(9) act of sending the same or similar messages to a large, indefinite number of Users (except for those approved by us), act of indiscriminately adding other Users as friends or to group talk in the Services such as the application “LINE” provided by us, or any other act deemed by us to constitute spamming;  
+  
 
-13.12. Acts of interfering with the servers and/or network systems of the Services; fraudulently manipulating the Services by means of bots, cheat tools, or other technical measures; deliberately using defects of the Services; making unreasonable inquires and/or undue claims such as repeatedly asking the same questions beyond what is necessary, and other acts of interfering with or hindering LINE's operation of the Services or other Users’ use of the Services;
+(10) act of converting the right to use the Services or Contents into cash, property or other economic gain in a method other than the method prescribed by us;  
+  
 
-13.13. Acts of decoding the source code of the Services, such as by way of reverse engineering, disassembling or the like, for unreasonable purposes or in an unfair manner;
+(11) act of engaging in sales, publicity, advertisement, solicitation or any other act for profit, act with the purpose of meeting or dating strangers (excluding those approved by us), act with the purpose of sexual conduct or obscene acts, act with the purpose of harassing or slandering other Users, religious activities or act of solicitating others to religious organizations, or any other act of using the Services for purposes other than as intended by the Services;  
+  
 
-13.14. Acts that aid or encourage any acts stated in Clauses 13.1 to 13.13 above; and
+(12) act of Using the Services by using another User’s account;  
+  
 
-13.15. Acts other than those set forth in Clauses 13.1 to 13.14 that LINE reasonably deems to be inappropriate.
+(13) act that leads to the misrepresentation of us and/or a third party or that intentionally spreads false information;  
+  
 
-**14\. User Responsibility**
+(14) act of acquiring accounts or passwords from others or disclosing or providing accounts or passwords to others, irrespective of the means thereof;  
+  
 
-14.1. Users shall use the Services at their own risk and responsibility.
+(15) act of offering benefits to antisocial forces directly or indirectly, or any other act of cooperating with antisocial forces;  
+  
 
-14.2. LINE may suspend the use of all or part of the Services, suspend or delete accounts, cancel any agreement between a User and LINE with respect to the Services (including, without limitation, any agreement based on these Terms and Conditions, hereinafter the same) or take any other measure LINE reasonably determines to be necessary and appropriate without prior notice to such User in the case that such User falls under or there is a possibility that such User falls under any of the following items:
+(16) act of assisting or facilitating any act corresponding to each of the preceding items, or act of preparing the same;  
+  
 
-(1) A User is in breach of applicable laws and regulations, these Terms and Conditions, or any Separate Terms and Conditions;
+(17) in addition to each of the preceding items, any act that is reasonably deemed inappropriate by us.  
+  
 
-(2) A User is a member of an anti-social group or a related party thereof;
+**16\. No assignment of rights or obligations**  
+  
 
-(3) A User tarnishes LINE’s credibility by spreading false information, using fraudulent means or force, or other unlawful means;
+You may not assign all or part of the contractual status of an agreement falling under these Terms of Use, or the rights and obligations arising therefrom, to a third party without our prior written consent.  
+  
 
-(4) A User is subject to a petition for attachment, provisional attachment, or auction, ; procedures such as bankruptcy, civil rehabilitation, or similar procedures are commenced; or LINE otherwise reasonably determines that there is uncertainty with respect to User’s credibility; or
+**17\. Deletion of Submission, suspension of use of the Services, deletion of account**  
+  
 
-(5) The relationship of trust with a User is lost or LINE otherwise reasonably determines that it would not be appropriate for LINE to provide the Services to User, due to reasons other than as set forth in items (1) to (4) above.
+17.1. In any of the following cases, in order to appropriately operate the Services we provide, we may, without prior notice, take such measures as deleting data or Contents, prohibiting the use of all or part of the Services, or deleting User’s accounts.  
+  
 
-14.3. In the case where LINE suffers loss/damages either directly or indirectly (including, without limitation, attorney fees) due to a User’s use of the Services (including, without limitation, cases where LINE receives a complaint from a third party due to such use), the User shall immediately compensate LINE for such loss/damage in accordance with LINE’s request pursuant to the laws and regulations.
+In addition, if you have registered multiple accounts, measures may be taken on all of those accounts:  
+  
 
-**15\. NO WARRANTY**
+(1) when you violate any of the matters stipulated in the laws and regulations, these Terms of Use or the Individual Conditions of Use, or when we reasonably determine that there is a risk of such a violation;  
+  
 
-LINE SHALL PROVIDE NO WARRANTY, EITHER EXPRESSLY OR IMPLIEDLY, WITH RESPECT TO THE SERVICES (INCLUDING THE SUBJECT CONTENTS), THAT THERE ARE NO DEFECTS (INCLUDING, WITHOUT LIMITATION, FAULTS WITH RESPECT TO SECURITY, ETC., ERRORS OR BUGS, OR VIOLATIONS OF RIGHTS) OR AS TO THE SAFETY, RELIABILITY, ACCURACY, COMPLETENESS, EFFECTIVENESS AND FITNESS FOR A PARTICULAR PURPOSE. LINE WILL IN NO WAY BE RESPONSIBLE FOR PROVIDING USERS WITH THE SERVICES AFTER DELETING SUCH DEFECTS.
+(2) when you impair our credibility by spreading rumors, using fraudulent means, using force or other wrongful means;  
+  
 
-**16\. LINE's LIMITATION OF LIABILITY**
+(3) when an account is registered or used by an anti-social force or its members or persons so involved, or when we reasonably determine that there is such a risk;  
+  
 
-16.1. LINE WILL NOT BE LIABLE FOR ANY DAMAGE INCURRED BY USERS FROM THE USE OF THE SERVICES, UNLESS SUCH DAMAGE IS ATTRIBUTABLE TO THE INTENTIONAL OR GROSSLY NEGLIGENT ACTS OF LINE; PROVIDED, HOWEVER, THAT, IN THE CASE THAT THE AGREEMENT BETWEEN THE USER AND LINE WITH RESPECT TO THE USE OF THE SERVICES FALLS UNDER A CONSUMER CONTRACT AS DEFINED UNDER THE CONSUMER CONTRACT ACT OF JAPAN (“CONSUMER CONTRACT”), LINE WILL BE LIABLE TO PROVIDE COMPENSATION FOR DAMAGE ARISING DUE TO NEGLIGENCE ON THE PART OF LINE (EXCLUDING GROSS NEGLIGENCE) ARISING FROM CONTRACT OR TORT ONLY WITHIN THE RANGE OF (A) THE DAMAGE WHICH IS NORMALLY INCURRED (I.E., EXCLUSIVE OF LOST PROFITS AND OTHER DAMAGES ARISING UNDER SPECIAL CIRCUMSTANCES), AND (B) THE AMOUNT OF USAGE FEES FOR THE SERVICES RECEIVED FROM SUCH USER FOR FEE-BASED SERVICES FOR THE MONTH IN WHICH SUCH DAMAGE HAS BEEN INCURRED, AT MAXIMUM.
+(4) excluding the cases set out in the Individual Conditions of Use, when you have not used your account or specific Services for 1 year or longer; and  
+  
 
-16.2. IF A USER INCURS DAMAGE AS A RESULT OF GROSS NEGLIGENCE ON THE PART OF LINE, LINE WILL BE RESPONSIBLE TO PROVIDE COMPENSATION FOR THE DAMAGE INCURRED BUT ONLY WITHIN THE RANGE OF (A) THE DAMAGE WHICH IS NORMALLY INCURRED (I.E., EXCLUSIVE OF LOST PROFITS AND OTHER DAMAGES ARISING UNDER SPECIAL CIRCUMSTANCES), AND (B) THE AMOUNT OF USAGE FEES FOR THE SERVICES RECEIVED FROM SUCH USER FOR FEE-BASED SERVICES FOR THE MONTH IN WHICH SUCH DAMAGE HAS BEEN INCURRED, AT MAXIMUM; PROVIDED, HOWEVER, THAT THE FOREGOING SHALL NOT APPLY IF THE AGREEMENT BETWEEN SUCH USER AND LINE FALLS UNDER THE DEFINITION OF A CONSUMER CONTRACT.
+(5) in any other case where we reasonably determine that it is difficult to maintain the contractual relationship between you and us, such as when the relationship of trust with you is lost.  
+  
 
-**17\. Relationship between these Terms and Conditions and Laws and Regulations**
+17.2. When we reasonably determine that you are facing credit uncertainty such as when our claims held against you are subject to attachment or provisional attachment, or when you receive a petition for commencement of bankruptcy, civil rehabilitation or other similar proceedings, or you independently file the foregoing petitions, in order to appropriately operate the Services, we may, without prior notice, take such measures as suspending the use of our paid services and our payment settlement services (including Yahoo! JAPAN Wallet) or terminating the contract related to the provision of such services. In addition, if you have registered multiple accounts, measures may be taken on all of those accounts.  
+  
 
-If the terms of these Terms and Conditions violate any laws and regulations applicable to an agreement between Users and LINE with respect to the Services (including, without limitation, the Consumer Contract Act of Japan), such terms, to the extent of such violation, shall not apply to the agreement with the Users; provided, however, that the remaining terms of these Terms and Conditions shall not be affected.
+17.3. In any of the following cases, in order to appropriately operate the Services, we may, without prior notice, take such measures as deleting User’s accounts (limited to the Yahoo! JAPAN ID) in addition to the measures of 17.2 above.  
+  
 
-**18\. Notification and Contact**
+In addition, if you have registered multiple accounts, measures may be taken on all of those accounts:  
+  
 
-18.1. For notifications from LINE to Users regarding the Services, LINE will use a method that LINE considers appropriate, such as posting in an appropriate place within the Services or on LINE’s website.
+(1) when there is a delay in payment of the Charges payable to us and, despite being formally demanded by us to make payment within a reasonable period, you fail to do so within the foregoing period on multiple occasions, and we reasonably determine that it is difficult to maintain our contractual relationship with you;  
+  
 
-18.2. For notifications from Users to LINE regarding the Services, Users shall use the customer inquiry form available on the Services or on LINE’s website, or through other means designated by LINE.
+(2) when the use of a credit card or bank account designated as the method for settlement of Charges of the Service (including Yahoo! JAPAN Wallet) is suspended, and despite being formally demanded by us repeatedly to register another valid credit card or bank account, you fail to do so within a reasonable period, and we reasonably determine that it is difficult to maintain our contractual relationship with you; and  
+  
 
-**19\. Governing Law and Jurisdiction**
+(3) when our claims held against you are subject to attachment, or we reasonably determine that you are facing credit uncertainty such as when you receive a petition for commencement of bankruptcy, civil rehabilitation or other similar proceedings, or you independently file the foregoing petitions.  
+  
 
-Where LINE has provided Users with a translation of the Japanese language version of these Terms and Conditions (the “Japanese Version”), the Japanese Version will govern the relationship between Users and LINE. In the event of any conflict between the Japanese Version and a translation thereof, the provisions in the Japanese Version shall take precedence over any other translation. These Terms and Conditions will be governed by the laws of Japan. Any conflicts between Users and LINE that arise from or in connection with the Service shall be resolved under the exclusive jurisdiction of the Tokyo District Court as the court of first instance.
+**18\. Compensation to us**  
+  
 
-End
+If we suffer any damage due to your willful misconduct or negligence, you must compensate the damage that we suffered immediately when we demand such compensation.  
+  
 
-Date of last update: October 31, 2022
+**19\. Disclaimer**  
+  
+
+19.1. We shall be exempt from liability, irrespective of the nature thereof, unless it is due to our willful intent or gross negligence.  
+  
+
+19.2. Notwithstanding the provisions of the preceding paragraph, if a contract with a User regarding the use of the Services under these Terms of Use falls under a consumer contract as defined under the Consumer Contract Act of Japan, we will be liable for compensation for loss or damage within the range of the loss or damage that would normally occur, up to the maximum of the amount of the Charges for paid Services (equivalent to one month’s fees in the case of Subscription Services), and will not be liable for lost profits or other damages arising due to special circumstances, except for cases arising out of our willful intent or gross negligence.  
+  
+
+19.3. If we cause damage to you due to gross negligence on our part, we will not be liable for lost profits or other damages arising due to special circumstances, and will be liable for compensation for loss or damage within the range of the loss or damage that would normally occur, up to the maximum of the amount of the Charges for paid Services (equivalent to one month’s fees in the case of Subscription Services); save for cases where a contract with a User regarding the use of the Services under these Terms of Use falls under a consumer contract as defined under the Consumer Contract Act of Japan.  
+  
+
+**20\. Individual Conditions of Use**  
+  
+
+For certain Services, Individual Conditions of Use may be prescribed in addition to these Terms of Use.  
+  
+
+If there is any difference between these Terms of Use and the Individual Conditions of Use, unless otherwise specified, the Individual Conditions of Use shall prevail over these Terms of Use in relation to such Services.  
+  
+
+**21\. Third-party services**  
+  
+
+The Services may contain services or Contents provided by third parties other than us. Such third parties shall bear any and all responsibility regarding such services and/or Contents. Furthermore, there may be conditions of use provided by such third party which are applicable to such services and Contents.  
+  
+
+**22\. Notification or contact**  
+  
+
+22.1. Any communication from us to you in relation to the Services will be made by way of posting on the Services or at a proper location in our website or any other method that we deem appropriate.  
+  
+
+22.2. If you wish to contact us, please do so according to the method designated by us, such as by using the inquiry form provided by us or by e-mail to the e-mail address specified by us.  
+  
+
+22.3. As a general rule, we will respond to inquiries from Users only by using the message function or by e-mail.  
+  
+
+**23\. Privacy**  
+  
+
+23.1. We place top priority on the privacy of its Users.  
+  
+
+23.2. We will appropriately handle information related to individual Users in accordance with the [LY Corporation Privacy Policy](https://line.me/en/terms/policy/).  
+  
+
+23.3. We promise to exercise the utmost care and attention to its security measures to ensure the safe management of any and all information collected from Users.  
+  
+
+**24\. Revision to these Terms of Use**  
+  
+
+We may revise these Terms of Use in any of the following cases.  
+  
+
+In the foregoing case, we will make public, by indicating on the Services or our website, or notifying Users according to a method prescribed by us, to the effect that these Terms of Use will be revised, as well as the subject matter and effective date of the revised version of these Terms of Use. In the case of Item (2) below, we will make the revision public a reasonable period before the effective date of the revision. The revised version of these Terms of Use shall come into effect from the effective date:  
+  
+
+(1) when revision to these Terms of Use conforms to the general interests of Users; or  
+  
+
+(2) when revision to these Terms of Use is not in breach of the purpose of any contract, and is rational in light of the necessity of such revision, appropriateness of the subject matter after revision, and other circumstances concerning the revision.  
+  
+
+**25\. Governing law and jurisdiction**  
+  
+
+The Japanese version of these Terms of Use shall be the official text, and the establishment, coming into force, and interpretation of these Terms of Use shall be governed by the laws of Japan.  
+  
+
+Any dispute arising between the User and us attributable or related to the Services (including the content of posts, advertising, etc.) shall be subject to the exclusive jurisdiction of Tokyo District Court as the court of first instance.  
+  
+
+**26\. Restriction on application of these Terms of Use**  
+  
+
+If a provision in these Terms of Use is considered to be contrary to relevant laws and regulations which are applicable to an agreement with a User that is based on these Terms of Use, the said provision shall not be applicable to the agreement with the said User to that extent.  
+  
+
+However, even in such instance, the validity of all of the other provisions of these Terms of Use shall be not affected.  
+  
+
+**Chapter 2 Software Regulations (Guidelines)**  
+  
+
+**1\. Software**  
+  
+
+These Guidelines are regulations that apply to the software we provide. In this Chapter, “software” refers to the application programs we provide (including programs such as widgets), application programming interfaces (APIs) for our web Services, developer support tools such as software development kits (SDK) (including Services such as our web Services provided through these), software necessary for using the Services, such as Content viewers, and all other software we provide (including updated versions, modified versions, substitutes and reproductions). Furthermore, “software” also includes that which Users can develop by themselves through the use of the above software. The User is solely responsible for software components developed by the User using such software (hereinafter, “Developed Software”).  
+  
+
+**2\. Usage restrictions**  
+  
+
+We may, according to Paragraph 2 of “13. Warranty of and Modification to the Services” of Chapter 1 General Rules, restrict the use of software and certain functionalities (e.g. use software to restrict the number of accesses to and access time of the Services). In addition, we may, according to the foregoing Paragraph, provide or terminate support for software and modified versions (including updated versions).  
+  
+
+**3\. Compliance required for software use**  
+  
+
+The following acts are prohibited in using the software:  
+  
+
+(1) reverse engineering, disassembling, or decoding the source code by any other means for unjustifiable purposes or in a wrongful manner;  
+  
+
+(2) using software to control equipment or the like in such a way that could cause a serious risk to human life, personal safety, or property;  
+  
+
+(3) using by oneself, or causing a third party to use, software or Developed Software for the purpose of receiving compensation;  
+  
+
+(4) selling, renting, or licensing the software without our prior consent expressed either in writing or by some other method specified by us;  
+  
+
+(5) using or misusing the software in excess of a reasonably necessary amount, or using the software in a way that does not comply with the instructions set by us regarding software use; and  
+  
+
+(6) using the software in a manner that is not within the purpose for which the software is provided, or using the software by a method or in a manner that we deem inappropriate.  
+  
+
+**4\. Rights-related matters**  
+  
+
+All rights related to the software, executable files, and other software belong to us or our affiliates as owners of copyrights to the applicable software.  
+  
+
+However, if a User has rights to Developed Software under the Copyright Act of Japan, the above provision regarding rights shall not apply.  
+  
+
+**5\. No warranty**  
+  
+
+With regard to the software we provide, as stipulated in Chapter 1 General Rules, we make no guarantee, whether express or implied, about the nonexistence of problems (including, without limitation, security-related defects, errors and bugs and infringement of rights), or about its security, reliability, accuracy, completeness, effectiveness and suitability for a particular purpose, and continuity of the provision of software. We are not obligated to provide the software to you upon eliminating such problems.  
+  
+
+**Chapter 3 Yahoo! JAPAN Wallet Regulations (Guidelines)**  
+  
+
+**1\. Registration in Yahoo! JAPAN Wallet**  
+  
+
+When using certain Services designated by us among the Services, you need to register the method of paying the Charges in Yahoo! JAPAN Wallet.  
+  
+
+If there is any change to the information registered in Yahoo! JAPAN Wallet, you need to immediately take measures to make such change.  
+  
+
+**2\. Restrictions on use**  
+  
+
+The credit card companies (types) and bank accounts that you can register in Yahoo! JAPAN Wallet are limited to those prescribed by us in advance, and must be in your name.  
+  
+
+When we deem necessary, we may set a credit limit on your payment of the Charges that can be made using Yahoo! JAPAN Wallet.  
+  
+
+**3\. Agency payment service and subcontracting**  
+  
+
+If you designate Yahoo! JAPAN Wallet as the method of paying the Charges of transactions concluded between you and the provider of products or services other than us, we will receive payment from you based on authorization from the provider of products or services to receive payment of the Charges of such products and services on its behalf based on a contract with such provider of products or services (hereinafter referred to as the “Agency Payment Service” in this Chapter).  
+  
+
+In the foregoing case, your payment of the Charges of products or services will be completed when your payment to us is completed.  
+  
+
+We may subcontract all or a part of the Agency Payment Service to a payment service agent upon imposing confidentiality obligations on the payment service agent.  
+  
+
+We may also consign to a service provider all or a part of the service of paying rewards, compensations or refunds to you upon imposing confidentiality obligations on the service provider.  
+  
+
+**4\. Billing and payment**  
+  
+
+If you are using products or services provided by us, as a general rule, the cut-off date of use will be the last day of each month, and we will bill you in the following month (prescribed date).  
+  
+
+For the cut-off date of billing if you are using credit card payment, please confirm with each credit card company.  
+  
+
+We will not issue any receipt, etc. for the payment of Charges made by you using Yahoo! JAPAN Wallet.  
+  
+
+**5\. Suspension of use of Yahoo! JAPAN Wallet**  
+  
+
+If you wish to suspend the use of Yahoo! JAPAN Wallet, you can do so at any time according to the procedures prescribed by us.  
+  
+
+However, if you are using a paid service, you cannot suspend the use of Yahoo! JAPAN Wallet unless you take the cancellation procedures of all paid services.  
+  
+
+**6\. Scope of our responsibility**  
+  
+
+We will not have any contractual relationship with you concerning products and services that you purchase or use using Yahoo! JAPAN Wallet other than the products and services provided by us.  
+  
+
+If you suspend the use of Yahoo! JAPAN Wallet, if there is any deficiency in the registered information such as information related to the registered credit card or bank account, or if you are unable to make or receive payment due to your own reasons, we will not be liable for any damage that you suffer.  
+  
+
+**7\. Assignment of claims**  
+  
+
+If you delay payment to us, we may assign the claim thereof to a third party, and you accept such assignment.  
+  
+
+**Chapter 4 Coin Regulations (Guidelines)**  
+  
+
+1\. “Coins” means prepaid payment instruments or the like, issued by us, which Users may exchange for the Services and Contents which are provided for a fee within the Services.  
+  
+
+2\. Coins will be provided to the User’s account by the means specified by us, such as purchases in the Services, special offers and the like. The purchase unit, method of payment, and any other conditions for granting the Coins will be determined by us and indicated in the Services or on our website.  
+  
+
+3\. Coins may not be exchanged or used for cash, property or other economic value other than the Services and Contents designated by us. The number of Coins required for receiving the Services or Contents, as well as other conditions for the exchange of Coins, will be determined by us and indicated in the Services or on our website.  
+  
+
+4\. Coins may only be used by the account that obtained the same. Furthermore, Coins provided by terminal devices of different operating systems may not be carried over or combined, even if they are under the same name, since the types of Coins are different.  
+  
+
+5\. Coins will not be refunded for any reason whatsoever; provided, however, that this shall not apply if necessary under applicable laws and regulations. In such case, we will determine the process for refunds in accordance with the relevant laws and regulations, and such information will be made available on our website, etc.  
+  
+
+(Revised on October 1, 2023)
