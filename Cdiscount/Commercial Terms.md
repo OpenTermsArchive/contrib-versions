@@ -780,7 +780,7 @@ Dans le cadre de la mise en œuvre de ces garanties, les conditions de prise en 
 Ainsi, vous pourrez être amenés :  
   
 \-          Soit à nous retourner directement votre produit en panne ;  
-\-          Soit à appliquer la procédure qui vous sera directement communiquée par le fabricant du produit.
+\-          Soit à appliquer la procédure qui vous sera directement communiquée par le fabricant du produit, sous-traitant de Cdiscount.
 
   
 Dans tous les cas, à défaut de panne constatée ou en cas d’utilisation anormale de votre produit (notamment, sans que cette liste soit exhaustive : produit cassé, oxydation, utilisation non conforme aux recommandations du fabricant ou à la destination du produit), nous ne procèderons ni à la réparation, ni à l’échange du produit ; nous serons en outre susceptibles de vous facturer les frais de déplacement et de main d’œuvre occasionnés.  
