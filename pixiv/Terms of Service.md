@@ -1618,472 +1618,296 @@ Revision
 * August 1, 2017
 * April 25, 2016
 
-BOOTH Storage Service Terms of Use
-==================================
+BOOTH Storage Service
+=====================
 
 This document is an English translation of the original version for reference purposes only. The original version is written in the Japanese language. In the case of any discrepancy between the original Japanese version and this English translation, the original Japanese version shall prevail.
 
 Article 1. Introduction
 -----------------------
 
-1. These Individual Terms of Use apply to all conduct in cases where User uses storage service (“Storage Service”) entrusted to the Company for storage in a warehouse and shipment of Products and services ancillary thereto provided in relation to the “BOOTH” service (“Individual Service”) operated and managed by the Company.
-2. These Individual Terms of Use set forth conditions for use of the Storage Service. User agrees to, and shall use the Storage Service in accordance with, these Individual Terms of Use.
-3. By using the Storage Service, User shall be deemed to have agreed to all provisions of these Individual Terms of Use.
-4. Unless User agrees to these Individual Terms of Use, User may not use the Individual Service.
-5. These Individual Terms of Use are the individual terms of pixiv service Master Terms of Use ("Master Terms of Use"), which are applied for all services throughout pixiv Inc.'s services, and cases unspecified in these Individual Terms of Use, unless specified to exclude in the Individual Terms of Use, shall follow Master Terms of Use and other relating guidelines ("Terms etc.") set by the Company.
-6. Unless otherwise provided in these Individual Terms of Use, the definitions in the pixiv Master Terms of Use and “BOOTH” Terms of use shall apply.
+1. pixiv (hereinafter referred to as “the Company”) provides a warehouse service for the storage and shipping of merchandise (hereinafter referred to as “the Storage Service”). This service is provided by BOOTH (hereinafter referred to as “the Service”), which is operated and managed by the Company. Users may entrust the storage and shipment of their merchandise to the Company via the Service, and the Storage Service Terms of Use (hereinafter, “Terms of Use”) apply to all transactions between users and the Service regarding the Storage Service.
+2. These individual Terms of Use set forth the conditions for use of the Storage Service. Users who utilize the Storage Service must agree to and abide by these individual Terms of Use when using the Storage Service.
+3. By using the Storage Service, Users accept responsibility for having read and understood all the clauses in the Terms of Use.
+4. Users are not allowed to use the Storage Service unless they have agreed to these Terms of Use. These Terms of Use fall under the Service Master Terms of Use that apply across all pixiv-operated services, and any items not specifically stipulated in these Terms of Use shall be governed by the Service Master Terms of Use, other individual Terms of Use set forth by pixiv Inc., Guidelines, and rules provided by the Help center of pixiv Inc., unless specifically stipulated.
+5. Any terms not specifically defined in these individual Terms of Use shall be defined by the definitions stipulated in the Service Master Terms of Use or other individual Terms of Use pertaining to the Storage Service.
 
-Article 2. Scope of Application of these Individual Terms of Use
-----------------------------------------------------------------
+Article 2. Storage Service
+--------------------------
 
-1. These Individual Terms of Use apply to storage of products other than the prohibited items specified in Article 14 of the pixiv Master Terms of Use where such storage is performed as the Storage Service. Provision of the Storage Service shall be limited to Japan.
-2. Any matters not specified in these Individual Terms of Use shall be governed by laws and regulations or shall be in accordance with general practice.
-3. Notwithstanding the preceding two paragraphs, the Company may accept proposals for special separate agreements which amend some parts of these Individual Terms of Use to the extent not in violation of laws and regulations.
+The Storage Service the Company provides refers to the following.
 
-Article 3. Method of Use and Storage Fees
------------------------------------------
+1. Merchandise storage service
+2. Shipping service for stored merchandise
+3. Various other supplemental services related to the previous two items
 
-1. The Storage Service may be used for products handled by User on the Individual Service, upon User consenting to these Individual Terms of Use and making a request for the storage and shipment services via the Individual Service.
-2. In cases where the product sales rate\* for the one-month period from the beginning of the month including the day on which the stored products are transferred to the Company equals 20% or greater, no storage fees for that one-month period shall arise. \* The sales rate is equal to the number of products sold in the relevant storage period divided by (the number of products in inventory on the first day of the relevant storage period plus the number of products added to the inventory during that relevant storage period).
-3. The Company shall invoice User for storage fees at the beginning of the month following the month in which the storage period ends. The storage fees shall be 1,000 yen (not including consumption tax) per month.
-4. The maximum numbers of stored products shall be as set forth below. The Company’s determination shall take precedence with regard to product types and sizes.
-    
-    ■ Maximum Number of Stored Products by Size ■
-    
-    Nekopos size
-    
-    Product type and size
-    =====================
-    
-    Up to 31.2 cm length, up to 22.8 cm width and up to 2.5 cm height
-    
-    Weight when packaged
-    ====================
-    
-    Up to 1 kg
-    
-    Number that may be stored
-    =========================
-    
-    1,000
-    
-    * * *
-    
-    60 size A (printed materials such as fanzines and pamphlets, CDs, DVDs)
-    
-    Size when packaged
-    ==================
-    
-    Total of length, width, and height up to 60 cm: Up to 3.5 cm height
-    
-    Weight when packaged
-    ====================
-    
-    Up to 2 kg
-    
-    Product type
-    ============
-    
-    Limited to printed materials, CDs, and DVDs
-    
-    Number that may be stored
-    =========================
-    
-    1,000
-    
-    * * *
-    
-    60 size B (other goods)
-    
-    Size when packaged
-    ==================
-    
-    Total of length, width, and height up to 60 cm
-    
-    Weight when packaged
-    ====================
-    
-    Up to 2 kg
-    
-    Product type
-    ============
-    
-    Non-printed materials and printed materials, CDs, and DVDs that do not fall within the definition in 60 size A
-    
-    Number that may be stored
-    =========================
-    
-    200
-    
-    * * *
-    
-    80 size
-    
-    Size when packaged
-    ==================
-    
-    Total of length, width, and height up to 80 cm
-    
-    Weight when packaged
-    ====================
-    
-    Up to 5 kg
-    
-    Number that may be stored
-    =========================
-    
-    100
-    
-    * * *
-    
-    100 size
-    
-    Size when packaged
-    ==================
-    
-    Total of length, width, and height up to 100 cm
-    
-    Weight when packaged
-    ====================
-    
-    Up to 10 kg
-    
-    Number that may be stored
-    =========================
-    
-    100
-    
-    * * *
-    
-    120 size
-    
-    Size when packaged
-    ==================
-    
-    Total of length, width, and height up to 120 cm
-    
-    Weight when packaged
-    ====================
-    
-    Up to 15 kg
-    
-    Number that may be stored
-    =========================
-    
-    70
-    
-    * * *
-    
-    140 size
-    
-    Size when packaged
-    ==================
-    
-    Total of length, width, and height up to 140 cm
-    
-    Weight when packaged
-    ====================
-    
-    Up to 20 kg
-    
-    Number that may be stored
-    =========================
-    
-    70
-    
-    * * *
-    
-    160 size
-    
-    Size when packaged
-    ==================
-    
-    Total of length, width, and height up to 160 cm
-    
-    Weight when packaged
-    ====================
-    
-    Up to 25 kg
-    
-    Number that may be stored
-    =========================
-    
-    50
-    
-5. In cases where the Company cannot confirm payment of the storage fees specified in Paragraph 3 of this article, the Company shall terminate storage of the relevant products in the month in which the storage period ends, set the number of the relevant products in inventory registered on the Individual Service to zero, and perform return procedures.
-6. User may make a request to the Company to return those products that User selects to be returned (“Products Subject to Return”). The Company shall calculate the shipping fees necessary for return according to the number of the Products Subject to Return and may invoice User for those shipping fees.
-7. In cases where the return procedures are not performed for Products Subject to Return despite termination of the storage period, the Company may return the Products Subject to Return to the address registered by User on the Individual Service.
-8. The Company may return to the address registered by User on the Individual Service, discard, or otherwise dispose of stored products that have not been shipped for six months from the month after the month including the day of the last shipment.
-9. In regards to the new storage requests, the number of Products which can be in storage shall be from 30 items, and one item for additional storing.
-
-Article 4. Means of Payment of Storage Fees
--------------------------------------------
-
-1. User shall pay the storage fees for the Storage Service with a valid credit card managed by User or other payment method as the means of payment.
-2. The means of payment specified in the preceding paragraph shall be either of the following methods:
-    1. Credit card; or
-    2. Other method specified by the Company.
-3. Use of a credit card shall be conditioned on the User’s name being the same as the holder of the credit card specified in the preceding paragraph.
-4. In cases where a credit card is used for payment, the storage fees and other fees shall be withdrawn from the account designated by User on the payment date designated in the credit card company member agreement.
-
-Article 5. Method of Calculation and Payment of Storage Fees
-------------------------------------------------------------
-
-1. During the terms of the Agreement, User shall pay the storage fees invoiced pursuant to Article 3 using the credit card specified in Article 4 in a lump-sum in accordance with the credit card company member agreement.
-2. In cases where the settlement specified in the preceding paragraph cannot be completed because User’s credit card is expired or for other reasons, User shall immediately pay the storage fees by the method specified by the Company.
-3. In cases where a dispute arises between User and the relevant credit card company in relation to the obligation to pay these fees or other obligations, the matter shall be resolved between the parties, and the Company shall not bear any liability whatsoever.
-4. Agreements relating to use of the Storage Service shall expire when the storage period expires. Even in the case where User stops using the Individual Service or the Storage Service for its own convenience, storage fees that were previously paid shall not be refunded.
-5. In cases where the specified storage period expires, the agreement between User and the Company relating to use of the Storage Service shall expire.
-6. The Company shall at its discretion set a period during which a history of the services provided to User via the Storage Service shall be retained even after expiration of an agreement within the period and extent specified by the Company. In cases where User enters into a new agreement with the Company during that period, it will be possible to maintain the status of the history of services provided during the term of the previous agreement for the period and to the extent specified by the Company; provided, however, that this shall be at the Company’s discretion, and the Company makes no warranty that the entire service history during the period of the prior agreement will be maintained.
-
-Article 6. Notice of Changes regarding Credit Card
---------------------------------------------------
-
-1. In cases where there are any changes relating to credit card information provided to the Company including the address, credit card number, and expiration date, User shall promptly provide notice to the Company by the method prescribed by the Company; provided, however, that in cases falling under the following items, User shall not object to User’s credit card company providing notice to the Company without User’s prior consent.
-    1. In cases where User loses the membership qualification for the credit card regarding which notice was provided to the Company; or
-    2. In cases where the credit card number that has been provided to the Company has changed because of loss of the credit card or other circumstances.
-2. The Company shall not bear any liability whatsoever if User incurs any disadvantage as a result of failure to provide the notice specified in the preceding paragraph.
-
-Article 7. Product Shipping on behalf of User and its Charges
--------------------------------------------------------------
-
-1. User shall pay to the Company the shipping fees specified in Paragraph 4 and storage shipping fees specified in Paragraph 5 of this article (referred as "Shipping fees etc.) for each parcel of stored products that the Company ships on behalf of User. Shipping fees shall not be refunded for any reason. Shipping fees shall be based on the amount of products delivered and shall be invoiced when a product sale is formed and the product is shipped. Selection of the method of shipping, shipping company, and so on shall be determined by the Company.
-2. The Company may at its discretion change shipping rates.
-3. Except for circumstances relating to the day of suspension of shipping operations for which prior notice is provided by the Company to User, in the event there is a possibility of User being disadvantaged as a result of loss of or damage to products as a result of the Company’s negligence, the Company shall use its reasonable efforts to control the situation. User shall have the right to consult with the Company regarding damage incurred and demand compensatory damages, and the Company shall pay compensation for products up to the lower cost of 10,000 yen or the sale amount of the products to the extent attributable to the Company.
-4. The shipping fees when the Company ships products on behalf of User via the Storage Service shall be, 400 yen per parcel in the case of Nekopos (up to 31.2 cm length, up to 22.8 cm width, up to 2.5 cm height, and up to 1kg weight) and 730 yen per parcel in the case of home delivery service (Ta-Q-BIN) (total of length, width, and height up to 160 cm, up to 25 kg weight). The Company may, at its discretion, calculate the number of boxes necessary according to the quantity of products at the time of product shipment, calculate the shipping fees on the basis of the number of boxes, and invoice User.
-5. The storage shipping fees cost 26 yen per order.
-
-Article 8. Refusal to Accept Product Storage
---------------------------------------------
-
-User must not register the following products when using the Individual Service:
-
-1. If the request for product storage is not in compliance with these Individual Terms of Use;
-2. If the products are dangerous products, products that are susceptible to change in quality or easily damaged, products that are not properly packaged, prohibited products specified in Article 9, and other products that the Company determines are not suitable for storage;
-3. If the facilities necessary for product storage are not available;
-4. If special burdens are required in relation to storage of the products;
-5. If storage of products would be contrary to laws and regulations, public order, or good morals; or
-6. If there are other unavoidable circumstances.
-
-Article 9. Prohibited Products
-------------------------------
-
-In addition to the goods specified in Article 14 (Prohibited Conduct) of the pixiv Master Terms of Use, User may not request storage and shipment of the products set forth in the following items.
-
-1. Products whose total length, width, and height exceeds 160 cm per item;
-2. Cash, securities, bank books, stamps, revenue stamps, certificates, important documents, seals, credit cards, and cash cards;
-3. Precious metals, fine art, antiques, precious stones, craftwork, furs, kimono, and other high-priced or valuable items;
-4. Precision machinery, glass products, ceramic ware, household Buddhist altars, and other easily broken products;
-5. Products that emit magnetism or will otherwise have an effect on other stored products;
-6. Kerosene, gasoline, gas tanks, matches, lighters, paint, and other flammable materials;
-7. Agricultural chemicals, dangerous drugs, gunpowder, poisons, chemicals, radioactive materials, or other hazardous or toxic substances;
-8. Animals and plants (including seeds and seedlings);
-9. Raw food and solid or liquid foodstuffs;
-10. Products that emit or may emit an offensive or foul odor;
-11. Waste material;
-12. Products whose possession is prohibited by laws and regulations;
-13. Products contrary to public order and morals; and
-14. Other products that the Company or the warehouse operator determines to be inappropriate.
-
-Article 10. Compensation Amount
--------------------------------
-
-1. User agrees in advance that the amount of compensation for stored products (“Compensation Amount”) shall be limited to the lower cost of 10,000 yen or the product sale amount.
-2. Notwithstanding the preceding paragraph, following discussions with User at the time of the request for storage, the Company may set the Compensation Amount at a value determined to be appropriate.
-
-Article 11. Request for Storage and Shipment; Formation of Storage Agreement
-----------------------------------------------------------------------------
-
-1. When User requests storage and shipment pursuant to these Individual Terms of Service, User must make a request by inputting and transmitting the following matters relating to the relevant product (“Application Matters”) according to the procedures and the method prescribed by the Company via the Individual Service.
-    1. User’s name, address, telephone number, and email address;
-    2. Name and quantity of the product;
-    3. If special care is required during storage, particulars relating to such special care during storage; and
-    4. Other matters necessary for storage.
-2. An agreement for storage of products by the Company on behalf of User (“Storage Agreement”) pursuant to these Individual Terms of Use, the “BOOTH” Terms of Use, guidelines, and the like shall be formed when the Company approves the Application Matters and accept such storage.
-
-Article 12. Change of Application Matters, etc.
+Article 3. How to apply for the Storage Service
 -----------------------------------------------
 
-1. In cases where any of the change in matters specified in Paragraph 1, Item (1) of the preceding article occurs, User must immediately notify the Company in accordance with the procedures and method prescribed by the Company.
-2. In cases where User seeks to change any of the matters specified in Paragraph 1, Items (2) to (4) of the preceding article, User must make a prior request to the Company in accordance with the procedures and method prescribed by the Company.
+1. If a User wishes to apply for the Storage Service, the User should apply by following the procedures and methods stipulated by the Company.
+2. A usage contract (hereinafter, “the Contract”) shall be concluded between the Company and the User based on the stipulations in this Terms of Use document. The Contract shall take effect once the Company has approved the content of the application from the User.
 
-Article 13. Cancellation of Agreement
+Article 4. Changes or updates to Application Content
+----------------------------------------------------
+
+1. When the User applies to use the Storage Service as stipulated in Item 1 of the previous Article, if there are any changes to the content reported in the application (hereinafter, “the Application Content”), the User must use its the Company’s stipulated procedures and methods to report the changes immediately.
+2. The User bears responsibility for always maintaining the accuracy of the information that the User has registered with the Company by revising or updating the information as needed. Whether or not changes have been made to the actual Application Content, if no changes have been enacted, the Company may continue to handle the Application Content as if no changes have been made. Even if a notice of changes has been sent, transactions and procedures that took place before the change may depend on information that was registered prior to the change.
+3. The Company shall issue notifications and communications related to the Storage Service according to the Application Content registered with the Company, and the Company shall bear no responsibility for any inconvenience caused to Users due to delayed changes in the Application Content as set forth in Item 1 of this Article.
+
+Article 5. Application for storage of merchandise
+-------------------------------------------------
+
+1. A User may apply to store merchandise using the Storage Service by filling out and sending the relevant information and items via the procedures and methods set forth by the Company in these Terms of Use. The relevant information is set forth in the next clause of these Terms of Use, and the User shall send the information to the Company via a Merchandise Storage Application (hereinafter, “Merchandise Storage Application”). Merchandise stored by the Company as stipulated in this Article shall hereinafter be referred to as “Stored Merchandise”.
+    1. Item name(s) and number of units
+    2. If items require special handling and storage, the User shall include the relevant information and warnings
+    3. Other information necessary for the storage of items
+2. After a User completes the application procedure detailed in the previous Item of this Article, the User shall mail the items to be stored to the Company immediately, with the Merchandise Storage Application attached to the parcel. Shipping fees for shipping the items to the Storage Service shall be borne by the User. The maximum number of items that can be stored (Maximum Item Number) is set forth later in this document. The Company shall determine specifications regarding what type category the items belong to, and the size of the items.  
+    [■Stored Merchandise Maximum Item Number by Size■](https://booth.pm/warehouse_guide/detail#stock-limit)
+3. If the User is applying to store items for the first time, the minimum number of items to be stored shall be set at 30 items, but if the User is applying for storage of additional items, items can be added individually (starting from one (1) item).
+
+Article 6. Storage service usage fees
 -------------------------------------
 
-1. In cases where the following circumstances exist, the Company may cancel a Storage Agreement.
-    1. If it is discovered that User falls under any one of the items specified in Article 6 or Article 7, Paragraph 1 of the “BOOTH” Terms of Use or that a product falls under any one of Items (2) to (6) of Article 8 of these Individual Terms of Use;
-    2. If User does not transfer the stored products in accordance with these Individual Terms of Use; or
-    3. If User refuses inspection of the particulars of the stored products in accordance with Paragraph 1 of the following article.
-2. In the case where the Company suspends or discontinues business operations, it may cancel Storage Agreements. In this case, the Company shall provide notice to that effect at least three months before the cancellation date.
-3. In cases where User falls under any one of the following items, User’s obligations shall be accelerated and the Company may immediately cancel Storage Agreements.
-    1. If User violates any provision of these Individual Terms of Use, the “BOOTH” Terms of Use, guidelines, and the like or related rules established by the Company;
-    2. If damage is caused to the Company or a third party or there are reasonable grounds to determine that such damage will be caused for reasons attributable to User or changes in the quality of stored products and the like;
-    3. If a note or check is dishonored or if User is the subject of a suspension of bank transactions;
-    4. If User is the subject of attachment, provisional attachment, provisional disposition, or other compulsory enforcement, or if User is the subject of or files a petition for corporate reorganization, bankruptcy, or civil rehabilitation;
-    5. If inheritance proceedings are commenced with respect to User;
-    6. If it is discovered that the details of the Application Matters are contrary to facts;
-    7. If it is discovered that User or a person associated with User is a member of an organized crime group or the like or a group suspected of engaging in or abetting collective or habitual violent or unlawful conduct or engages in transactions with such persons; or
-4. In the case where the Company or third party incurs damage as a result of the circumstances set forth in the foregoing items of the preceding paragraph, User shall pay compensation for such damage.
-5. In cases where the Company cancels a Storage Agreement pursuant to Paragraphs 1 to 3 of this article after delivery by User of the stored products to the Company, User must without delay pay storage fees, other expenses, advances, and delay penalties and retrieve the stored products.
-6. In cases where the Company cancels a Storage Agreement pursuant to Paragraph 1 or Paragraph 3 of this article, the Company shall not bear any liability for damage incurred as a result of such cancellation.
-7. In the case where the Company cancels a Storage Agreement pursuant to Paragraph 2 of this article and such suspension or termination of business operations is for good cause, the Company shall not bear liability to pay compensation for damage incurred as a result of such cancellation.
+Fees for using the Storage Service are stipulated below.
 
-Article 14. Inspection of the Content of Stored Products at the Time of Transfer
---------------------------------------------------------------------------------
+1. Storage fees  
+    Storage fees for stored items shall be billed according to the stipulations in Article 7 and Article 9 of this document.
+2. Shipping fees  
+    Fees for the shipping of stored merchandise shall be calculated based on the stipulations regarding the number of items set forth in Article 10, and shall be billed when the items are shipped.
 
-1. When the Company receives transfers of stored products, if the Company has any doubts regarding the name, quantity, or special care regarding storage or shipment of the stored products that was input and transmitted as the Application Matters, the Company may, with User’s consent, inspect the content of the stored products.
-2. Notwithstanding the preceding paragraph, in cases where there is not sufficient time to request User’s consent and there is good cause to determine that there is an abnormality in the content of the stored products on the basis of the external appearance, the Company may inspect the content of stored products without obtaining User’s consent.
-3. In cases where the Company conducted an inspection pursuant to Paragraph 1 of this article and User was not present during the inspection or the Company conducted an inspection pursuant to the preceding paragraph, the Company shall without delay send notice to that effect and the results of the inspection to User.
-4. In cases where the Company conducted an inspection pursuant to Paragraph 1 or Paragraph 2 of this article and the content of the stored product does not differ from the Application Matters that were input and transmitted, the Company shall be liable to pay compensation for damage incurred as a result of the inspection.
-5. In cases where the Company conducted an inspection pursuant to Paragraph 1 or Paragraph 2 of this article and the content of the stored product differs from the Application Matters that were input and transmitted, User must pay the expenses incurred for the inspection.
+Article 7. Storage fees and payment for ordinary Stored Merchandise
+-------------------------------------------------------------------
 
-Article 15. Change of Compensation Amount at the Time of Transfer
------------------------------------------------------------------
+1. The storage fees (hereinafter, “Ordinary Storage Fees”) for ordinary Stored Merchandise (as set forth in Article 5 Item 3, Stored Merchandise Maximum Item Number by Size) shall be 1000 JPY per month (tax excluded). Users shall pay Ordinary Storage Fees via a separately stipulated pre-payment system provided by the Company called BOOTH Storage Tickets (hereinafter, “Storage Tickets”). Therefore, Users who wish to store items must purchase Storage Tickets in advance.
+2. Users may purchase tickets starting at one (1) ticket for 1000 JPY (tax excluded). Storage Tickets are non-refundable.
+3. Users can purchase multiple Storage Tickets in advance.
+4. On the first day of the month following the month when the data on the Stored Merchandise was registered in the Company’s system, the Company will bill the User for Ordinary Storage Fees. If the User has already purchased Storage Tickets as set forth in Items 1-3 of this Article, the Storage Tickets will be used up automatically, and billing for Ordinary Storage Fees will be completed.
+5. If the User has not purchased Storage Tickets before the Ordinary Storage Fees are billed, the User is required to purchase Storage Tickets before the 15th of the month in which the Company issued the User a notification requesting that the User purchase Storage Tickets. If the User purchases the required number of Storage Tickets within this timeframe, the Ordinary Storage Fees will be considered paid.
+6. If the User does not purchase the required number of Storage Tickets within the time frame stipulated in the previous Item, at the Company’s discretion, the Company may return the Stored Merchandise to the User, regardless of whether the User has canceled their Contract with the Company, or may dispose of the merchandise and cancel the storage of the Stored Merchandise. In this case, all fees related to the return or disposal of the Stored Merchandise shall be borne by the User.
+7. Regardless of the stipulations set for in Item 1 and Item 5 of this Article, if the sales rate\* of the Stored Merchandise exceeds 20% within the same month (hereinafter, “Storage Period”), the User will not be billed for Ordinary Storage Fees for that month and will not be required to pay Ordinary Storage Fees for that month.  
+    \*Sales rate = number of stored items sold within the Storage Period ÷ the number of stored items in stock on the first day of the relevant Storage Period + the number of stored items entrusted to the Storage Service during the Storage Period
 
-When the Company receives transfers of stored products, in cases where the Company determines that the Compensation Amount is not appropriate, following consultations with User, the Company may change the Compensation Amount to a value that it determines to be appropriate.
-
-Article 16. Confirmation of Transfer, etc.
+Article 8. Storage Ticket expiration dates
 ------------------------------------------
 
-In cases where the Company receives transfers of stored products, the Company shall provide notice according to the procedures and method prescribed by the Company.
+1. There is no expiration date for Storage Tickets.
+2. Storage Tickets (as set forth in the previous Article) shall be rendered null and void if the User deletes their shop registration.
 
-Article 17. Storage Methods
----------------------------
+Article 9. Additional storage fees and payment
+----------------------------------------------
 
-The Company shall store stored products by the method determined and indicated by the Company in the condition in which the products are packaged at the time of transfer and without inspecting the content. Even if any products are lost or damaged, the Company shall not bear liability except in cases where such loss or damage is attributable to the Company.
+1. If the number of items exceeds the Ordinary Storage number set forth in Article 7, the Company may bill the User for additional storage fees (hereinafter, “Additional Storage Fees”).
+2. If the User is billed for Additional Storage Fees as stipulated in the previous Item of this Article, the User must pay the fees before the deadline stipulated by the Company.
+
+Article 10. Shipping fees and payment
+-------------------------------------
+
+The shipping fees stipulated in the Contract shall be calculated based on the shipping rates below and the Storage Service shipping and handling fees, and the User shall be responsible for paying the shipping fees via a method stipulated by the Company.
+
+1. Shipping fees  
+    Fees incurred when the User ships items to the Company to be stored by the Storage Service are set forth in a separate document on the Company’s individual service page ([https://booth.pm/warehouse\_guide](https://booth.pm/warehouse_guide)).
+2. Storage service shipping fees  
+    The fee incurred when items are shipped from the Storage Service is 26 JPY per order (tax included).
+
+Article 11. Revision of the Storage Service usage fees
+------------------------------------------------------
+
+1. The Company may revise Storage Service usage fees without the prior consent of Users.
+2. If the Company revises its fee structure as stipulated in the previous Item of this Article, the Company shall issue notifications to Users by email or communicate with Users based on the contact methods stipulated in the Article 31, and shall make it clear to Users in advance that the Storage Service usage fee structure is being revised, and provide the numerical details of the new fee structure.
+3. If a User wishes to continue using the Storage Service after the change in fee structure goes into effect (in accordance with the notification issued by the Company to the User as stipulated in the previous Item of this Article), the User is considered to have consented to the new fee structure without objection.
+
+Article 12. Fees and burden of responsibility
+---------------------------------------------
+
+1. The Company may bill Users for the following fees related to the usage of the Storage Service provided by the Company.
+    1. Special handling fees
+        * Handling fees incurred when Stored Merchandise is shipped
+        * Pick and pack fees incurred when Stored Merchandise is shipped or otherwise returned to the User
+        * Customs clearance fees incurred when Stored Merchandise is shipped through customs
+        * Disposal fees incurred when Stored Merchandise is disposed of
+    2. Reshipment fees
+        * If Storage Merchandise is shipped based on the shipping stipulations in Article 13, then the shipped items are returned and reshipped, the reshipment fee includes all actual expenses incurred by reshipment (including but not limited to the actual cost of shipping the relevant items).
+    3. Reimbursable fees
+        * Shipping fees incurred if items are shipped to the Company under a pay-on-delivery shipping scheme, shipping costs for the return of defective items and the shipment of replacement items, and all other fees which the Company pays on behalf of the User.
+    4. Shipping and handling fees
+        * Shipping and handling fees incurred if the User requests that Stored Merchandise be returned to the User (hereinafter, “Return to User”). These fees include but are not limited to the cost of shipping the relevant Stored Merchandise.
+    5. Return fees
+        * Fees incurred when Stored Merchandise is returned to the User due to cancellation or expiration of the Contract. These fees include but are not limited to the cost of shipping the relevant Stored Merchandise back to the User.
+    6. Other fees
+        * Any other fees which in addition to those stipulated in Item 5, Number 5 of this Article are to be borne by the User according to the stipulations of this Contract.
+2. The User shall pay all fees stipulated above promptly after the Company has sent the User an invoice.
+
+Article 13. Shipping Stored Merchandise
+---------------------------------------
+
+1. The Company shall ship Stored Merchandise on behalf of the User, as directed by the User, to the address specified by the User (addresses within Japan only).
+2. If the User entrusts the Company to ship Stored Merchandise on the User’s behalf, the User is considered to have given prior consent to the shipping company freight forwarding contract stipulated by the Company.
+3. If for whatever reason, the items being shipped are broken, damaged, or lost in transit, the User shall not contact the shipping company directly, but rather shall follow the procedures set forth by the Company to make inquiries or other communications.
+4. The obligations borne by the Company regarding shipping are limited to shipping the Stored Merchandise to the address specified by the User. If, as a result of shipping the Stored Merchandise to the address specified by the User, the address was incorrect, the address information was incorrect, or the recipient was absent and could not take delivery of the parcel, the Company shall bear no responsibility if the Stored Merchandise was not delivered to the User or to the address specified by the User.
+5. If, as stipulated in the previous Item, the Stored Merchandise is not delivered to the specified address, and is therefore returned to the Company, if the User requests that the items be re-shipped, additional reshipment fees specified by the company shall be borne by the User.
+6. If Stored Merchandise is returned to the Company, but the Company receives no request for reshipment from the User within three months of the date that the Stored Merchandise was redelivered to the Company, the User shall forfeit ownership rights to the Stored Merchandise, and the Company shall be empowered to dispose of the Stored Merchandise as it sees fit. Any disposal fees incurred shall be borne by the User.
+
+Article 14. Rejection of Stored Merchandise
+-------------------------------------------
+
+1. Users are not permitted to apply to store any merchandise (as detailed in Article 5) that falls under any of the following categories (hereinafter, “Prohibited Merchandise”).
+    1. Any items for which the size per item is larger than the following: height + width + length = 160 cm
+    2. Cash, securities, bank books, postage stamps, revenue stamps, deeds/certificates, vital documents, official name seals, credit cards, or cash cards
+    3. Precious metals, works of art, antiques, gems/fine jewelry, handicrafts, furs, kimonos or other rare/valuable items
+    4. Precision devices/electronics, glassware, ceramics/pottery, Buddhist altar items, or other fragile/breakable items
+    5. Magnets or other items that could damage other merchandise stored in the Storage Service
+    6. Kerosene, gasoline, compressed gas canisters, matches, lighters, paints, oils, batteries or other flammable items
+    7. Agricultural chemicals, hazardous chemicals, gunpowder/explosives, poisons, chemical reagents, radioactive items, or other hazardous/poisonous goods
+    8. Animals (living or dead, including taxidermy or embalmed embryos) and/or plants (including seeds, seedlings)
+    9. Food and/or beverages
+    10. Liquids or other items that could cause damage if broken
+    11. Items that give off bad odors or have the potential to give off bad odors
+    12. Garbage
+    13. Items whose possession is prohibited by law
+    14. Items which violate public order and morals
+    15. Other items which the Company deems inappropriate for storage
+2. The Company shall reject all applications to store items falling under the items in the list below.
+    1. Any items stipulated as prohibited items in the list above
+    2. Items for which the user has not filled out an application (as detailed in Article 5), or items for which the application is incomplete
+    3. Dangerous items, items that are easily damaged or may easily disintegrate, items that have not been properly packaged, and items not declared by the previous list as prohibited, but the Company nonetheless deems inappropriate for storage
+    4. Items which the Storage Service lacks the capacity/facilities to store
+    5. Items which require special circumstances for storage
+    6. Items for which storage is prohibited by law, items that violate the standards of common decency, or items which could potentially fall into either of these categories
+    7. Other items which the Company deems ineligible for any reason
+3. After the Company receives an application for Stored Merchandise, as detailed in Article 5, if it is discovered that the items to be stored are prohibited items under the list in Item 1, the Company may either return the items to the User, or dispose of them, regardless of any complaints or objections from the User. Any return shipping fees or disposal fees shall be borne by the User.
+
+Article 15. Compensation
+------------------------
+
+1. If the User entrusts the Company to bear responsibility for the Stored Merchandise on the User’s behalf, the Stored Merchandise shall be insured by the Company for an amount of 10,000 JPY or the actual retail value of the items, whichever is lower (hereinafter, “Compensation”). By signing a contract with the Company, Users are deemed to have given consent to this clause.
+2. Regardless of the previous item, the Company may provide an amount of Compensation that has been determined to be appropriate, through discussion with the User.
+
+Article 16. Content inspection on Stored Merchandise at the time of Load-in to the Storage Service
+--------------------------------------------------------------------------------------------------
+
+1. The Company accepts Stored Merchandise for load-in into the Storage Service (hereinafter, “Load-in”). At the time of Load-in, the Company reserves the right to inspect the actual content of the Stored Merchandise to ensure that it matches the items listed on the application form, including product names, number of items, and whether the merchandise adheres to the rules for storage and handling at the Storage Service.
+2. If the results of an inspection as detailed in the previous Item reveal that the product names, number of items, etc. do not match those listed on the application form, or that some of the items included in the parcel were not listed correctly on the application form, the Company may refuse Load-in for these items. In this case, the Company shall ask the User to conduct the proper procedures for Load-in (if the items are returned to the User, the User must write a new application for Load-in), or the Company may return the Stored Merchandise to the User at the User’s expense.
+3. If the inspection stipulated in Item 1 reveals that the parcel includes Prohibited Merchandise as defined by Article 14, the Company may return the items to the User, at the User’s expense.
+4. This Article does not obligate the company to conduct inspections on all items. It also indemnifies the Company against all objections from Users regarding the results of inspections.
+
+Article 17. Merchandise storage
+-------------------------------
+
+1. If the Company deems that the Stored Merchandise has already been packaged properly, the Company will affix the relevant Stored Merchandise management label to the packaging. If the Company deems that the Stored Merchandise has not been packaged properly, the Company will package the Stored Merchandise and affix the relevant management labels. By signing the Contract, the User waives the right to issue objections regarding this packaging system.
+2. The Company shall store the Stored Merchandise according to its own system, and shall not bear any further responsibilities for the items, including if the items are destroyed or damaged, except in cases where the Company is at fault for the destruction/damage.
+3. The Company shall not bear any responsibility for Stored Merchandise getting dusty during storage, or for Stored Merchandise deteriorating in quality or exhibiting natural wear and tear as a result of being stored.
+4. If no Stored Merchandise from a given lot has been shipped for a continuous six-month period, the Company may take measures as necessary, including returning the items to the address registered by the User when signing the Contract for the Service, or disposing of the items directly.
 
 Article 18. Subcontracting
 --------------------------
 
-1. In cases where the Company does not possess the facilities necessary for storage of stored products or there are other unavoidable circumstances, the Company may, at its discretion, under its own responsibility, and at its own expense, subcontract storage of stored products to other warehouse operator; provided, however, that in cases where there is not sufficient time to obtain consent, the Company may outsource storage without obtaining User’s consent.
-2. In cases where the Company subcontracts storage to other warehouse operators pursuant to the proviso of the preceding paragraph, the Company shall without delay provide notice to that effect to User.
+The Company may subcontract all or part of Storage Service management to a third-party warehouse contractor, at the Company’s own responsibility and expense.
 
-Article 19. Refusal to Renew Storage Period
--------------------------------------------
-
-1. In cases where the following circumstances exist, the Company may refuse to renew a storage period. In such cases, the Company shall provide notice to that effect at least one week prior to the expiration date of the storage period.
-    1. If payment of storage fees, other expenses, advances, or delay penalties are not paid by the day specified and notified by the Company;
-    2. If User refuses inspection of the content of stored products pursuant to Article 20, Paragraph 1; or
-    3. If User otherwise violates these Individual Terms of Use, the “BOOTH” Terms of Use, or guidelines and the like.
-2. In cases where the Company refuses to renew a storage period pursuant to Paragraph 1 of this article, the Company shall deem that a request for cancellation of agreement was made to User simultaneously with expiration of the storage period.
-3. In cases where the Company refuses to renew a storage period pursuant to Paragraph 1 of this article, User’s obligations shall be accelerated because of the forfeit of the benefit of time, and User must without delay pay storage fees, other expenses, advances, and delay penalties and retrieve the stored products.
-4. In cases where the Company refuses to renew a storage period pursuant to Paragraph 1 of this article, the Company shall not bear liability to pay compensation for damage resulting from such refusal.
-
-Article 20. Inspection of Content of Stored Products during Storage
+Article 19. Stored Merchandise content inspection following Load-in
 -------------------------------------------------------------------
 
-1. If during the storage period the Company has any doubts regarding the name, quantity, or special handling notes regarding storage or shipment of the stored products that were input and transmitted as the Application Matters, the Company may, with User’s consent, inspect the content of the stored products.
-2. Notwithstanding the preceding paragraph, in cases where there is not sufficient time to request User’s consent and there is good cause to determine that there is an abnormality in the content of the stored products on the basis of the external appearance, the Company may inspect the content of stored products without obtaining User’s consent.
-3. In cases where the Company conducted an inspection pursuant to Paragraph 1 of this article and User was not present during the Inspection or the Company conducted an inspection pursuant to the preceding paragraph, the Company shall without delay send notice to that effect and the results of the inspection to User.
-4. In cases where the Company conducted an inspection pursuant to Paragraph 1 or Paragraph 2 of this article and the content of the stored product do not differ from the Application Matters that were input and transmitted, the Company shall be liable to pay compensation for damage incurred as a result of the inspection.
-5. In cases where the Company conducted an inspection pursuant to Paragraph 1 or Paragraph 2 of this article and the content of the stored product differs from the Application Matters that were input and transmitted, User must pay the expenses incurred for the inspection.
+1. During the storage period, if the Company has doubts about whether the product names and number of items for Stored Merchandise in the Storage Service matches the information entered on the Merchandise Storage Application, or whether the nature of the items conforms to the rules for storage and/or handling, the Company may conduct an inspection of the contents of the Stored Merchandise at any time.
+2. If the Company deems or believes after visually inspecting the exterior of the Stored Merchandise that there is an anomaly with the merchandise, the Company may conduct an inspection of the contents of the Stored Merchandise.
+3. If the Company conducts an inspection as detailed in Item 1 and Item 2 in this Article, but finds no discrepancies between the information on the Stored Merchandise Application and the actual content of the merchandise sent to the Storage Service, the Company shall bear responsibility by offering compensation for any damage to the items.
+4. If the Company conducts an inspection as detailed in Item 1 and Item 2 in this Article, and finds discrepancies between the information on the Stored Merchandise Application and the actual content of the merchandise sent to the Storage Service, the cost of the inspection shall be borne by the User.
 
-Article 21. Emergency Examination, Warehouse Opening, and Site Inspections
---------------------------------------------------------------------------
+Article 20. Changes in storage methods
+--------------------------------------
 
-In cases where any one of the following items applies, the Company may, without providing prior notice to User, examine stored products, open warehouses, unpackage products, or conduct on-site inspections of storage facilities.
+If any of the following conditions apply, the Company may change the location where the Stored Merchandise is stored, change the storage facility, transship the Stored Merchandise, load the Stored Merchandise with other freight, or make other changes to the storage method. The Company is not obligated to compensate the User, even if the change in storage method causes damage to the Stored Merchandise; in the case of (3), the Company will notify Users before the change occurs.
 
-1. In cases specified by laws and regulations;
-2. In cases where the Company determines there are unavoidable, emergency circumstances; or
-3. In other cases where there is good cause.
+1. When the Contract expires
+2. If the Storage Fees (including Ordinary Storage Fees and Additional Storage Fees) or payment of other fees required by the Contract is delayed
+3. If the storage facilities close, are renovated, or for other similar circumstances
 
-Article 22. Change of Storage Method
-------------------------------------
+Article 21. Return or disposal of inappropriate Stored Merchandise
+------------------------------------------------------------------
 
-In the cases specified in the following items, the Company may change the storage site or storage facilities from those where stored products were originally placed in storage, transship stored products, store products with other freight, or otherwise change the storage method; provided, however, that in the case specified in Item (3) of this article, the Company shall provide prior notice to User. In the cases specified in Items (2) and (3) of this article, the Company shall not bear a duty to pay compensation for damage incurred by User as a result of the change of storage method.
+1. Under the following circumstances, the Company may notify the User that the Stored Merchandise must be removed from the Storage Service.
+    1. The Company deems that the Stored Merchandise has deteriorated or otherwise changed in quality in such a way as to no longer be fit for storage
+    2. The Company deems that the Stored Merchandise may cause damage to the Storage Service or other items stored in the Storage Service
+2. If the User does not take appropriate measures to remove the Stored Merchandise from the Storage Service by the deadline set for by the Company, the Company may take measures such as returning the Stored Merchandise to the User, disposing of the Stored Merchandise, or other measures.
+3. All costs of the measures in the previous Item shall be borne by the User.
+4. If the Company takes measures as specified in Item 2 of this Article, the Company shall notify the User without delay.
 
-1. If a Storage Agreement is canceled, rescinded, or otherwise terminated;
-2. If payment of storage fees or other obligations pursuant to a storage Agreement is late; or
-3. If facilities are closed, renovated, or there is other good cause.
+Article 22. Procedure for removal of Stored Merchandise
+-------------------------------------------------------
 
-Article 23. Handling of Stored Products Not Suitable for Storage
-----------------------------------------------------------------
+1. If the User would like the Company to return the Stored Merchandise via postal mail, the User should submit an application for removal of items through the Storage Service via the methods and procedures stipulated by the Company.
+2. If the Company receives a removal application as detailed in the previous Item, the company shall conduct the removal procedures and return the Stored Merchandise to the User without delay.
 
-1. If either of the following circumstances exist, the Company may issue a warning to User to take necessary measures within the specified reasonable period.
-    1. If the Company determines that the stored products are not suitable for storage as a result of change in quality, damage, or the like; or
-    2. If the Company determines that there is a likelihood of the stored products causing damage to the warehouse or other stored products.
-2. In the case where User receives a warning specified in the preceding paragraph, User must without delay take the necessary measures.
-3. In the case where User does not comply with the warning within the period specified by the Company or there is not sufficient time for the Company to provide a warning, the Company may dispose of the stored products or take other necessary measures.
-4. In cases where the relevant circumstances are attributable to User, User shall bear the expenses necessary for the measures specified in the preceding three paragraphs.
-5. In cases where the Company takes the measures specified in Paragraph 3 of this article, the Company shall without delay provide notice to that effect to User.
+Article 23. Refusal of removal application
+------------------------------------------
 
-Article 24. Return Procedures
------------------------------
+1. The Company is not obligated to conduct removal procedures until payment of all fees and costs specified in Article 6 (Storage service usage fees), Article 7 (Storage fees and payment for ordinary Stored Merchandise), Article 9 (Additional storage fees and payment), Article 10 (Shipping fees and payment), and Article 12 (Fees and burden of responsibility) has been received.
+2. The company shall not be liable to compensate the User for any damages incurred if a removal application is not filed according to the stipulations in the previous Item.
 
-1. In cases where User wishes stored products to be returned, User must input and transmit to the Company the matters prescribed by the Company in accordance with the procedures and method prescribed by the Company via the Individual Service.
-2. A User who performed the withdrawal procedures for stored products prescribed by the Company pursuant to the preceding paragraph must without delay retrieve the relevant stored products.
+Article 24. Contract expiration procedures
+------------------------------------------
 
-Article 25. Refusal to Return of Stored Products
-------------------------------------------------
+1. If the Contract is terminated due to closure of the Storage Service or for any other reason due to the Contract itself, the Company shall return all Stored Merchandise to the User’s registered address.
+2. If the Stored Merchandise is returned to the User as stipulated in the previous Item, or if the Stored Merchandise is returned to the User due to closure of the Storage Service, the costs of returning the items shall be borne by the Company, but in all other cases, the costs of returning items shall be borne by the User.
+3. If ored Merchandise as stipulated in Item 1 of this Article, but the Stored Merchandise items are returned to the Company, the Company will assume that the User has forfeited their ownership rights over the Stored Merchandise, and the Company will assume the right to dispose of the items at its own discretion.
 
-1. The Company may refuse to comply with requests to return stored products until it receives payment of storage fees, other expenses, advances, and delay penalties.
-2. During the custody period specified in the preceding paragraph, User must pay amounts equal to the storage fees.
-3. In cases where the Company does not comply with requests to return stored products pursuant to Paragraph 1 of this article, the Company shall not bear liability to pay compensation for damage incurred as a result.
+Article 25. Contract termination
+--------------------------------
 
-Article 26. Requests to Retrieve Stored Products
-------------------------------------------------
+1. If the User falls under any of the categories listed below, the User will lose their profit for the period, and the Company may terminate the Contract immediately.
+    1. The User has violated the Service Master Terms of Use, other Individual Terms of Use set forth by the Company, or violated the Guidelines, Help center rules, or other Company rules. Even one violation is grounds for termination of the Contract.
+    2. Damages are inflicted on the Company or a third party that are attributable to the User or to deterioration of the User’s Stored Merchandise, or the Company deems that the probability of such damages occurring is high.
+    3. If the User is held liable for unpaid bills or has their bank account suspended.
+    4. If the User is subject to foreclosure, provisional seizure, provisional disposition, or other similar legal enforcement measures, or is subject to corporate reorganization, bankruptcy, or petition for civil rehabilitation, or if the User has made such a declaration themself.
+    5. If inheritance proceedings are commenced with respect to User.
+    6. If the facts of the User’s application are proven to be fraudulent.
+    7. If the User or close associates of the User are found to be members of a crime organization, or are associated with groups that have been found to regularly conduct or assist in organized crime activities, or have been proven to engage in transactions with such parties.
+    8. If the User does not pay the fees and costs specified in Article 6 (Storage service usage fees), Article 7 (Storage fees and payment for ordinary Stored Merchandise), Article 9 (Additional storage fees and payment), Article 10 (Shipping fees and payment), and Article 12 (Fees and burden of responsibility) by the date on the notification issued by the Company.
+    9. f the User refuses to submit to an inspection of their Stored Merchandise, to be conducted as stipulated in Article 16.
+2. If the Company or a third party suffers damages due to any of the factors listed in the previous Item, the User shall pay compensation for the damages.
+3. If the Contract is terminated for any of the reasons listed in this Article, the Company is empowered to either send the Stored Merchandise back to the User directly, or dispose of it. All costs related to returning or disposing of the Stored Merchandise shall be borne by the User.
 
-1. In cases where stored products are not retrieved pursuant to Article 13, Paragraph 4 or Article 19, Paragraph 3, the Company may demand that User retrieve the stored products by the day specified by the Company.
-2. In cases where the demand specified in the preceding paragraph is made by sending an email or mailing documents, the Company may state that if the stored products are not retrieved by the day specified by the Company, the Company shall deem that User has refused to retrieve the stored products. After passage of the day specified pursuant to Paragraph 1 of this article, the Company shall not bear liability pay compensation for damage to the stored products.
+Article 26. Storage service closure
+-----------------------------------
 
-Article 27. Disposal of Stored Products
----------------------------------------
+The Company may terminate the Storage Service at any time, thereby dissolving the Contract. In this case, the Company shall notify the User at least three months in advance of the date when the User’s Storage Services are scheduled to close.
 
-1. If User refuses or is unable to retrieve stored products or the Company is unable to identify User in the absence of the Company’s negligence and the stored products are not retrieved by the deadline despite the provision to User of a warning to retrieve the stored products by a specified deadline, three months after the day of such warning and following the provision of notice to User, the Company is entitled to sell or otherwise dispose of the stored products in the presence of a fair third party; provided, however, that in cases where the stored products have decomposed or otherwise changed in quality, following the provision of notice to User, the Company is entitled to sell or otherwise dispose of the stored products in the presence of a fair third party immediately after the lapse of the retrieval deadline.
-2. In cases where the Company disposes of stored products pursuant to the preceding paragraph, the Company shall without delay provide notice to that effect to User.
-3. In cases where the Company sells stored products pursuant to Paragraph 1 of this article, the Company shall deduct storage fees, other expenses, advances, delay penalties, and expenses required for the sale (including expenses required for notice to User) from the sale proceeds, and if there is a remaining balance, shall refund the balance to User, and if there is a shortfall, shall demand payment of the shortfall by User.
-
-Article 28. Responsibility for Outsourced Products
---------------------------------------------------
-
-In cases where the Company outsources storage of stored products to another warehouse operator pursuant to Article 18, the Company shall bear liability equivalent to that as in the case where the Company itself stores the relevant stored products pursuant to these Individual Terms of Use.
-
-Article 29. Disclaimers
+Article 27. Disclaimers
 -----------------------
 
-1. The Company shall not bear liability to pay compensation for damage arising from the following circumstances.
-    1. Change of quality of stored products, defects, natural consumption, or incomplete packaging;
-    2. Insect damage;
-    3. War, disturbance, riots, theft, labor strike, or work slowdown;
-    4. Earthquake, tsunami, storm surge, flooding, or storm damage;
-    5. Requisition or quarantine; or
-    6. Further to the preceding items, other disaster, accident, order, measures, or preservative action that cannot be resisted or avoided.
-2. In cases where the Company promises to bear liability to pay compensation for the damage specified in the preceding paragraph on the grounds that it owns special facilities or otherwise, the Company shall pay compensation for such damage.
+1. The Company shall not be liable for compensating any damages caused by the circumstances listed below.
+    1. Natural deterioration of the quality of Stored Merchandise, or damage caused by improper packaging
+    2. Insect damage
+    3. Damage due to wars, attacks, rebellions, burglary, workers’ strikes, or go-slow strikes
+    4. Damage due to earthquakes, tsunami, storm surges, flooding, or serious storms
+    5. Requisition or quarantine
+    6. Any kind of damage other than those specified in the list above that could not be prevented or avoided due to disasters, accidents, or orders, measures, and/or protective actions issued by a higher authority
+2. The Company shall not bear any responsibility for such damage, except in cases where the Company has specified in the terms of this Storage Service that the Company will be held liable, or in cases where damage was caused to the User by willful misconduct or gross negligence on the part of the Company.
 
-Article 30. Amount of Damages
------------------------------
+Article 28. Offsetting
+----------------------
 
-In cases where stored products are lost or damaged due to reasons attributable to the Company, the Company shall pay compensatory damages of up to the Compensation Amount specified in Article 10.
+If the User must cover costs incurred by the User on the Company (including but not limited to the obligation to pay usage fees for the Storage Service, or the obligation to pay compensation for damages) due to reasons other than the end of the contract period or the loss of profits for that period, whether or not the Company and the User have come to a separate agreement, the Company can offset these payment obligations by using an equivalent amount from any credit the Company owes to the User.
 
-Article 31. Grounds for Extinguishment of Liability
----------------------------------------------------
-
-1. The Company’s liability for damage resulting from partial loss of or damage to stored products shall extinguish unless User provides notice to the Company to the effect that the relevant stored products were partially lost or damaged within one week from the day that User retrieves the stored products.
-2. The preceding paragraph shall not apply in cases where the Company was aware at the time that the Company returns the stored products that partial loss of or damage to stored products had occurred.
-
-Article 32. User’s Liability to Pay Compensation
-------------------------------------------------
-
-User must bear liability to pay compensation for damage caused to the Company as a result of changes to or defects in stored products; provided, however, that this shall not apply in cases where User was not negligent and was unaware of the changes to or defects in the stored products or the Company was aware of such changes to or defects in the stored products.
-
-Article 33. Payment of Amounts Equivalent to the Storage Fees in Case of Late Retrieval
----------------------------------------------------------------------------------------
-
-In the case where User does not retrieve stored products as specified in Article 13, Paragraph 4 or Article 19, Paragraph 3, User must pay monies equal to the storage fees for the relevant storage period.
-
-Article 34. Payment of Fees for Lost Stored Products
-----------------------------------------------------
-
-In cases where stored products are lost, the Company may invoice User for fees until the day that the products were lost; provided, however, that in the case where such loss is attributable to the Company, this shall not apply to storage fees for the relevant storage period.
-
-Article 35. Notice or Communications
+Article 29. Compensation for damages
 ------------------------------------
 
-1. In cases where it is necessary to provide notice to or communicate with User, the Company shall do so by delivering documents, posting on its website, or by email or mail. In cases where User determines that it is necessary to contact the Company, User shall contact the Company by email or mail. In cases where the Company provides notice to or communicates with User by posting on its website, such notice or communication shall take effect 48 hours after such notice or communication is posted, and in cases where the Company provides notice to or communicates with User by other means, such notice or communication shall take effect when issued.
-2. Except in cases where the Company determines there is a particular need, the Company will not accept communications by telephone or in person.
-3. Except in cases pursuant to laws and regulations, ordinances, statutes, and so on in Japan, the Company shall not disclose or divulge to third parties other than User User’s personal information learned in relation to provision of the Individual Service and shall not use such personal information in excess of the scope necessary to provide the Storage Service.
-4. Except in the cases specified in the following paragraph, the Company shall not disclose to third parties email communications histories.
-5. In cases where the Company is the subject of search, seizure, or the like as compulsory disposition pursuant to an order issued by a judge, in cases where an inquiry is made by a public organization with the statutory authority to make such inquiries (pursuant to Article 197, Paragraph 2 of the Code of Criminal Procedure), and in other cases where the Company must provide information pursuant to laws and regulations, the Company may disclose the subject matter without obtaining User’s consent.
+1. If the Company bears any liability toward the User as a result of providing the Storage Service, within the scope of the Company’s liability, the Company shall offer compensation to the User of 10,000 JPY or the actual retail price of the items, whichever amount is lower.
+2. If the User causes damages to the Company through qualities, deterioration or defects in the Stored Merchandise, the User must bear responsibility through compensation. However, if the User was legitimately unaware of the qualities or defects in the items (excluding cases of negligence), or if the Company was aware but did not inform the User, the User shall be exempt from the obligation to pay compensation.
+
+Article 30. Extinguishment of liability
+---------------------------------------
+
+1. If the Stored Merchandise is partially lost or damaged while being returned to the User, the User must inform the Company of the loss or damage within one week of receiving the returned items. If the User does not notify the Company within this timeframe, the Company’s liability for the lost or damaged goods shall be extinguished after the deadline passes.
+2. The previous Item shall not apply in cases where the Company already knew that the Stored Merchandise was partially lost or damaged while being returned to the User.
+
+Article 31. Notifications and communications
+--------------------------------------------
+
+1. When the Company deems it necessary to issue notifications or communications to the User, the Company may contact the User in writing via postal mail, notifications on the websites of the Storage Service or other related individual services, email, etc. Such notifications or communications from the Company to the User shall be considered valid after 48 hours if the notifications were posted on the websites of the Storage Service or other related individual services, but if the notifications or communications were sent via another method, they are considered valid immediately upon sending.
+2. If the User deems it necessary to contact the Company, the User shall contact the Company via electronic methods such as email or the inquiry forms provided on the Service website.
+3. The Company will not accept contact via telephone or direct visit except under exceptional circumstances, as determined by the Company.
+4. The Company shall not disclose to a third party any personal information collected from the User, nor use such personal information for any purpose other than as required for the operation of the Storage Service, except in cases required by Japanese laws, ordinances, and other legal regulations.
+5. The Company shall not disclose any email records to third parties, except in legally required cases, as detailed in the following Item.
+6. If the Company is required to provide such information due to being subject to search and seizure for compulsory disposal based on a warrant issued by a judge, and subject to inquiries from public institutions with legal authority to make inquiries (Code of Criminal Procedure, Article 197, Item 2), or legally required to provide such information under the scope of other laws, the Company may disclose such information as part of a legal inquiry without the consent of the User.
 
 Supplementary Provisions
 ------------------------
@@ -2094,6 +1918,7 @@ Supplementary Provisions
 Revision
 --------
 
+* October 1, 2023 The BOOTH storage service Terms of Use have been completely revised and updated.
 * August 14, 2023 "Article 3. Method of Use and Storage Fees" and "Article 7. Product Shipping on behalf of User and its Charges" were modified.
 * March 30, 2020 As related as individual terms of Master Terms of Use, overall terms of Individual Terms of Use were modified.
 * February 1, 2019
