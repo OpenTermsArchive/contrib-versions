@@ -90,7 +90,7 @@ If you contact us by email or via a contact form, the information you provide (y
 
 If this information corresponds to your communication channels (e.g., email address, telephone number), you also agree that we can contact you via this communication channel to respond to your request.
 
-To enhance our customer support and manage and document your inquiries and feature requests, we utilize Zendesk as a platform. This aids us in identifying users' technical issues and providing effective assistance. Our goal is to continually refine our service through this process. You can review Zendesk's privacy policy [HERE](https://www.zendesk.com/company/agreements-and-terms/privacy-notice/?_ga=2.180671591.1554512012.1695114617-288658004.1695114617). The legal basis for this data processing is Art. 6 Para. 1 S. 1 (f) GDPR. 
+To enhance our customer support and manage and document your inquiries and feature requests, we utilize Zendesk as a platform. This aids us in identifying users' technical difficulties and providing effective assistance. Our goal is to continually refine our service through this process. You can review Zendesk's privacy policy [HERE](https://www.zendesk.com/company/agreements-and-terms/privacy-notice/?_ga=2.180671591.1554512012.1695114617-288658004.1695114617). The legal basis for this data processing is Art. 6 Para. 1 S. 1 (f) GDPR. 
 
 Of course, you can revoke this consent at any time in the future. We delete the data arising in this context after the storage is no longer necessary or restrict the processing if there are legal retention obligations (Art. 5 para. 1 e) of the GDPR or Art. 6 para. 4 DSG).
 
@@ -112,6 +112,22 @@ After registration, you will receive personal, password-protected access and can
 **5.2 Service Use**
 
 For technical reasons, we also log which planning functions and the number of events have been used in our app, in a pseudonymized form. This data is collected only during the active use of the app and serves for performance optimization and for recommending suitable features to the user. No additional data is acquired. You can object to this type of recommendation at any time. Please refer to the contact details provided in section 2. The legal basis is Art. 6 Para. 1 S. 1 (f) GDPR.
+
+  
+
+**5.3 Preliminary Registration by Users with Special Privileges**
+
+Users with special privileges, for instance, board members of a club with admin rights in the app, have the ability to pre-register customer accounts. For this purpose, we only collect and store:
+
+* Email address
+* First and last name
+* Temporary password
+
+The responsibility for the legality of this preliminary registration, as well as obtaining any necessary consents, rests entirely with the user having these special privileges. Gumb merely provides the technical platform and assumes no liability for actions or omissions of the user with special privileges. Any individual privacy policies of the user with special privileges are independent of Gumb's policies, and we have no influence over them.
+
+As soon as a user with special privileges creates a preliminary account for you, you will be promptly notified by us. In this notification, you'll receive a temporary password, allowing you to directly log into our platform to view and manage the pre-registered data. If you did not consent to the creation of an account in your name or if you're not interested in using our app, you have the option to delete this account on your own. Gumb does not automatically delete your account. However, we reserve the right to deactivate inactive user profiles after a certain period and eventually delete them to uphold your privacy rights and to minimize unnecessary data storage. Before final deletion, we will notify you. Should you desire an immediate deletion of your account, please contact us, specifying your email address, at **[support@gumb.app](mailto:support@gumb.app)**.
+
+The legal basis for Gumb's processing of this data is grounded in our legitimate interest, in accordance with Article 6, Paragraph 1, Subsection 1(f) of the GDPR. Any subsequent processing by the user with special privileges should be based on a suitable legal foundation, for which Gumb assumes no responsibility.
 
   
 
