@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: September 28, 2023
+#### Last Updated: October 2, 2023
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -1324,5 +1324,15 @@ AWS personnel do not have access to Your Content on AWS Nitro System EC2 instanc
 ### 98\. Amazon Managed Blockchain
 
 You are solely responsible for evaluating the information made available through the Amazon Managed Blockchain Query Service for accuracy as appropriate for your use case.
+
+### 99\. Amazon DataZone
+
+**99.1.** DataZone generates probable forecasts, insights or recommendations from Your Content, and its outputs should be evaluated for accuracy as appropriate for your use case, including by employing human review of such output. You and your End Users are responsible for all decisions made, advice given, actions taken, and failures to take action.
+
+**99.2. Amazon DataZone Machine Learning Services.** “Amazon DataZone ML Services” means DataZone Automatic Business Name Generation. “Amazon DataZone ML Content” means Your Content that is processed by an Amazon DataZone ML Service. The following terms apply to your use of Amazon DataZone ML Services:
+
+a. You agree and instruct that: (i) we may use and store Amazon DataZone ML Content to maintain and provide Amazon DataZone ML Services (including development and improvement of Amazon DataZone ML Services and their underlying technologies); (ii) we may use and store Amazon DataZone ML Content that is not personal data to develop and improve AWS and affiliate machine-learning and artificial intelligence technologies; and (iii) solely in connection with the development and improvement described in clauses (i) and (ii), we may store your Amazon DataZone ML Content in AWS regions outside the AWS regions where you are using Amazon DataZone ML Services. You may instruct AWS not to use and store Amazon DataZone ML Content processed by Amazon DataZone to develop and improve that Service or technologies of AWS or its affiliates by configuring an AI services opt out policy using AWS Organizations.
+
+b. You are responsible for providing legally adequate privacy notices to End Users of your products or services that use Amazon DataZone ML Services and obtaining any necessary consent from such End Users for the processing of Amazon DataZone ML Content and the storage, use, and transfer of Amazon DataZone ML Content as described under this Section. You represent to us that you have provided all necessary privacy notices and obtained all necessary consents. You are responsible for notifying us in the event that any Amazon DataZone ML Content stored by Amazon DataZone ML Services must be deleted under applicable law.
 
 [Previous version(s)](https://aws.amazon.com/service-terms/historical/)[](https://aws.amazon.com/service-terms/historical/)
