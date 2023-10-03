@@ -76,7 +76,7 @@ Threatening others with real-world or online harm, inciting violence against peo
 
 * Threatening physical or sexual assault or violence
 * Threatening to harm someone in real life
-* Threatening to reveal others’ personal information
+* Revealing or threatening to reveal others’ personal information
 * Threatening to take over another’s Roblox account or to file false abuse reports against another user
 * Singling out a user or group for ridicule or abuse, either publicly or privately
 * Sexual harassment
@@ -137,6 +137,8 @@ Although some experiences on Roblox may include weapons and violence, we don’t
 * Animal abuse and torture
 * Realistic or real-world depictions of extreme gore, graphic violence, or death
 
+For 17+ experiences, please see [Roblox’s 17+ Policy Standards](https://en.help.roblox.com/hc/articles/15869919570708).
+
 Romantic and Sexual Content
 
 Roblox is a safe space for meeting online friends, chatting, and collaborating on creative projects, but we prohibit content that depicts sexual activity or seeks real world romantic relationships, including:
@@ -151,22 +153,26 @@ Roblox is a safe space for meeting online friends, chatting, and collaborating o
 
 For more information about creating Avatar Bodies that comply with these policies, including required use of modesty layers, please review the guidelines [here](https://create.roblox.com/docs/art/marketplace/marketplace-policy).
 
+For 17+ experiences, please see [Roblox’s 17+ Policy Standards](https://en.help.roblox.com/hc/articles/15869919570708).
+
 Illegal and Regulated Goods and Activities
 
-We prohibit users from discussing, depicting, or promoting illegal and some regulated goods. You also may not discuss engaging in illegal activities in the real world or encourage others to engage in such behavior, or engage in or promote these activities on the platform. These goods and activities include:
+We do not allow users to discuss or engage in illegal activities or encourage others to do so on Roblox. We also prohibit the discussion, depiction, or promotion of some illegal and regulated goods or activities. This includes:
 
-* Illegal and regulated drugs, including marijuana and the misuse of prescription or over the counter drugs
-* Drug, tobacco, vaping, or other smoking paraphernalia
+* Controlled substances such pharmaceutical and recreational drugs, as well as as alcohol, tobacco, vaping, and their associated paraphernalia
 * Dietary supplements and enhancers such as weight loss pills and steroids
 * Depictions of intoxicated behavior associated with consuming alcohol or drugs
+* Purveyors of illegal and regulated substances
 * Bomb/explosive and weapon-making instructions or schematics in the real world
 * Realistic modern firearms outside of in-experience items
 * On-platform contests where Robux or anything else of value is offered as a prize
 * Sweepstakes-style games
 
-Except where prohibited by local law or regulation, we allow unplayable gambling content (e.g., showing a casino or non-playable characters playing cards) as well as games of luck and chance that are not casino or gambling based. However, experiences that include simulated gambling, including playing with virtual chips, simulated betting, or exchanging real money, Robux, or in-experience items of value are not allowed.
+Except where prohibited by local law or regulation, we allow the portrayal of gambling in experiences. However, no real money, Robux, or in-experience items of value may be exchanged in connection with any gambling activities. We also require that the odds of winning be fair and clearly disclosed to the user prior to playing.
 
 If you or someone you know is struggling with substance abuse, help is available. You can start [here](https://www.samhsa.gov/public-messages).
+
+For 17+ experiences, please see [Roblox’s 17+ Policy Standards](https://en.help.roblox.com/hc/articles/15869919570708).
 
 Profanity
 
@@ -308,7 +314,7 @@ Misusing Roblox Systems Roblox maintains many systems to keep our users safe and
 Evading Safety and Security Systems
 
 * Attempting to get prohibited content around our safety systems, including by hiding violative elements of assets
-* Opening new accounts for the purpose of evading an enforcement action taken against a previous account
+* Creating or using an account to avoid enforcement action taken against another account
 * Using VPNs to mask your location in order to gain unauthorized access to Roblox, including to a specific feature or account
 * Offering access to your Roblox account or soliciting access to another’s Roblox account for the purpose of evading enforcement action or safety systems
 * Failing to use required PolicyService APIs in your experience
@@ -324,16 +330,17 @@ Disruptive Content and Behavior
 
 For more information about creating Avatar Bodies that comply with these policies, including requirements for clothing and accessories, please review the guidelines [here](https://create.roblox.com/docs/art/marketplace/marketplace-policy).
 
-Last Updated: August 16, 2023
+Last Updated: October 3, 2023
 
 Change Log
 
 |     |     |
 | --- | --- |
 | **Announcement Date** | **Change Summary** |
-| August 16, 2023 | Update the following Community Standards<br><br>* Romantic and Sexual Content<br>    * Added link to Avatar Bodies feature requirements for modesty layers<br>    * Clarified language around prohibiting sexually suggestive avatar bodies in addition to clothing items<br>* Misusing Roblox Systems<br>    * Added link to Avatar Bodies feature requirements for clothing and accessories |
-| August 1, 2023 | Update the following Community Standard<br><br>* Sharing Personal Identifiable Information<br>    * Clarified language for unique identifiers<br>    * Added examples of prohibited content |
+| October 3, 2023 | Added a link to the detailed 17+ Policy Standards to the Violent Content and Gore, Romantic and Sexual Content, and Illegal and Regulated Goods and Activities policies.<br><br>Updated the section for Misusing Roblox Systems to clarify rules on creating or using an account to evade enforcement actions.<br><br>Updated the section for Illegal and Regulated Goods and Activities with clarified language around alcohol and controlled substances.<br><br>Added clarifying language to Threats, Bullying, and Harassment.<br><br>Effective October 3, 2023 |
+| August 16, 2023 | Updated the following Community Standards<br><br>* Romantic and Sexual Content<br>    * Added link to Avatar Bodies feature requirements for modesty layers<br>    * Clarified language around prohibiting sexually suggestive avatar bodies in addition to clothing items<br>* Misusing Roblox Systems<br>    * Added link to Avatar Bodies feature requirements for clothing and accessories<br><br>Effective August 16, 2023 |
+| August 1, 2023 | Updated the section for Sharing Personal Information, including:<br><br>* Clarified language for unique identifiers<br>* Added examples of prohibited content<br><br>Effective August 1, 2023 |
 | June 20, 2023 | Added a reference and link in the introduction of the Community Standards to detailed 17+ Policy Standards.<br><br>Added detail for prohibited types of simulated gambling in Illegal & Regulated Goods & Activities.<br><br>Clarified language for prohibited types of account and content access, including limited exceptions, in:<br><br>* Roblox Economy<br>* Misusing Roblox Systems<br><br>Clarified language for Spam to be applicable across all content and data types on Roblox.<br><br>Effective June 20, 2023 |
-| March 15, 2023 | Restructuring and consolidating categories of Community Standards from 30 categories to 20 categories, including:<br><br>* Combining violations in Threats, Bullying & Harassment, Abuse of Employees, Extortion & Blackmail, and Impersonation under “Threats, Bullying, and Harassment”<br>* Combining violations in Suicide & Self Harm, Dangerous Activities, and Suicide Lifeline resources under “Suicide, Self Injury, and Harmful Behavior”<br>* Combining violations in Illegal Activity under “Harmful Off-Platform Speech and Behavior”<br>* Renaming Real-World Tragic Events as “Real-World Sensitive Events”<br>* Combining violations in Romance and Dating with Sexual Content under “Romantic and Sexual Content”<br>* Combining violations in Contests & Sweepstakes and Illegal & Regulated Goods about gambling, supplements and substance abuse under “Illegal and Regulated Goods and Activities”<br>* Combining violations in Cheating & Exploits, Scams, Misrepresentation, some of Unauthorized Access under “Cheating and Scams”<br>* Combining violations regarding paid randomized items under “Roblox Economy”<br>* Combining violations in Unauthorized Access and Disruptive Audio under “Misusing Roblox Systems”<br><br>Effective March 15, 2023  <br>  <br><br>Updating the Advertising section for Independent Advertisement Publishing to add the following requirements:<br><br>* Using the Roblox AreAdsAllowed field of the PolicyService API to programmatically prohibit ad content in experiences from exposure to users under the age of 13<br>* Complying with Prohibited Advertising Content introduced in the new [Advertising Standards](https://en.help.roblox.com/hc/articles/13722260778260)<br>* Adding more specific requirements around disclosing advertising content, including prohibiting developers from mimicking Roblox Immersive Ads, or repurposing Roblox Immersive Ad content<br><br>Effective June 15, 2023  <br>These policies are effective for advertising served through the Roblox ad system on March 15, 2023. |
+| March 15, 2023 | Restructuring and consolidating categories of Community Standards from 30 categories to 20 categories, including:<br><br>* Combining violations in Threats, Bullying & Harassment, Abuse of Employees, Extortion & Blackmail, and Impersonation under “Threats, Bullying, and Harassment”<br>* Combining violations in Suicide & Self Harm, Dangerous Activities, and Suicide Lifeline resources under “Suicide, Self Injury, and Harmful Behavior”<br>* Combining violations in Illegal Activity under “Harmful Off-Platform Speech and Behavior”<br>* Renaming Real-World Tragic Events as “Real-World Sensitive Events”<br>* Combining violations in Romance and Dating with Sexual Content under “Romantic and Sexual Content”<br>* Combining violations in Contests & Sweepstakes and Illegal & Regulated Goods about gambling, supplements and substance abuse under “Illegal and Regulated Goods and Activities”<br>* Combining violations in Cheating & Exploits, Scams, Misrepresentation, some of Unauthorized Access under “Cheating and Scams”<br>* Combining violations regarding paid randomized items under “Roblox Economy”<br>* Combining violations in Unauthorized Access and Disruptive Audio under “Misusing Roblox Systems”<br><br>Effective March 15, 2023  <br>  <br><br>Updating the Advertising section for Independent Advertisement Publishing to add the following requirements:<br><br>* Using the Roblox AreAdsAllowed field of the PolicyService API to programmatically prohibit ad content in experiences from exposure to users under the age of 13<br>* Complying with Prohibited Advertising Content introduced in the new [Advertising Standards](https://en.help.roblox.com/hc/articles/13722260778260)<br>* Adding more specific requirements around disclosing advertising content, including prohibiting developers from mimicking Roblox Immersive Ads, or repurposing Roblox Immersive Ad content<br><br>Effective June 15, 2023<br><br>These policies are effective for advertising served through the Roblox ad system on March 15, 2023. |
 
 [Return to top](#article-container)
