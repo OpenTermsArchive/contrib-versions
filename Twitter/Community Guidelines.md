@@ -1,1151 +1,1907 @@
-Abuse and harassment
-====================
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
 ### Overview
 
-**June 2023**
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
 
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-**Insults  
-**
+### What is not a violation of this policy?
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-**Violent Event Denial**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+### Who can report violations of this policy?
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+**Content reportable by anyone**
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+**Content reportable by featured individual(s)**
 
-Abuse and harassment
-====================
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
 ### Overview
 
-**June 2023**
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
 
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-**Insults  
-**
+### What is not a violation of this policy?
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-**Violent Event Denial**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+### Who can report violations of this policy?
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+**Content reportable by anyone**
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+**Content reportable by featured individual(s)**
 
-Abuse and harassment
-====================
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
 ### Overview
 
-**June 2023**
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
 
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-**Insults  
-**
+### What is not a violation of this policy?
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-**Violent Event Denial**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+### Who can report violations of this policy?
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+**Content reportable by anyone**
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+**Content reportable by featured individual(s)**
 
-Abuse and harassment
-====================
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
 ### Overview
 
-**June 2023**
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
 
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-**Insults  
-**
+### What is not a violation of this policy?
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-**Violent Event Denial**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+### Who can report violations of this policy?
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+**Content reportable by anyone**
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+**Content reportable by featured individual(s)**
 
-Abuse and harassment
-====================
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
 ### Overview
 
-**June 2023**
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
 
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-**Insults  
-**
+### What is not a violation of this policy?
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-**Violent Event Denial**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+### Who can report violations of this policy?
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+**Content reportable by anyone**
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+**Content reportable by featured individual(s)**
 
-Abuse and harassment
-====================
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
 ### Overview
 
-**June 2023**
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
 
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-**Insults  
-**
+### What is not a violation of this policy?
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-**Violent Event Denial**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+### Who can report violations of this policy?
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+**Content reportable by anyone**
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+**Content reportable by featured individual(s)**
 
-Abuse and harassment
-====================
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
 ### Overview
 
-**June 2023**
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
 
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-**Insults  
-**
+### What is not a violation of this policy?
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-**Violent Event Denial**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+### Who can report violations of this policy?
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+**Content reportable by anyone**
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+**Content reportable by featured individual(s)**
 
-Abuse and harassment
-====================
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
 ### Overview
 
-**June 2023**
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
 
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-**Insults  
-**
+### What is not a violation of this policy?
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-**Violent Event Denial**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+### Who can report violations of this policy?
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+**Content reportable by anyone**
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+**Content reportable by featured individual(s)**
 
-Abuse and harassment
-====================
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
 ### Overview
 
-**June 2023**
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
 
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-**Insults  
-**
+### What is not a violation of this policy?
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-**Violent Event Denial**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+### Who can report violations of this policy?
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+**Content reportable by anyone**
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+**Content reportable by featured individual(s)**
 
-Abuse and harassment
-====================
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
 ### Overview
 
-**June 2023**
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
 
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-**Insults  
-**
+### What is not a violation of this policy?
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-**Violent Event Denial**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+### Who can report violations of this policy?
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+**Content reportable by anyone**
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+**Content reportable by featured individual(s)**
 
-Abuse and harassment
-====================
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
 ### Overview
 
-**June 2023**
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
 
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-**Insults  
-**
+### What is not a violation of this policy?
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-**Violent Event Denial**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+### Who can report violations of this policy?
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+**Content reportable by anyone**
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+**Content reportable by featured individual(s)**
 
-Abuse and harassment
-====================
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
 ### Overview
 
-**June 2023**
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
 
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-**Insults  
-**
+### What is not a violation of this policy?
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-**Violent Event Denial**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+### Who can report violations of this policy?
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+**Content reportable by anyone**
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+**Content reportable by featured individual(s)**
 
-Abuse and harassment
-====================
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
 ### Overview
 
-**June 2023**
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
 
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-**Insults  
-**
+### What is not a violation of this policy?
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-**Violent Event Denial**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+### Who can report violations of this policy?
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+**Content reportable by anyone**
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+**Content reportable by featured individual(s)**
 
-Abuse and harassment
-====================
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
 ### Overview
 
-**June 2023**
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
 
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-**Insults  
-**
+### What is not a violation of this policy?
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-**Violent Event Denial**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+### Who can report violations of this policy?
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+**Content reportable by anyone**
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+**Content reportable by featured individual(s)**
 
-Abuse and harassment
-====================
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
 ### Overview
 
-**June 2023**
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
 
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-**Insults  
-**
+### What is not a violation of this policy?
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-**Violent Event Denial**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+### Who can report violations of this policy?
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+**Content reportable by anyone**
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+**Content reportable by featured individual(s)**
 
-Abuse and harassment
-====================
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
 ### Overview
 
-**June 2023**
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
 
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-**Insults  
-**
+### What is not a violation of this policy?
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-**Violent Event Denial**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+### Who can report violations of this policy?
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+**Content reportable by anyone**
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+**Content reportable by featured individual(s)**
 
-Abuse and harassment
-====================
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
 ### Overview
 
-**June 2023**
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
 
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-**Insults  
-**
+### What is not a violation of this policy?
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-**Violent Event Denial**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+### Who can report violations of this policy?
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+**Content reportable by anyone**
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+**Content reportable by featured individual(s)**
 
-Abuse and harassment
-====================
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
 ### Overview
 
-**June 2023**
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
 
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
      
 
-**Insults  
-**
+### What is not a violation of this policy?
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-**Violent Event Denial**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+### Who can report violations of this policy?
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+**Content reportable by anyone**
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
