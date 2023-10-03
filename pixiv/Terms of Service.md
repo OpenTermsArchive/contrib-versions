@@ -539,159 +539,156 @@ Revision:
 Notation on fund settlement law
 ===============================
 
-発行事業者
------
+Published by
+------------
 
-ピクシブ株式会社
+pixiv Inc.
 
-前払式支払手段の名称
-----------
-
-pixivポイント
-
-支払可能金額等
--------
-
-上限はありません。
-
-有効期間
-----
-
-iOS/Androidアプリで獲得したポイントには有効期間はありません。
-
-※ただし、ウェブ上で獲得したポイントは取得日から6ヶ月未満、無償のpixivポイントはキャンペーンごとに有効期間が異なります。
-
-問い合わせ先の所在地及び連絡先
----------------
-
-〒151-0051 東京都渋谷区千駄ヶ谷4-23-5 JPR千駄ヶ谷ビル6F
-
-[お問い合わせフォーム](https://www.pixiv.net/support?mode=faq&service=sketch&section=360001134914)をご利用ください。
-
-利用場所
-----
-
-ピクシブ株式会社が提供するサービスにて利用できます。
-
-ただし、pixivポイントの入手方法に応じて利用できる範囲が制限されることがあります。
-
-（iOS/Androidアプリで購入したpixivポイントは、購入したアプリ内でのみ利用できます。）
-
-ご利用上の注意及び利用規約について
+Prepayment method
 -----------------
 
-原則としてpixivポイントの払い戻しはいたしません。
+pixiv Points
 
-詳しくは[ピクシブ株式会社 サービス共通利用規約](#terms)及び[pixivポイント利用規約](#point)をご覧ください。
+Payment limit
+-------------
 
-ただし、pixivポイントの提供を終了する場合は、資金決済法に基づき払い戻しを行う場合があります。
+No upper limits on payment.
 
-（振込先は日本国内の金融機関の口座に限らせていただきます。）
+Expiration date
+---------------
 
-残高確認方法
-------
+Points acquired on the iOS/Android app do not have an expiration date.
 
-[pixivポイント確認ページ](https://www.pixiv.net/point/)よりご確認ください。
+\* However, points acquired on the web expire six months from the acquisition date, and the expiration dates for free pixiv Points acquired through campaigns, etc. differ depending on the campaign.
 
-資金決済法に基づく利用者保護措置等（※1）
----------------------
+Contact address and inquiry form
+--------------------------------
 
-**1\. 利用者資産の保全方法**
+JPR Sendagaya Building 6F, 4-23-5 Sendagaya, Shibuya-ku, Tokyo 151-0051 (Japan)
 
-1. 資金決済法第14条第1項の趣旨及び同法第31条第1項に規定する権利の内容
+Please contact us via the [Inquiry form](https://www.pixiv.net/support?mode=faq&service=sketch&section=360001134914).
+
+Usage restrictions
+------------------
+
+Use is allowed on services provided by pixiv Inc.
+
+However, in some cases, use of pixiv Points may be restricted depending on how the points were acquired.
+
+(pixiv Points purchased on the iOS/Android app are only redeemable within the app where they were purchased.)
+
+Points of note and terms of use:
+--------------------------------
+
+In principle, pixiv Points are non-refundable.
+
+For details, please check the [pixiv Services Master Terms of Use](#terms) and the [pixiv Points Terms of Use](#point).
+
+However, if pixiv discontinues pixiv Points, pixiv Points may be refunded through a payment service.
+
+In this case, points will only be refundable to accounts with Japanese domestic financial institutions.
+
+Check your balance
+------------------
+
+Please use the [pixiv Points](https://www.pixiv.net/point/) page.
+
+Measures to protect users of third-party payment services (\*1)
+---------------------------------------------------------------
+
+**1\. Method for preserving User assets**
+
+1. Regarding the rights stipulated in the Payment Services Act, Article 14, Item 1 and Article 31, Item 1
     
-    当社は、資金決済法第14条第1項に基づいて、発行保証金を法務局へ供託しています。供託している額は、資金決済法上、要求されている金額として、保全の金額基準日（毎年3月31日及び9月30日時点）における前払式支払手段の未使用残高の2分の1の額以上の額に相当する額です（それゆえ、ユーザーが保有する前払式支払手段の全額について保全されているわけではございません）。万が一、当社が破産等した場合には、同法第31条第1項に基づき、前記の発行保証金から、当社に対する他の債権者よりも優先して、本サービスの利用者（以下「ユーザー」といいます。）が保有する前払式支払手段について返金がなされる仕組みとなっています。
+    The Company shall, as stipulated in the Payment Services Act, Article 14, Item 1, make security deposits for issuance to the official depository nearest to its principal business office. The amount of the deposits shall be, as required by the Payment Services Act, not less than half the amount of the unused balance on the base date (March 31st and September 30th of each year). (Therefore, the Company does not guarantee the full amount of prepaid payment instruments made by Users.) In the rare case that the Company should enter bankruptcy or similar, as stipulated in the Payment Services Act, Article 31, Item 1, the aforementioned security deposits shall be refunded to Users of the Company’s Services (hereafter referred to as “Users”) in preference over other creditors, as holders of prepaid payment instruments.
     
-2. 発行保証金の供託、発行保証金保全契約または発行保証金信託契約の別
+2. The Company shall deposit security deposits to the official depository nearest to its principal business office according to the terms set forth separately in the contract of issuance of security deposits or the security deposit trust contract.
+
+**2\. Policy on compensation and countermeasures related to damages stemming from fraudulent transactions**
+
+1. Compensation policy on prepaid payment instruments issued by the Company
     
-    前述の通り、当社は発行保証金を法務局へ供託しています。
+    Regarding prepaid payment instruments held by Users, the Company shall not bear responsibility even if the prepaid payment instruments were used fraudulently by a third party against the User’s will, causing damage to the User (hereafter referred to as “Fraudulent Transactions”).
+    
+2. Compensation policy and inquiries related to third-party payment services
+    
+    The Company shall not bear any responsibility regarding damages incurred from Fraudulent Transactions through third-party payment services (Google Play, App Store, etc.) linked to prepaid payment instruments issued by the Company. Users must contact each third-party payment service for inquiries regarding compensation. However, the Company does not guarantee that each third-party payment service will provide compensation.
+    
+3. Policy on handling Fraudulent Transactions
+    
+    If a Fraudulent Transaction occurs, or is deemed to be in danger of occurring, the Company shall take into account the situation, the amount of the damages, and the possibility for multiple offenses, and if the Company deems it necessary to disclose the Fraudulent Transactions publicly, it will disclose such information as is necessary. When such a disclosure is made, Users shall be responsible for taking appropriate countermeasures.
     
 
-**2\. 不正取引により発生した損失の補償等の対応方針**
-
-1. 当社が発行する前払式支払手段に関する補償方針
-    
-    当社は、ユーザーの保有する前払式支払手段について、ユーザー以外の第三者によって、ユーザーの意思に反して権限なく利用（以下「不正取引」といいます）がなされ、ユーザーに損害が生じても、その責任を負わないものとします。
-    
-2. 他社が提供する決済サービスに関する補償方針と問い合わせ先
-    
-    当社が発行する前払式支払手段と連携する、他社が提供する決済サービス（Google Play、App Store）を介した不正取引により発生した損失について、当社は責任を負いません。補償については各決済サービスの提供元へお問い合わせください。ただし、各決済サービスの提供元が補償を行うことを保証するものではありません。
-    
-3. 不正取引発生時の対応方針
-    
-    当社は、不正取引が発生した場合、またはその恐れがあると当社が判断した場合、当該不正取引の態様や被害額、件数等の事情を加味した上で、公表の必要があると当社が判断したとき、必要な情報を公表します。公表の際は、注意喚起等の適切な措置も併せて行います。
-    
-
-（※1）「資金決済法に基づく利用者保護措置等」については、資金決済法に基づき、iOS/Androidアプリで購入したpixivポイントのみを対象としています。
+(\*1) Under the Payment Services Act, only pixiv Points purchased through the iOS/Android app are applicable for “protection measures for Users under the Payment Services Act”.
 
 Notation on specified commercial transaction
 ============================================
 
-事業者
----
+Company
+-------
 
-ピクシブ株式会社
+pixiv Inc.
 
-代表者
----
+Representative Director
+-----------------------
 
-國枝信吾
+Shingo Kunieda
 
-住所
---
+Address
+-------
 
-〒151-0051 東京都渋谷区千駄ヶ谷 4-23-5 JPR千駄ヶ谷ビル6F
+JPR Sendagaya Building 6F, 4-23-5 Sendagaya, Shibuya-ku, Tokyo 151-0051 (Japan)
 
-お問い合わせ
-------
+Inquiries
+---------
 
-お問い合わせフォーム
+Inquiry form
 
-メールアドレス：  
+E-mail address:  
 support@pixiv.net
 
-電話番号：03-6804-3458
+Telephone: 03-6804-3458
 
-価格
---
-
-各ページに記載
-
-支払い時期
+Price
 -----
 
-前払い
+Displayed on each page
 
-支払い方法
------
+Payment type
+------------
 
-* クレジットカード決済
+Prepayment
+
+Payment methods
+---------------
+
+* Credit card
 * WebMoney
 * BitCash
-* コンビニ決済
-* Alipay決済
-* ドコモケータイ払い
-* auかんたん支払い
-* ソフトバンクまとめて支払い
-* GooglePlay決済
-* iTunes Store決済
-* PayPal支払い
-* pixivポイント支払い
+* Convenience store payment (Japan only)
+* Alipay
+* Docomo mobile pay (Japan only)
+* au easy pay (Japan only)
+* SoftBank bundle pay (Japan only)
+* Google Play Store
+* iTunes Store
+* PayPal
+* pixiv Points
 
-解約条件
-----
+How to unsubscribe
+------------------
 
-契約期間内であれば、いつでも解約することができます。
+You can unsubscribe at any time during the subscription period.
 
-クレジットカード、ソフトバンクまとめて支払い、GooglePlay決済、iTunes Store決済は、お申込み日の翌月同日1日前までに、お申込み日が月末の場合は翌月末の前日までに解約いただくと翌月からのサービス提供並びに請求は行いません。  
-（例：11月17日に申込みの場合12月16日まで、申込日と同日が翌月にない月の8月31日に申し込んだ場合9月29日まで）
+With credit cards, SoftBank bundle pay, GooglePlay, and iTunes Store payment, if you unsubscribe up to one day before the same date of the month following the date of your subscription’s monthly anniversary (or by the penultimate date of the next month, if your monthly subscription anniversary falls on the last day of the month), you will not be billed for any service fees from the following month onward.  
+(For example: If you subscribed on November 17th, but you unsubscribe by December 16th, or if you subscribed on August 31st but September doesn’t have a 31st, so you unsubscribe by the penultimate day of September, which is September 29th.)
 
-docomo、auのキャリア決済は、月末までに解約いただくと翌月からのサービス提供並びに請求は行いません。
+For docomo and au carrier pay, if you unsubscribe by the end of the month, you will not be billed for any service fees for the following month.
 
-クレジットカード決済やキャリア決済は、[こちら](https://www.pixiv.net/premium/edit/)からご解約手続きを承っています。
+For credit card payment or carrier pay, please use [this](https://www.pixiv.net/premium/edit/) procedure to unsubscribe.
 
-GooglePlay等のアプリ内課金については、各ストア所定の方法でご解約手続きを行ってください。  
-途中解約による返金は承っておりません。
+For in-app payments through services such as Google Play, please unsubscribe via the procedures detailed in each app store.  
+No refunds will be provided if you unsubscribe within the period of your subscription.
 
 Individual Terms of Use
 =======================
