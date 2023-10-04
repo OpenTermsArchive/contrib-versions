@@ -13,7 +13,7 @@ Looking to change your privacy settings?
 
 [Take the Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro)
 
-Effective July 1, 2023 | [Archived versions](https://policies.google.com/privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20230701/4jko9ma5/google_privacy_policy_en_eu.pdf)
+Effective October 4, 2023 | [Archived versions](https://policies.google.com/privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20231004/npj9cw7o/google_privacy_policy_en_eu.pdf)
 
 Contents
 --------
@@ -456,7 +456,6 @@ Specific Google services
 
 The following privacy notices provide additional information about some Google services:
 
-* [Chrome & the Chrome Operating System](https://www.google.com/chrome/intl/en/privacy.html)
 * [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=en)
 * [Fiber](https://fiber.google.com/legal/privacy.html)
 * [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
