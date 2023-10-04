@@ -3,7 +3,7 @@ Back to [Amazon Publisher Services Agreement](https://ams.amazon.com/webpublishe
 Editorial Adjacency Policy
 --------------------------
 
-You will not place our Ads adjacent to any content that: (a) promotes or contains content or activity that is defamatory, false (e.g. fake news), deceptive, obscene, hateful (e.g. hate speech), sexually explicit, violent (including the use of firearms), discriminatory, illegal, harmful, invasive of another’s privacy, threatening, abusive, harassing or offensive, (b) contains, links to, uses or otherwise causes the downloading of any malicious code, (c) artificially increases impression, click or engagement behavior for the purpose of increasing advertising revenue.
+You will not place our Ads adjacent to any content that:  (a) promotes or contains content or activity that is defamatory, false (e.g. fake news), deceptive, obscene, hateful (e.g. hate speech), sexually explicit, violent (including the use of firearms), discriminatory, illegal, harmful, invasive of another’s privacy, threatening, abusive, harassing or offensive, (b) contains, links to, uses or otherwise causes the downloading of any malicious code, (c) artificially increases impression, click or engagement behavior for the purpose of increasing advertising revenue, including but not limited to, through made-for-advertising sites or automated or other invalid means.
 
 Video Policy
 ------------
