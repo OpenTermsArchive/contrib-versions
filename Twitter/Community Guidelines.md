@@ -1,1907 +1,1205 @@
-Non-consensual nudity policy
-============================
+Child sexual exploitation policy
+================================
 
-[Take the survey](https://www.research.net/r/QFBQSNC)
+### Overview 
 
-### Overview
+**October 2020**
 
-**  
-December 2021**
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
 
-### What is a violation of this policy?
+### What is in violation of this policy? 
 
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
 
-### What is not a violation of this policy?
+The following behaviors are also not permitted:   
 
-  
-Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
+### What is not a violation of this policy? 
 
-### Who can report violations of this policy?
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
 
-  
-Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-**Content reportable by anyone**
+### How can I report violations of this policy? 
 
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
 
-### How can I report violations of this policy?
+### What happens if you violate this policy? 
 
-**  
-In-app**
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-You can report this content for review in-app as follows:
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
 
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
 
-**Desktop**
+The following behaviors are also not permitted:   
 
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
-**Report form**  
+### What is not a violation of this policy? 
 
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### What happens if you violate this policy?
+### How can I report violations of this policy? 
 
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
 
-**Content reportable by anyone**
+### What happens if you violate this policy? 
 
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
 
-**Content reportable by featured individual(s)**
+The following behaviors are also not permitted:   
 
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How can I report violations of this policy?
+### How can I report violations of this policy? 
 
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
 
-### What happens if you violate this policy?
+### What happens if you violate this policy? 
 
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-### What is a violation of this policy?
+### Additional resources 
 
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-Examples of the types of content that violate this policy include, but are not limited to:  
+### What is in violation of this policy? 
 
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
 
-### What is not a violation of this policy?
+The following behaviors are also not permitted:   
 
-  
-Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
+### What is not a violation of this policy? 
 
-### Who can report violations of this policy?
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
 
-  
-Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-**Content reportable by anyone**
+### How can I report violations of this policy? 
 
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
 
-### How can I report violations of this policy?
+### What happens if you violate this policy? 
 
-**  
-In-app**
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-You can report this content for review in-app as follows:
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
 
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
 
-**Desktop**
+The following behaviors are also not permitted:   
 
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
-**Report form**  
+### What is not a violation of this policy? 
 
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### What happens if you violate this policy?
+### How can I report violations of this policy? 
 
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
 
-**Content reportable by anyone**
+### What happens if you violate this policy? 
 
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
 
-**Content reportable by featured individual(s)**
+The following behaviors are also not permitted:   
 
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How can I report violations of this policy?
+### How can I report violations of this policy? 
 
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
 
-### What happens if you violate this policy?
+### What happens if you violate this policy? 
 
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-### What is a violation of this policy?
+### Additional resources 
 
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-Examples of the types of content that violate this policy include, but are not limited to:  
+### What is in violation of this policy? 
 
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
 
-### What is not a violation of this policy?
+The following behaviors are also not permitted:   
 
-  
-Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
+### What is not a violation of this policy? 
 
-### Who can report violations of this policy?
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
 
-  
-Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-**Content reportable by anyone**
+### How can I report violations of this policy? 
 
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
 
-### How can I report violations of this policy?
+### What happens if you violate this policy? 
 
-**  
-In-app**
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-You can report this content for review in-app as follows:
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
 
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
 
-**Desktop**
+The following behaviors are also not permitted:   
 
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
-**Report form**  
+### What is not a violation of this policy? 
 
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### What happens if you violate this policy?
+### How can I report violations of this policy? 
 
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
 
-**Content reportable by anyone**
+### What happens if you violate this policy? 
 
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
 
-**Content reportable by featured individual(s)**
+The following behaviors are also not permitted:   
 
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How can I report violations of this policy?
+### How can I report violations of this policy? 
 
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
 
-### What happens if you violate this policy?
+### What happens if you violate this policy? 
 
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-### What is a violation of this policy?
+### Additional resources 
 
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-Examples of the types of content that violate this policy include, but are not limited to:  
+### What is in violation of this policy? 
 
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
 
-### What is not a violation of this policy?
+The following behaviors are also not permitted:   
 
-  
-Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
+### What is not a violation of this policy? 
 
-### Who can report violations of this policy?
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
 
-  
-Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-**Content reportable by anyone**
+### How can I report violations of this policy? 
 
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
 
-### How can I report violations of this policy?
+### What happens if you violate this policy? 
 
-**  
-In-app**
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-You can report this content for review in-app as follows:
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
 
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
 
-**Desktop**
+The following behaviors are also not permitted:   
 
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
-**Report form**  
+### What is not a violation of this policy? 
 
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### What happens if you violate this policy?
+### How can I report violations of this policy? 
 
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
 
-**Content reportable by anyone**
+### What happens if you violate this policy? 
 
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
 
-**Content reportable by featured individual(s)**
+The following behaviors are also not permitted:   
 
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How can I report violations of this policy?
+### How can I report violations of this policy? 
 
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
 
-### What happens if you violate this policy?
+### What happens if you violate this policy? 
 
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-### What is a violation of this policy?
+### Additional resources 
 
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-Examples of the types of content that violate this policy include, but are not limited to:  
+### What is in violation of this policy? 
 
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
 
-### What is not a violation of this policy?
+The following behaviors are also not permitted:   
 
-  
-Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
+### What is not a violation of this policy? 
 
-### Who can report violations of this policy?
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
 
-  
-Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-**Content reportable by anyone**
+### How can I report violations of this policy? 
 
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
 
-### How can I report violations of this policy?
+### What happens if you violate this policy? 
 
-**  
-In-app**
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-You can report this content for review in-app as follows:
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
 
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
 
-**Desktop**
+The following behaviors are also not permitted:   
 
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
-**Report form**  
+### What is not a violation of this policy? 
 
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### What happens if you violate this policy?
+### How can I report violations of this policy? 
 
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
 
-**Content reportable by anyone**
+### What happens if you violate this policy? 
 
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
 
-**Content reportable by featured individual(s)**
+The following behaviors are also not permitted:   
 
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How can I report violations of this policy?
+### How can I report violations of this policy? 
 
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
 
-### What happens if you violate this policy?
+### What happens if you violate this policy? 
 
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-### What is a violation of this policy?
+### Additional resources 
 
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-Examples of the types of content that violate this policy include, but are not limited to:  
+### What is in violation of this policy? 
 
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
 
-### What is not a violation of this policy?
+The following behaviors are also not permitted:   
 
-  
-Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
+### What is not a violation of this policy? 
 
-### Who can report violations of this policy?
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
 
-  
-Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-**Content reportable by anyone**
+### How can I report violations of this policy? 
 
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
 
-### How can I report violations of this policy?
+### What happens if you violate this policy? 
 
-**  
-In-app**
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-You can report this content for review in-app as follows:
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
 
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
 
-**Desktop**
+The following behaviors are also not permitted:   
 
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
-**Report form**  
+### What is not a violation of this policy? 
 
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### What happens if you violate this policy?
+### How can I report violations of this policy? 
 
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
 
-**Content reportable by anyone**
+### What happens if you violate this policy? 
 
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
 
-**Content reportable by featured individual(s)**
+The following behaviors are also not permitted:   
 
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How can I report violations of this policy?
+### How can I report violations of this policy? 
 
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
 
-### What happens if you violate this policy?
+### What happens if you violate this policy? 
 
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-### What is a violation of this policy?
+### Additional resources 
 
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-Examples of the types of content that violate this policy include, but are not limited to:  
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
-
-**Content reportable by anyone**
-
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
-
-### How can I report violations of this policy?
-
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
-
-### What happens if you violate this policy?
-
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
-
-**Content reportable by anyone**
-
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
-
-### How can I report violations of this policy?
-
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
-
-### What happens if you violate this policy?
-
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
-
-**Content reportable by anyone**
-
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
-
-### How can I report violations of this policy?
-
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
-
-### What happens if you violate this policy?
-
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
-
-**Content reportable by anyone**
-
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
-
-### How can I report violations of this policy?
-
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
-
-### What happens if you violate this policy?
-
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
-
-**Content reportable by anyone**
-
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
-
-### How can I report violations of this policy?
-
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
-
-### What happens if you violate this policy?
-
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Non-consensual nudity policy
-============================
-
-[Take the survey](https://www.research.net/r/QFBQSNC)
-
-### Overview
-
-**  
-December 2021**
-
-**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
-
-Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/rules-and-policies/twitter-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
-  
-
-### What is a violation of this policy?
-
-  
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
-
-Examples of the types of content that violate this policy include, but are not limited to:  
-
-* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
-* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
-* images or videos that are taken in an intimate setting and not intended for public distribution; and
-* offering a bounty or financial reward in exchange for intimate images or videos.  
-     
-
-### What is not a violation of this policy?
-
-  
-Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
-
-To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
-  
-
-### Who can report violations of this policy?
-
-  
-Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
- 
-
-**Content reportable by anyone**
-
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-* creepshots or upskirts;
-* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-* intimate images or videos that are accompanied by:
-* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
-     
-
-**Content reportable by featured individual(s)**
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
- 
-
-### How can I report violations of this policy?
-
-**  
-In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Select **It displays a sensitive photo or video**.
-3. Select **An unauthorized photo or video**.
-4. Select **It includes unauthorized, intimate content of me or someone else**.
-5. Select the relevant option depending on who you are reporting on behalf of.
-6. Select up to 5 posts to report for review.
-7. Submit your report.  
-     
-
-**Report form**  
-
-You can also report this content via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the **An unauthorized photo or video** option.  
- 
-
-### What happens if you violate this policy?
-
-  
-We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
-
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-  
-
-### Additional resources
-
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
