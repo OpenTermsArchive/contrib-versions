@@ -346,7 +346,7 @@ The data controller for This Website and Services is:
 
 Thryv, Inc. 2200 West Airfield DrivePO Box 619810DFW Airport, TX 75261
 
-Our Data Protection Officer is: Jeff Wing, [jeff.wing@thryv.com](mailto:jeff.wing@thryv.com)
+Our Data Protection Officer is: Jeff Wing, [\[email protected\]](https://corporate.thryv.com/cdn-cgi/l/email-protection)
 
 We use the Personal Information we collect about you to pursue the following purposes, which are necessary for the performance of the contract between us to provide you with the products or services you requested or which we consider in our legitimate interests:
 
@@ -397,15 +397,15 @@ If you are an Australian resident, you may have certain privacy rights under the
 
 **Accessing your Personal Information**
 
-You can request a copy of the Personal Information that we hold about you by emailing us at [ThryvPrivacy\_au@thryv.com](mailto:ThryvPrivacy_au@thryv.com). There is no charge to submit a request, however we may apply a reasonable administrative charge for providing access but we’ll always check with you first. If we can’t give you access, or can only give you access to certain information, we’ll tell you why.
+You can request a copy of the Personal Information that we hold about you by emailing us at [\[email protected\]](https://corporate.thryv.com/cdn-cgi/l/email-protection). There is no charge to submit a request, however we may apply a reasonable administrative charge for providing access but we’ll always check with you first. If we can’t give you access, or can only give you access to certain information, we’ll tell you why.
 
 **Correcting your Personal Information**
 
-We do everything we can to make sure the Personal Information we handle is correct, complete and current. But if you do spot an error, you can correct it via your account, or let us know by contacting us at [ThryvPrivacy\_au@thryv.com](mailto:ThryvPrivacy_au@thryv.com).
+We do everything we can to make sure the Personal Information we handle is correct, complete and current. But if you do spot an error, you can correct it via your account, or let us know by contacting us at [\[email protected\]](https://corporate.thryv.com/cdn-cgi/l/email-protection).
 
 **Complaints**
 
-If you live in Australia and have any complaints regarding our handling of your Personal Information, our response to your request, or our compliance with the Privacy Act 1988 (Cth), please contact our Privacy Officer at [ThryvPrivacy\_au@thryv.com](mailto:ThryvPrivacy_au@thryv.com). However, if you are dissatisfied with our response, you may raise a complaint with the Office of the Australian Information Commissioner by contacting them at: [https://www.oaic.gov.au/about-us/contact-us](https://www.oaic.gov.au/about-us/contact-us).
+If you live in Australia and have any complaints regarding our handling of your Personal Information, our response to your request, or our compliance with the Privacy Act 1988 (Cth), please contact our Privacy Officer at [\[email protected\]](https://corporate.thryv.com/cdn-cgi/l/email-protection). However, if you are dissatisfied with our response, you may raise a complaint with the Office of the Australian Information Commissioner by contacting them at: [https://www.oaic.gov.au/about-us/contact-us](https://www.oaic.gov.au/about-us/contact-us).
 
 Notice to Residents of Canada
 
