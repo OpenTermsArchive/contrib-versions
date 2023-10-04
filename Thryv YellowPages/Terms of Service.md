@@ -30,7 +30,7 @@ Thryv, Inc.
 2200 West Airfield Drive  
 P.O. Box 619810  
 D/FW Airport, TX 75261-9810  
-Email: [dmcanotices@thryv.com](mailto:dmcanotices@thryv.com)
+Email: [\[email protected\]](https://corporate.thryv.com/cdn-cgi/l/email-protection)
 
 All claims must include the following information:
 
