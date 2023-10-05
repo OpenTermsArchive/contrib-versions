@@ -1,4 +1,4 @@
-Effective 1 July 2023 | [Archived versions](https://policies.google.com/privacy/archive?hl=en-GB&gl=IE) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20230701/4jko9ma5/google_privacy_policy_en-GB_eu.pdf)
+Effective 4 October 2023 | [Archived versions](https://policies.google.com/privacy/archive?hl=en-GB&gl=IE) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20231004/npj9cw7o/google_privacy_policy_en-GB_eu.pdf)
 
 Contents
 --------
@@ -441,7 +441,6 @@ Specific Google services
 
 The following privacy notices provide additional information about some Google services:
 
-* [Chrome & the Chrome Operating System](https://www.google.com/chrome/intl/en-GB/privacy.html)
 * [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=en-GB)
 * [Fiber](https://fiber.google.com/legal/privacy.html)
 * [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
