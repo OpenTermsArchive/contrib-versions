@@ -1,3 +1,9 @@
+1. [Categories](https://bolt.eu/en-ie/privacy/)
+
+3. [Rides](https://bolt.eu/en-ie/privacy/?category=rides)
+
+5. Privacy Notice for Drivers in Ireland
+
 Privacy Notice for Drivers in Ireland
 =====================================
 
