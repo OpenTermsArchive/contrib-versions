@@ -36,7 +36,7 @@ Roblox Community Standards
 
 Roblox’s mission is to connect a billion people with optimism and civility. Every day, tens of millions of people around the world have fun with friends as they explore millions of immersive digital experiences. All of these experiences are built by the Roblox community, made up of millions of creators. We believe in building a safe, civil, and diverse community—one that inspires and fosters creativity and positive relationships between people around the world.
 
-We’ve created these Community Standards to help ensure that everyone feels safe and welcome in our shared adventure. These Standards apply to all of your actions on Roblox and with other Robloxians, both online and at real-world events hosted by Roblox. For 17+ experiences, please see [Roblox’s 17+ Policy Standards](https://en.help.roblox.com/hc/en-us/articles/15869919570708).
+We’ve created these Community Standards to help ensure that everyone feels safe and welcome in our shared adventure. These Standards apply to all of your actions on Roblox and with other Robloxians, both online and at real-world events hosted by Roblox. For 17+ experiences, please see [Roblox’s 17+ Policy Standards](https://en.help.roblox.com/hc/articles/15869919570708).
 
 We ask that you respect our Standards and each other at all times — and understand that violating them may result in enforcement action against your account(s) and content. For some behavior that violates these Standards, such as behavior that poses a real-world risk to others, we reserve the right to contact or cooperate with the relevant authorities in order to keep everyone safe.
 
