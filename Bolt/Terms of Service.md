@@ -1,3 +1,9 @@
+1. [Categories](https://bolt.eu/en-ie/legal/)
+
+3. [Rides](https://bolt.eu/en-ie/legal/?category=rides)
+
+5. General Terms and Conditions for Passengers
+
 General Terms and Conditions for Passengers
 ===========================================
 
