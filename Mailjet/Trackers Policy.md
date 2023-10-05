@@ -38,7 +38,7 @@ These items are required to enable basic website functionality.
 
 | Providers | Cookies | Cookie Duration |
 | --- | --- | --- |
-| Google LLC | ^\_ga$<br><br>\_ga\_3J7PP9VX3Q<br><br>\_gac\_UA-154350063-1<br><br>\_gac\_UA-16849338-1<br><br>\_gac\_UA-33652774-3<br><br>\_ga\_PZB2JSMCGC<br><br>^\_gat$<br><br>\_gat\_gtag\_UA\_106855065\_21<br><br>\_gat\_gtag\_UA\_127560459\_1<br><br>\_gat\_gtag\_UA\_16849338\_8<br><br>\_gat\_gtag\_UA\_173140157\_1<br><br>^\_gat\_UA-.\*<br><br>^\_gcl\_au$<br><br>^\_gcl\_aw$<br><br>^\_gid$ | 2 years |
+| Google LLC | \_gat\_gtag\_UA\_106855065\_21<br><br>^\_gcl\_au$<br><br>^\_gcl\_aw$<br><br>^\_gid$ | undefined |
 | Osano Inc | osano\_consentmanager\_tattles<br><br>osano\_consentmanager\_uuid | undefined |
 | Wingify Software Pvt LTD | ^visitor\_id.\*<br><br>^\_vis\_opt\_s$<br><br>^\_vis\_opt\_test\_cookie$<br><br>\_vwo<br><br>\_vwo\_referrer<br><br>\_vwo\_sn<br><br>\_vwo\_ssm<br><br>^\_vwo\_uuid.\* | 2 years |
 | Osano | osano\_consentmanager<br><br>osano\_consentmanager\_expdate<br><br>osano\_consentmanager\_uuid | 1 year |
@@ -76,7 +76,7 @@ These items help the website operator understand how their website performs, how
 | Providers | Cookies | Cookie Duration |
 | --- | --- | --- |
 | Atlassian Inc | ^ajs\_anonymous\_id$ | 1 year |
-| Google LLC | \_ga\_KGQ3ZCEQ3Z<br><br>^\_gd.\*<br><br>^\_\_utma$<br><br>^\_\_utmb$<br><br>^\_\_utmc$<br><br>^\_\_utmd$<br><br>^\_\_utmt$<br><br>^\_\_utmv$<br><br>^\_\_utmz$ | 2 years |
+| Google LLC | ^\_ga$<br><br>\_ga\_3J7PP9VX3Q<br><br>\_gac\_UA-154350063-1<br><br>\_gac\_UA-16849338-1<br><br>\_gac\_UA-33652774-3<br><br>\_ga\_KGQ3ZCEQ3Z<br><br>\_ga\_PZB2JSMCGC<br><br>^\_gat$<br><br>\_gat\_gtag\_UA\_127560459\_1<br><br>\_gat\_gtag\_UA\_16849338\_8<br><br>\_gat\_gtag\_UA\_173140157\_1<br><br>^\_gat\_UA-.\*<br><br>^\_gd.\*<br><br>^\_\_utma$<br><br>^\_\_utmb$<br><br>^\_\_utmc$<br><br>^\_\_utmd$<br><br>^\_\_utmt$<br><br>^\_\_utmv$<br><br>^\_\_utmz$ | 2 years |
 | Partnerstack | growSumoPartnerKey | 1 day |
 | Reddit Inc | \_rdt\_uuid | undefined |
 | Rudder Labs | rl\_group\_id<br><br>rl\_group\_trait<br><br>rl\_page\_init\_referrer<br><br>rl\_page\_init\_referring\_domain<br><br>rl\_session<br><br>rl\_trait<br><br>rl\_user\_id | undefined |
