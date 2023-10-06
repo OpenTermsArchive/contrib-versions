@@ -1,1151 +1,2663 @@
-Abuse and harassment
-====================
+Suicide and Self-harm policy
+============================
 
-### Overview
+Overview  
+ 
 
-**June 2023**
+**You may not promote or encourage suicide or self-harm.**
 
-  
-You may not share abusive content, harass someone, or encourage other people to do so.  
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
-
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
-     
-
-**Insults  
-**
-
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
-
-**Violent Event Denial**  
-
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
-
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
-
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
-
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-Abuse and harassment
-====================
-
-### Overview
-
-**June 2023**
-
-  
-You may not share abusive content, harass someone, or encourage other people to do so.  
-
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
 
 ### What is in violation of this policy? 
 
-**Targeted harassment**
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
 
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
 
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
 
-**Encouraging or calling for others to harass an individual or group of people**  
+Violations of this policy include, but are not limited to:  
 
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**Insults  
-**
+### What is not a violation of this policy? 
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Violent Event Denial**  
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+### Who can report violations of this policy? 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### How to report violations of this policy 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Abuse and harassment
-====================
+### Expressing intentions of self-harm or suicide 
 
-### Overview
+**In-App**
 
-**June 2023**
+You can report content for review in-app as follows:
 
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
 
 ### What is in violation of this policy? 
 
-**Targeted harassment**
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
 
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
 
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
 
-**Encouraging or calling for others to harass an individual or group of people**  
+Violations of this policy include, but are not limited to:  
 
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**Insults  
-**
+### What is not a violation of this policy? 
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Violent Event Denial**  
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+### Who can report violations of this policy? 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### How to report violations of this policy 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Abuse and harassment
-====================
+### Expressing intentions of self-harm or suicide 
 
-### Overview
+**In-App**
 
-**June 2023**
+You can report content for review in-app as follows:
 
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
 
 ### What is in violation of this policy? 
 
-**Targeted harassment**
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
 
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
 
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
 
-**Encouraging or calling for others to harass an individual or group of people**  
+Violations of this policy include, but are not limited to:  
 
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**Insults  
-**
+### What is not a violation of this policy? 
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Violent Event Denial**  
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+### Who can report violations of this policy? 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### How to report violations of this policy 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Abuse and harassment
-====================
+### Expressing intentions of self-harm or suicide 
 
-### Overview
+**In-App**
 
-**June 2023**
+You can report content for review in-app as follows:
 
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
 
 ### What is in violation of this policy? 
 
-**Targeted harassment**
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
 
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
 
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
 
-**Encouraging or calling for others to harass an individual or group of people**  
+Violations of this policy include, but are not limited to:  
 
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**Insults  
-**
+### What is not a violation of this policy? 
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Violent Event Denial**  
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+### Who can report violations of this policy? 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### How to report violations of this policy 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Abuse and harassment
-====================
+### Expressing intentions of self-harm or suicide 
 
-### Overview
+**In-App**
 
-**June 2023**
+You can report content for review in-app as follows:
 
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
 
 ### What is in violation of this policy? 
 
-**Targeted harassment**
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
 
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
 
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
 
-**Encouraging or calling for others to harass an individual or group of people**  
+Violations of this policy include, but are not limited to:  
 
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**Insults  
-**
+### What is not a violation of this policy? 
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Violent Event Denial**  
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+### Who can report violations of this policy? 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### How to report violations of this policy 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Abuse and harassment
-====================
+### Expressing intentions of self-harm or suicide 
 
-### Overview
+**In-App**
 
-**June 2023**
+You can report content for review in-app as follows:
 
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
 
 ### What is in violation of this policy? 
 
-**Targeted harassment**
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
 
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
 
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
 
-**Encouraging or calling for others to harass an individual or group of people**  
+Violations of this policy include, but are not limited to:  
 
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**Insults  
-**
+### What is not a violation of this policy? 
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Violent Event Denial**  
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+### Who can report violations of this policy? 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### How to report violations of this policy 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Abuse and harassment
-====================
+### Expressing intentions of self-harm or suicide 
 
-### Overview
+**In-App**
 
-**June 2023**
+You can report content for review in-app as follows:
 
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
 
 ### What is in violation of this policy? 
 
-**Targeted harassment**
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
 
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
 
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
 
-**Encouraging or calling for others to harass an individual or group of people**  
+Violations of this policy include, but are not limited to:  
 
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**Insults  
-**
+### What is not a violation of this policy? 
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Violent Event Denial**  
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+### Who can report violations of this policy? 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### How to report violations of this policy 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Abuse and harassment
-====================
+### Expressing intentions of self-harm or suicide 
 
-### Overview
+**In-App**
 
-**June 2023**
+You can report content for review in-app as follows:
 
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
 
 ### What is in violation of this policy? 
 
-**Targeted harassment**
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
 
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
 
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
 
-**Encouraging or calling for others to harass an individual or group of people**  
+Violations of this policy include, but are not limited to:  
 
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**Insults  
-**
+### What is not a violation of this policy? 
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Violent Event Denial**  
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+### Who can report violations of this policy? 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### How to report violations of this policy 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Abuse and harassment
-====================
+### Expressing intentions of self-harm or suicide 
 
-### Overview
+**In-App**
 
-**June 2023**
+You can report content for review in-app as follows:
 
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
 
 ### What is in violation of this policy? 
 
-**Targeted harassment**
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
 
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
 
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
 
-**Encouraging or calling for others to harass an individual or group of people**  
+Violations of this policy include, but are not limited to:  
 
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**Insults  
-**
+### What is not a violation of this policy? 
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Violent Event Denial**  
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+### Who can report violations of this policy? 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### How to report violations of this policy 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Abuse and harassment
-====================
+### Expressing intentions of self-harm or suicide 
 
-### Overview
+**In-App**
 
-**June 2023**
+You can report content for review in-app as follows:
 
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
 
 ### What is in violation of this policy? 
 
-**Targeted harassment**
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
 
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
 
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
 
-**Encouraging or calling for others to harass an individual or group of people**  
+Violations of this policy include, but are not limited to:  
 
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**Insults  
-**
+### What is not a violation of this policy? 
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Violent Event Denial**  
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+### Who can report violations of this policy? 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### How to report violations of this policy 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Abuse and harassment
-====================
+### Expressing intentions of self-harm or suicide 
 
-### Overview
+**In-App**
 
-**June 2023**
+You can report content for review in-app as follows:
 
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
 
 ### What is in violation of this policy? 
 
-**Targeted harassment**
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
 
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
 
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
 
-**Encouraging or calling for others to harass an individual or group of people**  
+Violations of this policy include, but are not limited to:  
 
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**Insults  
-**
+### What is not a violation of this policy? 
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Violent Event Denial**  
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+### Who can report violations of this policy? 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### How to report violations of this policy 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Abuse and harassment
-====================
+### Expressing intentions of self-harm or suicide 
 
-### Overview
+**In-App**
 
-**June 2023**
+You can report content for review in-app as follows:
 
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
 
 ### What is in violation of this policy? 
 
-**Targeted harassment**
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
 
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
 
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
 
-**Encouraging or calling for others to harass an individual or group of people**  
+Violations of this policy include, but are not limited to:  
 
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**Insults  
-**
+### What is not a violation of this policy? 
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Violent Event Denial**  
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+### Who can report violations of this policy? 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### How to report violations of this policy 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Abuse and harassment
-====================
+### Expressing intentions of self-harm or suicide 
 
-### Overview
+**In-App**
 
-**June 2023**
+You can report content for review in-app as follows:
 
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
 
 ### What is in violation of this policy? 
 
-**Targeted harassment**
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
 
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
 
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
 
-**Encouraging or calling for others to harass an individual or group of people**  
+Violations of this policy include, but are not limited to:  
 
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**Insults  
-**
+### What is not a violation of this policy? 
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Violent Event Denial**  
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+### Who can report violations of this policy? 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### How to report violations of this policy 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Abuse and harassment
-====================
+### Expressing intentions of self-harm or suicide 
 
-### Overview
+**In-App**
 
-**June 2023**
+You can report content for review in-app as follows:
 
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
 
 ### What is in violation of this policy? 
 
-**Targeted harassment**
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
 
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
 
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
 
-**Encouraging or calling for others to harass an individual or group of people**  
+Violations of this policy include, but are not limited to:  
 
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**Insults  
-**
+### What is not a violation of this policy? 
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Violent Event Denial**  
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+### Who can report violations of this policy? 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### How to report violations of this policy 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Abuse and harassment
-====================
+### Expressing intentions of self-harm or suicide 
 
-### Overview
+**In-App**
 
-**June 2023**
+You can report content for review in-app as follows:
 
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
 
 ### What is in violation of this policy? 
 
-**Targeted harassment**
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
 
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
 
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
 
-**Encouraging or calling for others to harass an individual or group of people**  
+Violations of this policy include, but are not limited to:  
 
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**Insults  
-**
+### What is not a violation of this policy? 
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Violent Event Denial**  
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+### Who can report violations of this policy? 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### How to report violations of this policy 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Abuse and harassment
-====================
+### Expressing intentions of self-harm or suicide 
 
-### Overview
+**In-App**
 
-**June 2023**
+You can report content for review in-app as follows:
 
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
 
 ### What is in violation of this policy? 
 
-**Targeted harassment**
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
 
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
 
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
 
-**Encouraging or calling for others to harass an individual or group of people**  
+Violations of this policy include, but are not limited to:  
 
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**Insults  
-**
+### What is not a violation of this policy? 
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Violent Event Denial**  
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+### Who can report violations of this policy? 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### How to report violations of this policy 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Abuse and harassment
-====================
+### Expressing intentions of self-harm or suicide 
 
-### Overview
+**In-App**
 
-**June 2023**
+You can report content for review in-app as follows:
 
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
-You may not share abusive content, harass someone, or encourage other people to do so.  
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
 
 ### What is in violation of this policy? 
 
-**Targeted harassment**
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
 
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
 
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
 
-**Encouraging or calling for others to harass an individual or group of people**  
+Violations of this policy include, but are not limited to:  
 
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**Insults  
-**
+### What is not a violation of this policy? 
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Violent Event Denial**  
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+### Who can report violations of this policy? 
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### How to report violations of this policy 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
