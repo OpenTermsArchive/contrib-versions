@@ -518,7 +518,7 @@ in each case, other than on the basis of an optional data protection framework.
 
 7.3**Termination**. If Customer concludes, based on its current or intended use of the Processor Services, that the Alternative Transfer Solution and/or SCCs, as applicable, do not provide appropriate safeguards for Customer Personal Data, then Customer may immediately terminate the Agreement for convenience by notifying Google in writing.
 
-7.4**Alternative Transfer Solution Adoption and Certification**. Information about Google and/or its Affiliates’ adoption of, or certification under, any Alternative Transfer Solutions can be found at [https://policies.google.com/privacy/frameworks](https://policies.google.com/privacy/frameworks).
+7.4**Alternative Transfer Solution Adoption and Certification**. Information about Google and/or its Affiliates’ adoption of, or certification under, any Alternative Transfer Solutions can be found at [https://business.safety.google/adsdatatransfers](https://privacy.google.com/adsdatatransfers).
 
 **8.Subprocessors**. When engaging any Subprocessor, Google will ensure via a written contract that if the processing of Customer Personal Data is subject to European Data Protection Legislation, the data protection obligations in these Data Processing Terms (as referred to in Article 28(3) of the GDPR, if applicable) are imposed on the Subprocessor.
 
