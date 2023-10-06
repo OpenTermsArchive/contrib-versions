@@ -176,7 +176,7 @@ Here is how to exercise your rights to access and control your Personal Informat
 
 ##### Email Communications Preferences
 
-Bitwarden respects your email communications and marketing preferences. If you prefer not to receive product release notes communications or promotional email messages (such as product updates, security alerts, marketing, events, training and certifications) from Bitwarden, you can unsubscribe from Bitwarden email marketing by following the unsubscribe link located at the bottom of each promotional email, or [Contact Us](https://bitwarden.com/privacy/#contact-us). Note: Please allow five (5) business days to be removed from all email communications.
+Bitwarden respects your email communications and marketing preferences. If you prefer not to receive product release notes communications or promotional email messages (such as product updates, security alerts, marketing, events, training and certifications) from Bitwarden, you can unsubscribe from Bitwarden email marketing by following the unsubscribe link located at the bottom of each promotional email, or [Contact Us](#contact-us). Note: Please allow five (5) business days to be removed from all email communications.
 
 ##### Accessing, Correcting And Deleting Your Personal Information
 
@@ -244,7 +244,7 @@ We may also provide your Personal Information to a third party in connection wit
         
     * inform you in some prominent manner enabling you to make a choice about whether to agree to the new practices.
         
-* You may choose to opt-out of allowing your Personal Information to be shared with certain third-parties. To do so, please [Contact Us](https://bitwarden.com/privacy/#contact-us). We will do our best to respond in a timely manner and grant your request to the extent permitted by law.
+* You may choose to opt-out of allowing your Personal Information to be shared with certain third-parties. To do so, please [Contact Us](#contact-us). We will do our best to respond in a timely manner and grant your request to the extent permitted by law.
     
 
 ##### International Transfer And Storage Of Information Collected
@@ -273,7 +273,7 @@ Bitwarden is subject to the investigatory and enforcement powers of the Federal 
 
 The security of your Personal Information is important to us. Your data, including Personal Information, is never sent to the Bitwarden cloud servers without first being encrypted on your local device using AES 256 bit encryption. In addition, Bitwarden encrypts the transmission of that information using secure socket layer technology (SSL).
 
-We follow generally accepted standards to protect the Personal Information submitted to us, both during transmission and once it is received. You acknowledge and agree that no Internet or email transmission is ever fully secure or error free. You agree to take special care in deciding what information you send to us via email. If you have any questions about the security of your Personal Information, you can [Contact Us](https://bitwarden.com/privacy/#contact-us).
+We follow generally accepted standards to protect the Personal Information submitted to us, both during transmission and once it is received. You acknowledge and agree that no Internet or email transmission is ever fully secure or error free. You agree to take special care in deciding what information you send to us via email. If you have any questions about the security of your Personal Information, you can [Contact Us](#contact-us).
 
 #### Additional Terms
 
@@ -299,7 +299,7 @@ The Site or Bitwarden Service may contain links to a number of sites owned and o
 
 ##### Minimum Age
 
-The Site or Bitwarden Service is not directed to, nor intended to be used by, individuals under the age of 13, or the equivalent minimum age in the relevant jurisdiction. Bitwarden does not knowingly collect Personal Information from individuals under the age of 13, or the equivalent minimum age in the relevant jurisdiction. If you become aware that an individual under the age of 13, or the equivalent minimum age in the relevant jurisdiction, has provided us with Personal Information, please [Contact Us](https://bitwarden.com/privacy/#contact-us). If we become aware that an individual under the age of 13, or the equivalent minimum age in the relevant jurisdiction, has provided us with Personal Information without parental consent, we will take steps to delete such information.
+The Site or Bitwarden Service is not directed to, nor intended to be used by, individuals under the age of 13, or the equivalent minimum age in the relevant jurisdiction. Bitwarden does not knowingly collect Personal Information from individuals under the age of 13, or the equivalent minimum age in the relevant jurisdiction. If you become aware that an individual under the age of 13, or the equivalent minimum age in the relevant jurisdiction, has provided us with Personal Information, please [Contact Us](#contact-us). If we become aware that an individual under the age of 13, or the equivalent minimum age in the relevant jurisdiction, has provided us with Personal Information without parental consent, we will take steps to delete such information.
 
 ##### Updates to this Privacy Policy
 
@@ -343,7 +343,7 @@ All of the categories of Personal Information we collect about you (as detailed 
 
 ##### California Rights and Choices
 
-Subject to certain restrictions, as a California resident, you have the right to request that we disclose what Personal Information we collect about you, to delete any Personal Information that we collected from or maintain about you, and to opt-out of the sale of Personal Information about you. You also have the right to designate an agent to exercise these rights on your behalf, subject to verification of that agency relationship. This section describes how to exercise those rights and our process for handling those requests, including our means of verifying your identity. If you would like further information regarding your legal rights under applicable law or would like to exercise any of them, please [Contact Us](https://bitwarden.com/privacy/#contact-us).
+Subject to certain restrictions, as a California resident, you have the right to request that we disclose what Personal Information we collect about you, to delete any Personal Information that we collected from or maintain about you, and to opt-out of the sale of Personal Information about you. You also have the right to designate an agent to exercise these rights on your behalf, subject to verification of that agency relationship. This section describes how to exercise those rights and our process for handling those requests, including our means of verifying your identity. If you would like further information regarding your legal rights under applicable law or would like to exercise any of them, please [Contact Us](#contact-us).
 
 ##### Accessing and Deleting Your Personal Information
 
@@ -357,7 +357,7 @@ You may also request that we delete any Personal Information that we have collec
 
 _How to exercise your access and deletion rights_
 
-California residents may exercise their California privacy rights by submitting a request via email at privacypolicy@bitwarden.com. While email is the best way to reach us, you may also call us at the number listed in the [Contact Us](https://bitwarden.com/privacy/#contact-us) section.
+California residents may exercise their California privacy rights by submitting a request via email at privacypolicy@bitwarden.com. While email is the best way to reach us, you may also call us at the number listed in the [Contact Us](#contact-us) section.
 
 For security purposes, we may request additional information from you to verify your identity when you request to exercise your California privacy rights. If you do not have an account with us, or if we have reason to suspect that the security of your account is compromised, we will request additional information from you to match with our existing records to verify your identity, depending on the nature of the request and the sensitivity of the information sought.
 
