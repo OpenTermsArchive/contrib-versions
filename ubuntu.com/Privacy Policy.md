@@ -469,7 +469,7 @@ The open source software platform that runs everywhere from the smartphone, the 
 * [Legal information](https://ubuntu.com/legal)
 * [Data privacy](https://ubuntu.com/legal/data-privacy)
 * Manage your tracker settings
-* [Report a bug on this site](https://github.com/canonical-websites/www.ubuntu.com/issues/new)
+* [Report a bug on this site](https://github.com/canonical/ubuntu.com/issues/new)
 
 * [](https://twitter.com/ubuntu "Follow Ubuntu on Twitter")
 * [](https://www.facebook.com/ubuntulinux/ "Follow Ubuntu on Facebook")
