@@ -4,7 +4,7 @@ As part of our effort to protect your privacy and to comply with applicable priv
 
 **Starbucks Privacy Notice**
 
-Last Revised: June 27, 2023
+Last Revised: October 6, 2023
 
 **Overview**
 
@@ -30,7 +30,7 @@ You may skip to the specific sections of our Privacy Notice by selecting any of 
 12. [Your Choices & Rights](#your-choices-rights)
 13. [Notice of Financial Incentive & Starbucks® Rewards](#starbucks-rewards)
 14. [Additional Disclosures for Data Subjects in the EEA, the U.K. and Switzerland](#additional-disclosures-for-data-subjects-in-the-eea-the-uk-and-switzerland)
-15. [Participation in the Privacy Shield Frameworks](#participation-in-the-privacy-shield-frameworks)
+15. [Participation in the Privacy Framework](#participation-in-the-privacy-shield-frameworks)
 16. [Contact Us](#contact-us)
 
 **1\. Applicability and Scope**
@@ -43,12 +43,12 @@ We may update this Notice from time to time. We will notify you of material chan
 
 **3\. Information We Collect**
 
-When you visit and use the Starbucks Services, we collect the following categories of information:
+When you visit and use the Starbucks Services, we may collect the following categories of information:
 
-* **Identifiers** – We collect information that can be used to identify you, such as your first and last name, phone number, your address book, username and password, email address, postal address, IP address, day and month of your birthday, and demographic information (such as gender).
+* **Identifiers** – We may collect information that can be used to identify you, such as your first and last name, phone number, your address book, username and password, email address, postal address, IP address, day and month of your birthday, and demographic information (such as gender).
 * **Financial Information –** We may also collect information such as your credit card and debit card information, telephone number, and name.
 * **Commercial Information** – We may collect information about your transactions in our stores, on our websites or via our Starbucks App including what products you purchase, how frequently you purchase them, any Rewards or promotions associated with a purchase, and the products you have placed on your “Wishlist” or “My Bag” for future purchase.
-* **Electronic Network Activity Information –** We collect information related to your electronic network activity, such as your browsing history, information about how you use the Starbucks Services, information about your device, and information related to Starbucks website’s “live help” chat feature.
+* **Electronic Network Activity Information –** We may collect information related to your electronic network activity, such as your browsing history, information about how you use the Starbucks Services, information about your device, and information related to Starbucks website’s “live help” chat feature.
 * **Geolocation Information –** We may collect information about your location of your device, such as information derived from your device (e.g., based on a browser or device’s IP address).  We may also use location-based technology in our retail locations, to collect information about the presence of your device, if your Bluetooth is turned on and your device settings allow for this.
 * **Audio and Visual Information** – We may collect audio and visual information when you use the Starbucks Services.  For example, closed circuit video surveillance cameras (“CCTV”) may be installed at some of our retail locations to monitor building security and assist in crime prevention, detection, and investigation, and to ensure the safety of our staff and visitors to our facilities, and these CCTV cameras may collect audio, visual, and similar information.  Also, depending on your choices, we may collect audio information when you use voice ordering.
 * **Inferences –** We may also collect inferences drawn from the other information described above.
@@ -63,11 +63,11 @@ Without this information, we may not be able to provide you with all the request
 
 **4\. Sources of Information**
 
-In addition to the information we receive from you, we also receive the categories of information described above from other sources including from other users of Starbucks Services (such as when they purchase a gift for you), advertising partners, co-sponsors, internet service providers, data analytics providers, operating systems and platforms, social networks, and publicly available sources.  For example, if you access any social media or similar services through the Starbucks Services to login or to share information about your experience on our Starbucks Services with others, we may collect information from these third-party services.
+In addition to the information we receive from you, we may also receive the categories of information described above from other sources including from other users of Starbucks Services (such as when they purchase a gift for you), advertising partners, co-sponsors, internet service providers, data analytics providers, operating systems and platforms, social networks, and publicly available sources.  For example, if you access any social media or similar services through the Starbucks Services to login or to share information about your experience on our Starbucks Services with others, we may collect information from these third-party services.
 
 **5\. How We Use Your Information**
 
-We use your information for business purposes, including to provide the products and services you request, to perform customer service functions, for security and fraud prevention, for marketing and promotional purposes, and to perform website and mobile application analytics.  We may use the information we collect about you to:
+We may use your information for business purposes, including to provide the products and services you request, to perform customer service functions, for security and fraud prevention, for marketing and promotional purposes, and to perform website and mobile application analytics.  We may use the information we collect about you to:
 
 **(a)  To Provide Our Services** – We may process your information when you access or use the Starbucks Services, including to:
 
@@ -80,7 +80,7 @@ We use your information for business purposes, including to provide the products
 * process payments; and
 * customize experiences and personalization when you are in and around our stores, if you have given permission for location sharing.
 
-**(b)  To Communicate With You** – We process certain information in order to communicate with you in relation to your accounts, our services, our marketing, and your requests, including to:
+**(b)  To Communicate With You** – We may process certain information in order to communicate with you in relation to your accounts, our services, our marketing, and your requests, including to:
 
 * provide customer service, including when you interact with our customer service agents through our website’s “live help” chat feature, and requests for information;
 * communicate with you about orders, purchases, returns, services, accounts, programs, contests, and sweepstakes;
@@ -94,7 +94,7 @@ We use your information for business purposes, including to provide the products
 * maintain, improve, and analyze our websites, mobile applications, ads, and the products and services we offer; and
 * help to ensure security and integrity of the Starbucks Services, including to detect, prevent, or investigate suspicious activity or fraud.
 
-**(d)  To Enforce our Terms, Agreements, or Policies –** To maintain a safe, secure, and trusted environment for you when you use our websites, mobile applications, and other services, we use your personal information to ensure our terms, policies, and agreements with you and any third parties are enforced.
+**(d)  To Enforce our Terms, Agreements, or Policies –** To maintain a safe, secure, and trusted environment for you when you use our websites, mobile applications, and other services, we may use your personal information to ensure our terms, policies, and agreements with you and any third parties are enforced.
 
 **(e)  To Comply with Applicable Laws –** We may be required to process certain information under certain laws and regulations, such as tax laws, as well as to:
 
@@ -107,7 +107,7 @@ We use your information for business purposes, including to provide the products
 
 **6\. How We Disclose Your Information**
 
-We disclose your information as needed to fulfill the purposes described in this Notice and as permitted by applicable law.
+We may disclose your information as needed to fulfill the purposes described in this Notice and as permitted by applicable law.
 
  **(a) When We Work Together** – We may share information between and among Starbucks Corporation, its subsidiaries, and affiliated companies for purposes of management and analysis, decision making, and other business purposes. For example, we may share your information with our subsidiaries and affiliated companies to administer our loyalty programs, process orders and requests, and expand and promote our product and service offerings.
 
@@ -188,7 +188,7 @@ Depending on where you live (including California, Colorado, Connecticut, Utah, 
 
 * **Right to Know** – You may have the right to know what personal information the business has collected about you, including the categories of personal information, the categories of sources from which it is collected, the business or commercial purposes for collecting, selling, or sharing it, and the categories of third parties to whom we disclose it.
 * **Access and Data Portability** – Subject to certain exceptions, you may have the right to request a copy of the personal information that we collected about you during the 12 months before your request.
-* **Deletion** – You have the right to request that we delete information that we collected from you and retained, subject to certain exceptions.
+* **Deletion** – You may have the right to request that we delete information that we collected from you and retained, subject to certain exceptions.
 * **Correct Inaccurate Information** – You may have the right to request that we correct inaccuracies in the personal information we maintain about you.  You may also correct information about you for Starbucks Rewards in the Starbucks App.
 * **Targeted Advertising** – We do not sell your information for monetary or valuable consideration.  You may have the right to opt-out of having your personal information shared for purposes of targeted advertising.  To opt-out, click this “Do Not Share My Personal Information” link.
 * **Sensitive Information** – Companies who collect, use, and disclose your sensitive personal information for purposes other than to provide you with goods or services are required to provide you with the right to limit the use and disclosure of your sensitive personal information by providing a “Limit the Use and Disclosure of My Sensitive Personal Information” link. Starbucks only collects, uses, and discloses your sensitive personal information to provide services to you, therefore Starbucks is not required to provide this link.
@@ -201,7 +201,7 @@ Request for Canadian residents should be submitted through this form [**HERE**](
 
 U.S. and Canadian residents may also submit request by calling 1-800-STARBUC (782-7282).  Once we receive your request, we may verify it by requesting information sufficient to confirm your identity.  You may be entitled to submit a request through an authorized agent or to appeal a refusal to take action on your request.  To designate an authorized agent to exercise your rights, we will require written proof that the authorized agent has been authorized to act on your behalf or a copy of the power-of-attorney document granting that right.
 
-If you are an authorized agent or you are submitting a request on behalf a customer, please submit your request via email to [privacy@starbucks.com](mailto:privacy@starbucks.com).
+If you are an authorized agent or you are submitting a request on behalf a customer, please submit your request through this form **[HERE](https://privacyportal.onetrust.com/webform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/8455830b-dcd5-4b5b-b866-cc377b6e86d8)** or via email to [privacy@starbucks.com](mailto:privacy@starbucks.com).
 
 **(c)  Other California Rights**
 
@@ -274,23 +274,21 @@ To exercise any of these rights, please see the “Your Choices & Rights” sect
 
 **(e)  Complaints** – If you have any issues with our compliance, you have the right to lodge a complaint with an EEA supervisory authority (link). We would, however, appreciate the opportunity to first address your concerns and would welcome you directing an inquiry first to us per the “Contact Us” section below, or to our U.S.-based third-party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) You may also contact our Data Protection Officer (“DPO”) at any time at [privacy@starbucks.com](mailto:privacy@starbucks.com).
 
-**15\. Participation in the Privacy Shield Frameworks**
+**15\. Participation in the Data Privacy Framework**
 
-On July 16, 2020, the European Court of Justice invalidated the EU-U.S. Privacy Shield Framework as a transfer mechanism for data between EU and U.S. companies. On September 8, 2020, the Swiss supervisory authority similarly announced that it no longer considered the Swiss-U.S. Privacy Shield Framework as adequate for personal data transfers from Switzerland to the U.S. Starbucks Corporation will utilize alternate appropriate safeguards going forward for such data transfers. Even though the Privacy Shield Frameworks have been invalidated, Starbucks will continue to honor its commitments with respect to EU and Swiss personal data transfer pursuant to Privacy Shield prior to the respective Frameworks’ invalidation.
+Starbucks participates in the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Starbucks complies with the U.S. Department of Commerce requirements regarding the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF, and from the United Kingdom (and Gibraltar) under the UK Extension to the EU-U.S. DPF. Starbucks complies with the U.S. Department of Commerce requirements regarding the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy Notice and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
-Starbucks Corporation participates in and has certified its compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. Starbucks is committed to subjecting all personal data received from European Union (EU) member countries, Switzerland, and the United Kingdom in reliance on the Privacy Shield Frameworks, to the applicable Principles. To learn more about Privacy Shield, visit the U.S. Department of Commerce’s Privacy Shield List at [https://www.privacyshield.gov/list](https://www.privacyshield.gov/list).
+Starbucks is responsible for the processing of personal data it receives, and subsequently transfers to a third party acting as an agent on its behalf, under the Data Privacy Framework.
 
-Starbucks is responsible for the processing of personal data it receives, and subsequently transfers to a third party acting as an agent on its behalf, under the Privacy Shield Framework.
+Starbucks complies with the Data Privacy Principles for all onward transfers of personal data from the EU, the U.K., and Switzerland, including the onward transfer liability provisions.
 
-Starbucks complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, the U.K., and Switzerland, including the onward transfer liability provisions.
-
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Starbucks is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
+With respect to personal data received or transferred pursuant to the Privacy Framework, Starbucks is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
 
 In certain situations, Starbucks may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request).
 
-Under certain conditions, more fully described on the Privacy Shield website at [https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+For complaints regarding DPF compliance not resolved by any of the other DPF mechanisms, you have the possibility, under certain conditions, to invoke binding arbitration. Further information can be found on the official DPF website [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
 **16\. Contact Us**
 
