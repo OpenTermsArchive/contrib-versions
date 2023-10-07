@@ -1,1205 +1,1151 @@
-Child sexual exploitation policy
-================================
+Abuse and harassment
+====================
 
-### Overview 
+### Overview
 
-**October 2020**
+**June 2023**
 
-**We have a zero-tolerance child sexual exploitation policy on X.**
-
-X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
+You may not share abusive content, harass someone, or encourage other people to do so.  
+
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
 ### What is in violation of this policy? 
 
-Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+**Targeted harassment**
 
-* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
-* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
-* sexualized commentaries about or directed at a known or unknown minor; and
-* links to third-party sites that host child sexual exploitation material.  
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
+
+**Encouraging or calling for others to harass an individual or group of people**  
+
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
+
+**Unwanted Sexual Content & Graphic Objectification**
+
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-The following behaviors are also not permitted:   
+**Insults  
+**
 
-* sharing fantasies about or promoting engagement in child sexual exploitation;
-* expressing a desire to obtain materials that feature child sexual exploitation;
-* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
-* sending sexually explicit media to a child;
-* engaging or trying to engage a child in a sexually explicit conversation;
-* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
-* identifying alleged victims of childhood sexual exploitation by name or image; and
-* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
-     
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-### What is not a violation of this policy? 
+**Violent Event Denial**  
 
-* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
-* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
-* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
-* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
-     
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-### Who can report violations of this policy? 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-Anyone can report potential violations of this policy, whether they have an X account or not.   
- 
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-### How can I report violations of this policy? 
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
- 
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### What happens if you violate this policy? 
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+Abuse and harassment
+====================
 
-In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+### Overview
+
+**June 2023**
+
   
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-### Additional resources 
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
-
-We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
-
-Child sexual exploitation policy
-================================
-
-### Overview 
-
-**October 2020**
-
-**We have a zero-tolerance child sexual exploitation policy on X.**
-
-X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
-  
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
 ### What is in violation of this policy? 
 
-Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+**Targeted harassment**
 
-* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
-* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
-* sexualized commentaries about or directed at a known or unknown minor; and
-* links to third-party sites that host child sexual exploitation material.  
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
+
+**Encouraging or calling for others to harass an individual or group of people**  
+
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
+
+**Unwanted Sexual Content & Graphic Objectification**
+
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-The following behaviors are also not permitted:   
+**Insults  
+**
 
-* sharing fantasies about or promoting engagement in child sexual exploitation;
-* expressing a desire to obtain materials that feature child sexual exploitation;
-* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
-* sending sexually explicit media to a child;
-* engaging or trying to engage a child in a sexually explicit conversation;
-* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
-* identifying alleged victims of childhood sexual exploitation by name or image; and
-* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
-     
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-### What is not a violation of this policy? 
+**Violent Event Denial**  
 
-* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
-* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
-* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
-* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
-     
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-### Who can report violations of this policy? 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-Anyone can report potential violations of this policy, whether they have an X account or not.   
- 
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-### How can I report violations of this policy? 
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
- 
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### What happens if you violate this policy? 
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+Abuse and harassment
+====================
 
-In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+### Overview
+
+**June 2023**
+
   
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-### Additional resources 
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
-
-We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
-
-Child sexual exploitation policy
-================================
-
-### Overview 
-
-**October 2020**
-
-**We have a zero-tolerance child sexual exploitation policy on X.**
-
-X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
-  
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
 ### What is in violation of this policy? 
 
-Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+**Targeted harassment**
 
-* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
-* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
-* sexualized commentaries about or directed at a known or unknown minor; and
-* links to third-party sites that host child sexual exploitation material.  
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
+
+**Encouraging or calling for others to harass an individual or group of people**  
+
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
+
+**Unwanted Sexual Content & Graphic Objectification**
+
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-The following behaviors are also not permitted:   
+**Insults  
+**
 
-* sharing fantasies about or promoting engagement in child sexual exploitation;
-* expressing a desire to obtain materials that feature child sexual exploitation;
-* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
-* sending sexually explicit media to a child;
-* engaging or trying to engage a child in a sexually explicit conversation;
-* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
-* identifying alleged victims of childhood sexual exploitation by name or image; and
-* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
-     
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-### What is not a violation of this policy? 
+**Violent Event Denial**  
 
-* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
-* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
-* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
-* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
-     
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-### Who can report violations of this policy? 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-Anyone can report potential violations of this policy, whether they have an X account or not.   
- 
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-### How can I report violations of this policy? 
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
- 
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### What happens if you violate this policy? 
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+Abuse and harassment
+====================
 
-In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+### Overview
+
+**June 2023**
+
   
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-### Additional resources 
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
-
-We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
-
-Child sexual exploitation policy
-================================
-
-### Overview 
-
-**October 2020**
-
-**We have a zero-tolerance child sexual exploitation policy on X.**
-
-X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
-  
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
 ### What is in violation of this policy? 
 
-Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+**Targeted harassment**
 
-* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
-* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
-* sexualized commentaries about or directed at a known or unknown minor; and
-* links to third-party sites that host child sexual exploitation material.  
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
+
+**Encouraging or calling for others to harass an individual or group of people**  
+
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
+
+**Unwanted Sexual Content & Graphic Objectification**
+
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-The following behaviors are also not permitted:   
+**Insults  
+**
 
-* sharing fantasies about or promoting engagement in child sexual exploitation;
-* expressing a desire to obtain materials that feature child sexual exploitation;
-* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
-* sending sexually explicit media to a child;
-* engaging or trying to engage a child in a sexually explicit conversation;
-* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
-* identifying alleged victims of childhood sexual exploitation by name or image; and
-* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
-     
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-### What is not a violation of this policy? 
+**Violent Event Denial**  
 
-* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
-* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
-* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
-* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
-     
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-### Who can report violations of this policy? 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-Anyone can report potential violations of this policy, whether they have an X account or not.   
- 
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-### How can I report violations of this policy? 
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
- 
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### What happens if you violate this policy? 
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+Abuse and harassment
+====================
 
-In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+### Overview
+
+**June 2023**
+
   
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-### Additional resources 
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
-
-We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
-
-Child sexual exploitation policy
-================================
-
-### Overview 
-
-**October 2020**
-
-**We have a zero-tolerance child sexual exploitation policy on X.**
-
-X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
-  
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
 ### What is in violation of this policy? 
 
-Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+**Targeted harassment**
 
-* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
-* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
-* sexualized commentaries about or directed at a known or unknown minor; and
-* links to third-party sites that host child sexual exploitation material.  
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
+
+**Encouraging or calling for others to harass an individual or group of people**  
+
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
+
+**Unwanted Sexual Content & Graphic Objectification**
+
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-The following behaviors are also not permitted:   
+**Insults  
+**
 
-* sharing fantasies about or promoting engagement in child sexual exploitation;
-* expressing a desire to obtain materials that feature child sexual exploitation;
-* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
-* sending sexually explicit media to a child;
-* engaging or trying to engage a child in a sexually explicit conversation;
-* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
-* identifying alleged victims of childhood sexual exploitation by name or image; and
-* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
-     
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-### What is not a violation of this policy? 
+**Violent Event Denial**  
 
-* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
-* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
-* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
-* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
-     
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-### Who can report violations of this policy? 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-Anyone can report potential violations of this policy, whether they have an X account or not.   
- 
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-### How can I report violations of this policy? 
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
- 
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### What happens if you violate this policy? 
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+Abuse and harassment
+====================
 
-In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+### Overview
+
+**June 2023**
+
   
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-### Additional resources 
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
-
-We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
-
-Child sexual exploitation policy
-================================
-
-### Overview 
-
-**October 2020**
-
-**We have a zero-tolerance child sexual exploitation policy on X.**
-
-X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
-  
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
 ### What is in violation of this policy? 
 
-Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+**Targeted harassment**
 
-* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
-* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
-* sexualized commentaries about or directed at a known or unknown minor; and
-* links to third-party sites that host child sexual exploitation material.  
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
+
+**Encouraging or calling for others to harass an individual or group of people**  
+
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
+
+**Unwanted Sexual Content & Graphic Objectification**
+
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-The following behaviors are also not permitted:   
+**Insults  
+**
 
-* sharing fantasies about or promoting engagement in child sexual exploitation;
-* expressing a desire to obtain materials that feature child sexual exploitation;
-* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
-* sending sexually explicit media to a child;
-* engaging or trying to engage a child in a sexually explicit conversation;
-* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
-* identifying alleged victims of childhood sexual exploitation by name or image; and
-* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
-     
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-### What is not a violation of this policy? 
+**Violent Event Denial**  
 
-* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
-* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
-* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
-* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
-     
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-### Who can report violations of this policy? 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-Anyone can report potential violations of this policy, whether they have an X account or not.   
- 
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-### How can I report violations of this policy? 
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
- 
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### What happens if you violate this policy? 
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+Abuse and harassment
+====================
 
-In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+### Overview
+
+**June 2023**
+
   
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-### Additional resources 
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
-
-We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
-
-Child sexual exploitation policy
-================================
-
-### Overview 
-
-**October 2020**
-
-**We have a zero-tolerance child sexual exploitation policy on X.**
-
-X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
-  
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
 ### What is in violation of this policy? 
 
-Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+**Targeted harassment**
 
-* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
-* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
-* sexualized commentaries about or directed at a known or unknown minor; and
-* links to third-party sites that host child sexual exploitation material.  
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
+
+**Encouraging or calling for others to harass an individual or group of people**  
+
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
+
+**Unwanted Sexual Content & Graphic Objectification**
+
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-The following behaviors are also not permitted:   
+**Insults  
+**
 
-* sharing fantasies about or promoting engagement in child sexual exploitation;
-* expressing a desire to obtain materials that feature child sexual exploitation;
-* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
-* sending sexually explicit media to a child;
-* engaging or trying to engage a child in a sexually explicit conversation;
-* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
-* identifying alleged victims of childhood sexual exploitation by name or image; and
-* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
-     
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-### What is not a violation of this policy? 
+**Violent Event Denial**  
 
-* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
-* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
-* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
-* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
-     
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-### Who can report violations of this policy? 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-Anyone can report potential violations of this policy, whether they have an X account or not.   
- 
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-### How can I report violations of this policy? 
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
- 
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### What happens if you violate this policy? 
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+Abuse and harassment
+====================
 
-In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+### Overview
+
+**June 2023**
+
   
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-### Additional resources 
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
-
-We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
-
-Child sexual exploitation policy
-================================
-
-### Overview 
-
-**October 2020**
-
-**We have a zero-tolerance child sexual exploitation policy on X.**
-
-X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
-  
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
 ### What is in violation of this policy? 
 
-Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+**Targeted harassment**
 
-* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
-* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
-* sexualized commentaries about or directed at a known or unknown minor; and
-* links to third-party sites that host child sexual exploitation material.  
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
+
+**Encouraging or calling for others to harass an individual or group of people**  
+
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
+
+**Unwanted Sexual Content & Graphic Objectification**
+
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-The following behaviors are also not permitted:   
+**Insults  
+**
 
-* sharing fantasies about or promoting engagement in child sexual exploitation;
-* expressing a desire to obtain materials that feature child sexual exploitation;
-* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
-* sending sexually explicit media to a child;
-* engaging or trying to engage a child in a sexually explicit conversation;
-* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
-* identifying alleged victims of childhood sexual exploitation by name or image; and
-* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
-     
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-### What is not a violation of this policy? 
+**Violent Event Denial**  
 
-* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
-* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
-* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
-* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
-     
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-### Who can report violations of this policy? 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-Anyone can report potential violations of this policy, whether they have an X account or not.   
- 
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-### How can I report violations of this policy? 
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
- 
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### What happens if you violate this policy? 
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+Abuse and harassment
+====================
 
-In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+### Overview
+
+**June 2023**
+
   
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-### Additional resources 
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
-
-We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
-
-Child sexual exploitation policy
-================================
-
-### Overview 
-
-**October 2020**
-
-**We have a zero-tolerance child sexual exploitation policy on X.**
-
-X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
-  
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
 ### What is in violation of this policy? 
 
-Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+**Targeted harassment**
 
-* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
-* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
-* sexualized commentaries about or directed at a known or unknown minor; and
-* links to third-party sites that host child sexual exploitation material.  
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
+
+**Encouraging or calling for others to harass an individual or group of people**  
+
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
+
+**Unwanted Sexual Content & Graphic Objectification**
+
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-The following behaviors are also not permitted:   
+**Insults  
+**
 
-* sharing fantasies about or promoting engagement in child sexual exploitation;
-* expressing a desire to obtain materials that feature child sexual exploitation;
-* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
-* sending sexually explicit media to a child;
-* engaging or trying to engage a child in a sexually explicit conversation;
-* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
-* identifying alleged victims of childhood sexual exploitation by name or image; and
-* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
-     
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-### What is not a violation of this policy? 
+**Violent Event Denial**  
 
-* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
-* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
-* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
-* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
-     
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-### Who can report violations of this policy? 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-Anyone can report potential violations of this policy, whether they have an X account or not.   
- 
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-### How can I report violations of this policy? 
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
- 
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### What happens if you violate this policy? 
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+Abuse and harassment
+====================
 
-In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+### Overview
+
+**June 2023**
+
   
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-### Additional resources 
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
-
-We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
-
-Child sexual exploitation policy
-================================
-
-### Overview 
-
-**October 2020**
-
-**We have a zero-tolerance child sexual exploitation policy on X.**
-
-X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
-  
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
 ### What is in violation of this policy? 
 
-Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+**Targeted harassment**
 
-* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
-* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
-* sexualized commentaries about or directed at a known or unknown minor; and
-* links to third-party sites that host child sexual exploitation material.  
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
+
+**Encouraging or calling for others to harass an individual or group of people**  
+
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
+
+**Unwanted Sexual Content & Graphic Objectification**
+
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-The following behaviors are also not permitted:   
+**Insults  
+**
 
-* sharing fantasies about or promoting engagement in child sexual exploitation;
-* expressing a desire to obtain materials that feature child sexual exploitation;
-* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
-* sending sexually explicit media to a child;
-* engaging or trying to engage a child in a sexually explicit conversation;
-* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
-* identifying alleged victims of childhood sexual exploitation by name or image; and
-* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
-     
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-### What is not a violation of this policy? 
+**Violent Event Denial**  
 
-* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
-* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
-* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
-* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
-     
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-### Who can report violations of this policy? 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-Anyone can report potential violations of this policy, whether they have an X account or not.   
- 
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-### How can I report violations of this policy? 
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
- 
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### What happens if you violate this policy? 
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+Abuse and harassment
+====================
 
-In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+### Overview
+
+**June 2023**
+
   
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-### Additional resources 
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
-
-We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
-
-Child sexual exploitation policy
-================================
-
-### Overview 
-
-**October 2020**
-
-**We have a zero-tolerance child sexual exploitation policy on X.**
-
-X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
-  
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
 ### What is in violation of this policy? 
 
-Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+**Targeted harassment**
 
-* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
-* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
-* sexualized commentaries about or directed at a known or unknown minor; and
-* links to third-party sites that host child sexual exploitation material.  
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
+
+**Encouraging or calling for others to harass an individual or group of people**  
+
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
+
+**Unwanted Sexual Content & Graphic Objectification**
+
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-The following behaviors are also not permitted:   
+**Insults  
+**
 
-* sharing fantasies about or promoting engagement in child sexual exploitation;
-* expressing a desire to obtain materials that feature child sexual exploitation;
-* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
-* sending sexually explicit media to a child;
-* engaging or trying to engage a child in a sexually explicit conversation;
-* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
-* identifying alleged victims of childhood sexual exploitation by name or image; and
-* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
-     
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-### What is not a violation of this policy? 
+**Violent Event Denial**  
 
-* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
-* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
-* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
-* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
-     
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-### Who can report violations of this policy? 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-Anyone can report potential violations of this policy, whether they have an X account or not.   
- 
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-### How can I report violations of this policy? 
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
- 
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### What happens if you violate this policy? 
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+Abuse and harassment
+====================
 
-In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+### Overview
+
+**June 2023**
+
   
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-### Additional resources 
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
-
-We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
-
-Child sexual exploitation policy
-================================
-
-### Overview 
-
-**October 2020**
-
-**We have a zero-tolerance child sexual exploitation policy on X.**
-
-X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
-  
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
 ### What is in violation of this policy? 
 
-Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+**Targeted harassment**
 
-* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
-* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
-* sexualized commentaries about or directed at a known or unknown minor; and
-* links to third-party sites that host child sexual exploitation material.  
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
+
+**Encouraging or calling for others to harass an individual or group of people**  
+
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
+
+**Unwanted Sexual Content & Graphic Objectification**
+
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-The following behaviors are also not permitted:   
+**Insults  
+**
 
-* sharing fantasies about or promoting engagement in child sexual exploitation;
-* expressing a desire to obtain materials that feature child sexual exploitation;
-* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
-* sending sexually explicit media to a child;
-* engaging or trying to engage a child in a sexually explicit conversation;
-* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
-* identifying alleged victims of childhood sexual exploitation by name or image; and
-* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
-     
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-### What is not a violation of this policy? 
+**Violent Event Denial**  
 
-* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
-* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
-* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
-* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
-     
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-### Who can report violations of this policy? 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-Anyone can report potential violations of this policy, whether they have an X account or not.   
- 
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-### How can I report violations of this policy? 
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
- 
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### What happens if you violate this policy? 
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+Abuse and harassment
+====================
 
-In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+### Overview
+
+**June 2023**
+
   
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-### Additional resources 
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
-
-We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
-
-Child sexual exploitation policy
-================================
-
-### Overview 
-
-**October 2020**
-
-**We have a zero-tolerance child sexual exploitation policy on X.**
-
-X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
-  
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
 ### What is in violation of this policy? 
 
-Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+**Targeted harassment**
 
-* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
-* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
-* sexualized commentaries about or directed at a known or unknown minor; and
-* links to third-party sites that host child sexual exploitation material.  
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
+
+**Encouraging or calling for others to harass an individual or group of people**  
+
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
+
+**Unwanted Sexual Content & Graphic Objectification**
+
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-The following behaviors are also not permitted:   
+**Insults  
+**
 
-* sharing fantasies about or promoting engagement in child sexual exploitation;
-* expressing a desire to obtain materials that feature child sexual exploitation;
-* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
-* sending sexually explicit media to a child;
-* engaging or trying to engage a child in a sexually explicit conversation;
-* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
-* identifying alleged victims of childhood sexual exploitation by name or image; and
-* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
-     
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-### What is not a violation of this policy? 
+**Violent Event Denial**  
 
-* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
-* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
-* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
-* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
-     
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-### Who can report violations of this policy? 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-Anyone can report potential violations of this policy, whether they have an X account or not.   
- 
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-### How can I report violations of this policy? 
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
- 
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### What happens if you violate this policy? 
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+Abuse and harassment
+====================
 
-In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+### Overview
+
+**June 2023**
+
   
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-### Additional resources 
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
-
-We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
-
-Child sexual exploitation policy
-================================
-
-### Overview 
-
-**October 2020**
-
-**We have a zero-tolerance child sexual exploitation policy on X.**
-
-X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
-  
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
 ### What is in violation of this policy? 
 
-Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+**Targeted harassment**
 
-* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
-* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
-* sexualized commentaries about or directed at a known or unknown minor; and
-* links to third-party sites that host child sexual exploitation material.  
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
+
+**Encouraging or calling for others to harass an individual or group of people**  
+
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
+
+**Unwanted Sexual Content & Graphic Objectification**
+
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-The following behaviors are also not permitted:   
+**Insults  
+**
 
-* sharing fantasies about or promoting engagement in child sexual exploitation;
-* expressing a desire to obtain materials that feature child sexual exploitation;
-* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
-* sending sexually explicit media to a child;
-* engaging or trying to engage a child in a sexually explicit conversation;
-* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
-* identifying alleged victims of childhood sexual exploitation by name or image; and
-* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
-     
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-### What is not a violation of this policy? 
+**Violent Event Denial**  
 
-* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
-* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
-* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
-* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
-     
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-### Who can report violations of this policy? 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-Anyone can report potential violations of this policy, whether they have an X account or not.   
- 
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-### How can I report violations of this policy? 
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
- 
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### What happens if you violate this policy? 
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+Abuse and harassment
+====================
 
-In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+### Overview
+
+**June 2023**
+
   
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-### Additional resources 
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
-
-We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
-
-Child sexual exploitation policy
-================================
-
-### Overview 
-
-**October 2020**
-
-**We have a zero-tolerance child sexual exploitation policy on X.**
-
-X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
-  
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
 ### What is in violation of this policy? 
 
-Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+**Targeted harassment**
 
-* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
-* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
-* sexualized commentaries about or directed at a known or unknown minor; and
-* links to third-party sites that host child sexual exploitation material.  
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
+
+**Encouraging or calling for others to harass an individual or group of people**  
+
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
+
+**Unwanted Sexual Content & Graphic Objectification**
+
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-The following behaviors are also not permitted:   
+**Insults  
+**
 
-* sharing fantasies about or promoting engagement in child sexual exploitation;
-* expressing a desire to obtain materials that feature child sexual exploitation;
-* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
-* sending sexually explicit media to a child;
-* engaging or trying to engage a child in a sexually explicit conversation;
-* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
-* identifying alleged victims of childhood sexual exploitation by name or image; and
-* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
-     
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-### What is not a violation of this policy? 
+**Violent Event Denial**  
 
-* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
-* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
-* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
-* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
-     
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-### Who can report violations of this policy? 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-Anyone can report potential violations of this policy, whether they have an X account or not.   
- 
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-### How can I report violations of this policy? 
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
- 
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### What happens if you violate this policy? 
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+Abuse and harassment
+====================
 
-In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+### Overview
+
+**June 2023**
+
   
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-### Additional resources 
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
-
-We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
-
-Child sexual exploitation policy
-================================
-
-### Overview 
-
-**October 2020**
-
-**We have a zero-tolerance child sexual exploitation policy on X.**
-
-X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
-  
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
 ### What is in violation of this policy? 
 
-Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+**Targeted harassment**
 
-* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
-* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
-* sexualized commentaries about or directed at a known or unknown minor; and
-* links to third-party sites that host child sexual exploitation material.  
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
+
+**Encouraging or calling for others to harass an individual or group of people**  
+
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
+
+**Unwanted Sexual Content & Graphic Objectification**
+
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-The following behaviors are also not permitted:   
+**Insults  
+**
 
-* sharing fantasies about or promoting engagement in child sexual exploitation;
-* expressing a desire to obtain materials that feature child sexual exploitation;
-* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
-* sending sexually explicit media to a child;
-* engaging or trying to engage a child in a sexually explicit conversation;
-* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
-* identifying alleged victims of childhood sexual exploitation by name or image; and
-* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
-     
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-### What is not a violation of this policy? 
+**Violent Event Denial**  
 
-* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
-* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
-* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
-* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
-     
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-### Who can report violations of this policy? 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-Anyone can report potential violations of this policy, whether they have an X account or not.   
- 
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-### How can I report violations of this policy? 
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
- 
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### What happens if you violate this policy? 
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+Abuse and harassment
+====================
 
-In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+### Overview
+
+**June 2023**
+
   
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-### Additional resources 
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
-
-We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
-
-Child sexual exploitation policy
-================================
-
-### Overview 
-
-**October 2020**
-
-**We have a zero-tolerance child sexual exploitation policy on X.**
-
-X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
-  
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
 ### What is in violation of this policy? 
 
-Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+**Targeted harassment**
 
-* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
-* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
-* sexualized commentaries about or directed at a known or unknown minor; and
-* links to third-party sites that host child sexual exploitation material.  
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
+
+**Encouraging or calling for others to harass an individual or group of people**  
+
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
+
+**Unwanted Sexual Content & Graphic Objectification**
+
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-The following behaviors are also not permitted:   
+**Insults  
+**
 
-* sharing fantasies about or promoting engagement in child sexual exploitation;
-* expressing a desire to obtain materials that feature child sexual exploitation;
-* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
-* sending sexually explicit media to a child;
-* engaging or trying to engage a child in a sexually explicit conversation;
-* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
-* identifying alleged victims of childhood sexual exploitation by name or image; and
-* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
-     
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-### What is not a violation of this policy? 
+**Violent Event Denial**  
 
-* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
-* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
-* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
-* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
-     
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-### Who can report violations of this policy? 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-Anyone can report potential violations of this policy, whether they have an X account or not.   
- 
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-### How can I report violations of this policy? 
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
- 
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### What happens if you violate this policy? 
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+Abuse and harassment
+====================
 
-In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+### Overview
+
+**June 2023**
+
   
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-### Additional resources 
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
-
-We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
-
-Child sexual exploitation policy
-================================
-
-### Overview 
-
-**October 2020**
-
-**We have a zero-tolerance child sexual exploitation policy on X.**
-
-X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
-  
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
 ### What is in violation of this policy? 
 
-Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+**Targeted harassment**
 
-* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
-* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
-* sexualized commentaries about or directed at a known or unknown minor; and
-* links to third-party sites that host child sexual exploitation material.  
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
+
+**Encouraging or calling for others to harass an individual or group of people**  
+
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
+
+**Unwanted Sexual Content & Graphic Objectification**
+
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-The following behaviors are also not permitted:   
+**Insults  
+**
 
-* sharing fantasies about or promoting engagement in child sexual exploitation;
-* expressing a desire to obtain materials that feature child sexual exploitation;
-* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
-* sending sexually explicit media to a child;
-* engaging or trying to engage a child in a sexually explicit conversation;
-* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
-* identifying alleged victims of childhood sexual exploitation by name or image; and
-* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
-     
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-### What is not a violation of this policy? 
+**Violent Event Denial**  
 
-* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
-* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
-* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
-* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
-     
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-### Who can report violations of this policy? 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-Anyone can report potential violations of this policy, whether they have an X account or not.   
- 
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-### How can I report violations of this policy? 
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
- 
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### What happens if you violate this policy? 
-
-In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
-
-In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
-  
-
-### Additional resources 
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
-
-We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
