@@ -2,7 +2,7 @@
 
 Politique de confidentialité
 
-Qu’est-ce que la Politique de confidentialité et que couvre-t-elle ?
+Qu’est-ce que la Politique de confidentialité et que couvre-t-elle ?
 
 Date effective : 15 juin 2023 | [Voir la version imprimable](https://mbasic.facebook.com/privacy/policy/printable/) | [Afficher les versions précédentes](https://fr-fr.facebook.com/privacy/policy/?show_versions=1)
 
