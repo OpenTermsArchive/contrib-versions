@@ -1,13 +1,13 @@
 Privacy Policy
 ==============
 
-_Last Update: August 2nd, 2023_
+_Last Update: October 10th, 2023_
 
 Dailymotion respects your privacy and has developed this **Privacy Policy** to present our commitment to protecting your privacy and to explain how we collect, use, and share **Personal Data** from or about you in connection with your use of the Dailymotion Service.
 
-If you reside in a country that is part of the [European Economic Area](https://en.wikipedia.org/wiki/European_Economic_Area) (including in the United Kingdom), or Switzerland (collectively referred to as “**EEA**”), any reference to “**Dailymotion**“, “**we**“, “**us**“, or “**our**” in this Privacy Policy will always refer to “Dailymotion SA” whose details are provided [here](http://www.dailymotion.com/legal/infos).
+If you reside in a country that is part of the [European Economic Area](https://en.wikipedia.org/wiki/European_Economic_Area) United Kingdom, or Switzerland (collectively referred to as “**EEA**” unless otherwise explicitly stated herein), any reference to “**Dailymotion**“, “**we**“, “**us**“, or “**our**” in this Privacy Policy will always refer to “Dailymotion SA” whose details are provided [here](http://www.dailymotion.com/legal/infos).
 
-If you reside in a country that is not part of the European Economic Area or Switzerland, any reference to “**Dailymotion**“, “**we**“, “**us**“, or “**our**” in this Privacy Policy will always refer to “**Dailymotion Inc.**” whose details are provided [here](http://www.dailymotion.com/legal/infos).
+If you reside in a country that is not part of the European Economic Area, UK or Switzerland, any reference to “**Dailymotion**“, “**we**“, “**us**“, or “**our**” in this Privacy Policy will always refer to “**Dailymotion Inc.**” whose details are provided [here](http://www.dailymotion.com/legal/infos).
 
 We encourage you to read this Privacy Policy carefully when using the Dailymotion Service or transacting business with us.
 
@@ -59,12 +59,6 @@ Dailymotion participates in the [“Transparency & Consent Framework”](https:/
 
 When Processing is based on consent or legitimate interest, You can always choose not to consent to Processing of some of your Data, withdraw your consent, or oppose to such Processing (unless the applicable laws authorize us not to take into account such decision) as further explained herein. However, this may limit your ability to take full advantage of the many features we offer and, consequently, deteriorate your user experience. Furthermore, Dailymotion Service offers to Visitors access to a multitude of videos without charging a corresponding fee. This is possible only by associating advertisements to the available videos. Content and ads are both integral parts of our Service and the Dailymotion Service cannot exist without either of them. Not consenting to Processing of your Data will not eliminate or limit the number of ads you are shown; it may simply result in ads which are more repetitive and likely less interesting to you.
 
-### 1.3. Transfer of Data
-
-The Data collected by us through our Service may be sent to and stored on servers located in data centers primarily located in France, or in the United States and Singapore.
-
-Dailymotion Data Processors, be it Dailymotion’s subsidiaries or companies we contract with for certain Processing operations, may process the Data outside of your country of residence. When applicable, we ensure that legally required, appropriate contractual mechanisms are present prior to transfers of Data outside of your country of residence. In particular, when Data of EEA residents is transferred outside of the EEA to a country that European Union authorities do not consider as offering an equivalent level of protection, such transfer  relies on the [the Data Privacy Framework](https://www.dataprivacyframework.gov/s/participant-search) European Commission Standard Contractual Clauses or on Binding Corporate Rules.
-
 **2\. Data we collect**
 -----------------------
 
@@ -84,7 +78,7 @@ We collect information when you use the Dailymotion Service or view Dailymotion 
 
 #### **2.1.3. Account Data from Third-Party Services** 
 
-If you choose to log-in, access or otherwise connect to the Dailymotion Service or contact Dailymotion through a third-party service (e.g. Facebook), such method being completely optional and subject to your exclusive decision, we may, in order to execute your choice of a log-in or contact method, collect your email, gender, birthday as well as any other information you make public using that service. Depending on the third-party log-in service used and its current implementation policies, we may also collect additional information you have authorized the third-party service to share with us (such as, for example, your user ID, billing information, etc.).
+If you choose to log-in, access or otherwise connect to the Dailymotion Service or contact Dailymotion through a third-party service (e.g. Google), such method being completely optional and subject to your exclusive decision, we may, in order to execute your choice of a log-in or contact method, collect your email, gender, birthday as well as any other information you make public using that service. Depending on the third-party log-in service used and its current implementation policies, we may also collect additional information you have authorized the third-party service to share with us (such as, for example, your user ID, billing information, etc.).
 
 #### **2.1.4. Third-Party Data**
 
@@ -195,7 +189,7 @@ We may share personally identifiable or non-personally identifiable information 
 
 ### 4.1. Third Party Login Services
 
-If you connect to the Dailymotion Service through your Facebook or Google accounts, you may choose to share information about your activities on the Dailymotion Service with Facebook or Google. Furthermore, if you visit Dailymotion while logged-in to Facebook or Google, then those entities may record your browser details and combine technical information from your web browser with other information that each of them already knows about you. Your decision to share information about your activities on the Dailymotion Service within your Facebook or Google account may result in Dailymotion sending relevant information about you to Facebook or Google. Facebook or Google may then make that information visible to its own users in accordance with applicable law, its own data and privacy policies, and your Facebook or Google privacy settings. We recommend you familiarize yourself with Facebook’s and Google’s respective data and privacy policies and available account privacy controls. We remind you that Dailymotion is independent from these third-party companies and that any privacy settings you might have chosen on the Dailymotion Service are not applicable on Facebook, Google or any other social network account.
+If you connect to the Dailymotion Service through your Google account, you may choose to share information about your activities on the Dailymotion Service with Google. Furthermore, if you visit Dailymotion while logged-in to Google, then those entities may record your browser details and combine technical information from your web browser with other information that each of them already knows about you. Your decision to share information about your activities on the Dailymotion Service within your Google account may result in Dailymotion sending relevant information about you to Google. Google may then make that information visible to its own users in accordance with applicable law, its own data and privacy policies, and your Google privacy settings. We recommend you familiarize yourself with Google’s respective data and privacy policies and available account privacy controls. We remind you that Dailymotion is independent from these third-party companies and that any privacy settings you might have chosen on the Dailymotion Service are not applicable on Google or any other social network account.
 
 ### 4.2. Commercial Partners
 
@@ -248,7 +242,7 @@ Despite these efforts, there is always a possibility that a breach in data trans
 
 If you have an account with us, your Personal Data can be reviewed online from within your account settings. You can also update your information either via the account settings or by contacting us (see **Section 11.5 “Contact Us**” for more details).
 
-Your account is unique to you and protected by a user-generated password.  We advise you to choose a unique and complex password, not to disclose it to third parties, and to change it if you have any doubts as to its confidentiality. Do not hesitate to contact us if you observe any suspicious activity on your account. Note that if you use third party log-in solution (e.g. Facebook or Google), Dailymotion does not store or manage your password. Instead, it is that the policies of the third party log-in solution that apply to the management of your password.
+Your account is unique to you and protected by a user-generated password.  We advise you to choose a unique and complex password, not to disclose it to third parties, and to change it if you have any doubts as to its confidentiality. Do not hesitate to contact us if you observe any suspicious activity on your account. Note that if you use third party log-in solution (e.g. Google), Dailymotion does not store or manage your password. Instead, it is that the policies of the third party log-in solution that apply to the management of your password.
 
 Please note that if you allow others to use your account (including by authorizing others to set up specific accesses within your account), they may be able to view information about your account (e.g. your email address) or any of the playlists created within your library (e.g. videos you have viewed). You should exercise caution while handling and disclosing your Personal Data on our Service and avoid sending it through insecure email. Please refer to the [Federal Trade Commission’s website](https://www.consumer.ftc.gov/topics/privacy-identity-online-security) at for further information on how to protect yourself from identity theft.
 
@@ -281,7 +275,7 @@ If you are the parent or legal guardian of a Junior, and that child has somehow 
 
 Depending on your country of residence, you may be entitled to access, correct and/or delete the Data you have provided to us, by requesting to do so through the setting of your account, or by reaching out to the [**Dailymotion Help Center**](https://faq.dailymotion.com/hc/en-us/requests/new) via the dedicated section. When justified by the circumstances of your request, we may ask you for a copy of your ID or any other relevant documents, in order to confirm that you are indeed the data subject or a person authorized to exercise these rights on behalf of a data subject, and to determine the laws and procedures applicable to your request.
 
-If you are a resident of EEA, UK, Switzerland, California, Brazil, Korea or Turkey (Türkiye), you may find in this Section (Sections 8.5 through 8.9)  some specific information and procedures applicable under the laws of your country of residence.
+If you are a resident of European Economic Area, UK, Switzerland, California, Brazil, Korea or Turkey (Türkiye), you may find in this Section (Sections 8.5 through 8.9)  some specific information and procedures applicable under the laws of your country of residence.
 
 ### 8.2. Change of Privacy Settings for Promotional Communications
 
@@ -323,13 +317,11 @@ We remind you that when using the Dailymotion Service, your Data may be Processe
 
 For further details regarding Dailymotion role in the processing of your Data, please refer to Section 1.1.
 
-#### **8.5.2. Privacy Shield**
+#### **8.5.2. Data Privacy Framework**
 
-Your Personal Data may be processed by Dailymotion Inc. a wholly owned subsidiary of Dailymotion SA. At the date of publication of this latest version of our Privacy Policy, Dailymotion Inc. is registered with the Privacy Shield and committed itself to respecting set standards in processing Personal Data of EEA and Swiss data subjects. Dailymotion has designated the EU Data Protection Authorities or the Swiss FDPIC, as applicable, as the entities competent for dispute resolution purposes under the Privacy Shield proceedings. You may regularly verify Dailymotion Inc.’s self-certification with the Privacy Shield by consulting the list of Privacy Shield participants which may be found [here](https://www.privacyshield.gov/list). If you have a question or wish to file a complaint regarding the covered data, please reach out to Dailymotion Inc whose contact information can be found in the “Contact Us” section of this Privacy Policy. Please include within your request a copy of your ID, information about your country of residence, and any information allowing us to identify your account on the Dailymotion Service. Dailymotion Inc. will reply to you within 30 days.
+Your Personal Data may be processed by Dailymotion Inc. a wholly owned subsidiary of Dailymotion SA. At the date of publication of this latest version of our Privacy Policy, Dailymotion Inc. is registered with the Data Privacy Framework (“DPF”) and committed itself to respecting set standards in processing Personal Data of European Economic Area, Swiss and UK data subjects. You may regularly verify Dailymotion Inc.’s self-certification with the DPF by consulting the list of  its participants available [here](https://www.privacyshield.gov/list). If you have a question or wish to file a complaint regarding the covered data, please reach out to Dailymotion Inc whose contact information can be found in the “Contact Us” section of this Privacy Policy. Please include within your request a copy of your ID, information about your country of residence, and any information allowing us to identify your account on the Dailymotion Service. Dailymotion Inc. will reply to you within 30 days.
 
-If you are not satisfied with the final Dailymotion Inc. decision regarding your complaint, you may use the other appeal venues defined in the Privacy Shield. In particular, upon exhaustion of the appeal rights with Dailymotion Inc. you may file your complaint with the entity declared by Dailymotion Inc. with the Privacy Shield as competent for dispute resolution purposes, and if not satisfied with that entity’s decision, use the arbitration procedure provided for under the Privacy Shield. For further information on applicable procedures please visit the [**Privacy Shield website**](https://www.privacyshield.gov/Program-Overview).
-
-Note that since the invalidation of the Privacy Shield, Dailymotion no longer relies on Dailymotion Inc.’s participation in the Privacy Shield as the legal ground for international transfers of Personal Data of EEA data subjects to Dailymotion Inc. For information on the international transfer of data, please review **Section 10 ‘International Data Transfers and Standard Contractual Clauses’** below.
+If you are not satisfied with the final Dailymotion Inc. decision regarding your complaint, you may use the other appeal venues defined in the DPF. In particular, upon exhaustion of the appeal rights with Dailymotion Inc. you may file your complaint with the entity declared by Dailymotion Inc. with the DPF as competent for dispute resolution purposes, namely EU Data Protection Authorities, the Swiss FDPIC or the UK ICDR-AAA DPF IRM Service,  and if not satisfied with that entity’s decision, use the arbitration procedure provided under the DPF. For further information on applicable procedures please visit the [**DPF website**](https://www.privacyshield.gov/Program-Overview).
 
 ### 8.6. Additional Choices for the Residents of the United States of America
 
@@ -492,15 +484,17 @@ If you are a California resident and would like to request a copy of this inform
 
 If you are a California resident under the age of 18 and a registered user of the Dailymotion Service, you may request and obtain removal of Content or information that you have posted publicly on the Dailymotion Service. To make this request, please contact the [**Dailymotion Help Center**](https://faq.dailymotion.com/hc/en-us/requests/new) and include a detailed description of the specific content or information you would like to remove and confirming your country and state of residence. Please note that this removal does not ensure complete or comprehensive removal of the Content or information posted on the Dailymotion Service by you, as there may be circumstances in which the law does not require or allow removal.
 
-#### 8.6.2. Additional Information and Choices for Residents of the United States of America, except California
+#### 8.6.2. Additional Information and Choices for Residents of [U.S.A. Privacy Law States](https://legal.dailymotion.com/en/us-states-privacy-laws), except California
 
 In addition to any other information which you may find in this Privacy Policy and in particular the description of how Dailymotion may process your personal information (“**PI**”) provided in Section 8.6.1 “Additional Choices for California Residents ”, this section is intended to provide you with specific information as may be required under the local privacy laws of your state of residence.
 
-Note that each state legislation provides distinct definitions of the key terms used in relation to the processing of PI. For example, when PI is disclosed to third parties for cross-context targeted advertising (i.e. information collected when you use different services serves to tailor the ads you see on our Service), the California law refers to such disclosure as “Share” while the Virginia law uses the term processing for the purposes of “Targeted Advertising”.   We invite you to consult the applicable state laws if you wish to know the exact definitions of different privacy-related terms.
+Each state legislation provides distinct definitions of the key terms used in relation to the processing of PI. For example, when PI is disclosed to third parties for cross-context targeted advertising (i.e. information collected when you use different services serves to tailor the ads you see on our Service), the California law refers to it as “Share” while the Virginia law uses the term processing for the purposes of “Targeted Advertising”.  Additionally, each state law defines independently the date on which you start benefiting from the rights provided to you. We invite you to consult the [applicable state laws](https://legal.dailymotion.com/en/us-states-privacy-laws) to know the exact definitions of different privacy-related terms and the entry into force of the rights you benefit from.
 
-#####   **8.6.2.a. Residents of the State of Virginia, Colorado and Connecticut**
+Unless otherwise indicated in the present Section 8, all references to Share under Section 8.6 refer to the processing of PI for the purposes of Targeted Advertisement. Any other term has the meaning assigned to it independently under each applicable state privacy law.
 
-If you are a resident of Virginia, Colorado or Connecticut, we inform you that Dailymotion does not process your PI for the purposes of profiling in furtherance of decisions that produce legal or similarly significant effects concerning consumers.  Dailymotion may disclose your PI in a commercial context, in particularly when delivering tailored ads. However, Dailymotion is not a data broker and does not sell your PI to third parties as this term is commonly understood.
+#####   **8.6.2.a. Residents of [U.S.A Privacy Law States](https://legal.dailymotion.com/en/us-states-privacy-laws)**
+
+We inform you that Dailymotion does not process your PI for the purposes of profiling in furtherance of decisions that produce legal or similarly significant effects concerning consumers.  Dailymotion may disclose your PI in a commercial context, in particularly when delivering tailored ads. However, Dailymotion is not a data broker and does not sell your PI to third parties as this term is commonly understood.
 
 Please refer to section 8.6.1. for information on how Dailymotion may process your PI.
 
@@ -509,19 +503,15 @@ In particular:
 * For information on the purposes of Dailymotion’s processing of your PI please refer to Section 8.6.1.a.ii  “Collected PI: Collection, Disclosure, Sale and Share”
 * For information on the categories of personal data disclosed to third parties, the purposes of such disclosure and the categories of third parties to whom we disclose your PI,  please refer to section 8.6.1.a.ii.1. “Collected PI: Categories, Sources and the Purposes It is Used for and the Categories of Third Parties to Whom Your PI is Disclosed”. Note that Dailymotion may disclose your de-identified PI to third parties such as Content right holders or advertisers for reporting purposes. Such reports contain aggregated information not intended to identify you directly.
 
-Dailymotion finances its commercial activities from advertising revenues. The presence of advertisement is an essential part of our Service. As part of that activity, we may process your PI to show you the ads believed to be of interest to you. We may also Share your PI with third parties for the purpose of Targeted Advertisement. In such a case, your PI related to your use of the Dailymotion Service is combined with information derived from your use of other services,  to select ads that are believed to correspond to your interests.  You have a right to opt-out from the processing of your PI for the purpose of Targeting Advertising by either exercising your choice directly on our Service, by following the link “[Do Not Sell My Personal Information or Share/Process It for Purpose of Targeted Advertising](https://www.dailymotion.com/legal/usprivacy)” (or “Don’t Sell/Share my Personal Information or Target Ads” or “Opt-Out Sale/Share/Targeted Ads” if accessing our Service through Dailymotion Player embedded on third party websites or apps or while using a small-screen device) or by contacting our [Customer Service](mailto:feedback@dailymotion.com). The Opt-Out links may not be available or operational if you access our Service outside your state of residence.  Opting-out will not stop ads from being shown to you but the ads you will see will most likely be less pertinent as they will be tailored using only the information derived by us from your use of our Service.
+Dailymotion finances its commercial activities from advertising revenues. The presence of advertisement is an essential part of our Service. Consequently, we may process your PI to show you the ads believed to be of interest to you. We may also Share your PI with third parties for the purpose of Targeted Advertisement. In such case, your PI related to your use of the Dailymotion Service is combined by these third-parties with information about your use of other services,  to select ads that are believed to correspond to your interests.  You have a right to opt-out from the processing of your PI for the purpose of Targeting Advertising by either exercising your choice directly on our Service, by following the link “[Do Not Sell My Personal Information or Share/Process It for Purpose of Targeted Advertising](https://www.dailymotion.com/legal/usprivacy)” (or “Don’t Sell/Share my Personal Information or Target Ads” or “Opt-Out Sale/Share/Targeted Ads” if accessing our Service through Dailymotion Player embedded on third party websites or apps or while using a small-screen device) or by contacting our [Customer Service](mailto:feedback@dailymotion.com). The Opt-Out links may not be available or operational if you access our Service outside your state of residence.  Opting-out will not stop advertisings but the ads you will see might be less pertinent, as they will be based only the information we derive from your use of our Service.
 
-Additionally, if you wish to exercise any of the rights granted under your state’s privacy laws (namely: the right to be informed, the right to access, the right to correction, the right to deletion, the right to opt-out, the right to data portability) you may contact our [Customer Service](mailto:feedback@dailymotion.com) and indicate your state of residence and the right(s) you wish to exercise. If you disagree with our reply to your request,  you may appeal it by filing an appeal request with our [Customer Service](mailto:feedback@dailymotion.com), with such  appeal including the original request and reply provided by Dailymotion.  Note that your appeal will be examined by a specialized team different from the one that provided the original reply. If you wish to contest the appeal decision, you may do so by filing a complaint with the state Attorney General (i.e. the [Virginia Attorney General](https://www.oag.state.va.us/contact-us/contact-info), [Connecticut Attorney General](https://portal.ct.gov/AG/Contact-the-Attorney-Generals-Office/Contact-the-Attorney-Generals-Office) and [Colorado Attorney General](https://www.colorado.gov/contact-us?page=1)).
+If you wish to exercise any of the rights granted under your state’s privacy laws (for ex. the right to opt-out, be informed, to access, correct or , delete your PI, or the right to data portability) you may contact our [Customer Service](mailto:feedback@dailymotion.com) indicating your state of residence and the right(s) you wish to exercise. If you are a [resident of a state providing for an appeal procedure](https://legal.dailymotion.com/en/us-states-privacy-laws) and disagree with our reply to your request, you may appeal it by filing an appeal request with our [Customer Service](mailto:feedback@dailymotion.com), including the original request and the reply provided by Dailymotion. Your appeal will be examined by a specialized team different from the one that issued the original reply. If you wish to contest the appeal decision, you may do so by filing a complaint with state [Attorney General](https://legal.dailymotion.com/en/us-states-privacy-laws).
 
 Depending on your state of residence, our response time to your initial and appeal request varies from 45 to 60 days and may be extended taking into account the complexity of your case and our workload.
 
 Note that exercise of your rights will not result in any discriminatory treatment by Dailymotion. Please refer to Section 8.6.1.(a).(vi). “Methods for Submitting a Verifiable Consumer Request” for further details on how to exercise your rights.
 
-##### 8.6.2.b. **Residents of **States other than California, Nevada Virginia, Colorado and Connecticut****
-
-If you are a resident of a state other than California, Nevada, Virginia, Colorado or Connecticut, and you wish to exercise any of the rights granted under the local privacy laws where you reside, you may do so by either by using the features available on our Service or by contacting our [Customer Service](mailto:feedback@dailymotion.com)  and indicating your state of residency and the right(s) you wish to exercise. In particular, if you are a Utah resident, as of December 31st 2023, you have the rights to opt-out from sale of your personal information, profiling or targeted advertising in accordance with your respective state privacy laws.  Please refer to Section 8.6.1.(a).(vi). “Methods for Submitting a Verifiable Consumer Request to Access or Delete their Personal Information or to Opt-Out from its Sale” for further details on how to exercise your rights.
-
-##### 8.6.2.c. **Residents of the state of Nevada**
+##### 8.6.2.b. **Residents of the state of Nevada**
 
 If you are a resident of Nevada, note that Dailymotion does not presently sell personal data as this term is defined by the Nevada privacy laws. However, if you are a Nevada resident, you may nevertheless contact our [Customer Service](mailto:feedback@dailymotion.com) indicating your state of residency to exercise your right to opt-out of sale pursuant to the Nevada Revised Statutes §603A et seq.
 
@@ -670,27 +660,34 @@ The Secondary Sites may collect their visitors’ Data for purely statistical pu
 
 Dailymotion may use different types of cookies on the Secondary Sites:
 
-* so-called “functional” cookies designed solely to operate these Secondary Sites correctly or, if you decide so, to enable you to log-in using third party log-in tools (e.g. Facebook Connect);
+* so-called “functional” cookies designed solely to operate these Secondary Sites correctly or, if you decide so, to enable you to log-in using third party log-in tools (e.g. Google Connect);
 * audience measurement and statistical analysis cookies, deposited by Dailymotion or by our subcontractors providing audience measurement services (e.g. Amplitude).
 
 The use of these audience measurement cookies is subject to the same rules as those explained in the present Privacy Policy. You can, at any time, oppose their use by indicating your decision on the Consent Management page accessible from the footers of our Secondary Sites. You may also exercise your rights of access, modification or deletion as described in Section 8 above.
 
-**10\. International Data Transfers and Standard Contractual Clauses**
+**10\. INTERNATIONAL DATA TRANSFERS AND STANDARD CONTRCATUAL CLAUSES**
 ----------------------------------------------------------------------
 
-When storing your Data Dailymotion uses its own servers as well as those of its service providers including cloud storage service providers. Dailymotion’s policy is to use servers located in Europe, whenever technically possible.  
+When storing your Data Dailymotion uses its own servers as well as those of its service providers including cloud storage service providers. Dailymotion’s policy is to use servers located in Europe, whenever technically possible.
 
-Dailymotion Service data is stored on servers owned by Dailymotion and located in France. In order to maintain a uniform, world-wide quality and availability of the Dailymotion Service throughout the world and to protect against data loss, we may duplicate part of the data stored on our EEA-based servers  and on other servers owned and operated by us and located outside the EEA, currently in the USA and in Singapore.
+  
+Content is stored on servers located in the EEA and owned by Dailymotion or by cloud storage service providers. If you choose your Content to be available outside of EEA, in order to maintain a uniform, world-wide quality and availability of the Dailymotion Service, local copies of Content (so called proxy copies) may be created outside of EEA.
 
-Dailymotion respects privacy rights, and strives to collect, use and disclose your Data strictly as necessary and in a manner consistent with the applicable laws, including when such processing of your Data is carried out outside of the country of your residence. We may disclose your Data to third parties, be it our service providers, our Commercial Partners or public authorities, including those located outside of your country of residence.
+  
+Data may be stored outside of EEA when necessary for operating the Dailymotion Service.
+
+  
+We may disclose your Data to third parties, be it our service providers, our Commercial Partners or public authorities, including those located outside of your country of residence. Dailymotion respects privacy rights, and strives to collect, use and disclose your Data strictly as necessary and in a manner consistent with the applicable laws, including when such processing of your Data is carried out outside of the country of your residence.
 
 In particular, Dailymotion transfers the Data of EEA residents to non-EEA countries, only when sufficient level of protection is ensured.
 
-Note that the competent European Union authorities have determined a list of non-EEA countries considered as providing an adequate level of protection. Transfer of Personal Data to such countries does not require additional safeguards. When transfer of EEA residents Data by Dailymotion is undertaken to countries that are not on this list and is not otherwise authorized by the applicable laws, such transfer relies on the  following mechanisms  to ensure the security of your Data:
+  
+Note that the competent EEA authorities have determined a list of non-EEA countries considered as providing an adequate level of protection. Transfer of Personal Data to such countries does not require additional safeguards. When transfer of EEA residents Data by Dailymotion is undertaken to countries that are not on this list and is not otherwise authorized by the applicable laws, such transfer relies on the following mechanisms to ensure the security of your Data
 
-* The [Data Privacy Framework](https://www.dataprivacyframework.gov/s/participant-search), or
-* the conclusion of Standard Contractual Clauses approved by the European Commission, which may be found at the following URL: [European Commission Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021D0914&from=EN), or
-* the existence of approved Binding Corporate Rules in place within multinational organizations aiming at ensuring that any transfer of Personal Data from the EEA to their non-EEA affiliates does respect adequate safeguards for protecting Personal Data throughout the organization.
+* The [Data Privacy Framework](https://www.dataprivacyframework.gov/s/participant-search) (for transfers to the U.S. only), or
+* the Standard Contractual Clauses approved by the European Commission, accessible here and accompanying technical measures, if applicable [here](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en), or
+* Binding Corporate Rules in place within multinational organizations, or
+* derogative mechanism as provided in [article 49 of GDPR](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en), if applicable.
 
 **11\. MISCELLANEOUS**
 ----------------------
