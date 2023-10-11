@@ -95,7 +95,7 @@ When using or accessing the Services, you must comply with these Terms and all a
     
 * Upload, transmit, or distribute to or through the Services any viruses, worms, malicious code, or other software intended to interfere with the Services, including its security-related features;
     
-* Use the Services to violate applicable law or infringe any person’s or entity’'s intellectual property rights or any other proprietary rights;
+* Use the Services to violate applicable law or infringe any person’s or entity’s intellectual property rights or any other proprietary rights;
     
 * Access, search, or collect data from the Services by any means (automated or otherwise) except as permitted in these Terms or in a separate agreement with Reddit (we conditionally grant permission to crawl the Services in accordance with the parameters set forth in our robots.txt file, but scraping the Services without Reddit’s prior written consent is prohibited); or
     
@@ -293,7 +293,7 @@ When using or accessing Reddit, you must comply with these Terms and all applica
     
 * Upload, transmit, or distribute to or through the Services any viruses, worms, malicious code, or other software intended to interfere with the Services, including its security-related features;
     
-* Use the Services to violate applicable law or infringe any person’s or entity’'s intellectual property rights or any other proprietary rights;
+* Use the Services to violate applicable law or infringe any person’s or entity’s intellectual property rights or any other proprietary rights;
     
 * Access, search, or collect data from the Services by any means (automated or otherwise) except as permitted in these Terms or in a separate agreement with Reddit (we conditionally grant permission to crawl the Services in accordance with the parameters set forth in our robots.txt file, but scraping the Services without Reddit’s prior written consent is prohibited); or
     
