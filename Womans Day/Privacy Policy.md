@@ -4,7 +4,7 @@ Privacy Notice
 Privacy Notice – Highlights 
 ----------------------------
 
-**Last Updated**: June 29, 2023
+**Last Updated**: October 9, 2023
 
 When you use or interact with a U.S. website, mobile app or other digital service or when you subscribe to a print or online publication or service (each a “**Magazine Service**”) operated or owned by Hearst Magazine Media, Inc. or its affiliates, we and third parties may obtain certain information about you. In this Highlights section, we provide an overview of our privacy practices related to the Magazine Services. Please review our full [Privacy Notice](#_PRIVACY_NOTICE) below for a detailed explanation of our practices. 
 
@@ -66,7 +66,7 @@ If you have questions about our Privacy Notice or the privacy rights described i
 **PRIVACY NOTICE**
 ------------------
 
-**Last Updated:** June 29, 2023
+**Last Updated:** October 9, 2023
 
 1. [Introduction](#_INTRO)
 2. [What Information We Obtain](#_WHAT_INFO)
@@ -409,7 +409,7 @@ We will delete your personal information when it is no longer required for these
 
 #### **International Data Transfers**
 
-Information collected through the Magazine Services will be processed in and subject to the laws of the United States, which may not provide the same level of protection for your personal information as your home country. If we transfer personal data from the European Economic Area, United Kingdom and Switzerland we put in place safeguards. In particular, such safeguards include the European Commission-approved standard contractual clauses. For more information on these safeguards, please contact us at the details provided in the “Contact Us” section above. We participate in the EU-US and Swiss-US Privacy Shield frameworks.  Read our [Privacy Shield Statement](https://www.hearst.com/-/privacy-shield-statement) to learn more.
+Information collected through the Magazine Services will be processed in and subject to the laws of the United States, which may not provide the same level of protection for your personal information as your home country. If we transfer personal data from the European Economic Area, United Kingdom and Switzerland we put in place safeguards. In particular, such safeguards include the European Commission-approved standard contractual clauses. For more information on these safeguards, please contact us at the details provided in the “Contact Us” section above. We participate in the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”). Read our [Data Privacy Framework Statement](https://www.hearst.com/-/privacy-shield-statement) to learn more.
 
 #### **Changes to the Privacy Notice**
 
