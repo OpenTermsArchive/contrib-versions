@@ -367,8 +367,8 @@
         * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
-            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420148)
-            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420011)
+            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -729,8 +729,8 @@
         * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
-            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420148)
-            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420011)
+            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -1231,8 +1231,8 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
-            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420148)
-            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420011)
+            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -1593,8 +1593,8 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
-            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420148)
-            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420011)
+            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -2075,8 +2075,8 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
-            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420148)
-            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420011)
+            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -2437,8 +2437,8 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
-            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420148)
-            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420011)
+            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -2865,8 +2865,8 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
-            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420148)
-            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420011)
+            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -3233,8 +3233,8 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
-            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420148)
-            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420011)
+            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -3601,8 +3601,8 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
-            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420148)
-            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420011)
+            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -3969,8 +3969,8 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
-            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420148)
-            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420011)
+            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -4337,8 +4337,8 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
-            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420148)
-            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420011)
+            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -4705,8 +4705,8 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
-            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420148)
-            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420011)
+            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -4908,8 +4908,8 @@ Retour
 
 * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
 
-* [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420148)
-* [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420011)
+* [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+* [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
 
 * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
 * [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
@@ -5263,8 +5263,8 @@ Retour
         * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
-            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420148)
-            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420011)
+            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -5625,8 +5625,8 @@ Retour
         * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
-            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420148)
-            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420011)
+            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -5987,8 +5987,8 @@ Retour
         * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
-            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420148)
-            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420011)
+            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -6349,8 +6349,8 @@ Retour
         * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
-            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420148)
-            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420011)
+            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -6711,8 +6711,8 @@ Retour
         * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
-            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420148)
-            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420011)
+            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -7279,8 +7279,8 @@ Retour
         * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
-            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420148)
-            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420011)
+            * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+            * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -7427,8 +7427,8 @@ Retour
 
 * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
 
-* [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420148)
-* [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/spip.php?page=rubrique&id_rubrique=420011)
+* [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+* [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
 
 * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
 * [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
