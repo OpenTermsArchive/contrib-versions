@@ -313,6 +313,10 @@ _**If you are in Colombia, find out more…**_
 
 This Privacy Notice must be understood as a Personal Data Processing Policy in the terms of Colombian law. For all activities that involve the processing of personal data, including the international transfer of personal data, we will abide by the provisions of Law 1581 of 2012, Decree 1377 of 2017 and the other regulations that modify or add them, for which we will always obtain your consent in advance, unless a legal exception applies. You may: (i) optionally answer the questions about sensitive data or about the data of children and adolescents; (ii) request to be informed by us, upon request, regarding the use that we have given to your personal data; (iii) ask us for proof of your consent, and; (iv) withdraw your consent, provided there is no legal or contractual duty to remain in a database. We may request information related to your status as a smoker, based on the type of product we sell. Enquires, complaints and claims are handled by the Privacy area. If you wish to contact this area, you can find the contact information in the linked data that appears at the top of this notice. This notice is effective for Colombia on September 13, 2023.
 
+**_If you are in Switzerland, find out more…_**
+
+If you are in Switzerland,  information about you may be transferred outside of Switzerland, including to a country or territory that may not have equivalent data protection standards. In such cases, the transfer will be subject to appropriate safeguards such as the Standard Contractual Clauses in accordance with the new Data Protection Act and guidance from the Federal Data Protection and Information Commissioner.
+
 Who should you contact with questions?
 --------------------------------------
 
