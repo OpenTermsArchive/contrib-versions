@@ -419,6 +419,6 @@ Where changes to this Privacy Notice have a fundamental impact on the nature of 
 
 Our Privacy Officer can be contacted at [magsdatarequests@hearst.com.](mailto:magsdatarequests@hearst.com.)
 
-We have appointed Hearst España S.L as our data protection representative in the EEA. You can contact Hearst España S.L at [dpo@Hearst.es](mailto:dpo@hearst.es) or Avda. Cardenal Herrera Oria 3 28034, Madrid, Spain. Please mark all correspondence “ATTN: EEA Representative (Legal Department).”
+We have appointed Hearst España S.L as our data protection representative in the EEA. You can contact Hearst España S.L at [dpo@Hearst.es](mailto:dpo@Hearst.es) or Avda. Cardenal Herrera Oria 3 28034, Madrid, Spain. Please mark all correspondence “ATTN: EEA Representative (Legal Department).”
 
 We are committed to working with you to obtain a fair resolution in the event you have a complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you have the right to make a complaint to a data protection authority.
