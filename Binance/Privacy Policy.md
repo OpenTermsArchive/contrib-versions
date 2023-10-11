@@ -4,7 +4,7 @@ Last updated: 26 September 2023
 
 Binance (“Binance”, “we”, or “us”) is committed to protecting the privacy of our customers, and we take our data protection responsibilities with the utmost seriousness.
 
-This Privacy Notice describes how Binance collects and processes your personal data through the Binance websites and applications that are referenced in this Privacy Notice. Binance refers to an ecosystem comprising Binance websites (whose domain names include but are not limited to [www.binance.com/en](https://www.binance.com/en)), mobile applications, clients, applets and other applications that are developed to offer Binance Services, and includes independently-operated platforms, websites and clients within the ecosystem (e.g., Binance’s Open Platform, Binance Launchpad, Binance Labs, Binance Charity, Binance DEX, Binance X, JEX, and fiat gateways).
+This Privacy Notice describes how Binance collects and processes your personal data through the Binance websites and applications that are referenced in this Privacy Notice. Binance refers to an ecosystem comprising Binance websites (whose domain names include but are not limited to [www.binance.com/en-GB](https://www.binance.com/en-GB)), mobile applications, clients, applets and other applications that are developed to offer Binance Services, and includes independently-operated platforms, websites and clients within the ecosystem (e.g., Binance’s Open Platform, Binance Launchpad, Binance Labs, Binance Charity, Binance DEX, Binance X, JEX, and fiat gateways).
 
 This Privacy Notice applies to all Personal data processing activities carried out by us, across platforms, websites, and departments of Binance.
 
@@ -12,7 +12,7 @@ To the extent that you are a customer or user of our services, this Privacy Noti
 
 To the extent that you are not a relevant stakeholder, customer, or user of our services, but are using our website, this Privacy Notice also applies to you together with our Cookie Notice.
 
-This Notice should therefore be read together with our Cookie Notice, which provides further details on our use of cookies on the website. Our Cookie Notice can be accessed [here](https://www.binance.com/en/cookie-privacy).
+This Notice should therefore be read together with our Cookie Notice, which provides further details on our use of cookies on the website. Our Cookie Notice can be accessed [here](https://www.binance.com/en-GB/cookie-privacy).
 
 ### 1\. Binance Relationship with you
 
