@@ -1,7 +1,7 @@
 Privacy policy
 --------------
 
-If you have any questions, please reach out to [sr.ht-support](mailto:/~sircmpwn/sr.ht-support@lists.sr.ht) via email.
+If you have any questions, please reach out to [sr.ht-support](mailto:~sircmpwn/sr.ht-support@lists.sr.ht) via email.
 
 #### What we collect and why
 
@@ -61,7 +61,7 @@ We may also be required to remit your data upon receiving an order from a court 
 
 ##### How to access and control the information we've collected
 
-You may submit a request via email to [support](mailto:/~sircmpwn/sr.ht-support@lists.sr.ht) to request an archive of the information we've collected about you, or to request that we remove any information we've collected about you.
+You may submit a request via email to [support](mailto:~sircmpwn/sr.ht-support@lists.sr.ht) to request an archive of the information we've collected about you, or to request that we remove any information we've collected about you.
 
 You may also reach out to our data protection officer directly: Drew DeVault [sir@cmpwn.com](mailto:sir@cmpwn.com).
 
