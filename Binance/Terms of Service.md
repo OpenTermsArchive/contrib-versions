@@ -880,7 +880,7 @@ Product Terms
 
 |     |     |     |
 | --- | --- | --- |
-| [Auto-Invest](https://www.binance.com/en/terms-autoinvest) | [Mining Pool](https://www.binance.com/en/terms-binance-pool) |     |
-| [Crypto Loan](https://www.binance.com/en/terms-crypto-loans) | [Fiat](https://www.binance.com/en/legal/terms-fiat) |     |
-| [Gift Card](https://www.binance.com/en/legal/terms-gift-card) | [OTC Terms](https://www.binance.com/en/terms-otc) |     |
-| [Swap](https://www.binance.com/en/terms-swap-farming) |     |     |
+| [Auto-Invest](https://www.binance.com/en-GB/terms-autoinvest) | [Mining Pool](https://www.binance.com/en-GB/terms-binance-pool) |     |
+| [Crypto Loan](https://www.binance.com/en-GB/terms-crypto-loans) | [Fiat](https://www.binance.com/en-GB/legal/terms-fiat) |     |
+| [Gift Card](https://www.binance.com/en-GB/legal/terms-gift-card) | [OTC Terms](https://www.binance.com/en-GB/terms-otc) |     |
+| [Swap](https://www.binance.com/en-GB/terms-swap-farming) |     |     |
