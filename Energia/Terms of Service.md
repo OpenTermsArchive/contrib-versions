@@ -854,7 +854,7 @@ EAB €1,512, based on average annual usage. 12 month contract, discounted unit 
   
 [View the March 2023 Six Nation Tickets Competition terms and conditions](https://www.energia.ie/getmedia/a9617712-9e09-4cf1-983d-dd804d44c8a6/March-2023-Six-Nations-Competitions-terms-and-conditions.pdf)
 
-36\. Social Media Competition Terms & Conditions
+36\. Digital & Social Competition
 
 General Social Compeition: Energia's decision regarding prize winners will be final, and no correspondence regarding that decision will be entered into.
 
@@ -870,7 +870,7 @@ General Social Compeition: Energia's decision regarding prize winners will be fi
 * Energia reserves the right to disqualify any contestant for any reason whatsoever in its sole discretion.
 
   
-Paperboyo - competition is running from the 18-09-2023 until midnight on the 1st of October. Entry is via Instagram social media only. @energiaireland and #thinkofthepossibilities must be included in the entry. Entrants must be following Energia Instagram. One entry only per person. 
+. 
 
 37\. Download all Terms and Conditions
 
