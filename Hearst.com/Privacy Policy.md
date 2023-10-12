@@ -139,7 +139,7 @@ If you would like to exercise your CCPA rights with respect to the personal info
 
 If you want to learn more about the data handling practices of the Hearst Magazines, the San Francisco Chronicle, SFGate, or our KCRA and KSBW HTV stations, or if you wish to exercise your CCPA rights with respect to these brands, you will need to submit your CCPA requests by using the forms made available via the link titled “Your Privacy Choices: Opt Out of Sale/Targeted Ads” at the bottom on the sites of these brands:
 
-For Hearst magazines: [https://accessprivacy.hearstmags.com](https://accessprivacy.hearstmags.com/)   
+For Hearst magazines: [https://accessprivacy.hearstmags.com](http://accessprivacy.hearstmags.com/)   
 For San Francisco Chronicle: [https://sfchronicle.com/mydata](https://sfchronicle.com/mydata)    
 For SFGate: [https://sfgate.com/mydata](https://sfgate.com/mydata)   
 For KCRA or KSBW: [https://myhtvdata.com](https://myhtvdata.com/)
