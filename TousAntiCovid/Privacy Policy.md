@@ -790,7 +790,7 @@ Vous avez été vacciné par un professionnel de santé ?
 Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
 
 * Commencer l’importation
-    * Connectez-vous au **téléservice de l’Assurance mMaladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
+    * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
     * Cliquez sur « **S’identifier avec FranceConnect** ».
     * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
     * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
@@ -1655,7 +1655,7 @@ Vous avez été vacciné par un professionnel de santé ?
 Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
 
 * Commencer l’importation
-    * Connectez-vous au **téléservice de l’Assurance mMaladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
+    * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
     * Cliquez sur « **S’identifier avec FranceConnect** ».
     * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
     * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
@@ -7483,7 +7483,7 @@ Vous avez été vacciné par un professionnel de santé ?
 Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
 
 * Commencer l’importation
-    * Connectez-vous au **téléservice de l’Assurance mMaladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
+    * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
     * Cliquez sur « **S’identifier avec FranceConnect** ».
     * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
     * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
@@ -7573,7 +7573,7 @@ Vous avez été vacciné par un professionnel de santé ?
 Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
 
 * Commencer l’importation
-    * Connectez-vous au **téléservice de l’Assurance mMaladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
+    * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
     * Cliquez sur « **S’identifier avec FranceConnect** ».
     * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
     * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
@@ -7663,7 +7663,7 @@ Vous avez été vacciné par un professionnel de santé ?
 Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
 
 * Commencer l’importation
-    * Connectez-vous au **téléservice de l’Assurance mMaladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
+    * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
     * Cliquez sur « **S’identifier avec FranceConnect** ».
     * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
     * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
