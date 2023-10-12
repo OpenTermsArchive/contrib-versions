@@ -756,7 +756,7 @@
 TousAntiCovid
 -------------
 
-publié le22.12.22 mise à jour30.06.23
+publié le22.12.22 mise à jour12.10.23
 
 * [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#)
 * [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#)
@@ -806,7 +806,8 @@ Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur l
 
 Vous pouvez également obtenir une copie papier en vous rendant dans votre caisse d’assurance maladie ou en vous rapprochant d’un professionnel de santé.
 
-Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.
+Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
+En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
 
 [L’application fonctionne-t-elle aussi hors de France ?](javascript:;)
 
@@ -1620,7 +1621,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
 TousAntiCovid
 -------------
 
-publié le22.12.22 mise à jour30.06.23
+publié le22.12.22 mise à jour12.10.23
 
 * [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#)
 * [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#)
@@ -1670,7 +1671,8 @@ Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur l
 
 Vous pouvez également obtenir une copie papier en vous rendant dans votre caisse d’assurance maladie ou en vous rapprochant d’un professionnel de santé.
 
-Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.
+Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
+En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
 
 [L’application fonctionne-t-elle aussi hors de France ?](javascript:;)
 
@@ -7447,7 +7449,7 @@ Retour
 TousAntiCovid
 -------------
 
-publié le22.12.22 mise à jour30.06.23
+publié le22.12.22 mise à jour12.10.23
 
 * [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#)
 * [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#)
@@ -7497,7 +7499,8 @@ Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur l
 
 Vous pouvez également obtenir une copie papier en vous rendant dans votre caisse d’assurance maladie ou en vous rapprochant d’un professionnel de santé.
 
-Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.
+Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
+En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
 
 [L’application fonctionne-t-elle aussi hors de France ?](javascript:;)
 
@@ -7536,7 +7539,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
 TousAntiCovid
 -------------
 
-publié le22.12.22 mise à jour30.06.23
+publié le22.12.22 mise à jour12.10.23
 
 * [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#)
 * [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#)
@@ -7586,7 +7589,8 @@ Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur l
 
 Vous pouvez également obtenir une copie papier en vous rendant dans votre caisse d’assurance maladie ou en vous rapprochant d’un professionnel de santé.
 
-Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.
+Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
+En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
 
 [L’application fonctionne-t-elle aussi hors de France ?](javascript:;)
 
@@ -7625,7 +7629,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
 TousAntiCovid
 -------------
 
-publié le22.12.22 mise à jour30.06.23
+publié le22.12.22 mise à jour12.10.23
 
 * [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#)
 * [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#)
@@ -7675,7 +7679,8 @@ Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur l
 
 Vous pouvez également obtenir une copie papier en vous rendant dans votre caisse d’assurance maladie ou en vous rapprochant d’un professionnel de santé.
 
-Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.
+Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
+En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
 
 [L’application fonctionne-t-elle aussi hors de France ?](javascript:;)
 
@@ -7712,7 +7717,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
 TousAntiCovid
 -------------
 
-publié le22.12.22 mise à jour30.06.23
+publié le22.12.22 mise à jour12.10.23
 
 \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
