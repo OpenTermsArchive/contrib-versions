@@ -597,7 +597,7 @@ Reports made by e-mail or by letter must be sent to Dailymotion at the address d
 Mailing Address:  
 Dailymotion, Inc.  
 Prohibited Content Notice,  
-57 E 11th Street, Floor 5, New York City, NY 10003 (United States)  
+150 W 22nd Street, Floor 12, New York, NY 10011  
 Phone number: 646-576-6642  
 Email address: notifications@dailymotion.com
 
@@ -864,7 +864,7 @@ The following companies are currently engaged as Your Sub-Processors:
 
 | SUB-PROCESSORS | THE SERVICES PROVIDED BY SUB-PROCESSORS |
 | --- | --- |
-| One or more of our Affiliates other than the Dailymotion entity You contract with and that is Your Data Processor:  <br>  <br>**Dailymotion SA**; 140 boulevard Malesherbes; 75017 Paris; France (data protection contact details: [DPO](mailto:dpo@dailymotion.com))  <br>  <br>**Dailymotion Inc**, 57 E 11th Street, Floor 5, New York, NY 10003; USA (data protection contact details: [Customer Service](mailto:feedback@dailymotion.com))  <br>  <br>**Dailymotion Asia Pacific Pte Ltd**, 137 Amoy Street; Singapore 049965 (data protection contact details: [Customer Service](mailto:feedback@dailymotion.com))  <br>  <br>**Dailymotion Advertising SAS**; 140 boulevard Malesherbes; 75017 Paris; France (data protection contact details: [DPO](mailto:dpo@dailymotion.com)) | To help Us provide You with the Dailymotion Service |
+| One or more of our Affiliates other than the Dailymotion entity You contract with and that is Your Data Processor:  <br>  <br>**Dailymotion SA**; 140 boulevard Malesherbes; 75017 Paris; France (data protection contact details: [DPO](mailto:dpo@dailymotion.com))  <br>  <br>**Dailymotion Inc**, 150 W 22nd Street, Floor 12, New York, NY 10011; USA (data protection contact details: [Customer Service](mailto:feedback@dailymotion.com))  <br>  <br>**Dailymotion Asia Pacific Pte Ltd**, 137 Amoy Street; Singapore 049965 (data protection contact details: [Customer Service](mailto:feedback@dailymotion.com))  <br>  <br>**Dailymotion Advertising SAS**; 140 boulevard Malesherbes; 75017 Paris; France (data protection contact details: [DPO](mailto:dpo@dailymotion.com)) | To help Us provide You with the Dailymotion Service |
 | OpenWeb Technologies Ltd. 94 Yigal Alon, building 2, Tel Aviv Yafo, 6706701 Isra¨ël (data protection contact details: privacy@openweb.com). | Host Your comments and moderate them (subject to availability of this feature in your country) |
 | **Google Cloud France SARL**, 8 rue de Londres, 75009 Paris, France) (data protection contact details: [https://support.google.com/policies/contact/general\_privacy\_form](https://support.google.com/policies/contact/general_privacy_form))  <br>  <br>**Amazon Web Services EMEA SARL “AWS”**, 38 Avenue John F. Kennedy, L-1855, Luxembourg (data protection contact details: Amazon Web Services EMEA SARL “AWS”, 38 Avenue John F. Kennedy, L-1855, Luxembourg ATTN: AWS EMEA Legal)  <br>  <br>**MongoDB Ltd. (Atlas)**, 3rd Floor, 3 Shelbourne; Buildings, Nallsbridge; Dublin 4; Ireland; Atlas (data protection contact details: [privacy@mongodb.com](mailto:privacy@mongodb.com)) | In order to host meta data and technical data related to Your Content present on the Service |
 | **Zendesk Inc.** 1019 Market Street, San Francisco, CA 94103; USA (data protection contact details: Zendesk’s Global Privacy Counsel: Rachel Tobin, AGC, EMEA & Global Privacy Counsel, Zendesk International Ltd. 55 Charlemont Place, Saint Kevin’s, Dublin, D02 F985 Ireland privacy@zendesk.com)  <br>  <br>**CallPoint New Europe SRL (Telus)**, AFI PARK 3, Vasile Milea boulevard n°4G ; 6th district ; Bucharest, Romania; (contact: TI.Privacy.Office@telusinternational.com) | To provide customer Support |
@@ -934,7 +934,7 @@ It is agreed by the Parties that the 2021 SCC are complemented as follows:
         
         * If You are established in the European Economic Area, United Kingdom or Switzerland:  Dailymotion SA, 140 boulevard Malesherbes, 75017 Paris, France, contact details: [dpo@dailymotion.com](mailto:dpo@dailymotion.com), or
         
-        * if You are established in any other territory:  Dailymotion Inc., 57 E 11th St, Floor 5, New York NY 10003, USA, contact details: [legal@dailymotion.com](mailto:legal@dailymotion.com);
+        * If You are established in any other territory:  Dailymotion Inc., 150 W 22nd Street, Floor 12, New York, NY 10011, USA, contact details: [legal@dailymotion.com](mailto:legal@dailymotion.com);
     
     * For the purpose of the UK GDPR, the local representative of Dailymotion is : The DPO Centre Ltd, 50 Liverpool street, London, EC2M 7PY, UK, +44 (0) 203 797 6340, [advice@dpocentre.com](mailto:advice@dpocentre.com).
     
@@ -978,4 +978,4 @@ As such, Dailymotion has determined that the risks of infringing such Third Part
 * **Dailymotion’s Contact Info:** Contact email [here](mailto:feedback@dailymotion.com).
 * **Your Identity Contact Info:** the email address associated with Your Dailymotion Account, or, if applicable, the email address communicated in compliance with Section 6 of this DPA.
 
-Last Update of this DPA: December 23, 2022
+Last Update of this DPA: October 13th, 2023
