@@ -1,1277 +1,1151 @@
-Violent and hateful entities policy
-===================================
+Abuse and harassment
+====================
 
 ### Overview
 
-**  
-April 2023**
+**June 2023**
 
-There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
+  
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
-Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+### What is in violation of this policy? 
 
-Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+**Targeted harassment**
 
-### What is in violation of this policy?
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
 
-Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
 
-* Engaging in or promoting violent acts
-* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+**Encouraging or calling for others to harass an individual or group of people**  
 
-### What is not a violation of this policy?
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
 
-We may make limited exceptions for violent and hateful entities if we can determine the following:
+**Unwanted Sexual Content & Graphic Objectification**
 
-* They have reformed or denounced their violence and/or hate-based purpose.
-* They are currently engaged in a peaceful resolution process.
-* They are state or governmental entities, including those that have representatives elected to public office.
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
 
-Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
-
-### Who can report violations of this policy?
-
-Anyone can report potential violations of this policy, whether they have an X account or not. 
-
-### How can I report violations of this policy?
-
-**In-app**
-
-You can report this content for review in-app on iOS as follows:
-
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-**Desktop**
+**Insults  
+**
 
-You can report this content for review via desktop as follows:
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
-      
-    
+**Violent Event Denial**  
 
-### What happens if you violate this policy?
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-  
-We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
- 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-### Additional resources
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-Violent and hateful entities policy
-===================================
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+Abuse and harassment
+====================
 
 ### Overview
 
-**  
-April 2023**
+**June 2023**
 
-There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
+  
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
-Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+### What is in violation of this policy? 
 
-Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+**Targeted harassment**
 
-### What is in violation of this policy?
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
 
-Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
 
-* Engaging in or promoting violent acts
-* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+**Encouraging or calling for others to harass an individual or group of people**  
 
-### What is not a violation of this policy?
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
 
-We may make limited exceptions for violent and hateful entities if we can determine the following:
+**Unwanted Sexual Content & Graphic Objectification**
 
-* They have reformed or denounced their violence and/or hate-based purpose.
-* They are currently engaged in a peaceful resolution process.
-* They are state or governmental entities, including those that have representatives elected to public office.
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
 
-Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
-
-### Who can report violations of this policy?
-
-Anyone can report potential violations of this policy, whether they have an X account or not. 
-
-### How can I report violations of this policy?
-
-**In-app**
-
-You can report this content for review in-app on iOS as follows:
-
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-**Desktop**
+**Insults  
+**
 
-You can report this content for review via desktop as follows:
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
-      
-    
+**Violent Event Denial**  
 
-### What happens if you violate this policy?
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-  
-We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
- 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-### Additional resources
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-Violent and hateful entities policy
-===================================
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+Abuse and harassment
+====================
 
 ### Overview
 
-**  
-April 2023**
+**June 2023**
 
-There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
+  
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
-Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+### What is in violation of this policy? 
 
-Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+**Targeted harassment**
 
-### What is in violation of this policy?
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
 
-Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
 
-* Engaging in or promoting violent acts
-* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+**Encouraging or calling for others to harass an individual or group of people**  
 
-### What is not a violation of this policy?
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
 
-We may make limited exceptions for violent and hateful entities if we can determine the following:
+**Unwanted Sexual Content & Graphic Objectification**
 
-* They have reformed or denounced their violence and/or hate-based purpose.
-* They are currently engaged in a peaceful resolution process.
-* They are state or governmental entities, including those that have representatives elected to public office.
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
 
-Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
-
-### Who can report violations of this policy?
-
-Anyone can report potential violations of this policy, whether they have an X account or not. 
-
-### How can I report violations of this policy?
-
-**In-app**
-
-You can report this content for review in-app on iOS as follows:
-
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-**Desktop**
+**Insults  
+**
 
-You can report this content for review via desktop as follows:
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
-      
-    
+**Violent Event Denial**  
 
-### What happens if you violate this policy?
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-  
-We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
- 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-### Additional resources
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-Violent and hateful entities policy
-===================================
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+Abuse and harassment
+====================
 
 ### Overview
 
-**  
-April 2023**
+**June 2023**
 
-There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
+  
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
-Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+### What is in violation of this policy? 
 
-Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+**Targeted harassment**
 
-### What is in violation of this policy?
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
 
-Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
 
-* Engaging in or promoting violent acts
-* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+**Encouraging or calling for others to harass an individual or group of people**  
 
-### What is not a violation of this policy?
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
 
-We may make limited exceptions for violent and hateful entities if we can determine the following:
+**Unwanted Sexual Content & Graphic Objectification**
 
-* They have reformed or denounced their violence and/or hate-based purpose.
-* They are currently engaged in a peaceful resolution process.
-* They are state or governmental entities, including those that have representatives elected to public office.
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
 
-Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
-
-### Who can report violations of this policy?
-
-Anyone can report potential violations of this policy, whether they have an X account or not. 
-
-### How can I report violations of this policy?
-
-**In-app**
-
-You can report this content for review in-app on iOS as follows:
-
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-**Desktop**
+**Insults  
+**
 
-You can report this content for review via desktop as follows:
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
-      
-    
+**Violent Event Denial**  
 
-### What happens if you violate this policy?
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-  
-We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
- 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-### Additional resources
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-Violent and hateful entities policy
-===================================
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+Abuse and harassment
+====================
 
 ### Overview
 
-**  
-April 2023**
+**June 2023**
 
-There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
+  
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
-Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+### What is in violation of this policy? 
 
-Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+**Targeted harassment**
 
-### What is in violation of this policy?
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
 
-Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
 
-* Engaging in or promoting violent acts
-* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+**Encouraging or calling for others to harass an individual or group of people**  
 
-### What is not a violation of this policy?
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
 
-We may make limited exceptions for violent and hateful entities if we can determine the following:
+**Unwanted Sexual Content & Graphic Objectification**
 
-* They have reformed or denounced their violence and/or hate-based purpose.
-* They are currently engaged in a peaceful resolution process.
-* They are state or governmental entities, including those that have representatives elected to public office.
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
 
-Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
-
-### Who can report violations of this policy?
-
-Anyone can report potential violations of this policy, whether they have an X account or not. 
-
-### How can I report violations of this policy?
-
-**In-app**
-
-You can report this content for review in-app on iOS as follows:
-
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-**Desktop**
+**Insults  
+**
 
-You can report this content for review via desktop as follows:
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
-      
-    
+**Violent Event Denial**  
 
-### What happens if you violate this policy?
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-  
-We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
- 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-### Additional resources
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-Violent and hateful entities policy
-===================================
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+Abuse and harassment
+====================
 
 ### Overview
 
-**  
-April 2023**
+**June 2023**
 
-There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
+  
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
-Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+### What is in violation of this policy? 
 
-Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+**Targeted harassment**
 
-### What is in violation of this policy?
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
 
-Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
 
-* Engaging in or promoting violent acts
-* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+**Encouraging or calling for others to harass an individual or group of people**  
 
-### What is not a violation of this policy?
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
 
-We may make limited exceptions for violent and hateful entities if we can determine the following:
+**Unwanted Sexual Content & Graphic Objectification**
 
-* They have reformed or denounced their violence and/or hate-based purpose.
-* They are currently engaged in a peaceful resolution process.
-* They are state or governmental entities, including those that have representatives elected to public office.
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
 
-Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
-
-### Who can report violations of this policy?
-
-Anyone can report potential violations of this policy, whether they have an X account or not. 
-
-### How can I report violations of this policy?
-
-**In-app**
-
-You can report this content for review in-app on iOS as follows:
-
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-**Desktop**
+**Insults  
+**
 
-You can report this content for review via desktop as follows:
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
-      
-    
+**Violent Event Denial**  
 
-### What happens if you violate this policy?
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-  
-We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
- 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-### Additional resources
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-Violent and hateful entities policy
-===================================
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+Abuse and harassment
+====================
 
 ### Overview
 
-**  
-April 2023**
+**June 2023**
 
-There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
+  
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
-Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+### What is in violation of this policy? 
 
-Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+**Targeted harassment**
 
-### What is in violation of this policy?
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
 
-Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
 
-* Engaging in or promoting violent acts
-* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+**Encouraging or calling for others to harass an individual or group of people**  
 
-### What is not a violation of this policy?
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
 
-We may make limited exceptions for violent and hateful entities if we can determine the following:
+**Unwanted Sexual Content & Graphic Objectification**
 
-* They have reformed or denounced their violence and/or hate-based purpose.
-* They are currently engaged in a peaceful resolution process.
-* They are state or governmental entities, including those that have representatives elected to public office.
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
 
-Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
-
-### Who can report violations of this policy?
-
-Anyone can report potential violations of this policy, whether they have an X account or not. 
-
-### How can I report violations of this policy?
-
-**In-app**
-
-You can report this content for review in-app on iOS as follows:
-
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-**Desktop**
+**Insults  
+**
 
-You can report this content for review via desktop as follows:
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
-      
-    
+**Violent Event Denial**  
 
-### What happens if you violate this policy?
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-  
-We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
- 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-### Additional resources
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-Violent and hateful entities policy
-===================================
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+Abuse and harassment
+====================
 
 ### Overview
 
-**  
-April 2023**
+**June 2023**
 
-There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
+  
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
-Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+### What is in violation of this policy? 
 
-Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+**Targeted harassment**
 
-### What is in violation of this policy?
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
 
-Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
 
-* Engaging in or promoting violent acts
-* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+**Encouraging or calling for others to harass an individual or group of people**  
 
-### What is not a violation of this policy?
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
 
-We may make limited exceptions for violent and hateful entities if we can determine the following:
+**Unwanted Sexual Content & Graphic Objectification**
 
-* They have reformed or denounced their violence and/or hate-based purpose.
-* They are currently engaged in a peaceful resolution process.
-* They are state or governmental entities, including those that have representatives elected to public office.
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
 
-Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
-
-### Who can report violations of this policy?
-
-Anyone can report potential violations of this policy, whether they have an X account or not. 
-
-### How can I report violations of this policy?
-
-**In-app**
-
-You can report this content for review in-app on iOS as follows:
-
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-**Desktop**
+**Insults  
+**
 
-You can report this content for review via desktop as follows:
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
-      
-    
+**Violent Event Denial**  
 
-### What happens if you violate this policy?
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-  
-We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
- 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-### Additional resources
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-Violent and hateful entities policy
-===================================
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+Abuse and harassment
+====================
 
 ### Overview
 
-**  
-April 2023**
+**June 2023**
 
-There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
+  
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
-Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+### What is in violation of this policy? 
 
-Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+**Targeted harassment**
 
-### What is in violation of this policy?
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
 
-Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
 
-* Engaging in or promoting violent acts
-* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+**Encouraging or calling for others to harass an individual or group of people**  
 
-### What is not a violation of this policy?
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
 
-We may make limited exceptions for violent and hateful entities if we can determine the following:
+**Unwanted Sexual Content & Graphic Objectification**
 
-* They have reformed or denounced their violence and/or hate-based purpose.
-* They are currently engaged in a peaceful resolution process.
-* They are state or governmental entities, including those that have representatives elected to public office.
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
 
-Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
-
-### Who can report violations of this policy?
-
-Anyone can report potential violations of this policy, whether they have an X account or not. 
-
-### How can I report violations of this policy?
-
-**In-app**
-
-You can report this content for review in-app on iOS as follows:
-
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-**Desktop**
+**Insults  
+**
 
-You can report this content for review via desktop as follows:
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
-      
-    
+**Violent Event Denial**  
 
-### What happens if you violate this policy?
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-  
-We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
- 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-### Additional resources
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-Violent and hateful entities policy
-===================================
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+Abuse and harassment
+====================
 
 ### Overview
 
-**  
-April 2023**
+**June 2023**
 
-There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
+  
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
-Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+### What is in violation of this policy? 
 
-Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+**Targeted harassment**
 
-### What is in violation of this policy?
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
 
-Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
 
-* Engaging in or promoting violent acts
-* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+**Encouraging or calling for others to harass an individual or group of people**  
 
-### What is not a violation of this policy?
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
 
-We may make limited exceptions for violent and hateful entities if we can determine the following:
+**Unwanted Sexual Content & Graphic Objectification**
 
-* They have reformed or denounced their violence and/or hate-based purpose.
-* They are currently engaged in a peaceful resolution process.
-* They are state or governmental entities, including those that have representatives elected to public office.
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
 
-Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
-
-### Who can report violations of this policy?
-
-Anyone can report potential violations of this policy, whether they have an X account or not. 
-
-### How can I report violations of this policy?
-
-**In-app**
-
-You can report this content for review in-app on iOS as follows:
-
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-**Desktop**
+**Insults  
+**
 
-You can report this content for review via desktop as follows:
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
-      
-    
+**Violent Event Denial**  
 
-### What happens if you violate this policy?
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-  
-We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
- 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-### Additional resources
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-Violent and hateful entities policy
-===================================
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+Abuse and harassment
+====================
 
 ### Overview
 
-**  
-April 2023**
+**June 2023**
 
-There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
+  
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
-Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+### What is in violation of this policy? 
 
-Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+**Targeted harassment**
 
-### What is in violation of this policy?
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
 
-Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
 
-* Engaging in or promoting violent acts
-* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+**Encouraging or calling for others to harass an individual or group of people**  
 
-### What is not a violation of this policy?
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
 
-We may make limited exceptions for violent and hateful entities if we can determine the following:
+**Unwanted Sexual Content & Graphic Objectification**
 
-* They have reformed or denounced their violence and/or hate-based purpose.
-* They are currently engaged in a peaceful resolution process.
-* They are state or governmental entities, including those that have representatives elected to public office.
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
 
-Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
-
-### Who can report violations of this policy?
-
-Anyone can report potential violations of this policy, whether they have an X account or not. 
-
-### How can I report violations of this policy?
-
-**In-app**
-
-You can report this content for review in-app on iOS as follows:
-
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-**Desktop**
+**Insults  
+**
 
-You can report this content for review via desktop as follows:
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
-      
-    
+**Violent Event Denial**  
 
-### What happens if you violate this policy?
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-  
-We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
- 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-### Additional resources
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-Violent and hateful entities policy
-===================================
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+Abuse and harassment
+====================
 
 ### Overview
 
-**  
-April 2023**
+**June 2023**
 
-There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
+  
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
-Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+### What is in violation of this policy? 
 
-Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+**Targeted harassment**
 
-### What is in violation of this policy?
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
 
-Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
 
-* Engaging in or promoting violent acts
-* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+**Encouraging or calling for others to harass an individual or group of people**  
 
-### What is not a violation of this policy?
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
 
-We may make limited exceptions for violent and hateful entities if we can determine the following:
+**Unwanted Sexual Content & Graphic Objectification**
 
-* They have reformed or denounced their violence and/or hate-based purpose.
-* They are currently engaged in a peaceful resolution process.
-* They are state or governmental entities, including those that have representatives elected to public office.
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
 
-Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
-
-### Who can report violations of this policy?
-
-Anyone can report potential violations of this policy, whether they have an X account or not. 
-
-### How can I report violations of this policy?
-
-**In-app**
-
-You can report this content for review in-app on iOS as follows:
-
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-**Desktop**
+**Insults  
+**
 
-You can report this content for review via desktop as follows:
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
-      
-    
+**Violent Event Denial**  
 
-### What happens if you violate this policy?
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-  
-We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
- 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-### Additional resources
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-Violent and hateful entities policy
-===================================
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+Abuse and harassment
+====================
 
 ### Overview
 
-**  
-April 2023**
+**June 2023**
 
-There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
+  
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
-Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+### What is in violation of this policy? 
 
-Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+**Targeted harassment**
 
-### What is in violation of this policy?
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
 
-Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
 
-* Engaging in or promoting violent acts
-* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+**Encouraging or calling for others to harass an individual or group of people**  
 
-### What is not a violation of this policy?
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
 
-We may make limited exceptions for violent and hateful entities if we can determine the following:
+**Unwanted Sexual Content & Graphic Objectification**
 
-* They have reformed or denounced their violence and/or hate-based purpose.
-* They are currently engaged in a peaceful resolution process.
-* They are state or governmental entities, including those that have representatives elected to public office.
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
 
-Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
-
-### Who can report violations of this policy?
-
-Anyone can report potential violations of this policy, whether they have an X account or not. 
-
-### How can I report violations of this policy?
-
-**In-app**
-
-You can report this content for review in-app on iOS as follows:
-
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-**Desktop**
+**Insults  
+**
 
-You can report this content for review via desktop as follows:
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
-      
-    
+**Violent Event Denial**  
 
-### What happens if you violate this policy?
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-  
-We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
- 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-### Additional resources
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-Violent and hateful entities policy
-===================================
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+Abuse and harassment
+====================
 
 ### Overview
 
-**  
-April 2023**
+**June 2023**
 
-There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
+  
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
-Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+### What is in violation of this policy? 
 
-Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+**Targeted harassment**
 
-### What is in violation of this policy?
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
 
-Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
 
-* Engaging in or promoting violent acts
-* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+**Encouraging or calling for others to harass an individual or group of people**  
 
-### What is not a violation of this policy?
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
 
-We may make limited exceptions for violent and hateful entities if we can determine the following:
+**Unwanted Sexual Content & Graphic Objectification**
 
-* They have reformed or denounced their violence and/or hate-based purpose.
-* They are currently engaged in a peaceful resolution process.
-* They are state or governmental entities, including those that have representatives elected to public office.
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
 
-Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
-
-### Who can report violations of this policy?
-
-Anyone can report potential violations of this policy, whether they have an X account or not. 
-
-### How can I report violations of this policy?
-
-**In-app**
-
-You can report this content for review in-app on iOS as follows:
-
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-**Desktop**
+**Insults  
+**
 
-You can report this content for review via desktop as follows:
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
-      
-    
+**Violent Event Denial**  
 
-### What happens if you violate this policy?
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-  
-We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
- 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-### Additional resources
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-Violent and hateful entities policy
-===================================
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+Abuse and harassment
+====================
 
 ### Overview
 
-**  
-April 2023**
+**June 2023**
 
-There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
+  
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
-Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+### What is in violation of this policy? 
 
-Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+**Targeted harassment**
 
-### What is in violation of this policy?
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
 
-Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
 
-* Engaging in or promoting violent acts
-* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+**Encouraging or calling for others to harass an individual or group of people**  
 
-### What is not a violation of this policy?
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
 
-We may make limited exceptions for violent and hateful entities if we can determine the following:
+**Unwanted Sexual Content & Graphic Objectification**
 
-* They have reformed or denounced their violence and/or hate-based purpose.
-* They are currently engaged in a peaceful resolution process.
-* They are state or governmental entities, including those that have representatives elected to public office.
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
 
-Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
-
-### Who can report violations of this policy?
-
-Anyone can report potential violations of this policy, whether they have an X account or not. 
-
-### How can I report violations of this policy?
-
-**In-app**
-
-You can report this content for review in-app on iOS as follows:
-
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-**Desktop**
+**Insults  
+**
 
-You can report this content for review via desktop as follows:
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
-      
-    
+**Violent Event Denial**  
 
-### What happens if you violate this policy?
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-  
-We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
- 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-### Additional resources
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-Violent and hateful entities policy
-===================================
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+Abuse and harassment
+====================
 
 ### Overview
 
-**  
-April 2023**
+**June 2023**
 
-There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
+  
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
-Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+### What is in violation of this policy? 
 
-Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+**Targeted harassment**
 
-### What is in violation of this policy?
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
 
-Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
 
-* Engaging in or promoting violent acts
-* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+**Encouraging or calling for others to harass an individual or group of people**  
 
-### What is not a violation of this policy?
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
 
-We may make limited exceptions for violent and hateful entities if we can determine the following:
+**Unwanted Sexual Content & Graphic Objectification**
 
-* They have reformed or denounced their violence and/or hate-based purpose.
-* They are currently engaged in a peaceful resolution process.
-* They are state or governmental entities, including those that have representatives elected to public office.
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
 
-Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
-
-### Who can report violations of this policy?
-
-Anyone can report potential violations of this policy, whether they have an X account or not. 
-
-### How can I report violations of this policy?
-
-**In-app**
-
-You can report this content for review in-app on iOS as follows:
-
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-**Desktop**
+**Insults  
+**
 
-You can report this content for review via desktop as follows:
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
-      
-    
+**Violent Event Denial**  
 
-### What happens if you violate this policy?
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-  
-We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
- 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-### Additional resources
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-Violent and hateful entities policy
-===================================
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+Abuse and harassment
+====================
 
 ### Overview
 
-**  
-April 2023**
+**June 2023**
 
-There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
+  
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
-Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+### What is in violation of this policy? 
 
-Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+**Targeted harassment**
 
-### What is in violation of this policy?
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
 
-Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
 
-* Engaging in or promoting violent acts
-* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+**Encouraging or calling for others to harass an individual or group of people**  
 
-### What is not a violation of this policy?
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
 
-We may make limited exceptions for violent and hateful entities if we can determine the following:
+**Unwanted Sexual Content & Graphic Objectification**
 
-* They have reformed or denounced their violence and/or hate-based purpose.
-* They are currently engaged in a peaceful resolution process.
-* They are state or governmental entities, including those that have representatives elected to public office.
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
 
-Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
-
-### Who can report violations of this policy?
-
-Anyone can report potential violations of this policy, whether they have an X account or not. 
-
-### How can I report violations of this policy?
-
-**In-app**
-
-You can report this content for review in-app on iOS as follows:
-
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-**Desktop**
+**Insults  
+**
 
-You can report this content for review via desktop as follows:
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
-      
-    
+**Violent Event Denial**  
 
-### What happens if you violate this policy?
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-  
-We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
- 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-### Additional resources
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-Violent and hateful entities policy
-===================================
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+Abuse and harassment
+====================
 
 ### Overview
 
-**  
-April 2023**
+**June 2023**
 
-There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
+  
+You may not share abusive content, harass someone, or encourage other people to do so.  
 
-**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
+On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
 
-Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+### What is in violation of this policy? 
 
-Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+**Targeted harassment**
 
-### What is in violation of this policy?
+We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
 
-Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
+* Mentioning or tagging users with malicious content.
 
-* Engaging in or promoting violent acts
-* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+**Encouraging or calling for others to harass an individual or group of people**  
 
-### What is not a violation of this policy?
+We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
 
-We may make limited exceptions for violent and hateful entities if we can determine the following:
+**Unwanted Sexual Content & Graphic Objectification**
 
-* They have reformed or denounced their violence and/or hate-based purpose.
-* They are currently engaged in a peaceful resolution process.
-* They are state or governmental entities, including those that have representatives elected to public office.
+While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
 
-Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
-
-### Who can report violations of this policy?
-
-Anyone can report potential violations of this policy, whether they have an X account or not. 
-
-### How can I report violations of this policy?
-
-**In-app**
-
-You can report this content for review in-app on iOS as follows:
-
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
-**Desktop**
+**Insults  
+**
 
-You can report this content for review via desktop as follows:
+We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
 
-1. Select **Report Account** from the  icon.
-2. Select **Violent & hateful entities**.
-3. Submit your report.  
-      
-    
+**Violent Event Denial**  
 
-### What happens if you violate this policy?
+We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
 
-  
-We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
- 
+**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
+**
 
-### Additional resources
+To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
 
-  
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+* Making content on X less visilbe by:
+    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
+    * Restricting the Post's discoverability to the author's profile
+    * Downranking the Post in replies
+    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
+    * Excluding the Post from having ads adjacent to it
+* Excluding Posts and/or accounts in email or in-product recommendations. 
+* Requiring Post removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
+* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
 
-To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+
+If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
