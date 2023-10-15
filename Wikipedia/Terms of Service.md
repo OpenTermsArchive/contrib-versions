@@ -36,7 +36,7 @@ General
 * [What links here](https://foundation.wikimedia.org/wiki/Special:WhatLinksHere/Policy:Terms_of_Use "A list of all wiki pages that link here [j]")
 * [Related changes](https://foundation.wikimedia.org/wiki/Special:RecentChangesLinked/Policy:Terms_of_Use "Recent changes in pages linked from this page [k]")
 * [Special pages](https://foundation.wikimedia.org/wiki/Special:SpecialPages "A list of all special pages [q]")
-* [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=291512 "Permanent link to this revision of this page")
+* [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=295218 "Permanent link to this revision of this page")
 * [Page information](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=info "More information about this page")
 * [Get shortened URL](https://foundation.wikimedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
 * [Wikidata item](https://www.wikidata.org/wiki/Special:EntityPage/Q118719909 "Link to connected data repository item [g]")
@@ -209,7 +209,7 @@ As used throughout the rest of the Terms of Use, our services consist of: [The P
 Because of our unique role, there are a couple of things you should be aware of when considering our relationship to you, the Projects, and other users:
 
 1. **We do not take an editorial role:** Because the Projects are collaboratively edited, the vast majority of the content that we host is provided by users, and we do not take an editorial role. This means that we generally do not monitor or edit the content of the Project Websites, and we do not take any responsibility for this content. Similarly, unless we have expressly stated otherwise, we do not endorse any opinions expressed via our services, and we do not represent or guarantee the truthfulness, accuracy, or reliability of any submitted community content on the Projects.
-2. **You are responsible for your own actions:** You are legally responsible for your edits and contributions on the Projects, your reuse of content on the Projects, your use of the APIs, and your use of our services more generally. For your own protection you should exercise caution and avoid taking any actions that may result in criminal or civil liability under any applicable laws. For clarity, applicable law includes at least the laws of the United States of America and the State of California. For other countries, this is determined on a case by case basis. Although we may not agree with such actions, we warn users—particularly the editors, contributors, and authors—that non-U.S. authorities may seek to apply other country laws to you, including local laws where you live or where you view or edit content. We generally cannot offer any protection, guarantee, immunity or indemnification against the application of such laws.
+2. **You are responsible for your own actions:** You are legally responsible for your edits and contributions on the Projects, your reuse of content on the Projects, your use of the APIs, and your use of our services more generally. For your own protection you should exercise caution and avoid taking any actions that may result in criminal or civil liability under any applicable laws. For clarity, applicable law includes at least the laws of the United States of America and the State of California. For other countries, this is determined on a case-by-case basis. Although we may not agree with such actions, we warn users—particularly the editors, contributors, and authors—that non-U.S. authorities may seek to apply other country laws to you, including local laws where you live or where you view or edit content. We generally cannot offer any protection, guarantee, immunity or indemnification against the application of such laws.
 
 2\. Privacy Policy
 ------------------
@@ -441,7 +441,7 @@ Some states or jurisdictions do not allow the types of disclaimers in this secti
 
 _Highlighted for emphasis_
 
-The Wikimedia Foundation will not be liable to you or to any other party for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data, or other intangible losses, regardless of whether we were advised of the possibility of such damage. In no event shall our liability exceed one thousand U.S. dollars (USD 1000.00) in aggregate. In the case that applicable law may not allow the limitation or exclusion of liability or incidental or consequential damages, the above limitation or exclusion may not apply to you, although our liability will be limited to the fullest extent permitted by applicable law.
+The Wikimedia Foundation will not be liable to you or to any other party for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data, or other intangible losses, regardless of whether we were advised of the possibility of such damage. In no event shall our liability exceed one thousand U.S. dollars (US$1000.00) in aggregate. In the case that applicable law may not allow the limitation or exclusion of liability or incidental or consequential damages, the above limitation or exclusion may not apply to you, although our liability will be limited to the fullest extent permitted by applicable law.
 
 17\. Modifications to these Terms of Use
 ----------------------------------------
@@ -486,7 +486,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 ![](//foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=291512](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=291512)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=295218](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=295218)"
 
 [Categories](https://foundation.wikimedia.org/wiki/Special:Categories "Special:Categories"):
 
