@@ -141,7 +141,7 @@ Disclaimer: This summary is not a part of the Privacy Policy and is not a legal 
 
   
 
-**Because we believe that you shouldn’t have to provide personal information to participate in the free knowledge movement, you may:**
+**Because we believe that you shouldn't have to provide personal information to participate in the free knowledge movement, you may:**
 
 * Read, edit, or use any Wikimedia Site [without registering an account](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#your-account-info "Special:MyLanguage/Policy:Privacy policy").
 * Register for an account [without providing](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#your-account-info "Special:MyLanguage/Policy:Privacy policy") an email address or real name.
@@ -204,7 +204,7 @@ Because everyone (not just lawyers) should be able to easily understand how and 
 
   
 
-| When we say… | …we mean: |
+| When we say... | ...we mean: |
 | --- | --- |
 | "the Wikimedia Foundation" / "the Foundation" / "we" / "us" / "our" | The [Wikimedia Foundation, Inc.](https://wikimediafoundation.org/ "foundationsite:"), the non-profit organization that operates the Wikimedia Sites. |
 | "Wikimedia Sites" / "our services" | Wikimedia websites and services (regardless of language), including our [main projects](https://wikimediafoundation.org/our-work/wikimedia-projects/ "foundationsite:our-work/wikimedia-projects/"), such as Wikipedia and Wikimedia Commons, as well as mobile applications, Application Programming Interfaces (APIs), emails, and notifications; excluding, however, sites and services listed in the "What This Privacy Policy Doesn't Cover" section below. |
