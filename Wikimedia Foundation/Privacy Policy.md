@@ -141,7 +141,7 @@ Disclaimer: This summary is not a part of the Privacy Policy and is not a legal 
 
   
 
-**Because we believe that you shouldn't have to provide personal information to participate in the free knowledge movement, you may:**
+**Because we believe that you should not have to provide personal information to participate in the free knowledge movement, you may:**
 
 * Read, edit, or use any Wikimedia Site [without registering an account](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#your-account-info "Special:MyLanguage/Policy:Privacy policy").
 * Register for an account [without providing](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#your-account-info "Special:MyLanguage/Policy:Privacy policy") an email address or real name.
