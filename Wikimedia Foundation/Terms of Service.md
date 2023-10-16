@@ -80,7 +80,7 @@ Other languages:
 * [Ripoarisch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ksh "Bedengonge för der Jebruch (16% translated)")
 * [Runa Simi](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/qu "Q'apinapa kamachikuna (5% translated)")
 * [Schweizer Hochdeutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de-ch "Nutzungsbedingungen (1% translated)")
-* [Scots](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sco "Terms o uise (3% translated)")
+* [Scots](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sco "Terms o uise (8% translated)")
 * [Sunda](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/su "Sarat pamakéan (5% translated)")
 * [Tagalog](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tl "Patakaran:Kasunduan sa Paggamit (20% translated)")
 * [Tiếng Việt](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/vi "Điều khoản Sử dụng (99% translated)")
