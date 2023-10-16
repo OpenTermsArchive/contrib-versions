@@ -75,7 +75,7 @@ Other languages:
 * [Latina](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/la "conditionem úimo (1% translated)")
 * [Lëtzebuergesch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lb "Konditioune fir d'Benotzenfr (4% translated)")
 * [Malti](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mt "Policy:Terms of Use/mt (1% translated)")
-* [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nl "Gebruiksvoorwaarden (99% translated)")
+* [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nl "Gebruiksvoorwaarden (100% translated)")
 * [Qaraqalpaqsha](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/kaa "Paydalanıw shártleri (1% translated)")
 * [Ripoarisch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ksh "Bedengonge för der Jebruch (16% translated)")
 * [Runa Simi](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/qu "Q'apinapa kamachikuna (5% translated)")
