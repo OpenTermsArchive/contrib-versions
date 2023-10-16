@@ -1,683 +1,1277 @@
-Illegal or certain regulated goods or services
-==============================================
+Violent and hateful entities policy
+===================================
 
-### Overview 
+### Overview
 
-**March 2023**
+**  
+April 2023**
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-Goods or services covered under this policy include, but are not limited to:
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
+    
+
+### What happens if you violate this policy?
+
   
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
  
 
-### Additional resources 
+### Additional resources
 
+  
 Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-Illegal or certain regulated goods or services
-==============================================
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-### Overview 
+Violent and hateful entities policy
+===================================
 
-**March 2023**
+### Overview
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+**  
+April 2023**
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-Goods or services covered under this policy include, but are not limited to:
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
+    
+
+### What happens if you violate this policy?
+
   
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
  
 
-### Additional resources 
+### Additional resources
 
+  
 Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-Illegal or certain regulated goods or services
-==============================================
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-### Overview 
+Violent and hateful entities policy
+===================================
 
-**March 2023**
+### Overview
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+**  
+April 2023**
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-Goods or services covered under this policy include, but are not limited to:
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
+    
+
+### What happens if you violate this policy?
+
   
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
  
 
-### Additional resources 
+### Additional resources
 
+  
 Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-Illegal or certain regulated goods or services
-==============================================
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-### Overview 
+Violent and hateful entities policy
+===================================
 
-**March 2023**
+### Overview
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+**  
+April 2023**
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-Goods or services covered under this policy include, but are not limited to:
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
+    
+
+### What happens if you violate this policy?
+
   
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
  
 
-### Additional resources 
+### Additional resources
 
+  
 Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-Illegal or certain regulated goods or services
-==============================================
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-### Overview 
+Violent and hateful entities policy
+===================================
 
-**March 2023**
+### Overview
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+**  
+April 2023**
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-Goods or services covered under this policy include, but are not limited to:
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
+    
+
+### What happens if you violate this policy?
+
   
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
  
 
-### Additional resources 
+### Additional resources
 
+  
 Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-Illegal or certain regulated goods or services
-==============================================
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-### Overview 
+Violent and hateful entities policy
+===================================
 
-**March 2023**
+### Overview
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+**  
+April 2023**
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-Goods or services covered under this policy include, but are not limited to:
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
+    
+
+### What happens if you violate this policy?
+
   
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
  
 
-### Additional resources 
+### Additional resources
 
+  
 Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-Illegal or certain regulated goods or services
-==============================================
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-### Overview 
+Violent and hateful entities policy
+===================================
 
-**March 2023**
+### Overview
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+**  
+April 2023**
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-Goods or services covered under this policy include, but are not limited to:
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
+    
+
+### What happens if you violate this policy?
+
   
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
  
 
-### Additional resources 
+### Additional resources
 
+  
 Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-Illegal or certain regulated goods or services
-==============================================
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-### Overview 
+Violent and hateful entities policy
+===================================
 
-**March 2023**
+### Overview
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+**  
+April 2023**
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-Goods or services covered under this policy include, but are not limited to:
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
+    
+
+### What happens if you violate this policy?
+
   
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
  
 
-### Additional resources 
+### Additional resources
 
+  
 Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-Illegal or certain regulated goods or services
-==============================================
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-### Overview 
+Violent and hateful entities policy
+===================================
 
-**March 2023**
+### Overview
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+**  
+April 2023**
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-Goods or services covered under this policy include, but are not limited to:
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
+    
+
+### What happens if you violate this policy?
+
   
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
  
 
-### Additional resources 
+### Additional resources
 
+  
 Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-Illegal or certain regulated goods or services
-==============================================
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-### Overview 
+Violent and hateful entities policy
+===================================
 
-**March 2023**
+### Overview
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+**  
+April 2023**
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-Goods or services covered under this policy include, but are not limited to:
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
+    
+
+### What happens if you violate this policy?
+
   
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
  
 
-### Additional resources 
+### Additional resources
 
+  
 Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-Illegal or certain regulated goods or services
-==============================================
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-### Overview 
+Violent and hateful entities policy
+===================================
 
-**March 2023**
+### Overview
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+**  
+April 2023**
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-Goods or services covered under this policy include, but are not limited to:
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
+    
+
+### What happens if you violate this policy?
+
   
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
  
 
-### Additional resources 
+### Additional resources
 
+  
 Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-Illegal or certain regulated goods or services
-==============================================
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-### Overview 
+Violent and hateful entities policy
+===================================
 
-**March 2023**
+### Overview
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+**  
+April 2023**
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-Goods or services covered under this policy include, but are not limited to:
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
+    
+
+### What happens if you violate this policy?
+
   
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
  
 
-### Additional resources 
+### Additional resources
 
+  
 Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-Illegal or certain regulated goods or services
-==============================================
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-### Overview 
+Violent and hateful entities policy
+===================================
 
-**March 2023**
+### Overview
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+**  
+April 2023**
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-Goods or services covered under this policy include, but are not limited to:
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
+    
+
+### What happens if you violate this policy?
+
   
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
  
 
-### Additional resources 
+### Additional resources
 
+  
 Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-Illegal or certain regulated goods or services
-==============================================
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-### Overview 
+Violent and hateful entities policy
+===================================
 
-**March 2023**
+### Overview
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+**  
+April 2023**
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-Goods or services covered under this policy include, but are not limited to:
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
+    
+
+### What happens if you violate this policy?
+
   
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
  
 
-### Additional resources 
+### Additional resources
 
+  
 Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-Illegal or certain regulated goods or services
-==============================================
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-### Overview 
+Violent and hateful entities policy
+===================================
 
-**March 2023**
+### Overview
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+**  
+April 2023**
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-Goods or services covered under this policy include, but are not limited to:
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
+    
+
+### What happens if you violate this policy?
+
   
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
  
 
-### Additional resources 
+### Additional resources
 
+  
 Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-Illegal or certain regulated goods or services
-==============================================
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-### Overview 
+Violent and hateful entities policy
+===================================
 
-**March 2023**
+### Overview
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+**  
+April 2023**
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-Goods or services covered under this policy include, but are not limited to:
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
+    
+
+### What happens if you violate this policy?
+
   
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
  
 
-### Additional resources 
+### Additional resources
 
+  
 Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-Illegal or certain regulated goods or services
-==============================================
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-### Overview 
+Violent and hateful entities policy
+===================================
 
-**March 2023**
+### Overview
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+**  
+April 2023**
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-Goods or services covered under this policy include, but are not limited to:
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
+    
+
+### What happens if you violate this policy?
+
   
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
  
 
-### Additional resources 
+### Additional resources
 
+  
 Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-Illegal or certain regulated goods or services
-==============================================
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-### Overview 
+Violent and hateful entities policy
+===================================
 
-**March 2023**
+### Overview
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+**  
+April 2023**
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-Goods or services covered under this policy include, but are not limited to:
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
+
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
+    
+
+### What happens if you violate this policy?
+
   
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
  
 
-### Additional resources 
+### Additional resources
 
+  
 Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
