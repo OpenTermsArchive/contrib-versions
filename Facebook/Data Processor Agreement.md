@@ -1,6 +1,3 @@
-_We have updated this addendum, effective from 7 September 2023. This change reflects that we now rely on the European Commission's Adequacy Decision for the EU-US. Data Privacy Framework when transferring data to which this addendum applies to the US. [Learn more](https://www.facebook.com/business/help/1001186684640957) about this update._
-
-  
   
 
 META EUROPEAN DATA TRANSFER ADDENDUM
