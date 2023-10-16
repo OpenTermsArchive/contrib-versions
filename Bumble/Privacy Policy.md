@@ -25,7 +25,7 @@ When you download the App and create an account (“Account”), we may collect 
 * Email address;
 * Mobile number;
 * Gender identity;
-* Date of birth;
+* Date, time, and location of birth;
 * Sexual preference;
 * Photographs;
 * Location; and
@@ -78,9 +78,11 @@ If you have given Bumble access to your location, but wish to turn this off, you
 1. iPhone app — settings, privacy, location services, Bumble
 2. Android — settings, location, Bumble, permissions, location
 
-### Device Information
+### Device and Photos Information
 
 We may collect information about your device when you use the App including the unique device identifier, device model, and operating system, for a number of purposes, as set out in this policy. In addition, if you permit us to do so, the App may access your device’s address book solely in order to add someone to your contacts.
+
+We also collect data about your photos, such as which are the photos that users spend time on or which are the photos that have the best lighting, etc. We may use that data to rearrange your profile photos aiming to position them in a way that is favourable to you. You may opt-out of this feature through our app settings.
 
 ### Links
 
@@ -139,6 +141,7 @@ Under EU and UK data protection laws, we are required to tell you our lawful bas
 | To carry out research and analysis to help us improve the App and to test new technologies and processes designed to enhance and improve the App/Sites | Log and usage data, including IP address, browser type, referring domain, pages accessed, mobile carrier and search terms, images and video, registration information, profile information (CCPA Categories A, F and H) | You provide photos and videos to us. We obtain the log and usage information from the device that you use to access the service | Legitimate interests – it is in our legitimate interests to analyse the way in which Users are accessing and using our services and to test new technologies so that we can further develop the App, implement security measures and improve the service |
 | To respond to correspondence and queries that you submit to us, including social media queries | Email address and IP address, social media name, phone number (CCPA Categories B and F) | You provide your email address, social media name and phone number to us when you contact us and we obtain your IP address from the device that you use to contact us | Legitimate interests – it is in our legitimate interests to respond to your queries to ensure that we provide a good service to Users and troubleshoot problems |
 | To investigate and block Users for reported infringements of our Terms and Conditions of Use | Name and user registration details, profile information, content of messages and photographs + usage and device data such as IP address and IP session information (CCPA Categories A, B, C, F, and H) | You provide your registration details, profile information, messages and photographs to us. We obtain the other information from the device that you use to access the service. | Legitimate interests - it is in our legitimate interests to prevent unauthorised behaviour and to maintain the safety and integrity of our services |
+| To improve your experience on the App | Data about profile photos such as whether the first profile photo is scrolled on or not and whether the vote is a yes or a no | We obtain this information from the way users interact with the App and the profile photos of other users | Legitimate interest - it is in our legitimate interest to improve our users’ experience |
 | To enable Users to create and enhance their Bumble profile and log into the App via third party accounts | Data from Facebook and other third-party accounts (see section 7 of this Privacy Policy for more details) (CCPA Categories A, B, C, and H) | We obtain this information from Facebook, or the providers of any other accounts you use to log in or connect with your Bumble account | Legitimate interests – it is in our legitimate interests to facilitate access to our services |
 | To block payment transactions as part of our anti-fraud procedures | Name, IP address, email address, mobile number, cardholder name, payments received, type of payment, user ID, country (CCPA Categories, A, B, and D) | You provide your name, email address, mobile number and card details to us. We obtain your IP address from the device that you use to contact us. We obtain your payment information from your interactions with our service | Legitimate interests – it is in our legitimate interests to prevent fraudulent transactions and to maintain the security of our services |
 | To serve promo cards and advertisements on the App | Location, gender, age, and information that you have optionally provided us with via your profile (CCPA Categories A, C and G) | We obtain age, gender and profile information from you, and location data from the device that you use to access the service | Legitimate interests – it is in our legitimate interests to target advertisements so that Users see relevant advertisements and to allow us to generate income from advertising revenue |
@@ -361,4 +364,4 @@ As Bumble evolves, we may revise this Privacy Policy from time to time. The most
 
 ### Effective date
 
-This Privacy Policy was last updated 14th July 2023.
+This Privacy Policy was last updated 13th October 2023.
