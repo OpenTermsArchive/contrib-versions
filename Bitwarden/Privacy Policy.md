@@ -3,15 +3,15 @@
 Bitwarden Inc. Privacy Policy
 -----------------------------
 
-[](#privacy-shield)
+[](#eu-u-s-data-privacy-framework)
 
-### Privacy Shield
+### EU-U.S. Data Privacy Framework
 
-Bitwarden Inc. ("Bitwarden") complies with the EU-U.S., Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union, United Kingdom (UK) and Switzerland, as applicable, to the United States in reliance on Privacy Shield. Bitwarden has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov.](https://www.privacyshield.gov/)
+Bitwarden Inc. ("Bitwarden") complies with the requirements of the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”) and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) (collectively “DPF”), as set forth by the U.S. Department of Commerce and the Federal Trade Commission (“FTC”), regarding the collection, use, and retention of personal information transferred from the European Economic Area (“EEA”) and the United Kingdom (“UK”) and Switzerland to the United States.. Bitwarden has certified to the Department of Commerce that we adhere to the DPF Principles and Supplemental Principles with respect to personal information transferred to us in reliance on the DPF. If there is any conflict between the terms in this Privacy Policy and the DPF Principles, the DPF Principles shall govern. We are subject to the investigatory powers of the FTC with respect to our DPF compliance. To learn more about the EU-U.S. Data Privacy Framework program, and to view our certification, please visit [https://www.dataprivacyframework.gov/s/participant-search](https://www.dataprivacyframework.gov/s/participant-search)[.](https://www.privacyshield.gov/)
 
-[](#privacy-shield-principles-principles)
+[](#eu-u-s-data-privacy-framework-principles)
 
-### Privacy Shield Principles (Principles)
+### EU-U.S. Data Privacy Framework (Principles)
 
 * [Notice](#notice)
     
@@ -221,7 +221,7 @@ Depending on how Bitwarden is deployed by the customer, Bitwarden may share Pers
 
 To ensure the confidentiality and security of your Personal Information, we have data processing terms in place with service providers that handle Personal Information. These service providers are restricted by contract from using Personal Information in any way other than to provide services for Bitwarden, including on your behalf as part of your contract with us.
 
-In the context of an onward transfer, Bitwarden has responsibility for the processing of Personal Information it receives under the Privacy Shield and subsequently transfers to a third party acting as an agent on its behalf. Bitwarden shall remain liable under the Principles if its agent processes such Personal Information in a manner inconsistent with the Principles, unless the organization proves that it is not responsible for the event giving rise to the damage.
+In the context of an onward transfer, Bitwarden has responsibility for the processing of Personal Information it receives under the EU-U.S. Data Privacy Framework and subsequently transfers to a third party acting as an agent on its behalf. Bitwarden shall remain liable under the Principles if its agent processes such Personal Information in a manner inconsistent with the Principles, unless the organization proves that it is not responsible for the event giving rise to the damage.
 
 Bitwarden may also provide your Personal Information to a third party if:
 
@@ -251,7 +251,7 @@ We may also provide your Personal Information to a third party in connection wit
 
 Bitwarden and our subprocessors and vendors primarily store information collected from you within the European Economic Area and the United States. To facilitate our global operations, we may transfer and access such Personal Information from around the world, including from other countries in which Bitwarden or our subprocessors have operations. For more information about our subprocessors, visit [https://bitwarden.com/help/subprocessors/](https://bitwarden.com/help/subprocessors/).
 
-We use applicable, approved information transfer mechanisms where required, such as EU Standard Contractual Clauses (SCCs), or the EU - U.S. Privacy Shield.
+We use applicable, approved information transfer mechanisms where required, such as EU Standard Contractual Clauses (SCCs), or the EU-U.S. Data Privacy Framework.
 
 [](#recourse-and-enforcement)
 
@@ -259,11 +259,11 @@ We use applicable, approved information transfer mechanisms where required, such
 
 You may contact us about our practices or to make a complaint and seek recourse according to these methods available to you, and subject to applicable enforcement powers.
 
-In compliance with the EU-U.S. Privacy Shield Principles, Bitwarden commits to resolve complaints about our collection or use of your Personal Information. European Union, UK and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Bitwarden at the information provided below in the "Contact Us" section.
+In compliance with the EU-U.S. Data Privacy Principles, Bitwarden commits to resolve complaints about our collection or use of your Personal Information. European Union, UK and Swiss individuals with inquiries or complaints regarding our EU-U.S. Data Privacy Framework policy should first contact Bitwarden at the information provided below in the "Contact Us" section.
 
-If you have an unresolved complaint, Bitwarden has committed and signed on to the JAMS EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield ADR, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit [https://www.jamsadr.com/eu-us-privacy-shield](https://www.jamsadr.com/eu-us-privacy-shield) for more information or to file a complaint.
+If you have an unresolved complaint, Bitwarden has has agreed to participate in the DPF independent dispute resolution mechanism operated by JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit [https://www.jamsadr.com/eu-us-data-privacy-framework](https://www.jamsadr.com/eu-us-data-privacy-framework) for more information or to file a complaint.
 
-The services of JAMS EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield ADR are provided at no cost to you. Mediations will be conducted pursuant to JAMS International Mediation Rules unless the parties have specified a different set of Rules or Procedures.
+The services of JAMS EU-U.S. Data Privacy Framework are provided at no cost to you. Mediations will be conducted pursuant to JAMS International Mediation Rules unless the parties have specified a different set of Rules or Procedures.
 
 Bitwarden is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). European Union and Swiss individuals have the possibility, under certain conditions, to invoke binding arbitration.
 
@@ -369,7 +369,7 @@ _Non-Discrimination Rights_
 
 California residents have the right to not be discriminated against for exercising their rights as described in this section. We will not discriminate against you for exercising your rights.
 
-Last revised 10-JUN-2021
+Last revised 16-OCT-2023
 
 [](#contact-us)
 
