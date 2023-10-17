@@ -219,17 +219,17 @@ Both kinds of menu must follow the following guidelines:
 
 Products
 
-If you run a retail business, you can show nearby shoppers what you sell by adding your in-store products to your Business Profile at no charge.
+If you run a retail business in an eligible country (US, CA, UK and IE), you can turn online searchers into in-store shoppers by automatically showcasing your in-store products on your Business Profile.
 
-You can add in-store products to your Business Profile in two ways:
+To add your in-store products:
 
-* Manually upload your products with the Product Editor. [Learn how to upload with the Product Editor](https://support.google.com/business/answer/9124203). 
-* Simply add your products with Pointy. [Learn how to add products with Pointy](https://support.google.com/pointy/answer/10731675). 
+* Manually upload your products with the Product Editor. [Learn how to upload with the Product Editor](https://support.google.com/business/answer/9124203).
+* To automatically add your products to your Business Profile, connect your point of sale system to the local inventory app or product reader. [Learn how to add your products to your Business Profile](https://support.google.com/business/answer/9934993).
 
-Both methods must adhere to the following guidelines: 
+Both methods must adhere to the following guidelines:
 
-* Products submitted via Product Editor or Pointy must adhere to the Shopping Ads Policy. [Learn more about the Shopping Ads Policy](https://support.google.com/business/answer/10786874). 
-* We do not allow content related to regulated products and services, including alcohol, tobacco products, gambling, financial services, pharmaceuticals and unapproved supplements or health/medical devices.
+* Products submitted via Product Editor added automatically must adhere to the Shopping ads policy. [Learn more about the Shopping ads policy](https://support.google.com/business/answer/10786874).
+* We do not allow content related to regulated products and services, including alcohol, tobacco products, gambling, financial services, pharmaceuticals and unapproved supplements, or health or medical devices.
 * Submitting products that violate Google's policy may result in removal of the entire product catalogue, including products that aren't in violation.
 
 Guidelines for chains, departments & individual practitioners
@@ -280,16 +280,16 @@ However, if the business is an authorised and fully dedicated seller of the bran
 
 * **Acceptable:** 'TCC Verizon Wireless Premium Retailer', 'U-Haul Neighborhood Dealer'
 
-#### Virtual food brands 
+#### Virtual food brands
 
- Virtual food brands are permitted with conditions. 
+Virtual food brands are permitted with conditions.
 
- **Co-located food brands offering collection**
+**Co-located food brands offering collection**
 
 * Food brands that are co-located each must have permanent separate signage. They should display their address **only** if they offer collection to all customers.
     * Delivery-only brands (no collection option) out of shared kitchens must hide their address and add service areas to that specific brand to avoid confusing their customers.
 
- **Delivery-only food brands**
+**Delivery-only food brands**
 
 * Delivery-only brands (i.e. those operating out of virtual kitchens) are permitted if they have distinct branded packaging and a distinct website.
 * Multiple virtual brands operating out of one location are permitted, but are subject to additional verification steps.
