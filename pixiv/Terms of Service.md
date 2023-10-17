@@ -1070,7 +1070,7 @@ Supplementary provision:
 Revision
 --------
 
-* August 31st, 2023　“Article 15. Direct Deposit Request” was updated.
+* August 31st, 2023 “Article 15. Direct Deposit Request” was updated.
 * July 25, 2023 “Article 5. Cancellation of Creator Registration” and “Article 7. Posting” have been revised.
 * October 25, 2021 "Article 2. Support by Supporters" , "Article 15. Direct Deposit Request", "Article 16. Insufficient or Incorrect Direct Deposit Account Information" and "Article 18. Prohibitions" have been revised.
 * May 31, 2021 "Article 9. Support by Supporters" and "Article 14. Payment" have been revised.
@@ -1615,8 +1615,8 @@ Revision
 * August 1, 2017
 * April 25, 2016
 
-BOOTH Storage Service
-=====================
+BOOTH Storage Service Terms of Use
+==================================
 
 This document is an English translation of the original version for reference purposes only. The original version is written in the Japanese language. In the case of any discrepancy between the original Japanese version and this English translation, the original Japanese version shall prevail.
 
