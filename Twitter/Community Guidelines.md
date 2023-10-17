@@ -1,2663 +1,1205 @@
-Suicide and Self-harm policy
-============================
+Child sexual exploitation policy
+================================
 
-Overview  
- 
+### Overview 
 
-**You may not promote or encourage suicide or self-harm.**
+**October 2020**
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
-
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
-    
 
-Violations of this policy include, but are not limited to:  
+The following behaviors are also not permitted:   
 
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
-
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
      
-    
-
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
-
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How to report violations of this policy 
+### How can I report violations of this policy? 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
-
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-Additional resources  
-  
-
-==========================
+### Additional resources 
 
 Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-Suicide and Self-harm policy
-============================
+Child sexual exploitation policy
+================================
 
-Overview  
- 
+### Overview 
 
-**You may not promote or encourage suicide or self-harm.**
+**October 2020**
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
-
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
-    
 
-Violations of this policy include, but are not limited to:  
+The following behaviors are also not permitted:   
 
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
-
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
      
-    
-
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
-
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How to report violations of this policy 
+### How can I report violations of this policy? 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
-
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-Additional resources  
-  
-
-==========================
+### Additional resources 
 
 Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-Suicide and Self-harm policy
-============================
+Child sexual exploitation policy
+================================
 
-Overview  
- 
+### Overview 
 
-**You may not promote or encourage suicide or self-harm.**
+**October 2020**
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
-
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
-    
 
-Violations of this policy include, but are not limited to:  
+The following behaviors are also not permitted:   
 
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
-
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
      
-    
-
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
-
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How to report violations of this policy 
+### How can I report violations of this policy? 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
-
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-Additional resources  
-  
-
-==========================
+### Additional resources 
 
 Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-Suicide and Self-harm policy
-============================
+Child sexual exploitation policy
+================================
 
-Overview  
- 
+### Overview 
 
-**You may not promote or encourage suicide or self-harm.**
+**October 2020**
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
-
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
-    
 
-Violations of this policy include, but are not limited to:  
+The following behaviors are also not permitted:   
 
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
-
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
      
-    
-
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
-
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How to report violations of this policy 
+### How can I report violations of this policy? 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
-
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-Additional resources  
-  
-
-==========================
+### Additional resources 
 
 Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-Suicide and Self-harm policy
-============================
+Child sexual exploitation policy
+================================
 
-Overview  
- 
+### Overview 
 
-**You may not promote or encourage suicide or self-harm.**
+**October 2020**
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
-
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
-    
 
-Violations of this policy include, but are not limited to:  
+The following behaviors are also not permitted:   
 
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
-
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
      
-    
-
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
-
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How to report violations of this policy 
+### How can I report violations of this policy? 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
-
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-Additional resources  
-  
-
-==========================
+### Additional resources 
 
 Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-Suicide and Self-harm policy
-============================
+Child sexual exploitation policy
+================================
 
-Overview  
- 
+### Overview 
 
-**You may not promote or encourage suicide or self-harm.**
+**October 2020**
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
-
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
-    
 
-Violations of this policy include, but are not limited to:  
+The following behaviors are also not permitted:   
 
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
-
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
      
-    
-
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
-
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How to report violations of this policy 
+### How can I report violations of this policy? 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
-
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-Additional resources  
-  
-
-==========================
+### Additional resources 
 
 Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-Suicide and Self-harm policy
-============================
+Child sexual exploitation policy
+================================
 
-Overview  
- 
+### Overview 
 
-**You may not promote or encourage suicide or self-harm.**
+**October 2020**
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
-
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
-    
 
-Violations of this policy include, but are not limited to:  
+The following behaviors are also not permitted:   
 
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
-
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
      
-    
-
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
-
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How to report violations of this policy 
+### How can I report violations of this policy? 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
-
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-Additional resources  
-  
-
-==========================
+### Additional resources 
 
 Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-Suicide and Self-harm policy
-============================
+Child sexual exploitation policy
+================================
 
-Overview  
- 
+### Overview 
 
-**You may not promote or encourage suicide or self-harm.**
+**October 2020**
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
-
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
-    
 
-Violations of this policy include, but are not limited to:  
+The following behaviors are also not permitted:   
 
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
-
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
      
-    
-
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
-
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How to report violations of this policy 
+### How can I report violations of this policy? 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
-
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-Additional resources  
-  
-
-==========================
+### Additional resources 
 
 Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-Suicide and Self-harm policy
-============================
+Child sexual exploitation policy
+================================
 
-Overview  
- 
+### Overview 
 
-**You may not promote or encourage suicide or self-harm.**
+**October 2020**
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
-
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
-    
 
-Violations of this policy include, but are not limited to:  
+The following behaviors are also not permitted:   
 
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
-
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
      
-    
-
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
-
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How to report violations of this policy 
+### How can I report violations of this policy? 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
-
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-Additional resources  
-  
-
-==========================
+### Additional resources 
 
 Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-Suicide and Self-harm policy
-============================
+Child sexual exploitation policy
+================================
 
-Overview  
- 
+### Overview 
 
-**You may not promote or encourage suicide or self-harm.**
+**October 2020**
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
-
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
-    
 
-Violations of this policy include, but are not limited to:  
+The following behaviors are also not permitted:   
 
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
-
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
      
-    
-
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
-
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How to report violations of this policy 
+### How can I report violations of this policy? 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
-
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-Additional resources  
-  
-
-==========================
+### Additional resources 
 
 Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-Suicide and Self-harm policy
-============================
+Child sexual exploitation policy
+================================
 
-Overview  
- 
+### Overview 
 
-**You may not promote or encourage suicide or self-harm.**
+**October 2020**
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
-
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
-    
 
-Violations of this policy include, but are not limited to:  
+The following behaviors are also not permitted:   
 
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
-
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
      
-    
-
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
-
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How to report violations of this policy 
+### How can I report violations of this policy? 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
-
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-Additional resources  
-  
-
-==========================
+### Additional resources 
 
 Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-Suicide and Self-harm policy
-============================
+Child sexual exploitation policy
+================================
 
-Overview  
- 
+### Overview 
 
-**You may not promote or encourage suicide or self-harm.**
+**October 2020**
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
-
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
-    
 
-Violations of this policy include, but are not limited to:  
+The following behaviors are also not permitted:   
 
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
-
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
      
-    
-
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
-
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How to report violations of this policy 
+### How can I report violations of this policy? 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
-
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-Additional resources  
-  
-
-==========================
+### Additional resources 
 
 Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-Suicide and Self-harm policy
-============================
+Child sexual exploitation policy
+================================
 
-Overview  
- 
+### Overview 
 
-**You may not promote or encourage suicide or self-harm.**
+**October 2020**
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
-
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
-    
 
-Violations of this policy include, but are not limited to:  
+The following behaviors are also not permitted:   
 
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
-
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
      
-    
-
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
-
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How to report violations of this policy 
+### How can I report violations of this policy? 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
-
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-Additional resources  
-  
-
-==========================
+### Additional resources 
 
 Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-Suicide and Self-harm policy
-============================
+Child sexual exploitation policy
+================================
 
-Overview  
- 
+### Overview 
 
-**You may not promote or encourage suicide or self-harm.**
+**October 2020**
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
-
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
-    
 
-Violations of this policy include, but are not limited to:  
+The following behaviors are also not permitted:   
 
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
-
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
      
-    
-
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
-
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How to report violations of this policy 
+### How can I report violations of this policy? 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
-
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-Additional resources  
-  
-
-==========================
+### Additional resources 
 
 Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-Suicide and Self-harm policy
-============================
+Child sexual exploitation policy
+================================
 
-Overview  
- 
+### Overview 
 
-**You may not promote or encourage suicide or self-harm.**
+**October 2020**
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
-
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
-    
 
-Violations of this policy include, but are not limited to:  
+The following behaviors are also not permitted:   
 
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
-
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
      
-    
-
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
-
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How to report violations of this policy 
+### How can I report violations of this policy? 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
-
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-Additional resources  
-  
-
-==========================
+### Additional resources 
 
 Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-Suicide and Self-harm policy
-============================
+Child sexual exploitation policy
+================================
 
-Overview  
- 
+### Overview 
 
-**You may not promote or encourage suicide or self-harm.**
+**October 2020**
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
-
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
-    
 
-Violations of this policy include, but are not limited to:  
+The following behaviors are also not permitted:   
 
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
-
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
      
-    
-
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
-
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How to report violations of this policy 
+### How can I report violations of this policy? 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
-
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-Additional resources  
-  
-
-==========================
+### Additional resources 
 
 Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-Suicide and Self-harm policy
-============================
+Child sexual exploitation policy
+================================
 
-Overview  
- 
+### Overview 
 
-**You may not promote or encourage suicide or self-harm.**
+**October 2020**
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
-
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
-    
 
-Violations of this policy include, but are not limited to:  
+The following behaviors are also not permitted:   
 
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
-
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
      
-    
-
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
-
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How to report violations of this policy 
+### How can I report violations of this policy? 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
-
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-Additional resources  
-  
-
-==========================
+### Additional resources 
 
 Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
 
-Suicide and Self-harm policy
-============================
+Child sexual exploitation policy
+================================
 
-Overview  
- 
+### Overview 
 
-**You may not promote or encourage suicide or self-harm.**
+**October 2020**
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
-
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
      
-    
 
-Violations of this policy include, but are not limited to:  
+The following behaviors are also not permitted:   
 
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
-
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
      
-    
-
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
-
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+Anyone can report potential violations of this policy, whether they have an X account or not.   
  
 
-### How to report violations of this policy 
+### How can I report violations of this policy? 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
  
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
-
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
 
-Additional resources  
-  
-
-==========================
+### Additional resources 
 
 Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
 
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
