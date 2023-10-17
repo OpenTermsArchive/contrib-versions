@@ -89,7 +89,7 @@ Support: [community.brave.com](https://community.brave.com/)
 Brave Premium Products[](#brave-premium-products "Permalink to this headline")
 ------------------------------------------------------------------------------
 
-Brave Premium products are paid services and at your sole discretion, you can pay to subscribe to any or all of them. They include Brave Firewall + VPN, Brave Talk Premium, and Brave Search Premium.
+Brave Premium products are paid services and at your sole discretion, you can pay to subscribe to any or all of them. They include Brave Leo, Brave Firewall + VPN, Brave Talk Premium, and Brave Search Premium.
 
 When subscribing to Brave Premium products via Apple’s App Store on iOS devices or Google Play Store on Android devices, payment for your subscription plan is due and collected by the platform provider. Your subscription payment will be subject to the platform’s applicable payment policy, which may not provide for refunds. We strongly recommend you read Apple’s or Google’s terms and conditions before subscribing to one of our plans. Please note that these terms and conditions are subject to amendments by Apple or Google. Brave is not responsible for any payment error or fraud on your account with Apple or Google. Also, any fee payment will be deemed final, and we will not provide you any refund. Apple or Google may collect personal data and payment card data when you make purchases. They do not give this data to Brave. 
 
