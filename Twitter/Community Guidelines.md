@@ -1,1601 +1,1277 @@
-Civic integrity policy
-======================
+Violent and hateful entities policy
+===================================
 
 ### Overview
 
-### **August 2023**
+**  
+April 2023**
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-**What is a civic process?** 
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review via desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
     
 
-**Intimidation**
+### What happens if you violate this policy?
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+### Additional resources
 
-**False or misleading affiliation**
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
+Violent and hateful entities policy
+===================================
 
 ### Overview
 
-### **August 2023**
+**  
+April 2023**
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-**What is a civic process?** 
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review via desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
     
 
-**Intimidation**
+### What happens if you violate this policy?
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+### Additional resources
 
-**False or misleading affiliation**
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
+Violent and hateful entities policy
+===================================
 
 ### Overview
 
-### **August 2023**
+**  
+April 2023**
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-**What is a civic process?** 
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review via desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
     
 
-**Intimidation**
+### What happens if you violate this policy?
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+### Additional resources
 
-**False or misleading affiliation**
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
+Violent and hateful entities policy
+===================================
 
 ### Overview
 
-### **August 2023**
+**  
+April 2023**
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-**What is a civic process?** 
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review via desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
     
 
-**Intimidation**
+### What happens if you violate this policy?
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+### Additional resources
 
-**False or misleading affiliation**
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
+Violent and hateful entities policy
+===================================
 
 ### Overview
 
-### **August 2023**
+**  
+April 2023**
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-**What is a civic process?** 
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review via desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
     
 
-**Intimidation**
+### What happens if you violate this policy?
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+### Additional resources
 
-**False or misleading affiliation**
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
+Violent and hateful entities policy
+===================================
 
 ### Overview
 
-### **August 2023**
+**  
+April 2023**
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-**What is a civic process?** 
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review via desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
     
 
-**Intimidation**
+### What happens if you violate this policy?
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+### Additional resources
 
-**False or misleading affiliation**
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
+Violent and hateful entities policy
+===================================
 
 ### Overview
 
-### **August 2023**
+**  
+April 2023**
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-**What is a civic process?** 
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review via desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
     
 
-**Intimidation**
+### What happens if you violate this policy?
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+### Additional resources
 
-**False or misleading affiliation**
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
+Violent and hateful entities policy
+===================================
 
 ### Overview
 
-### **August 2023**
+**  
+April 2023**
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-**What is a civic process?** 
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review via desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
     
 
-**Intimidation**
+### What happens if you violate this policy?
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+### Additional resources
 
-**False or misleading affiliation**
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
+Violent and hateful entities policy
+===================================
 
 ### Overview
 
-### **August 2023**
+**  
+April 2023**
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-**What is a civic process?** 
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review via desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
     
 
-**Intimidation**
+### What happens if you violate this policy?
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+### Additional resources
 
-**False or misleading affiliation**
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
+Violent and hateful entities policy
+===================================
 
 ### Overview
 
-### **August 2023**
+**  
+April 2023**
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-**What is a civic process?** 
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review via desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
     
 
-**Intimidation**
+### What happens if you violate this policy?
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+### Additional resources
 
-**False or misleading affiliation**
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
+Violent and hateful entities policy
+===================================
 
 ### Overview
 
-### **August 2023**
+**  
+April 2023**
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-**What is a civic process?** 
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review via desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
     
 
-**Intimidation**
+### What happens if you violate this policy?
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+### Additional resources
 
-**False or misleading affiliation**
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
+Violent and hateful entities policy
+===================================
 
 ### Overview
 
-### **August 2023**
+**  
+April 2023**
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-**What is a civic process?** 
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review via desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
     
 
-**Intimidation**
+### What happens if you violate this policy?
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+### Additional resources
 
-**False or misleading affiliation**
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
+Violent and hateful entities policy
+===================================
 
 ### Overview
 
-### **August 2023**
+**  
+April 2023**
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-**What is a civic process?** 
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review via desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
     
 
-**Intimidation**
+### What happens if you violate this policy?
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+### Additional resources
 
-**False or misleading affiliation**
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
+Violent and hateful entities policy
+===================================
 
 ### Overview
 
-### **August 2023**
+**  
+April 2023**
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-**What is a civic process?** 
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review via desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
     
 
-**Intimidation**
+### What happens if you violate this policy?
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+### Additional resources
 
-**False or misleading affiliation**
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
+Violent and hateful entities policy
+===================================
 
 ### Overview
 
-### **August 2023**
+**  
+April 2023**
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-**What is a civic process?** 
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review via desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
     
 
-**Intimidation**
+### What happens if you violate this policy?
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+### Additional resources
 
-**False or misleading affiliation**
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
+Violent and hateful entities policy
+===================================
 
 ### Overview
 
-### **August 2023**
+**  
+April 2023**
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-**What is a civic process?** 
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review via desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
     
 
-**Intimidation**
+### What happens if you violate this policy?
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+### Additional resources
 
-**False or misleading affiliation**
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
+Violent and hateful entities policy
+===================================
 
 ### Overview
 
-### **August 2023**
+**  
+April 2023**
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-**What is a civic process?** 
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review via desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
     
 
-**Intimidation**
+### What happens if you violate this policy?
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+### Additional resources
 
-**False or misleading affiliation**
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
 
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
+Violent and hateful entities policy
+===================================
 
 ### Overview
 
-### **August 2023**
+**  
+April 2023**
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+There is no place on X for violent and hateful entities, including (but not limited to) terrorist organizations, violent extremist groups, [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks), or individuals who affiliate with and promote their illicit activities. The violence and hate these entities engage in and/or promote jeopardizes the physical safety of those targeted.
 
-**What is a civic process?** 
+**You may not threaten terrorism and/or violent extremism, nor promote violent and hateful entities.**
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Violent entities are those that deliberately target humans or essential infrastructure with physical violence and/or violent rhetoric as a means to further their cause. These include, but are not limited to, terrorist organizations, violent extremist groups, and [perpetrators of violent attacks](https://help.twitter.com/rules-and-policies/perpetrators-of-violent-attacks). 
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+Hateful entities are those that have systematically and intentionally promoted, supported and/or advocated for [hateful conduct](https://help.twitter.com/rules-and-policies/hateful-conduct-policy), which includes promoting violence or engaging in targeted harassment towards a protected category.
+
+### What is in violation of this policy?
+
+Under this policy, you can’t affiliate with or promote the activities of violent and hateful entities. Examples of the types of content that violate this policy include, but are not limited to, doing the following on behalf of, indirectly, or directly for a violent or hateful entity:
+
+* Engaging in or promoting violent acts
+* Recruiting, or providing or distributing services (such as media/propaganda) to further stated goals
+
+### What is not a violation of this policy?
+
+We may make limited exceptions for violent and hateful entities if we can determine the following:
+
+* They have reformed or denounced their violence and/or hate-based purpose.
+* They are currently engaged in a peaceful resolution process.
+* They are state or governmental entities, including those that have representatives elected to public office.
+
+Additionally, any discussions of violent and hateful entities for clearly educational, documentary, and/or newsworthy purposes is not a violation of this policy.
+
+### Who can report violations of this policy?
+
+Anyone can report potential violations of this policy, whether they have an X account or not. 
+
+### How can I report violations of this policy?
+
+**In-app**
+
+You can report this content for review in-app on iOS as follows:
+
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review via desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+1. Select **Report Account** from the  icon.
+2. Select **Violent & hateful entities**.
+3. Submit your report.  
+      
     
 
-**Intimidation**
+### What happens if you violate this policy?
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+  
+We will **immediately and permanently suspend any account that we determine to be in violation of this policy**. If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+### Additional resources
 
-**False or misleading affiliation**
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+To learn more about violations related to [specific threats of violence](https://help.twitter.com/rules-and-policies/violent-threats-glorification) or incidents involving wishing for the serious physical harm, death, or disease of an individual or group of people, please see our [abusive behavior](https://help.twitter.com/rules-and-policies/abusive-behavior) policy.
