@@ -324,7 +324,7 @@ Additional contact information may be found below for various Starbucks entities
     * Entity Address – Building 4 Chiswick Park, 566 Chiswick High Road, London, W4 5YE
     * Additional Contact (If Any) –
         * Customer Support
-            * [UKInfo@support.starbucks.com](mailto:UKInfo@support.starbucks.com)
+            * Please contact our Customer Care team [here](https://customercare.starbucks.co.uk/sbux?lang=en).
             * : +443330050449 or +442088345050 (app)
 * **Country – U.S.**
     * Entity Name – Starbucks Reserve; Princi
