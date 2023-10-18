@@ -149,4 +149,4 @@ Other terms of use
 Answers to FAQs
 ---------------
 
-You can find additional information and answers to your questions about the Customer Account Terms of Use in the [FAQs.](https://www.bahn.com/en/terms-of-use/customer-accounts-terms-of-use/faq-private-customer-account)
+You can find additional information and answers to your questions about the Customer Account Terms of Use in the [FAQ](https://int.bahn.de/en/terms-of-use/customer-accounts-terms-of-use/faq-private-customer-account)
