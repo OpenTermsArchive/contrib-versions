@@ -1,52 +1,27 @@
-Optimize Terms of Service
-=========================
+\[Sunset September 2023\] Google Optimize
+=========================================
 
-"By using Google Optimize on Company's GA Properties (the "**Optimize Service**"), you and the legal entity on whose behalf you are using the Optimize Service ("**Company**") agree to these terms (the "**Additional Terms**") in addition to the [Google Terms of Service](https://www.google.com/intl/en/policies/terms/) located at [https://www.google.com/intl/en/policies/terms/](https://www.google.com/intl/en/policies/terms/) and Google's [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) located at [https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/) (as modified from time to time, the Google Terms of Service and Google Privacy Policy, together, the "**Google Terms**"). The Google Terms and the Additional Terms together are referred to herein as the "**Optimize Terms**." For clarity, use of Optimize 360 on Company's Optimize 360 enabled properties will be governed by Company's Optimize 360 agreement. If you are accepting these Optimize Terms on behalf of Company, you represent and warrant that (i) you have full legal authority to bind Company to the Optimize Terms, (ii) you have read and understand the Optimize Terms, and (iii) you agree, on behalf of Company, to the Optimize Terms.
+**Google Optimize and Optimize 360 are no longer available as of September 30, 2023.** Any experiments and personalizations still active on that date have ended.
 
-**Section 1. Definitions**
+Frequently asked questions
+--------------------------
 
-**"Customer Data"** means Company's creative content or code for creative content that Company inputs into the Optimize Service.
+### Why was Optimize sunsetted?
 
-**"GA Property" or "GA Properties"** means the collection of Google Analytics settings and information associated with the same Google Analytics Property ID to which Hits are sent from a Property or collection of Properties.
+We remain committed to enabling businesses of all sizes to improve your user experiences and are investing in third-party A/B testing integrations for Google Analytics 4. We are focused on bringing the most effective solutions and integrations to our customers, especially as we look toward the future with Google Analytics 4.
 
-**"GA Terms"** means the Google Analytics Terms of Service (located at [https://www.google.com/analytics/tos.html](https://www.google.com/analytics/terms/us.html)) or, if applicable, the negotiated terms governing the GA Property(ies) linked to Company's Optimize account (e.g. the Google Analytics Premium Order Form or Analytics 360 Order Form).
+Optimize, though a longstanding product, did not have many of the features and services that our customers request and need for experimentation testing. We therefore have decided to invest in solutions that will be more effective for our customers.
 
-**"GTM Terms"** means the Google Tag Manager Terms of Service (located at [https://www.google.com/analytics/tag-manager/use-policy/](https://www.google.com/analytics/tag-manager/use-policy/)) or, if applicable, the negotiated terms governing the Google Tag Manager 360 account used with Company's Optimize account (e.g. the Tag Manager 360 Order Form).
+### What will testing in Google Analytics look like moving forward?
 
-**"Hits"** means the base unit of measurement that is sent to the Google Analytics service for processing, which may include but is not limited to a page view, a transaction or a call to the Google Analytics system by an OSCI.
+We are collaborating on integrations with the following A/B testing providers (listed in alphabetical order):
 
-**"Optimize Container"** means the code delivered through the Optimize Service, through which Company may serve code required to deliver modified visitor experiences.
+* AB Tasty
+* Optimizely
+* VWO
 
-**"OSCI"** means an "Officially Supported Client Interface", which is a mechanism made available by or supported by Google that can be used to send Hits to the Google Analytics service.
+We have made our APIs publicly available so anyone can integrate their A/B testing tool with Google Analytics. [Learn more about the integration](https://support.google.com/optimize/answer/12979533?)
 
-**"Platform Home"** means the Google Marketing Platform user interface through which Company can also access certain platform-level services and functionality.
+### What will happen to Firebase A/B Testing?
 
-**"Property"** means any web page, application, or other property that uses an OSCI to send data to Google Analytics through Company's Google Analytics account.
-
-**"Shared GA Data"** means Company's data that is shared between Google Analytics and the Optimize Service as necessary to provide the Optimize Service. Such data will be limited to data from Google Analytics accounts associated with the GA Properties that Company links (or has linked on its behalf) to the Optimize Service.
-
-**Section 2. Use of Optimize**
-
-a. Company will have and abide by an appropriate privacy policy, comply with all applicable laws and regulations (including by obtaining legally adequate consent regarding the collection and use of information), and comply with the applicable GA Terms. Company will not and will not assist or permit any third party to pass information to Google that Google could use or recognize as personally identifiable information. Company may only link GA Properties to Company's Optimize account if Company has all necessary rights to such GA Properties and Shared GA Data (as defined below) and has all necessary rights to perform such linking. Company may control what GA Properties are linked to Company's Optimize account in Company's applicable settings in the Optimize Service or Google Analytics user interface. For Google Analytics accounts associated with the GA Properties that Company links (or has linked on its behalf) to the Optimize Service, Company agrees to share Company's data between Google Analytics and the Optimize Service as necessary to provide the Optimize Service and the Google Analytics service. In addition to the rights granted in these Optimize Terms and subject to Company's settings in the Optimize Service and Platform Home user interfaces (if any and as applicable), Company grants to Google a perpetual, irrevocable, non-exclusive, worldwide, transferable, royalty free right to use, copy, modify, distribute and display Customer Data and Shared GA Data not directly identifiable with Company and derivatives thereof for the improvement of the Optimize Service, provided that Customer Data and Shared GA Data is not shared with any third parties without Company's consent. Subject to these Optimize Terms and Company's settings in the Optimize and Platform Home user interfaces (if any and as applicable), Google will not otherwise use Company's Google Analytics Customer Data (as defined in GA Terms) other than as permitted in Company's Google Analytics account settings. For clarity, unless explicitly specified otherwise herein, all references to "Google Analytics" throughout these Optimize Terms include Analytics 360 if Company is an Analytics 360 customer.
-
-b. Company’s use of the Platform Home is subject to the Platform Home Additional Terms (or as subsequently re-named) available at [https://support.google.com/marketingplatform/answer/9047313](https://support.google.com/marketingplatform/answer/9047313) (or such other URL as Google may provide) as modified from time to time (the “Platform Home Terms”).
-
-c. Company may not use the Optimize Service to engage in or promote any unlawful, infringing, defamatory, dangerous or otherwise harmful activity. If Company uploads, submits, stores, sends or receives content through use of the Optimize Service, Company must have, and represents that Company does have, all necessary rights to do so, and agrees that Google is not responsible for, and will not be liable for, any such content, including any content Company received from a third party and any damage arising from the use of that content.
-
-d. Company's total number of requests for all Optimize Containers across all Properties may not exceed 10 million per month, calculated on a calendar monthly basis.
-
-e. To the extent Company's use of the Optimize Service is within scope, Company and Google agree to the Google Ads Data Processing Terms at [https://privacy.google.com/businesses/processorterms](https://privacy.google.com/businesses/processorterms) (the "Processing Terms"). Google will not modify the Processing Terms, except as expressly permitted under the Processing Terms.
-
-**Section 3. Feedback**
-
-Google may ask Company to provide comments, feedback, ideas, reports, suggestions, data or other information related to the Optimize Service (collectively "**Feedback**"). Company is not required to provide Feedback; however, if Company provides Feedback to Google, then Google may use the Feedback for any purpose without obligation or compensation to Company. Accordingly, Company grants to Google and its affiliates and successors a paid-up, royalty-free, irrevocable, perpetual, non-exclusive, sublicensable, transferable, worldwide license to make, use, sell, offer for sale, import, export the whole or a component of, copy, distribute, modify, create derivative works based on, publicly perform, publicly display, and otherwise exploit the Feedback for any purpose; provided, however, that Google does not disclose Feedback to third parties in a manner that would identify or reasonably be expected to identify Company without Company's prior written consent.
-
-**Section 4. Indemnification**
-
-In addition to the indemnification provisions in the Google Terms, Company will indemnify and defend Google, its affiliates, and its agents from and against any and all third-party claims and liabilities arising out of or related to Company's websites, mobile apps, or other properties (including any content Company serves that is not provided by Google), Company's use of the Optimize Service, or Company's breach of the Optimize Terms.
-
-**Section 5. Miscellaneous**
-
-Google may collect information regarding how the Optimize Service is used, including how and what code is deployed. Subject to Company's settings in the Optimize Service and Platform Home user interface (if any and as applicable), Google may use this data to provide, improve, maintain, protect and develop the Optimize Service and other Google services as described in our [privacy policy](https://www.google.com/policies/privacy/). Some Optimize Service features are identified as "Alpha," "Beta," "Experiment," or as otherwise unsupported or confidential (collectively, "**Beta Features**"). Company may not disclose any information from Beta Features or the terms or existence of any non-public Beta Features. Google will have no liability arising out of or related to any Beta Features. In the event of a conflict between the Additional Terms and the Google Terms, the Additional Terms will govern and control. Google may modify these Additional Terms from time to time. Notice of such modification may be provided via an in-product notification or made available at [https://support.google.com/optimize/answer/6230273](https://support.google.com/optimize/answer/6230273). Changes will not apply retroactively and will become effective no sooner than 14 days after they are posted. If Company does not agree to the modified Additional Terms, Company must discontinue Company's use of the Optimize Service. No amendment to or modification of the Additional Terms will be binding unless (i) in writing and signed by a duly authorized representative of Google, (ii) Company accepts updated terms online, or (iii) Company continues to use the Optimize Service after Google has posted updates to the Optimize Terms.
-
-Last updated: July 24, 2018
+[Firebase A/B Testing](https://firebase.google.com/docs/ab-testing?) helps you optimize your app experiences by making it easy to run, analyze, and scale product and marketing experiments. While we acknowledge that Firebase uses the Google Optimize infrastructure for inference computation, Google is committed to continuing to support and evolve Firebase A/B Testing in the future. Firebase A/B Testing will not be impacted by the Google Optimize sunset.
