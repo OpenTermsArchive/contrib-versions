@@ -12,7 +12,7 @@ Other languages:
 * [Canadian English](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/en-ca "Privacy policy (62% translated)")
 * [Cebuano](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ceb "Palisiya sa pagkapribado (8% translated)")
 * [Cymraeg](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/cy "Polisi preifatrwydd (1% translated)")
-* [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/de "Policy:Datenschutzrichtlinie (100% translated)")
+* [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/de "Policy:Datenschutzrichtlinie (97% translated)")
 * [Deutsch (Sie-Form)](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/de-formal "Datenschutzerklärung (46% translated)")
 * English
 * [Esperanto](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/eo "Regularo pri privateco (54% translated)")
@@ -25,7 +25,7 @@ Other languages:
 * [Malagasy](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mg "Policy:Privacy policy/mg (1% translated)")
 * [Mara](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mrh "Thlahlôhna pawlisi (8% translated)")
 * [Napulitano](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nap "Privacy policy (9% translated)")
-* [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nl "Policy:Privacy policy/nl (99% translated)")
+* [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nl "Policy:Privacy policy/nl (97% translated)")
 * [Nederlands (informeel)](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nl-informal "Privacybeleid (2% translated)")
 * [Nordfriisk](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/frr "Dootenseekerhaid (20% translated)")
 * [Oromoo](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/om "Imaammata Mateenyaa (9% translated)")
@@ -49,7 +49,7 @@ Other languages:
 * [galego](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/gl "Norma de protección de datos (96% translated)")
 * [hrvatski](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/hr "Zaštita privatnosti (6% translated)")
 * [interlingua](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ia "Politica de confidentialitate (16% translated)")
-* [italiano](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/it "Informativa sulla privacy (99% translated)")
+* [italiano](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/it "Informativa sulla privacy (97% translated)")
 * [latviešu](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/lv "Privātuma politika (52% translated)")
 * [lietuvių](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/lt "Privatumo politika (8% translated)")
 * [magyar](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/hu "Adatvédelmi nyilatkozat (86% translated)")
@@ -72,10 +72,10 @@ Other languages:
 * [беларуская](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/be "Палітыка канфідэнцыяльнасці (1% translated)")
 * [беларуская (тарашкевіца)](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/be-tarask "Палітыка прыватнасьці (90% translated)")
 * [български](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bg "Декларация за поверителност (45% translated)")
-* [кыргызча](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ky "Купуялык саясаты (68% translated)")
+* [кыргызча](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ky "Купуялык саясаты (65% translated)")
 * [македонски](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mk "Заштита на личните податоци (5% translated)")
 * [нохчийн](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ce "Privacy policy (5% translated)")
-* [русский](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ru "Политика конфиденциальности (99% translated)")
+* [русский](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ru "Политика конфиденциальности (97% translated)")
 * [српски / srpski](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sr "Политика приватности (62% translated)")
 * [тоҷикӣ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/tg "Сиёсати ҳифзи асрор (4% translated)")
 * [удмурт](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/udm "Конфиденциальностья политика (1% translated)")
@@ -103,7 +103,7 @@ Other languages:
 * [संस्कृतम्](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sa "गोपनीयतानीतिः (10% translated)")
 * [हिन्दी](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/hi "गोपनीयता नीति (38% translated)")
 * [অসমীয়া](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/as "গোপনীয়তা নীতি (57% translated)")
-* [বাংলা](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bn "গোপনীয়তার নীতি (97% translated)")
+* [বাংলা](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bn "গোপনীয়তার নীতি (96% translated)")
 * [ਪੰਜਾਬੀ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/pa "ਪੜਦਾ ਨੀਤੀ (30% translated)")
 * [ગુજરાતી](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/gu "ગોપનીયતા નીતિ (3% translated)")
 * [தமிழ்](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ta "தகவல் பாதுகாப்பு கொள்கை (26% translated)")
@@ -111,15 +111,15 @@ Other languages:
 * [മലയാളം](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ml "സ്വകാര്യതാനയം (26% translated)")
 * [සිංහල](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/si "Policy:Privacy policy/si (4% translated)")
 * [ไทย](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/th "นโยบายความเป็นส่วนตัว (78% translated)")
-* [ပအိုဝ်ႏဘာႏသာႏ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/blk "နမ်းပဲင်ႏရေꩻရာႏမူဝါဒ (27% translated)")
+* [ပအိုဝ်ႏဘာႏသာႏ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/blk "နမ်းပဲင်ႏရေꩻရာႏမူဝါဒ (26% translated)")
 * [ဖၠုံလိက်](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/kjp "Policy:Privacy policy/kjp (8% translated)")
 * [ဘာသာ မန်](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mnw "ဝါဒအခေါင်ညးပကင် (1% translated)")
 * [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/my "ကိုယ်ပိုင်ရေးရာမူဝါဒ (30% translated)")
 * [მარგალური](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/xmf "კონფიდენციალურალაშ პოლიტიკა (25% translated)")
 * [ქართული](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ka "კონფიდენციალურობის პოლიტიკა (12% translated)")
 * [ភាសាខ្មែរ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/km "គោលការណ៍ឯកជនភាព (26% translated)")
-* [中文](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/zh "方针:隐私方针 (99% translated)")
-* [日本語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ja "方針:プライバシー・ポリシー (99% translated)")
+* [中文](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/zh "方针:隐私方针 (96% translated)")
+* [日本語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ja "方針:プライバシー・ポリシー (97% translated)")
 * [粵語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/yue "私隱政策 (24% translated)")
 * [ꠍꠤꠟꠐꠤ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/syl "ꠘꠤꠔꠤ ꠪ ꠀꠟꠣꠉꠣꠁ ꠞꠣꠈꠣꠞ ꠘꠤꠔꠤ (1% translated)")
 * [ꯃꯤꯇꯩ ꯂꯣꯟ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mni "ꯑꯔꯣꯟ ꯑꯊꯨꯞ (4% translated)")
@@ -531,11 +531,11 @@ Thank you for reading our Privacy Policy. We hope you enjoy using the Wikimedia 
 
 This version was approved by [Amanda Keton](https://meta.wikimedia.org/wiki/User:AKeton_(WMF) "m:User:AKeton (WMF)") on June 7, 2021, pursuant to the [Delegation of policy-making authority](https://foundation.wikimedia.org/wiki/Resolution:Delegation_of_policy-making_authority "Resolution:Delegation of policy-making authority") by the Board, and went into effect on June 25, 2021. Previous versions can be found below:
 
-* **[Privacy Policy (May 2018 - June 2021)](https://foundation.wikimedia.org/wiki/Special:PermanentLink/126409 "Special:PermanentLink/126409"): effective from May 24, 2018 until June 24, 2021**
-* **[Privacy policy (June 2014 - May 2018)](https://foundation.wikimedia.org/wiki/Special:PermanentLink/113231 "Special:PermanentLink/113231"): effective from June 6, 2014 until May 24, 2018**
-* **[Privacy policy (November 2008 - June 2014)](https://foundation.wikimedia.org/wiki/Special:PermanentLink/80023 "Special:PermanentLink/80023"): effective from November 25, 2008 until June 6, 2014**
-* **[Privacy policy (August 2008 - November 2008)](https://foundation.wikimedia.org/wiki/Special:PermanentLink/28670 "Special:PermanentLink/28670"): effective from August 19, 2008 until November 25, 2008**
-* **[Privacy policy (June 2006 - August 2008)](https://foundation.wikimedia.org/wiki/Special:PermanentLink/14088 "Special:PermanentLink/14088"): effective from June 21, 2006 until August 19, 2008**
+* **[Privacy Policy (May 2018 - June 2021)](https://foundation.wikimedia.org/wiki/Special:PermanentLink/126409 "Special:PermanentLink/126409"): effective from May 24, 2018, until June 24, 2021**
+* **[Privacy policy (June 2014 - May 2018)](https://foundation.wikimedia.org/wiki/Special:PermanentLink/113231 "Special:PermanentLink/113231"): effective from June 6, 2014, until May 24, 2018**
+* **[Privacy policy (November 2008 - June 2014)](https://foundation.wikimedia.org/wiki/Special:PermanentLink/80023 "Special:PermanentLink/80023"): effective from November 25, 2008, until June 6, 2014**
+* **[Privacy policy (August 2008 - November 2008)](https://foundation.wikimedia.org/wiki/Special:PermanentLink/28670 "Special:PermanentLink/28670"): effective from August 19, 2008, until November 25, 2008**
+* **[Privacy policy (June 2006 - August 2008)](https://foundation.wikimedia.org/wiki/Special:PermanentLink/14088 "Special:PermanentLink/14088"): effective from June 21, 2006, until August 19, 2008**
 * **[Privacy policy (April 2005 to June 2006)](https://foundation.wikimedia.org/wiki/Special:PermanentLink/4834 "Special:PermanentLink/4834"): effective from April 2005 until June 21, 2006**
 
 [+/-](https://foundation.wikimedia.org/w/index.php?title=Template:Privacy_policy_navigation_2&action=edit)
@@ -560,4 +560,4 @@ Privacy-related pages
 
 ![](//foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=291628](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=291628)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=297169](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=297169)"
