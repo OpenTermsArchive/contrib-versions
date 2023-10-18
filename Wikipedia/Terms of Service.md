@@ -36,7 +36,7 @@ General
 * [What links here](https://foundation.wikimedia.org/wiki/Special:WhatLinksHere/Policy:Terms_of_Use "A list of all wiki pages that link here [j]")
 * [Related changes](https://foundation.wikimedia.org/wiki/Special:RecentChangesLinked/Policy:Terms_of_Use "Recent changes in pages linked from this page [k]")
 * [Special pages](https://foundation.wikimedia.org/wiki/Special:SpecialPages "A list of all special pages [q]")
-* [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=295218 "Permanent link to this revision of this page")
+* [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=297272 "Permanent link to this revision of this page")
 * [Page information](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=info "More information about this page")
 * [Get shortened URL](https://foundation.wikimedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
 * [Wikidata item](https://www.wikidata.org/wiki/Special:EntityPage/Q118719909 "Link to connected data repository item [g]")
@@ -476,8 +476,8 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 **These Terms of Use went into effect on June 7, 2023. Previous versions of the terms:**
 
-* **[Terms of Use (2014-2023)](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=98524): effective from June 16, 2014 until June 7, 2023**
-* **[Terms of Use (2012-2014)](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=82013): effective from May 24, 2012 until June 16, 2014**
+* **[Terms of Use (2014-2023)](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=98524): effective from June 16, 2014, until June 7, 2023**
+* **[Terms of Use (2012-2014)](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=82013): effective from May 24, 2012, until June 16, 2014**
 * **[Terms of Use (2009)](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Archive:Terms_of_Use_(2009) "Special:MyLanguage/Archive:Terms of Use (2009)"): effective from 2009 until May 24, 2012**
 
 * * *
@@ -486,7 +486,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 ![](//foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=295218](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=295218)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=297272](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=297272)"
 
 [Categories](https://foundation.wikimedia.org/wiki/Special:Categories "Special:Categories"):
 
