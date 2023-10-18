@@ -3,7 +3,7 @@ Privacy Policy
 
 **Privacy Policy**
 
-**Last updated: 8 March 2023** 
+**Last updated: 18 October 2023** 
 
 This Privacy Policy describes how RealtimeBoard, Inc. dba Miro, including its affiliates and subsidiaries (collectively, **Miro** and also referred to as **our**, **us** and **we**) collects, uses and discloses personal data, as well as any choices you have with respect to this personal data.
 
@@ -37,7 +37,7 @@ Miro may collect and receive Customer Content and other personal data (“**Othe
     
 * **Other Data.** Miro also collects, generates and/or receives Other Data:
     
-* **Organization and account information.** To create or update an Organization account, you or the relevant Customer (e.g. your employer) will supply Miro with an email address, phone number, password, domain and/or similar account details. This may also happen if you are a Free, Team or Business User whose employer purchases an Enterprise version of the Services. In addition, Customers that purchase a paid version of the Services provide Miro (or its payment processors) with billing details such as credit card information, banking information and/or a billing address.
+* **Organization and account information.** To create or update an Organization account, you or the relevant Customer (e.g. your employer) will supply Miro with an email address, phone number, password, domain and/or similar account details. We may also receive your email address and name from Slack or other organisations with whom our platform has integrations through which you may sign up to use our Services. This may also happen if you are a Free, Team or Business User whose employer purchases an Enterprise version of the Services. In addition, Customers that purchase a paid version of the Services provide Miro (or its payment processors) with billing details such as credit card information, banking information and/or a billing address.
     
 * **Usage data.** 
     
@@ -103,22 +103,22 @@ Miro uses Other Data for the purposes of our legitimate interests in operating o
 
 If information is aggregated or de-identified so that it can no longer reasonably be associated with an identified or identifiable natural person, Miro may use it for any business purpose. To the extent information is associated with an identified or identifiable natural person and is protected as personal data under applicable data protection law, it is referred to in this Privacy Policy as “Personal Data.”
 
-### **Miro AI**
+### **Miro Assist**
 
-In order to improve efficiency, take care of routine tasks and work with teams as part of your creative process, Miro offers certain AI-supported functionalities within the product, Miro AI.
+In order to improve efficiency, take care of routine tasks and work with teams as part of your creative process, Miro offers certain AI-supported functionalities within the product, Miro Assist.
 
 If you choose to use these features, Customer Content (including user-generated prompts) will be processed by AI and machine learning models in order to generate content or make changes to your board. Some of these models sit internally within our product, and some are provided by a third party. We will not use your data to train the models.
 
-In order to provide Miro AI, Miro uses the following types of personal data:
+In order to provide Miro Assist, Miro uses the following types of personal data:
 
-* User-generated prompts submitted by Users, which the models will use to generate content or make changes to your board. This is Customer Content, and we process it as a data processor on your instructions in order to provide the Services. Please be aware that any personal data you submit as a prompt will be processed by Miro AI.
+* User-generated prompts submitted by Users, which the models will use to generate content or make changes to your board. This is Customer Content, and we process it as a data processor on your instructions in order to provide the Services. Please be aware that any personal data you submit as a prompt will be processed by Miro Assist.
     
-* Usage metadata about how Users engage with Miro AI, which Miro processes as a data controller in order to prevent or address service errors, security or technical issues, and to analyze and monitor usage of Miro AI. Usage metadata does not contain Customer Content.
+* Usage metadata about how Users engage with Miro Assist, which Miro processes as a data controller in order to prevent or address service errors, security or technical issues, and to analyze and monitor usage of Miro Assist. Usage metadata does not contain Customer Content.
     
 
-Miro AI might share limited data with Microsoft for the above purposes and to monitor compliance with codes of conduct.
+Miro Assist might share limited data with Microsoft for the above purposes and to monitor compliance with codes of conduct.
 
-More information about Miro AI works and how to disable the AI feature is available in our Help Center.
+More information about Miro Assist works and how to disable the AI feature is available in our Help Center.
 
 ### **Data Retention**
 
@@ -136,7 +136,7 @@ We may share personal data as follows: 
 
 * **Displaying the Services**. When an Authorized User submits Customer Content (including personal data), it may be displayed to other Authorized Users that have access to the same Miro Board. For example, an Authorized User’s name and Miro profile may be displayed. Please consult the Help Center for more information on this functionality.
     
-* **Customer access**. Owners, administrators, Authorized Users, and other Customer representatives and personnel may be able to access, modify, or restrict access to personal data. This may include, for example, your employer using Service features to export logs of your activity or accessing or modifying your profile details..
+* **Customer access**. Owners, administrators, Authorized Users, and other Customer representatives and personnel may be able to access, modify, or restrict access to personal data. This may include, for example, your employer using Service features to export logs of your activity or accessing or modifying your profile details.
     
 * **Subcontractors.** We may engage third-party companies or individuals as sub-processors to process personal data. These third parties may, for example, provide virtual computing and storage services, or we may share business information to develop strategic partnerships to support our Customers. Please see more information on our subcontractors [here](https://miro.com/static/legal/Miro-Current-Subprocessors-List.pdf).
     
@@ -157,7 +157,7 @@ We may share personal data as follows: 
 
 ### **Security**
 
-Miro takes security of personal data very seriously. Miro strives to protect all Personal Data from loss, misuse, and unauthorized access or disclosure, and we have received internationally recognized security certifications. To learn more about current practices and policies regarding security and confidentiality of the Services, please see our  [Trust Center](https://miro.com/trust/) and [Security FAQs](https://help.miro.com/hc/en-us/articles/360012346599-Security-FAQ). Given the nature of communications and information processing technology, Miro cannot guarantee that, during transmission through the internet or while stored on our systems or otherwise in our care, personal data will be absolutely safe from intrusion by others.
+Miro takes security of personal data very seriously. Miro strives to protect all Personal Data from loss, misuse, and unauthorized access or disclosure, and we have received internationally recognized security certifications. To learn more about current practices and policies regarding security and confidentiality of the Services, please see our [Trust Center](https://miro.com/trust/) and [Security FAQs](https://help.miro.com/hc/en-us/articles/360012346599-Security-FAQ). Given the nature of communications and information processing technology, Miro cannot guarantee that, during transmission through the internet or while stored on our systems or otherwise in our care, personal data will be absolutely safe from intrusion by others.
 
 In addition, we take additional steps to protect any personal data about you that we process for the Miro Customer Experience Program, including pseudonymization applied to Other Data, and anonymization applied to Customer Content.
 
