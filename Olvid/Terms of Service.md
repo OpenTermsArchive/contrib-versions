@@ -36,7 +36,7 @@ The co-contractor or the User is understood to be a natural person of full age o
 
 These General Conditions are completely independent and independent of any other legal document emanating, where applicable, from the platform or website on which or from which the Application has been downloaded.
 
-They are in particular different and distinct, and unrelated to the general conditions of use and the general conditions of sale and use of stores of the “Apple store” and “Google Play Store” type.
+They are in particular different and distinct, and unrelated to the general conditions of use and the general conditions of sale and use of stores of the “Apple store” and “Google Play store” type.
 
 Therefore, the User may not at any time invoke the general conditions of the platform or the website to set them against Olvid in the context of the performance of their respective obligations.
 
