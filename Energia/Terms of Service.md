@@ -352,7 +352,7 @@ In either case by cheque if you have provided Energia with a forwarding address 
 
 14.2  A customer’s personal information may be transferred to: (a) ESB Networks Designated Activity Company where required for safety or network related activities; and (b) the Supplier of Last Resort in the event of a direction from the Regulator.
 
-14.3 In order to avail of certainTime of Use Tariffs, you agree to provide Energia with half hourly metering data on an ongoing basis. If you decide that you no longer wish to provide half hourly data to Energia, you will no longer be eligible to avail of the Time of Use Tariff.  Energia may terminate this Agreement and an exit fee may apply.
+14.3 In order to avail of certain Time of Use Tariffs, you agree to provide Energia with half hourly metering data on an ongoing basis. If you decide that you no longer wish to provide half hourly data to Energia, you will no longer be eligible to avail of the Time of Use Tariff.  Energia may terminate this Agreement and an exit fee may apply.
 
 15\. Obligation To Provide Information
 
@@ -426,7 +426,7 @@ Attention: Customer Service Team,
 20.2 Energia may change its address at any time by notice in writing. Notices will be deemed served or delivered to the addressee or its office:
 
 1. If delivered by hand, upon the date of delivery;
-2. If delivered by pre-paid ordinary post within the jurisdiction in which you resides or is registered, 2 days after sending or if delivered by pre-paid ordinary post outside the jurisdiction in which you reside 5 days after sending;
+2. If delivered by pre-paid ordinary post within the jurisdiction in which you reside or is registered, 2 days after sending or if delivered by pre-paid ordinary post outside the jurisdiction in which you reside 5 days after sending;
 3. If delivered by facsimile, at the time that a transmission report is produced by the sender’s facsimile machine confirming that the transmission has been satisfactorily completed; or
 4. If delivered by electronic mail, at the time that the sender’s computer generates a message stating that the e-mail has been received.
 
@@ -488,7 +488,7 @@ Energia Domestic customers with a Smart interval meter, either Dual Fuel or sing
   
 Customers must agree to receive their bills online and pay their bills by direct debit to receive the full discount.  
   
-For SMART interval customers a new charge time has been introduced from 2am to 6am with a threshold of 1000kWh usage per billing period, no thresholds apply to the day, night or peak usage.   
+For SMART interval customers a new charge time has been introduced from 2am to 6am with a threshold of 1000 kWh usage per billing period, no thresholds apply to the day, night or peak usage.   
   
 MCC02 Customers Variable EV product  
   
@@ -496,7 +496,7 @@ Energia Domestic customers with a Nightsaver Meter (Day/Night meter), either Dua
   
 Customers must agree to receive their bills online and pay their bills by direct debit to receive the full discount.  
   
-The normal thresholds for nightsaver apply in terms of the kWh usage (Above 3,000kWh day usage and 2,000kWh night usage each billing period).  
+The normal thresholds for nightsaver apply in terms of the kWh usage (Above 3,000 kWh day usage and 2,000 kWh night usage each billing period).  
   
 Once the discount period is complete the customer will revert to standard day/night meters rates.   
   
@@ -636,7 +636,7 @@ Learn more about our [Limited Offer Free Boiler Servicing Terms & Conditions](h
     2. Being registered as an Energia energy customer for the Customer's domestic dwelling (provided always that Energia may waive this requirement in its sole discretion)
 18. "**Services**" means the installation of the Electric Vehicle Charging Point at the Site. which for the avoidance of doubt, shall exclude incidental, maintenance or ongoing support services;
 19. **"Standard Installation"** means an installation that can be carried out at the Site without any additional site preparation works, man hours or additional equipment to install the Electric Vehicle Charging Point and shall include:
-    1. Installation of the device where the consumer unit (fuse board)  is no more than 5 meters from the proposed position of the exterior charge point. Customers may incur an additional charge if they wish to have the exterior charge point installed in excess of this 5 meters from the fuse board.
+    1. Installation of the device where the consumer unit (fuse board)  is no more than 5 meters from the proposed position of the exterior charge point. Customers may incur an additional charge if they wish to have the exterior charge point installed in excess of these 5 meters from the fuse board.
     2. Fuse board is trip switch type. In the event that the fuse board is not trip switch type, the fuse board would need to be upgraded in line with Safe Electric Guidelines.
     3. 10 Square earth bonding with earth electrode is present. In the event of no 10 Square Earth Cable, this would need to be upgraded in line with Safe Electric Guidelines.
     4. 16 Square mains cable is present. In the event of old mains wiring, this would need to be upgraded to 15 Square Mains in line with Safe Electric Guidelines.  
@@ -655,7 +655,7 @@ Learn more about our [Limited Offer Free Boiler Servicing Terms & Conditions](h
     1. You acknowledge that grant payments may be available in relation to the installation of the Electric Vehicle Charging Point. In order to avail of any such grants from SEAI that you must apply for a grant from SEAI and any such grant is subject to SEAI’s eligibility criteria and their terms and conditions. You are solely responsible for applying for the grant.
     2. Energia makes no representation or warranty that the Electric Vehicle Charging Point is suitable for you or that you will be eligible for a grant from SEAI.
 4. **CUSTOMER'S OBLIGATIONS**
-    1. The Customer agrees and acknowledges that it is responsible for obtaining all necessary consent, permissions and approvals for the installation of the Electric Vehicle Charging Point at the Site. The Customer shall fully indemnify Energia in the event that Energia suffers a claim or loss arising from the action of any third party as a result of the Customers failure to obtain the necessary consent.
+    1. The Customer agrees and acknowledges that it is responsible for obtaining all necessary consent, permissions and approvals for the installation of the Electric Vehicle Charging Point at the Site. The Customer shall fully indemnify Energia in the event that Energia suffers a claim or loss arising from the action of any third party as a result of the Customers' failure to obtain the necessary consent.
     2. The Customer shall ensure that the Site is safe and free from any obstructions or hazards prior to the performance of the Services. The Customer shall be responsible for the costs of all remedial work required to bring a Site up to a Safe Electric standard to allow safe Standard Installation. 
     3. The Customer acknowledges and agrees that for Energia to be able to commence and complete the Services the Customer must:
         1. allow Energia and its Contractors access to the Site to perform the Services, if the customer is not available at the time of appointment without giving at least 24 hours’ notice to the installation team on 0818111122 a no access fee of €100 will apply;
@@ -680,7 +680,7 @@ Learn more about our [Limited Offer Free Boiler Servicing Terms & Conditions](h
     3. Energia carries no liability under the terms of the Device Manufacturer’s Warranty.
 7. Services
     1. Energia shall arrange with the Customer a date on which the Services will be carried out at the Site. 
-    2. The Parties agree that time will not be of the essence with respect to the provision and completion of the Services by Energia (including, but not limited to, any services that are preparatory, ancillary, or subsequent to the provision and completion of the Services)
+    2. The Parties agree that time will not be of the essence with respect to the provision and completion of the Services by Energia (including, but not limited to, any services that are preparatory, ancillary, or after the provision and completion of the Services)
     3. Energia warrants to the Customer that the Services will be provided using reasonable care and skill.
 8. Intellectual Property RIGHTS
     1. The Customer acknowledges that the Electric Vehicle Charging Point contains Intellectual Property Rights which are valuable and unique to the Device Manufacturer. The Customer undertakes not to (and shall not permit any third party to) copy, adapt, reverse engineer, decompile, disassemble, modify, adapt or make error corrections to the Electric Vehicle Charging Point, without the prior written authorisation of Energia.
@@ -704,8 +704,8 @@ Learn more about our [Limited Offer Free Boiler Servicing Terms & Conditions](h
         2. within the Cooling-off Period.
     2. Within 14 days of Energia receiving the Cancellation Notice, the Customer shall, at its cost, return the Electric Vehicle Charging Point to Energia in its original packaging and in a saleable condition.
     3. For the avoidance of doubt, the acceptance of the returned Electric Vehicle Charging Point shall be at the sole discretion of Energia. Where Energia reasonably considers that the Electric Vehicle Charging Point does not meet the requirements in paragraph 14.2 above, Energia may deduct money up to the value of the Electric Vehicle Charging Point from any refund due to the Customer.
-    4. Subject to paragraph 14.3 above, Energia will refund to the Customer all monies paid within 14 days of Energia receiving the later of the Cancellation Notice or the returned Equipment.
-    5. With the exception of circumstances beyond the reasonable control of the Customer, the Customer shall provide Energia with a minimum of 24 hours’ notice to cancel their appointment with no charge being incurred. Failure to provide such notice may incur a fee of €100 to reschedule their appointment.
+    4. Subject to paragraph 14.3 above, Energia will refund to the Customer all monies paid within 14 days of Energia receiving the letter of the Cancellation Notice or the returned Equipment.
+    5. Except circumstances beyond the reasonable control of the Customer, the Customer shall provide Energia with a minimum of 24 hours’ notice to cancel their appointment with no charge being incurred. Failure to provide such notice may incur a fee of €100 to reschedule their appointment.
 13. TERMINATION
     1. Without limiting its other rights or remedies, Energia may terminate this Contract with immediate effect by giving written notice to the Customer if:
         1. the Customer commits a material breach of any term of the Contract and (if such a breach is remediable) fails to remedy that breach within twenty days of that party being notified in writing to do so;
@@ -737,7 +737,7 @@ Learn more about our [Limited Offer Free Boiler Servicing Terms & Conditions](h
         1. Energia may at any time assign, transfer, mortgage, charge, subcontract or deal in any other manner with all or any of its rights or obligations under the Contract.
         2. The Customer may not assign, transfer, mortgage, charge, subcontract, declare a trust over or deal in any other manner with any or all of its rights or obligations under the Contract without the prior written consent of Energia.
     2. Confidentiality.
-        1. Each party undertakes that it shall not at any time during the term of this Contract , and for a period of two years after termination of this Contract, disclose to any person any confidential information concerning the business, affairs, customers, clients or suppliers of the other party except as permitted by paragraph 19.2.2.
+        1. Each party undertakes that it shall not at any time during the term of this Contract, and for a period of two years after termination of this Contract, disclose to any person any confidential information concerning the business, affairs, customers, clients or suppliers of the other party except as permitted by paragraph 19.2.2.
         2. Each party may disclose the other party's confidential information:
 
 1. to its employees, officers, representatives or advisers who need to know such information for the purposes of exercising the party's rights or carrying out its obligations under or in connection with this Contract. Each party shall ensure that its employees, officers, representatives or advisers to whom it discloses the other party's confidential information comply with this paragraph 19.2; and
@@ -805,7 +805,7 @@ This processing will be undertaken as necessary for the performance of your cont
 
 1. **Sharing your Information**
 
-We may share your personal data within Energia Group and with other parties such as our Contractors, and organisations who act as service providers to Energia such as providers of telecommunications, postal services, data storage, IT services and security, marketing and market research, and making and receiving financial payments. This may involve passing your personal data outside of the European Economic Area (EEA) and any such recipients will be bound to comply with the European Commission standard contractual clauses or equivalent data protection safeguards for the transfers of data outside the EEA.
+We may share your personal data within Energia Group and with other parties such as our Contractors, and organisations who act as service providers to Energia such as providers of telecommunications, postal services, data storage, IT services and security, marketing and market research, and making and receiving financial payments. This may involve passing your personal data outside the European Economic Area (EEA) and any such recipients will be bound to comply with the European Commission standard contractual clauses or equivalent data protection safeguards for the transfers of data outside the EEA.
 
 1. **Retention of your Information**
 
@@ -860,13 +860,13 @@ General Social Compeition: Energia's decision regarding prize winners will be fi
 
 * Prizes are non-transferable, and will only be awarded to the prize winner.
 * Use of a false name or address by a competition entrant, i.e. a name by which the entrant is not usually known, will disqualify them from receiving any prize.
-* Energia will not store prize winners data once the prize has been delivered.
-* Our competitions are open only to residents of the Republic Of Ireland.
+* Energia will not store prize winners' data once the prize has been delivered.
+* Our competitions are open only to residents of the Republic of Ireland.
 * Energia will deliver prizes within one month of winning unless otherwise specified.
-* Where applicable, winners on social media will chosen at random by a third party agency to Energia.
+* Where applicable, winners on social media will be chosen at random by a third party agency to Energia.
 * When, due to circumstances beyond our control, a prize is not available, we reserve the right to substitute a prize of equal value.
 * These terms and conditions shall be governed by Irish law and the courts of Ireland shall have exclusive jurisdiction.
-* Any person or persons found to be in disregard of any of the above rules will be disqualified automatically.
+* Any person or persons found to be in disregard of the above rules will be disqualified automatically.
 * Energia reserves the right to disqualify any contestant for any reason whatsoever in its sole discretion.
 
   
