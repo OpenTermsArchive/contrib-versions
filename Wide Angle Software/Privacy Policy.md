@@ -40,7 +40,7 @@ This Policy applies only to the actions of Wide Angle Software and Users with re
 
 3.1.4 a list of URLs starting with a referring site, your activity on this Website, and the site you exit to (automatically collected);
 
-3.1.5 Personal data is only collected when a software purchase is made on our online store. The Personal Data that we may collect includes: Contact details, such as name, postal address, email address; We do NOT collect or store any financial Data; Purchases made on our store using PayPal as a payment method are also subject to the [PayPal Privacy Policy](https://www.paypal.com/webapps/mpp/ua/privacy-full); Credit card purchases made on our store are processed by Stripe and are subject to the [Stripe Privacy Policy](https://stripe.com/privacy/).
+3.1.5 Personal data is only collected when a software purchase is made on our online store. The Personal Data that we may collect includes: Contact details, such as name, postal address, email address; We do NOT collect or store any financial Data; Purchases made on our store using PayPal as a payment method are also subject to the [PayPal Privacy Policy](https://www.paypal.com/webapps/mpp/ua/privacy-full); Credit card purchases made on our store are processed by Stripe and are subject to the [Stripe Privacy Policy](https://stripe.com/privacy).
 
 ### 3.2 Data Collected by our Software
 
