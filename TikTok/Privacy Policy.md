@@ -1,6 +1,6 @@
-Our new Privacy Policy comes into effect on \[19 November 2023\]. Click [here](https://www.tiktok.com/legal/privacy-policy-eea-archive) to view our current Privacy Policy.
+Our new Privacy Policy comes into effect on 19 November 2023. Click [here](https://www.tiktok.com/legal/privacy-policy-eea-archive) to view our current Privacy Policy.
 
-_Effective Date: \[19 November 2023\]_
+_Effective Date: 19 November 2023_
 
 **Introduction**
 ----------------
