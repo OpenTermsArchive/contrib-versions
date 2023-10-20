@@ -75,7 +75,7 @@ Nous fournissons ces services à vous et à d’autres personnes pour faire prog
       
     
 * Ce que vous pouvez partager et faire sur les Produits Meta  
-    Nous voulons que les gens utilisent les Produits Meta pour s’exprimer et partager du contenu qui leur importe, mais pas au détriment de la sécurité et du bien-être des autres ou de l’intégrité de notre communauté. Vous acceptez donc de ne pas agir de la manière décrite ci-dessous (ni d’encourager ou de soutenir les autres à le faire) :
+    Nous voulons que les personnes utilisent les Produits Meta pour s’exprimer et partager du contenu qui leur importe, mais pas au détriment de la sécurité et du bien-être des autres ou de l’intégrité de notre communauté. Vous acceptez donc de ne pas agir de la manière décrite ci-dessous (ni d’encourager ou de soutenir les autres à le faire) :
     
     * Vous ne pouvez pas utiliser nos Produits pour faire ou partager quoi que ce soit :
         
@@ -95,16 +95,18 @@ Nous fournissons ces services à vous et à d’autres personnes pour faire prog
         
     * Vous ne pouvez pas vendre ni acheter des données obtenues de nous ou de nos services, ni octroyer des licences à ce sujet, sous réserve des dispositions des Conditions de la plateforme.
         
-    * Vous ne pouvez pas utiliser de manière détournée tout canal de signalement, de contestation ou de recours, comme en effectuant des signalements ou recours frauduleux, dupliqués ou non fondés.
+    * Vous ne pouvez pas utiliser de manière détournée tout canal de signalement, de contestation ou de recours, par exemple en effectuant des signalements ou recours frauduleux, dupliqués ou non fondés. Apprenez-en plus sur nos règles relatives à l’envoi fréquent de signalements et plaintes manifestement infondés dans notre [Politique d’utilisation détournée](https://fr-fr.facebook.com/legal/terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Ftransparency.fb.com%2Fenforcement%2Ftaking-action%2Fmisuse-policy).
         
     
-    Nous pouvons supprimer ou bloquer le contenu qui enfreint ces dispositions. Nous pouvons également suspendre ou désactiver votre compte en cas de non-respect de ces dispositions, comme indiqué dans l’article 4.2.
+    Nous pouvons supprimer, bloquer ou restreindre le contenu qui enfreint ces dispositions. Nous pouvons également suspendre ou désactiver votre compte en cas de non-respect de ces dispositions, comme indiqué dans l’article 4.2.
     
-    Si nous supprimons du contenu que vous avez partagé, car il viole les Standards de la communauté, nous vous en informerons et vous expliquerons les options à votre disposition pour demander un réexamen, à moins que vous n’enfreigniez gravement ou à maintes reprises les présentes Conditions ou si cela engage notre responsabilité juridique ou celle d’un tiers, porte atteinte à notre communauté d’utilisateurs, ou compromette ou altère l’intégrité ou le fonctionnement de nos services, systèmes ou Produits, ou en cas de restrictions techniques ou lorsqu’il nous est interdit de le faire pour des raisons légales. Pour en savoir plus sur la suspension ou la suppression de comptes, consultez l’article 4.2 ci-dessous.
+    Si nous supprimons, bloquons ou restreignons du contenu que vous avez partagé, au motif qu’il va à l’encontre des Standards de la communauté, nous vous en informerons et vous expliquerons les options à votre disposition pour demander un réexamen, à moins que vous n’enfreigniez gravement ou à maintes reprises les présentes Conditions ou si cela engage notre responsabilité juridique ou celle d’un tiers, porte atteinte à notre communauté d’utilisateurs, ou compromette ou altère l’intégrité ou le fonctionnement de nos services, systèmes ou Produits, ou en cas de restrictions techniques ou lorsqu’il nous est interdit de le faire pour des raisons légales. Pour en savoir plus sur la suspension ou la suppression de comptes, consultez l’article 4.2 ci-dessous.
     
     Pour nous aider à soutenir notre communauté, nous vous encourageons à [signaler](https://www.facebook.com/help/181495968648557?ref=tos) tout contenu ou comportement qui, selon vous, enfreint vos droits (y compris vos [droits de propriété intellectuelle](https://www.facebook.com/help/intellectual_property?ref=tos)) ou nos conditions et politiques, s’il est possible de le faire dans votre juridiction.
     
-    Nous pouvons également supprimer ou limiter l’accès au contenu, aux services ou aux informations si nous estimons que cela s’avère raisonnablement nécessaire pour éviter ou atténuer l’utilisation détournée de nos services ou les effets juridiques ou réglementaires négatifs sur Meta.
+    Nous pouvons également supprimer, bloquer ou limiter l’accès au contenu, aux fonctionnalités, aux services ou aux informations si nous estimons que cela s’avère raisonnablement nécessaire pour éviter ou atténuer l’utilisation détournée de nos services ou les effets juridiques ou réglementaires négatifs pour Meta.
+    
+    En savoir plus sur notre processus de gestion des réclamations en cliquant [ici](https://fr-fr.facebook.com/legal/terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Ftransparency.fb.com%2Fenforcement%2Ftaking-action%2Fcomplaints-handling-process).
     
       
     
@@ -167,15 +169,15 @@ Nous fournissons ces services à vous et à d’autres personnes pour faire prog
       
     Nous voulons faire de Facebook un lieu à la fois chaleureux et sécurisé, où chacun peut s’exprimer et partager ses opinions et ses idées.
     
-    Si nous déterminons que vous avez manifestement, gravement ou à maintes reprises enfreint nos Conditions ou Politiques, notamment les [Standards de la communauté](https://www.facebook.com/communitystandards), nous pouvons suspendre ou désactiver définitivement votre accès aux produits des entités Meta et nous pouvons désactiver définitivement ou supprimer votre compte. Nous pouvons également désactiver ou supprimer votre compte si vous enfreignez à plusieurs reprises des droits de propriété intellectuelle tiers ou si la loi nous y oblige.
+    Si nous déterminons que vous avez manifestement, gravement ou à maintes reprises enfreint nos Conditions générales ou Politiques, notamment les [Standards de la communauté](https://www.facebook.com/communitystandards), nous pouvons suspendre ou désactiver définitivement votre accès aux produits des entités Meta et nous pouvons désactiver définitivement ou supprimer votre compte. Nous pouvons également désactiver ou supprimer votre compte si vous enfreignez à plusieurs reprises des droits de propriété intellectuelle tiers ou si la loi nous y oblige. Apprenez-en plus [ici](https://fr-fr.facebook.com/legal/terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Ftransparency.fb.com%2Fen-gb%2Fenforcement%2Ftaking-action%2Frestricting-accounts) sur la manière dont nous abordons les infractions répétées à nos règles relatives au contenu. Et notre Politique d’utilisation détournée concernant la diffusion fréquente de contenu manifestement illégal peut être consultée [ici](https://fr-fr.facebook.com/legal/terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Ftransparency.fb.com%2Fenforcement%2Ftaking-action%2Fmisuse-policy).
     
-    Nous pouvons désactiver ou supprimer votre compte s’il n’est pas vérifié après l’enregistrement, s’il n’est pas utilisé et reste inactif pendant une longue période ou si nous déterminons qu’une personne l’a utilisé sans votre autorisation et que nous ne sommes pas parvenus à confirmer que vous êtes bien le détenteur du compte. [Apprenez-en plus](https://www.facebook.com/help/3434203120011796) sur la manière dont nous désactivons et supprimons des comptes.
+    Nous pouvons désactiver ou supprimer votre compte s’il n’est pas confirmé après l’enregistrement, s’il n’est pas utilisé et reste inactif pendant une longue période ou si nous déterminons qu’une personne l’a utilisé sans votre autorisation et que nous ne sommes pas parvenus à confirmer que vous êtes bien le propriétaire du compte. [Apprenez-en plus](https://www.facebook.com/help/3434203120011796) sur la manière dont nous désactivons et supprimons des comptes.
     
-    Si nous procédons ainsi, nous vous en informerons et vous expliquerons les options à votre disposition pour demander un réexamen, à moins que cela ne puisse engager notre responsabilité juridique ou celle d’un tiers, porter atteinte à notre communauté d’utilisateurs, ou compromettre ou altérer l’intégrité ou le fonctionnement de nos services, systèmes ou Produits, ou en cas de restrictions techniques ou lorsqu’il nous est interdit de le faire pour des raisons légales.
+    Si nous procédons ainsi, nous vous en informerons et vous expliquerons les options à votre disposition pour demander un réexamen, sauf si cela risque d’engager notre responsabilité juridique ou celle d’un tiers, de porter atteinte à notre communauté d’utilisateurs, ou de compromettre ou d’altérer l’intégrité ou le fonctionnement de l’un de nos services, systèmes ou Produits, ou en cas de restrictions techniques ou lorsqu’il nous est interdit de le faire pour des raisons légales. En savoir plus sur notre processus de gestion des réclamations en cliquant [ici](https://fr-fr.facebook.com/legal/terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Ftransparency.fb.com%2Fenforcement%2Ftaking-action%2Fcomplaints-handling-process).
     
-    [Apprenez-en plus](https://www.facebook.com/help/103873106370583?ref=tos) sur les dispositions que vous pouvez prendre si votre compte a été désactivé et sur la façon de nous contacter si vous estimez que nous avons désactivé votre compte par erreur.
+    [Apprenez-en davantage](https://www.facebook.com/help/103873106370583?ref=tos) sur les dispositions que vous pouvez prendre si votre compte a été désactivé et sur la façon de nous contacter si vous estimez que nous avons désactivé votre compte par erreur.
     
-    Si vous supprimez ou si nous désactivons ou supprimons votre compte, les présentes Conditions prendront fin et ne constitueront plus un accord entre vous et nous, mais les dispositions suivantes resteront en vigueur : 3.3.1, 4.2-4.5.
+    Si vous supprimez ou si nous désactivons ou supprimons votre compte, les présentes Conditions générales prendront fin et ne constitueront plus un accord entre vous et nous, mais les dispositions suivantes resteront en vigueur : 3.3.1, 4.2-4.5.
     
       
     
@@ -220,7 +222,7 @@ Nous fournissons ces services à vous et à d’autres personnes pour faire prog
 
 **5\. Autres conditions et politiques qui peuvent s’appliquer à vous**
 
-* [Standards de la communauté](https://www.facebook.com/communitystandards) : ces directives soulignent nos standards quant au contenu que vous publiez sur Facebook et à vos activités sur Facebook et sur d’autres Produits Meta.
+* [Standards de la communauté](https://www.facebook.com/communitystandards) : Ces directives soulignent nos standards quant au contenu que vous publiez sur Facebook et à vos activités sur Facebook et sur d’autres Produits Meta.
 * [Conditions commerciales](https://www.facebook.com/legal/commercial_terms) : ces conditions s’appliquent si vous accédez également à nos Produits ou les utilisez à des fins commerciales ou professionnelles, notamment pour la publicité, l’exploitation d’une application sur notre Plateforme, l’utilisation de nos services de mesure, la gestion d’un groupe ou d’une Page pour une activité commerciale, ou la vente de biens ou de services.
 * [Modalités de paiement de la communauté](https://www.facebook.com/payments_terms) : ces conditions s’appliquent aux paiements réalisés sur ou au moyen des Produits Meta.
     
