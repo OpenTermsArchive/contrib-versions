@@ -192,6 +192,8 @@ We will provide you with information on our decision for any policy violation en
 > 
 > ### Limited ad serving
 > 
+> > ![This illustration represents Google Ads](//storage.googleapis.com/support-kms-prod/jquKxFezP73Z8l5bDrgwV3IZSo0CbAFX0pHm)
+> > 
 > > To protect the integrity of our Google Ads ecosystem, we limit impressions of ads that have a higher potential of causing abuse or a poor experience for our users. In these specific instances, only qualified advertisers will be able to serve ads without impression limits. Learn more about when [limited ad serving](https://support.google.com/adspolicy/answer/13889491) applies and who is a qualified advertiser.
 > 
 > Editorial & technical requirements
