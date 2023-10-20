@@ -159,7 +159,7 @@ To invoke any of these rights, please fill out the form [here](https://support.l
 **Email:** [privacy@logitech.com](mailto:privacy@logitech.com)  
 **Postal Mail:** Logitech Privacy Office EMEA, Logitech Ireland Services Limited, City Gate Plaza Two, Mahon, Cork, Ireland
 
-Data Protection Officer (DPO): You may contact our DPO by emailing [dpo@logitech.com](mailto:dpo@logitech.com).
+**German users only:** If you are a German user, you may contact Logitech’s Data Protection officer with any questions or concerns by emailing: [email@iitr.de](mailto:email@iitr.de).
 
 ##### International transfers
 
