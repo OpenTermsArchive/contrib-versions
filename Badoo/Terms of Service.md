@@ -1,7 +1,7 @@
 Badoo’s Terms and Conditions of Use
 ===================================
 
-If you live outside the United States, these Terms and Conditions apply to you. If you live in the United States, the Badoo Terms and Conditions available [here](https://badoo.com/en-us/terms/) apply to you.
+If you live outside the United States, these Terms and Conditions apply to you. If you live in the United States, the Badoo Terms and Conditions available [here](https://badoo.com/terms/terms) apply to you.
 
 The Summary
 -----------
@@ -12,7 +12,7 @@ Hello. You should read these terms and conditions in full because they apply eve
 2. We’re not responsible for anything that you post or say while you are on Badoo and we don’t monitor the content of the site, but if we do see or someone alerts us that you have posted something that we think is inappropriate then we are allowed at our discretion to remove it.
 3. If you post any content that actually belongs to someone else and they get annoyed (or even call in their lawyers), we are not in the firing line. You have to take responsibility for what you post.
 4. Please refer to our Community Guidelines and Safety Tips for additional Dos and Don’ts, and information on staying safe.
-5. If you are concerned about how your data is being used by Badoo then please refer to our [Privacy Policy](https://badoo.com/privacy/), which explains how we treat your personal data and protect your privacy when you use Badoo. By using Badoo, you agree that we can use such data in accordance with our Privacy Policy. Our website and apps also use cookies or similar technologies which we tell you more about [here](https://badoo.com/privacy/#cookies). You may set your browser and your mobile settings to block cookies and local storage devices, but if you do so, you may not be able to access the features that Badoo offers.
+5. If you are concerned about how your data is being used by Badoo then please refer to our [Privacy Policy](https://badoo.com/en/privacy/), which explains how we treat your personal data and protect your privacy when you use Badoo. By using Badoo, you agree that we can use such data in accordance with our Privacy Policy. Our website and apps also use cookies or similar technologies which we tell you more about [here](https://badoo.com/privacy/#cookies). You may set your browser and your mobile settings to block cookies and local storage devices, but if you do so, you may not be able to access the features that Badoo offers.
 
 The full legal bit
 ------------------
@@ -61,7 +61,7 @@ We use a combination of automated systems and a team of moderators to monitor an
 
 ### Are there any rules relating to personal data like my email address?
 
-You may not display any personal contact or banking information on your individual profile page (“**Profile**”) whether in relation to you or any other person (for example, names, home addresses or postcodes, telephone numbers, email addresses, URLs, credit/debit card or other banking details, or place of work). If you do choose to reveal any personal data about yourself to other users, whether via email or otherwise, it is at your own risk. We encourage you to use the same caution in disclosing details about yourself to third parties online as you would under any other circumstances. You are required to follow our [Guidelines and Safety Tips](https://badoo.com/guidelines/) when doing so.
+You may not display any personal contact or banking information on your individual profile page (“**Profile**”) whether in relation to you or any other person (for example, names, home addresses or postcodes, telephone numbers, email addresses, URLs, credit/debit card or other banking details, or place of work). If you do choose to reveal any personal data about yourself to other users, whether via email or otherwise, it is at your own risk. We encourage you to use the same caution in disclosing details about yourself to third parties online as you would under any other circumstances. You are required to follow our [Guidelines and Safety Tips](https://badoo.com/terms/guidelines) when doing so.
 
 ### What about other people’s personal data, can I use it?
 
@@ -109,7 +109,7 @@ Other than in relation to Content submitted by you to Badoo, you do not have any
 
 Badoo offers you the opportunity to pay for certain services offered on the site. Badoo’s premium services include various opportunities to find and meet additional people, to customise your profile and to boost your profile so more people find you. Badoo also offers the ability to play various games on the site. All of these premium services can be purchased after you register, and you may subscribe to the premium services for various lengths of time.
 
-Once you have paid for any premium services, you have the right to cancel and be reimbursed for all payments received within 14 days. If you wish to cancel please let us know via [Feedback Page](https://badoo.com/feedback/). Please note that if you choose to download any of the Content which forms part of any paid for service within the 14 day period, you may lose this right. After the 14 days have expired, the paid for services are non-refundable.
+Once you have paid for any premium services, you have the right to cancel and be reimbursed for all payments received within 14 days. If you wish to cancel please let us know via [Feedback Page](https://badoo.com/terms/feedback). Please note that if you choose to download any of the Content which forms part of any paid for service within the 14 day period, you may lose this right. After the 14 days have expired, the paid for services are non-refundable.
 
 You can change your Auto Top-up at anytime in your payment settings on your profile page. The pricing may vary due to a number of factors, such as (but not limited to) promotional offers, loyalty bonuses and other discounts.
 
@@ -151,7 +151,7 @@ Non-registered users are able to access only that portion of Badoo that is publi
 
 ### They say that you can have too much of a good thing... what do I do if I want to “unregister” myself from Badoo?
 
-If you have registered on Badoo, you can terminate your registration at any time by going to the ‘Settings’ control on Badoo when you are logged in and choosing the ‘delete profile’ link. We save your profile information in case you later decide to restore your account. Many users deactivate their accounts for temporary reasons and in doing so expect us to maintain their information until they return to Badoo. You will therefore be able to restore your account and your profile in its entirety within 28 days of de-activating it. Once your registration is terminated, we have the right to delete any related Content that you have submitted or uploaded on to Badoo. For further details, please refer to our [Privacy Policy](https://badoo.com/privacy/).
+If you have registered on Badoo, you can terminate your registration at any time by going to the ‘Settings’ control on Badoo when you are logged in and choosing the ‘delete profile’ link. We save your profile information in case you later decide to restore your account. Many users deactivate their accounts for temporary reasons and in doing so expect us to maintain their information until they return to Badoo. You will therefore be able to restore your account and your profile in its entirety within 28 days of de-activating it. Once your registration is terminated, we have the right to delete any related Content that you have submitted or uploaded on to Badoo. For further details, please refer to our [Privacy Policy](https://badoo.com/en/privacy/).
 
 Content that you have uploaded to Badoo, other than your Profile (such as comments or email messages), may still appear on Badoo following termination of your registration.
 
@@ -160,7 +160,7 @@ Content that you have uploaded to Badoo, other than your Profile (such as commen
 
 ### Someone is not obeying the Terms, who do I tell?
 
-You can report any abuse or complain about Content on Badoo by contacting us via [Feedback page](https://badoo.com/feedback/), outlining the abuse and or complaint. You can also report a user directly from a profile, by clicking the ‘Report Abuse’ link on their profile, choosing the reason for the complaint and providing us with any additional information you think fit.
+You can report any abuse or complain about Content on Badoo by contacting us via [Feedback page](https://badoo.com/terms/feedback), outlining the abuse and or complaint. You can also report a user directly from a profile, by clicking the ‘Report Abuse’ link on their profile, choosing the reason for the complaint and providing us with any additional information you think fit.
 
 We will always try our best to help resolve any issue that you may encounter with our service. If your complaint or dispute remains unresolved, however, you may be eligible to use the European Commission’s online dispute resolution platform [here](https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage).
 
@@ -177,7 +177,7 @@ You agree to, and hereby do, to the maximum extent permissible under applicable 
 
 ### Do you have guidelines in place about what you can do with my personal data?
 
-We process information in accordance with our [Privacy Policy](https://badoo.com/privacy/) which is incorporated into these Terms and Conditions of Use. Please read the terms of our [Privacy Policy](https://badoo.com/privacy/) prior to using Badoo. By using Badoo, you agree to such processing and you warrant that all data provided by you is true, correct and accurate.
+We process information in accordance with our [Privacy Policy](https://badoo.com/en/privacy/) which is incorporated into these Terms and Conditions of Use. Please read the terms of our [Privacy Policy](https://badoo.com/en/privacy/) prior to using Badoo. By using Badoo, you agree to such processing and you warrant that all data provided by you is true, correct and accurate.
 
 8\. Links
 ---------
