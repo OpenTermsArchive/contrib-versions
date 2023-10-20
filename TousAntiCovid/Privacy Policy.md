@@ -178,7 +178,7 @@
     Retour
     
     * * [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-        * [Priorité prévention : rester en bonne santé tout au long de sa vie](https://sante.gouv.fr/systeme-de-sante/strategie-nationale-de-sante/priorite-prevention-rester-en-bonne-sante-tout-au-long-de-sa-vie-11031/)
+        * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
         * [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
             
             * [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
@@ -197,7 +197,6 @@
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
-            * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
@@ -541,7 +540,7 @@
     Retour
     
     * * [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-        * [Priorité prévention : rester en bonne santé tout au long de sa vie](https://sante.gouv.fr/systeme-de-sante/strategie-nationale-de-sante/priorite-prevention-rester-en-bonne-sante-tout-au-long-de-sa-vie-11031/)
+        * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
         * [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
             
             * [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
@@ -560,7 +559,6 @@
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
-            * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
@@ -1045,7 +1043,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     Retour
     
     * * [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-        * [Priorité prévention : rester en bonne santé tout au long de sa vie](https://sante.gouv.fr/systeme-de-sante/strategie-nationale-de-sante/priorite-prevention-rester-en-bonne-sante-tout-au-long-de-sa-vie-11031/)
+        * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
         * [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
             
             * [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
@@ -1064,7 +1062,6 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
-            * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
@@ -1408,7 +1405,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     Retour
     
     * * [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-        * [Priorité prévention : rester en bonne santé tout au long de sa vie](https://sante.gouv.fr/systeme-de-sante/strategie-nationale-de-sante/priorite-prevention-rester-en-bonne-sante-tout-au-long-de-sa-vie-11031/)
+        * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
         * [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
             
             * [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
@@ -1427,7 +1424,6 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
-            * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
@@ -1892,7 +1888,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     Retour
     
     * * [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-        * [Priorité prévention : rester en bonne santé tout au long de sa vie](https://sante.gouv.fr/systeme-de-sante/strategie-nationale-de-sante/priorite-prevention-rester-en-bonne-sante-tout-au-long-de-sa-vie-11031/)
+        * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
         * [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
             
             * [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
@@ -1911,7 +1907,6 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
-            * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
@@ -2255,7 +2250,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     Retour
     
     * * [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-        * [Priorité prévention : rester en bonne santé tout au long de sa vie](https://sante.gouv.fr/systeme-de-sante/strategie-nationale-de-sante/priorite-prevention-rester-en-bonne-sante-tout-au-long-de-sa-vie-11031/)
+        * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
         * [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
             
             * [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
@@ -2274,7 +2269,6 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
-            * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
@@ -2684,7 +2678,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     Retour
     
     * * [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-        * [Priorité prévention : rester en bonne santé tout au long de sa vie](https://sante.gouv.fr/systeme-de-sante/strategie-nationale-de-sante/priorite-prevention-rester-en-bonne-sante-tout-au-long-de-sa-vie-11031/)
+        * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
         * [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
             
             * [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
@@ -2703,7 +2697,6 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
-            * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
@@ -3053,7 +3046,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     Retour
     
     * * [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-        * [Priorité prévention : rester en bonne santé tout au long de sa vie](https://sante.gouv.fr/systeme-de-sante/strategie-nationale-de-sante/priorite-prevention-rester-en-bonne-sante-tout-au-long-de-sa-vie-11031/)
+        * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
         * [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
             
             * [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
@@ -3072,7 +3065,6 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
-            * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
@@ -3422,7 +3414,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     Retour
     
     * * [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-        * [Priorité prévention : rester en bonne santé tout au long de sa vie](https://sante.gouv.fr/systeme-de-sante/strategie-nationale-de-sante/priorite-prevention-rester-en-bonne-sante-tout-au-long-de-sa-vie-11031/)
+        * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
         * [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
             
             * [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
@@ -3441,7 +3433,6 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
-            * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
@@ -3791,7 +3782,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     Retour
     
     * * [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-        * [Priorité prévention : rester en bonne santé tout au long de sa vie](https://sante.gouv.fr/systeme-de-sante/strategie-nationale-de-sante/priorite-prevention-rester-en-bonne-sante-tout-au-long-de-sa-vie-11031/)
+        * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
         * [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
             
             * [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
@@ -3810,7 +3801,6 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
-            * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
@@ -4160,7 +4150,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     Retour
     
     * * [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-        * [Priorité prévention : rester en bonne santé tout au long de sa vie](https://sante.gouv.fr/systeme-de-sante/strategie-nationale-de-sante/priorite-prevention-rester-en-bonne-sante-tout-au-long-de-sa-vie-11031/)
+        * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
         * [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
             
             * [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
@@ -4179,7 +4169,6 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
-            * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
@@ -4529,7 +4518,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     Retour
     
     * * [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-        * [Priorité prévention : rester en bonne santé tout au long de sa vie](https://sante.gouv.fr/systeme-de-sante/strategie-nationale-de-sante/priorite-prevention-rester-en-bonne-sante-tout-au-long-de-sa-vie-11031/)
+        * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
         * [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
             
             * [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
@@ -4548,7 +4537,6 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
-            * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
@@ -4804,7 +4792,6 @@ Retour
 * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
 * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
 
-* [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
 * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
 * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
 * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
@@ -5089,7 +5076,7 @@ Retour
     Retour
     
     * * [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-        * [Priorité prévention : rester en bonne santé tout au long de sa vie](https://sante.gouv.fr/systeme-de-sante/strategie-nationale-de-sante/priorite-prevention-rester-en-bonne-sante-tout-au-long-de-sa-vie-11031/)
+        * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
         * [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
             
             * [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
@@ -5108,7 +5095,6 @@ Retour
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
-            * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
@@ -5452,7 +5438,7 @@ Retour
     Retour
     
     * * [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-        * [Priorité prévention : rester en bonne santé tout au long de sa vie](https://sante.gouv.fr/systeme-de-sante/strategie-nationale-de-sante/priorite-prevention-rester-en-bonne-sante-tout-au-long-de-sa-vie-11031/)
+        * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
         * [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
             
             * [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
@@ -5471,7 +5457,6 @@ Retour
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
-            * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
@@ -5815,7 +5800,7 @@ Retour
     Retour
     
     * * [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-        * [Priorité prévention : rester en bonne santé tout au long de sa vie](https://sante.gouv.fr/systeme-de-sante/strategie-nationale-de-sante/priorite-prevention-rester-en-bonne-sante-tout-au-long-de-sa-vie-11031/)
+        * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
         * [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
             
             * [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
@@ -5834,7 +5819,6 @@ Retour
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
-            * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
@@ -6178,7 +6162,7 @@ Retour
     Retour
     
     * * [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-        * [Priorité prévention : rester en bonne santé tout au long de sa vie](https://sante.gouv.fr/systeme-de-sante/strategie-nationale-de-sante/priorite-prevention-rester-en-bonne-sante-tout-au-long-de-sa-vie-11031/)
+        * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
         * [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
             
             * [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
@@ -6197,7 +6181,6 @@ Retour
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
-            * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
@@ -6541,7 +6524,7 @@ Retour
     Retour
     
     * * [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-        * [Priorité prévention : rester en bonne santé tout au long de sa vie](https://sante.gouv.fr/systeme-de-sante/strategie-nationale-de-sante/priorite-prevention-rester-en-bonne-sante-tout-au-long-de-sa-vie-11031/)
+        * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
         * [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
             
             * [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
@@ -6560,7 +6543,6 @@ Retour
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
-            * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
@@ -7110,7 +7092,7 @@ Retour
     Retour
     
     * * [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-        * [Priorité prévention : rester en bonne santé tout au long de sa vie](https://sante.gouv.fr/systeme-de-sante/strategie-nationale-de-sante/priorite-prevention-rester-en-bonne-sante-tout-au-long-de-sa-vie-11031/)
+        * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
         * [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
             
             * [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
@@ -7129,7 +7111,6 @@ Retour
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
-            * [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
@@ -7330,7 +7311,6 @@ Retour
 * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
 * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
 
-* [Mon bilan prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
 * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
 * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
 * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
