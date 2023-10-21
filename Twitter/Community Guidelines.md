@@ -1,1097 +1,554 @@
-The X Rules
-===========
+Perpetrators of Violent Attacks
+===============================
 
-X's purpose is to serve the public conversation. Violence, harassment and other similar types of behavior discourage people from expressing themselves, and ultimately diminish the value of global public conversation. Our rules are to ensure all people can participate in the public conversation freely and safely.  
- 
+Overview
 
-### Safety
+**February 2023**
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/en/rules-and-policies/violent-entities.html).
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.twitter.com/en/rules-and-policies/hateful-conduct-policy.html). 
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.twitter.com/en/rules-and-policies/perpetrators-of-violent-attacks.html). 
+**What is a manifesto?**
 
-Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
-  
-
-### Privacy
-
-Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/personal-information.html).
-
-Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
-
-Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any X account other than your own (or those you have been directly authorized to do so via X’s Teams authorization, OAuth authorization or similar mechanism).   
-  
-
-### Authenticity
-
-  
-Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. [Learn more](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html).
-
-Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.twitter.com/en/rules-and-policies/election-integrity-policy.html).
-
-Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.twitter.com/en/rules-and-policies/manipulated-media.html).
-
-Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) and [copyright policy](https://help.twitter.com/en/rules-and-policies/copyright-policy.html).  
-  
-
-### Third-party advertising in video content
-
-  
-You may not submit, post, or display any video content on or through our services that includes third-party advertising, such as pre-roll video ads or sponsorship graphics, without our prior consent.
-
-###   
-Enforcement and Appeals
-
-  
-Learn more about [our approach to enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html), including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
-
-The X Rules
-===========
-
-X's purpose is to serve the public conversation. Violence, harassment and other similar types of behavior discourage people from expressing themselves, and ultimately diminish the value of global public conversation. Our rules are to ensure all people can participate in the public conversation freely and safely.  
- 
-
-### Safety
-
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/en/rules-and-policies/violent-entities.html).
-
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
-
-Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
-
-Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.twitter.com/en/rules-and-policies/hateful-conduct-policy.html). 
-
-Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.twitter.com/en/rules-and-policies/perpetrators-of-violent-attacks.html). 
-
-Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
-
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
-
-Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
-  
-
-### Privacy
-
-Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/personal-information.html).
-
-Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
-
-Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any X account other than your own (or those you have been directly authorized to do so via X’s Teams authorization, OAuth authorization or similar mechanism).   
-  
-
-### Authenticity
-
-  
-Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. [Learn more](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html).
-
-Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.twitter.com/en/rules-and-policies/election-integrity-policy.html).
-
-Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.twitter.com/en/rules-and-policies/manipulated-media.html).
-
-Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) and [copyright policy](https://help.twitter.com/en/rules-and-policies/copyright-policy.html).  
-  
-
-### Third-party advertising in video content
-
-  
-You may not submit, post, or display any video content on or through our services that includes third-party advertising, such as pre-roll video ads or sponsorship graphics, without our prior consent.
-
-###   
-Enforcement and Appeals
-
-  
-Learn more about [our approach to enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html), including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
-
-The X Rules
-===========
-
-X's purpose is to serve the public conversation. Violence, harassment and other similar types of behavior discourage people from expressing themselves, and ultimately diminish the value of global public conversation. Our rules are to ensure all people can participate in the public conversation freely and safely.  
- 
-
-### Safety
-
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/en/rules-and-policies/violent-entities.html).
-
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
-
-Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
-
-Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.twitter.com/en/rules-and-policies/hateful-conduct-policy.html). 
-
-Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.twitter.com/en/rules-and-policies/perpetrators-of-violent-attacks.html). 
-
-Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
-
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
-
-Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
-  
-
-### Privacy
-
-Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/personal-information.html).
-
-Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
-
-Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any X account other than your own (or those you have been directly authorized to do so via X’s Teams authorization, OAuth authorization or similar mechanism).   
-  
-
-### Authenticity
-
-  
-Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. [Learn more](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html).
-
-Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.twitter.com/en/rules-and-policies/election-integrity-policy.html).
-
-Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.twitter.com/en/rules-and-policies/manipulated-media.html).
-
-Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) and [copyright policy](https://help.twitter.com/en/rules-and-policies/copyright-policy.html).  
-  
-
-### Third-party advertising in video content
-
-  
-You may not submit, post, or display any video content on or through our services that includes third-party advertising, such as pre-roll video ads or sponsorship graphics, without our prior consent.
-
-###   
-Enforcement and Appeals
-
-  
-Learn more about [our approach to enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html), including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
-
-The X Rules
-===========
-
-X's purpose is to serve the public conversation. Violence, harassment and other similar types of behavior discourage people from expressing themselves, and ultimately diminish the value of global public conversation. Our rules are to ensure all people can participate in the public conversation freely and safely.  
- 
-
-### Safety
-
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/en/rules-and-policies/violent-entities.html).
-
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
-
-Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
-
-Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.twitter.com/en/rules-and-policies/hateful-conduct-policy.html). 
-
-Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.twitter.com/en/rules-and-policies/perpetrators-of-violent-attacks.html). 
-
-Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
-
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
-
-Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
-  
-
-### Privacy
-
-Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/personal-information.html).
-
-Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
-
-Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any X account other than your own (or those you have been directly authorized to do so via X’s Teams authorization, OAuth authorization or similar mechanism).   
-  
-
-### Authenticity
-
-  
-Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. [Learn more](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html).
-
-Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.twitter.com/en/rules-and-policies/election-integrity-policy.html).
-
-Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.twitter.com/en/rules-and-policies/manipulated-media.html).
-
-Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) and [copyright policy](https://help.twitter.com/en/rules-and-policies/copyright-policy.html).  
-  
-
-### Third-party advertising in video content
-
-  
-You may not submit, post, or display any video content on or through our services that includes third-party advertising, such as pre-roll video ads or sponsorship graphics, without our prior consent.
-
-###   
-Enforcement and Appeals
-
-  
-Learn more about [our approach to enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html), including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
-
-The X Rules
-===========
-
-X's purpose is to serve the public conversation. Violence, harassment and other similar types of behavior discourage people from expressing themselves, and ultimately diminish the value of global public conversation. Our rules are to ensure all people can participate in the public conversation freely and safely.  
- 
-
-### Safety
-
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/en/rules-and-policies/violent-entities.html).
-
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
-
-Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
-
-Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.twitter.com/en/rules-and-policies/hateful-conduct-policy.html). 
-
-Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.twitter.com/en/rules-and-policies/perpetrators-of-violent-attacks.html). 
-
-Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
-
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
-
-Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
-  
-
-### Privacy
-
-Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/personal-information.html).
-
-Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
-
-Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any X account other than your own (or those you have been directly authorized to do so via X’s Teams authorization, OAuth authorization or similar mechanism).   
-  
-
-### Authenticity
-
-  
-Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. [Learn more](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html).
-
-Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.twitter.com/en/rules-and-policies/election-integrity-policy.html).
-
-Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.twitter.com/en/rules-and-policies/manipulated-media.html).
-
-Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) and [copyright policy](https://help.twitter.com/en/rules-and-policies/copyright-policy.html).  
-  
-
-### Third-party advertising in video content
-
-  
-You may not submit, post, or display any video content on or through our services that includes third-party advertising, such as pre-roll video ads or sponsorship graphics, without our prior consent.
-
-###   
-Enforcement and Appeals
-
-  
-Learn more about [our approach to enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html), including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
-
-The X Rules
-===========
-
-X's purpose is to serve the public conversation. Violence, harassment and other similar types of behavior discourage people from expressing themselves, and ultimately diminish the value of global public conversation. Our rules are to ensure all people can participate in the public conversation freely and safely.  
- 
-
-### Safety
-
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/en/rules-and-policies/violent-entities.html).
-
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
-
-Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
-
-Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.twitter.com/en/rules-and-policies/hateful-conduct-policy.html). 
-
-Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.twitter.com/en/rules-and-policies/perpetrators-of-violent-attacks.html). 
-
-Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
-
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
-
-Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
-  
-
-### Privacy
-
-Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/personal-information.html).
-
-Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
-
-Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any X account other than your own (or those you have been directly authorized to do so via X’s Teams authorization, OAuth authorization or similar mechanism).   
-  
-
-### Authenticity
-
-  
-Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. [Learn more](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html).
-
-Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.twitter.com/en/rules-and-policies/election-integrity-policy.html).
-
-Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.twitter.com/en/rules-and-policies/manipulated-media.html).
-
-Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) and [copyright policy](https://help.twitter.com/en/rules-and-policies/copyright-policy.html).  
-  
-
-### Third-party advertising in video content
-
-  
-You may not submit, post, or display any video content on or through our services that includes third-party advertising, such as pre-roll video ads or sponsorship graphics, without our prior consent.
-
-###   
-Enforcement and Appeals
-
-  
-Learn more about [our approach to enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html), including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
-
-The X Rules
-===========
-
-X's purpose is to serve the public conversation. Violence, harassment and other similar types of behavior discourage people from expressing themselves, and ultimately diminish the value of global public conversation. Our rules are to ensure all people can participate in the public conversation freely and safely.  
- 
-
-### Safety
-
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/en/rules-and-policies/violent-entities.html).
-
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
-
-Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
-
-Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.twitter.com/en/rules-and-policies/hateful-conduct-policy.html). 
-
-Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.twitter.com/en/rules-and-policies/perpetrators-of-violent-attacks.html). 
-
-Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
-
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
-
-Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
-  
-
-### Privacy
-
-Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/personal-information.html).
-
-Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
-
-Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any X account other than your own (or those you have been directly authorized to do so via X’s Teams authorization, OAuth authorization or similar mechanism).   
-  
-
-### Authenticity
-
-  
-Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. [Learn more](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html).
-
-Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.twitter.com/en/rules-and-policies/election-integrity-policy.html).
-
-Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.twitter.com/en/rules-and-policies/manipulated-media.html).
-
-Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) and [copyright policy](https://help.twitter.com/en/rules-and-policies/copyright-policy.html).  
-  
-
-### Third-party advertising in video content
-
-  
-You may not submit, post, or display any video content on or through our services that includes third-party advertising, such as pre-roll video ads or sponsorship graphics, without our prior consent.
-
-###   
-Enforcement and Appeals
-
-  
-Learn more about [our approach to enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html), including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
-
-The X Rules
-===========
-
-X's purpose is to serve the public conversation. Violence, harassment and other similar types of behavior discourage people from expressing themselves, and ultimately diminish the value of global public conversation. Our rules are to ensure all people can participate in the public conversation freely and safely.  
- 
-
-### Safety
-
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/en/rules-and-policies/violent-entities.html).
-
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
-
-Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
-
-Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.twitter.com/en/rules-and-policies/hateful-conduct-policy.html). 
-
-Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.twitter.com/en/rules-and-policies/perpetrators-of-violent-attacks.html). 
-
-Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
-
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
-
-Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
-  
-
-### Privacy
-
-Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/personal-information.html).
-
-Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
-
-Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any X account other than your own (or those you have been directly authorized to do so via X’s Teams authorization, OAuth authorization or similar mechanism).   
-  
-
-### Authenticity
-
-  
-Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. [Learn more](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html).
-
-Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.twitter.com/en/rules-and-policies/election-integrity-policy.html).
-
-Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.twitter.com/en/rules-and-policies/manipulated-media.html).
-
-Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) and [copyright policy](https://help.twitter.com/en/rules-and-policies/copyright-policy.html).  
-  
-
-### Third-party advertising in video content
-
-  
-You may not submit, post, or display any video content on or through our services that includes third-party advertising, such as pre-roll video ads or sponsorship graphics, without our prior consent.
-
-###   
-Enforcement and Appeals
-
-  
-Learn more about [our approach to enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html), including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
-
-The X Rules
-===========
-
-X's purpose is to serve the public conversation. Violence, harassment and other similar types of behavior discourage people from expressing themselves, and ultimately diminish the value of global public conversation. Our rules are to ensure all people can participate in the public conversation freely and safely.  
- 
-
-### Safety
-
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/en/rules-and-policies/violent-entities.html).
-
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
-
-Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
-
-Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.twitter.com/en/rules-and-policies/hateful-conduct-policy.html). 
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.twitter.com/en/rules-and-policies/perpetrators-of-violent-attacks.html). 
+Perpetrators of Violent Attacks
+===============================
 
-Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
+Overview
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+**February 2023**
 
-Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
-  
-
-### Privacy
-
-Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/personal-information.html).
-
-Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
-
-Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any X account other than your own (or those you have been directly authorized to do so via X’s Teams authorization, OAuth authorization or similar mechanism).   
-  
-
-### Authenticity
-
-  
-Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. [Learn more](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html).
-
-Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.twitter.com/en/rules-and-policies/election-integrity-policy.html).
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.twitter.com/en/rules-and-policies/manipulated-media.html).
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) and [copyright policy](https://help.twitter.com/en/rules-and-policies/copyright-policy.html).  
-  
-
-### Third-party advertising in video content
-
-  
-You may not submit, post, or display any video content on or through our services that includes third-party advertising, such as pre-roll video ads or sponsorship graphics, without our prior consent.
-
-###   
-Enforcement and Appeals
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-  
-Learn more about [our approach to enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html), including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
-
-The X Rules
-===========
-
-X's purpose is to serve the public conversation. Violence, harassment and other similar types of behavior discourage people from expressing themselves, and ultimately diminish the value of global public conversation. Our rules are to ensure all people can participate in the public conversation freely and safely.  
- 
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-### Safety
+**What is a manifesto?**
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/en/rules-and-policies/violent-entities.html).
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
+Perpetrators of Violent Attacks
+===============================
 
-Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.twitter.com/en/rules-and-policies/hateful-conduct-policy.html). 
+Overview
 
-Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.twitter.com/en/rules-and-policies/perpetrators-of-violent-attacks.html). 
+**February 2023**
 
-Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
-
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
-
-Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
-  
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-### Privacy
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/personal-information.html).
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any X account other than your own (or those you have been directly authorized to do so via X’s Teams authorization, OAuth authorization or similar mechanism).   
-  
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-### Authenticity
+**What is a manifesto?**
 
-  
-Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. [Learn more](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html).
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.twitter.com/en/rules-and-policies/election-integrity-policy.html).
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.twitter.com/en/rules-and-policies/manipulated-media.html).
+Perpetrators of Violent Attacks
+===============================
 
-Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) and [copyright policy](https://help.twitter.com/en/rules-and-policies/copyright-policy.html).  
-  
+Overview
 
-### Third-party advertising in video content
+**February 2023**
 
-  
-You may not submit, post, or display any video content on or through our services that includes third-party advertising, such as pre-roll video ads or sponsorship graphics, without our prior consent.
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-###   
-Enforcement and Appeals
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-  
-Learn more about [our approach to enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html), including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-The X Rules
-===========
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-X's purpose is to serve the public conversation. Violence, harassment and other similar types of behavior discourage people from expressing themselves, and ultimately diminish the value of global public conversation. Our rules are to ensure all people can participate in the public conversation freely and safely.  
- 
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-### Safety
+**What is a manifesto?**
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/en/rules-and-policies/violent-entities.html).
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
+Perpetrators of Violent Attacks
+===============================
 
-Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.twitter.com/en/rules-and-policies/hateful-conduct-policy.html). 
+Overview
 
-Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.twitter.com/en/rules-and-policies/perpetrators-of-violent-attacks.html). 
+**February 2023**
 
-Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
-  
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-### Privacy
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/personal-information.html).
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+**What is a manifesto?**
 
-Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any X account other than your own (or those you have been directly authorized to do so via X’s Teams authorization, OAuth authorization or similar mechanism).   
-  
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-### Authenticity
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-  
-Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. [Learn more](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html).
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.twitter.com/en/rules-and-policies/election-integrity-policy.html).
+Perpetrators of Violent Attacks
+===============================
 
-Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+Overview
 
-Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.twitter.com/en/rules-and-policies/manipulated-media.html).
+**February 2023**
 
-Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) and [copyright policy](https://help.twitter.com/en/rules-and-policies/copyright-policy.html).  
-  
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-### Third-party advertising in video content
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-  
-You may not submit, post, or display any video content on or through our services that includes third-party advertising, such as pre-roll video ads or sponsorship graphics, without our prior consent.
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-###   
-Enforcement and Appeals
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-  
-Learn more about [our approach to enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html), including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-The X Rules
-===========
+**What is a manifesto?**
 
-X's purpose is to serve the public conversation. Violence, harassment and other similar types of behavior discourage people from expressing themselves, and ultimately diminish the value of global public conversation. Our rules are to ensure all people can participate in the public conversation freely and safely.  
- 
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-### Safety
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/en/rules-and-policies/violent-entities.html).
+Perpetrators of Violent Attacks
+===============================
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Overview
 
-Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
+**February 2023**
 
-Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.twitter.com/en/rules-and-policies/hateful-conduct-policy.html). 
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.twitter.com/en/rules-and-policies/perpetrators-of-violent-attacks.html). 
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
-  
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-### Privacy
+**What is a manifesto?**
 
-Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/personal-information.html).
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any X account other than your own (or those you have been directly authorized to do so via X’s Teams authorization, OAuth authorization or similar mechanism).   
-  
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-### Authenticity
+Perpetrators of Violent Attacks
+===============================
 
-  
-Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. [Learn more](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html).
+Overview
 
-Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.twitter.com/en/rules-and-policies/election-integrity-policy.html).
+**February 2023**
 
-Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.twitter.com/en/rules-and-policies/manipulated-media.html).
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) and [copyright policy](https://help.twitter.com/en/rules-and-policies/copyright-policy.html).  
-  
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-### Third-party advertising in video content
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-  
-You may not submit, post, or display any video content on or through our services that includes third-party advertising, such as pre-roll video ads or sponsorship graphics, without our prior consent.
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-###   
-Enforcement and Appeals
+**What is a manifesto?**
 
-  
-Learn more about [our approach to enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html), including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-The X Rules
-===========
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-X's purpose is to serve the public conversation. Violence, harassment and other similar types of behavior discourage people from expressing themselves, and ultimately diminish the value of global public conversation. Our rules are to ensure all people can participate in the public conversation freely and safely.  
- 
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-### Safety
+Perpetrators of Violent Attacks
+===============================
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Overview
 
-Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/en/rules-and-policies/violent-entities.html).
+**February 2023**
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.twitter.com/en/rules-and-policies/hateful-conduct-policy.html). 
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.twitter.com/en/rules-and-policies/perpetrators-of-violent-attacks.html). 
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+**What is a manifesto?**
 
-Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
-  
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-### Privacy
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/personal-information.html).
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+Perpetrators of Violent Attacks
+===============================
 
-Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any X account other than your own (or those you have been directly authorized to do so via X’s Teams authorization, OAuth authorization or similar mechanism).   
-  
+Overview
 
-### Authenticity
+**February 2023**
 
-  
-Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. [Learn more](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html).
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.twitter.com/en/rules-and-policies/election-integrity-policy.html).
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.twitter.com/en/rules-and-policies/manipulated-media.html).
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) and [copyright policy](https://help.twitter.com/en/rules-and-policies/copyright-policy.html).  
-  
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-### Third-party advertising in video content
+**What is a manifesto?**
 
-  
-You may not submit, post, or display any video content on or through our services that includes third-party advertising, such as pre-roll video ads or sponsorship graphics, without our prior consent.
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-###   
-Enforcement and Appeals
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-  
-Learn more about [our approach to enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html), including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-The X Rules
-===========
+Perpetrators of Violent Attacks
+===============================
 
-X's purpose is to serve the public conversation. Violence, harassment and other similar types of behavior discourage people from expressing themselves, and ultimately diminish the value of global public conversation. Our rules are to ensure all people can participate in the public conversation freely and safely.  
- 
+Overview
 
-### Safety
+**February 2023**
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/en/rules-and-policies/violent-entities.html).
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.twitter.com/en/rules-and-policies/hateful-conduct-policy.html). 
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.twitter.com/en/rules-and-policies/perpetrators-of-violent-attacks.html). 
+**What is a manifesto?**
 
-Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
-  
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-### Privacy
+Perpetrators of Violent Attacks
+===============================
 
-Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/personal-information.html).
+Overview
 
-Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+**February 2023**
 
-Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any X account other than your own (or those you have been directly authorized to do so via X’s Teams authorization, OAuth authorization or similar mechanism).   
-  
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-### Authenticity
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-  
-Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. [Learn more](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html).
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.twitter.com/en/rules-and-policies/election-integrity-policy.html).
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.twitter.com/en/rules-and-policies/manipulated-media.html).
+**What is a manifesto?**
 
-Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) and [copyright policy](https://help.twitter.com/en/rules-and-policies/copyright-policy.html).  
-  
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-### Third-party advertising in video content
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-  
-You may not submit, post, or display any video content on or through our services that includes third-party advertising, such as pre-roll video ads or sponsorship graphics, without our prior consent.
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-###   
-Enforcement and Appeals
+Perpetrators of Violent Attacks
+===============================
 
-  
-Learn more about [our approach to enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html), including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
+Overview
 
-The X Rules
-===========
+**February 2023**
 
-X's purpose is to serve the public conversation. Violence, harassment and other similar types of behavior discourage people from expressing themselves, and ultimately diminish the value of global public conversation. Our rules are to ensure all people can participate in the public conversation freely and safely.  
- 
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-### Safety
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/en/rules-and-policies/violent-entities.html).
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
+**What is a manifesto?**
 
-Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.twitter.com/en/rules-and-policies/hateful-conduct-policy.html). 
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.twitter.com/en/rules-and-policies/perpetrators-of-violent-attacks.html). 
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+Perpetrators of Violent Attacks
+===============================
 
-Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
-  
+Overview
 
-### Privacy
+**February 2023**
 
-Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/personal-information.html).
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any X account other than your own (or those you have been directly authorized to do so via X’s Teams authorization, OAuth authorization or similar mechanism).   
-  
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-### Authenticity
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-  
-Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. [Learn more](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html).
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.twitter.com/en/rules-and-policies/election-integrity-policy.html).
+**What is a manifesto?**
 
-Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.twitter.com/en/rules-and-policies/manipulated-media.html).
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) and [copyright policy](https://help.twitter.com/en/rules-and-policies/copyright-policy.html).  
-  
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-### Third-party advertising in video content
+Perpetrators of Violent Attacks
+===============================
 
-  
-You may not submit, post, or display any video content on or through our services that includes third-party advertising, such as pre-roll video ads or sponsorship graphics, without our prior consent.
+Overview
 
-###   
-Enforcement and Appeals
+**February 2023**
 
-  
-Learn more about [our approach to enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html), including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-The X Rules
-===========
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-X's purpose is to serve the public conversation. Violence, harassment and other similar types of behavior discourage people from expressing themselves, and ultimately diminish the value of global public conversation. Our rules are to ensure all people can participate in the public conversation freely and safely.  
- 
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-### Safety
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/en/rules-and-policies/violent-entities.html).
+**What is a manifesto?**
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.twitter.com/en/rules-and-policies/hateful-conduct-policy.html). 
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.twitter.com/en/rules-and-policies/perpetrators-of-violent-attacks.html). 
+Perpetrators of Violent Attacks
+===============================
 
-Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
+Overview
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+**February 2023**
 
-Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
-  
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-### Privacy
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/personal-information.html).
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any X account other than your own (or those you have been directly authorized to do so via X’s Teams authorization, OAuth authorization or similar mechanism).   
-  
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-### Authenticity
+**What is a manifesto?**
 
-  
-Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. [Learn more](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html).
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.twitter.com/en/rules-and-policies/election-integrity-policy.html).
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
 
-Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.twitter.com/en/rules-and-policies/manipulated-media.html).
+Perpetrators of Violent Attacks
+===============================
 
-Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) and [copyright policy](https://help.twitter.com/en/rules-and-policies/copyright-policy.html).  
-  
+Overview
 
-### Third-party advertising in video content
+**February 2023**
 
-  
-You may not submit, post, or display any video content on or through our services that includes third-party advertising, such as pre-roll video ads or sponsorship graphics, without our prior consent.
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-###   
-Enforcement and Appeals
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-  
-Learn more about [our approach to enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html), including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-The X Rules
-===========
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-X's purpose is to serve the public conversation. Violence, harassment and other similar types of behavior discourage people from expressing themselves, and ultimately diminish the value of global public conversation. Our rules are to ensure all people can participate in the public conversation freely and safely.  
- 
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-### Safety
+**What is a manifesto?**
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/en/rules-and-policies/violent-entities.html).
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies. 
 
-Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
+What is in violation of this policy?
 
-Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.twitter.com/en/rules-and-policies/hateful-conduct-policy.html). 
+Under this policy, we will permanently suspend accounts belonging to apparent individual perpetrators of terrorist, violent extremist, and mass violent attacks, as well as accounts dedicated to the sharing of harmful and violent content associated with the perpetrators or the violent attack.
 
-Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.twitter.com/en/rules-and-policies/perpetrators-of-violent-attacks.html). 
+Additionally, you may not Post any of the following:
 
-Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
+**Manifestos and other content created by perpetrators**
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+We may remove content containing manifestos and other content created by individual perpetrators or their accomplices. Violations can occur via Posts, Spaces, images, and videos, including live video. Examples of content that we may action under this policy include, but are not limited to:
 
-Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
-  
+* Sharing or linking full-length manifestos, regardless of context
+* Any Posts containing excerpt(s) of a reproduced manifesto (edited or sliced) or of the original manifesto, except when shared in a newsworthy context.
+    * Regardless of context, it is always prohibited to share any of the following: 
+        
+        * Excerpt(s) that convey suggestions about how to arm oneself and choose targets.
+        * Excerpt(s) that share hateful slogans, symbols, memes, and/or hateful conspiracy theories such as the Great Replacement Theory.
+        * Excerpt(s) outlining the perpetrator’s ideology, tactical choices, and/or plan of attack.
+* Sharing perpetrator-generated media related to the attack in all instances. This includes, but is not limited to:
+    
+    * Media filmed by the perpetrator of the attack
+    * Memes, stickers, or graffiti shared and/or produced by the perpetrator
+    * Media of the weapons utilized in the attack
+* Other perpetrator-generated content that is not associated with the violent attack but that is specific to the promotion or support of violence.
+* Bystander-generated content of the attack as the attack is taking place, such as content that displays a moment of the assault or death, dead bodies, content that identifies victims, or content that depicts the perpetrator(s) conducting the attack.
 
-### Privacy
+**Multimedia content, URLs, and hashtags**
 
-Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/personal-information.html).
+We may put a sensitive media interstitial over some media. The interstitial places images and videos behind a warning message that needs to be acknowledged before the media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. The types of media we may interstitial include, but are not limited to:
 
-Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+* Media depicting a perpetrator 
+* Excerpts of the attacker’s manifesto that are shared as part of a news report
 
-Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any X account other than your own (or those you have been directly authorized to do so via X’s Teams authorization, OAuth authorization or similar mechanism).   
-  
+We may label URLs linking directly to documents believed to be a manifesto to prevent these URLs from being shared on X.
 
-### Authenticity
+We may denylist hashtags identifying perpetrators on trends to reduce the visibility of perpetrators’ identities, as well as all hashtags that are used uniquely to surface manifestos.
 
+What is not a violation of this policy?  
   
-Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. [Learn more](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html).
-
-Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.twitter.com/en/rules-and-policies/election-integrity-policy.html).
 
-Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.twitter.com/en/rules-and-policies/manipulated-media.html).
-
-Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) and [copyright policy](https://help.twitter.com/en/rules-and-policies/copyright-policy.html).  
-  
+* Accounts that belong to
+    * Bystanders who happened to be close to the violent attack and/or managed to stop the attack, for example someone who shot the perpetrator(s)
+    * Perpetrators whose convictions were overturned after a not guilty verdict
+* Content depicting any of the following:
+    * The use of force by law enforcement and military personnel, as part of the scope of their official functions, that resulted in casualties;
+    * Violence against military personnel and law enforcement;
+    * Human rights abuses
+    * Violent attacks that are part of an armed conflict
+    * Violence used as a means of self defense
+    * Violent attacks, where there is probable doubt about the intent behind the attack
+    * Cases of vandalism and attacks resulting in damage to essential infrastructure
+    * Sharing a few sentences from the manifesto(s), either in a newsworthy context or to bring more awareness to the rise of hate or violence towards a specific group. For example: “the shooter said he wants to eradicate x group” is not actionable under this policy.
 
-### Third-party advertising in video content
+Who can report violations of this policy?
 
   
-You may not submit, post, or display any video content on or through our services that includes third-party advertising, such as pre-roll video ads or sponsorship graphics, without our prior consent.
+Anyone can report potential violations of this policy, whether they have an X account or not.   
 
-###   
-Enforcement and Appeals
+What happens if I violate this policy? 
 
   
-Learn more about [our approach to enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html), including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
-
-The X Rules
-===========
-
-X's purpose is to serve the public conversation. Violence, harassment and other similar types of behavior discourage people from expressing themselves, and ultimately diminish the value of global public conversation. Our rules are to ensure all people can participate in the public conversation freely and safely.  
- 
-
-### Safety
-
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/en/rules-and-policies/violent-entities.html).
+The consequences for violating our violent events policy depends on the severity of the violation. Accounts maintained by perpetrators of terrorist, violent extremist, or mass violent attacks will be permanently suspended. As described above, we may also remove content containing manifestos and other content created by perpetrators or their accomplices. 
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+In addition, we will also remove content that violates our policies regarding [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html) or [other parts of Our Rules](https://help.twitter.com/en/rules-and-policies.html#general-policies.html).
 
-Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
+Additional resources
 
-Hateful conduct: You may not attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. [Learn more](https://help.twitter.com/en/rules-and-policies/hateful-conduct-policy.html). 
-
-Perpetrators of Violent Attacks: We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, and may also remove posts disseminating manifestos or other content produced by perpetrators. [Learn more](https://help.twitter.com/en/rules-and-policies/perpetrators-of-violent-attacks.html). 
-
-Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
-
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
-
-Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
   
-
-### Privacy
+Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
 
-Private Information: You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/personal-information.html).
+Perpetrators of Violent Attacks
+===============================
 
-Non-Consensual Nudity: You may not post or share intimate photos or videos of someone that were produced or distributed without their consent. [Learn more](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+Overview
 
-Account Compromise: You may not use or attempt to use credentials, passwords, tokens, keys, cookies or other data to log into or otherwise access, add, delete or modify the private information or account features of any X account other than your own (or those you have been directly authorized to do so via X’s Teams authorization, OAuth authorization or similar mechanism).   
-  
+**February 2023**
 
-### Authenticity
-
-  
-Platform Manipulation and Spam: You may not use X’s services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience on X. [Learn more](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html).
+**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
 
-Civic Integrity: You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes. This includes posting or sharing content that may suppress participation or mislead people about when, where, or how to participate in a civic process. [Learn more](https://help.twitter.com/en/rules-and-policies/election-integrity-policy.html).
+We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
 
-Misleading and Deceptive Identities: You may not impersonate individuals, groups, or organizations to mislead, confuse, or deceive others, nor use a fake identity in a manner that disrupts the experience of others on X. [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
 
-Synthetic and Manipulated Media: You may not deceptively share synthetic or manipulated media that are likely to cause harm. In addition, we may label posts containing synthetic and manipulated media to help people understand their authenticity and to provide additional context. [Learn more](https://help.twitter.com/en/rules-and-policies/manipulated-media.html).
+We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
 
-Copyright and Trademark: You may not violate others’ intellectual property rights, including copyright and trademark. Learn more about our [trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) and [copyright policy](https://help.twitter.com/en/rules-and-policies/copyright-policy.html).  
-  
+* Convey suggestions about how to arm oneself and choose targets;
+* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
+* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
 
-### Third-party advertising in video content
+**What is a manifesto?**
 
-  
-You may not submit, post, or display any video content on or through our services that includes third-party advertising, such as pre-roll video ads or sponsorship graphics, without our prior consent.
+We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
 
-###   
-Enforcement and Appeals
+**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
 
-  
-Learn more about [our approach to enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html), including potential consequences for violating these rules or attempting to circumvent enforcement, as well as how to appeal.
+Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
