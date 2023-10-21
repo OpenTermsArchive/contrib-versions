@@ -1,5 +1,5 @@
 Terms
-=====
+-----
 
   
 
@@ -7,8 +7,8 @@ Please note that by using this website or our mobile applications (for example o
 
   
 
-Index
------
+1\. About us
+------------
 
 1.1. This Site is operated by Associated Newspapers Limited, a company registered in England under company number 84121 with a registered office at Northcliffe House, 2 Derry Street, London W8 5TT ("we", "us", "our"). Our VAT number is GB 243571174. You can contact us [here](https://www.dailymail.co.uk/home/contactus/index.html).[](mailto:technical@dailymailonline.co.uk)[](mailto:technical@dailymailonline.co.uk)
 
