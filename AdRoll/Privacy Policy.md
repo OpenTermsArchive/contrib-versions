@@ -203,6 +203,8 @@ We may also share aggregated and de-identified data with our subsidiaries and af
 
 [Back to top](#service-toc)
 
+NextRoll offers a consent management platform that adheres to the latest Interactive Advertising Bureau (IAB) Transparency and Consent Framework (TCF). Our commitment to the principles outlined in the IAB TCF are provided in our [TCF Attestation](https://www.nextroll.com/privacy/tcf-attestation).
+
 NextRoll Technology uses cookies, tracking pixels and related technologies to provide our Services to our Customers. Cookies are small data files that are served by our platform and stored on your device. You can refuse consent to, or opt-out of, NextRoll cookies at any time, as explained in [Your Choices and Opting-out of Interest-Based Advertising and Analytics](#service-8) below. The NextRoll cookie we serve through our NextRoll Technology for this purpose is named “\_\_adroll”, “\_\_ar\_v4”, “\_adroll\_shared” and “\_\_adroll\_fpc.” 
 
 Our Advertising Partners may also drop cookies for the purposes described in [What Data We Collect](#service-2). Generally, the type of cookies dropped will vary depending on the Advertising Partner. We provide a list of our Advertising Pixel Partners [here](https://help.adroll.com/hc/en-us/articles/360004450251-AdRoll-Pixel-Partners).
