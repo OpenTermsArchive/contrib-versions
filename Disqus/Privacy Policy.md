@@ -112,7 +112,7 @@ Depending on the laws where you live, you may have one or more of the following 
     
 
 Visit our [Privacy Choices page](https://disqus.com/data-sharing-settings/) for more details or to exercise your rights.  
-  
+​  
 We are required to publish statistics on how many people exercised their privacy rights in the previous year. The following statistics are for people who made requests relating to Disqus during the twelve months ending December, 20, 2022. These statistics cover all requests received from individuals around the world.
 
 * Number of requests for access to (copy of) data: 87
@@ -142,10 +142,10 @@ a. Contact. If you have any questions about this Privacy Policy, please email us
 b. Changes to Privacy Policy. Disqus may, in its sole discretion, modify or update this Privacy Policy from time to time, and so you should review this page periodically. When we change the policy, we will update the ‘last modified’ date at the bottom of this page. Your continued use of the Site following the posting of any changes to this policy means you accept such changes.
 
 This Privacy Policy was last modified on December 21, 2022. [Click here](https://help.disqus.com/customer/portal/articles/466260-terms-of-service) to view the Terms of Service.  
-  
+​  
 Our Privacy Policy is also available in the following languages:  
-[Deutsch](https://help.disqus.com/en/articles/7943902-disqus-datenschutzrichtlinie)  
-[Español](https://help.disqus.com/en/articles/7943961-politica-de-privacidad-de-disqus)  
-[Français](https://help.disqus.com/en/articles/7943846-politique-de-confidentialite-de-disqus)  
-[Italiano](https://help.disqus.com/en/articles/7943919-disqus-informativa-sulla-riservatezza)  
-[Português](https://help.disqus.com/en/articles/7943947-politica-de-privacidade-do-disqus)
+​[Deutsch](https://help.disqus.com/en/articles/7943902-disqus-datenschutzrichtlinie)  
+​[Español](https://help.disqus.com/en/articles/7943961-politica-de-privacidad-de-disqus)  
+​[Français](https://help.disqus.com/en/articles/7943846-politique-de-confidentialite-de-disqus)  
+​[Italiano](https://help.disqus.com/en/articles/7943919-disqus-informativa-sulla-riservatezza)  
+​[Português](https://help.disqus.com/en/articles/7943947-politica-de-privacidade-do-disqus)
