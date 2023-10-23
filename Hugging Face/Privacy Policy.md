@@ -182,7 +182,6 @@ The main establishment in the European Union is Hugging Face, SAS, a French soci
 We may share your information with Third-Party Service Providers, and when we do, we ensure that they access your information in compliance with applicable data protection laws. The following list respects the format `Subprocessor | Description of Subprocessing | Location of Subprocessing`.
 
 * Discourse | Forum | United States
-* Intercom | Chat | United States
 * AWS SES | Emails | United States
 * Stripe | Payment | United States
 * Curated | Newsletters | United States
