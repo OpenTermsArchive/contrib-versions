@@ -1,1151 +1,178 @@
-Abuse and harassment
-====================
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-### Overview
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-**June 2023**
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-  
-You may not share abusive content, harass someone, or encourage other people to do so.  
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-### What is in violation of this policy? 
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-**Targeted harassment**
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-**Encouraging or calling for others to harass an individual or group of people**  
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-**Unwanted Sexual Content & Graphic Objectification**
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
-     
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-**Insults  
-**
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-**Violent Event Denial**  
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-Abuse and harassment
-====================
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-### Overview
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-**June 2023**
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-  
-You may not share abusive content, harass someone, or encourage other people to do so.  
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-### What is in violation of this policy? 
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-**Targeted harassment**
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-**Encouraging or calling for others to harass an individual or group of people**  
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-**Unwanted Sexual Content & Graphic Objectification**
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
-     
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-**Insults  
-**
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-**Violent Event Denial**  
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-Abuse and harassment
-====================
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-### Overview
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-**June 2023**
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-  
-You may not share abusive content, harass someone, or encourage other people to do so.  
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-### What is in violation of this policy? 
+### Our policy development process 
 
-**Targeted harassment**
+Creating a new policy or making a policy change requires in-depth research around trends in online behavior, developing clear external language that sets expectations around what’s allowed, and creating enforcement guidance for reviewers that can be scaled across millions of posts.
 
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
+While drafting policy language, we gather feedback from a variety of internal teams as well as our Trust & Safety Council. This is vital to ensure we are considering global perspectives around the changing nature of online speech, including how our rules are applied and interpreted in different cultural and social contexts. Finally, we train our global review teams, update the X Rules, and start enforcing the new policy.
 
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
+### Our enforcement philosophy 
 
-**Encouraging or calling for others to harass an individual or group of people**  
+We empower people to understand different sides of an issue and encourage dissenting opinions and viewpoints to be discussed openly. This approach allows many forms of speech to exist on our platform and, in particular, promotes counterspeech: speech that presents facts to correct misstatements or misperceptions, points out hypocrisy or contradictions, warns of offline or online consequences, denounces hateful or dangerous speech, or helps change minds and disarm.
 
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
+Thus, **context matters**. When determining whether to take enforcement action, we may consider a number of factors, including (but not limited to) whether:
 
-**Unwanted Sexual Content & Graphic Objectification**
+* the behavior is directed at an individual, group, or protected category of people;
+* the report has been filed by the target of the abuse or a bystander;
+* the user has a history of violating our policies;
+* the severity of the violation;
+* the content may be a topic of legitimate public interest.
 
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
+**  
+Is the behavior directed at an individual or group of people?**
 
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
-     
+To strike a balance between allowing different opinions to be expressed on the platform, and protecting our users, we enforce policies when someone reports abusive behavior that targets a specific person or group of people. This targeting can happen in a number of ways (for example, @mentions, tagging a photo, mentioning them by name, and more).
 
-**Insults  
-**
+**  
+Has the report been filed by the target of the potential abuse or a bystander?**
 
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
+Some posts may seem to be abusive when viewed in isolation, but may not be when viewed in the context of a larger conversation or historical relationship between people on the platform. For example, friendly banter between friends could appear offensive to bystanders, and certain remarks that are acceptable in one culture or country may not be acceptable in another. To help prevent our teams from making a mistake and removing consensual interactions, in certain scenarios we require a [report](https://help.twitter.com/forms/private_information) from the actual target (or their authorized representative) prior to taking any enforcement action.
 
-**Violent Event Denial**  
+**  
+Does the user have a history of violating our policies?**
 
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
+We start from a position of assuming that people do not intend to violate our Rules. Unless a violation is so egregious that we must immediately suspend an account, we first try to educate people about our Rules and give them a chance to correct their behavior. We show the violator the offending post(s), explain which Rule was broken, and require them to remove the content before they can post again. If someone repeatedly violates our Rules then our enforcement actions become stronger. This includes requiring violators to remove the post(s) and taking additional actions like verifying account ownership and/or temporarily limiting their ability to post for a set period of time. If someone continues to violate Rules beyond that point then their account may be permanently suspended.
 
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
+**  
+What is the severity of the violation?**
 
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
+Certain types of behavior may pose serious safety and security risks and/or result in physical, emotional, and financial hardship for the people involved. These egregious violations of the X Rules — such as posting violent threats, non-consensual intimate media, or content that sexually exploits children — result in the immediate and permanent suspension of an account. Other violations could lead to a range of different steps, like requiring someone to remove the offending post(s) and/or temporarily limiting their ability to post new post(s).
 
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
+**  
+Is the behavior newsworthy and in the legitimate public interest?**
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+X moves at the speed of public consciousness and people come to the service to stay informed about what matters. Exposure to different viewpoints can help people learn from one another, become more tolerant, and make decisions about the type of society we want to live in.
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+To help ensure people have an opportunity to see every side of an issue, there may be the rare occasion when we allow controversial content or behavior which may otherwise violate our Rules to remain on our service because we believe there is a legitimate public interest in its availability. Each situation is evaluated on a case by case basis and ultimately decided upon by a cross-functional team.
 
-Abuse and harassment
-====================
+Some of the factors that help inform our decision-making about content are the impact it may have on the public, the source of the content, and the availability of alternative coverage of an event.
 
-### Overview
+Public impact of the content: A topic of legitimate public interest is different from a topic in which the public may be curious. We will consider what the impact is to citizens if they do **not** know about this content. If the post does have the potential to impact the lives of large numbers of people, the running of a country, and/or it speaks to an important societal issue then we may allow the the content to remain on the service. Likewise, if the impact on the public is minimal we will most likely remove content in violation of our policies.
 
-**June 2023**
+Source of the content: Some people, groups, organizations and the content they post on X may be considered a topic of legitimate public interest by virtue of their being in the public consciousness. This does not mean that their posts will always remain on the service. Rather, we will consider if there is a legitimate public interest for a particular post to remain up so it can be openly discussed.
 
-  
-You may not share abusive content, harass someone, or encourage other people to do so.  
+Availability of coverage: Everyday people play a crucial role in providing firsthand accounts of what’s happening in the world, counterpoints to establishment views, and, in some cases, exposing the abuse of power by someone in a position of authority. As a situation unfolds, removing access to certain information could inadvertently hide context and/or prevent people from seeing every side of the issue. Thus, before actioning a potentially violating post, we will take into account the role it plays in showing the larger story and whether that content can be found elsewhere.
 
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-### What is in violation of this policy? 
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
-     
-
-**Insults  
-**
-
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
-
-**Violent Event Denial**  
-
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
-
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
-
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
-
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-Abuse and harassment
-====================
-
-### Overview
-
-**June 2023**
-
-  
-You may not share abusive content, harass someone, or encourage other people to do so.  
-
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
-
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
-     
-
-**Insults  
-**
-
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
-
-**Violent Event Denial**  
-
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
-
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
-
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
-
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-Abuse and harassment
-====================
-
-### Overview
-
-**June 2023**
-
-  
-You may not share abusive content, harass someone, or encourage other people to do so.  
-
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
-
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
-     
-
-**Insults  
-**
-
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
-
-**Violent Event Denial**  
-
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
-
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
-
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
-
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-Abuse and harassment
-====================
-
-### Overview
-
-**June 2023**
-
-  
-You may not share abusive content, harass someone, or encourage other people to do so.  
-
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
-
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
-     
-
-**Insults  
-**
-
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
-
-**Violent Event Denial**  
-
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
-
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
-
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
-
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-Abuse and harassment
-====================
-
-### Overview
-
-**June 2023**
-
-  
-You may not share abusive content, harass someone, or encourage other people to do so.  
-
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
-
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
-     
-
-**Insults  
-**
-
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
-
-**Violent Event Denial**  
-
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
-
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
-
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
-
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-Abuse and harassment
-====================
-
-### Overview
-
-**June 2023**
-
-  
-You may not share abusive content, harass someone, or encourage other people to do so.  
-
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
-
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
-     
-
-**Insults  
-**
-
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
-
-**Violent Event Denial**  
-
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
-
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
-
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
-
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-Abuse and harassment
-====================
-
-### Overview
-
-**June 2023**
-
-  
-You may not share abusive content, harass someone, or encourage other people to do so.  
-
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
-
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
-     
-
-**Insults  
-**
-
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
-
-**Violent Event Denial**  
-
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
-
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
-
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
-
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-Abuse and harassment
-====================
-
-### Overview
-
-**June 2023**
-
-  
-You may not share abusive content, harass someone, or encourage other people to do so.  
-
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
-
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
-     
-
-**Insults  
-**
-
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
-
-**Violent Event Denial**  
-
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
-
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
-
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
-
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-Abuse and harassment
-====================
-
-### Overview
-
-**June 2023**
-
-  
-You may not share abusive content, harass someone, or encourage other people to do so.  
-
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
-
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
-     
-
-**Insults  
-**
-
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
-
-**Violent Event Denial**  
-
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
-
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
-
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
-
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-Abuse and harassment
-====================
-
-### Overview
-
-**June 2023**
-
-  
-You may not share abusive content, harass someone, or encourage other people to do so.  
-
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
-
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
-     
-
-**Insults  
-**
-
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
-
-**Violent Event Denial**  
-
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
-
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
-
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
-
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-Abuse and harassment
-====================
-
-### Overview
-
-**June 2023**
-
-  
-You may not share abusive content, harass someone, or encourage other people to do so.  
-
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
-
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
-     
-
-**Insults  
-**
-
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
-
-**Violent Event Denial**  
-
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
-
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
-
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
-
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-Abuse and harassment
-====================
-
-### Overview
-
-**June 2023**
-
-  
-You may not share abusive content, harass someone, or encourage other people to do so.  
-
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
-
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
-     
-
-**Insults  
-**
-
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
-
-**Violent Event Denial**  
-
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
-
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
-
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
-
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-Abuse and harassment
-====================
-
-### Overview
-
-**June 2023**
-
-  
-You may not share abusive content, harass someone, or encourage other people to do so.  
-
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
-
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
-     
-
-**Insults  
-**
-
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
-
-**Violent Event Denial**  
-
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
-
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
-
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
-
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-Abuse and harassment
-====================
-
-### Overview
-
-**June 2023**
-
-  
-You may not share abusive content, harass someone, or encourage other people to do so.  
-
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
-
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
-     
-
-**Insults  
-**
-
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
-
-**Violent Event Denial**  
-
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
-
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
-
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
-
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-Abuse and harassment
-====================
-
-### Overview
-
-**June 2023**
-
-  
-You may not share abusive content, harass someone, or encourage other people to do so.  
-
-On X, you should feel safe expressing your unique point of view. We believe in freedom of expression and open dialogue, and in order to facilitate healthy dialogue on the platform, and empower individuals to express diverse opinions and beliefs, we prohibit behavior and content that harasses, shames, or degrades others. In addition to posing risks to people’s safety, abusive behavior may also lead to physical and emotional hardship for those affected. 
-
-### What is in violation of this policy? 
-
-**Targeted harassment**
-
-We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s). We prohibit the following behavior on the platform:
-
-* Sharing multiple Posts, over a short period of time, or continuously posting replies with malicious content, to target an individual. This includes accounts dedicated to harassing an individual or multiple individuals.
-* Mentioning or tagging users with malicious content.
-
-**Encouraging or calling for others to harass an individual or group of people**  
-
-We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse. This includes, but is not limited to: calls to target people with abuse or harassment online and behavior that urges offline action, such as physical harassment.
-
-**Unwanted Sexual Content & Graphic Objectification**
-
-While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on X, we prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent. This includes, but is not limited to:
-
-* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-* unwanted sexual discussion of someone’s body; 
-* solicitation of sexual acts; and 
-* any other content that otherwise sexualizes an individual without their consent.   
-     
-
-**Insults  
-**
-
-We take action against the use of insults or profanity to target others. In some cases, such as (but not limited to) severe, repetitive usage of insults or profanity where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage of insults and profanity where the context is to harass or intimidate others, we may limit Post visibility as further described below. Please also note that while some individuals may find certain terms to be offensive, we will not take action against every instance where insulting terms are used. 
-
-**Violent Event Denial**  
-
-We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context. This may include references to such an event as a “hoax” or claims that victims or survivors are fake or “actors.” It includes, but is not limited to, events like the Holocaust, school shootings, terrorist attacks, and natural disasters.
-
-**Do I need to be the target of this content for it to be reviewed for violating the X Rules?  
-**
-
-To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the necessary information prior to taking any enforcement action. Some Posts may appear to be abusive or harassing when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review cases, it may not be clear whether the context is to abuse an individual, or if it is Excluding the Posts from having ads adjacent to it
-
-* Making content on X less visilbe by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines
-    * Restricting the Post's discoverability to the author's profile
-    * Downranking the Post in replies
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, engagement counts, or Edit Post
-    * Excluding the Post from having ads adjacent to it
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts for those whose sole purpose is to violate our Unwanted Sexual Content & Graphic Objectification policy, or accounts that are dedicated to harassing individuals.
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
