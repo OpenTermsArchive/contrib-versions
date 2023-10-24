@@ -875,3 +875,19 @@ General Social Compeition: Energia's decision regarding prize winners will be fi
 37\. Download all Terms and Conditions
 
 You can download all Terms & Conditions [here.](https://www.energia.ie/getattachment/c17c13d4-4322-425a-ac32-768974c4396f/5366-Energia-Domestic-Terms-and-Conditions-Nov-21.pdf?lang=en-GB)
+
+Energia Rugby – Win two tickets to Leinster vs Edinburgh at the RDS Arena
+
+•    The competition runs from the 19th of October – 26th October 2023  
+•    All entrants must be over 18 years old.  
+•    All entries should be made by entering the competition via Energia Rewards competition page.  
+•    Entrants must be Energia Rewards members.  
+•    All submissions will be put into a draw and 1 customer will be drawn at random per competition.  
+•    One lucky customer will win two tickets to Leinster vs Edinburgh at the RDS Arena in Dublin on Saturday 4th November in the United Rugby Championship  
+•    The winners will be contacted via our Energia Care team, by phone prior to the 29th of October 2023.  
+•    The winner will be contacted & notified by our Care Team to arrange delivery of the tickets.  
+•    Valid and correct address details must be supplied to our Care team for the shipping of the prize to be fulfilled.  
+•    The prizes cannot be exchanged for any monetary value or any other prize option.  
+•    By entering our competition and agreeing to these terms and conditions, you are giving Energia permission to publish your name if you are to win any prize.  
+•    The competition is open to Energia customers only.  
+•    Customers are only allowed one entry per account.
