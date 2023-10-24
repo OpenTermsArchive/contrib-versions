@@ -81,7 +81,7 @@ We may send periodic promotional or informational emails to Customers in accorda
 
 ### 2.1 Information We Collect from Users (“User Information”)
 
-We automatically collect User Information when Users interact with our Services that appear on our Customers’ websites and digital properties. Like most other web-based services, we collect this User Information through cookies and other technologies. Taboola collects only pseudonymized data, which means we do not know who you are because we do not know or process your name, email address, or other identifiable data. User Information that we collect includes, but is not limited to, Information about a User’s device and operating system, IP address, the web pages accessed by Users within our Customers’ websites, the link that led a User to a Customer’s website, the dates and times a User accesses a Customers’ website, event information (e.g., system crashes), general location information (e.g., city and state), hashed email addresses (when made available by the User), and gender (when made available by the User). In the Taboola News suite of tools, we also collect in-app User behaviors (e.g. online status, browsing activity, and clicks), implicit non-precise device location inferred from search queries (when enabled by the User), and SIM cards or IP addresses. We ask our Customers to obtain consent on our behalf, where required by applicable data protection laws, for us to collect this User Information. We may also obtain Information about you from our [data partners](https://www.taboola.com/policies/data-partners).
+We automatically collect User Information when Users interact with our Services that appear on our Customers’ websites and digital properties. Like most other web-based services, we collect this User Information through cookies and other technologies. Taboola collects only pseudonymized data, which means we do not know who you are because we do not know or process your name, email address, or other identifiable data. User Information that we collect includes, but is not limited to, Information about a User’s device and operating system, IP address, the web pages accessed by Users within our Customers’ websites, the link that led a User to a Customer’s website, the dates and times a User accesses a Customers’ website, event information (e.g., system crashes), general location information (e.g., city and state), hashed email addresses (when made available by the User), and gender (when made available by the User). In the Taboola News suite of tools, we also collect in-app User behaviors (e.g. online status, browsing activity, and clicks) and implicit non-precise device location inferred from search queries (when enabled by the User) and SIM cards or IP addresses. We ask our Customers to obtain consent on our behalf, where required by applicable data protection laws, for us to collect this User Information. We may also obtain Information about you from our [data partners](https://www.taboola.com/policies/data-partners).
 
 For more information about how we use cookies and other technologies, please refer to our [Cookie Policy](https://www.taboola.com/policies/cookie-policy).
 
@@ -246,14 +246,7 @@ We may transfer your Information outside the country in which it is collected, i
 
 If you would like to learn more about EEA/UK Data Transfers, specifically, see Section 5.1.4 below. If you would like to learn more about Thailand Data Transfers, specifically, see Section 5.3.4 below.
 
+### 4.7
+
 5\. Regional Privacy Rights
 ---------------------------
-
-6\. Contact Us
---------------
-
-If you have questions about the privacy aspects of our Sites or Services, please contact us at [support@taboola.com](mailto:support@taboola.com).
-
-The names and contact details of our Affiliates which may process your Personal Information in their capacity as data controllers, can be found here: [www.taboola.com/contact](http://www.taboola.com/contact).
-
-Residents in Brazil, China, the European Economic Area (including the United Kingdom) and Thailand, if you wish to escalate your inquiry after contacting the support team, you are welcome to contact our Data Protection Officer at [dpo@taboola.com](mailto:dpo@taboola.com).
