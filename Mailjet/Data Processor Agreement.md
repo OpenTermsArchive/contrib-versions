@@ -1,7 +1,7 @@
 Data Processing Addendum
 ========================
 
-This Data Processing Addendum (this "**DPA**") forms part of Sinch Email’s Terms of Service (the "**Principal Agreement**") by and between Sinch Email and the Customer and is subject to the Principal Agreement. Sinch Email is the Developer & Email business unit of Sinch and comprises of the brands Mailgun, Mailjet, Email on Acid and InboxReady.
+This Data Processing Addendum (this "**DPA**") forms part of Sinch Email’s Terms of Service (the "**Principal Agreement**") by and between Sinch Email and the Customer and is subject to the Principal Agreement. Sinch Email is the Developer & Email business unit of Sinch and comprises of the brands Mailgun, Mailjet, Email on Acid and Mailgun Optimize.
 
 1\. Definitions.
 ----------------
