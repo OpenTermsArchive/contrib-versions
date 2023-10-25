@@ -1,12 +1,12 @@
-Crunchyroll Terms of Use
-========================
+**Crunchyroll Terms of Use**
+============================
 
-Crunchyroll, LLC ("Crunchyroll", "we" or "us") provides our website accessible at Crunchyroll.com (the "Site") through which users can participate in an online community dedicated to enjoying anime, premium animation, sci-fi, fantasy and media in all forms (the "Services"). Please read the following important terms and conditions ("Terms of Use") carefully. These Terms of Use and all policies referenced in this document or elsewhere on the Site that are incorporated herein by reference govern your access to and use of the Site and Services. These Terms of Use are a legal agreement between you and Crunchyroll and apply to you whether you are a Crunchyroll Member (defined below) or a visitor just browsing the Site (collectively, "Crunchyroll Users"). These Terms of Use limit Crunchyroll's liability and obligations to you, grant us certain rights and allow us to change, suspend or terminate your access to and use of the Site and Services.
+Crunchyroll, LLC ("Crunchyroll", "we" or "us") provides our website accessible at [Crunchyroll.com](http://crunchyroll.com/) (the "Site") through which users can participate in an online community dedicated to enjoying anime, premium animation, sci-fi, fantasy and media in all forms (the "Services"). Please read the following important terms and conditions ("Terms of Use") carefully. These Terms of Use and all policies referenced in this document or elsewhere on the Site that are incorporated herein by reference govern your access to and use of the Site and Services. These Terms of Use are a legal agreement between you and Crunchyroll and apply to you whether you are a Crunchyroll Member (defined below) or a visitor just browsing the Site (collectively, "Crunchyroll Users"). These Terms of Use limit Crunchyroll's liability and obligations to you, grant us certain rights and allow us to change, suspend or terminate your access to and use of the Site and Services.
 
-YOU UNDERSTAND THAT BY USING THE SITE, SERVICES OR YOUR Crunchyroll ACCOUNT OR BY POSTING ANY CONTENT ON THE SITE, YOU ARE AGREEING TO BE BOUND BY THESE TERMS OF USE. IF YOU DO NOT ACCEPT THESE TERMS OF USE IN THEIR ENTIRETY, YOU MAY NOT ACCESS OR USE THE SITE OR SERVICES. IF YOU AGREE TO THESE TERMS OF USE ON BEHALF OF A BUSINESS, YOU REPRESENT AND WARRANT THAT YOU HAVE THE AUTHORITY TO BIND THAT BUSINESS TO THESE TERMS OF USE AND YOUR AGREEMENT TO THESE TERMS WILL BE TREATED AS THE AGREEMENT OF THE BUSINESS. IN THAT EVENT, "YOU" AND "YOUR" WILL REFER AND APPLY TO THAT BUSINESS.
+YOU UNDERSTAND THAT BY USING THE SITE, SERVICES OR YOUR CRUNCHYROLL ACCOUNT OR BY POSTING ANY CONTENT ON THE SITE, YOU ARE AGREEING TO BE BOUND BY THESE TERMS OF USE. IF YOU DO NOT ACCEPT THESE TERMS OF USE IN THEIR ENTIRETY, YOU MAY NOT ACCESS OR USE THE SITE OR SERVICES. IF YOU AGREE TO THESE TERMS OF USE ON BEHALF OF A BUSINESS, YOU REPRESENT AND WARRANT THAT YOU HAVE THE AUTHORITY TO BIND THAT BUSINESS TO THESE TERMS OF USE AND YOUR AGREEMENT TO THESE TERMS WILL BE TREATED AS THE AGREEMENT OF THE BUSINESS. IN THAT EVENT, "YOU" AND "YOUR" WILL REFER AND APPLY TO THAT BUSINESS.
 
-1\. Eligibility and Registration.
----------------------------------
+**1\. Eligibility and Registration.**
+-------------------------------------
 
 In order to access certain features of the Site and Services, and to post any content on the Site or via the Services, you will have to create a Crunchyroll account and become a "Crunchyroll Member". To become a Crunchyroll Member **you must be at least 16 years of age**. When you register with Crunchyroll and set up your Crunchyroll account, you must provide Crunchyroll with accurate and complete information. You agree to promptly update your Crunchyroll account information with any new information. You authorize Crunchyroll, directly or through third parties, to make any inquiries we consider necessary or appropriate to verify your Crunchyroll account information. Our Privacy Policy contains information about our policies and procedures regarding the collection, use and disclosure of information we receive from Crunchyroll Users.
 
@@ -14,8 +14,8 @@ You will not use false identities or impersonate any other person or use a usern
 
 You are responsible for safeguarding and maintaining the confidentiality of your username, password and corresponding Crunchyroll account information. You agree not to disclose your password to anyone. You agree that you are entirely and solely responsible for any and all activities or actions that occur under your Crunchyroll account, whether or not you have authorized such activities or actions. You agree to immediately notify Crunchyroll of any unauthorized use of your username, password or Crunchyroll account.
 
-2\. Access to Certain Content: Fees and Billing.
-------------------------------------------------
+**2\. Access to Certain Content: Fees and Billing.**
+----------------------------------------------------
 
 Crunchyroll Members may be able to access and/or purchase Crunchyroll Content (as defined below) through the Site or Services in a few different ways including: (i) Crunchyroll Members can pay a monthly membership fee to view certain Crunchyroll Content for the applicable time period ("Membership Fee"); or (ii) Crunchyroll Members may initially sign-up for a free trial and then convert such free trial to a membership to view Crunchyroll Content via a Membership Fee. PAYMENTS ARE NONREFUNDABLE AND THERE ARE NO PRORATED REFUNDS OF ANY FEES UPON ANY TERMINATION OR CANCELLATION. Fees are refundable in Crunchyroll's sole discretion. You agree to immediately pay any amounts accrued, but remaining unpaid, as of termination (if any). You hereby authorize Crunchyroll to collect fees by charging the credit card you provide to us as part of your Crunchyroll account information, either directly or indirectly via a third party online payment service, such as PayPal ("Payment Method").
 
@@ -31,14 +31,14 @@ The Membership Fee for the Service will be billed at the beginning of the paying
 
 You may edit your Payment Method information by visiting our website and clicking on the "Your Account" link, available at the top of the pages of the Site. If a payment is not successfully settled, due to expiration, insufficient funds, or otherwise, and you do not edit your Payment Method information or cancel your account (see, "Cancellation" below), you remain responsible for any uncollected amounts and authorize us to continue billing the Payment Method, as it may be updated. This may result in a change to your payment billing dates. For certain Payment Methods, the issuer of your Payment Method may charge you a foreign transaction fee or other charges. Check with your Payment Method service provider for details.
 
-You may cancel your Crunchyroll membership at any time, and you will continue to have access to the Site and/or Services through the end of your monthly billing period. If you cancel your membership, your account will automatically close at the end of your current billing period. For access to any video games made available with your Membership Fee, you also agree to the Crunchyroll Games Terms of Service located here: https://www.crunchyroll.com/games/terms/
+You may cancel your Crunchyroll membership at any time, and you will continue to have access to the Site and/or Services through the end of your monthly billing period. If you cancel your membership, your account will automatically close at the end of your current billing period.  For access to any video games made available with your Membership Fee, you also agree to the Crunchyroll Games Terms of Service located [here](https://www.crunchyroll.com/games/terms).
 
-3\. Proprietary Rights and Licenses.
-------------------------------------
+**3\. Proprietary Rights and Licenses.**
+----------------------------------------
 
 (a) Definitions. Certain content and materials are made available through the Site and Services, including the following:
 
-"Crunchyroll Content" means, collectively, the text, data, graphics, images, Crunchyroll trademarks and logos and other content (including Licensed Content) made available through the Site and Services, excluding User Submissions
+"Crunchyroll Content" means, collectively, the text, data, graphics, images, Crunchyroll trademarks and logos and other content (including Licensed Content) made available through the Site and Services, excluding User Submissions.
 
 "Licensed Content" means any content (including any audio or video content) provided to Crunchyroll by its third party content partners (which may include Crunchyroll Content or "download to own" content) made available through the Site and Services.
 
@@ -48,17 +48,17 @@ You may cancel your Crunchyroll membership at any time, and you will continue to
 
 You acknowledge and agree that Crunchyroll may, at its option, reclassify or recategorize any User Submissions and establish limits concerning User Submissions, including, without limitation, the maximum number of days that User Submissions will remain available via the Services or on the Site, the maximum size of any files that may be stored on or uploaded to the Site or Services and the maximum disk space that may be allotted to you for the storage of User Submissions on Crunchyroll's servers. Crunchyroll will have no responsibility or liability for maintaining copies of User Submissions on our servers, and you are solely responsible for creating back-ups of your User Submissions.
 
-c) Crunchyroll Content. Crunchyroll and its licensors own all right, title and interest, including all worldwide intellectual property rights in the Site, Services, Crunchyroll Content and any other content made available through the Site or Services contained therein, other than your User Submissions. You will not remove, alter or conceal any copyright, trademark, service mark or other proprietary rights notices incorporated in or accompanying the Site, Services, Crunchyroll Content, any other content made available through the Site or Services or related products and services, and except as explicitly described herein, you will not reproduce, modify, adapt, prepare derivative works based on, perform, display, publish, distribute, transmit, broadcast, sell, license or otherwise exploit the Site, Services, Crunchyroll Content or any other content made available through the Site or Services (other than your User Submissions). All rights in Crunchyroll Content are reserved. For the avoidance of doubt with respect to any Crunchyroll Content that you purchase or access via the Site or Service, such content is only made available for personal and non-commercial purposes. The delivery of any Crunchyroll Content to you neither transfers any commercial or promotional use rights in the content to you nor does it constitute a grant or waiver of any rights of the copyright owners in any audio or video content, sound recording, underlying musical composition, or artwork embodied in the content.
+(c) Crunchyroll Content. Crunchyroll and its licensors own all right, title and interest, including all worldwide intellectual property rights in the Site, Services, Crunchyroll Content and any other content made available through the Site or Services contained therein, other than your User Submissions. You will not remove, alter or conceal any copyright, trademark, service mark or other proprietary rights notices incorporated in or accompanying the Site, Services, Crunchyroll Content, any other content made available through the Site or Services or related products and services, and except as explicitly described herein, you will not reproduce, modify, adapt, prepare derivative works based on, perform, display, publish, distribute, transmit, broadcast, sell, license or otherwise exploit the Site, Services, Crunchyroll Content or any other content made available through the Site or Services (other than your User Submissions). All rights in Crunchyroll Content are reserved. For the avoidance of doubt with respect to any Crunchyroll Content that you purchase or access via the Site or Service, such content is only made available for personal and non-commercial purposes. The delivery of any Crunchyroll Content to you neither transfers any commercial or promotional use rights in the content to you nor does it constitute a grant or waiver of any rights of the copyright owners in any audio or video content, sound recording, underlying musical composition, or artwork embodied in the content.
 
 (d) Disclaimer. Crunchyroll does not guarantee that any content (including without limitation Crunchyroll Content or User Submissions) will be made available through the Site or Services, continuously or at all. WHILE CRUNCHYROLL IS UNDER NO OBLIGATION TO DO SO, CRUNCHYROLL RESERVES THE RIGHT TO REMOVE AND PERMANENTLY DELETE ANY CONTENT FROM THE SITE OR SERVICES WITHOUT NOTICE, AND FOR ANY REASON CRUNCHYROLL DEEMS SUFFICIENT. Crunchyroll does not have any obligation to monitor the User Submissions that is uploaded, posted, submitted or otherwise transmitted using the Site or Services, for any purpose and, as a result, is not responsible for the accuracy, completeness, appropriateness, legality or applicability of the User Submissions or anything said, depicted or written by Crunchyroll Members, including, without limitation, any information obtained by using the Site or Services. Crunchyroll does not endorse any User Submissions or any opinion, recommendation or advice expressed therein and you agree to waive, and hereby do waive, any legal or equitable rights or remedies you have or may have against Crunchyroll with respect thereto.
 
-4\. Copyrighted Materials: No Infringing Use.
----------------------------------------------
+**4\. Copyrighted Materials: No Infringing Use.**
+-------------------------------------------------
 
 You will not use the Site or Services to offer, display, distribute, transmit, route, provide connections to or store any material that infringes copyrighted works or otherwise violates or promotes the violation of the intellectual property rights of any third party. Crunchyroll has adopted and implemented a policy that provides for the termination in appropriate circumstances of the accounts of users who repeatedly infringe or are believed to be or are charged with repeatedly infringing the rights of copyright holders. Please see the Crunchyroll Copyright and IP Policy for further information.
 
-5\. Termination or Suspension of the Site or Services & Modification of these Terms of Use.
--------------------------------------------------------------------------------------------
+**5\. Termination or Suspension of the Site or Services & Modification of these Terms of Use.**
+-----------------------------------------------------------------------------------------------
 
 Crunchyroll reserves the right in its sole discretion, at any time, to modify, discontinue or terminate the Site or Services or to modify or terminate these Terms of Use without advance notice. Modifications to these Terms of Use or any policies will be posted on the Site or made in compliance with any notice requirements set forth in these Terms of Use. If any modification is not acceptable to you, your only recourse is to cease using the Site and Services. By continuing to use the Site or Services after Crunchyroll has posted any modifications on the Site or provided any required notices, you accept and agree to be bound by the modifications.
 
@@ -66,13 +66,13 @@ Without limiting other remedies, Crunchyroll may at any time suspend or terminat
 
 You may terminate your Crunchyroll account at any time and for any reason. Upon any termination by a Crunchyroll Member, the related account will no longer be accessible. After any termination, you understand and acknowledge that we will have no further obligation to provide the Site or Services and all licenses and other rights granted to you by these Terms of Use will immediately cease. Crunchyroll will not be liable to you or any third party for termination of the Site or Services or termination of your use of either. UPON ANY TERMINATION OR SUSPENSION, ANY CONTENT, MATERIALS OR INFORMATION (INCLUDING USER SUBMISSIONS) THAT YOU HAVE SUBMITTED ON THE SITE OR THAT WHICH IS RELATED TO YOUR ACCOUNT MAY NO LONGER BE ACCESSED BY YOU. Furthermore, Crunchyroll will have no obligation to maintain any information stored in our database related to your account or to forward any information to you or any third party. Any suspension, termination or cancellation will not affect your obligations to Crunchyroll under these Terms of Use (including, without limitation, proprietary rights and ownership, indemnification and limitation of liability), which by their sense and context are intended to survive such suspension, termination or cancellation.
 
-6\. Interactions between Crunchyroll Users.
--------------------------------------------
+**6\. Interactions between Crunchyroll Users.**
+-----------------------------------------------
 
 You are solely responsible for your interactions (including any disputes) with other Crunchyroll Users. You understand that Crunchyroll does not in any way screen Crunchyroll Users. You are solely responsible for, and will exercise caution, discretion, common sense and judgment in, using the Site and Services and disclosing personal information to other Crunchyroll Users. You agree to take reasonable precautions in all interactions with other Crunchyroll Users, particularly if you decide to meet a Crunchyroll Users offline, or in person. Your use of the Site, Services, Crunchyroll Content and any other content made available through the Site or Services is at your sole risk and discretion and Crunchyroll hereby disclaims any and all liability to you or any third party relating thereto. Crunchyroll reserves the right to contact Crunchyroll Members, in compliance with applicable law, in order to evaluate compliance with the rules and policies in these Terms of Use. You will cooperate fully with Crunchyroll to investigate any suspected unlawful, fraudulent or improper activity, including, without limitation, granting authorized Crunchyroll representatives access to any password-protected portions of your Crunchyroll account.
 
-7\. Obligations for Crunchyroll Users.
---------------------------------------
+**7\. Obligations for Crunchyroll Users.**
+------------------------------------------
 
 The Site and Services may be used and accessed for lawful purposes only. You agree to abide by all applicable local, state, national and foreign laws, treaties and regulations in connection with your use of the Site and Services. In addition, without limitation, you agree that you will not do any of the following while using or accessing the Site or Services:
 
@@ -108,44 +108,44 @@ Use the Site or Services in any manner not permitted by these Terms of Use;
 
 or Encourage or instruct any other individual to do any of the foregoing or to violate any term of these Terms of Use.
 
-8\. Sweepstakes and Contests.
------------------------------
+**8\. Sweepstakes and Contests.**
+---------------------------------
 
 Crunchyroll may operate sweepstakes, contests and similar promotions (collectively, "Promotions") through the Site. You should carefully review the rules (e.g., the "Official Rules") of each Promotion in which you participate through the Site, as they may contain additional important information about Crunchyroll's rights to and ownership of the submissions you make as part of the Promotions and as a result of your participation in such Promotion. To the extent that the terms and conditions of such Official Rules conflict with these Terms of Use, the terms and conditions of such Official Rules will control.
 
-9\. Ratings and Comments & Feedback.
-------------------------------------
+**9\. Ratings and Comments & Feedback.**
+----------------------------------------
 
 (a) Comments. You can rate and make comments about content made available through the Site or Services ("Comments"). Crunchyroll advises you to exercise caution and good judgment when leaving such Comments. Once you complete and submit your Comments to the Site or Services you will not be able to go back and edit your Comments. You should also be aware that you could be held legally responsible for damages to someone's reputation if your Comments are deemed to be defamatory. Crunchyroll may, but is under no obligation to, monitor or censor Comments and disclaims any and all liability relating thereto. Notwithstanding the foregoing, Crunchyroll does reserve the right, in its sole discretion, to remove any Comments that it deems to be improper, inappropriate or inconsistent with the online activities that are permitted under these Terms of Use.
 
 (b) Feedback. We welcome and encourage you to provide feedback, comments and suggestions for improvements to the Site and Services ("Feedback"). You may submit Feedback by emailing us at [feedback@crunchyroll.com](mailto:feedback@crunchyroll.com) or through the "Help" section of the Site. You acknowledge and agree that all Comments and all Feedback will be the sole and exclusive property of Crunchyroll and you hereby assign and agree to assign all rights, title and interest you have in such Comments and Feedback to Crunchyroll together with all intellectual property rights therein.
 
-10\. Indemnification.
----------------------
+**10\. Indemnification.**
+-------------------------
 
 You agree to defend, indemnify and hold Crunchyroll and its affiliates, subsidiaries and distribution partners and their respective officers, directors, employees and/or agents harmless from and against any claims, liabilities, damages, losses and expenses, including, without limitation, reasonable attorneys' fees and costs, arising out of or in any way connected with: (i) your access to or use of the Site, Services, Crunchyroll Content or User Submissions; (ii) your violation of these Terms of Use; (iii) your violation of any third party right, including without limitation any intellectual property right, publicity, confidentiality, property or privacy right; or (iv) any claim that any content you posted to the Site or via the Services (including without limitation your User Submissions) caused damage to a third party, including without limitation claims that your User Submissions are infringing. As to (i), (iii) and (iv) in this Section 10, your obligation to indemnify Crunchyroll applies to your activities on the Site at any time.
 
-11\. Disclaimer.
-----------------
+**11\. Disclaimer.**
+--------------------
 
 THE SITE, SERVICES, CRUNCHYROLL CONTENT AND ANY OTHER CONTENT MADE AVAILABLE THROUGH THE SITE OR SERVICES ARE PROVIDED "AS IS" WITH NO WARRANTY OF ANY KIND. CRUNCHYROLL EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, REGARDING THE SITE, SERVICES, CRUNCHYROLL CONTENT AND ANY OTHER CONTENT MADE AVAILABLE THROUGH THE SITE OR SERVICES, INCLUDING ANY IMPLIED WARRANTY OF QUALITY, AVAILABILITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT. IN ADDITION, CRUNCHYROLL MAKES NO REPRESENTATION OR WARRANTY THAT THE SITE, SERVICES, CRUNCHYROLL CONTENT OR ANY OTHER CONTENT MADE AVAILABLE THROUGH THE SITE OR SERVICES WILL BE ERROR FREE OR THAT ANY ERRORS WILL BE CORRECTED. SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES, SO SOME OF THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU.
 
-12\. Limitation of Liability.
------------------------------
+**12\. Limitation of Liability.**
+---------------------------------
 
 UNDER NO CIRCUMSTANCES WILL CRUNCHYROLL OR ITS AFFILIATES, SUBSIDIARIES, PARTNERS OR LICENSORS OR ANY OF THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES AND/OR AGENTS BE LIABLE TO YOU OR ANY THIRD-PARTY FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH USE OF THE SITE, SERVICES, CRUNCHYROLL CONTENT AND ANY OTHER CONTENT MADE AVAILABLE THROUGH THE SITE OR SERVICES INCLUDING, WITHOUT LIMITATION, INJURY OR DAMAGES RESULTING FROM THE CONDUCT OF ANY CRUNCHYROLL USER, ONLINE OR OFFLINE, WHETHER OR NOT CRUNCHYROLL HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, CRUNCHYROLL’S AGGREGATE LIABILITY TO YOU ARISING WITH RESPECT TO THESE TERMS OF USE WILL NOT EXCEED $50. CRUNCHYROLL WILL NOT BE LIABLE FOR THE CONSEQUENCES OF ANY INTERRUPTIONS OR ERRORS RELATING TO THE SITE, SERVICES OR THE SCHEDULED OR UNSCHEDULED SERVICE INTERRUPTIONS. SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION AND EXCLUSIONS MAY NOT APPLY TO YOU.
 
-13\. Governing Law and Forum.
------------------------------
+**13\. Governing Law and Forum.**
+---------------------------------
 
 These Terms of Use will be governed by and interpreted in accordance with the laws of the State of California excluding that body of law pertaining to conflict of laws. Any legal action or proceeding arising under these Terms of Use will be brought exclusively in courts located in Northern California and the parties hereby irrevocably consent to the personal jurisdiction and venue thereinThese Terms of Use will be governed by and interpreted in accordance with the laws of the State of New York without regard to conflict of law principles. Other than small claims actions as permitted therein, any action or proceeding arising from, relating to or in connection with these Terms will be brought exclusively in the federal or state courts located in New York, New York, and you irrevocably consent to the personal jurisdiction of such courts and agree that it is a convenient forum and that you will not seek to transfer such action or proceeding to any other forum or jurisdiction, under the doctrine of forum non conveniens or otherwise.
 
-14\. Arbitration.
------------------
+**14\. Arbitration.**
+---------------------
 
 Arbitration Agreement. All disputes arising out of, relating to, or in connection with these Terms of Use or your use of the Site and/or Services that cannot be resolved informally or in small claims court will be resolved through binding arbitration on an individual basis, except you and Crunchyroll are not required to arbitrate any dispute in which either party seeks equitable relief for the alleged unlawful use of intellectual property rights.
 
-Arbitration will be initiated through the American Arbitration Association ("AAA"). In the event the AAA is not available to arbitrate, the parties will select an alternative arbitral forum. The rules of the arbitral forum will govern all aspects of this arbitration, except to the extent those rules conflict with these Terms. The AAA Consumer Arbitration Rules ("AAA Rules") governing the arbitration are available online at www.adr.org or by calling the AAA at 1-800-778-7879. The arbitration will be conducted by a single neutral arbitrator.
+Arbitration will be initiated through the American Arbitration Association ("AAA"). In the event the AAA is not available to arbitrate, the parties will select an alternative arbitral forum. The rules of the arbitral forum will govern all aspects of this arbitration, except to the extent those rules conflict with these Terms. The AAA Consumer Arbitration Rules ("AAA Rules") governing the arbitration are available online at [www.adr.org](http://www.adr.org/) or by calling the AAA at 1-800-778-7879. The arbitration will be conducted by a single neutral arbitrator.
 
 If the claim is for $10,000 or less, the party initiating the arbitration may choose whether the arbitration will be conducted (1) solely on the basis of documents submitted to the arbitrator, through a telephonic hearing or by an in-person hearing as established by the AAA Rules. In the case of an in-person hearing, the proceedings will be conducted at a location which is reasonably convenient for both parties with due consideration of the ability to travel and other pertinent circumstances. If the parties are unable to agree on a location, the determination will be made by the arbitration institution.
 
@@ -157,104 +157,103 @@ You and Crunchyroll waive any constitutional and statutory rights to go to court
 
 YOU AND CRUNCHYROLL AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR OUR INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. If this specific provision is found to be unenforceable, then the entirety of this provision shall be null and void, and all claims and disputes will be resolved in a court as specified in Section 13 above.
 
-YOU MAY OPT-OUT OF THIS ARBITRATION AGREEMENT. If you do so, neither you nor Crunchyroll can force the other to arbitrate. To opt-out, you must notify Crunchyroll in writing no later than thirty (30) days after first becoming subject to this arbitration agreement. Your notice must include your name and address, and the email address you used to set up your Crunchyroll account (if you have one), and an unequivocal statement that you want to opt-out of this arbitration agreement. You must send your opt-out notice to one of the following physical or email addresses: Crunchyroll, LLC., ATTN: Arbitration Opt-out, 444 Bush Street, San Francisco, CA 94108; [\[email protected\]](https://www.crunchyroll.com/cdn-cgi/l/email-protection).
+YOU MAY OPT-OUT OF THIS ARBITRATION AGREEMENT. If you do so, neither you nor Crunchyroll can force the other to arbitrate. To opt-out, you must notify Crunchyroll in writing no later than thirty (30) days after first becoming subject to this arbitration agreement. Your notice must include your name and address, and the email address you used to set up your Crunchyroll account (if you have one), and an unequivocal statement that you want to opt-out of this arbitration agreement. You must send your opt-out notice to one of the following physical or email addresses: Crunchyroll, LLC., ATTN: Arbitration Opt-out, 444 Bush Street, San Francisco, CA 94108; [legal@crunchyroll.com](mailto:legal@crunchyroll.com).
 
 Arbitration Agreement Survival. This arbitration agreement will survive the termination of your relationship with Crunchyroll.
 
-15\. Force Majeure.
--------------------
+**15\. Force Majeure.**
 
 Crunchyroll will not be liable to you by reason of any failure or delay in the performance of its obligations hereunder on account of events beyond its reasonable control, which may include, without limitation, denial-of-service attacks, strikes, shortages, riots, insurrection, fires, flood, storm, explosions, acts of God, war, terrorism, governmental action, labor conditions, earthquakes, material shortages, failure of the internet or extraordinary connectivity issues experienced by major telecommunications providers and unrelated to Crunchyroll infrastructure or connectivity to the internet or failure at an Crunchyroll co-location facility (each a "Force Majeure Event"). Upon the occurrence of a Force Majeure Event, Crunchyroll will be excused from any further performance of its obligations effected by the Force Majeure Event for so long as the event continues, and for such further period of time that Crunchyroll may reasonably require to recover from the effects of such Force Majeure Event.
 
-16\. Relationship of the Parties.
----------------------------------
+**16\. Relationship of the Parties.**
+-------------------------------------
 
 Notwithstanding any provision hereof, for all purposes of these Terms of Use each party will be independent and act independently and not as a contractor, partner, joint venturer, agent, employee or employer of the other and will not bind nor attempt to bind the other to any contract.
 
-17\. Notice; Consent to Electronic Notice.
-------------------------------------------
+**17\. Notice; Consent to Electronic Notice.**
+----------------------------------------------
 
-You consent to the use of (a) electronic means to complete these Terms of Use and to deliver any notices pursuant to these Terms of Use and (b) electronic records to store information related to these Terms of Use or your use of the Site or Services. Any notice or other communication to be given hereunder will be in writing and given (x) by Crunchyroll via email (in each case to the address that you provide), (y) a posting on the Site or (z) by you via email to [\[email protected\]](https://www.crunchyroll.com/cdn-cgi/l/email-protection) or to such other addresses as Crunchyroll may specify in writing. The date of receipt will be deemed the date on which such notice is transmitted.
+You consent to the use of (a) electronic means to complete these Terms of Use and to deliver any notices pursuant to these Terms of Use and (b) electronic records to store information related to these Terms of Use or your use of the Site or Services. Any notice or other communication to be given hereunder will be in writing and given (x) by Crunchyroll via email (in each case to the address that you provide), (y) a posting on the Site or (z) by you via email to [legal@crunchyroll.com](mailto:legal@crunchyroll.com) or to such other addresses as Crunchyroll may specify in writing. The date of receipt will be deemed the date on which such notice is transmitted.
 
-18\. Links to other Websites.
------------------------------
+**18\. Links to other Websites.**
+---------------------------------
 
-The Site or Services may provide links to websites other than Crunchyroll.com. Such links are provided for reference only, and Crunchyroll neither controls such websites nor endorses any of the material on any such websites or any association with their operators. Crunchyroll is not responsible for the activities or such sites, and has no liability to you for any harms, injuries or losses you might suffer as a result of using or accessing such websites.
+The Site or Services may provide links to websites other than [Crunchyroll.com](http://crunchyroll.com/). Such links are provided for reference only, and Crunchyroll neither controls such websites nor endorses any of the material on any such websites or any association with their operators. Crunchyroll is not responsible for the activities or such sites, and has no liability to you for any harms, injuries or losses you might suffer as a result of using or accessing such websites.
 
-19\. Miscellaneous.
--------------------
+**19\. Miscellaneous.**
+-----------------------
 
 In the event that any provision in these Terms of Use is held to be invalid or unenforceable, the unenforceable part will be given effect to the greatest extent permitted by law and the remaining provisions will remain in full force and effect to the maximum extent permitted by law. The failure of a party to enforce any right or provision of these Terms of Use will not be deemed a waiver of such right or provision. You may not assign or transfer these Terms of Use (by operation of law or otherwise) without the prior written consent of Crunchyroll and any prohibited assignment will be null and void. Crunchyroll may assign these Terms of Use or any rights hereunder without your consent. You agree that these Terms of Use and the rules, restrictions and policies contained herein, and Crunchyroll's enforcement thereof, are not intended to confer and do not confer any rights or remedies upon any person other than you and Crunchyroll. These Terms of Use together with the rules and policies of Crunchyroll incorporated herein by reference constitute the entire agreement between Crunchyroll and you with respect to the subject matter of these Terms of Use.
 
-20\. No Unsolicited Submissions.
---------------------------------
+**20\. No Unsolicited Submissions.**
+------------------------------------
 
 As a general practice, Crunchyroll, LLC. does not accept unsolicited material that is not represented by a reputable agent, agency, manager, producer, production company or studio. Any unsolicited creative ideas, suggestions or materials of any kind, including for new or improved products, names, promotions, advertisements, marketing, processes pitches, outlines, scripts, treatments, artwork, designs, visual materials, etc. will be discarded and will not be read. The purpose of this policy is to avoid any potential misunderstandings if your original work seems similar to Crunchyroll content since many works and submissions are based on the same or similar ideas. Please note, if you choose to disregard this policy and submit materials regardless, you acknowledge that you have read the Crunchyroll submission policy and understand that by making such a submission, you understand that Crunchyroll has no obligation to you or your submission and that you have no claim whatsoever based on such submission.
 
-21\. Questions.
----------------
+**21\. Questions.**
+-------------------
 
 If you have questions about these Terms of Use or would like to request a copy of these Terms of Use or any other records relating to these Terms of Use or your use of the Site and Services, please contact Crunchyroll at [feedback@crunchyroll.com](mailto:feedback@crunchyroll.com) or by sending a written request to Crunchyroll, LLC. at _444 Bush Street, San Francisco, CA 94108, Phone: (415) 796-3560_.
 
-  
+**22\. Copyright Infringement Notification.**
+---------------------------------------------
 
-Last Modified: 3/14/2019
-
-Copyright Infringement Notification.
-------------------------------------
-
-Crunchyroll.com respects all copyright and license owners and adheres to the Digital Millennium Copyright Act.
+[Crunchyroll.com](http://crunchyroll.com/) respects all copyright and license owners and adheres to the Digital Millennium Copyright Act.
 
 * If you are a content owner and would like us to help distribute your content, contact us.
+    
 * If you would like your content removed from this website, follow the instructions below.
+    
 
 If you have questions about these Terms of Use or would like to request a copy of these Terms of Use or any other records relating to these Terms of Use or your use of the Site and Services, please contact Crunchyroll at [feedback@crunchyroll.com](mailto:feedback@crunchyroll.com) or by sending a written request to Crunchyroll, LLC. at _444 Bush Street, San Francisco, CA 94108, Phone: (415) 796-3560_.
 
 1. A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+    
 2. Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site.
+    
 3. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate the material. **Providing URLs in the body of an email is the best way to help us locate content quickly**.
+    
 4. Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted.
+    
 5. A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
-6. A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+    
+6. 6\. A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+    
 
 Such written notice should be sent to our designated agent as follows:
 
-  
-
 DMCA Complaints
 
-Crunchyroll.com
+[Crunchyroll.com](http://crunchyroll.com/)
 
-Email: [\[email protected\]](https://www.crunchyroll.com/cdn-cgi/l/email-protection)
+Email: [copyright@crunchyroll.com](mailto:copyright@crunchyroll.com)
 
 Fax: 415.796.3561
 
-  
-
 Please also note that under Section 512(f) any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
 
-Counter-Notification
---------------------
+**23\. Counter-Notification**
+-----------------------------
 
 If you elect to send us a counter notice, to be effective it must be a written communication provided to our designated agent that includes substantially the following (please consult your legal counsel or see 17 U.S.C. Section 512(g)(3) to confirm these requirements):
 
 1. A physical or electronic signature of the subscriber.
+    
 2. Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled.
+    
 3. A statement under penalty of perjury that the subscriber has a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled.
+    
 4. The subscriber's name, address, and telephone number, and a statement that the subscriber consents to the jurisdiction of Federal District Court for the judicial district in which the address is located, or if the subscriber's address is outside of the United States, for any judicial district in which the service provider may be found, and that the subscriber will accept service of process from the person who provided notification under subsection (c)(1)(C) or an agent of such person.
+    
 
 Such written notice should be sent to our designated agent as follows:
 
-  
-
 DMCA Complaints
 
-Crunchyroll.com
+[Crunchyroll.com](http://crunchyroll.com/)
 
-Email: [\[email protected\]](https://www.crunchyroll.com/cdn-cgi/l/email-protection)
+Email: [copyright@crunchyroll.com](mailto:copyright@crunchyroll.com)
 
 Fax: 415.796.3561
-
-  
 
 Please note that under Section 512(f) of the Copyright Act, any person who knowingly materially misrepresents that material or activity was removed or disabled by mistake or misidentification may be subject to liability. Please also be advised that we enforce a policy that provides for the termination in appropriate circumstances of subscribers who are repeat infringers.
