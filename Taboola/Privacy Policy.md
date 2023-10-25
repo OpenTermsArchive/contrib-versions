@@ -246,7 +246,5 @@ We may transfer your Information outside the country in which it is collected, i
 
 If you would like to learn more about EEA/UK Data Transfers, specifically, see Section 5.1.4 below. If you would like to learn more about Thailand Data Transfers, specifically, see Section 5.3.4 below.
 
-### 4.7
-
 5\. Regional Privacy Rights
 ---------------------------
