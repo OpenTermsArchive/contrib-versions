@@ -83,8 +83,8 @@ You may not use any shared system provided by Sinch Email in a way that unnecess
 
 You may not sign up or use more than one of our free accounts for each of our respective email platforms regardless of your corporate structure, or actual or intended use case without our prior written consent (for example, you may not set up a free account for each of your customers and may only set up one account for your company).
 
-5) Email Verification Requirements
-----------------------------------
+5) email validation Requirements
+--------------------------------
 
 Without limiting the application of any other provisions of this AUP, with respect to any of the Services’ email verification features or functionality, you may not:
 
