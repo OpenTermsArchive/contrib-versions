@@ -39,7 +39,7 @@ We may revise this user agreement and any of the documents listed above from tim
 
 ### Information about us
 
-Our services are provided by PayPal (Europe) S.à r.l.et Cie, S.C.A. (R.C.S. Luxembourg B 118 349) to registered users in the European Economic Area. For details on how to reach PayPal, please refer to this page on [Customer Service](https://www.paypal.com/cz/smarthelp/home?locale.x=en_CZ).
+Our services are provided by PayPal (Europe) S.à r.l.et Cie, S.C.A. (R.C.S. Luxembourg B 118 349) to registered users in the European Economic Area. For details on how to reach PayPal, please refer to this page on [Customer Service](https://www.paypal.com/cz/cshelp/personal?locale.x=en_CZ).
 
 PayPal is duly licensed in Luxembourg as a bank (or “credit institution” in legal terms). We are supervised by the Luxembourg financial regulatory authority, the Commission de Surveillance du Secteur Financier or CSSF. CSSF’s registered office: 283, route d’Arlon, L-1150 Luxembourg. The CSSF maintains a register of the organisations that it regulates at [https://supervisedentities.apps.cssf.lu/index.html?language=en#Home](https://supervisedentities.apps.cssf.lu/index.html?language=en#Home). PayPal is number B00000351 on the register, but you can also look us up on the register by our name. Trade Register Number: R.C.S. Luxembourg B 118 349.
 
@@ -632,7 +632,7 @@ If your Disputes Ratio is 1.5% or more and you had more than 100 sales transacti
 
 You will **not** be charged a **Standard Dispute fee** for disputes that are_:_
 
-* Inquiries in PayPal’s [**Resolution Center**](https://www.paypal.com/cz/smarthelp/home?locale.x=en_CZ) that are not escalated to a claim with PayPal.
+* Inquiries in PayPal’s [**Resolution Center**](https://www.paypal.com/cz/cshelp/personal?locale.x=en_CZ) that are not escalated to a claim with PayPal.
 * Resolved directly between you and the buyer and not escalated to a claim with PayPal.
 * Filed by the buyer directly with PayPal as an [**Unauthorized Transaction**](#unauth-payment).
 * Deemed by PayPal in its sole discretion to have met all the requirements under [**PayPal’s Seller Protection**](https://www.paypal.com/cz/webapps/mpp/ua/seller-protection?locale.x=en_CZ) program.
@@ -641,7 +641,7 @@ You will **not** be charged a **Standard Dispute fee** for disputes that are_:_
 
 You will **not** be charged a **High Volume Dispute fee** for disputes that are:
 
-* Inquiries in PayPal’s [**Resolution Center**](https://www.paypal.com/cz/smarthelp/home?locale.x=en_CZ) and not escalated to a claim with PayPal.
+* Inquiries in PayPal’s [**Resolution Center**](https://www.paypal.com/cz/cshelp/personal?locale.x=en_CZ) and not escalated to a claim with PayPal.
 * Resolved directly between you and the buyer and not escalated to a claim with PayPal.
 * Filed by the buyer directly with PayPal as an [**Unauthorized Transaction**](#unauth-payment)**.**
 
@@ -766,7 +766,7 @@ Unless otherwise directed by us, you must not use or attempt to use your account
 
 Under certain circumstances, in order to protect PayPal and the security and integrity of the network of buyers and sellers that use the PayPal services, PayPal may take account-level or transaction-level actions. If we take any of the actions described here, we will normally notify you of our actions, but we may, if it is reasonable to do so (for example if you are in breach of this user agreement or we consider it advisable for security reasons), take any of these actions without prior notice to you.
 
-To request information in connection with an account limitation, hold or reserve, you should visit the [Resolution Center](https://www.paypal.com/cz/smarthelp/home?locale.x=en_CZ) or follow the instructions in our email notice with respect to the limitation, hold or reserve.
+To request information in connection with an account limitation, hold or reserve, you should visit the [Resolution Center](https://www.paypal.com/cz/cshelp/personal?locale.x=en_CZ) or follow the instructions in our email notice with respect to the limitation, hold or reserve.
 
 You acknowledge and agree that any funds held under this user agreement may be placed in your reserve account and that you will provide to us any information as we may reasonably request to allow us to determine whether the risk has passed.
 
