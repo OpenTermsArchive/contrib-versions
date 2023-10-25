@@ -3,7 +3,7 @@ Introduction
 
 At IBM we value your privacy and are committed to protecting and processing your personal information responsibly.
 
-This privacy statement describes how IBM collects, uses and shares your information. It applies to IBM Corporation and IBM subsidiaries except where a subsidiary presents its own statement without reference to IBM’s.
+This privacy statement describes how IBM collects, uses, and shares personal information about consumers and other individuals within our clients, business partners, supplier and other organizations with which IBM has or contemplates a business relationship. It applies to IBM Corporation and IBM subsidiaries except where a subsidiary presents its own statement without reference to IBM’s.
 
 Where we provide products, services, or applications as a business-to-business provider to a client, the client is responsible for the collection and use of personal information while using these products, services, or applications. This collection and use is covered by the client’s privacy policy, unless otherwise described. Our agreement with the client may allow us to request and collect information about authorized users of these products, services, or applications for reasons of contract management. In this case, this privacy statement, or a supplementary privacy notice, applies.
 
@@ -155,7 +155,7 @@ Camera supervision and access management are used for reasons of security and sa
 
 #### Recruitment and Former Employees
 
-We are constantly searching for new talent for our organization, and we collect information about job applicants or prospective candidates from several sources. Applicants are referred to the [Talent Acquisition Privacy Notice](https://www.ibm.com/employment/talent_acquisition_privacy.html) for more information. When an employee leaves IBM, we continue to process information that is related to them for any remaining business, contractual, employment, legal, and fiscal purposes, including the management of pensions to the extent handled by IBM.
+We are constantly searching for new talent for our organization, and we collect information about job applicants or prospective candidates from several sources. Applicants are referred to the [Talent Acquisition Privacy Notice](https://www.ibm.com/careers/us-en/privacy-policy/ "Talent Acquisition Privacy Notice ") for more information. When an employee leaves IBM, we continue to process information that is related to them for any remaining business, contractual, employment, legal, and fiscal purposes, including the management of pensions to the extent handled by IBM.
 
 Regarding recruitment, we may look for prospective candidates with the help of recruitment intermediaries and may use publicly available information on social media platforms to identify prospective candidates for a specific function.
 
@@ -232,10 +232,9 @@ Your personal information may be transferred to or accessed by IBM subsidiaries 
 We have implemented various safeguards including:
 
 * Contractual Clauses, such as those approved by the EU Commission and accepted in several other countries. You can request a copy of the EU Standard Contractual Clauses (EU SCCs) by selecting **Contact Us** in the header of this page.
+* Data Privacy Framework Certification. Where applicable, certain designated IBM services (for example, IBM Infrastructure-as-a-Service, Platform-as-a-Service, Software-as-a-Service, and select other hosted offerings) are certified to comply with the Data Privacy Framework. For more information, see [IBM Data Privacy Framework Policy for Certified IBM Cloud Services](https://www.ibm.com/us-en/privacy/dataprivacyframework "IBM Data Privacy Framework Policy for Certified IBM Cloud Services").
 * Binding Corporate Rules for Controllers (IBM BCR-C). We have BCR-C approved by the European Data Protection Authorities and the UK Information Commissioner’s Office. For more information, see [IBM Controller Binding Corporate Rules](https://www.ibm.com/privacy/bcr "IBM Controller Binding Corporate Rules").
 * IBM's privacy practices, described in this Privacy Statement, comply with the APEC Cross Border Privacy Rules Framework. The [APEC Cross Border Privacy Rules](http://www.cbprs.org/) (CBPR) system provides protection of personal information that is transferred among participating [APEC economies](http://cbprs.org/about-cbprs/) as it pertains to online information collected through ibm.com.
-
-While the EU-US and Swiss-US Privacy Shield Framework can no longer be relied upon for the transfer of personal information, we continue to comply with all EU-US Privacy Shield Framework and Swiss-US Privacy Shield Framework obligations. For more information, see [IBM Privacy Shield Privacy Policy](https://www.ibm.com/privacy/privacy-shield "IBM Privacy Shield Privacy Policy") and [US Department of Commerce](https://www.privacyshield.gov/welcome "US Department of Commerce").
 
 * * *
 
@@ -359,14 +358,18 @@ Privacy Statement Updates
 
 If a material change is made to this Privacy Statement, the effective date is revised, and a notice is posted on the updated Privacy Statement for 30 days. By continuing to use our websites and services after a revision takes effect, it is considered that users have read and understand the changes.
 
-Previous versions of the Privacy Statement are available [here](https://www.ibm.com/privacy/portal/previous-versions-of-IBM-privacy-statements).
+Previous versions of the Privacy Statement are available [here](https://www.ibm.com/privacy/portal/previous-versions-of-IBM-privacy-statements "https://www.ibm.com/us-en/privacy/previous-versions").
 
 **Sections updated in this release:**
 
 1. Introduction
-2. IBM Applications, Cloud and Online Services
-3. Your Additional Rights: Switzerland
-4. Your Additional Rights: US States
-5. Your Additional Rights: Vietnam
+2. Facilitating International Transfers
+3. Your Additional Rights: China
+4. Your Additional Rights: European Economic Area and United Kingdom
+5. Your Additional Rights: Indonesia
+6. Your Additional Rights: Kenya
+7. Your Additional Rights: Korea
+8. Your Additional Rights: Switzerland
+9. Your Additional Rights: US States
 
 * * *
