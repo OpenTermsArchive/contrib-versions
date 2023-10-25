@@ -16,7 +16,7 @@ Your vehicle may be equipped with Connected Services that electronically transmi
 
 **Toyota Privacy Statement – Summary**
 
-This summary of the Toyota Privacy Statement applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our"). Some of our products and services may have additional privacy statements that apply, such as Toyota Connected Services. Where product- or service-specific privacy statements conflict with this Privacy Statement, those privacy statements shall govern. This Privacy Statement was last updated on September 26, 2023.
+This summary of the Toyota Privacy Statement applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our"). Some of our products and services may have additional privacy statements that apply, such as Toyota Connected Services. Where product- or service-specific privacy statements conflict with this Privacy Statement, those privacy statements shall govern. This Privacy Statement was last updated on October 24, 2023.
 
 **Information Collected**
 
@@ -68,7 +68,7 @@ To read our full Privacy Statement [click here.](#privacy)
 
 [\[Versión en Español\]](https://www.toyota.com/espanol/support/privacy-rights)
 
-UPDATED AS OF: September 26, 2023
+UPDATED AS OF: October 24, 2023
 
 Toyota Motor Sales, U.S.A., Inc. is committed to maintaining your confidence and trust as it relates to the privacy of your Personal Information (as defined below). Please read below and learn how we collect, protect, share and use your Personal Information including information we collect as part of our technology Platforms (including, without limitation, our Toyota-owned and branded websites, web pages, interactive features, applications, and mobile applications that link to this Privacy Statement ("Platforms"), offline, and from other parties.
 
@@ -265,7 +265,7 @@ If you would like to exercise any of the privacy rights identified above, you ma
 
 **Authorized Agents**
 
-You may exercise your privacy rights through an authorized agent. If we receive your request from an authorized agent, we may ask for evidence that you have provided such agent with a power of attorney or that the agent otherwise has valid written authority to submit requests to exercise rights on your behalf. If you are an authorized agent seeking to make a request, please contact us at **855-226-4048**.
+Where permitted by state law, you may exercise your privacy rights through an authorized agent. If we receive your request from an authorized agent, we may ask for evidence that you have provided such agent with a power of attorney or that the agent otherwise has valid written authority to submit requests to exercise rights on your behalf. If you are an authorized agent seeking to make a request where permitted by state law, please contact us at **855-226-4048**.
 
 **How We Verify Your Request**
 
