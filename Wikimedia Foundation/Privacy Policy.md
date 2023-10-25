@@ -558,6 +558,6 @@ Privacy-related pages
     * [Noticeboard](https://meta.wikimedia.org/wiki/Access_to_nonpublic_personal_data_policy/Noticeboard "meta:Access to nonpublic personal data policy/Noticeboard")
 * [Donor privacy policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Donor_privacy_policy "Special:MyLanguage/Policy:Donor privacy policy")
 
-![](//foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+![](https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
 Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=297169](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=297169)"
