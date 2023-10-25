@@ -6,7 +6,7 @@ Your privacy and security is of the utmost importance to us. We describe in this
 1\. Who are we?
 ---------------
 
-We are Sinch Email, the Developer & Email business unit of Sinch. This business unit comprises of the brands Mailgun, Mailjet, Email on Acid and InboxReady. The processing explained in this policy may be carried out by Sinch Email or other data controllers in the Sinch Group.
+We are Sinch Email, the Developer & Email business unit of Sinch. This business unit comprises of the brands Mailgun, Mailjet, Email on Acid and Mailgun Optimize. The processing explained in this policy may be carried out by Sinch Email or other data controllers in the Sinch Group.
 
 When collecting information about our customers or visitors of our website, we are, under European Union (“EU") data protection laws, qualified as “data controller". This means that we are responsible for deciding how we hold and use personal data about you.
 
