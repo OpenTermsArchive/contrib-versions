@@ -1,1727 +1,2663 @@
-Hateful Conduct
-===============
+Suicide and Self-harm policy
+============================
 
-### Overview 
+Overview  
+ 
 
-**April 2023**
+**You may not promote or encourage suicide or self-harm.**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+### What is in violation of this policy? 
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
 
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+* self-inflicted physical injuries e.g., cutting; and
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+* eating disorders e.g., bulimia, anorexia.  
+     
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+Violations of this policy include, but are not limited to:  
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+* encouraging someone to physically harm or kill themselves;
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+### What is not a violation of this policy? 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+Some examples of behavior that are not considered a violation of this policy include: 
 
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+* sharing personal stories and experiences related to self-harm or suicide;
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+### Who can report violations of this policy? 
 
-Hateful Conduct
-===============
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-### Overview 
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-**April 2023**
+### How to report violations of this policy 
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+### Expressing intentions of self-harm or suicide 
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+**In-App**
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
+You can report content for review in-app as follows:
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
 
-### What is in violation of this policy?  
+**Desktop**
 
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
+You can report this content for review on desktop as follows:
 
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+1. Select Report Post from drop-down menu
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+2. Select “It expresses intentions of self-harm or suicide”
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+3. Submit your report  
+     
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Reporting form**
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
 
-Hateful Conduct
-===============
+**In-App**
 
-### Overview 
+You can report content for review in-app as follows:
 
-**April 2023**
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+### Encouraging self-harm or suicide 
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+**In-App**
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+You can report content for review in-app as follows:
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+1. Select Report Post from drop-down menu  
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+2. Select “It’s abusive or harmful”
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+3. Select “They’re  encouraging self-harm or suicide”
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+4. Submit your report  
+     
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Desktop**
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+You can report this content for review on desktop as follows:
 
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+1. Select Report Post from drop-down menu
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+2. Select “It’s abusive or harmful”
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+3. Select “They’re encouraging self-harm or suicide”
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+4. Submit your report  
+     
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+### What happens if you violate this policy? 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
