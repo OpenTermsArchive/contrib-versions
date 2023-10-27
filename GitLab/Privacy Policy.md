@@ -1,9 +1,11 @@
-Introduction
-============
+GitLab Privacy Statement
+========================
 
 * * *
 
 Last updated: June 10, 2022
+
+### Introduction
 
 At GitLab, we take the privacy and security of your information seriously. This privacy statement (“Privacy Statement”) will explain how GitLab B.V. and GitLab, Inc. ("GitLab", "we", "our", "us") handle your personal data. "Personal Data," as used in this Privacy Statement, is information that identifies or can reasonably be linked directly or indirectly to an identifiable person. The privacy practices and standards detailed in this Privacy Statement apply to all data subjects globally, unless specifically noted otherwise. In particular, this Privacy Statement will touch on the following sections:
 
