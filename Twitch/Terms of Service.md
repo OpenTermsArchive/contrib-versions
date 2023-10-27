@@ -1,4 +1,4 @@
-Last modified on 06/08/2023
+Last modified on 10/27/2023
 
 **Terms of Service**
 --------------------
@@ -187,7 +187,13 @@ For residents of the European Union or the European Economic Area, the United Ki
 
 #### **11\. Simulcasting**
 
-When you are streaming live on the Twitch Services you may not simultaneously live stream or broadcast (“Simulcast”) on any other “Twitch-like Service,” meaning any web-based network, platform, or service that supports live streaming of user generated content, without advance written permission from Twitch. For clarity, you may Simulcast on mobile-first services that support live streaming. This Section does not apply to non-profit or government entities that are live streaming for non-commercial purposes.
+When you are streaming live on the Twitch Services you may simultaneously live stream or broadcast (“Simulcast”) on any other network, platform, or service that supports live streaming of user generated content, only if:
+
+* You ensure that the quality of Twitch users’ experience of your Simulcast is, at a minimum, no less than the experience on other platforms or services, including by your engagement with the Twitch community, for example, via chat.
+* You do not provide links, or otherwise direct your community, to leave Twitch for your simulcast on other services because we value the community on Twitch and the integral role community engagement plays for all Twitch users.
+* You do not use third-party services that combine activity from other platforms or services on your Twitch stream during your Simulcast, such as merging chat or other features, to ensure the Twitch community is included in the entirety of the experience of your livestream.
+
+Collectively, these are referred to as the “Simulcast Guidelines.”
 
 #### **12\. Advertisements**
 
