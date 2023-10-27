@@ -1,2663 +1,2825 @@
-Suicide and Self-harm policy
-============================
+Private information and media policy
+====================================
 
-Overview  
+### Overview 
+
+**December 2022**
+
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+
+**Sharing someone’s private information:**
+
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+
+When reviewing reports under this policy, we consider a number of things, including:  
+  
+
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
+
+**Who is sharing the information?**  
+  
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
  
 
-**You may not promote or encourage suicide or self-harm.**
-
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
-
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
  
+
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
+
+**  
+Sharing private media:**
+
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+The following behaviors are also not permitted:   
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
+The following are not in violation of this policy:
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
-     
-    
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
+**For media, the following are not in violation of our policy:**
+
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**Sharing private information:**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
 
-### How to report violations of this policy 
+  
+**Sharing private media:** 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
 
-### Expressing intentions of self-harm or suicide 
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
 
-**In-App**
+### How can I report violations of this policy? 
 
-You can report content for review in-app as follows:
+**In-app**
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
 
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+**Sharing private or live location information:**
 
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
+
+### Overview 
+
+**December 2022**
+
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+
+**Sharing someone’s private information:**
+
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+
+When reviewing reports under this policy, we consider a number of things, including:  
   
 
-Additional resources  
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
+
+**Who is sharing the information?**  
   
-
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
-============================
-
-Overview  
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
  
 
-**You may not promote or encourage suicide or self-harm.**
-
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
-
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
  
+
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
+
+**  
+Sharing private media:**
+
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+The following behaviors are also not permitted:   
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
+The following are not in violation of this policy:
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
-     
-    
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
+**For media, the following are not in violation of our policy:**
+
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**Sharing private information:**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
 
-### How to report violations of this policy 
+  
+**Sharing private media:** 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
 
-### Expressing intentions of self-harm or suicide 
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
 
-**In-App**
+### How can I report violations of this policy? 
 
-You can report content for review in-app as follows:
+**In-app**
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
 
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+**Sharing private or live location information:**
 
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
+
+### Overview 
+
+**December 2022**
+
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+
+**Sharing someone’s private information:**
+
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+
+When reviewing reports under this policy, we consider a number of things, including:  
   
 
-Additional resources  
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
+
+**Who is sharing the information?**  
   
-
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
-============================
-
-Overview  
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
  
 
-**You may not promote or encourage suicide or self-harm.**
-
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
-
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
  
+
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
+
+**  
+Sharing private media:**
+
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+The following behaviors are also not permitted:   
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
+The following are not in violation of this policy:
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
-     
-    
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
+**For media, the following are not in violation of our policy:**
+
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**Sharing private information:**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
 
-### How to report violations of this policy 
+  
+**Sharing private media:** 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
 
-### Expressing intentions of self-harm or suicide 
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
 
-**In-App**
+### How can I report violations of this policy? 
 
-You can report content for review in-app as follows:
+**In-app**
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
 
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+**Sharing private or live location information:**
 
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
+
+### Overview 
+
+**December 2022**
+
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+
+**Sharing someone’s private information:**
+
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+
+When reviewing reports under this policy, we consider a number of things, including:  
   
 
-Additional resources  
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
+
+**Who is sharing the information?**  
   
-
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
-============================
-
-Overview  
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
  
 
-**You may not promote or encourage suicide or self-harm.**
-
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
-
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
  
+
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
+
+**  
+Sharing private media:**
+
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+The following behaviors are also not permitted:   
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
+The following are not in violation of this policy:
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
-     
-    
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
+**For media, the following are not in violation of our policy:**
+
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**Sharing private information:**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
 
-### How to report violations of this policy 
+  
+**Sharing private media:** 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
 
-### Expressing intentions of self-harm or suicide 
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
 
-**In-App**
+### How can I report violations of this policy? 
 
-You can report content for review in-app as follows:
+**In-app**
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
 
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+**Sharing private or live location information:**
 
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
+
+### Overview 
+
+**December 2022**
+
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+
+**Sharing someone’s private information:**
+
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+
+When reviewing reports under this policy, we consider a number of things, including:  
   
 
-Additional resources  
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
+
+**Who is sharing the information?**  
   
-
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
-============================
-
-Overview  
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
  
 
-**You may not promote or encourage suicide or self-harm.**
-
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
-
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
  
+
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
+
+**  
+Sharing private media:**
+
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+The following behaviors are also not permitted:   
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
+The following are not in violation of this policy:
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
-     
-    
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
+**For media, the following are not in violation of our policy:**
+
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**Sharing private information:**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
 
-### How to report violations of this policy 
+  
+**Sharing private media:** 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
 
-### Expressing intentions of self-harm or suicide 
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
 
-**In-App**
+### How can I report violations of this policy? 
 
-You can report content for review in-app as follows:
+**In-app**
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
 
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+**Sharing private or live location information:**
 
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
+
+### Overview 
+
+**December 2022**
+
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+
+**Sharing someone’s private information:**
+
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+
+When reviewing reports under this policy, we consider a number of things, including:  
   
 
-Additional resources  
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
+
+**Who is sharing the information?**  
   
-
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
-============================
-
-Overview  
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
  
 
-**You may not promote or encourage suicide or self-harm.**
-
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
-
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
  
+
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
+
+**  
+Sharing private media:**
+
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+The following behaviors are also not permitted:   
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
+The following are not in violation of this policy:
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
-     
-    
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
+**For media, the following are not in violation of our policy:**
+
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**Sharing private information:**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
 
-### How to report violations of this policy 
+  
+**Sharing private media:** 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
 
-### Expressing intentions of self-harm or suicide 
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
 
-**In-App**
+### How can I report violations of this policy? 
 
-You can report content for review in-app as follows:
+**In-app**
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
 
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+**Sharing private or live location information:**
 
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
+
+### Overview 
+
+**December 2022**
+
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+
+**Sharing someone’s private information:**
+
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+
+When reviewing reports under this policy, we consider a number of things, including:  
   
 
-Additional resources  
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
+
+**Who is sharing the information?**  
   
-
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
-============================
-
-Overview  
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
  
 
-**You may not promote or encourage suicide or self-harm.**
-
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
-
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
  
+
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
+
+**  
+Sharing private media:**
+
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+The following behaviors are also not permitted:   
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
+The following are not in violation of this policy:
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
-     
-    
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
+**For media, the following are not in violation of our policy:**
+
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**Sharing private information:**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
 
-### How to report violations of this policy 
+  
+**Sharing private media:** 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
 
-### Expressing intentions of self-harm or suicide 
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
 
-**In-App**
+### How can I report violations of this policy? 
 
-You can report content for review in-app as follows:
+**In-app**
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
 
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+**Sharing private or live location information:**
 
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
+
+### Overview 
+
+**December 2022**
+
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+
+**Sharing someone’s private information:**
+
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+
+When reviewing reports under this policy, we consider a number of things, including:  
   
 
-Additional resources  
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
+
+**Who is sharing the information?**  
   
-
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
-============================
-
-Overview  
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
  
 
-**You may not promote or encourage suicide or self-harm.**
-
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
-
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
  
+
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
+
+**  
+Sharing private media:**
+
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+The following behaviors are also not permitted:   
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
+The following are not in violation of this policy:
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
-     
-    
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
+**For media, the following are not in violation of our policy:**
+
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**Sharing private information:**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
 
-### How to report violations of this policy 
+  
+**Sharing private media:** 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
 
-### Expressing intentions of self-harm or suicide 
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
 
-**In-App**
+### How can I report violations of this policy? 
 
-You can report content for review in-app as follows:
+**In-app**
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
 
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+**Sharing private or live location information:**
 
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
+
+### Overview 
+
+**December 2022**
+
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+
+**Sharing someone’s private information:**
+
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+
+When reviewing reports under this policy, we consider a number of things, including:  
   
 
-Additional resources  
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
+
+**Who is sharing the information?**  
   
-
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
-============================
-
-Overview  
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
  
 
-**You may not promote or encourage suicide or self-harm.**
-
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
-
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
  
+
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
+
+**  
+Sharing private media:**
+
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+The following behaviors are also not permitted:   
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
+The following are not in violation of this policy:
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
-     
-    
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
+**For media, the following are not in violation of our policy:**
+
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**Sharing private information:**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
 
-### How to report violations of this policy 
+  
+**Sharing private media:** 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
 
-### Expressing intentions of self-harm or suicide 
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
 
-**In-App**
+### How can I report violations of this policy? 
 
-You can report content for review in-app as follows:
+**In-app**
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
 
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+**Sharing private or live location information:**
 
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
+
+### Overview 
+
+**December 2022**
+
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+
+**Sharing someone’s private information:**
+
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+
+When reviewing reports under this policy, we consider a number of things, including:  
   
 
-Additional resources  
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
+
+**Who is sharing the information?**  
   
-
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
-============================
-
-Overview  
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
  
 
-**You may not promote or encourage suicide or self-harm.**
-
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
-
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
  
+
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
+
+**  
+Sharing private media:**
+
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+The following behaviors are also not permitted:   
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
+The following are not in violation of this policy:
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
-     
-    
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
+**For media, the following are not in violation of our policy:**
+
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**Sharing private information:**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
 
-### How to report violations of this policy 
+  
+**Sharing private media:** 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
 
-### Expressing intentions of self-harm or suicide 
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
 
-**In-App**
+### How can I report violations of this policy? 
 
-You can report content for review in-app as follows:
+**In-app**
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
 
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+**Sharing private or live location information:**
 
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
+
+### Overview 
+
+**December 2022**
+
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+
+**Sharing someone’s private information:**
+
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+
+When reviewing reports under this policy, we consider a number of things, including:  
   
 
-Additional resources  
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
+
+**Who is sharing the information?**  
   
-
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
-============================
-
-Overview  
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
  
 
-**You may not promote or encourage suicide or self-harm.**
-
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
-
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
  
+
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
+
+**  
+Sharing private media:**
+
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+The following behaviors are also not permitted:   
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
+The following are not in violation of this policy:
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
-     
-    
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
+**For media, the following are not in violation of our policy:**
+
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**Sharing private information:**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
 
-### How to report violations of this policy 
+  
+**Sharing private media:** 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
 
-### Expressing intentions of self-harm or suicide 
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
 
-**In-App**
+### How can I report violations of this policy? 
 
-You can report content for review in-app as follows:
+**In-app**
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
 
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+**Sharing private or live location information:**
 
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
+
+### Overview 
+
+**December 2022**
+
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+
+**Sharing someone’s private information:**
+
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+
+When reviewing reports under this policy, we consider a number of things, including:  
   
 
-Additional resources  
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
+
+**Who is sharing the information?**  
   
-
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
-============================
-
-Overview  
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
  
 
-**You may not promote or encourage suicide or self-harm.**
-
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
-
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
  
+
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
+
+**  
+Sharing private media:**
+
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+The following behaviors are also not permitted:   
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
+The following are not in violation of this policy:
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
-     
-    
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
+**For media, the following are not in violation of our policy:**
+
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**Sharing private information:**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
 
-### How to report violations of this policy 
+  
+**Sharing private media:** 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
 
-### Expressing intentions of self-harm or suicide 
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
 
-**In-App**
+### How can I report violations of this policy? 
 
-You can report content for review in-app as follows:
+**In-app**
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
 
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+**Sharing private or live location information:**
 
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
+
+### Overview 
+
+**December 2022**
+
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+
+**Sharing someone’s private information:**
+
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+
+When reviewing reports under this policy, we consider a number of things, including:  
   
 
-Additional resources  
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
+
+**Who is sharing the information?**  
   
-
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
-============================
-
-Overview  
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
  
 
-**You may not promote or encourage suicide or self-harm.**
-
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
-
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
  
+
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
+
+**  
+Sharing private media:**
+
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+The following behaviors are also not permitted:   
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
+The following are not in violation of this policy:
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
-     
-    
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
+**For media, the following are not in violation of our policy:**
+
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**Sharing private information:**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
 
-### How to report violations of this policy 
+  
+**Sharing private media:** 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
 
-### Expressing intentions of self-harm or suicide 
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
 
-**In-App**
+### How can I report violations of this policy? 
 
-You can report content for review in-app as follows:
+**In-app**
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
 
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+**Sharing private or live location information:**
 
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
+
+### Overview 
+
+**December 2022**
+
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+
+**Sharing someone’s private information:**
+
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+
+When reviewing reports under this policy, we consider a number of things, including:  
   
 
-Additional resources  
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
+
+**Who is sharing the information?**  
   
-
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
-============================
-
-Overview  
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
  
 
-**You may not promote or encourage suicide or self-harm.**
-
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
-
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
  
+
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
+
+**  
+Sharing private media:**
+
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+The following behaviors are also not permitted:   
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
+The following are not in violation of this policy:
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
-     
-    
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
+**For media, the following are not in violation of our policy:**
+
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**Sharing private information:**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
 
-### How to report violations of this policy 
+  
+**Sharing private media:** 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
 
-### Expressing intentions of self-harm or suicide 
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
 
-**In-App**
+### How can I report violations of this policy? 
 
-You can report content for review in-app as follows:
+**In-app**
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
 
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+**Sharing private or live location information:**
 
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
+
+### Overview 
+
+**December 2022**
+
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+
+**Sharing someone’s private information:**
+
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+
+When reviewing reports under this policy, we consider a number of things, including:  
   
 
-Additional resources  
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
+
+**Who is sharing the information?**  
   
-
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
-============================
-
-Overview  
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
  
 
-**You may not promote or encourage suicide or self-harm.**
-
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
-
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
  
+
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
+
+**  
+Sharing private media:**
+
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+The following behaviors are also not permitted:   
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
+The following are not in violation of this policy:
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
-     
-    
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
+**For media, the following are not in violation of our policy:**
+
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**Sharing private information:**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
 
-### How to report violations of this policy 
+  
+**Sharing private media:** 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
 
-### Expressing intentions of self-harm or suicide 
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
 
-**In-App**
+### How can I report violations of this policy? 
 
-You can report content for review in-app as follows:
+**In-app**
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
 
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+**Sharing private or live location information:**
 
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
+
+### Overview 
+
+**December 2022**
+
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+
+**Sharing someone’s private information:**
+
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+
+When reviewing reports under this policy, we consider a number of things, including:  
   
 
-Additional resources  
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
+
+**Who is sharing the information?**  
   
-
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
-============================
-
-Overview  
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
  
 
-**You may not promote or encourage suicide or self-harm.**
-
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
-
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
  
+
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
+
+**  
+Sharing private media:**
+
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+The following behaviors are also not permitted:   
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
+The following are not in violation of this policy:
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
-     
-    
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
+**For media, the following are not in violation of our policy:**
+
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**Sharing private information:**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
 
-### How to report violations of this policy 
+  
+**Sharing private media:** 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
 
-### Expressing intentions of self-harm or suicide 
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
 
-**In-App**
+### How can I report violations of this policy? 
 
-You can report content for review in-app as follows:
+**In-app**
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
 
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+**Sharing private or live location information:**
 
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
+
+### Overview 
+
+**December 2022**
+
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+
+**Sharing someone’s private information:**
+
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+
+When reviewing reports under this policy, we consider a number of things, including:  
   
 
-Additional resources  
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
+
+**Who is sharing the information?**  
   
-
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
-============================
-
-Overview  
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
  
 
-**You may not promote or encourage suicide or self-harm.**
-
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
-
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
  
+
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
+
+**  
+Sharing private media:**
+
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+The following behaviors are also not permitted:   
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
+The following are not in violation of this policy:
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
-     
-    
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
+**For media, the following are not in violation of our policy:**
+
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**Sharing private information:**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
 
-### How to report violations of this policy 
+  
+**Sharing private media:** 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
 
-### Expressing intentions of self-harm or suicide 
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
 
-**In-App**
+### How can I report violations of this policy? 
 
-You can report content for review in-app as follows:
+**In-app**
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
 
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
 
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+**Sharing private or live location information:**
 
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
+
+### Overview 
+
+**December 2022**
+
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+
+**Sharing someone’s private information:**
+
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+
+When reviewing reports under this policy, we consider a number of things, including:  
   
 
-Additional resources  
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
+
+**Who is sharing the information?**  
   
-
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-Suicide and Self-harm policy
-============================
-
-Overview  
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
  
 
-**You may not promote or encourage suicide or self-harm.**
-
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
-
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
  
+
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
+
+**  
+Sharing private media:**
+
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
 ### What is in violation of this policy? 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-* self-inflicted physical injuries e.g., cutting; and
-    
-* eating disorders e.g., bulimia, anorexia.  
-     
-    
+The following behaviors are also not permitted:   
 
-Violations of this policy include, but are not limited to:  
-
-* encouraging someone to physically harm or kill themselves;
-    
-* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
-    
-* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
      
 
 ### What is not a violation of this policy? 
 
-Some examples of behavior that are not considered a violation of this policy include: 
+The following are not in violation of this policy:
 
-* sharing personal stories and experiences related to self-harm or suicide;
-    
-* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
-     
-    
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
+**For media, the following are not in violation of our policy:**
+
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
 ### Who can report violations of this policy? 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+**Sharing private information:**
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
 
-### How to report violations of this policy 
+  
+**Sharing private media:** 
 
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
 
-### Expressing intentions of self-harm or suicide 
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
 
-**In-App**
+### How can I report violations of this policy? 
 
-You can report content for review in-app as follows:
+**In-app**
 
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
      
 
 **Desktop**
 
-You can report this content for review on desktop as follows:
+You can report this content for review via desktop as follows:
 
-1. Select Report Post from drop-down menu
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-2. Select “It expresses intentions of self-harm or suicide”
-    
-3. Submit your report  
-     
-    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
 
-**Reporting form**
-
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu
-2. Select “It expresses intentions of self-harm or suicide”
-3. Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1. Select Report Post from drop-down menu  
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re  encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1. Select Report Post from drop-down menu
-    
-2. Select “It’s abusive or harmful”
-    
-3. Select “They’re encouraging self-harm or suicide”
-    
-4. Submit your report  
-     
-    
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
 
 ### What happens if you violate this policy? 
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
-
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
 
-Additional resources  
-  
+**Sharing private or live location information:**
 
-==========================
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
 
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+**Sharing private media:** 
 
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
 
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
