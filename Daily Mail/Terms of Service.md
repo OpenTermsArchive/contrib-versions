@@ -1,5 +1,5 @@
 Terms
-=====
+-----
 
   
 
@@ -7,8 +7,8 @@ Please note that by using this website or our mobile applications (for example o
 
   
 
-Index
------
+1\. About us
+------------
 
 1.1. This Site is operated by Associated Newspapers Limited, a company registered in England under company number 84121 with a registered office at Northcliffe House, 2 Derry Street, London W8 5TT ("we", "us", "our"). Our VAT number is GB 243571174. You can contact us [here](https://www.dailymail.co.uk/home/contactus/index.html).[](mailto:technical@dailymailonline.co.uk)[](mailto:technical@dailymailonline.co.uk)
 
@@ -19,17 +19,9 @@ Index
 
   
 
-2.1. You may view (and, where applicable, listen to) the content available on the Site for personal non-commercial use only and subject to your strict compliance with these Terms. You may occasionally print individual webpages on the Site for your private non-commercial use, provided that such printing is not substantial or systematic and our trade marks and copyright and trade mark notices are not removed.
+2.1. You may view (and, where applicable) listen to) the content available on the Site for personal non-commercial use. You may occasionally print individual webpages on the Site for your private non-commercial use, provided that such printing is not substantial or systematic and our trade marks and copyright and trade mark notices are not removed.
 
-2.2. Without limiting clause 2.1 above and unless expressly authorised by us in writing, you must not (whether directly or indirectly) access or use (or permit, authorise or facilitate the access or use of) the Site or any portion of the Site or any data, content, information or services accessed via the Site in any of the following ways (without limitation):
-
-i. to copy, download, extract, collect, 'scrape', obtain, monitor or store all or any part of the content or Site, including whether manually or by way of any 'bot/robot', 'spider', 'scraper' or other automated software, device, algorithm, code, methodology, tool, process or similar technology (other than any such use by a public search engine for the sole purpose of providing direct links to the Site);
-
-ii. to make available, distribute, republish, sell or offer to sell all or any part of the content or Site; or
-
-iii. to use any content, files or data from the Site to make or populate a database or publication of any kind whatsoever, to develop or train any software program (including any machine learning or artificial intelligence systems), or for the purpose of text/ data mining or analysis to generate information which includes but is not limited to patterns, trends and correlations.
-
-The provisions in this clause 2.2 relating to text/data mining and web scraping (a) should be treated as an express reservation of our rights in this regard, and (b) shall not apply insofar as (but only to the extent that) we are unable to exclude or limit text/data mining or web scraping activity by contract under the laws which are applicable to us. If you require any further information on permitted use, or a licence to re publish or otherwise utilise any part of the Site (or any Content), please email us at editorial@dailymailonline.co.uk or contact us by telephone on 020 7938 6000 or contact The Newspaper Licencing Association - www.nla.co.uk.
+2.2. Unless otherwise stated in these Terms, you must not (whether directly or indirectly) copy, download, store, make available, distribute, sell or offer to sell all or any part of the content or Site, or download or otherwise copy (whether directly or indirectly) any content, files or data from the Site to make or populate a database or publication of any kind whatsoever. If you require any further information on permitted use, or a licence to re publish any part of the Site (or any Content), please email us at editorial@dailymailonline.co.uk or contact us by telephone on 020 7938 6000 or contact The Newspaper Licencing Association - www.nla.co.uk.
 
 2.3. You may only play video or audio files using the media player on our Site.
 
