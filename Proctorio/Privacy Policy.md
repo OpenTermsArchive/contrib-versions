@@ -31,7 +31,7 @@ You can customize the Policy to only see the portions that apply to you. Just ch
 Privacy Notice
 --------------
 
-Last modified August 1, 2023.
+Last modified October 27, 2023.
 
 Collecting Personal Information 
 --------------------------------
@@ -438,7 +438,7 @@ Proctorio uses a third-party payment processor to process payments. Proctorio do
 
 ### Third-party service providers
 
-Proctorio uses third-party service providers to help provide Proctorio's Services, such as hosting Proctorio's various blogs, Help Center, and knowledge bases, and to help Institutions understand the use of Proctorio's Services. Since Proctorio uses Zero-Knowledge Encryption for audio, video, screen recordings and images, it is encrypted and not accessible by the third-party service provider. In all instances, third-party services providers can only use any data for Proctorio's business purposes as specified in Proctorio's written agreement with them and not their own purposes. These Services may collect information sent by your browser as part of a web page request, such as cookies or your IP request.
+Proctorio uses third-party service providers to help provide Proctorio's Services, such as hosting Proctorio's various blogs, Help Center, and knowledge bases, and to help Institutions understand the use of Proctorio's Services. Since Proctorio uses Zero-Knowledge Encryption for audio, video, screen recordings and images, it is encrypted and not accessible by the third-party service provider. In all instances, third-party services providers can only use any data for Proctorio's business purposes as specified in Proctorio's written agreement with them and not their own purposes. These Services may collect information sent by your browser as part of a web page request, such as cookies or your IP request. Proctorio remains liable under the DPF Principles if the third-party service providers process any Personal Information in a manner inconsistent with the DPF Principles.
 
 The sub-processors that Proctorio uses are listed below but Proctorio may update this list periodically.
 
@@ -518,7 +518,7 @@ Purpose: Support Services
 
 Location: Serbia
 
-Website: [https://proctorio.com/](https://proctorio.com/)
+Website: [https://proctorio.com](https://proctorio.com/)
 
 #### Twilio
 
@@ -746,7 +746,7 @@ European Economic Area (EEA) or Switzerland User Rights 
 
 Legal basis for processing your Information: If you are a Proctorio user or are visiting Proctorio's Site(s) and are located in the European Economic Area ("EEA"), Proctorio's legal basis for collecting and using the Personal Information described above will depend on the Personal Information concerned and the specific context in which Proctorio collects it. When Proctorio is a processor for an Institution, their Privacy Notice controls the processing of your Personal Information. Proctorio encourages you to read your Institution's Privacy Notice for a legal understanding of how, when, and why your Personal Information may be collected and how it is used.
 
-When Proctorio is a data controller: If you are based in the EEA or Switzerland, you acknowledge that Proctorio may transfer your Information (including Personal Information) to Proctorio and Proctorio's facilities in the United States or elsewhere, including those of third parties as described in the "Business transfers" and "Third-party service providers" sections of this Privacy Notice. Please review Proctorio's Terms of Service for more information regarding any other applicable data protections.
+When Proctorio is a data controller: If you are based in the EEA or Switzerland, you acknowledge that Proctorio may transfer your Information (including Personal Information) to Proctorio and Proctorio's facilities in the United States or elsewhere, including those of third parties as described in the "Business transfers" and "Third-party service providers" sections of this Privacy Notice. Proctorio remains liable under the DPF Principles if the third parties process Personal Information in a manner inconsistent with the DPF Principles. Please review Proctorio's Terms of Service for more information regarding any other applicable data protections.
 
 ### When Proctorio is a controller with respect to your Personal Information, such as for customer support, service, and other inquiries, and you are based in the EEA or Switzerland, you may have other rights as provided below:
 
