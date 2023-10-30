@@ -1,4 +1,4 @@
-Effective as of October 30, 2023 | Posted: October 27, 2023
+Effective date: December 1, 2022
 
 Grammarly Customer Business Agreement
 -------------------------------------
@@ -232,7 +232,7 @@ We will provide Customer with prompt notice of any suspension. 
 Service-Specific Terms
 ----------------------
 
-Effective Date: April 4, 2023  
+Effective Date: October 30, 2023  
   
 These Service-Specific Terms set forth additional terms and conditions that apply to your use of the Services listed below and are made a part of the agreement governing your use of the Services.  Any terms not defined here have the meaning given to them in the agreement governing your use of the Services. Grammarly may update these Service-Specific Terms from time to time, including to add other Service-Specific Terms for new Services made available by Grammarly, by posting an updated version. If an update materially changes any Service-Specific Terms for any Services already purchased by Customer, Grammarly will notify Customer in accordance with the agreement governing your use of the Services.  
   
