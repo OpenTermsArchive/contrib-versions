@@ -445,7 +445,7 @@ The following privacy notices provide additional information about some Google s
 * [Fiber](https://fiber.google.com/legal/privacy.html)
 * [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
 * [Google Workspace for Education](https://workspace.google.com/terms/education_privacy.html)
-* [Read Along](https://readalong.google/intl/en-GB_GB/privacy)
+* [Read Along](https://ssl.gstatic.com/seekh/intl/en/privacy)
 * [YouTube Kids](https://kids.youtube.com/privacynotice)
 * [Google Accounts Managed with Family Link, for Children under 13 (or applicable age in your country)](https://families.google.com/familylink/privacy/child-policy/)
 * [Family Link privacy guide for children and teens](https://families.google.com/familylink/privacy/child-disclosure/?hl=en_GB)
