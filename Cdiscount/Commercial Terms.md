@@ -942,8 +942,11 @@ Pour en savoir plus sur les éco-participations, [cliquez ici](https://www.cdisc
 Conformément aux articles L. 541-10-8 et R. 541-161 et suivants du Code de l'Environnement, vous pouvez bénéficier d’une reprise gratuite de vos anciens produits pour les filières REP suivantes :   
         - DEEE  
         - DEA  
+        - DAB&J  
         - Contenus et contenants des produits chimiques  
-        - Cartouches de gaz combustibles à usage unique. 
+        - Cartouches de gaz combustibles à usage unique  
+        - Jouets  
+        - Sport et loisirs. 
 
 La demande de reprise de votre ancien produit doit respecter le principe du « 1 pour 1 » : CDISCOUNT reprend votre ancien produit pour tout produit neuf de même type acheté sur le Site.  
 _Exemple_ : une machine à laver le linge reprise suite à l’achat d’une nouvelle machine à laver le linge sur notre Site.  
