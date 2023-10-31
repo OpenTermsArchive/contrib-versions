@@ -1,7 +1,7 @@
 Terms of Service
 ----------------
 
-_Last Updated: June 4, 2023_
+_Last Updated: October 31, 2023_
 
 The Gist
 --------
@@ -17,7 +17,7 @@ We’ve made these Terms available under a [Creative Commons Sharealike license]
 Terms of Service
 ----------------
 
-These Terms govern your access to and use of the products and services we provide through or for [WordPress.com](https://wordpress.com/), [WooCommerce.com](https://woocommerce.com/), [WooCommerce Shipping & Tax](https://wordpress.org/plugins/woocommerce-services/), [WooPay](https://pay.woo.com/), [Jetpack.com](https://jetpack.com/), [VaultPress.com](https://vaultpress.com/), [Happy.Tools](https://happy.tools/), [Jetpack CRM](https://jetpackcrm.com/), [MailPoet](http://mailpoet.com/), [WPScan.com](https://wpscan.com/), and [WordPress.com Courses](https://wpcourses.com/) (collectively, “Services”). Please note that WooCommerce-related products and services are intended for commercial use and you acknowledge that your use is that of a representative of a business (as defined by applicable law) and not that of a consumer.
+These Terms govern your access to and use of the products and services we provide through or for [WordPress.com](https://wordpress.com/), [Woo.com](https://woocommerce.com/), [WooPay](https://pay.woo.com/), [Jetpack.com](https://jetpack.com/), [Gravatar.com](https://gravatar.com/), [VaultPress.com](https://vaultpress.com/), [Happy.Tools](https://happy.tools/), [Jetpack CRM](https://jetpackcrm.com/), [MailPoet](http://mailpoet.com/), [WPScan.com](https://wpscan.com/), and [WordPress.com Courses](https://wpcourses.com/) (such products and services, collectively, “Services”). Please note that Woo-related products and services are intended for commercial use and you acknowledge that your use is that of a representative of a business (as defined by applicable law) and not that of a consumer.
 
 These Terms also govern visitors’ access to and use of any websites that use our Services, like the websites that our users create on WordPress.com. Please note though that the operators of those websites may also have their own separate terms of use.
 
@@ -32,14 +32,14 @@ Please read these Terms carefully before accessing or using our Services. By acc
 
 Please see below to determine which entity your Agreement is with, which depends on where you reside and which Services you use. We use the term “Designated Countries” to refer to Australia, Canada, Japan, Mexico, New Zealand, Russia, and all countries located in Europe.
 
-**All Automattic Services (except WooCommerce)**
+**Automattic Services (except Woo)**
 
 * If you reside outside of the Designated Countries: Automattic Inc.
 * If you reside in the Designated Countries: Aut O’Mattic A8C Ireland Ltd.
 
-**WooCommerce Services**
+**Woo Services**
 
-_WooCommerce Services includes WooCommerce, WooCommerce Payments, WooCommerce Shipping, MailPoet, and any products or services purchased from WooCommerce.com._
+_Woo services includes WooCommerce, WooPayments, Woo Shipping, Woo Tax, MailPoet, and other products or services available at Woo.com. (Please note that for the use of Third-Party Services — as defined below — additional terms may govern)._
 
 * If you reside outside of the Designated Countries: WooCommerce, Inc.
 * If you reside in the Designated Countries: WooCommerce Ireland Ltd.
@@ -86,7 +86,7 @@ Please note that additional third-party terms and conditions may apply to Conten
 
 ### a. Automattic Fees
 
-**Fees for Paid Services.** Some of our Services are offered for a fee, like certain [WordPress.com plans](https://wordpress.com/pricing/) or [WooCommerce themes or extensions](https://woocommerce.com/) (collectively, “Paid Services”). This section applies to any purchases of Paid Services.
+**Fees for Paid Services.** Some of our Services are offered for a fee, like certain [WordPress.com plans](https://wordpress.com/pricing/) or Woo themes or extensions (collectively, “Paid Services”). This section applies to any purchases of Paid Services.
 
 By using a Paid Service, you agree to pay the specified fees. Depending on the Paid Service, there may be different kinds of fees, like some that are one-time, recurring, revenue-based, or based on an advertising campaign budget that you set. For recurring fees (AKA subscriptions), your subscription begins on your purchase date, and we’ll bill or charge you in the automatically-renewing interval (such as monthly, annually, or biennially) you select, on a pre-pay basis until you cancel, which you can do at any time by contacting the relevant support team. For revenue-based fees — such as [fees for the Payments feature](https://wordpress.com/support/wordpress-editor/blocks/payments/#related-fees) — you pay us a percentage of the revenue your website generates. Revenue-based fees are ongoing.
 
@@ -96,13 +96,13 @@ By using a Paid Service, you agree to pay the specified fees. Depending on the P
 
 **Automatic Renewal.** By enrolling in a subscription, you authorize us to automatically charge the then-applicable fees and Taxes for each subsequent subscription period until the subscription is canceled. If you received a discount, used a coupon code, or subscribed during a free trial or promotion, your subscription will automatically renew for the full price of the subscription at the end of the discount period. This means that unless you cancel a subscription, it’ll automatically renew and we’ll charge your payment method(s). You must cancel at least one month before the scheduled end date of any annual subscription and at least 24 hours before the end of any shorter subscription period. The date for the automatic renewal is based on the date of the original purchase and cannot be changed. If you’ve purchased access to multiple services, you may have multiple renewal dates.
 
-You can view your renewal date(s), cancel, or manage subscriptions in your settings (for example, [WordPress.com’s Manage Purchases page](https://wordpress.com/me/purchases) or [WooCommerce’s My Subscriptions page](http://woocommerce.com/my-account/my-subscriptions/)) or by contacting the support team.
+You can view your renewal date(s), cancel, or manage subscriptions in your settings (for example, [WordPress.com’s Manage Purchases page](https://wordpress.com/me/purchases) or [Woo’s My Subscriptions page](http://woocommerce.com/my-account/my-subscriptions/)) or by contacting the support team.
 
 **Fees and Changes.** We may change our fees at any time in accordance with these Terms and requirements under applicable law. This means that we may change our fees going forward, start charging fees for Services that were previously free, or remove or update features or functionality that were previously included in the fees. If you don’t agree with the changes, you must cancel your Paid Service.
 
 **Refunds.** We may have a refund policy for some of our Paid Services, and we’ll also provide refunds if required by law. In all other cases, there are no refunds and all payments are final.
 
-We also have a “no-show policy” for some Paid Services that require your participation (for example, our [Quick Start sessions](https://wordpress.com/support/quickstart-support)). This means that if you don’t show up for, don’t participate in, or are late for a scheduled session, you’ll still be charged for the Paid Service and won’t be entitled to a refund.
+We may have a “no-show policy” for some Paid Services that require your participation. This means that if you don’t show up for, don’t participate in, or are late for a scheduled session, you’ll still be charged for the Paid Service and won’t be entitled to a refund.
 
 European Users: You have the right to withdraw from the transaction within fourteen (14) days from the date of the purchase without giving any reason as long as your purchase was not of a customized nature, the service has not been fully performed, or subject to other limitations as permitted by law. For digital content, you agree that any purchase of digital content will be made available to you immediately and as a result you waive any right of withdrawal to such content.
 
@@ -114,7 +114,7 @@ You may exercise your right to withdrawal by sending a clear, written request to
 
 **Fees Paid to Websites or Website Owners.** Website owners can sell items (goods, content, services, etc.), offer subscriptions for their websites at specific price points and intervals, or simply collect payments. We’re not involved in a website’s subscription details or store operations (including the quality, timing, pricing, or legality of what may or may not be included in exchange for payment, or any goods or services purchased). If you buy items or subscriptions from a website, you’re making the purchase directly from the website owner, and they’re solely responsible for the items sold. Please contact the website owner if you have any questions or complaints.
 
-**Automatic Renewal.** Any recurring payments you make to a website owner (like a [website subscription](https://wordpress.com/support/recurring-payments/)) are automatically renewed. This means that unless you or the website owner cancels your website subscription before the end of the subscription period, it’ll automatically renew and your payment method will be charged. For example, if you select an annually renewing website subscription, you’ll be automatically charged once each year until the subscription is canceled. You can view the renewal dates or cancel your website subscriptions on your [Other Site Payments page](https://wordpress.com/me/purchases/other).
+**Automatic Renewal.** Any recurring payments you make to a WordPress.com website owner (like a [website subscription](https://wordpress.com/support/recurring-payments/)) are automatically renewed. This means that unless you or the website owner cancels your website subscription before the end of the subscription period, it’ll automatically renew and your payment method will be charged. For example, if you select an annually renewing website subscription, you’ll be automatically charged once each year until the subscription is canceled. You can view the renewal dates or cancel your website subscriptions on your [Purchases page](https://wordpress.com/me/purchases/other).
 
 **Refunds.** We’re not responsible for refunding fees paid to a website owner because those transactions are between website owners and their users. If you’d like to request a refund, please contact the website owner. If you have a complaint regarding a website owner, you can [contact us](https://en.wordpress.com/abuse/).
 
@@ -129,7 +129,7 @@ We love hearing from you and are always looking to improve our Services. When yo
 Our mission is to make the web a better place, and our Services are designed to give you control and ownership over your websites. We encourage you to express yourself freely, subject to a few requirements. In particular, you represent and warrant that your use of our Services:
 
 * Will be in strict accordance with the Agreement;
-* Will comply with all applicable laws and regulations (including, without limitation, all applicable laws regarding online conduct and acceptable content, privacy, data protection, the transmission of technical data exported from the United States or the country in which you reside, the use or provision of financial services, notification and consumer protection, unfair competition, and false advertising);
+* Will comply with all applicable laws and regulations (including, without limitation, all applicable laws regarding online conduct and acceptable content, licensing, privacy, data protection, the transmission of technical data exported from the United States or the country in which you reside, the use or provision of financial services, notification and consumer protection, unfair competition, and false advertising);
 * Will not be for any unlawful purposes, to publish illegal content, or in furtherance of illegal activities;
 * Will not infringe or misappropriate the intellectual property rights of Automattic or any third party;
 * Will not overburden or interfere with our systems or impose an unreasonable or disproportionately large load on our infrastructure, as determined by us in our sole discretion;
@@ -159,7 +159,7 @@ If you find a WordPress.com website that you believe violates these Terms, pleas
 
 **Web Traffic.** We may use a third-party service to measure WordPress.com’s audience and usage. By having your website on WordPress.com, you agree to assign the traffic for your website to Automattic, and you authorize us to sign a Traffic Assignment Letter on your behalf. This means that your website’s traffic may be included under Automattic, your website may not receive credit for traffic in the respective reports, and you must not assign your website’s traffic to any other party. If we require additional documentation to verify ownership of your website or domain name, you agree to make reasonable efforts to provide it.
 
-**Prohibited Uses.** Your Content and conduct must not violate the [WordPress.com User Guidelines](https://en.support.wordpress.com/user-guidelines/) or the [VideoPress Service Guidelines](https://videopress.com/service-guidelines) if you use our Services to upload videos. You must comply with our [advertising policy](https://automattic.com/advertising-policy/) if you use our advertising features, like Blaze.
+**Prohibited Uses.** Your Content and conduct must not violate the [WordPress.com User Guidelines,](https://en.support.wordpress.com/user-guidelines/) or the [VideoPress Service Guidelines](https://videopress.com/service-guidelines) if you use our Services to upload videos.
 
 **HTTPS.** We offer free HTTPS on all WordPress.com websites by default, including those using custom domains, via [Let’s Encrypt](https://letsencrypt.org/). By signing up and using a custom domain on WordPress.com, you authorize us to represent that you have the power and authority to act on the domain name registrant’s behalf (by requesting the necessary certificates, for example) for the sole purpose of providing HTTPS on your website.
 
@@ -183,27 +183,29 @@ When you register a domain, you’re required to provide complete and accurate r
 
 If we provide you with a refund for your purchase of Built By WordPress.com Express, you may not use the website or its layout, web design, content, or other development we have provided to you, and we reserve the right to delete or revert the website to its previous state.
 
-### b. WooCommerce
+### b. Woo
 
-WooCommerce is an open source, customizable ecommerce platform. The Services we offer at WooCommerce.com give you the power to sell your products and services in whatever way your business needs.
+Woo is an open source, customizable ecommerce platform. The Services we offer at Woo.com give you the power to sell your products and services in whatever way your business needs.
 
-Your use of certain Services offered via WooCommerce.com or [WooCommerce Shipping & Tax](https://docs.woocommerce.com/document/woocommerce-services/), like those related to tax calculation, payment, and shipping, may require Jetpack to function. If you enable those features, the Jetpack-specific terms also apply.
+Your use of certain Services offered via Woo, like those related to tax calculation, payment, and shipping, may require a Jetpack connection to function. If you enable those features, the Jetpack-specific terms also apply.
 
-**Compatibility, access, updates, and support.** When you purchase Paid Services for WooCommerce, you’ll receive access to any necessary downloads along with updates and support for those Paid Services for a period of one year, starting on the date of your purchase. Once your year is up, you’ll need to renew your subscription if you’d like continued access to updates or support, or if you need to download any files again. Please see our [Support Policy](https://woocommerce.com/support-policy/) for more information.
+**Extensions.** The software in the extensions available in the Woo Marketplace is licensed under GPL. Extensions may have their own requirements (like requiring a connection to their servers in order to provide their services) and terms that apply.
+
+**Compatibility, access, updates, and support.** When you purchase Paid Services from Woo.com, you’ll receive access to any necessary downloads along with updates and support (as described in our [Support Policy](https://woocommerce.com/support-policy/)) for those Paid Services for a period of one year, starting on the date of your purchase. Once your year is up, you’ll need to renew your subscription if you’d like continued access to updates or support, or if you need to download any files again.When you purchase Woo Paid Services as part of a Jetpack subscription or bundle, you’ll have access to them as long as you have an active Jetpack plan.
 
 Please note that extensions and themes are purchased and handled separately, and may function independently. While many work well in tandem, that may not always be the case.
 
 ### c. WooPay
 
-WooPay is a service that facilitates faster checkouts on sites using WooCommerce, by enabling you to save certain of your information to make purchases on those sites.
+WooPay is a service that facilitates faster checkouts on sites using Woo, by enabling you to save some of your information, such as shipping and payment information, for future purchases.
 
-Sites using WooCommerce may offer you the ability to use WooPay. If you elect to use WooPay, your payment method information will be saved for use on any site that has integrated WooPay. To take advantage of WooPay for future purchases, you must use the same web browser that you used to sign up for WooPay and must not have cleared your cookies (otherwise you may be required to re-enroll). You agree to follow any other steps we require to help verify your identity as part of the enrollment or purchase process, including via email or SMS text message confirmations. Enrolling in WooPay will create a WordPress.com account for you if you don’t already have one. WooPay is designed to allow you to save certain information, such as shipping and payment information, for future purchases. You must keep your WooPay information accurate and up-to-date. You can update your WooPay information by accessing your [WooPay Dashboard](https://pay.woo.com/account/) using the email and phone number you signed up with. You should only use WooPay on a device that you own or control and it is your responsibility to prevent others from accessing your device’s web browser to help prevent unauthorized purchases through WooPay.
+Sites using WooCommerce may offer you the ability to use WooPay. If you elect to use WooPay, your payment method information will be saved for use on any site that has integrated WooPay. To take advantage of WooPay for future purchases, you must use the same web browser that you used to sign up for WooPay and must not have cleared your cookies or you must select the option to checkout with WooPay. You agree to follow any other steps we require to help verify your identity as part of the enrollment or purchase process, including via email or SMS text message confirmations. Enrolling in WooPay will create a [WooPay account](https://pay.woo.com/account/) for you if you don’t already have one. You must keep your WooPay information accurate and up-to-date. You can update your WooPay information by accessing your [WooPay Dashboard](https://pay.woo.com/account/) using the email and phone number you signed up with. You should only use WooPay on a device that you own or control and it is your responsibility to prevent others from accessing your device’s web browser to help prevent unauthorized purchases through WooPay.
 
 Even when your saved WooPay information is used for a transaction, the transaction remains only between you and the merchant. Requesting the deletion of your WooPay information will not cancel any transactions you have already made or terminate any subscriptions you have already enrolled in. To cancel a transaction or terminate a subscription, you must contact the merchant directly.
 
 ### d. Jetpack
 
-Jetpack supercharges your site by connecting to our infrastructure via various Jetpack plugins developed by Automattic (like Jetpack, Jetpack Boost, and Jetpack Search). To take advantage of the valuable features of Jetpack, your website is synced with our servers, as described on our [What Data Does Jetpack Sync? support page](https://jetpack.com/support/what-data-does-jetpack-sync/). Any content you publish on a self-hosted website connected to Jetpack (“Jetpack Content”) remains under your ownership and control.
+Jetpack supercharges your site by connecting to our infrastructure, either via a Jetpack connection or via various Jetpack plugins developed by Automattic (like Jetpack, Jetpack Boost, and Jetpack Search). To take advantage of the valuable features of Jetpack, your website is synced with our servers, as described on our [What Data Does Jetpack Sync? support page](https://jetpack.com/support/what-data-does-jetpack-sync/). Any content you publish on a self-hosted website connected to Jetpack (“Jetpack Content”) remains under your ownership and control.
 
 **Features and Enhanced Distribution.** Jetpack includes various features, some of which are [on by default](https://jetpack.com/support/default-features/) when you activate Jetpack, and others that you need to enable manually. You can see your active features and choose which to activate or deactivate on your dashboard.
 
@@ -213,7 +215,7 @@ The [Enhanced Distribution](https://jetpack.com/support/enhanced-distribution/) 
 
 You grant us a worldwide, royalty-free, transferable, sub-licensable, non-exclusive license to use, reproduce, modify, distribute, adapt, publicly display, publish, copy, and store Jetpack Content for the purpose of providing and improving our products and Services and promoting your websites. This license also allows us to make any publicly-posted Content available to select third parties (through [Firehose](https://developer.wordpress.com/docs/firehose/), for example) so that these third parties can analyze and distribute (but not publicly display) the Content through their services.
 
-**Prohibited Uses.** Your website and Jetpack Content must comply with [Jetpack’s Service Guidelines](https://jetpack.com/service-guidelines/), and you must comply with our [advertising policy](https://automattic.com/advertising-policy/) if you use our advertising features, like Blaze.
+**Prohibited Uses.** Your website and Jetpack Content must comply with [Jetpack’s Service Guidelines](https://jetpack.com/service-guidelines/).
 
 ### e. Jetpack CRM
 
@@ -233,9 +235,13 @@ VaultPress is a subscription-based security and backup service for self-hosted W
 
 You also grant us a worldwide, royalty-free, transferable, sub-licensable, and non-exclusive license to use, reproduce, modify, distribute, adapt, and store your VaultPress Content for the purpose of operating and improving our products and Services.
 
-### g. Ecommerce Services
+### g. Blaze
 
-We offer Services and certain features via [WooCommerce](https://woocommerce.com/), [WooCommerce Shipping & Tax](https://wordpress.org/plugins/woocommerce-services/), [WordPress.com](https://wordpress.com/), and [Jetpack](https://jetpack.com/) that enable you to sell items (goods, content, services, etc.), receive payments on your website, or otherwise earn money, like [WooCommerce Payments](https://woocommerce.com/payments/), [WooPay](https://pay.woo.com/), the [Payments feature](https://wordpress.com/support/wordpress-editor/blocks/payments/), and the [Pay with PayPal block](https://wordpress.com/support/pay-with-paypal/) (collectively, “Ecommerce Services”).
+Blaze enables you to advertise on some of the millions of pages across WordPress.com, Tumblr, and sites enrolled in [WordAds](https://wordads.co/). If you use Blaze (which may be available through our other Services), you must comply with our [advertising policy](https://automattic.com/advertising-policy/).
+
+### h. Ecommerce Services
+
+We offer Services via [Woo](https://woocommerce.com/), [WordPress.com](https://wordpress.com/), and [Jetpack](https://jetpack.com/) that enable you to sell items (goods, content, services, etc.), receive payments on your website, or otherwise earn money, like [WooPayments](https://woocommerce.com/payments/), [WooPay](https://pay.woo.com/), and the [Payments feature](https://wordpress.com/support/wordpress-editor/blocks/payments/) (collectively, “Ecommerce Services”).
 
 If you use Ecommerce Services, the terms in this subsection apply, along with the terms for any underlying Service that you use.
 
@@ -260,31 +266,31 @@ If you use Ecommerce Services, the terms in this subsection apply, along with th
 
 * Ecommerce Services cannot be used in, from, by, or for the benefit of a country, organization, entity, or person embargoed or blocked by any government, including those on [sanctions lists identified by the United States Office of Foreign Asset Control (OFAC)](https://www.treasury.gov/resource-center/sanctions).
 * If you’re using Ecommerce Services, you must observe all [Store Guidelines](https://en.support.wordpress.com/store-guidelines/) and, if hosted on WordPress.com, the [User Guidelines](https://en.support.wordpress.com/user-guidelines/) as well.
-* If you’re using Ecommerce Services to sell CBD and other hemp-derived products via WooCommerce, you must follow the [WooCommerce Guidelines for CBD and Other Hemp-Derived Products](https://docs.woocommerce.com/document/woocommerce-cbd/).
+* If you’re using Ecommerce Services to sell CBD and other hemp-derived products using Woo, you must follow the [Woo Guidelines for CBD and Other Hemp-Derived Products](https://docs.woocommerce.com/document/woocommerce-cbd/).
 
 We may terminate your access to our Services or force refunds (where possible) to your subscribers and customers without notice to you if we determine (in our sole discretion) that your use violates the Agreement, or if a payment processor or regulatory authority requires it.
 
-**Fees and Negative Balances.** In some cases, you pay us fees relating to the Ecommerce Services you use. For example, the fee for the Payments feature is a [percentage](https://wordpress.com/support/wordpress-editor/blocks/payments/#related-fees) (which depends on your plan) of the revenue your website generates through the Payment feature, and when you use the feature, you authorize Stripe to direct payment of that percentage to us. As another example, if you use WooCommerce Payments, there are [transaction fees and dispute fees](https://docs.woocommerce.com/document/payments/faq/fees/). Please note that we have no obligation to reimburse or refund these revenue-based fees when you issue refunds to your subscribers or customers.
+**Fees and Negative Balances.** In some cases, you pay us fees relating to the Ecommerce Services you use. For example, the fee for the Payments feature is a [percentage](https://wordpress.com/support/wordpress-editor/blocks/payments/#related-fees) (which depends on your plan) of the revenue your website generates through the Payment feature, and when you use the feature, you authorize Stripe to direct payment of that percentage to us. As another example, if you use WooPayments, there are [transaction fees and dispute fees](https://docs.woocommerce.com/document/payments/faq/fees/). Please note that we have no obligation to reimburse or refund these revenue-based fees when you issue refunds to your subscribers or customers.
 
 If you have a negative account balance (for example because of fraud, chargebacks, or other operational issues) or we’re obligated to pay or collect any fees relating to your ecommerce activities or your use of Ecommerce Services, you’re responsible for those losses and fees, and we may collect payment for those losses and fees.
 
-**Tax Calculations.** While some Ecommerce Services allow you to include sales taxes in transactions — for example, tax calculations may be provided by TaxJar — you shouldn’t rely solely on these features. We work to keep our documents and tools up-to-date, but tax laws change rapidly; and we can’t guarantee that tax calculations you receive through or in connection with our Services are complete and accurate. Tax laws also differ from jurisdiction to jurisdiction and may be interpreted differently by different authorities. We recommend consulting with a tax professional for your specific tax situation to assess the tax rates you should charge.
+**Tax Calculations.** While some Ecommerce Services allow you to include sales taxes in transactions — for example, tax calculations may be provided by Taxamo — you shouldn’t rely solely on these features. We work to keep our documents and tools up-to-date, but tax laws change rapidly; and we can’t guarantee that tax calculations you receive through or in connection with our Services are complete and accurate. Tax laws also differ from jurisdiction to jurisdiction and may be interpreted differently by different authorities. We recommend consulting with a tax professional for your specific tax situation to assess the tax rates you should charge.
 
 If we’re obligated to pay or collect Taxes on your ecommerce activities or your use of Ecommerce Services, you’re responsible for these Taxes, and we may collect payment for them from you.
 
-**Third-Party Services.** You may decide to use third-party services, like [Stripe](https://stripe.com/) or [PayPal](https://www.paypal.com/) to collect payment, [TaxJar](https://www.taxjar.com/) to calculate Taxes, or [EasyPost](https://www.easypost.com/) to manage shipping. Please note that WooCommerce Payments is powered by Stripe. If you use WooCommerce Payments or any third-party services, some of your — and your customers’ — data may be submitted directly to or passed to the respective third party, and the respective third party’s terms of service, privacy policy, and other policies may apply. For example, [Payments](https://wordpress.com/support/wordpress-editor/blocks/payments/) requires a Stripe account to manage payments, and when you use Stripe, you agree to [their terms and policies](https://stripe.com/legal). Please note that third-party services may also charge you fees to use or access their services, [as Stripe does for Payments](https://wordpress.com/support/wordpress-editor/blocks/payments/#related-fees).
+**Third-Party Services.** You may decide to use third-party services, like [Stripe](https://stripe.com/) or [PayPal](https://www.paypal.com/) to collect payment or [EasyPost](https://www.easypost.com/) to manage shipping. Please note that WooPayments is powered by Stripe. If you use WooPayments or any third-party services, some of your — and your customers’ — data may be submitted directly to or passed to the respective third party, and the respective third party’s terms of service, privacy policy, and other policies may apply. For example, [Payments](https://wordpress.com/support/wordpress-editor/blocks/payments/) requires a Stripe account to manage payments, and when you use Stripe, you agree to [their terms and policies](https://stripe.com/legal). Please note that third-party services may also charge you fees to use or access their services, [as Stripe does for Payments](https://wordpress.com/support/wordpress-editor/blocks/payments/#related-fees).
 
 We’re not involved in these relationships, but may facilitate transactions or communication. For example, we may, on your behalf, receive notices or forms relating to your Stripe account.
 
-Some of these third party services (like TaxJar, if you use [Store](https://en.support.wordpress.com/store/)) may be enabled by default, but you can disable them before launching your store if you don’t want to use them.
+Some of these third party services may be enabled by default, but you can disable them before launching your store if you don’t want to use them.
 
-**More on WooCommerce Payments Specifically.** As part of WooCommerce Payments, we may use certain third parties to fulfill our obligations to you, including integrating with payment processing third parties. You may be subject to the terms and conditions of those third parties, and using WooCommerce Payments means you agree to comply with those terms and conditions. In particular, you cannot use WooCommerce Payments to enable any person (including you) to benefit from [restricted businesses or activities](https://wordpress.com/support/restricted-businesses-and-activities/). If we use another third party to fulfill these services, you authorize us to share your payment method information with an alternative third-party payment processor that is or will be integrated into WooCommerce Payments.
+**More on WooPayments Specifically.** As part of WooPayments, we may use certain third parties to fulfill our obligations to you, including integrating with payment processing third parties. You may be subject to the terms and conditions of those third parties, and using WooPayments means you agree to comply with those terms and conditions. In particular, you cannot use WooPayments to enable any person (including you) to benefit from [restricted businesses or activities](https://wordpress.com/support/restricted-businesses-and-activities/). If we use another third party to fulfill these services, you authorize us to share your payment method information with an alternative third-party payment processor that is or will be integrated into WooPayments.
 
-We may refuse, condition, or suspend any transaction or account (including your use of WooCommerce Payments) if we believe you have violated the Agreement or that your activities or transactions expose you, us, or others to unacceptable risks, as determined by us in our sole discretion.
+We may refuse, condition, or suspend any transaction or account (including your use of WooPayments) if we believe you have violated the Agreement or that your activities or transactions expose you, us, or others to unacceptable risks, as determined by us in our sole discretion.
 
-You authorize us to share data relating to WooCommerce Payments with the applicable payment processing third party for their use in accordance with their privacy policy. Please refer to our privacy policy for details on how we otherwise collect, use, and disclose data made available to us as part of WooCommerce Payments.
+You authorize us to share data relating to WooPayments with the applicable payment processing third party for their use in accordance with their privacy policy. Please refer to our privacy policy for details on how we otherwise collect, use, and disclose data made available to us as part of WooPayments.
 
-We may also offer you the ability to process certain transactions in-person through an in-person payments feature. As part of this feature, you may purchase or we may provide you with a point-of-sale (POS) terminal. These POS terminals are manufactured by third parties and are provided “as-is” and “with all faults.” Neither we or the third-party manufacturer offers you any warranty on these products.
+We may also offer you the ability to process certain transactions in-person through an in-person payments feature. As part of this feature, you may purchase or we may provide you with a point-of-sale (POS) terminal. These POS terminals are manufactured by third parties and are provided “as-is” and “with all faults.” Neither we nor the third-party manufacturer offers you any warranty on these products.
 
 If you receive a POS terminal, you agree to: (a) use it for your own lawful commercial purposes only, and not for any personal, family, or household use; (b) the [Stripe Terminal Services Terms](https://stripe.com/terminal/legal) and [Stripe Terminal Purchase Terms](https://stripe.com/terminal-purchase/legal) as applicable; (c) comply with all applicable international and national laws and regulations, including applicable customs or export control laws or regulations; (d) use it only within the country that we shipped it to, except that you may use a terminal that was shipped to the European Economic Area in another country in the European Economic Area, if that country is [supported](https://stripe.com/docs/terminal/readers/placing-orders); and (e) if you obtain equipment, software, or accessories branded by Verifone and shipped to you to an address in the United Kingdom or European Economic Area, you agree to comply with the [Verifone Minimum Terms](https://stripe.com/us/verifone/legal), as applicable.
 
@@ -292,7 +298,11 @@ You’ll be responsible for all shipping and handling charges for the POS termin
 
 Unless a refund is required by law, there are no refunds for POS terminals and all transactions are final.
 
-**More on WooPay Specifically.** When you use WooCommerce Payments, WooPay may be available as a checkout option on your checkout page unless you remove it from your checkout options through your administrative controls. WooPay may not be available in all languages or jurisdictions, and we make no representation that WooPay is available for use in all locations or for all products or services. The use of saved WooPay information for a transaction does not change your obligations relating to the transaction, and we make no representations or warranties that the saved WooPay information is accurate or that the WooPay user is authorized to use any payment information they saved with WooPay. You acknowledge and agree that we are not and do not become a party to the transaction between you and your customer as a result of the use of WooPay and that we will not be responsible for any aspect of the products or services that you sell. By enabling WooPay on your site, you acknowledge that we may collect and process information about you, your customers, and your orders pursuant to our [privacy policy](https://automattic.com/privacy/). You will comply with any additional terms and conditions required by any third-party services associated with your use of WooPay.
+**More on WooPay Specifically.** When you use WooPayments, WooPay may be available as a checkout option on your checkout page unless you remove it from your checkout options through your administrative controls. WooPay may not be available in all languages or jurisdictions, and we make no representation that WooPay is available for use in all locations or for all products or services. The use of saved WooPay information for a transaction does not change your obligations relating to the transaction, and we make no representations or warranties that the saved WooPay information is accurate or that the WooPay user is authorized to use any payment information they saved with WooPay. You acknowledge and agree that we are not and do not become a party to the transaction between you and your customer as a result of the use of WooPay and that we will not be responsible for any aspect of the products or services that you sell. By enabling WooPay on your site:
+
+* You acknowledge that we may collect and process information about you, your customers, and your orders pursuant to our [privacy policy](https://automattic.com/privacy/);
+* You are bound to [Google’s Terms of Service](http://www.google.com/intl/en/policies/terms) (because WooPay uses [Google’s Places API](https://developers.google.com/maps/documentation/places/web-service/overview) for a smoother checkout for your customers);
+* You will comply with any additional terms and conditions required by any third-party services associated with your use of WooPay.
 
 **More on Shipping Services Specifically.** Our shipping Services allow you to check shipping rates or buy shipping labels from certain mailing services, like [UPS](https://www.ups.com/), [USPS](https://www.usps.com/), [DHL](https://www.dhl.com/), and [Canada Post](https://www.canadapost.ca/). We’re only an intermediary between you and these third parties; we aren’t involved in any way with your product or its shipment. We also don’t guarantee that the results you obtain from the use of these services (like rates, labels, or delivery timeframes) will be accurate or reliable.
 
@@ -313,7 +323,7 @@ Refunds for unused shipping labels must be requested ([like so for USPS](https:/
 
 You may not transfer or sell postage and/or shipping labels to a third party.
 
-### h. Artificial Intelligence
+### i. Artificial Intelligence
 
 We may offer features that incorporate artificial intelligence (AI), like blocks or plugins that enable you to use AI to generate content or images for your website or store.
 
@@ -329,18 +339,18 @@ As we ask others to respect our intellectual property rights, we respect the int
 10\. Intellectual Property
 --------------------------
 
-The Agreement doesn’t transfer any Automattic or third-party intellectual property to you, and all right, title, and interest in and to such property remains (as between Automattic and you) solely with Automattic. Automattic, WordPress, WordPress.com, WooCommerce, Jetpack, VaultPress, Happy Tools, Jetpack CRM, MailPoet, and all other trademarks, service marks, graphics, and logos used in connection with our websites or Services are trademarks or registered trademarks of Automattic (or Automattic’s licensors). Other trademarks, service marks, graphics, and logos used in connection with our Services may be the trademarks of other third parties. Using our Services doesn’t grant you any right or license to reproduce or otherwise use any Automattic or third-party trademarks.
+The Agreement doesn’t transfer any Automattic or third-party intellectual property to you, and all right, title, and interest in and to such property remains (as between Automattic and you) solely with Automattic. Automattic, WordPress, WordPress.com, Woo, Jetpack, VaultPress, Happy Tools, Jetpack CRM, MailPoet, and all other trademarks, service marks, graphics, and logos used in connection with our websites or Services are trademarks or registered trademarks of Automattic (or Automattic’s licensors). Other trademarks, service marks, graphics, and logos used in connection with our Services may be the trademarks of other third parties. Using our Services doesn’t grant you any right or license to reproduce or otherwise use any Automattic or third-party trademarks.
 
 11\. Third-Party Services
 -------------------------
 
 While using the Services, you may enable, use, or purchase services, products, software, embeds, or applications (like themes, extensions, plugins, blocks, or point-of-sale terminals) provided or manufactured by a third party or yourself (“Third-Party Services”).
 
-If you use any Third-Party Services, you understand that:
+If you use any Third-Party Services, you understand and agree that:
 
 * Third-Party Services aren’t vetted, endorsed, or controlled by Automattic.
-* Any use of a Third-Party Service is at your own risk, and we won’t be responsible or liable to anyone for Third-Party Services.
-* Your use is solely between you and the respective third party (“Third Party”) and is governed by the Third Party’s terms and policies.
+* Any use of a Third-Party Service is at your own risk, and we won’t be responsible or liable to you or anyone else for Third-Party Services.
+* Even if you purchase a third-party extension through a marketplace we operate, any services related to that extension are subject to and governed by the terms and policies of the third party (“Third Party”).
 * Some Third-Party Services may request or require access to your data — or to your visitors’ or customers’ data — through things like pixels or cookies. If you use the Third-Party Service or grant them access, the data will be handled in accordance with the Third Party’s privacy policy and practices, which you should carefully review before you use any Third-Party Services. Third-Party Services may not work appropriately with our Services and we may not be able to provide support for issues caused by any Third-Party Services.
 * If you have questions or concerns about how a Third-Party Service operates or need support, contact the Third Party directly.
 
@@ -351,7 +361,7 @@ If you purchase Google Workspace or G Suite, there are a few other things we wan
 12\. Changes
 ------------
 
-We may modify the Terms from time to time, for example, to reflect changes to our Services (e.g., adding new features or benefits to our Services or retiring certain features of certain Services) or for legal, regulatory, or security reasons. If we do this, we’ll provide notice of the changes, such as by posting the amended Terms and updating the “Last Updated” date or, if the changes, in our sole discretion, are material, we may notify you through our Services or other communications. Any changes will apply on a going-forward basis, and, unless we say otherwise, the amended Terms will be effective immediately. By continuing to use our Services after we’ve notified you, you agree to be bound by the new Terms. You have the right to object to any changes at any time by ceasing your use of our Services and may cancel any subscription you have.
+We may modify the Terms from time to time, for example, to reflect changes to our Services (e.g., adding new features or benefits to our Services or retiring certain features of certain Services) or for legal, regulatory, or security reasons. If we do this, we’ll provide notice of the changes, such as by posting the amended Terms and updating the “Last Updated” date or, if the changes, in our sole discretion, are material, we may notify you through our Services or other communications. Any changes will apply on a going-forward basis, and, unless we say otherwise, the amended Terms will be effective immediately. By continuing to use our Services after we’ve notified you, you agree to be bound by the new Terms. You have the right to object to any changes at any time by ceasing your use of our Services and canceling any subscription you have.
 
 13\. Termination
 ----------------
@@ -380,7 +390,7 @@ European Users: If we cause damage to you and you are a consumer in Europe, we l
 17\. Indemnification
 --------------------
 
-You agree to indemnify and hold harmless Automattic, its contractors, and its licensors, and their respective directors, officers, employees, and agents from and against any and all losses, liabilities, demands, damages, costs, claims, and expenses, including attorneys’ fees, arising out of or related to your use of our Services, including but not limited to your violation of the Agreement or any agreement with a provider of third-party services used in connection with the Services, Content that you post, and any ecommerce activities conducted through your or another user’s website.
+You agree to indemnify and hold harmless Automattic, its contractors, and its licensors, and their respective directors, officers, employees, and agents from and against any and all losses, liabilities, demands, damages, costs, claims, and expenses, including attorneys’ fees, arising out of or related to your use of our Services, including but not limited to your violation of the Agreement or any agreement with a provider of third-party services used in connection with the Services or applicable law, Content that you post, and any ecommerce activities conducted through your or another user’s website.
 
 18\. US Economic Sanctions
 --------------------------
@@ -404,6 +414,6 @@ The Agreement (together with any other terms we provide that apply to any specif
 
 Automattic may assign its rights under the Agreement without condition. You may only assign your rights under the Agreement with our prior written consent.
 
-[Print friendly version](https://wpcom.files.wordpress.com/2023/06/tos-06-04-23.pdf)
+[Print friendly version](https://en.support.files.wordpress.com/2023/10/wordpress.com-terms-of-service-wordpresscom.pdf)
 
 [**Change log**](https://wordpress.com/tos-change-log)
