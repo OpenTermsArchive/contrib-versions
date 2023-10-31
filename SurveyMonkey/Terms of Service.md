@@ -14,7 +14,7 @@ Introduction
 
 _These are terms that will apply to your use of our Services.  You should read these terms thoroughly, but for your convenience, we provide annotations in boxes like this one throughout.  Please note that these annotations have no legal effect and are not part of our official terms._
 
-_Effective as of August 1, 2023, Momentive Inc. will become SurveyMonkey Inc., Momentive Europe UC will become SurveyMonkey Europe UC, and Momentive Brasil Internet Eireli will become SurveyMonkey Brasil Internet Eireli_.
+_Effective as of August 1, 2023, Momentive Inc. became SurveyMonkey Inc., Momentive Europe UC became SurveyMonkey Europe UC, and Momentive Brasil Internet Eireli became SurveyMonkey Brasil Internet Ltda_.
 
 These Terms of Use (“TOU”) apply to your access and use of SurveyMonkey's products, services, websites, and apps that you purchase or sign up for on SurveyMonkey's websites and which are branded as “Momentive”, “SurveyMonkey”, “Wufoo” or “GetFeedback” (collectively the “**Service(s)**”). These TOU do not apply to Services which are available solely through our [enterprise sales](https://www.surveymonkey.com/enterprise/?form_autoload=&ut_source=pricing_page&ut_source2=terms-of-use&ut_source3=inline) channel.
 
