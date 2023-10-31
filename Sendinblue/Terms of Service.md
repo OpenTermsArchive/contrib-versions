@@ -203,7 +203,7 @@ Accounts with the following activities will only be validated under certain cond
 
 #### 5.1 Responsibilities and guarantees of Brevo
 
-Except in cases of force majeure, Brevo guarantees to the Users the proper performance of its service rendered in compliance with these General Conditions of Use.
+Except in cases of force majeure, Brevo is bound to due care in performing its service rendered in compliance with these General Conditions of Use. Brevo shall in no way be held liable for the consequences of indirect damage and compensation for indirect damage is strictly excluded.Indirect damage shall include loss of data, time, profits, turnover, margins, orders, customers, operating loss, loss of revenue, business actions, as well as damage to brand image, loss of expected results and third-party action.
 
 Any potential compensation due from Brevo, to the User or to a third party, due to the liability of Brevo, its subsidiaries or its partners, in respect of the performance of these conditions, shall not exceed the price paid by the User for the Services giving rise to the liability in the six (6) months preceding the first incident out of which the liability arose.
 
