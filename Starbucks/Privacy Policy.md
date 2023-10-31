@@ -333,3 +333,5 @@ Additional contact information may be found below for various Starbucks entities
     * Customer Service
         * [http://customerservice.starbucks.com](http://customerservice.starbucks.com/)
         * : 800-Starbuc (782-7282)
+
+[![TRUSTe](https://content-prod-live.cert.starbucks.com/binary/v2/asset/144-87279.png)](https://privacy.truste.com/privacy-seal/validation?rid=625f045f-b082-4cd8-af08-fcf9445e95d8)
