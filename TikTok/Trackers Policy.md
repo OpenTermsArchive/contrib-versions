@@ -143,10 +143,10 @@ We also deploy tracking technologies from the following third parties for the fo
 * Purpose: To improve our marketing campaigns, including to track ad conversions from ads for TikTok shown on Reddit, build targeted audiences, optimise TikTok ads on third party websites and apps for current and future visitors and remarket to people who have already taken action on our Websites or on TikTok ads.
 * Duration: 24 months
 
-* Criteo Pixel ([https://www.criteo.com/privacy/](https://www.criteo.com/privacy/))
+* HubSpot Cookie ([https://legal.hubspot.com/privacy-policy](https://legal.hubspot.com/privacy-policy))
 
-* Purpose: To improve our marketing campaigns, including to track ad conversions from ads for TikTok shown on Criteo, build targeted audiences, optimise TikTok ads on third party websites and apps for current and future visitors and remarket to people who have already taken action on our Websites or on TikTok ads.
-* Duration: 24 months
+* Purpose: To improve our marketing campaigns, including to track conversions from emails we distribute. We also use HubSpot for analytics purposes, to analyse website usage, including how you navigated to our website.
+* Duration: 12 months
 
 **3\. How to accept or refuse cookies**
 ---------------------------------------
