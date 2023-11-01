@@ -1,4 +1,4 @@
-_Last Updated: June 16, 2023_
+_Last Updated: November 1, 2023_
 
 **1\. Introduction**
 --------------------
@@ -22,14 +22,16 @@ The following terms are defined as follows:
 
 2.4 “Personal data” refers to any information relating to an identified or identifiable natural person, including names, identification numbers, location data, an online identifier, or to one or more factors specific to the physical, economic, cultural or social identity of a natural person.
 
-2.5 “VASP Services” means exchange between digital assets and fiat currencies; exchange between one or more forms of digital assets; transfer of digital assets, that is to say, conduct a transaction on behalf of another person that moves a digital asset from one digital asset address or account to another; and act as a custodian wallet provider.
+2.5 "PIL Services" means e-money services. For a full definition, please see Annex I of the Terms of Service [here](https://www.kraken.com/legal/emi). 
+
+2.6 “VASP Services” means exchange between digital assets and fiat currencies; exchange between one or more forms of digital assets; transfer of digital assets, that is to say, conduct a transaction on behalf of another person that moves a digital asset from one digital asset address or account to another; and act as a custodian wallet provider.
 
 **3\. Your Data Controller**
 ----------------------------
 
 Our products and services are provided through local operating entities that are part of the Kraken group of companies.
 
-You are contracting with one Kraken group company as specified in Section 18 _Full Details of Data Controllers_.
+You are contracting with Kraken as specified in Section 18 _Full Details of Data Controllers_.
 
 **4\. How do we protect personal data?**
 ----------------------------------------
@@ -39,32 +41,34 @@ Kraken takes the security of personal data incredibly seriously. Please see [her
 **5\. Information we may collect about you**
 --------------------------------------------
 
-We obtain information about you in a number of ways through your use of our products and services, including through any of our websites, the account opening process, webinar sign-up forms, event subscribing, news and updates subscribing and from information provided in the course of on-going support service communications. In order to open an account with us, you must first complete and submit a “create account” form to us by completing the required information. By completing this form, you are requested to disclose personal data in order to enable Kraken to assess your application and comply with the relevant laws and regulations.
+We obtain information about you in a number of ways through your use of our products and services, including through any of our websites, the account opening process, webinar sign-up forms, event subscribing, news and updates subscribing and from information provided in the course of on-going support service communications.
+
+In order to open an account with us, you must first complete and submit a “create account” form to us by completing the required information. By completing this form, you are requested to disclose personal data in order to enable Kraken to assess your application and comply with the relevant laws and regulations.
+
+The minimum information required for entering into a contract governing your use of our products and services, and for enabling us to comply with our statutory obligations in respect of anti-money laundering and crime and fraud prevention, is biographical information and contact information, verification information, PEP information (defined below), and financial information. Without this information, we cannot commence, or continue to perform our services or provide our products to you.
 
 **The information that we collect from you is as follows:**
 
 * Full name, residential address and contact details (e.g. email address, telephone number etc.), date of birth, place of birth, gender, citizenship (“**Biographical information and contact information**”);
 * Bank account information, wallet addresses, credit card details, details about your source of funds, assets and liabilities, and information relating to economic and trade sanctions lists (“**Financial information**”);
-* Trading account balances, trading activity, your inquiries and our responses (“**Trading information**”);
+* Trading account balances, trading activity (such as whether you participate in Kraken's VIP program, and custodial activity), your inquiries and our responses (“**Trading information**”);
 * Information on whether you (or someone close to you) holds a prominent public function (“**PEP information**”);
 * Verification information, which includes information necessary to verify your identity such as a passport, driver’s licence, selfie photos / videos, login credentials or Government-issued identity card (“**Verification information**”);
 * Other personal data or commercial and/or identification information – Information we, in our sole discretion, deem necessary to comply with our legal obligations under various AML obligations, such as under the European Union’s 5th AML Directive and the U.S. Bank Secrecy Act (“**Other information**”).
 
 **Information we collect about you automatically:**
 
-* Browser information – Information that is automatically collected via analytics systems providers from your browser, including your IP address and/or domain name and any external page that referred you to us, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system, and platform (“**Browser information**”);
-* Log information – Information that is generated by your use of Kraken-branded websites, applications, services, or tools operated by Kraken that is automatically collected and stored in our server logs. This may include, but is not limited to, device-specific information, location information, system activity and any internal and external information related to pages that you visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Website or App (including date and time, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page (“**Log information**”).
-    * The provision of personal data is necessary for entering into the contract governing your use of our products and services. The minimum information required to be provided is biographical information and contact information, verification information, and financial information. Without this information, we cannot commence, or continue to perform our services or provide our products to you. 
-    * It is a statutory requirement to provide certain information in order for us to comply with our legal obligations in respect of anti-money laundering and crime and fraud prevention. At a minimum, this includes biographical information and contact information, financial information and verification information. Without this information, we cannot meet our legal obligations under anti-money laundering and crime and fraud prevention laws.
-        
+* Browser information – Information that is automatically collected via analytics systems providers from your browser, including your IP address, domain name, any external page that referred you to us, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system, and platform (“**Browser information**”);
+* Log information – Information that is generated by your use of Kraken-branded websites, applications, services, or tools operated by Kraken that is automatically collected and stored in our log records. This may include device information such as device identifier, device operating system and model, device storage, Media Access Control (MAC) address and Subscriber Identity Module (SIM) information, signals relating to user behaviour and device interaction, battery usage, location information, network address, system activity and any internal and external information related to pages that you visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Website or App (including date and time, page response times, download errors, length of visits to certain pages, page interaction information such as scrolling, clicks, and mouse-overs, and methods used to browse away from the page (“**Log information**”).
 
 **Information we receive about you from other sources.**
 
-We also receive information about you from third parties such as your payment providers and through publicly available sources. For example:
+We also receive information about you from third parties such as your payment providers, our service providers assisting with AML, fraud, and security compliance, and through publicly available sources. For example:
 
 * The banks you use to transfer money to us will provide us with your basic personal data, such as your name and address, as well as your financial information such as your bank account details;
 * Your business partners may provide us with your name and address, as well as financial information;
 * Advertising networks, analytics providers and search information providers may provide us with anonymized or de-identified information about you, such as confirming how you found our website. 
+* Our service providers may provide us with information relating to fraud, security, sanctions and AML and other risks, for example, confirmation of identity attributes, and information about any attributes linked to such matters. 
 * Credit reference agencies may provide us with your personal data during the credit referencing process.
 
 **6\. Our legal justification for processing personal data**
@@ -110,7 +114,7 @@ We may keep your personal data for longer than 5 years if we cannot delete it fo
 **12\. Cookies**
 ----------------
 
-When you use our products and services or visit our websites, we may place tiny data files called cookies, flash cookies, pixel tags, or other tracking tools (herein, “Cookies”) on your computer or other devices used when engaging with us. We use cookies to help us recognize you as a customer, collect information about your use of our products and services, to better customize our services and content for you, and to collect information about your computer or other access devices to ensure our compliance with our U.S. Bank Secrecy Act and AML obligations.
+When you use our products and services or visit our websites, we may place tiny data files called cookies, flash cookies, pixel tags, or other tracking tools (herein, “Cookies”) on your computer or other devices used when engaging with us. We use cookies to help us recognize you as a customer, collect information about your use of our products and services, to better customize our services and content for you, and to collect information about your computer or other access devices to ensure our compliance with our U.S. Bank Secrecy Act, fraud, security, sanctions and AML obligations.
 
 **13\. Your rights regarding your personal** **data**
 -----------------------------------------------------
@@ -177,7 +181,7 @@ Any questions, complaints, comments and requests regarding this privacy notice a
 **17\. Data Protection Authorities**
 ------------------------------------
 
-If you are not satisfied with our response to your complaint, you have the right to submit a complaint to a competent data protection authority. You can contact the appropriate data protection authority using the details below:
+If you are not satisfied with our response to your complaint, you have the right to submit a complaint to a competent data protection authority. Examples of relevant data protection authorities are listed below:
 
 **For residents of Australia:**
 
@@ -207,13 +211,6 @@ Dublin 2
 D02 RD28  
 Ireland
 
-**For residents of Japan:**
-
-Personal Information Protection Commission  
-Kasumigaseki Common Gate West Tower 32nd Floor,  
-3-2-1, Kasumigaseki, Chiyoda-ku,  
-Tokyo, 100-0013, Japan
-
 **For clients of Kraken Futures (Singapore):**
 
 Personal Data Protection Commission  
@@ -223,13 +220,14 @@ Personal Data Protection Commission
 **18\. Full details of Data Controllers** 
 ------------------------------------------
 
-You are contracting with one Kraken group company, as follows:
+You are contracting with Kraken as follows:
 
 * If you reside in Australia, you are contracting with Bit Trade Pty Limited, Unit 610, 478 George Street, Sydney, NSW 2000, Australia. 
-* If you reside in Canada, you are contracting with Payward Canada Inc., 1100-1959 Upper Water Street, Halifax, NS B3J 3N2, Canada. 
+* If you reside in Canada, you are contracting with Payward Canada Inc., 30 Adelaide St East, 12th Floor, Toronto ON, M5C 3G8, Canada. 
 * If you reside in the UK, you are contracting with Payward Ltd., 6th Floor, One London Wall, London, EC2Y 5EB, United Kingdom. 
 * If you reside in the United States, you are contracting with Payward Ventures, Inc., 100 Pine St Suite 1250, Office 6, PMB A188, San Francisco, CA 94111, USA. 
-* If you reside in Italy you are contracting with Payward Europe Solutions Limited, 70 Sir John Rogerson’s Quay, Dublin 2, D02 R296, operating through its Italian Branch, Payward Europe Solutions Limited, Italian Branch, 21 Via San Marco, Milan, MI, 20121, Italy (for VASP Services). For all other clients located in the European Economic Area you are contracting with Payward International Markets Limited, Trinity Chambers, PO BOX 4301, Road Town, Tortola, British Virgin Islands. 
-* If you reside in the rest of the world (other than Japan, in which case, you have been provided with a separate privacy notice that is applicable to you), you are contracting with Payward Trading Ltd., c/o SHRM Trustees (BVI) Limited, Trinity Chambers, Ora et Labora Building, Road Town, Tortola, VG1110, British Virgin Islands. 
+* If you reside in Italy you are contracting with Payward Europe Solutions Limited, 70 Sir John Rogerson’s Quay, Dublin 2, D02 R296, operating through its Italian Branch, Payward Europe Solutions Limited, Italian Branch, 21 Via San Marco, Milan, MI, 20121, Italy (for VASP Services). If you reside in Ireland or Belgium, you are contracting with Payward Europe Solutions Limited, 70 Sir John Rogerson’s Quay, Dublin Docklands, Dublin 2, Ireland, D02 R296 (for VASP Services). For all other clients located in the European Economic Area you are contracting with Payward International Markets Limited, Trinity Chambers, PO BOX 4301, Road Town, Tortola, British Virgin Islands. 
+* If you reside in Ireland or the Netherlands you are contracting with Payward Ireland Limited (with respect to PIL Services only) with a registered office at 70 Sir John Rogerson’s Quay, Dublin Docklands, Dublin 2, Ireland, D02 R296.
+* If you reside in the rest of the world you are contracting with Payward Trading Ltd., 2429 Wickhams Cay II, Tortola, British Virgin Islands, VG1110. 
 * If you are a client of Kraken Futures, you are contracting with either Payward Brokers Pte. Ltd., or Payward Global Trading Pte. Ltd., 8 Tomasello Boulevard, #15-04, Suntec Tower Three, Singapore 038988. 
 * The company you are contracting with is your Data Controller, and is responsible for the collection, use, disclosure, retention and protection of your personal data in accordance with our global privacy standards, this Privacy Notice, as well as any applicable national laws. We process and retain your personal data on our servers in multiple data center locations, including the European Union, Japan, Australia, the United Kingdom, the United States of America and elsewhere in the world.
