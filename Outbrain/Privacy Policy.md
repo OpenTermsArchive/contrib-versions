@@ -1,6 +1,6 @@
 #### PRIVACY POLICY
 
-Last Updated November 4, 2021
+Last Updated 30 October 2023
 
 Outbrain is committed to protecting your personal data. This privacy policy (“Privacy Policy”) governs Outbrain’s use of data collected by us, including any and all personal data. Personal data is information that relates to you and may identify you as an individual. We use your personal data in line with all applicable laws. To ensure compliance and to align with Outbrain’s values around trust and transparency we have a team of privacy champions responsible for continuously implementing our global privacy program.
 
@@ -298,7 +298,83 @@ The chart below summarizes how we collect, use and share Personal Information by
 
 Some browsers transmit Do Not Track (DNT) signals to websites. Because there is no common understanding of how to interpret the DNT signal, Outbrain does not currently alter, change, or respond to DNT requests or signals from these browsers. We will continue to monitor industry activity in this area and reassess our DNT practices as necessary. In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving personalized recommendations in the Users section.
 
-9\. How This Privacy Policy May Change
---------------------------------------
+9\. EU-US Data Protection Framework (DPF) Participation
+-------------------------------------------------------
+
+Outbrain complies with the [EU-U.S. Data Privacy Framework (EU-U.S. DPF)](https://www.dataprivacyframework.gov/), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Outbrain has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Outbrain has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/)
+
+Please click [here](https://www.dataprivacyframework.gov/s/participant-search) to view our certification.
+
+10\. Complaint and Dispute Resolution Procedure under the DPF
+-------------------------------------------------------------
+
+**Outbrain’s internal complaints mechanism**
+
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, Outbrain commits to resolve DPF Principles-related complaints about our collection and use of your personal information.  EU and UK individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF should first contact Outbrain at: [DPO@outbrain.com](mailto:DPO@outbrain.com)
+
+You may have the right to lodge a complaint with the data protection authority of your country of residence. If you live in the UK, you can make a complaint with the Information Commissioner’s Office (ICO) [at this address](https://ico.org.uk/make-a-complaint/). If you live in the EU, you can find the relevant data protection authority [here](https://edpb.europa.eu/about-edpb/about-edpb/members_en). To submit a complaint to the FTC, click [here](https://reportfraud.ftc.gov/#/).
+
+**Independent Recourse Mechanism**
+
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, Outbrain commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF to Judicial Arbitration and Mediation Services, Inc. (JAMS), an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [JAMS](https://www.jamsadr.com/eu-us-data-privacy-framework) for more information or to file a complaint.  The services of JAMS are provided at no cost to you. Please contact or visit the [https://www.jamsadr.com/submit/](https://www.jamsadr.com/submit/) for more information or to file a complaint.
+
+The Federal Trade Commission has jurisdiction over Outbrain’s compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF.
+
+**Arbitration**
+
+You may also be able to invoke binding arbitration for unresolved complaints but prior to initiating such arbitration, a resident of a European country (including Switzerland) participating in the DPF must first:
+
+(1) contact us and afford us the opportunity to resolve the issue;  
+(2) seek assistance from [JAMS](https://www.jamsadr.com/submit/) (an independent recourse mechanism); and  
+(3) contact the U.S. Department of Commerce (either directly or through a European Data Protection Authority) and afford the Department of Commerce time to attempt to resolve the issue.
+
+If such a resident invokes binding arbitration, each party shall be responsible for its own attorney’s fees. Please be advised that, pursuant to the DPF, the arbitrator(s) may only impose individual-specific, non-monetary, equitable relief necessary to remedy any violation of the DPF Principles with respect to the resident. The arbitration option may not be invoked if the individual’s same claimed violation of the Principles
+
+(1) has previously been subject to binding arbitration;  
+(2) was the subject of a final judgement entered in a court action to which the individual was a party; or  
+(3) was previously settled by the parties.
+
+For more details, please click [here](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2).
+
+**European Individual Rights Under The** **DPF**
+
+Outbrain must provide you:
+
+* Information on the types of personal data collected
+* Information on the purposes of collection and use
+* Information on the type or identity of third parties to which your personal data is disclosed
+* Choices for limiting use and disclosure of your personal data
+* Access to your personal data
+* Notification of the organization’s liability if it transfers your personal data
+* Notification of the requirement to disclose your personal data in response to lawful requests by public authorities
+* Reasonable and appropriate security for your personal data
+* A response to your complaint within 45 days
+* Cost-free independent dispute resolution to address your data protection concerns
+* The ability to invoke binding arbitration to address any complaint that the organization has violated its obligations under the DPF Principles to you and that has not been resolved by other means
+
+ **OUTBRAIN’S** **LIABILITY IN CASES OF ONWARD TRANSFERS TO THIRD PARTIES**
+
+In the context of an onward transfer, Outbrain has responsibility for the processing of personal information it receives under the DPF Principles and subsequently transfers to a third party acting as an agent on its behalf.  Outbrain remains liable under the DPF Principles if its agent processes such personal information in a manner inconsistent with the DPF Principles, unless Outbrain proves that it is not responsible for the event giving rise to the damage.
+
+11\. How This Privacy Policy May Change
+---------------------------------------
 
 We may change this Privacy Policy from time to time. We will place a prominent notice that will be visible to you as a Site Visitor or Business Partner, but we do not have a means of advising Users of an update by way of notice. You should check back here periodically to see if the Privacy Policy has been updated as we will always show the date of the latest modification of the Privacy Policy at the top of the page so you can tell when it was last revised.
+
+**Data Protection Officer (DPO)**
+
+To communicate with our Data Protection Officer, please email at [dpo@outbrain.com](mailto:dpo@outbrain.com) or use the contact details below. 
+
+**Contact us**
+
+**General questions**
+
+If you have any questions or concerns about your privacy you may contact us at:
+
+_Outbrain Inc._ _111 West 19th Street  
+__3rd Floor  
+__New York, NY 10011, USA_ _Attn: Privacy questions_
+
+Email: [privacy@outbrain.com](mailto:privacy@outbrain.com) or [dpo@outbrain.com](mailto:dpo@outbrain.com)
+
+You may also contact your local data protection authority. A list of local data protection authorities is available [here](https://edpb.europa.eu/about-edpb/about-edpb/members_en).
