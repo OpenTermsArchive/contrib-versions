@@ -18,7 +18,7 @@ This Privacy Notice does not apply to personal information we collect from our e
 
 **Quick Links**
 
-* If you want to identify your data controller please see the “[Who is my data controller?](https://www.surveymonkey.com/mp/legal/privacy-policy/?ut_source=legal&ut_source2=privacy&ut_source3=inline#who-is-my-data-controller)” section below.
+* If you want to identify your data controller please see the “[Who is my data controller?](https://www.surveymonkey.com/mp/legal/privacy/?ut_source=legal&ut_source2=privacy&ut_source3=inline#who-is-my-data-controller)” section below.
 
 * For a quick snapshot of how SurveyMonkey treats personal information see our [Privacy Basics](https://www.surveymonkey.com/mp/legal/privacy-basics/?ut_source=legal&ut_source2=privacy&ut_source3=inline).
 
@@ -387,7 +387,7 @@ You can opt-out from direct marketing in your account and we provide opt-out opt
 7\. Security
 ------------
 
-We have a security statement related to our self-serve businesses (Momentive, SurveyMonkey and Wufoo) available to view [here](https://www.surveymonkey.com/mp/legal/security/). For information about security related to our other business lines you can speak to a sales representative by completing the form [here](https://www.surveymonkey.com/enterprise/?form_autoload=&ut_source=legal&ut_source2=privacy&ut_source3=inline).
+We have a security statement related to our self-serve businesses (Momentive, SurveyMonkey and Wufoo) available to view [here](https://www.surveymonkey.com/mp/legal/security/). For information about security related to our other business lines you can speak to a sales representative by completing the form [here](https://www.surveymonkey.com/mp/enterprise/?form_autoload=).
 
 8\. Minors
 ----------
