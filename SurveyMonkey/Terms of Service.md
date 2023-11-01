@@ -5,16 +5,16 @@ Terms of Use
 
 Download a copy of the SurveyMonkey TOU [here](https://prod.smassets.net/assets/content/sm/Terms-of-Use-SurveyMonkey-2023-08-01.pdf).
 
-These terms apply to services purchased or signed-up for on SurveyMonkey's websites. For terms applicable to services offered through our enterprise sales team, please see our [Governing Services Agreement](https://www.surveymonkey.com/mp/legal/gsa/)
+These terms apply to services purchased or signed-up for on SurveyMonkey's websites. For terms applicable to services offered through our enterprise sales team, please see our [Governing Services Agreement](https://www.surveymonkey.com/mp/legal/gsa/).
 
-LAST UPDATED: August 1, 2023
+LAST UPDATED: November 1, 2023
 
 Introduction
 ------------
 
 _These are terms that will apply to your use of our Services.  You should read these terms thoroughly, but for your convenience, we provide annotations in boxes like this one throughout.  Please note that these annotations have no legal effect and are not part of our official terms._
 
-_Effective as of August 1, 2023, Momentive Inc. became SurveyMonkey Inc., Momentive Europe UC became SurveyMonkey Europe UC, and Momentive Brasil Internet Eireli became SurveyMonkey Brasil Internet Ltda_.
+_Effective as of August 1, 2023, Momentive Inc. became SurveyMonkey Inc. and Momentive Europe UC became SurveyMonkey Europe UC. Effective as of July 10, 2023, Momentive Brasil Internet Eireli became SurveyMonkey Brasil Internet Ltda_.
 
 These Terms of Use (“TOU”) apply to your access and use of SurveyMonkey's products, services, websites, and apps that you purchase or sign up for on SurveyMonkey's websites and which are branded as “Momentive”, “SurveyMonkey”, “Wufoo” or “GetFeedback” (collectively the “**Service(s)**”). These TOU do not apply to Services which are available solely through our [enterprise sales](https://www.surveymonkey.com/enterprise/?form_autoload=&ut_source=pricing_page&ut_source2=terms-of-use&ut_source3=inline) channel.
 
@@ -41,7 +41,7 @@ _For some of our paid Services, we bill automatically on a regular cadence such 
 
 Some of our Services are billed on a subscription basis (we call these “Subscriptions”). This means that you will be billed in advance on a recurring, periodic basis (each period is called a “billing cycle”). Billing cycles are typically monthly or annual, depending on what subscription plan you select when purchasing a Subscription. Your Subscription will automatically renew at the end of each billing cycle unless you cancel auto-renewal through your online account management page, or b**y** [**contacting our customer support team**](https://help.surveymonkey.com/en/?l=en). **YOU MAY CANCEL AUTO-RENEWAL ON YOUR SUBSCRIPTION AT ANY TIME, IN WHICH CASE YOUR SUBSCRIPTION WILL CONTINUE UNTIL THE END OF THAT BILLING CYCLE BEFORE TERMINATING.**
 
-When you cancel your Subscription, you will be able to access the Service until the end of that billing cycle. Thereafter, you will no longer have access to the Service for that Subscription. Where you have no active Subscription, your account becomes a SurveyMonkey Basic (free) plan. To close your account and terminate your contract with us, please see [Section 11.1](#11. By You.) below.
+When you cancel your Subscription, you will be able to access the Service until the end of that billing cycle. Thereafter, you will no longer have access to the Service for that Subscription. Where you no longer have an active Subscription, your account becomes a SurveyMonkey Basic (free) plan. To close your account and terminate your contract with us, please see [Section 11.1](#11. By You.) below.
 
 ### 1.3 Taxes.
 
@@ -80,7 +80,7 @@ _You can trust us with your Content, which includes your personal data. Check ou
 
 ### 2.1 Privacy.
 
-We know that by giving us your Content (as defined below), you are trusting us to treat it appropriately. SurveyMonkey's [Privacy Notice](https://www.surveymonkey.com/mp/legal/privacy/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline), together with any Service-specific privacy notices or statements (collectively, “SurveyMonkey privacy notices”), detail how we treat your Content (as defined below) that is considered Personal Data (as defined in our [Data Processing Agreement](https://www.surveymonkey.com/mp/legal/data-processing-agreement/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline)) and we agree to adhere to those SurveyMonkey privacy notices. You in turn agree that SurveyMonkey may use and share your Content in accordance with the SurveyMonkey privacy notices and applicable data protection laws. You also agree that you are responsible for notifying these third parties about the SurveyMonkey privacy notices. Our [Data Processing Agreement](https://www.surveymonkey.com/mp/legal/data-processing-agreement/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline) also apply to and are supplemental to these Terms. Where there is a conflict between the Data Processing Agreement and these Terms, the Data Processing Agreement will prevail except with respect to Exclusion and Limitation of Liability where these Terms will prevail.
+We know that by giving us your Content (as defined below), you are trusting us to treat it appropriately. SurveyMonkey's [Privacy Notice](https://www.surveymonkey.com/mp/legal/privacy/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline), together with any Service-specific privacy notices or statements (collectively, “SurveyMonkey privacy notices”), detail how we treat your Content (as defined below) that is considered Personal Data (as defined in our [Data Processing Agreement](https://www.surveymonkey.com/mp/legal/data-processing-agreement/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline)) and we agree to adhere to those SurveyMonkey privacy notices. You in turn agree that SurveyMonkey may use and share your Content in accordance with the SurveyMonkey privacy notices and applicable Data Protection Legislation. You also agree that you are responsible for notifying your respondents, end users, and guests about the SurveyMonkey privacy notices. Our [Data Processing Agreement](https://www.surveymonkey.com/mp/legal/data-processing-agreement/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline) also apply to and are supplemental to these Terms. Where there is a conflict between the Data Processing Agreement and these Terms, the Data Processing Agreement will prevail except with respect to Exclusion and Limitation of Liability where these Terms will prevail.
 
 ### 2.2 Confidentiality.
 
@@ -141,10 +141,14 @@ Neither these Terms nor your use of the Services grants you ownership in the Ser
 
 If you submit any feedback or suggestions to us regarding our Services, we may use and share them for any purpose without any compensation or obligation to you.
 
-6\. Third Party Resources
--------------------------
+6\. Third Party Resources and Services
+--------------------------------------
 
 SurveyMonkey may publish links in its Services to internet websites maintained by third parties. SurveyMonkey does not represent that it has reviewed such third party websites and is not responsible for them or any content appearing on them. Trademarks displayed in conjunction with the Services are the property of their respective owners.
+
+SurveyMonkey may provide you with access to, or enable third party software, applications, products, services or website links (collectively, “**Third Party Services**”) for your consideration or use, including via the Service and SurveyMonkey’s website. Your purchase, access or use of any such Third Party Services is solely between you and the applicable Third Party Services provider (“**Third Party Provider**”). In addition to these TOU, you agree to be bound by any additional terms and conditions applicable to services you purchase from, or that are provided by, Third Party Providers. If you install or enable a Third Party Service for use with the Service, you grant us permission to allow the applicable Third Party Provider to access your Content and to take actions as required for the interoperation of the Third Party Service with the Service, and any exchange of your Content or other interaction between you and the Third Party Provider is solely between you and such Third Party Provider. We do not provide any warranties or make representations to you with respect to Third Party Services. Any use by you of Third Party Services offered through the Service or SurveyMonkey’s website is entirely at your own risk and discretion, and the security of your Content is your responsibility. You are responsible for reading the terms and conditions and/or privacy policies applicable to such Third Party Services before using them and ensuring such Third Party Services meet your requirements or any legal or other requirements you may be subject to. You acknowledge that SurveyMonkey has no control over Third Party Services and will not be responsible or liable to you or anyone else for such Third Party Services, or for any transaction you may enter into with Third Party, or for what the Third Party Services do. SurveyMonkey does not guarantee the availability of Third Party Services and you acknowledge that SurveyMonkey may disable access to any Third Party Services at any time, in its sole discretion and without notice to you. SurveyMonkey is not responsible or liable for the discontinuation or suspension of access to, or disablement of, any Third Party Service. 
+
+The Service includes features that can interoperate with Third Party Services, such as features that may enable you to collect payments from your end users.  We are not a party to, nor are we liable, for such activities. You are solely responsible and liable for such activities and complying with any laws or regulations related to it, including but not limited to, posting any legally required notices, terms, or policies. 
 
 7\. Account Management
 ----------------------
@@ -180,9 +184,13 @@ If you are an individual, you may only use the Services if you have the power to
 
 “**Minors**” are individuals under the age of 16 (or under a higher age as provided in certain countries and territories). None of the Services are intended for use by Minors. If you are a Minor in your place of residence, you may not use the Services. By using the Services, you represent and warrant that you are not a Minor.
 
-### 8.3 Embargoes.
+### 8.3 Export Control.
 
-You may only use the Services if you are not barred under any applicable laws from doing so. If you are located in a country embargoed by United States or other applicable law from receiving the Services or you are on the U.S. Department of Commerce’s Denied Persons List or Entity List or the U.S. Treasury Department’s list of Specially Designated Nationals, you are not permitted to use and/or purchase any paid Services from SurveyMonkey. You will ensure that: (a) your end users do not use the Services in violation of any export restriction or embargo by the United States; and (b) you do not provide access to the Services to persons or entities on any of the above lists.
+You may only use the Services if you are not prohibited under any applicable laws from doing so. If you are located in a country prohibited by U.S. trade controls or trade controls of another applicable jurisdiction from receiving the Services, or you are on a list of prohibited or restricted parties, including as examples, the U.S. Department of Commerce’s Denied Persons List, Entity List, or Unverified List, or the U.S. Treasury Department’s list of Specially Designated Nationals or similar lists in other applicable jurisdictions, you are not permitted to use and/or purchase any Services from SurveyMonkey. You will ensure that: (a) your end users do not use the Services in violation of any U.S. export restriction or trade or economic sanction or similar laws of other applicable jurisdictions; and (b) you do not provide access to the Services (including as respondents) to persons or entities on any of the above lists. You may not use the Services in Cuba, North Korea, Iran, Sudan, Syria, Russia, Belarus, and prohibited regions of Ukraine (currently including Crimea, Donetsk, Luhansk, Kherson, and Zaporizhzhya).
+
+### 8.4 Compliance with Laws.
+
+You warrant and undertake that you will at no time use or avail (or permit the use) of SurveyMonkey's services, solutions, facilities, tools, software, or assistance under this Agreement in a manner: (i) which is a breach of laws or regulations applicable to you or SurveyMonkey, or (ii) which would require SurveyMonkey to comply with any laws and/or regulations other than those listed in the definition of Data Protection Legislation in the Data Processing Agreement or otherwise specified in these terms or, which may become applicable to SurveyMonkey by reason of providing services, solutions, facilities, tools, software or assistance to you. 
 
 9\. Acceptable Uses Policy
 --------------------------
@@ -200,7 +208,7 @@ If you use the Services to accept payment card transactions, you must comply wit
 
 ### 10.2 Cardholder Data.
 
-SurveyMonkey is responsible for the security of Cardholder Data that is collected, transmitted, stored, or processed by us on your behalf. “Cardholder Data” is defined as a cardholder’s primary account number, and where a full unmasked card number is present, any of the cardholder name, expiration date, and/or service code. SurveyMonkey has developed strict security features to protect Cardholder Data, and as such this data may only be used in anticipated ways and stored in appropriate places. YOU ACKNOWLEDGE AND AGREE THAT YOU ARE PROHIBITED FROM COLLECTING OR ENTERING CARDHOLDER DATA INTO ANY FORM OR DATA ENTRY FIELDS IN THE SERVICES, EXCEPT INTO THOSE FIELDS INTENDED SOLELY FOR THAT PURPOSE (i.e. where SurveyMonkey explicitly enables such data to be entered into such fields). Appropriate fields are clearly marked with labels such as ‘Card number’ or by having a credit card icon precede them. Similarly, excluding payment forms, you must never collect or enter any “**Sensitive Authentication Data**”, as defined by the PCI Standards (including CVC or CVV2) into any fields in the Services. You assume all responsibility for any Cardholder Data entered into the Services in violation of these terms.
+SurveyMonkey is responsible for the security of Cardholder Data that is collected, transmitted, stored, or processed by us on your behalf. “Cardholder Data” is defined as a cardholder’s primary account number, and where a full unmasked card number is present, any of the cardholder name, expiration date, and/or service code. SurveyMonkey has developed strict security features to protect Cardholder Data, and as such this data may only be used in anticipated ways and stored in appropriate places. YOU ACKNOWLEDGE AND AGREE THAT YOU ARE PROHIBITED FROM COLLECTING OR ENTERING CARDHOLDER DATA INTO ANY FORM OR DATA ENTRY FIELDS IN THE SERVICES, EXCEPT INTO THOSE FIELDS INTENDED SOLELY FOR THAT PURPOSE (i.e., where SurveyMonkey explicitly enables such data to be entered into such fields). Appropriate fields are clearly marked with labels such as ‘Card number’ or by having a credit card icon precede them. Similarly, excluding payment forms, you must never collect or enter any “**Sensitive Authentication Data**”, as defined by the PCI Standards (including CVC or CVV2) into any fields in the Services. You assume all responsibility for any Cardholder Data entered into the Services in violation of these terms.
 
 11\. Suspension, Account Closure, and Termination of Services
 -------------------------------------------------------------
@@ -211,7 +219,7 @@ __Here is how you can close your account with us and how we may suspend or disab
 
 _You can cancel your Subscription immediately through your account management page. We do not offer refunds except under very limited circumstances._
 
-You can cancel your Subscription and/or close your account at any time through your account management page. When you close your account, your Subscription will automatically be cancelled, your Services will be terminated, and you will no longer be able to access your account to use the Services and your Content will be deleted in accordance with our data retention policy and these TOU. You can obtain a copy of your Content from the relevant Service(s) before closing your account, subject to applicable law and policies. Alternatively, you can delete your Content yourself proactively prior to cancelling a Subscription and closing your account. If you would like to cancel your Subscription without closing your account, see [Section 1.2](#1.2 Subscriptions.) for further information.
+You can cancel your Subscription and/or close your account at any time through your account management page. When you close your account, your Subscription will automatically be cancelled, your Services will be terminated, and you will no longer be able to access your account to use the Services and your Content will be deleted in accordance with our data retention policy and these TOU. You can obtain a copy of your Content from the relevant Service(s) before closing your account, subject to applicable law and policies. Alternatively, you can delete your Content yourself proactively prior to cancelling a Subscription and closing your account. If you would like to cancel your Subscription without closing your account, see [Section 1.2](#1.2 Subscriptions.) (SurveyMonkey) and [Section 16.2](#16.2 Wufoo-Specific Terms.) (Wufoo) for further information.
 
 When you close your account, we will provide you with confirmation of account closure and Subscription cancellation, and you will not be charged again for that Subscription unless you open a new account and purchase a new Subscription. If you cancel a Subscription in the middle of a billing cycle, you will not receive a refund unless you are canceling for any of the following reasons: (a) we have materially breached these Terms and failed to cure that breach within 30 days after you have so notified us in writing; (b) a refund is required by law; or (c) we, in our sole discretion, determine a refund is appropriate. For clarity, we will not grant a refund where you have used our Services, collected responses, and/or downloaded your responses unless the termination is due to our material, uncured breach or a refund is required by law.
 
@@ -279,11 +287,11 @@ If you are a business, you will indemnify and hold harmless SurveyMonkey (includ
 14\. Contracting Entity
 -----------------------
 
-_If you are in the USA, you are contracting with SurveyMonkey Inc. If you are located in Brazil, you are contracting with SurveyMonkey Brasil Internet Eireli. If you are located anywhere else, you are contracting with SurveyMonkey Europe UC._
+_If you are in the USA, you are contracting with SurveyMonkey Inc. If you are located in Brazil, you are contracting with SurveyMonkey Brasil Internet Ltda. If you are located anywhere else, you are contracting with SurveyMonkey Europe UC._
 
 ### 14.1 Who you are contracting with.
 
-Unless otherwise noted, the Services are provided by, and you are contracting with, SurveyMonkey Inc. inside of the United States, by SurveyMonkey Brasil Internet Eireli inside of Brazil, and by SurveyMonkey Europe UC everywhere else.
+Unless otherwise noted, the Services are provided by, and you are contracting with, SurveyMonkey Inc. inside of the United States, by SurveyMonkey Brasil Internet Ltda. inside of Brazil, and by SurveyMonkey Europe UC everywhere else.
 
 ### 14.2 SurveyMonkey Inc.
 
@@ -301,11 +309,11 @@ For any Service provided by SurveyMonkey Europe UC, the following provisions wil
 * Governing Law. Those terms are governed by the laws of Ireland (without regard to its conflicts of laws provisions).
 * Jurisdiction. Except if prohibited by applicable law, in relation to any legal action or proceedings to enforce those terms or arising out of or in connection with those terms, each party irrevocably submits to the exclusive jurisdiction of the courts of Ireland.
 
-### 14.4 SurveyMonkey Brasil Internet Eireli.
+### 14.4 SurveyMonkey Brasil Internet Ltda.
 
-For any Service provided by SurveyMonkey Brasil Internet Eireli, the following provisions will apply to any terms governing that Service:
+For any Service provided by SurveyMonkey Brasil Internet Ltda., the following provisions will apply to any terms governing that Service:
 
-* Contracting Entity. References to “SurveyMonkey”, “we”, “us”, and “our” are references to SurveyMonkey Brasil Internet Eireli, located at Rua Joaquim Floriano, No. 243, suite 113, Itaim Bibi, São Paulo-SP, 04534-010 Brazil.
+* Contracting Entity. References to “SurveyMonkey”, “we”, “us”, and “our” are references to SurveyMonkey Brasil Internet Ltda., located at Rua Joaquim Floriano, No. 243, suite 113, Itaim Bibi, São Paulo-SP, 04534-010 Brazil.
 * Governing Law. Those terms are governed by the laws of Brazil (without regard to its conflicts of laws provisions).
 * Jurisdiction. Except if prohibited by applicable law, in relation to any legal action or proceedings to enforce those terms or arising out of or in connection with those terms, each party irrevocably submits to the exclusive jurisdiction of the courts of the city of São Paulo, Brazil.
 
@@ -379,9 +387,10 @@ The following amendments automatically apply to you upon acceptance of these Ter
 If you are using Wufoo Services, the following additional terms apply:
 
 * One free account per person. You may only have one active, free Wufoo account at any time. Multiple Wufoo accounts for any person may be closed by SurveyMonkey.
-* Form Gallery. In the course of using the Wufoo website, you may create certain templates, graphics or form documents (collectively, the “**Form Content**”) and load or post such documents into the Wufoo form gallery (“**Form Gallery**”) for other users. By making such Form Content available on the Form Gallery, you grant to SurveyMonkey a worldwide, irrevocable, perpetual, royalty-free, transferable and sub-licensable, non-exclusive right to use, copy, modify, distribute, display, perform, create derivative works and exploit that Form Content in connection with SurveyMonkey's operation of Wufoo.
-* Termination. SurveyMonkey may close any free Wufoo accounts that do not receive a form submission for 6 months or where the accounts are not accessed for 6 months.
-* Use of API. You may access your Wufoo account data via Wufoo’s application programming interface (“**API**”) and SurveyMonkey hereby grants you a non-exclusive, non-transferable license (without the right to sublicense) to use the API solely as necessary to develop, test, operate and support your software application or website using certain data and content from the Wufoo website (“**Application**”), and to distribute or allow access to your integration of the API within your Application to end users of your Application. Any use of the API, including use of the API through a third party product or service that accesses Wufoo, is bound by these Terms, plus the following specific items:
+* **Form Gallery.** In the course of using the Wufoo website, you may create certain templates, graphics or form documents (collectively, the “**Form Content**”) and load or post such documents into the Wufoo form gallery (“**Form Gallery**”) for other users. By making such Form Content available on the Form Gallery, you grant to SurveyMonkey a worldwide, irrevocable, perpetual, royalty-free, transferable and sub-licensable, non-exclusive right to use, copy, modify, distribute, display, perform, create derivative works and exploit that Form Content in connection with SurveyMonkey's operation of Wufoo.
+* **Subscriptions.** Your Subscription will automatically renew at the end of each billing cycle unless you cancel your Subscription plan through your online account management page, or by [contacting our customer support team](https://help.wufoo.com/). **IF YOU CANCEL A SUBSCRIPTION IN THE MIDDLE OF A BILLING CYCLE, (I) YOUR ACCOUNT WILL DOWNGRADE TO A FREE PLAN IMMEDIATELY AND (II) AFTER THE DATE OF DOWNGRADE, YOU WILL NO LONGER HAVE ACCESS TO ANY PAID FEATURES AVAILABLE FOR THAT SUBSCRIPTION. YOU WILL FORFEIT ANY REMAINING TIME ON YOUR SUBSCRIPTION FROM THE DATE OF DOWNGRADE TO THE END OF THAT BILLING CYCLE, AND YOU WILL NOT RECEIVE ANY PRO** **RATA REFUND FOR THAT PERIOD UNLESS YOU ARE CANCELLING FOR ONE OF THE REASONS DESCRIBED IN** [SECTION 11.1(**A**)-(**C**)](#11. By You.)**.** You may need to adjust your form count, report count, rule count, and file usage in order to complete your account downgrade. Where you no longer have an active Subscription, your account becomes a Wufoo free plan. To close your account and terminate your contract with us, please see [Section 11.1](#11. By You.) above. 
+* **Account Inactivity**. SurveyMonkey may close any free Wufoo accounts that do not receive a form submission for 6 months or where the accounts are not accessed for 6 months.
+* **Use of API**. You may access your Wufoo account data via Wufoo’s application programming interface (“**API**”) and SurveyMonkey hereby grants you a non-exclusive, non-transferable license (without the right to sublicense) to use the API solely as necessary to develop, test, operate and support your software application or website using certain data and content from the Wufoo website (“**Application**”), and to distribute or allow access to your integration of the API within your Application to end users of your Application. Any use of the API, including use of the API through a third party product or service that accesses Wufoo, is bound by these Terms, plus the following specific items:
 
 **(a)** Abuse of the API or excessively frequent requests to Wufoo via the API may result in the temporary or permanent suspension of your access to the API. SurveyMonkey, in its sole discretion, will determine if your usage constitutes abuse or excessive usage of the API. SurveyMonkey will endeavor to warn the account owner via email prior to suspension. While SurveyMonkey strives to have the API available without interruption, SurveyMonkey cannot guarantee any uptime for the API.
 
@@ -392,6 +401,16 @@ If you are using Wufoo Services, the following additional terms apply:
 **(d)** You agree to assist SurveyMonkey, at its request, to verify compliance with these Wufoo Terms by providing us with information about your Application, including providing us with access to it and/or other materials related to your use of the API.
 
 **(e)** The API is currently provided for free, but SurveyMonkey reserves the right to charge for use of the API in the future. If SurveyMonkey charges a fee for use of the API, you do not have any obligation to continue using it.
+
+### 16.3 Beta Services.
+
+SurveyMonkey may designate or offer certain products or features, as a pre-release, alpha, preview, early access, or beta version (“**Beta Service**”). If you are using a Beta Service, the following terms also apply:  
+
+A Beta Service is offered as-is to allow for testing and evaluation; it does not represent the final product or service and may contain bugs that may cause system or other failure, errors, and data loss. SurveyMonkey may choose not to release a commercial version of the Beta Service. SurveyMonkey may, in its sole discretion and at any time, remove or discontinue the Beta Service and release a commercial version of the Beta Service. You must promptly cease using the Beta Service if we request you to do so. In exchange for your use of a Beta Service, you agree that SurveyMonkey may collect data regarding your use of the Beta Service, including any feedback, and analyze your Content (including manual review) to improve and troubleshoot the Service. If you do not wish to have this usage or feedback data collected or Content analyzed, you must immediately discontinue your use of the Beta Service.   
+
+SurveyMonkey makes no representations or warranties for a Beta Service, including any warranty that Beta Service will be generally available, uninterrupted or error-free, or that your Content will be secure or not lost or damaged. Except to the extent prohibited by law, SurveyMonkey expressly disclaims all warranties for a Beta Service, including any implied warranties of merchantability, satisfactory quality, fitness for a particular purpose, non-infringement, or quiet enjoyment, and any warranties arising out of any course of dealing or usage of trade. SurveyMonkey will have no liability arising out of or in connection with a Beta Service. Any use by you of a Beta Service is entirely at your own risk and discretion.
+
+**Confidential**. Beta Services are confidential until officially launched by SurveyMonkey. If you use any Beta Service, you agree not to disclose any information about the Beta Service to anyone else without our prior written permission. 
 
 17\. Terms for SurveyMonkey's API
 ---------------------------------
