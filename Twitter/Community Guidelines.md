@@ -1,1601 +1,252 @@
-Civic integrity policy
-======================
+Synthetic and manipulated media policy
+======================================
 
-### Overview
+### Overview 
 
-### **August 2023**
+### April 2023
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-**What is a civic process?** 
+Synthetic and manipulated media policy
+======================================
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+### Overview 
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
-     
+### April 2023
 
-**What is in violation of this policy?**
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-This policy addresses 4 categories of misleading behavior and content: 
+Synthetic and manipulated media policy
+======================================
 
-**Misleading information about how to participate**
+### Overview 
 
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
+### April 2023
 
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-**Suppression**
+Synthetic and manipulated media policy
+======================================
 
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
+### Overview 
 
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
-    
+### April 2023
 
-**Intimidation**
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+Synthetic and manipulated media policy
+======================================
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+### Overview 
 
-**False or misleading affiliation**
+### April 2023
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-**What is not a violation of this policy?**
+Synthetic and manipulated media policy
+======================================
 
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
+### Overview 
 
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
+### April 2023
 
-**What happens if you violate this policy?**
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-Posts that are enforced under this policy will have their reach restricted on X by:   
+Synthetic and manipulated media policy
+======================================
 
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
+### Overview 
 
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### April 2023
 
-Civic integrity policy
-======================
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-### Overview
+Synthetic and manipulated media policy
+======================================
 
-### **August 2023**
+### Overview 
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+### April 2023
 
-**What is a civic process?** 
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Synthetic and manipulated media policy
+======================================
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
-     
+### Overview 
 
-**What is in violation of this policy?**
+### April 2023
 
-This policy addresses 4 categories of misleading behavior and content: 
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-**Misleading information about how to participate**
+Synthetic and manipulated media policy
+======================================
 
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
+### Overview 
 
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
+### April 2023
 
-**Suppression**
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
+Synthetic and manipulated media policy
+======================================
 
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
-    
+### Overview 
 
-**Intimidation**
+### April 2023
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+Synthetic and manipulated media policy
+======================================
 
-**False or misleading affiliation**
+### Overview 
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+### April 2023
 
-**What is not a violation of this policy?**
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
+Synthetic and manipulated media policy
+======================================
 
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
+### Overview 
 
-**What happens if you violate this policy?**
+### April 2023
 
-Posts that are enforced under this policy will have their reach restricted on X by:   
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
+Synthetic and manipulated media policy
+======================================
 
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### Overview 
 
-Civic integrity policy
-======================
+### April 2023
 
-### Overview
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-### **August 2023**
+Synthetic and manipulated media policy
+======================================
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+### Overview 
 
-**What is a civic process?** 
+### April 2023
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
-     
+Synthetic and manipulated media policy
+======================================
 
-**What is in violation of this policy?**
+### Overview 
 
-This policy addresses 4 categories of misleading behavior and content: 
+### April 2023
 
-**Misleading information about how to participate**
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
+Synthetic and manipulated media policy
+======================================
 
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
+### Overview 
 
-**Suppression**
+### April 2023
 
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
-    
+### What is in violation of this policy 
 
-**Intimidation**
+In order for content with **misleading media** (including images, videos, audios, gifs, and URLs hosting relevant content) to be labeled or removed under this policy, it must:
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+* Include media that is significantly and deceptively altered, manipulated, or fabricated, or
+* Include media that is shared in a deceptive manner or with false context, and
+* Include media likely to result in widespread confusion on public issues, impact public safety, or cause serious harm
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+We use the following criteria as we consider posts and media for labeling or removal under this policy as part of our ongoing work to enforce our rules and ensure healthy and safe conversations on X:
 
-**False or misleading affiliation**
+**1\. Is the content significantly and deceptively altered, manipulated, or fabricated?**
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+In order for content to be labeled or removed under this policy, we must have reason to believe that media are significantly and deceptively altered, manipulated, or fabricated. Synthetic and manipulated media take many different forms and people can employ a wide range of technologies to produce these media. Some of the factors we consider include:
 
-**What is not a violation of this policy?**
+* whether media have been substantially edited or post-processed in a manner that fundamentally alters their composition, sequence, timing, or framing and distorts their meaning; 
+* whether there are any visual or auditory information (such as new video frames, overdubbed audio, or modified subtitles) that has been added, edited, or removed that fundamentally changes the understanding, meaning, or context of the media;
+* whether media have been created, edited, or post-processed with enhancements or use of filters that fundamentally changes the understanding, meaning, or context of the content; and
+* whether media depicting a real person have been fabricated or simulated, especially through use of artificial intelligence algorithms
 
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
+We will not take action to label or remove media that have been edited in ways that do not fundamentally alter their meaning, such as retouched photos or color-corrected videos. 
 
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
+In order to determine if media have been significantly and deceptively altered or fabricated, we may use our own technology or receive reports through partnerships with third parties. In situations where we are unable to reliably determine if media have been altered or fabricated, we may not take action to label or remove them.
 
-**What happens if you violate this policy?**
+**2\. Is the content shared in a deceptive manner or with false context?**
 
-Posts that are enforced under this policy will have their reach restricted on X by:   
+We also consider whether the context in which media are shared could result in confusion or suggests a deliberate intent to deceive people about the nature or origin of the content, for example, by falsely claiming that it depicts reality. We assess the context provided alongside media to see whether it provides true and factual information. Some of the types of context we assess in order to make this determination include:
 
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
+* whether inauthentic, fictional, or produced media are presented or being endorsed as fact or reality, including produced or staged works, reenactments, or exhibitions portrayed as actual events;
+* whether media are presented with false or misleading context surrounding the source, location, time, or authenticity of the media;
+* whether media are presented with false or misleading context surrounding the identity of the individuals or entities visually depicted in the media;
+* whether media are presented with misstatements or misquotations of what is being said or presented with fabricated claims of fact of what is being depicted
 
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+We will not take action to label or remove media that have been shared with commentary or opinions that do not advance or present a misleading claim on the context of the media such as those listed above. 
 
-Civic integrity policy
-======================
+In order to determine if media have been shared in a deceptive manner or with false context, we may use our own technology or receive reports through partnerships with third parties. In situations where we are unable to reliably determine if media have been shared with false context, we will not label or remove the content.
 
-### Overview
+**3\. Is the content likely to result in widespread confusion on public issues, impact public safety, or cause serious harm?**
 
-### **August 2023**
+Posts that share misleading media are subject to removal under this policy if they are likely to cause serious harm. Some specific harms we consider include:
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+* Threats to physical safety of a person or group
+* Incitement of abusive behavior to a person or group
+* Risk of mass violence or widespread civil unrest
+* Risk of impeding or complicating provision of public services, protection efforts, or emergency response
+* Threats to the privacy or to the ability of a person or group to freely express themselves or participate in civic events, such as:
+    * Stalking or unwanted and obsessive attention
+    * Targeted content that aims to harass, intimidate, or silence someone else's voice
+    * Voter suppression or intimidation
 
-**What is a civic process?** 
+We also consider the time frame within which the content may be likely to impact public safety or cause serious harm, and are more likely to remove content under this policy if immediate harm is likely to result.
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Posts with misleading media that are not likely to result in immediate harm but still have a potential to impact public safety, result in harm, or cause widespread confusion towards a public issue (health, environment, safety, human rights and equality, immigration, and social and political stability) may be labeled to reduce their spread and to provide additional context. 
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
-     
+While we have other rules also intended to address these forms of harm, including our policies on violent threats, civic integrity, and hateful conduct, we will err toward removal in borderline cases that might otherwise not violate existing rules for Posts that include misleading media.
 
-**What is in violation of this policy?**
+### What is not a violation of this policy 
 
-This policy addresses 4 categories of misleading behavior and content: 
+We seek to protect public conversation surrounding various issues. Media often accompany these conversations and encourage further discourse. In the absence of other policy violations, the following are generally not in violation of this policy:
 
-**Misleading information about how to participate**
+* **Memes or satire,** provided these do not cause significant confusion about the authenticity of the media;
+* **Animations, illustrations, and cartoons,** provided these do not cause significant confusion about the authenticity of the media.
+* **Commentary, reviews, opinions, and/or reactions.** Sharing media with edits that only add commentary, reviews, opinions, or reactions allows for further debate and discourse relating to various issues and are not in violation of this policy.
+* **Counterspeech.** We allow for direct responses to misleading information which seek to undermine its impact by correcting the record, amplifying credible information, and educating the wider community about the prevalence and dynamics of misleading information.
 
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
+### What happens if you violate this policy? 
 
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
+The consequences for violating our synthetic and manipulated media policy depends on the severity of the violation.
 
-**Suppression**
+**Post Deletion  
+**For high-severity violations of the policy, including misleading media that have a serious risk of harm to individuals or communities, we will require you to remove this content.
 
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
+**Labeling**  
+In circumstances where we do not remove content which violates this policy, we may provide additional context on posts sharing the misleading media where they appear on X. This means we may:
 
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
-    
+* Apply a label and/or warning message to the post
+* Show a warning to people before they share or like the post;
+* Reduce the visibility of the post on the platform and/or prevent it from being recommended;
+* Turn off likes, replies, and Reposts; and/or
+* Provide a link to additional explanations or clarifications, such as relevant X policies.
 
-**Intimidation**
+In most cases, we will take a combination of the above actions on posts we label. 
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+**Account locks**  
+If we determine that an account has advanced or continuously shares harmful misleading narratives that violate the synthetic and manipulated media policy, we may temporarily reduce the visibility of the account or lock or suspend the account. 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+If you believe that your account was locked or suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-**False or misleading affiliation**
+### Additional resources 
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-**What is not a violation of this policy?**
+Synthetic and manipulated media policy
+======================================
 
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
+### Overview 
 
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
+### April 2023
 
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
-     
-
-**What is in violation of this policy?**
-
-This policy addresses 4 categories of misleading behavior and content: 
-
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
-    
-
-**Intimidation**
-
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
-
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
-
-**False or misleading affiliation**
-
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
-     
-
-**What is in violation of this policy?**
-
-This policy addresses 4 categories of misleading behavior and content: 
-
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
-    
-
-**Intimidation**
-
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
-
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
-
-**False or misleading affiliation**
-
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
-     
-
-**What is in violation of this policy?**
-
-This policy addresses 4 categories of misleading behavior and content: 
-
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
-    
-
-**Intimidation**
-
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
-
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
-
-**False or misleading affiliation**
-
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
-     
-
-**What is in violation of this policy?**
-
-This policy addresses 4 categories of misleading behavior and content: 
-
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
-    
-
-**Intimidation**
-
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
-
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
-
-**False or misleading affiliation**
-
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
-     
-
-**What is in violation of this policy?**
-
-This policy addresses 4 categories of misleading behavior and content: 
-
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
-    
-
-**Intimidation**
-
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
-
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
-
-**False or misleading affiliation**
-
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
-     
-
-**What is in violation of this policy?**
-
-This policy addresses 4 categories of misleading behavior and content: 
-
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
-    
-
-**Intimidation**
-
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
-
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
-
-**False or misleading affiliation**
-
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
-     
-
-**What is in violation of this policy?**
-
-This policy addresses 4 categories of misleading behavior and content: 
-
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
-    
-
-**Intimidation**
-
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
-
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
-
-**False or misleading affiliation**
-
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
-     
-
-**What is in violation of this policy?**
-
-This policy addresses 4 categories of misleading behavior and content: 
-
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
-    
-
-**Intimidation**
-
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
-
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
-
-**False or misleading affiliation**
-
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
-     
-
-**What is in violation of this policy?**
-
-This policy addresses 4 categories of misleading behavior and content: 
-
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
-    
-
-**Intimidation**
-
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
-
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
-
-**False or misleading affiliation**
-
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
-     
-
-**What is in violation of this policy?**
-
-This policy addresses 4 categories of misleading behavior and content: 
-
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
-    
-
-**Intimidation**
-
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
-
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
-
-**False or misleading affiliation**
-
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
-     
-
-**What is in violation of this policy?**
-
-This policy addresses 4 categories of misleading behavior and content: 
-
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
-    
-
-**Intimidation**
-
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
-
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
-
-**False or misleading affiliation**
-
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
-     
-
-**What is in violation of this policy?**
-
-This policy addresses 4 categories of misleading behavior and content: 
-
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
-    
-
-**Intimidation**
-
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
-
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
-
-**False or misleading affiliation**
-
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
-     
-
-**What is in violation of this policy?**
-
-This policy addresses 4 categories of misleading behavior and content: 
-
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
-    
-
-**Intimidation**
-
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
-
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
-
-**False or misleading affiliation**
-
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
-     
-
-**What is in violation of this policy?**
-
-This policy addresses 4 categories of misleading behavior and content: 
-
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
-    
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
-    
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
-    
-
-**Intimidation**
-
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
-
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
-
-**False or misleading affiliation**
-
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
