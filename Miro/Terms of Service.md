@@ -1,3 +1,213 @@
+* Product
+    -------
+    
+    * [Product Overview](https://miro.com/product-overview/)
+    * [Visual Project Management](https://miro.com/how-project-managers-use-miro/)
+    * [Diagramming & Process Mapping](https://miro.com/diagramming/)
+    * [Product Development Workflows](https://miro.com/product-development/)
+    * [Content & Data Visualization](https://miro.com/team-workspace/)
+    
+    * [Workshops & Async Collaboration](https://miro.com/workshops-async-collaboration/)
+    * [Miro Assist](https://miro.com/ai/)
+    * [Apps & Integrations](https://miro.com/integrations/)
+    * [Developer Platform](https://developers.miro.com/)
+    
+    What’s new
+    ----------
+    
+    * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        ![](//images.ctfassets.net/w6r2i5d8q73s/21VkY7RX1MDBBeiQaY3SQe/b97afb5de86853e0e3ddf5866ec2d2ad/new-templates.png)
+        
+        New templates](https://miro.com/miroverse/)
+    * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        ![](//images.ctfassets.net/w6r2i5d8q73s/16FGWpDjU3jmVQ20A4kS5P/da1c90a82861e9f72cbca2b022820b9c/Sign-in-with-slack.png)
+        
+        Sign in with Slack](https://miro.com/works-with-slack/)
+    
+* Solutions
+    
+    By Team
+    -------
+    
+    * [Product Management](https://miro.com/how-product-teams-use-miro/)
+    * [Engineering](https://miro.com/how-development-teams-use-miro/)
+    * [IT Teams](https://miro.com/how-it-teams-use-miro/)
+    * [UX & Design](https://miro.com/how-ux-teams-use-miro/)
+    * [Consultants & Agencies](https://miro.com/consultants-agencies/)
+    * [Marketing](https://miro.com/how-marketing-teams-use-miro/)
+    * [Sales](https://miro.com/how-sales-teams-use-miro/)
+    
+    By Use Case
+    -----------
+    
+    * [Technical Diagramming](https://miro.com/technical-diagramming/)
+    * [Whiteboarding](https://miro.com/whiteboard/)
+    * [Wireframing](https://miro.com/wireframe/)
+    * [Mind Map](https://miro.com/mind-map/)
+    * [Retrospectives](https://miro.com/agile/retrospective/)
+    * [Scaled Product Planning](https://miro.com/agile/pi-planning/)
+    * [Process Mapping](https://miro.com/process-mapping/)
+    
+    * [Customer Journey Mapping](https://miro.com/customer-journey-map/)
+    * [Strategy & Planning](https://miro.com/strategic-planning/)
+    
+* Resources
+    
+    Connect & Learn
+    ---------------
+    
+    * [Miroverse Templates](https://miro.com/miroverse/)
+    * [Community](https://community.miro.com/)
+    * [Academy](https://academy.miro.com/)
+    * [Help Center](https://help.miro.com/)
+    * [Blog](https://miro.com/blog/)
+    * [Developer Platform](https://developers.miro.com/)
+    
+    Explore
+    -------
+    
+    * [Templates](https://miro.com/templates/)
+    * [Customer Journey Mapping Template](https://miro.com/templates/customer-journey-map/)
+    * [Business Model Canvas Template](https://miro.com/templates/business-model-canvas/)
+    * [User Story Map Template](https://miro.com/templates/user-story-map/)
+    * [Product Roadmap Template](https://miro.com/templates/product-roadmap/)
+    
+* Enterprise
+    
+    Enterprise-grade workspace
+    --------------------------
+    
+    * [Overview](https://miro.com/enterprise/)
+    * [Trust & Security](https://miro.com/security/)
+    * [Accessibility](https://miro.com/accessibility-statement/)
+    * [Customer Stories](https://miro.com/customers/)
+    
+* [Pricing](https://miro.com/pricing/)
+    
+
+[Contact Sales](https://miro.com/contact/sales/ "Contact Sales")
+
+[Login](https://miro.com/login/ "Login")[Sign up free](https://miro.com/signup/ "Sign up free")
+
+**Menu**
+
+* What is Miro
+    
+* Solutions
+    
+* Resources
+    
+* Enterprise
+    
+* [Pricing](https://miro.com/pricing/)
+
+* * *
+
+* [Contact Sales](https://miro.com/contact/sales/)
+
+* * *
+
+[Login](https://miro.com/login/ "Login")[Sign up free](https://miro.com/signup/ "Sign up free")
+
+* What is Miro
+    
+* Solutions
+    
+* Resources
+    
+* Enterprise
+    
+* [Pricing](https://miro.com/pricing/)
+
+* * *
+
+* [Contact Sales](https://miro.com/contact/sales/)
+
+Miro legal information
+======================
+
+###### Table of contents
+
+Terms of Service
+
+[1\. Overview](#1.-overview)
+
+[2\. The Service](#2.-the-service)
+
+[3\. Support](#3.-support)
+
+[4\. Customer Content](#4.-customer-content)
+
+[5\. Customer Obligations](#5.-customer-obligations)
+
+[6\. Suspension of Service](#6.-suspension-of-service-)
+
+[7\. Third-Party Platforms](#7.-third-party-platforms)
+
+[8\. Technical Services](#8.-technical-services)
+
+[9\. Commercial Terms](#9.-commercial-terms)
+
+[10\. Warranties and Disclaimers](#10.-warranties-and-disclaimers)
+
+[11\. Term and Termination](#11.-term-and-termination)
+
+[12\. Ownership](#12.-ownership)
+
+[13\. Limitations of Liability](#13.-limitations-of-liability)
+
+[14\. Indemnification](#14.-indemnification)
+
+[15\. Confidentiality](#15.-confidentiality)
+
+[16\. Required Disclosures](#16.-required-disclosures)
+
+[17\. Trials and Betas](#17.-trials-and-betas-)
+
+[18\. Publicity](#18.-publicity)
+
+[19\. Modifications to Agreement](#19.-modifications-to-agreement)
+
+[20\. General Terms](#20.-general-terms)
+
+[Definitions](#definitions)
+
+[Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement)
+
+[Privacy Policy](https://miro.com/legal/privacy-policy)
+
+[Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
+
+[Cookies Policy](https://miro.com/legal/cookies-policy)
+
+[Developer Terms of Use](https://miro.com/legal/developer-terms-of-use)
+
+[Online Community Terms of Use](https://miro.com/legal/online-community-terms-of-use)
+
+[Open Source Software - Site](https://miro.com/legal/open-source-software-site)
+
+[Open Source Software - Client](https://miro.com/legal/open-source-software-client)
+
+[Current Subprocessors List](https://miro.com/legal/subprocessors-list)
+
+[Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
+
+[Customer Data Processing Addendum](https://miro.com/legal/customer-data-processing-addendum)
+
+[Code of Conduct](https://miro.com/legal/code-of-conduct)
+
+[Miro Imprint](https://miro.com/legal/miro-imprint)
+
+[Vendor Data Processing Addendum](https://miro.com/legal/vendor-data-processing-addendum)
+
+[Miro Marketplace Terms of Use](https://miro.com/legal/miro-marketplace-terms-of-use)
+
+[Miro Assist Beta Program Terms](https://miro.com/legal/miro-assist-terms)
+
+##### Table of contents
+
 Terms of Service
 ----------------
 
