@@ -26,7 +26,7 @@ At GitLab, we take the privacy and security of your information seriously. This 
 * [Other important privacy information](https://about.gitlab.com/privacy/#other-important-privacy-information)
     
 
-This Privacy Statement applies to the GitLab websites ("Websites"), GitLab.com ("SaaS"), Self-managed ("Self-managed"), and additional software products and services; collectively "Services."
+This Privacy Statement applies to the GitLab websites ("Websites"), GitLab.com ("SaaS"), Self-managed ("Self-managed"), and additional software products and services; collectively "Services.
 
 What Personal Data does GitLab collect about me?
 ------------------------------------------------
@@ -108,14 +108,11 @@ GitLab uses your Personal Data for the following purposes:
 * To conduct user research and development;
 * To send you important information about the Services;
 * To send you information you have requested;
-* To send you advertising, marketing content, offers, promotions, newsletters, surveys or other information;
-* To provide you a forum to comment on or discuss the Services;
 * To create digital productions and manage events;
 * To provide trainings and learning opportunities;
 * To enable partners to register and track deals;
 * To provide workload and code review recommendations through machine-learning;
-* To respond to your requests for customer support;
-* To improve the security of and troubleshoot our Services, as necessary to perform the contract governing your use of our applications or to communicate with you;
+* To respond to your requests for customer support; - To improve the security of and troubleshoot our Services, as necessary to perform the contract governing your use of our applications or to communicate with you;
 * To detect, prevent, or otherwise address fraud and abuse to protect you, GitLab, and third-parties;
 * To enforce the legal terms that govern our Services;
 * To comply with our legal obligations;
