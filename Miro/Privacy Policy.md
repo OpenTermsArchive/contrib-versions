@@ -26,6 +26,8 @@
         
         Sign in with Slack](https://miro.com/works-with-slack/)
     
+    [See changelog](https://miro.com/changelog/)
+    
 * Solutions
     
     By Team
