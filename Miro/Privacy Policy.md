@@ -8,7 +8,7 @@
     * [Content & Data Visualization](https://miro.com/team-workspace/)
     
     * [Workshops & Async Collaboration](https://miro.com/workshops-async-collaboration/)
-    * [Miro Assist](https://miro.com/ai/)
+    * [Miro Assist](https://miro.com/assist/)
     * [Apps & Integrations](https://miro.com/integrations/)
     * [Developer Platform](https://developers.miro.com/)
     
@@ -17,16 +17,16 @@
     
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        ![](//images.ctfassets.net/w6r2i5d8q73s/21VkY7RX1MDBBeiQaY3SQe/b97afb5de86853e0e3ddf5866ec2d2ad/new-templates.png)
+        ![](//images.ctfassets.net/w6r2i5d8q73s/4EeqiJ0Yiho3Ompmbbe0Xm/12b5b829b54e09cad0bb13dd8bccb9d5/Reclaim_your_time_with_Talktrack.png)
         
-        New templates](https://miro.com/miroverse/)
+        Record a Talktrack](https://miro.com/blog/what-we-launched-september-2023/)
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        ![](//images.ctfassets.net/w6r2i5d8q73s/16FGWpDjU3jmVQ20A4kS5P/da1c90a82861e9f72cbca2b022820b9c/Sign-in-with-slack.png)
+        ![](//images.ctfassets.net/w6r2i5d8q73s/1JVD1MjU9YKgxGTQzgNbp1/0eecfbd4af3cf1556691eb581f9fe757/Flex_your_flexibility_with_Planner.png)
         
-        Sign in with Slack](https://miro.com/works-with-slack/)
+        Planner = Integrated planning](https://miro.com/what-we-launched-september-2023/#h-1-product-development-workflows-for-faster-time-to-market/)
     
-    [See changelog](https://miro.com/changelog/)
+    [See all updates](https://miro.com/whats-new/)
     
 * Solutions
     
