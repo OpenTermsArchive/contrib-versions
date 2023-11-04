@@ -1,1727 +1,252 @@
-Hateful Conduct
-===============
+Synthetic and manipulated media policy
+======================================
 
 ### Overview 
 
-**April 2023**
+### April 2023
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Synthetic and manipulated media policy
+======================================
 
 ### Overview 
 
-**April 2023**
+### April 2023
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Synthetic and manipulated media policy
+======================================
 
 ### Overview 
 
-**April 2023**
+### April 2023
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Synthetic and manipulated media policy
+======================================
 
 ### Overview 
 
-**April 2023**
+### April 2023
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Synthetic and manipulated media policy
+======================================
 
 ### Overview 
 
-**April 2023**
+### April 2023
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Synthetic and manipulated media policy
+======================================
 
 ### Overview 
 
-**April 2023**
+### April 2023
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Synthetic and manipulated media policy
+======================================
 
 ### Overview 
 
-**April 2023**
+### April 2023
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Synthetic and manipulated media policy
+======================================
 
 ### Overview 
 
-**April 2023**
+### April 2023
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Synthetic and manipulated media policy
+======================================
 
 ### Overview 
 
-**April 2023**
+### April 2023
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Synthetic and manipulated media policy
+======================================
 
 ### Overview 
 
-**April 2023**
+### April 2023
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Synthetic and manipulated media policy
+======================================
 
 ### Overview 
 
-**April 2023**
+### April 2023
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Synthetic and manipulated media policy
+======================================
 
 ### Overview 
 
-**April 2023**
+### April 2023
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Synthetic and manipulated media policy
+======================================
 
 ### Overview 
 
-**April 2023**
+### April 2023
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Synthetic and manipulated media policy
+======================================
 
 ### Overview 
 
-**April 2023**
+### April 2023
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Synthetic and manipulated media policy
+======================================
 
 ### Overview 
 
-**April 2023**
+### April 2023
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Synthetic and manipulated media policy
+======================================
 
 ### Overview 
 
-**April 2023**
+### April 2023
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
+Synthetic and manipulated media policy
+======================================
 
 ### Overview 
 
-**April 2023**
+### April 2023
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+### What is in violation of this policy 
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+In order for content with **misleading media** (including images, videos, audios, gifs, and URLs hosting relevant content) to be labeled or removed under this policy, it must:
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
+* Include media that is significantly and deceptively altered, manipulated, or fabricated, or
+* Include media that is shared in a deceptive manner or with false context, and
+* Include media likely to result in widespread confusion on public issues, impact public safety, or cause serious harm
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
+We use the following criteria as we consider posts and media for labeling or removal under this policy as part of our ongoing work to enforce our rules and ensure healthy and safe conversations on X:
 
-### What is in violation of this policy?  
+**1\. Is the content significantly and deceptively altered, manipulated, or fabricated?**
 
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
+In order for content to be labeled or removed under this policy, we must have reason to believe that media are significantly and deceptively altered, manipulated, or fabricated. Synthetic and manipulated media take many different forms and people can employ a wide range of technologies to produce these media. Some of the factors we consider include:
 
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
+* whether media have been substantially edited or post-processed in a manner that fundamentally alters their composition, sequence, timing, or framing and distorts their meaning; 
+* whether there are any visual or auditory information (such as new video frames, overdubbed audio, or modified subtitles) that has been added, edited, or removed that fundamentally changes the understanding, meaning, or context of the media;
+* whether media have been created, edited, or post-processed with enhancements or use of filters that fundamentally changes the understanding, meaning, or context of the content; and
+* whether media depicting a real person have been fabricated or simulated, especially through use of artificial intelligence algorithms
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+We will not take action to label or remove media that have been edited in ways that do not fundamentally alter their meaning, such as retouched photos or color-corrected videos. 
 
-**Incitement  
-**
+In order to determine if media have been significantly and deceptively altered or fabricated, we may use our own technology or receive reports through partnerships with third parties. In situations where we are unable to reliably determine if media have been altered or fabricated, we may not take action to label or remove them.
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+**2\. Is the content shared in a deceptive manner or with false context?**
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+We also consider whether the context in which media are shared could result in confusion or suggests a deliberate intent to deceive people about the nature or origin of the content, for example, by falsely claiming that it depicts reality. We assess the context provided alongside media to see whether it provides true and factual information. Some of the types of context we assess in order to make this determination include:
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+* whether inauthentic, fictional, or produced media are presented or being endorsed as fact or reality, including produced or staged works, reenactments, or exhibitions portrayed as actual events;
+* whether media are presented with false or misleading context surrounding the source, location, time, or authenticity of the media;
+* whether media are presented with false or misleading context surrounding the identity of the individuals or entities visually depicted in the media;
+* whether media are presented with misstatements or misquotations of what is being said or presented with fabricated claims of fact of what is being depicted
 
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We will not take action to label or remove media that have been shared with commentary or opinions that do not advance or present a misleading claim on the context of the media such as those listed above. 
 
-**Dehumanization**
+In order to determine if media have been shared in a deceptive manner or with false context, we may use our own technology or receive reports through partnerships with third parties. In situations where we are unable to reliably determine if media have been shared with false context, we will not label or remove the content.
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+**3\. Is the content likely to result in widespread confusion on public issues, impact public safety, or cause serious harm?**
 
-**Hateful Imagery** 
+Posts that share misleading media are subject to removal under this policy if they are likely to cause serious harm. Some specific harms we consider include:
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+* Threats to physical safety of a person or group
+* Incitement of abusive behavior to a person or group
+* Risk of mass violence or widespread civil unrest
+* Risk of impeding or complicating provision of public services, protection efforts, or emergency response
+* Threats to the privacy or to the ability of a person or group to freely express themselves or participate in civic events, such as:
+    * Stalking or unwanted and obsessive attention
+    * Targeted content that aims to harass, intimidate, or silence someone else's voice
+    * Voter suppression or intimidation
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+We also consider the time frame within which the content may be likely to impact public safety or cause serious harm, and are more likely to remove content under this policy if immediate harm is likely to result.
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
+Posts with misleading media that are not likely to result in immediate harm but still have a potential to impact public safety, result in harm, or cause widespread confusion towards a public issue (health, environment, safety, human rights and equality, immigration, and social and political stability) may be labeled to reduce their spread and to provide additional context. 
 
-**Hateful Profile**
+While we have other rules also intended to address these forms of harm, including our policies on violent threats, civic integrity, and hateful conduct, we will err toward removal in borderline cases that might otherwise not violate existing rules for Posts that include misleading media.
 
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
+### What is not a violation of this policy 
 
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
+We seek to protect public conversation surrounding various issues. Media often accompany these conversations and encourage further discourse. In the absence of other policy violations, the following are generally not in violation of this policy:
 
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
+* **Memes or satire,** provided these do not cause significant confusion about the authenticity of the media;
+* **Animations, illustrations, and cartoons,** provided these do not cause significant confusion about the authenticity of the media.
+* **Commentary, reviews, opinions, and/or reactions.** Sharing media with edits that only add commentary, reviews, opinions, or reactions allows for further debate and discourse relating to various issues and are not in violation of this policy.
+* **Counterspeech.** We allow for direct responses to misleading information which seek to undermine its impact by correcting the record, amplifying credible information, and educating the wider community about the prevalence and dynamics of misleading information.
 
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
+### What happens if you violate this policy? 
 
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
+The consequences for violating our synthetic and manipulated media policy depends on the severity of the violation.
 
-### What happens if you violate this policy?  
+**Post Deletion  
+**For high-severity violations of the policy, including misleading media that have a serious risk of harm to individuals or communities, we will require you to remove this content.
 
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
+**Labeling**  
+In circumstances where we do not remove content which violates this policy, we may provide additional context on posts sharing the misleading media where they appear on X. This means we may:
 
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
+* Apply a label and/or warning message to the post
+* Show a warning to people before they share or like the post;
+* Reduce the visibility of the post on the platform and/or prevent it from being recommended;
+* Turn off likes, replies, and Reposts; and/or
+* Provide a link to additional explanations or clarifications, such as relevant X policies.
 
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
+In most cases, we will take a combination of the above actions on posts we label. 
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Account locks**  
+If we determine that an account has advanced or continuously shares harmful misleading narratives that violate the synthetic and manipulated media policy, we may temporarily reduce the visibility of the account or lock or suspend the account. 
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+If you believe that your account was locked or suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-Hateful Conduct
-===============
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+
+Synthetic and manipulated media policy
+======================================
 
 ### Overview 
 
-**April 2023**
+### April 2023
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
-  
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
-
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
-  
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
-
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
