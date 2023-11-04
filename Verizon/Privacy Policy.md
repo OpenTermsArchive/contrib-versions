@@ -1,1087 +1,1086 @@
-Echemos un vistazo a  
-la Política de Privacidad  
-completa de Verizon.
-=======================================================================
+Let’s take a look at the  
+full Verizon Privacy Policy.
+=======================================================
 
-Nuestra Política de Privacidad describe la información que recopilamos, cómo se usa y comparte, tus opciones sobre usos y usos compartidos y tus derechos conforme a ciertas leyes de privacidad.  
-[Ver cambios recientes](https://esus.verizon.com/about/privacy/changes-privacy-policy)  
-[Imprimir esta política](https://esus.verizon.com/about/privacy/)
+Our Privacy Policy describes the information we collect, how it is used and shared, your choices about uses and sharing and your rights under certain privacy laws.  
+[View recent changes](https://www.verizon.com/about/privacy/changes-privacy-policy)  
+[Print this policy](https://www.verizon.com/about/privacy/)
 
-Abrir todo
+Open all
 
-* [¿Qué información recopila Verizon?
-    ----------------------------------
+* [What information does Verizon collect?
+    --------------------------------------
     
-    Descubre más sobre la información que Verizon recopila sobre ti, tus dispositivos y tu uso de los productos y servicios que proporcionamos.](#acc-item-30)
+    Learn about the information Verizon collects about you, your devices and your use of products and services we provide.](#acc-item-30)
     
-    ### Recopilamos información cuando interactúas con nosotros y usas nuestros productos y servicios.
+    ### We collect information when you interact with us and use our products and services.
     
-    Los tipos de información que nosotros, o proveedores de servicios que actúan en nuestro nombre, recopilan depende del uso que hagas de nuestros productos y servicios y de [las formas en que interactúas con nosotros](#). Esto puede incluir información sobre:
+    The types of information we, or service providers acting on our behalf, collect depends on your use of our products and services and [the ways that you interact with us](#). This may include information about:
     
-    las formas en que interactúas con nosotros
+    the ways that you interact with us
     
-    Puedes interactuar con nosotros de diferentes maneras, por ejemplo, cuando visitas nuestras tiendas, nos llamas o utilizas nuestros sitios web o aplicaciones para hacer un pedido o tienes preguntas sobre tu cuenta o servicios; trabajas con Verizon como representante de un cliente empresarial; nos contactas en las redes sociales; buscas asistencia técnica; participas en un concurso, sorteo o promoción patrocinados por Verizon o sus filiales; o te registras para recibir noticias o actualizaciones sobre políticas públicas. 
+    You may interact with us in a variety of ways, for example, when you visit our stores, call us, or use our sites or apps to place an order or ask questions about your account or services; work with Verizon as a representative of a business customer; contact us on social media; seek technical support; enter a Verizon-sponsored or affiliated contest, sweepstakes or promotion; or register to receive news or public policy updates. 
     
-    Cuando te comuniques con nosotros, podríamos monitorear o registrar la interacción para poder brindarte un mejor servicio; para personalizar tus experiencias; para capacitar o apoyar de alguna manera a los empleados, recursos o sistemas, y con fines de seguridad. Podemos usar inteligencia artificial administrada por humanos, como los bots de chat, para responder tus preguntas. Cuando interactúas con nosotros a través de servicios de terceros como Facebook Messenger, tus comunicaciones también se rigen por las políticas de privacidad de estas empresas.
+    When you communicate with us, we may monitor or record the interaction to help us better serve you; to personalize your experiences; to train or otherwise support employees, resources or systems; and for security purposes. We may use artificial intelligence managed by humans, such as chatbots, to respond to your inquiry. When you interact with us through third-party services like Facebook Messenger, your communications are also governed by these companies’ privacy policies.
     
-    * [Contacto, facturación y otra información que proporciones](#)
-    * [Cómo usas nuestros servicios y tus dispositivos](#)
-    * [Cómo usas nuestros sitios web y aplicaciones](#)
-    * [Cómo funcionan nuestra red y tus dispositivos](#)
-    * [Ubicación de tus dispositivos inalámbricos](#)
+    * [Contact, billing and other information you provide](#)
+    * [How you use our services and your devices](#)
+    * [How you use our sites and apps](#)
+    * [How our network and your devices are working](#)
+    * [Location of your wireless devices](#)
     
-    Contacto, facturación y otra información que proporciones
+    Contact, billing and other information you provide
     
-    Incluye tu nombre, dirección, correo electrónico, números de teléfono para contactarte, imágenes, grabaciones de voz o impresiones vocales, otros identificadores biométricos, fecha de nacimiento, número de la licencia de conducir, número del Seguro Social o identificador fiscal e información de pago.
+    This includes your name, address, email, phone numbers where you can be reached, images, voice recordings or voiceprints, other biometric identifiers, date of birth, driver's license number, Social Security Number or Tax Identifier and payment information.
     
-    También puede incluir información que proporciones en encuestas, promociones patrocinadas por Verizon y solicitudes de subvención o de trabajo.
+    It can also include information you provide in surveys, Verizon-sponsored promotions, and grant or job apps.
     
-    Cómo usas nuestros servicios y tus dispositivos
+    How you use our services and your devices
     
-    Según los servicios que uses, se pueden incluir: los registros de llamadas que contienen números de teléfonos a los que llamas y de los que recibes llamadas, los sitios que visitas, registros de mensajes de texto, ubicación móvil, uso de aplicaciones y funciones, información específica e identificadores del producto y del dispositivo, conexiones del enrutador, información sobre el servidor del nombre de dominio, opciones de servicio que escojas, números de móvil y dispositivo, uso y paquetes de videos y de streaming de videos, alquiler de películas y datos de compras, audiencia televisiva y de videos, velocidad y otras características de manejo y otra información similar.  
+    Depending on the services you use, this may include: call records containing phone numbers you call and receive calls from, sites you visit, text records, wireless location, application and feature usage, product and device-specific information and identifiers, router connections, domain name server information, service options you choose, mobile and device numbers, video streaming and video packages and usage, movie rental and purchase data, TV and video viewership, speed and other driving characteristics, and other similar information.  
     
-    Cómo usas nuestros sitios web y aplicaciones
+    How you use our sites and apps
     
-    Esto incluye información sobre tus actividades de navegación, búsqueda y compra, tales como tu dirección IP, número de teléfono móvil, números e identificadores de dispositivos, direcciones de los sitios web de los que vienes y a los que vas, grabaciones de pantalla, movimientos del cursor, interacciones en la pantalla y clics, información del sistema operativo y navegador, tipo de plataforma, velocidad de conexión y otros atributos.Podemos determinar la zona general en la que te encuentras y el proveedor de servicios de internet que usas a partir de la dirección IP que utilizas.  
+    This includes information about your browsing, searching and buying activities such as your IP address, mobile phone number, device numbers and identifiers, web addresses of the sites you come from and go to next, screen recordings, cursor movements, screen interactions and clicks, browser and operating system information, platform type, connection speed and other attributes. We may derive the general area you are in and the internet service provider you are using from the IP address you use.  
     
-    Cómo funcionan nuestra red y tus dispositivos
+    How our network and your devices are working
     
-    Nosotros monitoreamos el estado de nuestras redes, incluida Fios Internet Wi-Fi, como el flujo de tráfico, la velocidad, la capacidad, la potencia, la calidad y las condiciones medioambientales, incluidos los puntos de acceso de Wi-Fi. Además, podemos recopilar información de pruebas o tomar fotos del equipo que instalamos o reparamos.
+    We monitor the condition of our networks, including Fios Internet Wi-Fi, such as traffic flow, speed, capacity, power, quality and environmental conditions including nearby Wi-Fi access points. We may also collect test information from or take pictures of equipment we install or repair.
     
-    Instalamos software del sistema en algunos dispositivos inalámbricos que pueden:
+    We install system software on some wireless devices which may:
     
-    * recopilar información sobre las condiciones de la red y los dispositivos, incluida la ubicación, la vida de la batería y las aplicaciones en el dispositivo.
-    * instalar automáticamente las aplicaciones y el software cuando actives tu dispositivo, durante ciertas actualizaciones del sistema operativo y, con tu consentimiento en el futuro, por ejemplo, cuando solicites una aplicación desde un anuncio. El software también puede actualizar las apps que instaló en tu dispositivo o cuando lo permites de otra manera.  También recopila información cuando una aplicación se abre o se desinstala por primera vez y puede enviarte notificaciones sobre ofertas y promociones de Verizon y de terceros que pueden interesarte. Puedes usar los controles de la aplicación en el dispositivo para deshabilitar las notificaciones desde el Administrador de aplicaciones de Verizon para dejar de recibir estos mensajes.
+    * collect information about network and device conditions including location, battery life and apps on the device.
+    * automatically install apps or software when you activate your device, during certain operating system upgrades and with your consent at later times, for example, when you request an app from an advertisement. The software may also update apps that it installed on your device or when you otherwise permit it.  It also collects information when an app it places is first opened or is uninstalled and may send you notifications about Verizon and third-party offers and promotions that may interest you. You can use your device app controls to disable notifications from Verizon App Manager to opt out of these messages.
     
-    Algunas aplicaciones instaladas o actualizadas en tu dispositivo no aparecen como ícono en la pantalla de tu dispositivo por su utilidad limitada. Por ejemplo, pueden facilitar la descarga de aplicaciones que selecciones para tu dispositivo, actualizar las aplicaciones que ya tienes en tu dispositivo e informar al dueño de una aplicación que esa aplicación se abrió en tu dispositivo. Puedes ver las aplicaciones instaladas en tu dispositivo, además de eliminarlas o deshabilitarlas, sin importar si tienen íconos visibles o no, con el Administrador de aplicaciones del dispositivo en la opción Ajustes. Las aplicaciones en tu dispositivo están regidas por sus propios términos y políticas de privacidad.
+    Some apps installed or updated on your device in this way do not appear as icons on your device screen because of their limited utility. For example, they might facilitate the download of apps you select for your device, update apps you already have on your device, or report to an app owner that an app has been opened on the device. You can see and also delete or disable apps installed on your device, whether or not they have visible icons, using your device’s Application Manager under Settings. Apps on your device are governed by their own terms and privacy policies.
     
-    Ubicación de tus dispositivos inalámbricos
+    Location of your wireless devices
     
-    Recopilamos información sobre la ubicación de la torre celular. Según los permisos que hayas otorgado, podemos recopilar información de Wi-Fi, sistema de posicionamiento global (GPS) y demás información de ubicación, por ejemplo, a través de las aplicaciones de Verizon que uses  
+    We collect cell tower location information. Based on what you have allowed, we may also collect Wi-Fi, Global Positioning Satellite (GPS) and other location information, for example, through Verizon apps you use  
     
-    Los clientes empresariales pueden tener contratos con nosotros que incluyan cláusulas sobre privacidad específicas para esa relación y diferentes de las que se encuentran aquí. Tu contrato prevalecerá en esos casos. 
+    Business customers may have contracts with us that include privacy provisions that are specific to that relationship and differ from what you find here. Your contract will govern in those cases. 
     
-    ### También obtenemos información de otras fuentes.
+    ### We also obtain information from others.
     
-    Esto incluye lo siguiente: 
+    This includes: 
     
-    * [Información crediticia de agencias externas](#)
-    * [Datos demográficos y de interés](#), así como el tipo de dispositivo, proveedores de servicio, información del estado y la ciudad de parte de proveedores terceros de datos
-    * [Información de las plataformas de redes sociales](#) cuando interactúas con nosotros a través de las redes sociales o usas tu inicio de sesión en las redes sociales para interactuar con sitios u ofertas de Verizon
-    * [Contacto, oportunidades de marketing e información de otro tipo que compremos o recibamos](#)
-    * [Información sobre fraudes](#)
+    * [Credit information from outside agencies](#)
+    * [Demographic and interest data](#) as well as device type, carrier, city and state information from third party data providers
+    * [Information from social media platforms](#) when you interact with us via social media or use your social media login to interact with Verizon sites or offers
+    * [Contact, marketing lead and other information we purchase or receive](#)
+    * [Fraud information](#)
     
-    Información crediticia de agencias externas
+    Credit information from outside agencies
     
-    Obtenemos esta información cuando compras productos o solicitas servicios o cuando te preseleccionamos para productos o servicios.  
+    We obtain this information when you purchase products, apply for services, or when we pre qualify you for products or services.  
     
-    Datos demográficos y de interés
+    Demographic and interest data
     
-    Por ejemplo, esta información puede incluir sexo, grupo de edad, nivel educativo, afición a los deportes, restaurantes frecuentados y otras estadísticas demográficas e intereses.  
+    For example, this information could include gender, age range, education level, sports enthusiast, frequent diner and other demographics and interests.  
     
-    Información de las plataformas de redes sociales
+    Information from social media platforms
     
-    Incluye información que obtenemos de tu perfil público, así como intereses, contenido marcado con "me gusta" e información similar que permitas que las compañías de redes sociales compartan con nosotros.  
+    This includes information we obtain from your public profile as well as interests, "likes" and similar information you permit social media companies to share with us.  
     
-    Contacto, oportunidades de marketing e información de otro tipo que compremos o recibamos
+    Contact, marketing lead and other information we purchase or receive
     
-    Esto incluye la información de clientes potenciales que compramos, así como los clientes potenciales que obtenemos de "recomiende a un amigo" y programas similares. Esto incluye información del propietario cuando la necesitemos para instalar, reparar o hacerle el mantenimiento al equipo.  
+    This includes lead information we purchase as well as leads we obtain from "refer a friend" and similar programs. It also includes landlord information when we need it for installing, repairing or maintaining equipment.  
     
-    Información sobre fraudes
+    Fraud information
     
-    Esto incluye puntuaciones de riesgo y otros indicadores que recibimos de empresas que nos ayudan a identificar fraudes.  
+    This includes risk scores and other indicators we receive from companies that help us identify fraud.  
     
-* [¿Cómo utiliza Verizon la información?
-    -------------------------------------
+* [How does Verizon use information?
+    ---------------------------------
     
-    Descubre más sobre las diferentes maneras en las que usamos la información que recopilamos.](#acc-item-31)
+    Learn about the different ways we use the information we collect.](#acc-item-31)
     
-    ### Usamos la información para brindarte servicios y mejorar tus experiencias con nosotros.
+    ### We use information to provide you with services and enhance your experiences with us.
     
-    Usamos la información para lo siguiente:
+    We use information to:
     
-    * Suministrar y mantener productos y servicios
-    * Establecer y mantener tus registros de cuenta y facturación
-    * Calcular el riesgo de crédito y de pago
-    * Proporcionar servicios e información relacionados con la cuenta
-    * Ayudarte con problemas y preguntas de servicio y asistencia técnica
-    * Gestionar y proteger nuestras redes, servicios, empleados y usuarios
-    * Detectar y prevenir fraude
-    * Ayudarnos a mejorar y [personalizar tus servicios.](#)
-    * Investigar, desarrollar y comercializar nuevos productos y servicios
-    * Autenticarte
-    * [Determinar tu elegibilidad para nuevos productos y servicios](#)
-    * Predecir mejor el contenido y las ofertas de marketing que te puedan interesar
-    * Ofrecerte [contenidos y ofertas personalizados](#)
+    * Deliver and maintain products and services
+    * Establish and maintain your account and billing records
+    * Measure credit and payment risk
+    * Provide account-related services and information
+    * Help you with service and technical support issues or questions
+    * Manage and protect our networks, services, employees and users
+    * Detect and prevent fraud
+    * Help us improve and [personalize your services.](#)
+    * Research, develop and market new products and services
+    * Authenticate you
+    * [Determine your eligibility for new products and services](#)
+    * Better predict content and marketing offers that may interest you
+    * [Deliver personalized content and offers](#) to you
     
-    Determinar tu elegibilidad para nuevos productos y servicios
+    Determine your eligibility for new products and services
     
-    Por ejemplo, podemos usar la información para determinar si eres elegible para actualizaciones de servicio o para preseleccionarte para obtener crédito (a menos que hayas [optado por no participar](https://www.optoutprescreen.com/) [en toda la industria](https://www.optoutprescreen.com/) o llamando al 1-888-567-8688 ).  
+    For example, we may use information to determine whether you are eligible for service upgrades or to prescreen you for credit (unless you have opted out using the [industry-wide](https://www.optoutprescreen.com/) [opt out](https://www.optoutprescreen.com/) or by calling 1-888-567-8688).  
     
-    personalizar tu servicio
+    personalize your service
     
-    Por ejemplo, podríamos usar la información que recopilamos para adaptar el contenido que ves y el marketing que recibes, gestionar la frecuencia con la que ves un anuncio publicitario, diseñar anuncios publicitarios para que se adapten mejor a tus intereses, proporcionarte anuncios relacionados con el servicio y entender la eficacia de nuestra publicidad.  
+    For example, we may use information we collect to tailor the content you see and marketing you receive, manage the frequency with which you see an advertisement, tailor advertisements to better match your interests, provide service-related notices and understand the effectiveness of our advertising.  
     
-    Brindar contenido y ofertas personalizados
+    Deliver personalized content and offers
     
-    Podemos transmitir mensajes de marketing de Verizon en nuestros sitios web y aplicaciones y en sitios web y aplicaciones que no son de Verizon, por medio de nuestros representantes, a través de correo postal, correo electrónico u otros dispositivos o servicios de Verizon. Además, podemos colocar anuncios en nuestros sitios web, aplicaciones o servicios de productos y servicios de terceros que ofrece Verizon. Estos anuncios pueden colocarse en función de la información que tenemos sobre tus productos y servicios de Verizon, y de la información geográfica y demográfica.   
+    We may deliver Verizon marketing on our sites and apps and on non-Verizon sites and apps, by our representatives, via mail or email or via other Verizon services or devices. We may also place advertisements on our sites, apps or services for third party products and services offered by Verizon. These ads may be placed based on information we have about your Verizon products and services, and geographic and demographic information.   
     
     information about your visits
     
     This applies to information we collect as part of providing broadband Internet access services to you.  
     
-    Nuestro programa Custom Experience utiliza información sobre los [sitios que visitas y las aplicaciones que usas](#) en tu dispositivo móvil para ayudarnos a personalizar mejor nuestras comunicaciones contigo, brindarte recomendaciones de productos y servicios más relevantes y desarrollar planes, servicios y ofertas que sean más atractivos para ti. Estás incluido en el programa [a menos que optes por no participar.](https://esus.verizon.com/about/privacy/full-privacy-policy#acc-item-34)
+    Our Custom Experience program uses information about [sites you visit and apps you use](#) on your mobile device to help us better personalize our communications with you, give you more relevant product and service recommendations, and develop plans, services, and offers that are more appealing to you. You are included in the program [unless you opt out.](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34)
     
-    sitios que visitas y aplicaciones que usas
+    sites you visit and apps you use
     
-    Solo usamos la primera parte de las direcciones web (URL) que visitas (la parte que incluye el dominio de nivel superior y el subdominio de la URL); no usamos la información que aparece luego de "/" o "?" en la URL. Usamos esta información y los patrones de uso dentro de esta información para predecir tus intereses, las preferencias y otra información que utilizamos en este programa. 
+    We use only the first part of the web addresses (URLs) you visit (the part that includes the top level domain and subdomain of the URL); we do not use information past the first “/” or “?” in the URL. We use this information and usage patterns within this information to predict your interests, preferences and other insights we use in the program. 
     
-    El programa Custom Experience Plus utiliza un conjunto de datos más amplio por los mismos motivos, incluida información sobre los sitios que visitas y las aplicaciones que usas, tus servicios de Verizon Fios y los datos de tu ubicación, además de la Información Privada del Cliente en la Red, como pueden ser los números telefónicos a los que llamas o que te llaman a ti. Debes [optar por ser parte de este programa](https://esus.verizon.com/about/privacy/full-privacy-policy#acc-item-34).
+    Our Custom Experience Plus program uses a broader set of information for the same purposes including information about sites you visit and apps you use, your Verizon Fios services, location information, and Customer Proprietary Network Information, including phone numbers you call or those that call you. You must [opt in to be part of this program](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34).
     
-    Puedes encontrar más información sobre nuestros programas Custom Experience en las [Preguntas frecuentes sobre nuestro programa](https://espanol.verizon.com/support/verizon-custom-experience-programs-faqs).
+    More information about our Custom Experience programs is available in our [program FAQs](https://www.verizon.com/support/verizon-custom-experience-programs-faqs).
     
-    ### Usamos algunos tipos de información para fines adicionales:
+    ### We use some types of information for additional purposes:
     
     |     |     |
-    | --- | --- |Información que usamos para fines adicionales
-    | Información: | Usos adicionales: |
+    | --- | --- |Information we use for additional purposes
+    | Information: | Additional uses: |
     | --- | --- |
-    | Clics, aperturas y otras interacciones con nuestros anuncios, correos electrónicos, sitios y aplicaciones | * Personalizar tus experiencias y hacer que nuestro marketing sea más relevante para ti<br>* Ayudarte cuando solicites asistencia con la navegación del sitio web o aplicación<br>* Protegerte a ti y a nosotros contra fraudes |
-    | La ubicación obtenida de las aplicaciones de sistemas en tus dispositivos móviles | * Proveer ayuda para ubicarte en una emergencia <br>* Ayudar a mejorar la precisión de la ubicación en nuestros servicios y aplicaciones<br>* Para proporcionarte actualizaciones de aplicaciones móviles |
-    | Información de tus llamadas y chats con nuestros representantes de servicio y asistencia | * Ayudar a capacitar a los empleados y mantener recursos y sistemas para servirte mejor<br>* Proporcionar asistencia técnica personalizada<br>* Ayudarte con la configuración de dispositivo<br>* Para ayudarte a personalizar tu experiencia y nuestro contenido de marketing para ti |
-    | Solicitudes y encuestas de empleo y de subvenciones | * Para los fines para los que la proporcionaste o como fue descrita al momento en el que enviaste la información |
-    | Información obtenida de otras fuentes | * Determinar solvencia y realizar análisis de riesgo comercial<br>* Verificar tu identidad<br>* Contactarte con ofertas de marketing<br>* Mejorar la modelación comercial |
-    | Información de uso de la red | * Medir la calidad del servicio de tu plan actual y de otros planes que ofrecemos |
-    | Información sobre el servidor del nombre de dominio | * Proporcionar contenidos eficientemente y ayudarte a encontrar el sitio web que buscas<br>* Bloquear contenido perjudicial<br>* Proveer la seguridad en la red<br>* Proporcionar asistencia técnica |
+    | Clicks, opens and other interactions with our advertisements, emails, sites and apps | * To personalize your experiences and make our marketing more relevant to you<br>* To help you when you request assistance with website or app navigation<br>* To protect you and us against fraud |
+    | Location obtained from system applications on your mobile devices | * To assist with locating you in an emergency <br>* To help improve location accuracy in our services and apps<br>* To provide you with mobile application updates |
+    | Information from your calls and chats with our service and support representatives | * To help train employees and support resources and systems to better serve you<br>* To provide customized technical support<br>* To assist you with device settings<br>* To help personalize your experience and our marketing to you |
+    | Employment and grant applications and surveys | * For the purpose for which you provide it, or as described at the time when you submitted the information. |
+    | Information obtained from others | * To determine creditworthiness and perform business risk analysis<br>* To verify your identity<br>* To contact you with marketing offers<br>* To improve business modeling |
+    | Network usage information | * To measure service quality on your current plan and other plans we offer |
+    | Domain name server information | * To deliver content efficiently and help you find the website you are looking for<br>* To block harmful content<br>* For network security<br>* To provide technical support |
     
-    Información:
+    Information:
     
-    Clics, aperturas y otras interacciones con nuestros anuncios, correos electrónicos, sitios y aplicaciones
+    Clicks, opens and other interactions with our advertisements, emails, sites and apps
     
-    Usos adicionales:
+    Additional uses:
     
-    * Personalizar tus experiencias y hacer que nuestro marketing sea más relevante para ti
-    * Ayudarte cuando solicites asistencia con la navegación del sitio web o aplicación
-    * Protegerte a ti y a nosotros contra fraudes
+    * To personalize your experiences and make our marketing more relevant to you
+    * To help you when you request assistance with website or app navigation
+    * To protect you and us against fraud
     
-    Información:
+    Information:
     
-    La ubicación obtenida de las aplicaciones de sistemas en tus dispositivos móviles
+    Location obtained from system applications on your mobile devices
     
-    Usos adicionales:
+    Additional uses:
     
-    * Proveer ayuda para ubicarte en una emergencia 
-    * Ayudar a mejorar la precisión de la ubicación en nuestros servicios y aplicaciones
-    * Para proporcionarte actualizaciones de aplicaciones móviles 
+    * To assist with locating you in an emergency 
+    * To help improve location accuracy in our services and apps
+    * To provide you with mobile application updates 
     
-    Información:
+    Information:
     
-    Información de tus llamadas y chats con nuestros representantes de servicio y asistencia
+    Information from your calls and chats with our service and support representatives
     
-    Usos adicionales:
+    Additional uses:
     
-    * Ayudar a capacitar a los empleados y mantener recursos y sistemas para servirte mejor
-    * Proporcionar asistencia técnica personalizada
-    * Ayudarte con la configuración de dispositivo
-    * Para ayudarte a personalizar tu experiencia y nuestro contenido de marketing para ti
+    * To help train employees and support resources and systems to better serve you
+    * To provide customized technical support
+    * To assist you with device settings
+    * To help personalize your experience and our marketing to you
     
-    Información:
+    Information:
     
-    Solicitudes y encuestas de empleo y de subvenciones
+    Employment and grant applications and surveys
     
-    Usos adicionales:
+    Additional uses:
     
-    * Para los fines para los que la proporcionaste o como fue descrita al momento en el que enviaste la información
+    * For the purpose for which you provide it, or as described at the time when you submitted the information.
     
-    Información:
+    Information:
     
-    Información obtenida de otras fuentes
+    Information obtained from others
     
-    Usos adicionales:
+    Additional uses:
     
-    * Determinar solvencia y realizar análisis de riesgo comercial
-    * Verificar tu identidad
-    * Contactarte con ofertas de marketing
-    * Mejorar la modelación comercial
+    * To determine creditworthiness and perform business risk analysis
+    * To verify your identity
+    * To contact you with marketing offers
+    * To improve business modeling
     
-    Información:
+    Information:
     
-    Información de uso de la red
+    Network usage information
     
-    Usos adicionales:
+    Additional uses:
     
-    * Medir la calidad del servicio de tu plan actual y de otros planes que ofrecemos 
+    * To measure service quality on your current plan and other plans we offer 
     
-    Información:
+    Information:
     
-    Información sobre el servidor del nombre de dominio
+    Domain name server information
     
-    Usos adicionales:
+    Additional uses:
     
-    * Proporcionar contenidos eficientemente y ayudarte a encontrar el sitio web que buscas
-    * Bloquear contenido perjudicial
-    * Proveer la seguridad en la red
-    * Proporcionar asistencia técnica
+    * To deliver content efficiently and help you find the website you are looking for
+    * To block harmful content
+    * For network security
+    * To provide technical support
     
-    ### Información sobre cómo usamos nuestros sitios web y aplicaciones.
+    ### Information about how you use our websites and apps.
     
-    Nosotros, y las empresas de terceros que actúan en nuestro nombre, recopilan información de otros sitios web y aplicaciones con fines operativos, tales como la mejora del sitio web y la seguridad de las aplicaciones, para autenticarte, detectar y evitar el fraude, mejorar el rendimiento del sitio web y proveer contenido y análisis.
+    We, and third party companies acting on our behalf, collect information from our sites and apps for operational purposes such as improving website and app security, authenticating you, detecting and deterring fraud, improving site performance and providing content or analytics.
     
-    Nosotros y estas empresas externas podemos usar [cookies, píxeles, etiquetas, balizas web y scripts, o tecnologías similares](https://esus.verizon.com/about/privacy/cookies) en nuestras páginas y navegadores que utilizas y podemos acceder a publicidad u otros identificadores de sus sistemas operativos de dispositivos móviles. 
+    We and these third-party companies may use [cookies, pixels, tags, web beacons and scripts, or use similar technologies](https://www.verizon.com/about/privacy/cookies) on our pages and the browsers you use and may access advertising or other identifiers from your mobile device operating systems. 
     
-    ### También usaremos información anónima y agregada.
+    ### We also use de-identified and aggregated information.
     
-    Podríamos agregar o anonimizar información para que Verizon u otros puedan usarla para fines comerciales y de marketing. Por ejemplo, los datos que agregamos podrían ser utilizados para analizar, personalizar y mejorar nuestros servicios, para proporcionar perspectivas comerciales y de marketing a otros y para ayudar a hacer la publicidad más relevante para ti. [Puedes elegir](#) algunos de estos usos.
+    We may de-identify or aggregate information so that Verizon or others may use it for business and marketing purposes. For example, the data we aggregate might be used to analyze, personalize and improve our services, to provide business and marketing insights to others and to help make advertising more relevant to you. [You have choices](#) about some of these uses.
     
-    Tienes opciones
+    You have choices
     
-    Por ejemplo, puedes optar por no participar en nuestros programas de publicidad e información. [Ve a opciones](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34).  
+    For example, you can opt out of our advertising and insights programs. [Go to choices](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34).  
     
-* [¿Verizon comparte mi información?
-    ---------------------------------
+* [Does Verizon share my information?
+    ----------------------------------
     
-    Compartimos información dentro de Verizon, con proveedores de servicios que trabajan en nuestro nombre y con terceros, como se describe con más detalle en esta sección.](#acc-item-33)
+    We share information within Verizon, with service providers who do work on our behalf, and with third parties as further described in this section.](#acc-item-33)
     
-    ### Compartimos información dentro de Verizon.
+    ### We share information within Verizon.
     
-    Compartimos información dentro de Verizon, incluyendo nuestras filiales, para una variedad de propósitos, entre ellos, proporcionarte la información más reciente sobre nuestros productos y servicios y ofrecerte nuestras últimas promociones. Puedes limitar el intercambio de [Información Privada del Cliente en la Red](#) y [cierta información crediticia](#), si no quieres que la usemos para ofrecerte servicios diferentes a los que ya tienes.
+    We share information within Verizon, including with our affiliates, for a variety of purposes, including providing you with the latest information about our products and services and offering you our latest promotions. You can limit the sharing of [Customer Proprietary Network Information](#) and [certain credit information](#) if you do not want us to use them to market services to you that are different from the ones you have.
     
-    Información de red exclusiva del cliente
+    Customer Proprietary Network Information
     
-    La Información de red exclusiva del cliente ("CPNI", por sus siglas en inglés) hace referencia a la información relacionada con el tipo, la cantidad, el destino, la configuración técnica, la ubicación, la cantidad de uso y la facturación de tus servicios de telecomunicaciones o Protocolo de voz por Internet interconectado ("VOIP" por sus siglas en inglés). La ley federal rige nuestro uso y divulgación de CPNI.  
+    Customer Proprietary Network Information (or CPNI) is information that relates to the type, quantity, destination, technical configuration, location, amount of use and related billing information of your telecommunications or interconnected Voice over Internet Protocol (VoIP) services. Federal law governs our use and sharing of CPNI.  
     
-    cierta información crediticia
+    certain credit information
     
-    La información crediticia incluye tu puntaje crediticio, información en los informes de consumidor y tu historial de la cuenta.  
+    Credit information includes your credit score, information in your consumer reports, and your account history.  
     
-    ### Compartimos información con proveedores de servicios con socios.
+    ### We share information with service providers with partners.
     
-    Usamos proveedores de servicios para ofrecer, proporcionar, reparar, restaurar y facturar los servicios. Compartimos información con ellos según sea necesario para que realicen trabajos para nosotros. Ellos tienen la obligación de proteger la información que les proporcionamos o que recopilan en nuestro nombre y pueden usarla solamente para el fin que permitimos.
+    We use service providers to help us offer, provide, repair, restore and bill for services. We share information with them as necessary for them to perform work for us. They are required to protect information they receive from us or collect on our behalf and use it only for the purposes we allow.
     
-    Cuando compras o usas servicios que ofrece Verizon y uno de nuestros socios, ambas partes pueden recopilar tu información. Cuando este sea el caso, también tendrás que leer la política de privacidad de la compañía asociada porque puede describir usos de la información que sean diferentes a los nuestros.
+    When you purchase or use services that are offered by Verizon and one of our partners, both parties may collect information about you. When this is the case, you should also review the partner company's privacy policy because it may describe uses of information that are different from ours.
     
-    Compartimos información sobre la conectividad 5G de tus dispositivos con proveedores de sistemas operativos de dispositivos móviles y desarrolladores de aplicaciones para que puedan optimizar tu experiencia 5G. 
+    We share information about your devices’ 5G connectivity with mobile device operating system providers and app developers so that they can optimize your 5G experience. 
     
-    Compartimos puntuaciones de riesgo con otras empresas a fines de identificar fraudes. 
+    We share risk scores with other companies for fraud purposes. 
     
-    También compartimos información anonimizada con compañías para ayudar con la publicación de campañas publicitarias o informes agregados.
+    We also share de-identified information with companies to assist with the delivery of advertising campaigns or aggregate reports.
     
-    ### Compartimos información sobre tu actividad en nuestros sitios web y aplicaciones.
+    ### We share information about your activity on our websites and apps.
     
-    Permitimos que ciertas [empresas de publicidad externas](#) recopilen información sobre tu actividad en nuestros sitios y en nuestras aplicaciones, o que puedan enviarles información. Pueden usar esa información para ayudarnos a proporcionar publicidad de Verizon más relevante en nuestro propio sitio, así como en otros sitios y aplicaciones. Estas empresas pueden combinar información de nuestros sitios con información similar que recopilan en otros sitios para determinar si perteneces a una audiencia a la que los anunciantes, incluido Verizon, intentan llegar. 
+    We allow certain [third-party advertising companies](#) to collect information about your activity on our sites and in our apps, or may send information to them. They can use that information to help us provide more relevant Verizon advertising on our own and other sites and apps. These companies may combine information from our sites with similar information they collect on other sites to determine whether you fit into an audience that advertisers, including Verizon, are trying to reach. 
     
-    empresas de publicidad de terceros
+    third-party advertising companies
     
-    Por ejemplo, en servidores publicitarios, redes publicitarias o plataformas de tecnología. Podemos transmitir mensajes de marketing de Verizon en nuestros sitios web y aplicaciones y en sitios web y aplicaciones que no son de Verizon, por medio de nuestros representantes, a través de correo postal, correo electrónico u otros dispositivos o servicios de Verizon.  
+    For example, ad servers, ad networks or technology platforms. We may deliver Verizon marketing on our sites and apps and on non-Verizon sites and apps, by our representatives, via mail or email or via other Verizon services or devices. 
     
-    Nosotros y estas empresas utilizamos [cookies, píxeles, etiquetas, balizas web, scripts, interfaces de programación de aplicaciones (API) o tecnologías similares](https://esus.verizon.com/about/privacy/cookies) en nuestras páginas y en los navegadores que utilizas, y podemos acceder a identificadores publicitarios de los sistemas operativos de tus dispositivos móviles. 
+    We and these companies use [cookies, pixels, tags, web beacons, scripts, application programming interfaces (APIs) or similar technologies](https://www.verizon.com/about/privacy/cookies) on our pages and the browsers you use and may access advertising identifiers from your mobile device operating systems. 
     
-    Nuestros clientes y los visitantes del sitio web pueden limitar la venta y el intercambio de información personal, como así también el uso de esa información para ciertos tipos de publicidad dirigida. Las legislaciones de California, Colorado, Connecticut y Virginia les dan a los consumidores el derecho de optar por no participar. La legislación de California también da a los clientes de negocios el derecho a limitar la venta y el intercambio de información personal.
+    Our customers and website visitors can limit the sale and sharing of personal information as well as the use of this information for certain types of targeted advertising. California, Colorado, Connecticut and Virginia laws give consumers the right to make these opt out choices. California law also gives business customers the right to limit the sale and sharing of personal information.
     
-    Además, exigimos a las compañías de publicidad que revelen cuando están usando técnicas de publicidad basada en intereses para proporcionar anuncios publicitarios en nuestros sitios y aplicaciones, así como cuando publican anuncios publicitarios de Verizon en otros sitios. También les pedimos que te ofrezcan la oportunidad de optar por no participar en este uso de tu información. 
+    In addition, we require that advertising companies disclose when they are using interest-based advertising techniques to deliver ads on our sites and apps as well as when they deliver Verizon ads on other sites. We also require them to offer you the ability to opt out of this use of your information. 
     
-    Los sitios y los servicios de Verizon también pueden incluir redes sociales u otros plug-ins y widgets de terceros que pueden proporcionar información a tus redes sociales asociadas o a terceros, incluso si no haces clic ni interactúas de otra manera con plug-ins o widgets. 
+    Verizon sites and services may also include social networks or other third-party plug-ins and widgets that may provide information to their associated social networks or third parties even if you do not click on or otherwise interact with the plug-ins and widgets. 
     
-    Visita la sección [Opciones](https://esus.verizon.com/about/privacy/full-privacy-policy#acc-item-34) de esta política para descubrir cómo optar por no participar.
+    Please visit the [Choices section](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34) of this policy to learn how to opt out.
     
-    ### Divulgamos cierta información de Fios TV con fines de medición de audiencia e investigación de mercado.
+    ### We disclose certain Fios TV information for audience measurement and market research purposes
     
-    Las [aplicaciones y el sitio web de Fios TV](#) incluyen [ComScore](https://www.comscore.com/About/Privacy/Data-Subject-Rights) y el software [Nielsen](https://www.nielsen.com/us/en/legal/privacy-statement/digital-measurement/) que recopila información para la investigación de mercado de estas empresas y el propósito de medición de la audiencia, incluida la información sobre el contenido que viste; las aplicaciones web y el dispositivo que usaste; tu identificador (si está disponible); dirección IP; y sistema operativo. [Tienes opciones en cuanto a tu participación](https://esus.verizon.com/about/privacy/full-privacy-policy#acc-item-34).
+    The [Fios TV apps](#) and website include [Comscore](https://www.comscore.com/About/Privacy/Data-Subject-Rights) and [Nielsen](https://www.nielsen.com/us/en/legal/privacy-statement/digital-measurement/) software that collects information for these companies’ market research and audience measurement purpose, including information about the content you viewed; the apps, website and device you used; your advertising identifier (if available); IP address; and operating system. [You have a choice about participating](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34).
     
-    Aplicaciones de Fios TV
+    Fios Tv Apps
     
-    Entre las aplicaciones de Fios TV están Fios TV Mobile, una aplicación disponible en dispositivos móviles, y Fios TV Home, una aplicación disponible en dispositivos selectos que admiten videos de transmisión libre o en streaming, tales como dispositivos Amazon Fire, AppleTV, Roku, o Verizon Stream TV.
+    Fios TV apps include Fios TV Mobile, an app available on mobile devices, and Fios TV Home, an app available on select devices that support over-the-top and streaming video, such as Amazon Fire devices, AppleTV, Roku, or Verizon Stream TV.
     
-    ### Divulgamos listas de directorios e información del identificador de llamadas.
+    ### We disclose directory listings and Caller ID information.
     
-    Podríamos publicar tu nombre, dirección y números de teléfono de línea fija o proporcionar esta información a editoriales de directorio, servicios de asistencia u otros. Estas empresas pueden usar esta información en otros formatos o para otros fines y podrían ponerla a disposición de otros. No publicamos directorios con los números de teléfono móviles ni los ponemos a disposición de otros para su inclusión en directorios, a menos que así lo solicites.
+    We may publish your name, address and wireline telephone number(s) or provide this information to directory publishers, assistance services, or others. These companies can use this information in other formats or for other purposes, and they may make it available to others. We do not publish directories with wireless telephone numbers or make them available to others for listing in directories, unless you request that we do so.
     
-    También proporcionamos tu nombre y número de teléfono móvil o línea fija para el identificador de llamadas y servicios similares.
+    We also provide your name and wireline or wireless telephone number for Caller ID and similar services.
     
-    ### Podemos divulgar tu información en otras situaciones.
+    ### We may disclose information in other situations.
     
-    En determinadas circunstancias, divulgamos información que te identifica individualmente a ti, a tu dispositivo y otra información que recopilamos, como:
+    In certain circumstances, we disclose information that individually identifies you, your device, and other information we collect, such as:
     
-    * [Para acatar la ley](#)
-    * [Para protegerte a ti, a otros o a nosotros](#)
-    * [Para compañías de crédito y agencias de cobranza](#)
-    * Cuando lo necesiten los auditores o reguladores externos
-    * Si Verizon inicia una fusión, adquisición o venta de todas o una parte de nuestros activos o negocios
-    * Con tu consentimiento
+    * [To comply with the law](#)
+    * [To protect you, others or us](#)
+    * [To credit companies and collection agencies](#)
+    * When needed by outside auditors and regulators
+    * If Verizon enters into a merger, acquisition or sale of all or a portion of our assets or business
+    * With your consent
     
-    Para protegerte a ti, a otros o a nosotros
+    To protect you, others or us
     
-    Esto incluye la protección de nuestros derechos, propiedad o la seguridad de nuestros clientes o empleados; en casos que impliquen peligro de muerte o lesiones físicas graves a cualquier persona u otras emergencias; proteger contra el uso fraudulento malicioso, abusivo, no autorizado o ilegal de nuestros productos y servicios (incluida la provisión de una puntuación de riesgo para ayudar a disuadir el fraude) y proteger nuestra red, servicios, dispositivos y usuarios de dicho uso.  
+    This includes protecting our rights, property or the safety of our customers or employees; in cases involving danger of death or serious physical injury to any person or other emergencies; to protect against fraudulent malicious, abusive, unauthorized or unlawful use of our products and services (including providing a risk score to help deter fraud) and to protect our network, services, devices and users from such use.  
     
-    Para acatar la ley
+    To comply with the law
     
-    Esto incluye actuar de conformidad con un proceso legal válido, incluyendo citaciones, órdenes judiciales o de allanamiento y conforme lo indique la ley; y para presentar demandas o reclamos legales o defenderse de ellos en tribunales, procedimientos administrativos o en cualquier otro lugar.  
+    This includes to comply with valid legal process including subpoenas, court orders or search warrants, and as otherwise authorized by law; and to advance or defend against complaints or legal claims in court, administrative proceedings, or elsewhere.  
     
-    Para compañías de crédito y agencias de cobranza
+    To credit companies and collection agencies
     
-    Por ejemplo, para comunicarnos con agencias de crédito o agencias de cobranza  para determinar el riesgo crediticio, para fines de presentación de informes,  para obtener el pago por productos y servicios facturados por Verizon, o con el emisor de nuestra tarjeta de crédito para el proceso de preselección y solicitud de nuestra tarjeta de crédito.  
+    For example, to communicate with credit bureaus or collection agencies for determining credit risk, for reporting purposes, and to obtain payment for Verizon-billed products and services; and with our credit card issuer for the prescreening and application process for our credit card.  
     
-* [¿Verizon tiene programas que permiten que otras compañías usen información sobre mí?
-    ------------------------------------------------------------------------------------
+* [Does Verizon have programs that allow other companies to use information about me?
+    ----------------------------------------------------------------------------------
     
-    Podemos utilizar la información para programas de publicidad, de perspectivas y de verificación de identidad de terceros.](#acc-item-32)
+    We may use information for third-party advertising, insights and identity verification programs.](#acc-item-32)
     
-    ### Nuestros programas de publicidad hacen más personalizados y útiles los anuncios que ves.
+    ### Our advertising programs make ads you see more personalized and useful.
     
-    Los programas descritos aquí usan información para predecir si eres parte de una audiencia que un anunciante intenta alcanzar y ayudarlos a mostrar publicidad relevante para ti. Los programas también pueden medir la efectividad de las campañas de publicidad. [Puedes optar por no participar en estos programas.](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34)
+    The programs described here use information to predict whether you fit within an audience an advertiser is trying to reach and help them show relevant advertising to you. The programs may also measure advertising campaign effectiveness. [You can opt out of participating in these programs.](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34)
     
     |     |     |     |
-    | --- | --- | --- |Tipos de programas publicitarios
-    |     | Publicidad Relevante en Línea | Publicidad Relevante por Televisión |
+    | --- | --- | --- |Types of advertising programs
+    |     | Relevant Online Advertising | Relevant TV Advertising |
     | --- | --- | --- |
-    | ¿Quién puede participar? | Clientes de Internet de Verizon Wireline | Clientes de Fios TV |
-    | ¿Dónde veré los anuncios? | En los sitios web que visitas | [Cuando ves Fios TV](#)<br><br>Cuando ves Fios TV<br><br>Esto puede incluir cuando ves Fios TV en tu televisor, en el sitio web de Fios TV o en la aplicación de Fios TV. |
-    | ¿Qué información se utiliza? | [Información de Verizon, terceros y publicistas.](#)<br><br>Información de Verizon, terceros y publicistas<br><br>Incluye información que tenemos sobre tu dirección postal y uso de productos y servicios de Verizon (como paquetes de servicio, compras en Fios TV y categorías de audiencia); e información demográfica y de interés que proporcionas o que obtenemos de otras compañías como tu sexo, rango de edad e intereses (es decir, aficionado al deporte, comensal frecuente o dueño de mascota). Este programa también puede usar información y socios publicitarios que nos proporcionen. | [Información de Verizon, terceros y publicistas.](#)<br><br>Información de Verizon, terceros y publicistas.<br><br>Incluye información que tenemos sobre tu dirección postal y uso de productos y servicios de Verizon (como paquetes de servicio, dispositivos conectados, compras de videos y en televisión y datos de visualización); e información demográfica y de interés que proporcionas o que obtenemos de otras compañías como sexo, rango de edad (por ejemplo, aficionado al deporte, comensal frecuente o dueño de mascota). Este programa también puede usar información que nos proporcionan anunciantes y socios publicitarios. |
-    | La información que me identifica no se compartirá fuera de Verizon, sus proveedores y socios | Sí  | Sí  |
-    | Tengo opciones sobre mi participación | Sí  | Sí  |
-    | Más información | [Preguntas frecuentes sobre publicidad relevante por Internet (en inglés)](https://espanol.verizon.com/support/residential/announcements/direct-digital-marketing) | [Preguntas frecuentes sobre publicidad relevante por televisión](http://verizon.com/relevanttvfaqs) |
+    | Who can participate? | Verizon Wireline Internet customers | Fios TV customers |
+    | Where will I see ads? | On websites you visit | [When you view Fios TV](#)<br><br>When you view Fios TV<br><br>This may include when you view Fios TV on your TV, on the Fios TV website or on the Fios TV apps. |
+    | What information is used? | [Verizon, third party and advertiser information](#)<br><br>Verizon, third party and advertiser Information<br><br>This includes information we have about your postal address and use of Verizon products and services (such as service packages, Fios TV purchases and viewership categories); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). The program may also use information advertisers and advertising partners provide to us. | [Verizon, third party and advertiser information](#)<br><br>Verizon, third party and advertiser information<br><br>This includes information we have about your postal address and use of Verizon products and services (such as service packages, connected devices, TV and video purchases and viewing data); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). The program may also use information advertisers and advertising partners provide to us. |
+    | Information that identifies me will not be shared outside of Verizon, its vendors and partners | Yes | Yes |
+    | I have a choice about participating | Yes | Yes |
+    | More Information | [Relevant Online Advertising FAQs](https://www.verizon.com/support/residential/announcements/direct-digital-marketing) | [Relevant TV Advertising FAQs](http://verizon.com/relevanttvfaqs) |
     
-    Publicidad Relevante en Línea
+    Relevant Online Advertising
     
-    ¿Quién puede participar?
+    Who can participate?
     
-    Clientes de Internet de Verizon Wireline
+    Verizon Wireline Internet customers
     
-    ¿Dónde veré los anuncios?
+    Where will I see ads?
     
-    En los sitios web que visitas
+    On websites you visit
     
-    ¿Qué información se utiliza?
+    What information is used?
     
-    [Información de Verizon, terceros y publicistas.](#)
+    [Verizon, third party and advertiser information](#)
     
-    Información de Verizon, terceros y publicistas
+    Verizon, third party and advertiser Information
     
-    Incluye información que tenemos sobre tu dirección postal y uso de productos y servicios de Verizon (como paquetes de servicio, compras en Fios TV y categorías de audiencia); e información demográfica y de interés que proporcionas o que obtenemos de otras compañías como tu sexo, rango de edad e intereses (es decir, aficionado al deporte, comensal frecuente o dueño de mascota). Este programa también puede usar información y socios publicitarios que nos proporcionen.
+    This includes information we have about your postal address and use of Verizon products and services (such as service packages, Fios TV purchases and viewership categories); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). The program may also use information advertisers and advertising partners provide to us.
     
-    La información que me identifica no se compartirá fuera de Verizon, sus proveedores y socios
+    Information that identifies me will not be shared outside of Verizon, its vendors and partners
     
-    Sí
+    Yes
     
-    Tengo opciones sobre mi participación
+    I have a choice about participating
     
-    Sí
+    Yes
     
-    Más información
+    More Information
     
-    [Preguntas frecuentes sobre publicidad relevante por Internet (en inglés)](https://espanol.verizon.com/support/residential/announcements/direct-digital-marketing)
+    [Relevant Online Advertising FAQs](https://www.verizon.com/support/residential/announcements/direct-digital-marketing)
     
-    Publicidad Relevante por Televisión
+    Relevant TV Advertising
     
-    ¿Quién puede participar?
+    Who can participate?
     
-    Clientes de Fios TV
+    Fios TV customers
     
-    ¿Dónde veré los anuncios?
+    Where will I see ads?
     
-    [Cuando ves Fios TV](#)
+    [When you view Fios TV](#)
     
-    Cuando ves Fios TV
+    When you view Fios TV
     
-    Esto puede incluir cuando ves Fios TV en tu televisor, en el sitio web de Fios TV o en la aplicación de Fios TV.
+    This may include when you view Fios TV on your TV, on the Fios TV website or on the Fios TV apps.
     
-    ¿Qué información se utiliza?
+    What information is used?
     
-    [Información de Verizon, terceros y publicistas.](#)
+    [Verizon, third party and advertiser information](#)
     
-    Información de Verizon, terceros y publicistas.
+    Verizon, third party and advertiser information
     
-    Incluye información que tenemos sobre tu dirección postal y uso de productos y servicios de Verizon (como paquetes de servicio, dispositivos conectados, compras de videos y en televisión y datos de visualización); e información demográfica y de interés que proporcionas o que obtenemos de otras compañías como sexo, rango de edad (por ejemplo, aficionado al deporte, comensal frecuente o dueño de mascota). Este programa también puede usar información que nos proporcionan anunciantes y socios publicitarios.
+    This includes information we have about your postal address and use of Verizon products and services (such as service packages, connected devices, TV and video purchases and viewing data); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). The program may also use information advertisers and advertising partners provide to us.
     
-    La información que me identifica no se compartirá fuera de Verizon, sus proveedores y socios
+    Information that identifies me will not be shared outside of Verizon, its vendors and partners
     
-    Sí
+    Yes
     
-    Tengo opciones sobre mi participación
+    I have a choice about participating
     
-    Sí
+    Yes
     
-    Más información
+    More Information
     
-    [Preguntas frecuentes sobre publicidad relevante por televisión](http://verizon.com/relevanttvfaqs)
+    [Relevant TV Advertising FAQs](http://verizon.com/relevanttvfaqs)
     
-    ### Nuestro programa de Perspectivas de negocios y marketing ayuda a compañías a entender mejor los comportamientos del cliente en general.
+    ### Our Business and Marketing Insights program helps companies understand consumer behaviors in aggregate.
     
-    Este programa utiliza [información de Verizon y de terceros](#) para crear [perspectivas comerciales y de marketing](#) agregadas. La información que utilizamos y las perspectivas que creamos no te identifican a ti personalmente y podemos compartirla con terceros.
+    This program uses [Verizon and third-party information](#) to create aggregate [business and marketing insights](#). The information we use and the insights we develop do not identify you individually and may be shared with third parties.
     
-    Información de Verizon y terceros
+    Verizon and third-party information
     
-    Incluye información acerca de cómo usas tu dispositivo móvil (como tu navegación por web, ubicación del dispositivo y uso de aplicaciones/funciones), determinada información acerca de los servicios y productos de Verizon (como tu tipo de dispositivo y cantidad de uso) e información demográfica e de intereses que nos proporcionas o que obtenemos de otras compañías (como género, rango de edad e intereses). También usamos la información sobre ubicación y  puntos de interés que obtenemos de otros y la información que facilitan los clientes de negocios y marketing que quieren entender mejor a sus propias empresas.
+    This includes information about how you use your mobile device (such as web browsing, device location, and app/feature use), certain information about your Verizon products and services (such as device type and amount of use), and demographic and interest information you provide or we obtain from other companies (such as gender, age range and interests). We may also use point of interest and  location information we obtain from others as well as information provided by business and marketing clients who want insights related to their own businesses.
     
-    Información de negocio y de marcadeo
+    Business and marketing insights
     
-    Las percepciones son observaciones sobre grupos de personas que pueden utilizarse para comprender mejor las acciones de los consumidores. Por ejemplo, podemos crear información sobre la cantidad de clientes en diferentes grupos etarios que visitan un sitio web, usan una aplicación o van a una tienda o estadio. También podemos desarrollar ideas para poder calcular los patrones de tráfico de las personas que se mueven de un área a otra durante la hora pico de la mañana.
+    Insights are observations about groups of people that can be used to better understand consumer actions. For example, we may create insights about the number of customers in different age groups who visit a website, use an app, or go to a retail store or stadium. We also can develop insights to help estimate traffic patterns about people who move from one area to another during the morning rush hour.
     
-    ### Nuestro Servicio de verificación de identidad nos ayuda a protegerte contra el fraude.
+    ### Our Identity Verification Service helps protect you against fraud.
     
-    Usamos cierta información de la cuenta de Verizon Wireless, del dispositivo y del perfil en nombre de otras compañías con las que haces negocios, por ejemplo, para ayudar a tu banco a confirmar que tú eres quien llama y no un estafador y así protegerte del robo de la cuenta y su toma de control. Por contrato, se les requiere a los terceros que verifican tu identidad que protejan la información y que la usen solo a los fines de proveer los servicios de verificación. [Tienes opciones en cuanto a tu participación.](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34)
+    We use certain Verizon Wireless account, device and profile data on behalf of companies with which you do business, for example, to help your bank confirm that you are calling rather than a fraudster, which may help protect you against theft and account takeover. Third parties that verify your identity are contractually required to protect the information and use it only for providing their verification services. [You have a choice about participating.](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34)
     
-* [¿Qué opciones tengo sobre cómo se usa la información sobre mí?
+* [What choices do I have about how information about me is used?
     --------------------------------------------------------------
     
-    Tienes opciones sobre cómo Verizon te contacta por ofertas de marketing y sobre otros usos de tu información.](#acc-item-34)
+    You have choices about how Verizon reaches you with marketing offers and about other uses of your information.](#acc-item-34)
     
-    ### Puedes limitar las formas en las que te enviamos ofertas de marketing.
+    ### You can limit the ways we may send marketing offers to you.
     
     **Telemarketing**   
-    Puedes optar por no participar en [llamadas relacionadas con marketing](#) llamando al 1-800-VERIZON. Puede tomar hasta 30 días eliminarte de las campañas de marketing existentes.
+    Opt out of [marketing-related calls](#) by calling 1-800-VERIZON. It can take up to 30 days to remove you from existing marketing campaigns.
     
-    llamadas relacionadas con el marketing
+    marketing-related calls
     
-    La mayoría de las leyes de telemarketing nos permiten comunicarnos con nuestros clientes sin consultar el [Registro Nacional No Llame.](https://www.donotcall.gov/?lang=es-MX)  
+    Most telemarketing laws allow us to contact our customers without checking the [National Do Not Call Registry.](https://www.donotcall.gov/)  
     
-    **Correos electrónicos**  
-    Puedes optar por no recibir correos electrónicos relacionados con marketing siguiendo las instrucciones de cancelación de suscripción que se encuentran en la parte inferior de los correos de marketing que recibes.
+    **Emails**  
+    Opt out of receiving marketing-related emails by following the unsubscribe instructions at the bottom of marketing emails you receive.
     
-    **Mensajes de texto**  
-    Puedes optar por no recibir mensajes de texto relacionados con marketing siguiendo las instrucciones de cancelación de suscripción que se incluyen en los mensajes de texto que recibes.
+    **Text messages**  
+    Opt out of receiving marketing-related texts by following the unsubscribe instructions included in texts you receive.
     
-    **Correo postal**  
-    Opta por no recibir correspondencia relacionada con marketing llamando al 1-800-VERIZON. Ten en cuenta que, incluso si cancelas la suscripción, todavía podrías recibir correspondencia cuando usemos un servicio de envío de correos masivos que entrega a todos los hogares dentro de un código postal.
+    **Postal mail**  
+    Opt out of receiving marketing-related mail by calling 1-800-VERIZON. Note that even if you unsubscribe, you could still receive mail when we use a bulk mailing service that delivers to all homes within a ZIP code.
     
-    **Marketing puerta a puerta**  
-    Puedes optar por no participar del marketing puerta a puerta llamando al 1-800-VERIZON.
+    **Door-to-door marketing**  
+    Opt out of door-to-door marketing by calling 1-800-VERIZON.
     
-    ### Tienes opciones sobre si determinada información se puede usar dentro de Verizon para fines de marketing específicos.
+    ### You have choices about whether certain information may be used within Verizon for specific marketing purposes.
     
-    **Información crediticia**   
-    Los clientes con línea fija pueden limitar el intercambio de información crediticia dentro de Verizon para la comercialización de nuevos productos y servicios. Consulta las instrucciones en el [aviso](https://esus.verizon.com/about/privacy/customer-proprietary-network-information) de tu factura mensual o llama al 1-844-366-2879 para darte de baja.
+    **Credit information**   
+    Wireline customers can limit the sharing of credit information within Verizon for the marketing of new products and services. Check the instructions in the [notice](https://www.verizon.com/about/privacy/customer-proprietary-network-information) on your monthly bill, or call 1-844-366-2879 to opt out.
     
-    **Información Privada del Cliente en la Red (CPNI, por sus siglas en inglés)**  
-    Puedes limitar la [divulgación de la CPNI](#) dentro de Verizon para servicios de marketing diferentes a los que ya tienes. 
+    **Customer Proprietary Network Information (CPNI)**  
+    You can limit the [sharing of CPNI](#) within Verizon for marketing services to you that are different from the ones you have. 
     
-    Clientes de Verizon Wireline y ciertos clientes de negocios:  
-    llama al 1-866-483-9700 para actualizar las preferencias de tu cuenta.
+    Verizon Wireline and certain business customers:  
+    call 1-866-483-9700 to update your account preferences.
     
-    Clientes de Verizon Wireless y ciertos clientes de negocios:  
-    llama al 1-800-333-9956 para actualizar las preferencias de tu cuenta.
+    Verizon Wireless and certain business customers:  
+    call 1-800-333-9956 to update your account preferences.
     
-    Otros clientes:  
-    Sigue las instrucciones en el aviso de Verizon o la sección del contrato referente al consentimiento.
+    Other customers:  
+    Follow the instructions in the Verizon notice or contract language seeking consent.
     
-    intercambio de CPNI
+    sharing of CPNI
     
-    Este es un ejemplo de un [aviso de CPNI](https://www.verizon.com/about/privacy/customer-proprietary-network-information) que enviamos a los clientes.  
+    Here is an example of a [CPNI notice](https://www.verizon.com/about/privacy/customer-proprietary-network-information) we send to customers.  
     
-    ### Tienes opciones para participar en los programas de Verizon que usan el navegador web y otra información para personalizar tu experiencia con nosotros.
+    ### You have choices about participating in Verizon programs that use web browsing and other information to personalize your experiences with us.
     
     **Custom Experience**  
-    Se te incluirá en el programa Custom Experience a menos que optes por no participar. Puedes optar por no participar en el sitio My Verizon o en tu aplicación My Verizon app accediendo a las [preferencias de privacidad](https://myvpostpay.verizonwireless.com/vzw/secure/mcm/mcmDisplayPreferences.action), o puedes llamarnos al 866.211.0874.
+    You will be part of the Custom Experience program unless you opt out. You can opt out on the My Verizon site or in your My Verizon app by accessing [privacy preferences](https://myvpostpay.verizonwireless.com/vzw/secure/mcm/mcmDisplayPreferences.action), or you can call us at 866.211.0874.
     
     **Custom Experience Plus**  
-    Debes suscribirte al programa Custom Experience Plus para formar parte de él y puedes cambiar tu elección en cualquier momento en el sitio My Verizon o en tu aplicación My Verizon app accediendo a las [preferencias de privacidad.](https://espanol.verizon.com/sdsecure/signin?goto=http://myvpostpay.verizonwireless.com:443/ui/acct/secure/profile/privacypreferences)
+    You must opt in to the Custom Experience Plus program to be a part of it and you can change your choice at any time on the My Verizon site or in your My Verizon app by accessing [privacy preferences.](https://myvpostpay.verizon.com/ui/acct/secure/profile/privacypreferences)
     
-    ### Tienes opciones de servicios de publicidad, perspectivas, verificación y medición de audiencia.
+    ### You have choices about advertising, insights, verification and audience measurement services.
     
-    **Publicidad Relevante en Línea**  
-    Para optar por no participar en el programa de Publicidad relevante en línea:
+    **Relevant Online Advertising**  
+    To opt out of participating in the Relevant Online Advertising program:
     
-    * Ve al área de Servicios de My Verizon en línea
-    * Haz clic en Internet
-    * Selecciona el enlace Gestionar preferencias de publicidad en línea en Mi servicio de Internet
+    * Go to the Services area of My Verizon online
+    * Click on Internet
+    * Select the Manage Online Advertising Preferences link within My Internet Service
     
-    Necesitarás tu ID de usuario y contraseña para acceder a tu cuenta en línea.
+    You will need your user ID and password to access your online account.
     
-    **Publicidad Relevante por Televisión**  
-    Para optar por no participar en publicidad por televisión relevante:
+    **Relevant TV Advertising**  
+    To opt out of participating in Relevant TV advertising:
     
-    * Ve al área de Servicios de My Verizon en línea
-    * Haz clic en TV
-    * Selecciona el enlace Manejar preferencias de publicidad en televisión en Mi servicio de TV
+    * Go to the Services area of My Verizon online
+    * Click on TV
+    * Select the Manage TV Advertising Preferences link within My TV Service
     
-    Necesitarás tu ID de usuario y contraseña para acceder a tu cuenta en línea.
+    You will need your user ID and password to access your online account.
     
-    **Programa de Perspectivas de negocios y marketing**  
-    Los titulares de las cuentas pueden actualizar las preferencias de cada línea en sus cuentas a través de la [página opciones de privacidad en My Verizon](https://espanol.verizon.com/sdsecure/signin?goto=http://myvpostpay.verizonwireless.com:443/ui/acct/secure/profile/privacypreferences) o en My Verizon app; o llamando al 1-866-211-0874.
+    **Business and Marketing Insights program**  
+    Account owners can update preferences for each line on their account using the [privacy choices page in My Verizon](https://myvpostpay.verizon.com/ui/acct/secure/profile/privacypreferences) or in the My Verizon app; or by calling 1-866-211-0874.
     
-    **Servicio de verificación de identidad**  
-    Si no quieres que usemos tu información para ayudar a terceros a verificar tu identidad en nombre de las empresas con las que hacemos negocios, puedes dirigirte en línea a My Verizon->Mi perfil ->Ajustes de privacidad.
+    **Identity Verification service**  
+    If you do not want us to use your information to help third parties verify your identity on behalf of companies with which you do business, you can go online to My Verizon ->My Profile ->Privacy Settings.
     
-    **Medición de audiencia e investigación de mercado de Fios TV.**  
-    Si no quieres que se comparta la información personal con fines de medición de audiencia e investigación de mercado, puedes optar por no participar en todos los dispositivos que utilices para Fios TV usando la [configuración de tu cuenta de Fios TV en el sitio web de Fios TV](https://tv.verizon.com/watch/settings/nielsen/) o en las aplicaciones de Fios TV (en configuración en “Medición de audiencia”).
+    **Fios TV Market Research and Audience Measurement**  
+    If you do not want personal information shared for audience measurement and market research purposes, you can opt out for all devices you use for Fios TV using your [Fios TV Account Settings on the Fios TV Website](https://tv.verizon.com/watch/settings/nielsen/) or in the Fios TV apps (in settings under “Audience Measurement”).
     
-    También puedes elegir tus opciones para tus dispositivos por separado. En los dispositivos móviles de Apple, solo puedes participar si optas por participar usando el aviso emergente dentro de las aplicaciones de Fios TV y puedes cambiar tu elección en la Configuración en tu dispositivo Apple. En los dispositivos móviles Android, puedes optar por no participar usando Configuración en tu dispositivo para "Optar por no participar en la personalización de la publicidad". En los dispositivos Amazon Fire, puedes optar por no participar usando la configuración para "Anuncios publicitarios basados en intereses".
+    You can also make choices on individual devices. On Apple mobile devices, you can only participate if you opt in using the pop-up notice in the Fios TV apps and you can change your choice using Apple device settings. On Android mobile devices, you can opt out by using your device setting to “Opt out of Ads Personalization”. On Amazon Fire devices, you can opt out using the “Interest-based Ads” setting.
     
-    Si no participas, sólo se compartirá la información de visualización anonimizada.
+    If you do not participate, only de-identified viewing information will be shared.
     
-    ### Tienes otras opciones disponibles.
+    ### You have other choices available to you.
     
-    **Información del sitio web que se usa para publicidad basada en intereses**   
-    Puedes limitar la venta y el intercambio de información personal, como así también el uso de esa información para ciertos tipos de publicidad dirigida. Las legislaciones de California, Colorado, Connecticut y Virginia les dan a los consumidores el derecho de optar por no participar. La legislación de California también da a los clientes de negocios el derecho a limitar la venta y el intercambio de información personal.
+    **Website information used for interest-based advertising**   
+    You can limit the sale and sharing of personal information as well as the use of this information for certain types of targeted advertising. California, Colorado, Connecticut and Virginia laws give consumers the right to make these opt out choices. California law also gives business customers the right to limit the sale and sharing of personal information.
     
-    Puedes optar por no participar visitando [Tus opciones de privacidad ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://esus.verizon.com/privacy/your-privacy-choices) . En esta página, también se describe cómo tratamos el [Control de Privacidad Global](https://globalprivacycontrol.org/) para las señales que configures en tu navegador. No respondemos a las señales de No rastrear. 
+    You can opt out by visiting [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices) . This page also describes how we honor [Global Privacy Control](https://globalprivacycontrol.org/) signals you may set on your browser. We do not respond to Do Not Track signals. 
     
-    También puedes visitar la [página de exclusión de Digital Advertising Alliance](https://www.aboutads.info/) que se aplica a toda la industria o hacer clic en este [ícono](#) ícono de opciones de anuncios disponibles en o alrededor de anuncios en línea publicados utilizando técnicas de publicidad basadas en intereses para obtener más información y optar por no usar tu información para este tipo de publicidad. De igual manera, tienes opciones para permitir este tipo de publicidad en tu dispositivo móvil. En los dispositivos Apple, solo se te incluirá en esta actividad si lo autorizas. Puedes revisar o cambiar el permiso de rastreo de una aplicación accediendo en tu dispositivo a Ajustes>Privacidad>Rastreo. En los dispositivos Android, puedes optar por no participar a través de la configuración en tu dispositivo para "Optar por no participar en la personalización de la publicidad".
+    You can also visit the industry-wide [Digital Advertising Alliance opt-out page](https://www.aboutads.info/) or click on this [icon](#) ad choices icon available in or around online advertisements placed using interest-based advertising techniques to learn more and opt out of the use of your information for this type of advertising. Similarly, you have choices about allowing this type of advertising on your mobile device. On Apple devices, you will only be included in this activity if you opt-in. You can review or change an app’s tracking permission by going to your device Setting>Privacy>Tracking. On Android devices, you can opt out using your device setting to “Opt out of Ads Personalization.”
     
     icon
     
-    Al hacer clic en este ícono, se proporciona información adicional sobre las compañías y prácticas de datos que se usaron para mostrar el anuncio publicitario y describe cómo puedes optar por no participar en estos programas de publicidad.
+    Clicking on this icon provides additional information on the companies and data practices that were used to deliver the ad and describes how you may opt out of these advertising programs.
     
-    **Ubicación**  
-    Recopilamos información de la ubicación de la red de los dispositivos móviles para proveerte servicios y manejar nuestra red. Si no quieres que recopilemos esta información sobre tus dispositivos móviles, apaga tus dispositivos móviles.
+    **Location**  
+    We collect network location information about your mobile devices so that we can provide your services and operate our network. If you do not want this information collected about your mobile devices, please turn your mobile devices off.
     
-    El sistema operativo en tu dispositivo móvil recopila la información referente a la ubicación del dispositivo y la comparte con aplicaciones a las que has permitido tener esta información, incluidas algunas aplicaciones de Verizon.Puedes alternar la configuración a “desactivado” en el menú de configuraciones en tu dispositivo.También puedes usar el menú de configuración para alternar la información de ubicación a "desactivado" para aplicaciones específicas, pero es posible que tengas que habilitarlo para que la navegación u otras funciones de ubicación funcionen en esas aplicaciones. 
+    The operating system on your mobile device collects device location information and shares it with apps you have permitted to have this information, including some Verizon apps. You can toggle the setting to “off” using the settings menu on your device. You can also use the settings menu to toggle location information to “off” for specific apps, but you may need to enable it for navigation or other location features to work in those apps. 
     
-    Puedes cambiar el nombre de tu enrutador agregando "\_nomap" u "\_optout", si no quieres que utilicemos la ubicación del punto de acceso de tu enrutador de Wi-Fi para mejorar la precisión de nuestros servicios o aplicaciones. Por ejemplo, cambia “Myrouter” a “Myrouter\_nomap”.
+    You can rename your router to include “\_nomap” or “\_optout” if you don’t want us to use the location of your Wi-Fi router access point to improve the accuracy of our services or apps. For example, change “Myrouter” to “Myrouter\_nomap”.
     
-    **Preevaluación crediticia**  
-    Puedes elegir si las empresas utilizan tu información a fin de preseleccionarte para un crédito, incluida nuestra tarjeta de crédito. Puedes optar por no participar en [www.optoutprescreen.com](http://www.optoutprescreen.com/) o llamando al 1-888-567-8688.
+    **Credit Prescreening**  
+    You have a choice about whether companies use your information to prescreen you for credit, including our credit card. You can opt out at [www.optoutprescreen.com](http://www.optoutprescreen.com/) or by calling 1-888-567-8688
     
-* [¿Cómo protege Verizon mi información y cómo actualizo los detalles de mi cuenta?
+* [How does Verizon protect my information, and how do I update my account details?
     --------------------------------------------------------------------------------
     
-    Descubre más sobre nuestras medidas de seguridad y conservación de la información, y sobre cómo actualizar los datos de tu cuenta.](#acc-item-35)
+    Learn about our information security and retention practices and how to update your account information.](#acc-item-35)
     
-    ### Seguridad y retención de la información.
+    ### Information security and retention.
     
-    Usamos salvaguardas técnicas, administrativas y físicas para ayudar a proteger del acceso, uso o divulgación no autorizados de la información que recopilamos o almacenamos. Además, capacitamos a nuestros empleados sobre la importancia de la privacidad y la seguridad, así como sobre las formas adecuadas de acceder, usar y divulgar la información de los clientes. Nuestras prácticas y políticas les prohíben a los empleados con quienes compartimos esta información que usen información confidencial, a menos que estén autorizados a hacerlo y tengan una necesidad comercial. 
+    We use technical, administrative and physical safeguards to help protect against unauthorized access to, use or disclosure of information we collect or store. In addition, we train our employees on the importance of privacy and security, as well as the proper ways to access, use and disclose customer information. Our practices and policies prohibit employees with whom we share this information from using sensitive information unless they are authorized to do so and have a business need. 
     
-    Nuestras políticas exigen que conservemos registros durante el tiempo que sea necesario con fines legales, impositivos, auditorías, investigaciones y/o seguridad, y que, luego, los eliminemos o destruyamos de manera segura. Incorporamos información personal a distintos tipos de registros, no siempre mediante elementos de datos diferenciados. Por ejemplo, tu nombre forma parte de tu cuenta, facturación, asistencia técnica y registros con detalles de llamadas.
+    Our policies require that we retain records for as long as they are needed for legal, tax, audit, investigative, and/or security purposes and then securely delete or destroy them. We incorporate personal information into different types of records, not always by distinct data elements. For example, your name is part of your account, billing, technical support and call detail records.
     
-    Aunque nos esforzamos por mantener la información segura, no podemos garantizar que nuestras medidas de seguridad impidan todo [intento no autorizado de acceder](#), utilizar o divulgar información personal. Usamos nuestros planes de seguridad y respuesta a incidentes para manejar tales eventos. Puedes ayudar a proteger tu cuenta utilizando los [consejos, sugerencias y herramientas que ponemos a tu disposición](https://espanol.verizon.com/about/responsibility/account-security).
+    Although we strive to keep information secure, we can’t guarantee that our safeguards will prevent every unauthorized [attempt to access](#), use or disclose personal information. We use our security and incident response plans to handle such incidents. You can help secure your account using [advice, tips and tools we provide](https://www.verizon.com/about/responsibility/account-security).
     
-    intento de acceder
+    attempt to access
     
-    Por ejemplo, hemos visto intentos no autorizados de acceder a las cuentas de terceros de nuestros clientes, incluyendo cuentas que nuestros clientes tienen con instituciones financieras, proveedores de servicios de correo electrónico o redes sociales.  
+    For example, we have seen unauthorized attempts to access our customers' third party accounts, including accounts that customers have with financial institutions, email service providers or social media.  
     
-    Si tienes conocimientos de un problema de seguridad, visita nuestra página para [Informar vulnerabilidades de seguridad](https://espanol.verizon.com/solutions-and-services/report-security-vulnerability/) y sigue las instrucciones para informar el problema. Trabajaremos contigo para abordar tus inquietudes. 
+    If you become aware of a security issue, please visit our page to [Report Security Vulnerabilities](https://www.verizon.com/solutions-and-services/report-security-vulnerability/) and follow the instructions to report your issue. We will work with you to address your concern. 
     
-    ### Trabajemos juntos para proteger a los niños.
+    ### Let’s work together to keep children safe.
     
-    Si ves contenido que creas que está relacionado con abuso sexual infantil o si ves cualquier otro contenido ilegal que involucre niños cuando uses un servicio de Verizon, denúncialo a través de un correo electrónico a abuse-csam@verizon.com e incluye las palabras “material de abuso sexual infantil” en la línea de asunto. También puedes hacer una denuncia directamente al Centro Nacional para Menores Desaparecidos y Explotados a través de [CyberTipline.](http://www.missingkids.org/gethelpnow/cybertipline)
+    If you see content you believe to be related to child sexual abuse, or if you see any other illegal content involving children when using a Verizon service, report it by sending an email to abuse-csam@verizon.com and include the words “child sexual abuse material” in the subject line. You can also make a report directly to the National Center for Missing and Exploited Children through their [CyberTipline.](http://www.missingkids.org/gethelpnow/cybertipline)
     
-    ### Intercambio de información en blogs y redes sociales.
+    ### Sharing information on blogs and social networks.
     
-    Algunos de nuestros sitios web, aplicaciones y servicios te permiten participar en conversaciones, tableros de mensajes y salas de chat o dejar comentarios. Estos son espacios públicos, por lo que cualquier persona puede leer, recopilar y compartir tus comentarios. Al compartir información en estos foros, estás dando tu consentimiento a la divulgación de esta información.
+    Some of our websites, apps and services let you participate in discussions, message boards and chat rooms, or leave reviews. These are public spaces so your comments can be read, collected and shared by anyone. By sharing information in these forums, you are giving consent to the disclosure of this information.
     
-    ### Acceso y actualización de la información de tu cuenta.
+    ### Accessing and updating your account information.
     
-    Los clientes pueden verificar y actualizar la información de su cuenta de las siguientes formas:
+    Customers can review and update their account information in the following ways:
     
     **Verizon Wireline**  
-    llama al 1-800-VERIZON  
-    o [accede a tu cuenta residencial de Verizon en línea](https://espanol.verizon.com/home/myverizon/)
+    call 1-800-VERIZON  
+    or [access your Verizon home account online](https://www.verizon.com/home/myverizon/)
     
     **Verizon Wireless**  
-    llama al 1-800-922-0204  
-    o [accede a tu cuenta móvil de Verizon en línea](http://verizonwireless.com/myprivacy)
+    call 1-800-922-0204  
+    or [access your Verizon mobile account online](http://verizonwireless.com/myprivacy)
     
     **Verizon Enterprise Services**  
-    Ponte en contacto con tu administrador de la cuenta
+    Contact your account manager
     
-    **Conexión de Verizon**  
+    **Verizon Connect**  
     call 1-800-711-5800
     
-    **Clientes de aplicaciones específicas**  
-    Usa la configuración de tu aplicación
+    **Customers of specific apps**  
+    Use your app settings
     
-    Los clientes que tienen Fios u otros servicios a través de fibra al hogar pueden [enviarnos un correo electrónico](mailto:privacyoffice@verizon.com) para programar una cita para revisar la información personalmente identificable que tenemos sobre ti. Solo puedes verificar registros que contengan tu información personalmente identificable y deberás proporcionar la identificación adecuada para hacerlo. Trabajaremos contigo para actualizar tus registros, si es necesario. Se te puede cobrar por las copias de documentos que solicites.
+    Customers who have Fios or other fiber-to-the-home services can [email](mailto:privacyoffice@verizon.com) us to set up an appointment to review the personally identifiable information we have about you. You can only review records that contain your personally identifiable information, and you’ll have to provide proper identification to do so. We’ll work with you to update your records if necessary. You may be charged for copies of documents that you request.
     
-* [¿Tengo derechos adicionales en virtud de la ley federal?
-    --------------------------------------------------------
+* [Do I have additional rights under Federal law?
+    ----------------------------------------------
     
-    Es posible que tengas derechos adicionales en virtud de la Ley del Cable.](#acc-item-1265)
+    You may have additional rights under the Cable Act.](#acc-item-1265)
     
-    ### Información sobre la “Ley del Cable”
+    ### Information about the Cable Act
     
-    La “Ley del Cable” (Sección 631 de la Ley de Comunicaciones de 1934, en su forma enmendada) limita la recopilación y divulgación de información personalmente identificable por parte de los operadores de cable y exige que los operadores le informen, en la medida en que la Ley del Cable se aplica a los servicios que tú compras, acerca de la [información personalmente identificable](#) que ellos recopilan.
+    The “Cable Act” (Section 631 of the Communications Act of 1934, as amended) limits the collection and disclosure of personally identifiable information by cable operators and requires operators to tell you, to the extent that the Cable Act applies to the services you purchase, about the [personally identifiable information](#) they collect.
     
-    Información personalmente identificable
+    Personally Identifiable Information
     
-    Conforme a la Ley del Cable, la información personalmente identificable no incluye datos agregados que no identifiquen a una persona en particular.
+    Under the Cable Act, personally identifiable information does not include aggregate data that does not identify a particular person
     
-     Podemos usar nuestro sistema de cable para recopilar información personalmente identificable necesaria para prestar servicios de cable u otros servicios que se te proporcionan a través del sistema de cable, así como para detectar y prevenir acceso no autorizado a servicios. Podemos recopilar información personalmente identificable adicional con tu consentimiento previo. Podemos usar o divulgar información personalmente identificable sin consentimiento cuando sea necesario para prestar servicios o llevar a cabo actividades de negocios legítimas que se relacionan con los servicios que proporcionamos.
+     We may use our cable system to collect personally identifiable information necessary to render cable service or other services provided to you over the cable system and to detect and prevent unauthorized access to services. We may collect additional personally identifiable information with your prior consent. We may use or disclose personally identifiable information without consent where necessary to render services and to conduct legitimate business activities related to the services we provide.
     
-    También podemos divulgar tu nombre y dirección siempre que tengas la capacidad de prevenir o limitar esta divulgación y la misma no revele, de manera directa ni indirecta, tu audiencia u otros usos de los servicios que prestamos. Compartimos información sobre el nombre y dirección con proveedores de servicios como parte de nuestro programa de Publicidad Relevante por Televisión. Estos proveedores trabajan en nuestro nombre para ayudar a nuestros anunciantes a optimizar sus anuncios evitando que los mismos anuncios que ves en Fios se te muestren en otros lugares. Puedes optar por no participar en el [programa de Publicidad relevante por televisión.](http://verizon.com/relevanttvfaqs) 
+    We may also disclose your name and address as long as you have the ability to prevent or limit this disclosure and the disclosure does not reveal, directly or indirectly, your viewing or other uses of the services we provide. We share name and address information with service providers as part of our Relevant TV advertising program. These providers work on our behalf to help our advertisers optimize their ads by preventing the same ads you see on Fios from being shown to you in other places. You can opt out of participating in the [Relevant TV advertising program](http://verizon.com/relevanttvfaqs). 
     
-    También podemos compartir información personalmente identificable si así lo exige la ley para cumplir con un [proceso legal válido](#).
+    We may also share personally identifiable information if it is required by law to comply with [valid legal process](#).
     
-    Proceso legal válido
+    Valid Legal Process
     
-    Podemos divulgar información personalmente identificable a una entidad gubernamental para cumplir con un proceso legal válido, pero no divulgaremos los registros que revelan tu programación de videos, a menos que recibamos una orden judicial que indique que la entidad gubernamental ha demostrado específicamente la relevancia y se te ha brindado la oportunidad de impugnar la orden. Se nos puede exigir divulgar información personalmente identificable (incluida tu programación de videos) a una entidad no gubernamental con una orden judicial después de que se te haya notificado.
+    We may disclose personally identifiable information to a governmental entity to comply with valid legal process, but we will not disclose records revealing your video programming unless we receive a court order indicating that the governmental entity has made a specified showing of relevance and you were afforded an opportunity to contest the order. We may be required to disclose personally identifiable information (including your video programming) to a non-governmental entity to comply with a court order, after you have been provided notice.
     
-     Retenemos información personalmente identificable solo mientras sea razonablemente necesario para fines comerciales, contables, fiscales o legales. Si deseas acceder a tu información personalmente identificable, envía un [formulario de consulta de privacidad](https://www.verizon.com/about/privacy/privacy-inquiries) para concertar una hora y un lugar convenientes para hacerlo durante el horario laboral. Si crees que alguna parte de tu información personalmente identificable es inexacta, trabajaremos contigo para asegurar que se corrija.
+     We retain personally identifiable information only as long as reasonably necessary for business, accounting, tax or legal purposes. If you would like to access your personally identifiable information, Please submit a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries) to arrange a time and convenient location to do so during business hours. If you believe any of your personally identifiable information is inaccurate, we will work with you to ensure that corrections are made.
     
-    Si crees que se han violado tus derechos de privacidad de la Ley del Cable, por favor, envía un [formulario de consulta de privacidad](https://www.verizon.com/about/privacy/privacy-inquiries) y nos pondremos en contacto contigo para abordar tus preocupaciones. Si crees que se te ha perjudicado como consecuencia de una violación de la Ley del Cable, puedes hacer cumplir las limitaciones impuestas por la Ley del Cable mediante una acción civil en un tribunal de distrito de los Estados Unidos que busque una compensación por daños y perjuicios, honorarios de abogados y costos judiciales. También puedes disponer de otros derechos y recursos en virtud de la legislación federal u otras leyes aplicables.
+    If you believe that your Cable Act privacy rights have been violated, please submit a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries) and we will work with you to address your concerns. If you believe that you have been aggrieved as a result of a violation of the Cable Act, you may enforce the limitations imposed by the Cable Act through a civil action in a United States district court seeking damages, attorney's fees, and litigation costs. Other rights and remedies may also be available to you under federal or other applicable laws.
     
-* [¿Tengo derechos específicos según las leyes de privacidad en los Estados Unidos?
-    --------------------------------------------------------------------------------
+* [Do I have specific rights under privacy laws in the United States?
+    ------------------------------------------------------------------
     
-    Tienes derechos específicos en virtud de las leyes estatales, incluyendo las leyes de privacidad de California, Colorado, Maine, Nevada y Virginia.](#acc-item-55)
+    You have specific rights under state laws, including California, Colorado, Connecticut, Maine, Nevada and Virginia privacy laws.](#acc-item-55)
     
-    ### Ley de Privacidad del Consumidor de California
+    ### California Consumer Privacy Act
     
-    La [Ley de Privacidad del Consumidor de California (CCPA, por sus siglas en inglés)](#) proporciona derechos específicos a los residentes de California. 
+    The [California Consumer Privacy Act (CCPA)](#) provides California residents with specific rights. 
     
-    Ley de Privacidad del Consumidor de California (CCPA)
+    California Consumer Privacy Act (Ccpa)
     
-    Esta ley te otorga el derecho de saber qué información recopilamos sobre ti y cómo la usamos, acceder y eliminar esa información dentro de esos límites, solicitar que corrijamos la información que creas que no es precisa, limitar el uso de cierta información personal confidencial, indicarnos que no vendamos ni compartamos información personal sobre ti y no ser discriminado por invocar el cumplimento de estos derechos.
+    This law provides you with the right to know what information we collect about you and how we use it, access and delete that information within certain limits, request that we correct information that you believe is inaccurate, limit the use of certain sensitive personal information, tell us not to sell or share personal information about you and to not be discriminated against for invoking these rights.
     
-    **Tienes derecho de saber qué información personal recopilamos, cómo la usamos y cuánto tiempo la almacenamos.** Esta política de privacidad brinda detalles sobre las prácticas de recopilación y uso. La ley de California requiere que no solo describamos las [categorías de información personal que recopilamos y utilizamos](#) sino también indiquemos la fuente de esa información. Recopilamos información personal [cuando interactúas con nosotros](#) y usas nuestros productos y servicios, de terceros y de nuestra red y los dispositivos que usas. Parte de la información que recopilamos se considera [información personal confidencial conforme a la ley de California](#). 
+    **You have the right to know what personal information we collect, how we use it, and how long we keep it.** This privacy policy provides details about our collection and use practices. California law requires that we also describe the [categories of personal information we collect and use](#) and the sources of that information. We collect personal information [when you interact with us](#) and use our products and services, from third-parties and from our network and the devices you use. Some of the information we collect is considered [sensitive personal information under California law](#). 
     
-    información personal confidencial conforme a la ley de California
+    sensitive personal information under California Law
     
-    La ley de California define la información confidencial como información que revela tu seguro social, licencia de conducir, tarjeta de identificación estatal o número de pasaporte; información para iniciar sesión en la cuenta con código de acceso o seguridad; cuenta financiera, número de tarjeta de crédito o débito junto con un código de acceso o seguridad, contraseña o credenciales que permitan el acceso a la cuenta; geolocalización precisa; origen étnico o racial, creencias religiosas o filosóficas, afiliación sindical; contenidos de tu correo postal, correo electrónico y mensajes de texto a menos que seamos los destinatarios de la comunicación; datos genéticos; datos barométricos para identificarte inequívocamente y recopilar o analizar la información personal de salud, vida sexual u orientación sexual. 
+    The California law defines sensitive information to include information that reveals your social security, driver’s license, state identification card, or passport number; account log-in information with required security or access codes; financial account, debit or credit card number along with required security or access code, password, or credentials allowing access to an account; precise geolocation; racial or ethnic origin, religious or philosophical beliefs, or union membership; contents of your mail, email, and text messages unless we are the recipient of the communication; genetic data; and using biometrics to uniquely identify you and collecting or analyzing personal information about your health, sex life or sexual orientation. 
     
-    cuando interactúas con nosotros
+    when you interact with us
     
-    Puedes interactuar con nosotros de diferentes maneras, por ejemplo, cuando haces un pedido o tienes preguntas sobre tu cuenta o servicios; trabajas con Verizon como representante de un cliente de negocios; nos contactas en las redes sociales; solicitas asistencia técnica; participas en un concurso, sorteo o promoción patrocinado por Verizon o sus filiales; o te registras para recibir noticias o información actualizada sobre políticas públicas.
+    You may interact with us in different ways, for example, when you place an order or have questions about your account or services; work with Verizon as a representative of a business customer; contact us on social media; seek technical support; enter a Verizon-sponsored or affiliated contest, sweepstakes or promotion; or register to receive news or public policy updates.
     
-    categorías de información personal que recopilamos y usamos
+    categories of personal information we collect and use
     
-    Recopilamos las categorías de información personal que se indican a continuación: 
+    We collect the following categories of personal information: 
     
-    * Identificadores, tales como nombre, dirección de facturación y de correo electrónico, identificadores de dispositivos móviles, dirección de IP, credenciales de cuenta, información de contacto del representante del cliente de negocios, el número de seguro social o de la licencia de conducir y otros identificadores similares.
-    * Clasificaciones legalmente protegidas, por ejemplo, raza, ascendencia, género y discapacidad.
-    * Información comercial, como productos o servicios que compres o consideres
-    * Información de Internet, incluido el historial de navegación, la búsqueda y otras actividades en nuestros sitios web, además de información sobre tu interacción con nuestros sitios web, aplicaciones y publicidad.
-    * Datos de geolocalización de nuestra red y, cuando lo autorices, de nuestras aplicaciones.
-    * Información de audio, electrónica, visual y en formatos similares, tales como grabaciones de voz de llamadas de servicio al cliente y fotografías de equipos del cliente o que utilizas dentro de nuestras aplicaciones.
-    * Información profesional y relacionada con el empleo.
-    * Información de educación.
-    * Inferencias que creamos desde la información que recopilamos para crear un perfil que refleje tus preferencias, características, predisposiciones y comportamiento. 
-    * Seguridad de la información de la cuenta que incluyen tus credenciales para iniciar sesión a la cuenta, cuenta financiera, número de tarjeta de crédito o débito con el código de acceso o seguridad, contraseña o credenciales que permitan el acceso a la cuenta. 
-    * Información genética, biométrica y de salud, como las aplicaciones de Verizon que te permiten compartir información de salud con tus contactos de emergencia o de confianza. Otro servicio de Verizon hace uso de la tecnología de reconocimiento de voz para asegurar tus cuentas de Verizon. 
-    * Datos demográficos y de intereses e indicadores de fraude que obtenemos de empresas externas. 
-    * Toda información que pueda identificarte, relacionarte, describirte o que pueda asociarse contigo, como, en algunas circunstancias, el número de póliza de seguro si es necesario para procesar reclamos por daños.
+    * Identifiers, including, name, billing and email address, mobile device identifiers, IP address, account credentials, business customer representative contact information, social security or driver’s license number and other similar identifiers
+    * Legally protected classifications, including race, ancestry, gender, and disability
+    * Commercial information, including products or services you purchase and consider
+    * Internet information, including browsing history, search and other activity on our sites, and information about your interaction with our sites, apps, and advertisements
+    * Geolocation data from our network and, when you permit it, our apps
+    * Audio, electronic, visual, or similar information, including voice recordings of customer service calls and photographs of customer equipment or that you use within our apps
+    * Professional or employment-related information
+    * Education information
+    * Inferences we create from the information we collect that create a profile reflecting your preferences, characteristics, predispositions, and behavior. 
+    * Secure account information including your account log-in credentials, financial account, debit or credit card number with any required security or access code, password, or credentials that allow access to an account. 
+    * Genetic, biometric and health information, for example, some Verizon apps allow you to share health information with your trusted or emergency contacts. Another Verizon service uses voice recognition technology to allow you to secure your Verizon accounts. 
+    * Demographic and interest data and fraud indicators we obtain from outside companies. 
+    * And other information that may identify, relate to, describe, or is capable of being associated with you, for example, in limited circumstances, we may collect your insurance policy number if it is needed for processing damage claims.
     
-    Utilizamos la información que recopilamos para [fines comerciales y empresariales](#) según lo define la Ley de Privacidad del Consumidor de California (CCPA, por sus siglas en inglés). Compartimos información con [proveedores de servicios que trabajan en nuestro nombre](#), así como con otros para fines de crédito y cobranza, asistencia de directorio e identificación de llamadas, con su consentimiento y como se describe con más detalle en otras secciones de esta política.
+    We use the information we collect for [business and commercial purposes](#) as they are defined by the CCPA. We share information with [service providers who do work on our behalf](#); and others for credit and collections, directory assistance and caller id purposes;, with your consent; and as further described in other sections of this policy.
     
-    proveedores de servicios que trabajan en nuestro nombre
+    service providers who do work on our behalf
     
-    Compartimos información con proveedores de servicio según sea necesario para que puedan realizar el trabajo por nosotros. Compartimos con ellos la información que necesitan para realizar ese trabajo. Esto incluye tu información personal, por ejemplo, compartimos información de contacto con los proveedores de servicio que nos ayudan a enviar las campañas de marketing de Verizon y la información del dispositivo a otros proveedores de servicios que nos ayudan a monitorear nuestra red y proveer asistencia técnica. Se solicita a los proveedores de servicio que protejan la información que les compartimos o que recopilan en nuestro nombre y la usen solo con los fines específicos que permitimos.
+    We share information with service providers as necessary for them to perform work for us. We share with them the information they need to perform that work. This includes personal information about you, for example, we share contact information with service providers who help us send Verizon marketing campaigns and device information to other service providers who help us monitor our network and provide technical support. Service providers are required to protect the information we share with them or they collect on our behalf and use it only for the specific purposes that we allow.
     
-    fines comerciales y de negocios
+    business and commercial purposes
     
-    Estos fines incluyen proveerte productos y servicios, operar tus empresas e involucrarte en actividades económicas, tales como la comunicación y provisión de servicio al cliente; personalizar tus experiencias; mejorar nuestros servicios; proveer marketing y publicidad; depuración (debugging); auditar nuestros procesos y servicios; usos transitorios a corto plazo; investigar; y seguridad, fraude y cumplimiento de las leyes.
+    These purposes include providing you products and services, operating our businesses, and engaging in economic activities such as communicating with you and providing customer service; personalizing your experiences; improving our services; providing marketing and advertising; debugging; auditing our processes and services; short-term transient uses; research; and security, fraud, and legal compliance.
     
-    Nuestras políticas exigen que conservemos los registros que contengan información personal durante el tiempo que sea necesario con fines legales, impositivos, auditorías, investigaciones y/o seguridad, y, luego, eliminarlos y destruirlos de manera segura. Incorporamos información personal a distintos tipos de registros, no siempre conservada mediante elementos de datos diferenciados. Por ejemplo, tu nombre forma parte de tu cuenta, facturación, asistencia técnica y registros con detalles de llamadas.
+    Our policies require that we retain records containing personal information for as long as they are needed for legal, tax, audit, investigative, and/or security purposes and then securely delete or destroy them. We incorporate personal information into different types of records; it is not always retained by distinct data elements. For example, your name is part of your account, billing, technical support and call detail records.
     
-    **Tienes derecho a acceder, eliminar y corregir información.** Puedes solicitar acceso a piezas y categorías específicas de información personal que recopilamos a través de nuestro [Panel de control de privacidad](https://esus.verizon.com/privacy/your-data) y siguiendo las instrucciones allí, o llamando al 1-800-333-3972. Te brindaremos esta información en un formato portátil y listo para usar. Puedes utilizar esta misma información de contacto para solicitar que eliminemos tu información personal [a menos que la necesitemos por razones específicas](#)  y que corrijamos la información personal errónea que tengamos sobre ti. 
+    **You have the right to access, delete and correct information.** You can request access to specific pieces and categories of personal information we collect by using our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) and following the instructions there, or by calling 1-800-333-3972. We will provide this information to you in a portable and readily usable format. You can use this same contact information to request that we delete personal information we have about you [unless we need it for specific reasons](#), and to correct inaccurate personal information we have about you. 
     
-    a menos que lo necesitemos por razones específicas
+    unless we need it for specific reasons
     
-    En la ley, se describen las siguientes razones: las necesidades de contar con dicha información para proveer los servicios que has solicitado y otras actividades necesarias para mantener la relación comercial actual o celebrar un contrato contigo, mantener la seguridad de la información, ejercer los derechos legales y cumplir con otras leyes.
+    The law describes these reasons to include: needing the information to provide the services you have requested and other activities needed to maintain an ongoing business relationship or perform a contract with you, to maintain information security, to exercise legal rights and to comply with other laws.
     
-    **Tienes derecho a informarnos que no deseas que tu información personal se venda o se comparta.** La legislación de California define "la venta o el intercambio" en sentido amplio para incluir el intercambio de información personal a cambio de una contraprestación monetaria u otra contraprestación de valor y el intercambio de información sobre ti con fines de publicidad contextual. En esta definición, no se cubren todos los intercambios de información personal. No vendemos ni compartimos a sabiendas información personal relacionada con menores de 16 años. 
+    **You have a right to inform us that you do not want your personal information sold or shared.** California law defines “sale or sharing” broadly to include sharing personal information for monetary or other valuable consideration and the sharing of information we have about you for cross contextual advertising purposes. This definition does not cover all sharing of personal information. We do not knowingly sell or share personal information related to children under 16 years of age. 
     
-    Desde 2022 y actualmente, participamos de la venta y el intercambio en línea cuando compartimos información con empresas de tecnología de publicidad en nuestros sitios web que combinan esa información con información que compilan sobre tus visitas a otros sitios o que obtienen de ti para mostrarte publicidad personalizada. Esto ocurre con el uso de cookies, píxeles, etiquetas y tecnologías similares. Podemos realizar ventas intercambios sin conexión cuando obtenemos información personal o compartimos información personal que tenemos sobre ti con otras empresas para orientar mejor los anuncios que te aparecen o cuando usamos información personal como parte de [nuestros propios programas internos](#).
+    Since 2022 and presently, we engage in online selling or sharing when we share information with advertising technology companies present on our websites who combine that information with information they collect about your visits to other sites or that they otherwise have about you to provide more personalized advertising to you. This occurs through the use of cookies, pixels, tags and similar technologies. We may engage in offline sales and sharing when we obtain personal information from or share personal information we have about you with other companies to better target ads to you or when we use personal information as part of [our own internal programs](#).
     
-    nuestros propios programas internos
+    our own internal programs
     
-    Nuestros programas incluyen el programa Custom Experience, Custom Experience Plus, Publicidad Relevante por Televisión, Publicidad Relevante en Línea y medición de audiencia e investigación de mercado de Fios TV.
+    Our programs include Custom Experience, Custom Experience Plus, Relevant TV Advertising, Relevant Online Advertising, and Fios TV market research and audience measurement.
     
-    Puedes optar por excluirte de la venta e intercambio accediendo a nuestras [Opciones de privacidad](https://esus.verizon.com/privacy/your-privacy-choices) **.** Esta página también describe cómo respetamos las señales del [Control global de privacidad](https://globalprivacycontrol.org/) que puedes configurar en tu navegador. No respondemos a las señales de No rastrear.
+    You can opt out of sale and sharing by accessing our [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices) **.** This page also describes how we honor [Global Privacy Control](https://globalprivacycontrol.org/) signals you may set on your browser. We do not respond to Do Not Track signals.
     
-    **Tienes derecho a limitar el uso de información personal confidencial.** Este derecho te permite solicitarnos que limitemos el uso y la divulgación de información personal confidencial si utilizamos esa información para otros fines que no sean necesarios al proporcionar los productos y servicios que solicitas o por otras [razones especificadas en la ley](#). No usamos ni divulgamos información personal confidencial con otros fines sin tu consentimiento, por eso no te ofrecemos ninguna opción para limitar el uso de la información personal confidencial.
+    **You have the right to limit the use of sensitive personal information.** This right lets you ask us to limit the use and disclosure of sensitive personal information if we use that information for purposes beyond what is needed to provide the products and services you request or for other [reasons specified in the law](#). We do not use or disclose sensitive personal information for other purposes without your consent so we do not offer you an option to limit the use of sensitive personal information.
     
-    razones especificadas en la ley
+    reasons specified in the law
     
-    Estas razones incluyen detectar incidentes de seguridad; prevenir acciones ilegales, fraudulentas, engañosas y maliciosas; garantizar la seguridad física de la persona; evitar usos transitorios y a corto plazo; proveer servicios de mantenimiento o servicios de cuenta; proveer servicio al cliente; realizar pedidos y transacciones; verificar tu información; y verificar, mantener y mejorar un servicio en un dispositivo del que seamos dueños, fabricantes o controladores o en tu dispositivo. Además, podemos compartir tu información con proveedores que brinden servicios de almacenamiento o similares en nuestro nombre.
+    These reasons include: detecting security incidents; resisting malicious, deceptive, fraudulent or illegal actions; ensuring the physical safety of a person; short-term, transient uses; performing services such as maintaining or servicing accounts, providing customer service, fulfilling orders and transactions; verifying your information; and verifying, maintaining or enhancing a service on a device that is owned manufactured or controlled by us or on your device. We may also share your information with vendors providing storage or similar services on our behalf.
     
-    **Tienes derecho a no ser discriminado.** No te [discriminaremos](#) si ejerces los derechos descritos en esta sección.
+    **You have the right to not be discriminated against.** We do not [discriminate](#) against you if you exercise any rights described in this section.
     
-    discriminar
+    discriminate
     
-    No te negaremos productos ni servicios, no aplicaremos precios distintos ni tasas por productos o servicios, ni brindaremos un nivel o calidad distintas de productos y servicios. También tienes el derecho de recibir información sobre los incentivos financieros que te ofrecemos.
+    We will not deny goods or services, charge different prices or rates for goods or services or provide you a different level or quality of goods and services. You also have the right to receive information about any financial incentives we offer to you.
     
-    **Dónde ejercer tus derechos.** Tú o tu [agente autorizado](#) pueden ejercer tu derecho a saber, acceder, eliminar y corregir información de la siguiente manera:
+    **Where to exercise your rights.** You or your [authorized agent](#) can exercise your right to know, access, delete, and correct data by:
     
-    agente autorizado
+    authorized agent
     
-    Los consumidores pueden designar una empresa o persona como su agente usando nuestro [Panel de control de privacidad](https://esus.verizon.com/privacy/your-data) para “Asignar y administrar tu agente autorizado”. Podemos requerir pruebas adicionales de que concediste dicha autorización.
+    Consumers may designate a business or individual as their agent by using our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) to “Assign and manage your authorized agent.” We may require additional proof that you granted the authority.
     
-    * visitando nuestro [Panel de control de privacidad](https://esus.verizon.com/privacy/your-data) o
-    * llamando al 1-800-333-3972.
+    * visiting our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) or
+    * calling 1-800-333-3972.
     
-    Puedes ejercer tu derecho a optar por no vender y compartir visitando [Tus opciones de privacidad ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://esus.verizon.com/privacy/your-privacy-choices) . Tu agente autorizado puede ejercer tu derecho de optar por no participar de la venta y el intercambio enviando un [formulario de consulta de privacidad](https://esus.verizon.com/about/privacy/privacy-inquiries).
+    You can exercise your right to opt-out of selling and sharing by visiting [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices) . Your authorized agent can exercise your right to opt-out of selling and sharing by submitting a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries).
     
-    Te pedimos que [verifiques tu identidad](#) a través de los procesos que describimos en el panel de control o en la página de opciones de privacidad antes de que completes la solicitud. En virtud del tipo de solicitud que hagas, es posible que tengas que iniciar sesión en una cuenta existente y comprobar el acceso a tu teléfono móvil, tu dirección de correo electrónico registrada con nosotros o una ID emitida por el gobierno.
+    We require you to [verify your identity](#) using the processes we describe in the dashboard or the privacy choices page before we fulfill your request. Depending on the type of request you make, you may be required to log into an existing account and prove access to your mobile phone, to your email address on file with us, or to a government-issued ID.
     
-    verifica tu identidad
+    verify your identity
     
-    Por ejemplo, es posible que tengas que comprobar el acceso a tu teléfono móvil, tu dirección de correo electrónico registrada con nosotros o una ID emitida por el gobierno.
+    For example, you may have to prove access to your mobile phone, to your email address on file with us, or to a government-issued ID.
     
-    **Informes.** Puedes acceder a nuestro [informe CCPA 2022](https://esus.verizon.com/about/privacy/ccpa-reporting) para conocer las solicitudes de acceso y supresión que recibimos durante ese año.
+    **Reporting.** You can access our [2022 CCPA report](https://www.verizon.com/about/privacy/ccpa-reporting) to learn about the access and deletion requests we received during that year.
     
-    **Preguntas.** Si tienes preguntas sobre tus derechos según la ley de California o sobre nuestras políticas y prácticas de privacidad, envía un  [formulario de consulta de privacidad](https://www.verizon.com/about/privacy/privacy-inquiries) o llama al 800-922-0204 si eres cliente de telefonía móvil o al 800-837-4966 si tienes servicios residenciales, como Verizon Fios.
+    **Questions.** If you have questions about your rights under California Law or about our privacy policies and practices, please submit a  [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries) or call 800-922-0204 if you are a Mobile customer or call 800-837-4966 if you have Home-based services, such as Verizon Fios.
     
-    ### Derechos de Privacidad de California adicionales
+    ### Additional California Privacy Rights
     
-    Los clientes de California pueden [solicitar](#), una vez al año, que revelemos la identidad de cualquier tercero con quien hayamos compartido información personal para fines de marketing directo de terceros dentro del año calendario anterior, junto con el tipo de información personal divulgada. 
+    California customers may [request](#), once per year, that we disclose the identity of any third parties with whom we have shared personal information for the third parties’ direct marketing purposes within the previous calendar year, along with the type of personal information disclosed. 
     
-    pedido
+    request
     
-    Los residentes de California pueden hacer una solicitud poniéndose en contacto con nosotros enviando un [formulario de consulta de privacidad](https://www.verizon.com/privacy/privacy-inquiries)
+    California residents can make a request by contacting us by submitting a [privacy inquiry form](https://www.verizon.com/privacy/privacy-inquiries)
     
     Verizon Privacy Office  
     1300 I Street, NW Suite 500 East  
     Washington, DC 20005  
     
-    Los residentes de California menores de 18 años que sean usuarios registrados de sitios, servicios o aplicaciones en línea pueden [solicitar](#) y obtener la eliminación del contenido o la información que hayan publicado públicamente. Tu solicitud debe incluir una descripción detallada del contenido o la información específica a eliminar. Ten en cuenta que tu solicitud no garantiza la eliminación total o general del contenido o información publicada en Internet y que es posible que la ley no permita, ni requiera, la eliminación en determinadas circunstancias.
+    California residents under age 18 who are registered users of online sites, services or applications may [request](#) and obtain removal of content or information they have publicly posted. Your request should include a detailed description of the specific content or information to be removed. Please be aware that your request does not guarantee complete or comprehensive removal of content or information posted online and that the law may not permit or require removal in certain circumstances.
     
-    pedido
+    request
     
-    Los residentes en California pueden hacer una solicitud enviándonos un correo a:  
+    California residents can make a request by contacting us at:  
     privacyoffice@verizon.com
     
     Verizon Privacy Office  
     1300 I Street, NW Suite 500 East  
     Washington, DC 20005  
     
-    ### Ley de Privacidad de Colorado
+    ### Colorado Privacy Act
     
-    La [Ley de Privacidad de Colorado](#) otorga derechos específicos a los residentes de Colorado.
+    The [Colorado Privacy Act](#) gives specific rights to Colorado residents.
     
-    Ley de Privacidad de Colorado
+    Colorado Privacy Act
     
-    La ley te da el derecho de saber si recopilamos información sobre ti, qué información y cómo la usamos; acceder a la información que tenemos sobre ti en un formato de uso común; eliminar cierta información; solicitar que corrijamos la información que creas es inapropiada; optar por no participar de la venta de información que tenemos sobre ti para utilizarla para la publicidad dirigida hacia ti o para construir un perfil sobre ti y tomar decisiones legales y de importancia sobre ti.
+    This law gives you the right to know whether we collect information about you, what that information is and how we use it; access information we have about you in a commonly used format; delete certain information; request that we correct information that you believe is inaccurate; opt out of having personal information about you sold, used to target advertising to you, or used to build a profile about you to make legally or similar significant decisions about you.
     
-    **Tienes el derecho de saber si recopilamos información personal, qué tipo de información y los fines para los cuales la usamos.** Esta política de privacidad brinda detalles sobre las prácticas de recopilación y uso. La ley de Colorado nos solicita que te hagamos saber las [categorías de información personal que recopilamos y los objetivos para los cuales la recopilamos en cada categoría.](#) Recopilamos información personal [cuando interactúas con nosotros](#) y usas nuestros productos y servicios, desde ciertas fuentes externas y desde nuestra red y dispositivos que usas. Parte de la información que recopilamos se considera [información confidencial en virtud de la ley de Colorado.](#) 
+    **You have the right to know whether we collect personal information. what it is and the purposes for which we use it.** This privacy policy provides details about our collection and use practices. Colorado law requires us to let you know the [categories of personal information we collect and the purposes for which we collect each category.](#) We collect personal information [when you interact with us](#) and use our products and services, from certain third-party sources and from our network and the devices you use. Some of the information we collect is considered [sensitive data under Colorado law.](#) 
     
-    información confidencial en virtud de la ley de Colorado.
+    sensitive data under Colorado law.
     
-    La ley describe a la información confidencial como información personal que revela el origen racial o étnico, las creencias religiosas, la condición o diagnóstico de salud mental o física, la vida sexual u orientación sexual, la ciudadanía o condición de ciudadanía; los datos biométricos o genéticos que se procesan a fin de identificarte inequívocamente; y la información personal recopilada de un menor conocido. 
+    The law describes sensitive data as personal data revealing racial or ethnic origin, religious beliefs, mental or physical health condition or diagnosis, sex life or sexual orientation, or citizenship or citizenship status; processing genetic or biometric data for the purpose of uniquely identifying you; and personal data collected from a known child. 
     
-    cuando interactúas con nosotros
+    when you interact with us
     
-    Puedes interactuar con nosotros de diferentes maneras, por ejemplo, cuando haces un pedido o tienes preguntas sobre tu cuenta o servicios; trabajas con Verizon como representante de un cliente de negocios; nos contactas en las redes sociales; solicitas asistencia técnica; participas en un concurso, sorteo o promoción patrocinado por Verizon o sus filiales; o te registras para recibir noticias o información actualizada sobre políticas públicas. 
+    You may interact with us in different ways, for example, when you place an order or have questions about your account or services; work with Verizon as a representative of a business customer; contact us on social media; seek technical support; enter a Verizon-sponsored or affiliated contest, sweepstakes or promotion; or register to receive news or public policy updates. 
     
-    categorías de información personal que recopilamos y los fines para los que recopilamos cada categoría.
+    categories of personal information we collect and the purposes for which we collect each category.
     
-    Las categorías de información personal que recopilamos y los fines para los cuales la recopilamos son los siguientes:
+    Categories of personal information we collect and the purposes for which we collect them include:
     
-    1. Información de contacto y del dispositivo (incluidos el nombre, la dirección de facturación y de correo electrónico, los identificadores de dispositivos móviles, la dirección de IP, las credenciales de la cuenta, la información de contacto del representante del cliente de negocios); información sobre los productos y servicios que compras o consideras; información sobre navegación, búsqueda y otras actividades en nuestros sitios y aplicaciones, así como tus interacciones con nuestros sitios, aplicaciones y anuncios; e información sobre tus dispositivos y su funcionamiento, incluido el rendimiento en nuestra red.
-    2. Usamos la información demográfica y de intereses que provees o que obtenemos de terceros para conocer a nuestros clientes y mercados, personalizar mejor tu experiencia, proveer el marketing y la publicidad, hacer pruebas de prejuicios y crear perspectivas comerciales. Utilizamos indicadores de fraude que recibimos de otras empresas para ayudar a detectar y prevenir el fraude.  
-    3. Información de geolocalización de nuestra red y, cuando lo autorices, de nuestras aplicaciones; información sobre el uso de nuestros productos y servicios, navegación por Internet en todos los sitios y aplicaciones no afiliados; grabaciones de voz de llamadas de servicio al cliente y fotografías del equipo del cliente. Utilizamos esta información para fines que incluyen operaciones comerciales; por motivos de seguridad y protección y prevención del fraude; para personalizar tus experiencias y nuestro marketing; y para los fines específicos que te describimos cuando te registras.
-    4. Información segura de la cuenta incluidas las credenciales de inicio de sesión de tu cuenta, cuenta financiera, número de seguro social o identificador fiscal, número de tarjeta de débito o crédito con cualquier código de acceso, contraseña o credenciales que permitan el acceso a una cuenta. Utilizamos esta información para proporcionarte acceso a tus cuentas, medir el riesgo crediticio y de pago, aceptar pagos por productos y servicios que compres, por motivos de seguridad y prevención de fraudes y propósitos legales de cumplimiento.
-    5. Información genética, biométrica y de salud para fines específicos tales como las aplicaciones de Verizon que te permiten compartir información de salud con tus contactos de emergencia o de confianza. Otro servicio de Verizon hace uso de la tecnología de reconocimiento de voz para asegurar tus cuentas de Verizon. 
-    6. Toda información que pueda identificarte, relacionarte, describirte o que pueda asociarse contigo, como, en algunas circunstancias, el número de póliza de seguro si es necesario para procesar reclamos por daños. 
+    1. Contact and device information (including, name, billing and email address, mobile device identifiers, IP address, account credentials, business customer representative contact information); information about the products and services you purchase or consider; information about browsing, search and other activity on our sites and apps as well as your interactions with our sites, apps and advertisements; and information about your devices and how they are working, including performance on our network.
+    2. We use demographic and interest information you provide or that we obtain from third parties to help us understand our customers and our markets, better personalize your experiences, provide marketing and advertising; test for bias and create business insights. We use fraud indicators we receive from other companies to help detect and prevent fraud.  
+    3. Geolocation information from our network and, when you permit it, in our apps; information about how you use our products and services, web browsing across unaffiliated sites and apps; voice recordings of customer service calls and photographs of customer equipment. We use this information for purposes including business operations; security and fraud protection and prevention; to personalize your experiences and our marketing; and for the specific purposes we describe to you when you opt in.
+    4. Secure account information including your account log-in credentials, financial account, Social Security Number or tax identifier, debit or credit card number with any required security or access code, password, or credentials that allow access to an account. We use this information to provide you with access to your accounts, measure credit and payment risk, accept payment for products and services you purchase; security and fraud prevention and legal compliance purposes.
+    5. Genetic, biometric and health information for limited purposes such as some Verizon apps allow you to share health information with your trusted or emergency contacts. Another Verizon service uses voice recognition technology to allow you to secure your Verizon accounts. 
+    6. Other information that may identify, relate to, describe, or is capable of being associated with you, for example, in limited circumstances, we may collect your insurance policy number if it is needed for processing damage claims. 
     
-    [Los terceros](#) que utilizamos para trabajar en nuestro nombre pueden utilizar la información para los mismos fines. También podemos compartir información con otros para fines de crédito y cobranza, asistencia de directorio e identificación de llamadas, con tu consentimiento y como se describe con más detalle en otras secciones de esta política. 
+    [Third parties](#) we use to do work on our behalf may use information for the same purposes. We may also share information with others for credit and collections, directory assistance and caller id purposes; with your consent; and as further described in other sections of this policy. 
     
-    Terceros
+    Third parties
     
-    Compartimos información con proveedores de servicios (también conocidos como procesadores) según sea necesario para que trabajen en nuestro nombre. Ellos tienen la obligación de proteger la información que le proporcionamos o que recopilan en nuestro nombre y pueden usarla solamente para el fin específico que permitimos.
+    We share information with service providers (also known as processors) as necessary for them to perform work for us. They are required to protect the information they receive from us or collect on our behalf and use it only for the specific purposes that we allow.
     
-    **Tienes derecho a acceder, eliminar y corregir información**. Puedes acceder a partes y categorías específicas de la información personal que recopilamos a través del [Panel de control de privacidad](https://esus.verizon.com/privacy/your-data) y siguiendo las instrucciones allí o llamando al 1-800-333-3972. Según el alcance técnico posible, te brindaremos esta información en un formato portátil y listo para usar. Puedes usar la misma información de contacto para solicitar que eliminemos tu información personal a menos que la necesitemos por [razones especificadas en la ley de Colorado](#) y puedes solicitarnos que corrijamos la información personal errónea que tengamos de ti.
+    **You have the right to access, delete and correct information**. You can access specific pieces and categories of personal information we collect using our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) and following the instructions there or by calling 1-800-333-3972. To the extent technically feasible, we will provide this information to you in a portable and readily usable format. You can use the same contact information to request that we delete personal information we have unless we need it for [reasons specified in the Colorado law](#) and to request that we correct inaccurate personal information we have about you.
     
-    razones especificadas en la ley de Colorado
+    reasons specified in the Colorado law
     
-    Estas razones incluyen cumplir con las leyes y cooperar con el cumplimiento de la ley de buena fe; investigar, establecer o defenderse de reclamos legales; investigar internamente para mejorar, arreglar o desarrollar productos; identificar y reparar errores; llevar adelante operaciones internas; proveer productos y servicios que usas; proteger intereses vitales y ciertos intereses públicos; prevenir el fraude; y asistir a otros en el cumplimiento.
+    These reasons include complying with laws and cooperating with law enforcement in good faith; investigating, establishing, preparing or defending against legal claims; internal research to improve, repair, or develop products; identifying and repairing errors; internal operations; providing products and services you use; protecting vital interests and certain public interests; preventing fraud; and assisting another with compliance.
     
-    **Uso de información personal confidencial.** La ley de Colorado nos prohíbe usar la información personal confidencial sin tu consentimiento, excepto según [se especifique en la ley](#). Usamos la información personal confidencial según tu autorización con consentimiento expreso o como lo autoriza la ley. 
+    **Use of sensitive personal information.** Colorado law prohibits us from using sensitive personal information without your consent, except as [specified in the law](#). We use sensitive personal information as you authorize with your express consent or as authorized under the law. 
     
-    especificado en la ley
+    specified in the law
     
-    Estas razones incluyen cumplir con las leyes, reglas, regulaciones, citaciones o comparecencias por parte de autoridades gubernamentales; cooperar con las autoridades de la ley; investigar, establecer, preparar o defender reclamos legales; proveer y mantener productos y servicios que usas; prevenir incidentes importantes o de seguridad y responder ante ellos; tomar medidas inmediatas para proteger los intereses esenciales de la vida y tu seguridad física o la de otra persona; y usar la información para fines transitorios y a corto plazo, tales como divulgarte información relevante según tu actividad durante una única interacción.
+    These reasons include complying with laws, rules, regulations, investigative subpoena or summons by governmental authorities; cooperating with law enforcement; investigating, establishing, preparing or defending against legal claims; providing and maintaining the products and services you use, preventing and responding to security and other significant incidents; taking immediate steps to protect an interest that is essential for the life or physical safety of you or another natural person; and using information for short-term transient purposes such as displaying relevant information to you based on your activity during a single interaction.
     
-    **Tienes derecho a decirnos que no usemos tu información personal para establecer perfiles y tomar decisiones que tengan una consecuencia o efecto similar**. No usamos información personal para crear perfiles tuyos y después tomar decisiones que tengan una consecuencia legal o efecto similar. 
+    **You have the right to tell us not to use personal information to establish profiles to make decisions that produce legal or similarly significant effects**. We do not use personal information to profile you to further decisions that have legal or similar significant effects. 
     
-    **Tienes el derecho de decirnos que no vendamos tu información personal ni que la usemos para la publicidad dirigida** En la ley de Colorado, se define "la venta" como el intercambio de datos personales a cambio de una compensación monetaria o valiosa. En la ley, se describe la “publicidad dirigida” como el uso de información personal obtenida o inferida con el tiempo de las actividades que realizas en sitios web, aplicaciones y servicios en línea para predecir tus preferencias o intereses y la publicidad dirigida a ti.
+    **You have the right to tell us not to sell personal information or use it for targeted advertising**. Colorado law defines “sale” to mean the exchange of personal data for monetary or other valuable consideration. The law describes “targeted advertising” as using personal information obtained or inferred over time from your activities across non-affiliated websites, applications or online services to predict your preferences or interests and target advertising to you.
     
-    Realizamos actividades de venta o publicidad dirigida en línea cuando compartimos información con empresas de tecnología publicitaria presentes en nuestros sitios web que combinan esa información con la que recopilan sobre tus visitas a otros sitios o la que tienen sobre ti por otros medios para ofrecerte publicidad más personalizada. Esto ocurre con el uso de cookies, píxeles, etiquetas y tecnologías similares. También podemos participar en actividades de ventas o dirigidas fuera de Internet cuando obtenemos información personal o compartimos información personal que tenemos sobre ti con otras empresas para ofrecerte mejores anuncios o cuando utilizamos información personal como parte de [nuestros programas internos](#).
+    We engage in online sale or targeted advertising activities when we share information with advertising technology companies present on our websites who combine that information with information they collect about your visits to other sites or that they otherwise have about you to provide more personalized advertising to you. This occurs through the use of cookies, pixels, tags and similar technologies. We also may engage in offline sales or targeting activities when we obtain personal information from or share personal information we have about you with other companies to better target ads to you or when we use personal information in [our own internal programs](#).
     
-    nuestros propios programas internos
+    our own internal programs
     
-    Nuestros programas incluyen el programa Custom Experience, Custom Experience Plus, Publicidad Relevante en Línea, Publicidad Relevante por Televisión y medición de audiencia e investigación de mercado de Fios TV.
+    Our programs include Custom Experience, Custom Experience Plus, Relevant Online Advertising, Relevant TV Advertising and Fios Market Research and Audience Measurement.
     
-    Puedes optar por no participar en la venta y la publicidad dirigida visitando [Tus opciones de privacidad ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://esus.verizon.com/privacy/your-privacy-choices) .
+    You can opt out of sale and targeted advertising by visiting [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices) .
     
-    **Puedes apelar** una denegación de tu solicitud a ejercer todo derecho de privacidad en virtud de la ley de Colorado. Si denegamos tu solicitud, te lo notificaremos y te daremos instrucciones sobre cómo apelar la decisión ante el Fiscal General de Colorado. 
+    **You can appeal** a denial of your request to exercise any of the privacy rights provided by the Colorado law. If we deny your request, we will notify you and give you instructions on how you can appeal that decision to the Colorado Attorney General. 
     
-    **No te [discriminamos](#)** si ejerces algún derecho descrito en esta sección.
+    **We do not [discriminate](#)** against you if you exercise any rights described in this section.
     
-    discriminar
+    discriminate
     
-    No te negaremos productos ni servicios, no aplicaremos precios distintos ni tasas por productos o servicios, ni brindaremos un nivel o calidad distintas de productos y servicios. 
+    We will not deny goods or services, charge different prices or rates for goods or services or provide you a different level or quality of goods and services. 
     
-    **Dónde ejercer tus derechos**. 
+    **Where to exercise your rights**. 
     
-    Puedes ejercer el derecho de saber, acceder, eliminar y corregir información de la siguiente manera:
+    You can exercise your right to know, access, delete and correct data by:
     
-    * Visitando nuestro Panel de control de privacidad o
-    * llamando al 1-800-333-3972.
+    * Visiting our Privacy Dashboard or
+    * Calling 1.800.333.3972.
     
-    Puedes ejercer tu derecho de optar por no participar de la venta de información personal o el uso de ella para publicidad dirigida visitando nuestra página [Tus opciones de privacidad ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://esus.verizon.com/privacy/your-privacy-choices)  . Esta página también brinda instrucciones para que tu agente autorizado opte por no participar en tu nombre.
+    You can exercise your right to opt-out of sale of personal information or use of it for targeted advertising by visiting our [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices)  page. This page also provides instructions for your authorized agent to opt out on your behalf.
     
-    Es posible que te pidamos que [verifiques tu identidad](#) a través de los procesos que describimos en el panel de control o en la página de opciones de privacidad antes de que completes la solicitud.
+    We may require you to [verify your identity](#) using the processes described in the dashboard and the privacy choices page before we fulfill your request.
     
-    verifica tu identidad
+    verify your identity
     
-    Por ejemplo, es posible que tengas que comprobar el acceso a tu teléfono móvil, tu dirección de correo electrónico registrada con nosotros o una ID emitida por el gobierno.
+    For example, you may have to prove access to your mobile phone, to your email address on file with us, or to a government-issued ID.
     
-    Si tienes alguna pregunta sobre tus derechos en virtud de la ley de Colorado, [envía un formulario de consulta de privacidad.](https://www.verizon.com/about/privacy/privacy-inquiries)
+    If you have questions about your rights under the Colorado law, please [submit a privacy inquiry form.](https://www.verizon.com/about/privacy/privacy-inquiries)
     
-    ### Ley de Privacidad de Datos de Connecticut
+    ### Connecticut Data Privacy Act
     
-    La [Ley de Privacidad de Datos de Connecticut](#) les da derechos específicos a los residentes de Connecticut.
+    The [Connecticut Data Privacy Act](#) gives specific rights to Connecticut residents.
     
-    Ley de Privacidad de Datos de Connecticut
+    Connecticut Data Privacy Act
     
-    La ley te da derecho a saber cómo recopilamos tu información; acceder, corregir y eliminar cierta información; optar por no participar de la venta o el uso de tu información personal para la publicidad dirigida o a evitar que usemos inteligencia artificial para crear un perfil sobre ti y tomar decisiones legales y de importancia sobre ti.
+    This law gives you the right to know whether we collect information about you; access, correct and delete certain information; opt out of having personal information about you sold or used for target advertising purposes or to prevent us from using artificial intelligence to create a profile about you to make legally or similar significant decisions about you.
     
-    **Tienes derecho a saber si recopilamos información personal sobre ti.** Esta política de privacidad brinda detalles sobre las prácticas de recopilación y uso de la información. La ley de Connecticut nos exige que te informemos las [categorías de información personal que recopilamos y usamos](#).
+    **You have the right to know whether we collect personal information about you.** This privacy policy provides details about our information collection and use practices. Connecticut law requires us to let you know the [categories of personal information we collect and use](#).
     
-    categorías de información personal que recopilamos y usamos
+    categories of personal information we collect and use
     
-    Recopilamos las categorías de información personal que se indican a continuación: 
+    We collect these categories of personal information: 
     
-    * Información de contacto y del dispositivo (incluidos el nombre, la dirección de facturación y de correo electrónico, los identificadores de dispositivos móviles, la dirección de IP, las credenciales de la cuenta, la información de contacto del representante del cliente de negocios); información sobre los productos y servicios que compras o consideras; información sobre navegación, búsqueda y otras actividades en nuestros sitios y aplicaciones, así como tus interacciones con nuestros sitios, aplicaciones y anuncios; e información sobre tus dispositivos y su funcionamiento, incluido el rendimiento en nuestra red. 
-    * Información demográfica y de interés e indicadores de fraude que proporcionas o que obtenemos de terceros. 
-    * Información de geolocalización de nuestra red y, cuando lo autorices, de nuestras aplicaciones; información sobre el uso de nuestros productos y servicios; navegador de Internet en todos los sitios y aplicaciones no afiliados; grabaciones de voz de llamadas de servicio al cliente y fotografías del equipo del cliente.
-    * Información segura de la cuenta incluyendo las credenciales de inicio de sesión de su cuenta, cuenta financiera, número de seguro social o identificador fiscal, número de tarjeta de débito o crédito con cualquier código de acceso, contraseña o credenciales que permitan el acceso a una cuenta. 
-    * Información genética, biométrica y de salud para fines específicos tales como las aplicaciones de Verizon que te permiten compartir información de salud con tus contactos de emergencia o de confianza. Otro servicio de Verizon hace uso de la tecnología de reconocimiento de voz para asegurar tus cuentas de Verizon.  
-    * Toda información que pueda identificarte, relacionarte, describirte o que pueda asociarse contigo, como, en algunas circunstancias, el número de póliza de seguro si es necesario para procesar reclamos por daños.
+    * Contact and device information (including, name, billing and email address, mobile device identifiers, IP address, account credentials, business customer representative contact information); information about the products and services you purchase or consider; information about browsing, search and other activity on our sites and apps as well as your interactions with our sites, apps and advertisements; and information about your devices and how they are working, including performance on our network. 
+    * Demographic and interest information and fraud indicators that  you provide or that we obtain from third parties. 
+    * Geolocation information from our network and, when you permit it, in our apps; information about how you use our products and services;  web browsing across unaffiliated sites and apps; voice recordings of customer service calls and photographs of customer equipment.
+    * Secure account information including your account log-in credentials, financial account, Social Security Number or tax identifier,  debit or credit card number with any required security or access code, password, or credentials that allow access to an account. 
+    * Genetic, biometric and health information for limited purposes such as some Verizon apps allow you to share health information with your trusted or emergency contacts. Another Verizon service uses voice recognition technology to allow you to secure your Verizon accounts.  
+    * Other information that may identify, relate to, describe, or is capable of being associated with you, for example, in limited circumstances, we may collect your insurance policy number if it is needed for processing damage claims.
     
-    Utilizamos esta información con [fines comerciales](#). [Los terceros](#) que utilizamos para trabajar en nuestro nombre pueden utilizar la información para los mismos fines. Además, podemos compartir información con otras personas para fines de crédito y cobranza, identificación de llamadas y servicio de información, con tu consentimiento y en virtud de otras secciones ya descritas en esta política.
+    We use this information for [business purposes](#). [Third parties](#) we use to do work on our behalf may use information for the same purposes. We may also share  information with others for credit and collections, directory assistance and caller id purposes; with your consent; and as further described in other sections of this policy.
     
-    Terceros
+    Third parties
     
-    Compartimos proveedores de servicios de información (también conocidos como procesadores) según sea necesario para que trabajen en nuestro nombre. Ellos tienen la obligación de proteger la información que le proporcionamos o que recopilan en nuestro nombre y pueden usarla solamente para el fin específico que permitimos.
+    We share information service providers (also known as processors)  as necessary for them to perform work for us. They are required to protect the information they receive from us or collect on our behalf and use it only for the specific purposes that we allow.
     
-    fines comerciales
+    business purposes
     
-    Estos fines incluyen proveerte productos y servicios, operar tus empresas, comunicarnos contigo y proveerte servicio al cliente; personalizar tus experiencias; mejorar tus servicios; proveer marketing y publicidad; corregir errores de fraude; auditar procesos y servicios; hacer uso transitorio a corto plazo; investigar y corregir errores de seguridad. 
+    These purposes include providing you products and services, operating our businesses, communicating with you and providing customer service; personalizing your experiences; improving our services; providing marketing and advertising; debugging; auditing our processes and services; short-term transient uses; research; and security, fraud, and legal compliance. 
     
-    Tienes el derecho de acceder, corregir y eliminar la información. Puedes acceder a cierta información personal que recopilamos a través de nuestro [Panel de control de privacidad](https://esus.verizon.com/privacy/your-data) y siguiendo las instrucciones allí, o llamando al 1-800-333-3972. Según el alcance técnico posible, te brindaremos esta información en un formato portátil y listo para usar. Puedes usar la misma información de contacto para solicitar que eliminemos tu información personal a menos que la necesitemos por [razones especificadas en la ley de Connecticut](#) y puedes solicitarnos que corrijamos la información personal errónea que tengamos de ti. 
+    You have the right to access, correct and delete information. You can access certain personal information we collect using our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) and following the instructions there, or by calling 1-800-333-3972. To the extent technically feasible, we will provide this information to you in a portable and readily usable format. You can use the same contact information to request that we delete personal information we have unless we need it for [reasons specified in the Connecticut law](#) and to request that we correct inaccurate personal information we have about you. 
     
-    razones especificadas en la ley de Connecticut
+    reasons specified In the Connecticut law
     
-    Estas razones incluyen cumplir con las leyes, reglas, regulaciones, citaciones o comparecencias por parte de autoridades gubernamentales; defender reclamos legales; proveer y mantener productos y servicios que usas; celebrar un contrato; prevenir incidentes importantes o de seguridad y responder ante ellos; tomar medidas inmediatas para proteger los intereses esenciales de la vida y tu seguridad física o la de otra persona. Asimismo, la ley autoriza usos transitorios y a corto plazo, tales como la divulgación de información relevante a ti basada en tu actividad durante una única interacción.
+    These reasons include complying with laws, rules, regulations, investigative subpoena or summons by governmental authorities; defending against legal claims; providing and maintaining the products and services you use, performing a contract, preventing and responding to security and other significant incidents; and taking immediate steps to protect an interest that is essential for the life or physical safety of you or another natural person. The law also allows for short-term transient purposes such as displaying relevant information to you based on your activity during a single interaction.
     
-    **Uso de información personal confidencial.** La ley de Connecticut nos prohíbe usar [información personal confidencial](#) sin tu consentimiento, excepto como [se especifica en la ley](#). Usamos la información personal confidencial luego de tu autorización en virtud de lo que indica la ley o luego de obtener tu consentimiento expreso. 
+    **Use of sensitive personal information.** Connecticut law prohibits us from using [sensitive personal information](#) without your consent except as [specified in the law](#). We use sensitive personal information as authorized by the law or after we obtain your express consent. 
     
-    especificado en la ley
+    specified In the law
     
-    Estas razones incluyen cumplir con las leyes, reglas, regulaciones, citaciones o comparecencias por parte de autoridades gubernamentales; defender reclamos legales; proveer y mantener productos y servicios que usas; celebrar un contrato; prevenir incidentes importantes o de seguridad y responder ante ellos; tomar medidas inmediatas para proteger los intereses esenciales de la vida y tu seguridad física o la de otra persona. Asimismo, la ley autoriza usos transitorios y a corto plazo, tales como la divulgación de información relevante a ti basada en tu actividad durante una única interacción. 
+    These reasons include complying with laws, rules, regulations, investigative subpoena or summons by governmental authorities; defending against legal claims; providing and maintaining the products and services you use, performing a contract; preventing and responding to security and other significant incidents; and taking immediate steps to protect an interest that is essential for the life or physical safety of you or another natural person. The law also allows for short-term transient purposes such as displaying relevant information to you based on your activity during a single interaction. 
     
-    información personal confidencial
+    sensitive personal information
     
-    En la ley, se describe a la información personal confidencial como información que revela el origen racial o étnico, las creencias religiosas, la condición o diagnóstico de salud mental o física, la vida sexual u orientación sexual, la ciudadanía o condición de migración; los datos biométricos o genéticos se procesan a fin de identificarte inequívocamente; y la información personal recopilada de un menor conocido y los datos precisos de geolocalización.
+    The law describes sensitive personal information to include: personal data revealing racial or ethnic origin, religious beliefs, mental or physical health condition or diagnosis, sex life or sexual orientation, citizenship or immigration status; processing genetic or biometric data for the purpose of uniquely identifying you; personal data collected from a known child; and precise geolocation data.
     
-    **Tienes derecho a pedirnos que no apliquemos decisiones automatizadas para crear perfiles que usamos para tomar decisiones respecto de ti y que tienen una consecuencia legal o efecto similar**. No usamos información personal para crear perfiles tuyos y después tomar decisiones que tengan una consecuencia legal o efecto similar. 
+    **You have the right to tell us not to use automated decisioning to create profiles about you that we use for decisions that have legal or similarly significant effect**. We do not use personal information to profile you to further decisions that have legal or similar significant effects. 
     
-    **Tienes derecho a optar por no participar de la venta de información personal ni del uso de información personal para publicidad dirigida**. En la ley de Connecticut, se define “la venta” como el intercambio de datos personales a cambio de una compensación monetaria o valiosa. En la ley de Connecticut, se describe la “publicidad dirigida” como el uso de información personal obtenida o inferida con el tiempo de las actividades que realizas en sitios web o aplicaciones en línea de no afiliados para predecir tus preferencias o intereses y mostrarte anuncios. 
+    **You have the right to opt-out of the sale of personal information and the use of personal information for targeted advertising**. Connecticut law defines “sale” to mean the exchange of personal data for monetary or other valuable consideration. Connecticut law describes “targeted advertising” as using personal data obtained or inferred from your activities over time and across nonaffiliated Internet web sites or online applications to predict your preferences or interests, and display ads to you. 
     
-    Realizamos actividades de publicidad dirigida en línea cuando compartimos información con empresas de tecnología publicitaria presentes en nuestros sitios web que combinan esa información con la que recopilan sobre tus visitas a otros sitios o la que tienen sobre ti por otros medios para ofrecerte publicidad más personalizada. Esto ocurre con el uso de cookies, píxeles, etiquetas y tecnologías similares. Realizamos actividades dirigidas fuera de Internet cuando obtenemos información personal o compartimos información personal que tenemos sobre ti con otras empresas para ofrecerte mejores anuncios o cuando utilizamos información personal como parte de [nuestros programas internos](#).
+    We engage in online targeted advertising activities when we share information with advertising technology companies present on our websites who combine that information with information they collect about your visits to other sites or that they otherwise have about you to provide more personalized advertising to you. This occurs through the use of cookies, pixels, tags and similar technologies. We may engage in offline targeting activities when we obtain personal information from or share personal information we have about you with other companies to better target ads to you or when we use personal information as part of [our own internal programs](#).
     
-    nuestros propios programas internos
+    our own internal programs
     
-    Nuestros programas incluyen el programa Custom Experience, Custom Experience Plus, Publicidad Relevante por Televisión, Publicidad Relevante en Línea y medición de audiencia e investigación de mercado de Fios TV. 
+    Our programs include Custom Experience, Custom Experience Plus, Relevant TV Advertising, Relevant Online Advertising, and Fios TV market research and audience measurement. 
     
-    Puedes ejercer tu derecho a optar por no participar visitando [Tus opciones de privacidad ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://esus.verizon.com/privacy/your-privacy-choices) .
+    You can exercise your right to opt out by visiting [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices) .
     
-    **Puedes apelar** una denegación de tu solicitud para ejercer cualquiera de los derechos de privacidad proporcionados por la ley de Connecticut. Si denegamos tu solicitud, te lo notificaremos y te daremos instrucciones sobre cómo apelar la decisión ante el Fiscal General de Connecticut. 
+    **You can appeal** a denial of your request to exercise any of the privacy rights provided by the Connecticut law. If we deny your request, we will notify you and give you instructions on how you can appeal that decision to the Connecticut Attorney General. 
     
-    **Nosotros no** [discriminar](#) **contra** ti si ejerces cualquiera de los derechos descritos en esta sección.
+    **We do not** [discriminate](#) **against** you if you exercise any rights described in this section.
     
-    discriminar
+    discriminate
     
-    No te negaremos productos ni servicios, no aplicaremos precios distintos ni tasas por productos o servicios, ni brindaremos un nivel o calidad distintas de productos y servicios.
+    We will not deny goods or services, charge different prices or rates for goods or services or provide you a different level or quality of goods and services.
     
-    **Dónde ejercer tus derechos** 
+    **Where to exercise your rights.** 
     
-    Puedes ejercer el derecho de saber, acceder, eliminar y corregir información de la siguiente manera:
+    You can exercise your right to know, access, delete and correct  data by:
     
-    * Visitando nuestro [Panel de control de privacidad](https://esus.verizon.com/privacy/your-data) o
-    * llamando al 1-800-333-3972.
+    * Visiting our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) or
+    * Calling 1.800.333.3972.
     
-    Puedes ejercer tu derecho a excluirte de la venta de información personal o del uso de esta información para determinada publicidad dirigida visitando nuestra página [Tus opciones de privacidad ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://esus.verizon.com/privacy/your-privacy-choices) . La página también brinda instrucciones para que tu agente autorizado opte por no participar en tu nombre. 
+    You can exercise your right to opt-out of the sale of personal information or use of this information for certain targeted advertising by visiting our [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices)  page. The page also provides instructions for your authorized agent to opt out on your behalf. 
     
-    Es posible que te pidamos que [verifiques tu identidad](#) a través de los procesos que describimos en el panel de control o en la página de opciones de privacidad antes de que completes la solicitud.
+    We may require you to [verify your identity](#) using the processes described in the dashboard and the privacy choices page before we fulfill your request.
     
-    verifica tu identidad
+    verify your identity
     
-    Por ejemplo, es posible que tengas que comprobar el acceso a tu teléfono móvil, tu dirección de correo electrónico registrada con nosotros o una ID emitida por el gobierno.
+    For example, you may have to prove access to your mobile phone, to your email address on file with us, or to a government-issued ID.
     
-    Si tienes preguntas sobre tus derechos en virtud de la ley de Connecticut, [envía un formulario de consulta de privacidad](https://www.verizon.com/about/privacy/privacy-inquiries).
+    If you have questions about your rights under the Connecticut law, [please submit a privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries).
     
-    ### Derechos de Privacidad de clientes con banda ancha de Maine
+    ### Maine Broadband Customer Privacy Rights
     
-    La [Ley de Maine sobre la Privacidad del Cliente en los Servicios de Acceso a Internet de Banda Ancha](#), vigente desde el 1.º de julio de 2020, te da derechos de privacidad adicionales si nosotros somos tu proveedor de servicios de acceso a Internet de banda ancha. La ley de Maine te da derecho a controlar ciertas maneras en las que usamos o compartimos información que tenemos sobre ti y requiere que te brindemos un aviso de tus derechos y nuestras obligaciones en virtud de la ley. Eso es lo que hacemos en esta sección.
+    The [Maine Broadband Internet Access Service Customer Privacy Act](#), effective on July 1, 2020, gives you additional privacy rights when we are your broadband Internet access service provider. The Maine law gives you the right to control certain ways that we use or share information we have about you and requires that we provide you with a notice of your rights and our obligations under this law. We do this in this section.
     
-    Ley de Privacidad del Cliente del Servicio de Acceso a Internet de Banda Ancha de Maine
+    Maine Broadband Internet Access Service Customer Privacy Act
     
-    La ley se aplica a los suscriptores anteriores y actuales de servicio de acceso a Internet de banda ancha para el mercado masivo en Maine. También se aplica a los solicitantes de este servicio. 
+    The law applies to current or former subscribers of mass market broadband Internet access service in Maine. It also applies to applicants for this service. 
     
-    La ley de Maine también nos exige que tomemos medidas razonables para proteger [la información personal del cliente](#). Describimos esto en una sección anterior de esta [política de privacidad](https://www.verizon.com/about/privacy/full-privacy-policy?scroll#acc-item-35).
+    The Maine law also requires us to take reasonable measures to protect [customer personal information](#). We describe this in an earlier section of this [privacy policy](https://www.verizon.com/about/privacy/full-privacy-policy?scroll#acc-item-35).
     
-    información personal del cliente
+    customer personal information
     
-    En la ley de Maine, se define la "información personal del cliente" como información personalmente identificable sobre un cliente o información del uso del servicio de acceso a Internet de banda ancha del cliente. 
+    Maine law defines “customer personal information” as personally identifying information about a customer or information from a customer’s use of broadband Internet access service. 
     
-    No utilizaremos, divulgaremos, venderemos ni permitiremos el acceso a la información personal del cliente de banda ancha de Maine, excepto para los [fines permitidos por la ley de Maine](#) o con tu consentimiento afirmativo. Es posible que te solicitemos este consentimiento cuando interactuemos contigo. Por ejemplo, es posible que solicitemos el uso de información personal del cliente de banda ancha para comercializar [servicios adicionales](#) cuando nos llames o vengas a nuestras tiendas.
+    We will not use, disclose, sell, or permit access to your Maine broadband customer personal information except for [purposes allowed under the Maine law](#) or with your affirmative consent. We may ask you for this consent when we interact with you. For example, we may ask to use broadband customer personal information to market [additional services](#) to you when you call us or come into our stores.
     
-    Propósitos permitidos bajo la ley de Maine
+    Purposes allowed under the Maine law
     
-     Gracias a la ley de Maine, podemos usar y/o compartir información personal del cliente de banda ancha para proveer y mantener servicios de banda ancha; comercializar y publicitar nuestros servicios relacionados con la comunicación; cumplir con órdenes judiciales legales; proteger a los usuarios del uso o la suscripción fraudulento, abusivo e ilegal de dichos servicios; o proveer información de la ubicación en respuesta a ciertas situaciones de emergencia.
+     Maine law allows us to use and/or share broadband customer personal information to provide and maintain your broadband services; market and advertise our communications-related services to you; comply with lawful court orders; bill and collect; protect users from fraudulent, abusive, or unlawful use of or subscription to such services; or provide location information in response to certain emergency situations.
     
-    Servicios adicionales
+    additional services
     
-    Por "servicios adicionales", se entienden los servicios de Verizon y de sus socios que no están relacionados con la comunicación.
+    By “additional services,” we mean Verizon or partner services that are not communications-related.
     
-    La ley de Maine también te brinda el derecho de optar por no participar de ningún uso o intercambio de información que no sea información personal del cliente en virtud de la ley. En este momento, no recopilamos información sobre ti como cliente de banda ancha que no es información personal del cliente. Si seguimos recopilando dicha información en el futuro, te daremos el derecho de optar por no participar de su uso o intercambio. 
+    The Maine law also provides you with a right to opt-out of any use or sharing of data that is not customer personal information under the law. At this time, we do not collect information about you as a broadband customer that is not customer personal information. If we begin collecting such information in the future, we will give you the right to opt out of its use and sharing. 
     
-    No nos negaremos a proveerte servicio de banda ancha, cobrar una penalización u ofrecer un descuento basado en si aceptas que podamos usar o intercambiar tu información personal del cliente de banda ancha.
+    We will not refuse to provide you with broadband service, charge you a penalty, or offer you a discount based on whether you agree that we can use or share your broadband customer personal information.
     
-    ### Leyes de Privacidad de Nevada
+    ### Nevada Privacy Rights
     
-    La ley de Nevada permite a los consumidores optar por no participar de la [venta](#) de información de identificación personal por parte de proveedores de servicios en línea, como operadores de sitios web.
+    Nevada law allows consumers to opt out of the [sale](#) of personally identifiable information by online service providers such as website operators.
     
-    venta
+    sale
     
-    La ley de Nevada define “venta” como el intercambio de determinada información de clientes personalmente identificable por dinero. La información personalmente identificable incluye nombre, dirección, número de teléfono, número de Seguro Social o cualquier otro identificador que se pueda usar para contactarte electrónicamente.  
+    Nevada law defines "sale" as the exchange of certain personally identifiable customer information for money. Personally identifiable information includes name, address, phone number, SSN, or any identifier that can be used to contact you electronically.  
     
-    Verizon actualmente no vende información personalmente identificable y no tenemos planes de comenzar a hacerlo. Si alguna vez Verizon empieza a vender esta información personal, los clientes actuales de Verizon serán excluidos. Si tienes alguna pregunta, envía un [formulario de consulta de privacidad](https://esus.verizon.com/about/privacy/privacy-inquiries).
+    Verizon doesn’t sell personally identifiable information today and we don’t have plans to start. If Verizon ever starts selling such personal information, current Verizon customers will be opted out. If you have questions, please submit a [privacy inquiries form](https://www.verizon.com/about/privacy/privacy-inquiries).
     
-    ### Ley de Protección de los Datos del Consumidor de Virginia
+    ### Virginia Consumer Data Protection Act
     
-    La [Ley de Protección de Datos del Consumidor de Virginia](#) otorga derechos específicos a los residentes de Virginia.
+    The [Virginia Consumer Data Protection Act](#) gives specific rights to Virginia residents.
     
-    Ley de Protección de los Datos del Consumidor de Virginia
+    Virginia Consumer Data Protection Act
     
-    Esta ley te otorga el derecho de acceder a cierta información que recopilamos sobre ti y a eliminarla; a solicitar que corrijamos la información que consideres inexacta; a optar por no participar de la venta de tu información personal para utilizarla para la publicidad dirigida hacia ti o para construir un perfil sobre ti para tomar decisiones legales y de importancia sobre ti; y apelar la denegación de una solicitud para ejercer uno de estos derechos de privacidad.
+    This law gives you the right to to access and delete certain information we collect about you; to request that we correct information that you believe is inaccurate; to opt out of having personal information about you sold, used to target advertising to you, or used to build a profile about you to make legally or similar significant decisions about you; and to appeal the denial of a request to exercise one of these privacy rights.
     
-    **Información personal que recopilamos y cómo la utilizamos.** Esta política de privacidad brinda detalles sobre las prácticas de recopilación y uso. La ley de Virginia requiere que te informemos las [categorías de información personal que recopilamos y utilizamos.](#) Recopilamos información personal [cuando interactúas con nosotros](#) y usas nuestros productos y servicios, desde ciertas fuentes externas y desde nuestra red y dispositivos que usas. Parte de la información que recopilamos se considera [información personal confidencial conforme a la ley de Virginia](#). 
+    **Personal information we collect and how we use it.** This privacy policy provides details about our collection and use practices. Virginia law requires us to let you know the [categories of personal information we collect and use.](#) We collect personal information [when you interact with us](#) and use our products and services, from certain third-party sources and from our network and the devices you use. Some of the information we collect is considered [sensitive personal information under Virginia law](#). 
     
-    cuando interactúas con nosotros
+    when you interact with us
     
-    Puedes interactuar con nosotros de diferentes maneras, por ejemplo, cuando haces un pedido o tienes preguntas sobre tu cuenta o servicios; trabajas con Verizon como representante de un cliente de negocios; nos contactas en las redes sociales; solicitas asistencia técnica; participas en un concurso, sorteo o promoción patrocinado por Verizon o sus filiales; o te registras para recibir noticias o información actualizada sobre políticas públicas.
+    You may interact with us in different ways, for example, when you place an order or have questions about your account or services; work with Verizon as a representative of a business customer; contact us on social media; seek technical support; enter a Verizon-sponsored or affiliated contest, sweepstakes or promotion; or register to receive news or public policy updates.
     
-    información personal confidencial conforme a la ley de Virginia
+    sensitive personal information under Virginia law
     
-    La ley describe a la información personal confidencial como información que revela el origen racial o étnico, las creencias religiosas, la salud mental o física, la orientación sexual, la ciudadanía o condición de migración; los datos biométricos o genéticos que se procesan a fin de identificarte inequívocamente; la información personal recopilada de un menor conocido; y los datos precisos de geolocalización.
+    The law describes sensitive personal information to include: personal data revealing racial or ethnic origin, religious beliefs, mental or physical health diagnosis, sexual orientation, or citizenship or immigration status; processing genetic or biometric data for the purpose of uniquely identifying you; personal data collected from a known child; and precise geolocation data.
     
-    categorías de información personal que recopilamos y utilizamos.
+    categories of personal information we collect and use.
     
-    Recopilamos las categorías de información personal que se indican a continuación: 
+    We collect these categories of personal information: 
     
-    * Información de contacto y del dispositivo (incluidos el nombre, la dirección de facturación y de correo electrónico, los identificadores de dispositivos móviles, la dirección de IP, las credenciales de la cuenta, la información de contacto del representante del cliente de negocios); información sobre los productos y servicios que compras o consideras; información sobre navegación, búsqueda y otras actividades en nuestros sitios y aplicaciones, así como tus interacciones con nuestros sitios, aplicaciones y anuncios; e información sobre tus dispositivos y su funcionamiento, incluido el rendimiento en nuestra red. 
-    * Información demográfica y de interés e indicadores de fraude que proporcionas o que obtenemos de terceros. 
-    * Información de geolocalización de nuestra red y, cuando lo autorices, de nuestras aplicaciones; información sobre el uso de nuestros productos y servicios; navegador de Internet en todos los sitios y aplicaciones no afiliados; grabaciones de voz de llamadas de servicio al cliente y fotografías del equipo del cliente.
-    * Información segura de la cuenta incluyendo las credenciales de inicio de sesión de su cuenta, cuenta financiera, número de seguro social o identificador fiscal, número de tarjeta de débito o crédito con cualquier código de acceso, contraseña o credenciales que permitan el acceso a una cuenta. 
-    * Información genética, biométrica y de salud para fines específicos tales como las aplicaciones de Verizon que te permiten compartir información de salud con tus contactos de emergencia o de confianza. Otro servicio de Verizon hace uso de la tecnología de reconocimiento de voz para asegurar tus cuentas de Verizon.  
-    * Toda información que pueda identificarte, relacionarte, describirte o que pueda asociarse contigo, como, en algunas circunstancias, el número de póliza de seguro si es necesario para procesar reclamos por daños.
+    * Contact and device information (including, name, billing and email address, mobile device identifiers, IP address, account credentials, business customer representative contact information); information about the products and services you purchase or consider; information about browsing, search and other activity on our sites and apps as well as your interactions with our sites, apps and advertisements; and information about your devices and how they are working, including performance on our network. 
+    * Demographic and interest information and fraud indicators that  you provide or that we obtain from third parties. 
+    * Geolocation information from our network and, when you permit it, in our apps; information about how you use our products and services; web browsing across unaffiliated sites and apps; voice recordings of customer service calls and photographs of customer equipment.
+    * Secure account information including your account log-in credentials, financial account, Social Security Number or tax identifier,  debit or credit card number with any required security or access code, password, or credentials that allow access to an account. 
+    * Genetic, biometric and health information for limited purposes such as some Verizon apps allow you to share health information with your trusted or emergency contacts. Another Verizon service uses voice recognition technology to allow you to secure your Verizon accounts.  
+    * Other information that may identify, relate to, describe, or is capable of being associated with you, for example, in limited circumstances, we may collect your insurance policy number if it is needed for processing damage claims.
     
-    Utilizamos esta información con [fines comerciales y empresariales](#)**.** [Los proveedores de servicios](#) que utilizamos para realizar trabajos en nuestro nombre pueden utilizar la información con los mismos fines. También podemos compartir información con otros para fines de crédito y cobranza, asistencia de directorio e identificación de llamadas, con tu consentimiento y como se describe con más detalle en otras secciones de esta política. 
+    We use this information for [business and commercial purposes](#)**.** [Service providers](#) we use to do work on our behalf may use information for the same purposes. We may also share information with others for credit and collections, directory assistance and caller id purposes; with your consent; and as further described in other sections of this policy. 
     
-    Proveedores de servicios
+    Service providers
     
-    Compartimos información con proveedores de servicios (también conocidos como procesadores) según sea necesario para que trabajen en nuestro nombre. Ellos tienen la obligación de proteger la información que le proporcionamos o que recopilan en nuestro nombre y pueden usarla solamente para el fin específico que permitimos.
+    We share information with service providers (also known as processors) as necessary for them to perform work for us. They are required to protect the information they receive from us or collect on our behalf and use it only for the specific purposes that we allow.
     
-    fines comerciales y de negocios
+    business and commercial purposes
     
-    Estos fines incluyen proveerte productos y servicios, operar tus empresas e involucrarte en actividades económicas, tales como la comunicación y provisión de servicio al cliente; personalizar tus experiencias; mejorar nuestros servicios; proveer marketing y publicidad; depuración (debugging); auditar nuestros procesos y servicios; usos transitorios a corto plazo; investigar; y seguridad, fraude y cumplimiento de las leyes.
+    These purposes include providing you products and services, operating our businesses, and engaging in economic activities such as communicating with you and providing customer service; personalizing your experiences; improving our services; providing marketing and advertising; debugging; auditing our processes and services; short-term transient uses; research; and security, fraud, and legal compliance.
     
-    **Tienes derecho a acceder, eliminar y corregir información.** Puedes acceder a partes y categorías específicas de la información personal que recopilamos a través del  [Panel de control de privacidad](https://esus.verizon.com/privacy/your-data) y siguiendo las instrucciones allí, o llamando al 1-800-333-3972. Según el alcance técnico posible, te brindaremos esta información en un formato portátil y listo para usar. Puedes usar la misma información de contacto para solicitar que eliminemos tu información personal a menos que la necesitemos por [razones especificadas en la ley de Virginia](#) y puedes solicitarnos que corrijamos la información personal que tengamos de ti y que creas es errónea. Retenemos información personal solo durante el tiempo que sea razonablemente necesario para fines comerciales, contables, fiscales o legales, y después la eliminamos de forma segura. 
+    **You have the right to access, delete and correct information.** You can access specific pieces and categories of personal information we collect using our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) and following the instructions there, or by calling 1-800-333-3972. To the extent technically feasible, we will provide this information to you in a portable and readily usable format. You can use the same contact information to request that we delete personal information we have unless we need it for [specific reasons described by Virginia law](#).or request that we correct personal information we have about you that you believe may be inaccurate. We retain personal information only as long as reasonably necessary for business, accounting, tax or legal purposes and then securely delete it. 
     
-    razones específicas descritas en la ley de Virginia
+    specific reasons described by Virginia law
     
-    Estas razones incluyen cumplir con las leyes, normas, citaciones y comparecencias emitidas por autoridades gubernamentales; defender en caso de reclamos legales; proveer y mantener productos y servicios que usas y prevenir problemas de seguridad
+    These reasons include complying with laws, rules, regulations, investigative subpoena or summons by governmental authorities; defending against legal claims; providing and maintaining the products and services you use and preventing security instances
     
-    **Nuestro uso de información personal confidencial.** La ley de Virginia nos prohíbe utilizar información personal confidencial sin tu consentimiento, excepto según lo [especificado en la ley](#). No usamos información personal confidencial sin tu consentimiento expreso o según lo autoriza la ley. 
+    **Our use of sensitive personal information.** Virginia law prohibits us from using sensitive personal information without your consent, except as [specified in the law](#). We do not use sensitive personal information without your express consent or as authorized under the law. 
     
-    especificado en la ley
+    specified In the law
     
-    Estos motivos incluyen el cumplimiento de leyes, normas, reglamentos, citaciones de investigación o requerimientos de autoridades gubernamentales; la defensa frente a reclamaciones legales; el suministro y mantenimiento de los productos y servicios que utilizas; la prevención y respuesta a incidentes de seguridad y otros incidentes significativos; y la adopción de medidas inmediatas para proteger un interés esencial para la vida o tu seguridad física o de otra persona física. Asimismo, la ley autoriza usos transitorios y a corto plazo, tales como la divulgación de información relevante para ti según tu actividad durante una única interacción.
+    These reasons include complying with laws, rules, regulations, investigative subpoena or summons by governmental authorities; defending against legal claims; providing and maintaining the products and services you use; preventing and responding to security and other significant incidents; and taking immediate steps to protect an interest that is essential for the life or physical safety of you or another natural person. The law also allows for short-term transient purposes such as displaying relevant information to you based on your activity during a single interaction.
     
-    **Tienes derecho a indicarnos que no vendamos tu información personal ni la usemos para crear perfiles que luego tengan una consecuencia legal o efecto similar.** En la ley de Virginia, se define "la venta" como el intercambio de datos personales a cambio de una compensación monetaria. No vendemos información según lo define la ley de Virginia. No usamos información personal para crear perfiles tuyos y después tomar decisiones que tengan una consecuencia legal o efecto similar. 
+    **You have the right to tell us not to sell personal information or use it for profiling in furtherance of decisions that produce legal or similarly significant effect.** Virginia law defines “sale” to mean the exchange of personal data for monetary consideration. We do not sell information as it is defined under Virginia law. We also do not use personal information to profile you to further decisions that have legal or similar significant effects. 
     
-    **Tienes derecho de optar por no participar de la publicidad dirigida.** En la ley de Virginia, se define la “publicidad dirigida” como el uso de la información de tus actividades en sitios web y aplicaciones de no afiliados para determinar tus intereses y dirigir anuncios para ti.
+    **You have the right to opt-out of targeted advertising.** Virginia law describes “targeted advertising” as using information from your activities across non-affiliated sites and apps to determine your interests and target our advertising to you.
     
-    Participamos en actividades de publicidad dirigida cuando compartimos información con empresas de tecnología de publicidad en nuestros sitios web que combinan esa información con información que ellos compilan sobre tus visitas a otros sitios o que, de otra manera, obtienen de ti para mostrarte publicidad personalizada. Esto ocurre con el uso de cookies, píxeles, etiquetas y tecnologías similares. Asimismo, podemos participar de publicidad dirigida fuera de Internet cuando obtenemos información personal o compartimos información personal que tenemos sobre ti con otras empresas para dirigir mejor los anuncios o cuando usamos la información personal en [nuestros programas internos.](#)
+    We engage in targeted advertising activities when we share information with advertising technology companies present on our websites who combine that information with information they collect about your visits to other sites or that they otherwise have about you to provide more personalized advertising to you. This occurs through the use of cookies, pixels, tags and similar technologies. We also may engage in offline targeting activities when we obtain personal information from or share personal information we have about you with other companies to better target ads to you or when we use personal information in [our own internal programs.](#)
     
-    nuestros propios programas internos
+    our own internal programs
     
-    Nuestros programas incluyen el programa Custom Experience, Custom Experience Plus, Publicidad Relevante por Televisión, Publicidad Relevante en Línea y medición de audiencia e investigación de mercado de Fios TV.
+    Our programs include Custom Experience, Custom Experience Plus, Relevant TV Advertising, Relevant Online Advertising and Fios market research and audience measurement.
     
-    Puedes optar por no recibir publicidad dirigida accediendo a [Tus opciones de privacidad](https://esus.verizon.com/privacy/your-privacy-choices). [![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://esus.verizon.com/privacy/your-privacy-choices)
+    You can opt out of targeted advertising by accessing [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices). [![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices)
     
-    **Tienes derecho a apelar.** Puedes apelar una denegación de tu solicitud para ejercer cualquiera de los derechos de privacidad proporcionados por la ley de Virginia. Si denegamos tu solicitud, te lo notificaremos y te daremos instrucciones sobre cómo apelar la decisión ante el Fiscal General de Virginia.
+    **You have the right to appeal.** You can appeal a denial of your request to exercise any of the privacy rights provided by the Virginia law. If we deny your request, we will notify you and give you instructions on how you can appeal that decision to the Virginia Attorney General.
     
-    **No te [discriminamos](#)** si ejerces algún derecho descrito en esta sección.
+    **We do not [discriminate](#)** against you if you exercise any rights described in this section.
     
-    discriminar
+    discriminate
     
-    No te negaremos productos ni servicios, no aplicaremos precios distintos ni tasas por productos o servicios, ni brindaremos un nivel o calidad distintas de productos y servicios.
+    We will not deny goods or services, charge different prices or rates for goods or services or provide you a different level or quality of goods and services.
     
-    **Dónde ejercer tus derechos**   
-    Puedes ejercer el derecho de saber, acceder, eliminar y corregir información de la siguiente manera:
+    **Where to exercise your rights.**   
+    You can exercise your right to know, access, delete and correct data by:
     
-    * Visitando nuestro [Panel de control de privacidad](https://esus.verizon.com/privacy/your-data) o
-    * llamando al 1-800-333-3972.
+    * Visiting our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) or
+    * Calling 1.800.333.3972.
     
-    Puedes ejercer tu derecho a optar por no recibir publicidad dirigida visitando [Tus opciones de privacidad](https://esus.verizon.com/privacy/your-privacy-choices) [![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://esus.verizon.com/privacy/your-privacy-choices).
+    You can exercise your right to opt-out of targeted advertising by visiting [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices) [![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices).
     
-    Es posible que te pidamos que [verifiques tu identidad](#) utilizando los procesos descritos en el panel de control y la página de opciones de privacidad antes de completar tu solicitud.
+    We may require you to [verify your identity](#) using the processes described in the dashboard and the privacy choices page before we fulfill your request.
     
-    verifica tu identidad
+    verify your identity
     
-    Por ejemplo, es posible que tengas que comprobar el acceso a tu teléfono móvil, tu dirección de correo electrónico registrada con nosotros o una ID emitida por el gobierno.
+    For example, you may have to prove access to your mobile phone, to your email address on file with us, or to a government-issued ID.
     
-    Si tienes preguntas sobre tus derechos en virtud de la ley de Virginia, [envía un formulario de consulta de privacidad](https://www.verizon.com/about/privacy/privacy-inquiries).
+    If you have questions about your rights under the Virginia law, please [submit a privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries).
     
-* [¿Cómo me entero de los cambios en esta política de privacidad?
-    --------------------------------------------------------------
+* [How do I learn about changes to this privacy policy?
+    ----------------------------------------------------
     
-     Descubre cómo saber si se hicieron cambios en la política.](#acc-item-57)
+     Learn about how to know that we have made changes to this policy.](#acc-item-57)
     
-    ### Cambios en la política de privacidad
+    ### Changes to the privacy policy
     
-    Podemos hacer cambios a esta política de privacidad, por lo que te pedimos que la consultes periódicamente. Podrás ver que hemos hecho cambios verificando la fecha de entrada en vigor que aparece a continuación. También puedes leer sobre [cambios recientes.](https://esus.verizon.com/about/privacy/changes-privacy-policy) Si decidimos utilizar o divulgar información que te identifique en una manera sustancialmente diferente a la que declaramos en nuestra política de privacidad al momento que recopilamos tu información, te daremos una opción sobre el nuevo uso o divulgación por los medios apropiados, lo que puede incluir la oportunidad de optar por no participar.
+    We may make changes to this privacy policy, so please check back periodically. You will be able to see that we made changes by checking the effective date below. You can also read about [recent changes](https://www.verizon.com/about/privacy/changes-privacy-policy) . If we decide to use or disclose information that identifies you personally in a way that is materially different from what we stated in our privacy policy at the time we collected that information from you, we will give you a choice about the new use or disclosure by appropriate means, which may include an opportunity to opt-out.
     
-    Actualizado en noviembre de 2023
+    Updated November, 2023
     
-    © 2023 Verizon. Todos los derechos reservados.
+    © 2023 Verizon. All rights reserved.
     
 
-Información relacionada
------------------------
+Related topics
+--------------
 
-Leer
+Read
 
-### ¿Quieres conocer nuestras respuestas a las solicitudes de datos del gobierno?
+### Curious about our responses to government data demands?
 
-[¿Quieres conocer nuestras respuestas a las solicitudes de datos del gobierno?](https://espanol.verizon.com/about/portal/transparency-report/)
+[Curious about our responses to government data demands?](https://www.verizon.com/about/portal/transparency-report/)
 
-Nuestro Informe de Transparencia proporciona información sobre las solicitudes de datos que recibimos.
+Our Transparency Report provides information about data requests we receive.
 
-[](https://espanol.verizon.com/about/portal/transparency-report/)
+[](https://www.verizon.com/about/portal/transparency-report/)
 
-Consejos
+Tips
 
-### Descubre consejos para mantener tu cuenta segura.
+### Discover tips to keep your account secure.
 
-[Descubre consejos para mantener tu cuenta segura.](https://espanol.verizon.com/about/responsibility/account-security)
+[Discover tips to keep your account secure.](https://www.verizon.com/about/responsibility/account-security)
 
-Protégete de fraudes y estafas.
+Protect yourself from frauds and scams.
 
-[](https://espanol.verizon.com/about/responsibility/account-security)
+[](https://www.verizon.com/about/responsibility/account-security)
 
-Leer
+Read
 
 ### Looking for parenting support in a digital world?
 
-[Looking for parenting support in a digital world?](https://espanol.verizon.com/about/responsibility/parenting-in-a-digital-world)
+[Looking for parenting support in a digital world?](https://www.verizon.com/about/responsibility/parenting-in-a-digital-world)
 
-Explora sugerencias y consejos para la conectividad familiar.
+Navigate tips and advice for your connected family.
 
-[](https://espanol.verizon.com/about/responsibility/parenting-in-a-digital-world)
+[](https://www.verizon.com/about/responsibility/parenting-in-a-digital-world)
 
-### Contáctanos si tienes alguna pregunta o inquietud relacionada con la privacidad.
+### Contact us with any questions or concerns related to privacy.
 
-#### Correo postal
+#### Write
 
 Verizon Privacy Office  
 1300 I Street, NW Suite 500 East  
 Washington, DC 20005
 
-#### En línea
+#### Online
 
-Enviar un [formulario de consulta de privacidad](https://www.verizon.com/about/privacy/privacy-inquiries)
+Submit a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries)
