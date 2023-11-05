@@ -316,7 +316,7 @@ You may have the right to lodge a complaint with the data protection authority o
 
 **Independent Recourse Mechanism**
 
-In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, Outbrain commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF to Judicial Arbitration and Mediation Services, Inc. (JAMS), an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [JAMS](https://www.jamsadr.com/eu-us-data-privacy-framework) for more information or to file a complaint.  The services of JAMS are provided at no cost to you. Please contact or visit the [https://www.jamsadr.com/submit/](https://www.jamsadr.com/submit/) for more information or to file a complaint.
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, Outbrain commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF to Judicial Arbitration and Mediation Services, Inc. (JAMS), an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [JAMS](https://www.jamsadr.com/eu-us-data-privacy-framework) for more information or to file a complaint.  The services of JAMS are provided at no cost to you. Please contact or visit the [https://www.jamsadr.com/DPF-Dispute-Resolution](https://www.jamsadr.com/DPF-Dispute-Resolution) for more information or to file a complaint.
 
 The Federal Trade Commission has jurisdiction over Outbrain’s compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF.
 
@@ -325,7 +325,7 @@ The Federal Trade Commission has jurisdiction over Outbrain’s compliance with 
 You may also be able to invoke binding arbitration for unresolved complaints but prior to initiating such arbitration, a resident of a European country (including Switzerland) participating in the DPF must first:
 
 (1) contact us and afford us the opportunity to resolve the issue;  
-(2) seek assistance from [JAMS](https://www.jamsadr.com/submit/) (an independent recourse mechanism); and  
+(2) seek assistance from [JAMS](https://www.jamsadr.com/DPF-Dispute-Resolution) (an independent recourse mechanism); and  
 (3) contact the U.S. Department of Commerce (either directly or through a European Data Protection Authority) and afford the Department of Commerce time to attempt to resolve the issue.
 
 If such a resident invokes binding arbitration, each party shall be responsible for its own attorney’s fees. Please be advised that, pursuant to the DPF, the arbitrator(s) may only impose individual-specific, non-monetary, equitable relief necessary to remedy any violation of the DPF Principles with respect to the resident. The arbitration option may not be invoked if the individual’s same claimed violation of the Principles
