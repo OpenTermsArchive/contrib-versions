@@ -492,6 +492,7 @@ The following products, apps and services are covered by the Microsoft Services 
 * to-do.microsoft.com
 * Translator for Microsoft Edge
 * Translator Live
+* Universal Human Relevance System (UHRS)
 * UrWeather
 * ux.microsoft.com
 * Video Breakdown
