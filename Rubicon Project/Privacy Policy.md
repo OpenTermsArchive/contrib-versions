@@ -1,7 +1,7 @@
 Advertising Platform Privacy Policy
 ===================================
 
-Last Updated: July 1, 2023
+Last Updated: November 6, 2023
 
 **Table of Contents** :  
 [About Us](#about-us)  
@@ -22,7 +22,7 @@ Last Updated: July 1, 2023
 This policy explains how Magnite, Inc. (“Magnite,” we” or “us”) collects, uses and discloses information about you when you interact with Digital Media Properties (defined below) that use our advertising technology platforms and related services to deliver you ads (collectively, the “**Services”)**. 
 
 Please note:  
-This privacy policy does not govern (i) the collection and use of information about visitors to our website, [https://www.magnite.com/](https://www.magnite.com/), (ii) information collected in the course of our sales and marketing activities  – that information can be found [here](https://www.magnite.com/legal/magnite-website-privacy-policy/) (iii)  The activities of our affiliate SpringServe Inc. — that information can be found [here](https://springserve.com/privacy-policy/)  (iv) the collection, use and disclosure of information by our clients through their Digital Media Properties, which is governed by their own privacy policies and practices; or (iv) any activities where we act as a service provider to our clients rather than a data controller.  
+This privacy policy does not govern (i) the collection and use of information about visitors to our website, [https://www.magnite.com/](https://www.magnite.com/), (ii) information collected in the course of our sales and marketing activities  – that information can be found [here](https://www.magnite.com/legal/magnite-website-privacy-policy/) (iii) the collection, use and disclosure of information by our clients through their Digital Media Properties, which is governed by their own privacy policies and practices; or (iv) any activities where we act as a service provider to our clients rather than a data controller.  
 
 **About Us**
 
@@ -46,7 +46,7 @@ When you visit Digital Media Properties that use our technology, we collect the 
 * **Device Information**: including information about the computer or mobile device you use, including, device make, device model, device operating system, device operating system version, and data connection type;
 * **Location Information:** We may derive the approximate location of your device from your IP address (geographic region or state). In accordance with your device permissions, we may also receive information about the precise location of your device but only if our clients pass it to us. Precise location may be deemed as sensitive personal information in some jurisdictions. Please see **[Additional Information for California Residents](#Additional-Information-for-California-Residents)** below to learn more about how we process sensitive personal information should it be passed to us; 
 * **Internet service information**: including information about which Internet Service Provider (ISP) you use; 
-* **Deidentified information**: We may process certain other deidentified data that enables us to serve you with advertisements, such as encrypted or hashed forms of your email address if our clients pass these to us;  
+* **Deidentified information**: We may process certain other deidentified data that enables us to serve you with advertisements, such as encrypted or hashed forms of your email address if our clients pass these to us. In cases where we may deidentify User Information, we commit to not re-identifying that information.   
 * **Derived information**: We may also receive information from third parties at the instruction or for the benefit of our clients that provide user demographics and information with respect to a user’s preferences, patterns, click and video interactions, behaviors or interests, as well as advertisers and advertising platforms that provide information to us in order to match an ad opportunity offered by our clients with the right advertisement.
 * Magnite and our clients may collect and store inferences about user activity using our Services.
 
@@ -179,19 +179,19 @@ In some cases we may need to process your User Information because we are requir
 
 In all other cases we may rely on our legitimate interests to collect User Information from you, except where such interests are overridden by your data-protection interests or fundamental rights and freedoms. Where we rely on our legitimate interests to process your User Information, they include the interests described in the section headed “[How We Use User Information](#Use-of-User-Information) .”
 
-To note, Magnite participates in the IAB Europe Transparency & Consent Framework and complies with its specifications and policies. Magnite’s identification number(s) within the framework is 52 (DV+), 102 (Magnite Streaming), 202 (Magnite Outstream) and 493 (Magnite Carbon AI).
+To note, Magnite participates in the IAB Europe Transparency & Consent Framework and complies with its specifications and policies. Magnite’s identification number(s) within the framework is 52 (DV+), 202 (Magnite CTV), 102 (Magnite Outstream), 293 (SpringServe), and 493 (Magnite Carbon AI).
 
 If you have questions about or need further information concerning the legal basis on which we collect and use your User Information, please contact us using the contact details provided under the “[Contact Us](#Contact-Us)” heading below.
 
 _Right to Lodge a Complaint_  
 You have the right to lodge a complaint about our processing of personal data with a European Data Protection Authority. For contact details of EU data protection authorities, please see here: [https://edpb.europa.eu/about-edpb/about-edpb/members\_en](https://edpb.europa.eu/about-edpb/about-edpb/members_en). The Swiss data protection authority can be contacted at [https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact/address.html](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact/address.html). The UK data protection authority can be contacted at [https://ico.org.uk](https://ico.org.uk/)
 
-_Data Transfers and Privacy Shield_  
+__Data Transfers and EU-U.S. Data Privacy Framework, UK Extension to the EU-US Data Privacy Framework, and Swiss-U.S Data Privacy Principles:__  
 Magnite is a global company headquartered in the United States, with offices and data centers around the world (including in Australia, Brazil, Canada, the European Union, Japan, Singapore and the United Kingdom). If you access any of the Digital Media Properties, your data may be transferred to, stored and processed by us in any of these countries, and by those third parties with whom we may share your User Information (as described in this policy) in the countries in which they operate.
 
 These countries may not provide a level of data protection for User Information that is equivalent to the data protection laws in your country. We will however implement appropriate safeguards where Magnite group of companies, or any third parties with whom we share data, receive User Information originating from the EEA, Switzerland or the UK in accordance with applicable data protection legislation.
 
-With respect to its DV+ Platform, Magnite, Inc. and its US subsidiary, Magnite Hopper, Inc. commit to comply with the EU-US and Swiss-US Privacy Shield Frameworks as set forth by the US Department of Commerce with respect to personal information concerning individuals from the EEA, the UK and Switzerland. Please see our [Privacy Shield Notice](https://www.magnite.com/legal/privacy-shield/) to learn more. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. We no longer rely on the Privacy Shield frameworks as our lawful mechanism to transfer data that originated in the EEA, the UK or Switzerland to the United States.
+With respect to its DV+ Platform, Magnite, Inc. and its US subsidiary, Magnite Hopper, Inc. commit to comply with the EU-US and Swiss-US Data Privacy Frameworks as set forth by the US Department of Commerce, The European Commission, UK Government and Swiss Federal Administration, with respect to personal information concerning individuals from the EEA, the UK and Switzerland. Please see our [Data Privacy Framework Notice](https://www.magnite.com/legal/magnite-website-privacy-policy/) to learn more. If there is any conflict between the terms in this Privacy Policy and the Data Privacy Framework Principles, the Data Privacy Framework Principles shall govern.
 
 If you would like to learn more about the safeguards we put in place for international transfers, please contact us using the contact details further below.
 
