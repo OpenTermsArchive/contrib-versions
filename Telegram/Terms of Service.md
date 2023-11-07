@@ -109,3 +109,25 @@ Premium Services include increased download speed of media and documents on Tele
 #### [](#7-6-the-absence-of-advertisements)7.6. The Absence of Advertisements
 
 In certain countries Telegram shows sponsored messages in one-to-many channels that have over 1000 subscribers. The subscribers of Telegram Premium won't see such sponsored messages displayed by Telegram. However, channels on Telegram are managed by other users, their administrators, who may publish their own content featuring third-party promotions or sponsorships. These ads are not part of the Telegram advertisement platform and subscribers of Telegram Premium may still see them.
+
+#### [](#7-7-boosts)7.7. Boosts
+
+Premium Services provide users with a number of “boosts” which they can assign to channels to contribute to increasing the level of these channels, with each level unlocking or extending certain features for the channel.
+
+A purchased Telegram Premium subscription provides 4 boosts. Gifted subscriptions provide 1 boost to the gift recipient and 3 boosts to the gifter. Telegram Premium subscriptions distributed via giveaways in channels do not provide boosts to the accounts that activate them and instead boost the channel which organized the giveaway.
+
+Leveling requirements, unlockable features and earned boosts may be altered or removed at any time.
+
+#### [](#7-8-giveaways-in-channels)7.8. Giveaways in Channels
+
+Channel admins can organize giveaways at their expense, purchasing a number of premium subscriptions to be distributed among present or future subscribers and immediately gain 4 boosts per purchased subscription. The boosts received by the channel can’t be reassigned to another channel, they are activated the moment the giveaway is first launched and remain active for the purchased duration of the subscriptions distributed in the giveaway.
+
+Telegram selects winners based on the criteria that channel administrators choose when setting up the giveaway. The results are final and cannot be altered or reversed. In the rare chance that a technical issue results in an unintended outcome, Telegram will attempt to rectify the situation but makes no guarantees to the organizers of a giveaway or its participants.
+
+Winners of a giveaway will receive a shareable link that contains a unique gift code which confirms that they won and activates a Telegram Premium subscription, but does not provide any boosts for the user account that activated it.
+
+Giveaways are available for purchase on Telegram’s store apps, direct and web versions and on Fragment. Prices may vary between each option. All purchases are nonrefundable. If there are not enough eligible participants to distribute all the prizes, the channel admins will receive all the undistributed premium activation links, to be used at the admins’ discretion. Undistributed prizes cannot be “rolled over” into other giveaways.
+
+Channels that mislead users into joining by means of giveaways that are later refunded may be terminated or assigned a _scam_ label and removed from Telegram search. Subscribers gained as a result of such actions may be removed from the channel sponsoring the giveaway, all channels listed in the selection criteria and other associated channels at our sole discretion.
+
+Certain countries or jurisdictions may impose regulatory constraints on giveaways. If you run a giveaway, you are solely responsible for complying with applicable law. You explicitly acknowledge that Telegram is not liable in the event of sanctions, fees, and any form of legal or administrative action incurred as a result of or in relation to your use of the “Giveaway” feature provided by Telegram.
