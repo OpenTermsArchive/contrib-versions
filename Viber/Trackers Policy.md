@@ -130,7 +130,7 @@ As part of our Services, we display ads and offers. The purpose of this policy i
 
 * **Offers and** **Advertisement** **on Viber****:**
 
-To make our ads relevant, we use information we learn about you and that our advertisers and partners (listed [**HERE**](https://www.viber.com/app/uploads/Advertising-Partners_8.8.23.pdf)) provide us with. That information includes information received directly from you, or information we collect or indirectly infer about you or about your use of the Service, as detailed below:
+To make our ads relevant, we use information we learn about you and that our advertisers and partners (listed [**HERE**](https://www.viber.com/app/uploads/Advertising-Partners_October-2023.pdf)) provide us with. That information includes information received directly from you, or information we collect or indirectly infer about you or about your use of the Service, as detailed below:
 
 Information that is **provided by you:** includes your identifiers such as your mobile phone number country code (from where we are able to know your country level location), personal details provided at registration (e.g. name, age or age range), and GPS location data (if you explicitly provide us with your consent through the App settings, which you can withdraw at any time).
 
@@ -144,7 +144,7 @@ We also use Unique Identifiers for our own marketing and advertising campaigns, 
 
 * **Third Party Advertisement:**
 
-We may generate and share a Unique Identifier, through our use of Cookies and tracking technologies, with our third party advertising partners and advertising service providers(listed [**HERE**](https://www.viber.com/app/uploads/Advertising-Partners_8.8.23.pdf)), along with certain data collected from you as detailed above.   This includes partners managing our advertising placements, as well as partners and service providers supporting targeting, measurements, and optimizations for us including for Viber’s own marketing campaigns, and also advertisers themselves and their agencies or third parties managing their advertising demands. The advertising networks that deliver ads on our Services use cookies, pixels or other tracking technology.  Some of these third parties may combine information they collect from our Services with other information they have independently collected relating to your web browser’s activities across their network of websites. These third parties collect and use this information under their own privacy policies, and are responsible for their practices concerning personal data. You can directly exercise your rights with them.
+We may generate and share a Unique Identifier, through our use of Cookies and tracking technologies, with our third party advertising partners and advertising service providers(listed [**HERE**](https://www.viber.com/app/uploads/Advertising-Partners_October-2023.pdf)), along with certain data collected from you as detailed above.   This includes partners managing our advertising placements, as well as partners and service providers supporting targeting, measurements, and optimizations for us including for Viber’s own marketing campaigns, and also advertisers themselves and their agencies or third parties managing their advertising demands. The advertising networks that deliver ads on our Services use cookies, pixels or other tracking technology.  Some of these third parties may combine information they collect from our Services with other information they have independently collected relating to your web browser’s activities across their network of websites. These third parties collect and use this information under their own privacy policies, and are responsible for their practices concerning personal data. You can directly exercise your rights with them.
 
 * **Viber Marketing and Ads of Viber Services:**
 
@@ -201,6 +201,8 @@ Please note that, in the event you disable certain Cookies and tracking technolo
 
 For more information of your rights and choices, please see the [**US Notice**](https://www.viber.com/en/terms/viber-united-states-regional-privacy-notice/) and the [**EU Region Privacy Notice**](https://www.viber.com/en/terms/gdpr-privacy-rights/).
 
+Viber participates in the IAB Europe Transparency & Consent Framework and complies with its Specifications and Policies. Viber operates Consent Management Platform (own use) with the identification number 171.
+
   
 
 ###### **Additional Information – Types of Tracking Technologies and Unique Identifiers**   
@@ -227,7 +229,7 @@ For any queries in relation to this Ads & Cookies Policy please contact us at:
 
 **In the event you read this Ads & Cookie Policy in any language other than English, you agree that in the event of any discrepancies, the English version shall prevail.**
 
-Current Cookies policy August 2023 [**Viber Cookies Policy August 2023**](https://www.viber.com/app/uploads/AdsCookies-Policy-EN-August-2023.pdf)
+Current Cookies policy August 2023 [**Viber Cookies Policy August 2023**](https://www.viber.com/app/uploads/AdsCookies-Policy-EN-August-2023-1.pdf)
 
 Current Cookies policy June 2023 **[Viber Cookies Policy June 2023](https://www.viber.com/app/uploads/Ads%5E0Cookies-Policy-June-2023.pdf)**
 
