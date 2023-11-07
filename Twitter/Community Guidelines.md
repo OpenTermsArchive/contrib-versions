@@ -1,1601 +1,2663 @@
-Civic integrity policy
-======================
+Suicide and Self-harm policy
+============================
 
-### Overview
+Overview  
+ 
 
-### **August 2023**
+**You may not promote or encourage suicide or self-harm.**
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
 
-**What is a civic process?** 
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+### What is in violation of this policy? 
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**What is in violation of this policy?**
+### What is not a violation of this policy? 
 
-This policy addresses 4 categories of misleading behavior and content: 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
+* sharing personal stories and experiences related to self-harm or suicide;
     
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
     
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
     
 
-**Intimidation**
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+### Who can report violations of this policy? 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-**False or misleading affiliation**
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+### How to report violations of this policy 
 
-**What is not a violation of this policy?**
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
+### Expressing intentions of self-harm or suicide 
 
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
+**In-App**
 
-**What happens if you violate this policy?**
+You can report content for review in-app as follows:
 
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review on desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
+1. Select Report Post from drop-down menu
     
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+2. Select “It expresses intentions of self-harm or suicide”
     
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+3. Submit your report  
+     
     
 
-**Intimidation**
+**Reporting form**
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+**In-App**
 
-**False or misleading affiliation**
+You can report content for review in-app as follows:
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
      
 
-**What is in violation of this policy?**
+### Encouraging self-harm or suicide 
 
-This policy addresses 4 categories of misleading behavior and content: 
+**In-App**
 
-**Misleading information about how to participate**
+You can report content for review in-app as follows:
 
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
+1. Select Report Post from drop-down menu  
     
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+2. Select “It’s abusive or harmful”
     
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
     
 
-**Intimidation**
+**Desktop**
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+You can report this content for review on desktop as follows:
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+1. Select Report Post from drop-down menu
     
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+2. Select “It’s abusive or harmful”
     
-* inciting others to harass voters or poll workers;
+3. Select “They’re encouraging self-harm or suicide”
     
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
-
-**False or misleading affiliation**
-
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
+4. Submit your report  
+     
     
 
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### What happens if you violate this policy? 
 
-Civic integrity policy
-======================
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
 
-### Overview
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
 
-### **August 2023**
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+Additional resources  
+  
 
-**What is a civic process?** 
+==========================
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**What is in violation of this policy?**
+### What is not a violation of this policy? 
 
-This policy addresses 4 categories of misleading behavior and content: 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
+* sharing personal stories and experiences related to self-harm or suicide;
     
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
     
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
     
 
-**Intimidation**
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+### Who can report violations of this policy? 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-**False or misleading affiliation**
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+### How to report violations of this policy 
 
-**What is not a violation of this policy?**
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
+### Expressing intentions of self-harm or suicide 
 
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
+**In-App**
 
-**What happens if you violate this policy?**
+You can report content for review in-app as follows:
 
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review on desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
+1. Select Report Post from drop-down menu
     
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+2. Select “It expresses intentions of self-harm or suicide”
     
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+3. Submit your report  
+     
     
 
-**Intimidation**
+**Reporting form**
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+**In-App**
 
-**False or misleading affiliation**
+You can report content for review in-app as follows:
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
      
 
-**What is in violation of this policy?**
+### Encouraging self-harm or suicide 
 
-This policy addresses 4 categories of misleading behavior and content: 
+**In-App**
 
-**Misleading information about how to participate**
+You can report content for review in-app as follows:
 
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
+1. Select Report Post from drop-down menu  
     
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+2. Select “It’s abusive or harmful”
     
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
     
 
-**Intimidation**
+**Desktop**
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+You can report this content for review on desktop as follows:
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+1. Select Report Post from drop-down menu
     
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+2. Select “It’s abusive or harmful”
     
-* inciting others to harass voters or poll workers;
+3. Select “They’re encouraging self-harm or suicide”
     
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
-
-**False or misleading affiliation**
-
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
+4. Submit your report  
+     
     
 
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### What happens if you violate this policy? 
 
-Civic integrity policy
-======================
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
 
-### Overview
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
 
-### **August 2023**
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+Additional resources  
+  
 
-**What is a civic process?** 
+==========================
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**What is in violation of this policy?**
+### What is not a violation of this policy? 
 
-This policy addresses 4 categories of misleading behavior and content: 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
+* sharing personal stories and experiences related to self-harm or suicide;
     
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
     
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
     
 
-**Intimidation**
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+### Who can report violations of this policy? 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-**False or misleading affiliation**
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+### How to report violations of this policy 
 
-**What is not a violation of this policy?**
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
+### Expressing intentions of self-harm or suicide 
 
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
+**In-App**
 
-**What happens if you violate this policy?**
+You can report content for review in-app as follows:
 
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review on desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
+1. Select Report Post from drop-down menu
     
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+2. Select “It expresses intentions of self-harm or suicide”
     
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+3. Submit your report  
+     
     
 
-**Intimidation**
+**Reporting form**
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+**In-App**
 
-**False or misleading affiliation**
+You can report content for review in-app as follows:
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
      
 
-**What is in violation of this policy?**
+### Encouraging self-harm or suicide 
 
-This policy addresses 4 categories of misleading behavior and content: 
+**In-App**
 
-**Misleading information about how to participate**
+You can report content for review in-app as follows:
 
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
+1. Select Report Post from drop-down menu  
     
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+2. Select “It’s abusive or harmful”
     
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
     
 
-**Intimidation**
+**Desktop**
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+You can report this content for review on desktop as follows:
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+1. Select Report Post from drop-down menu
     
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+2. Select “It’s abusive or harmful”
     
-* inciting others to harass voters or poll workers;
+3. Select “They’re encouraging self-harm or suicide”
     
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
-
-**False or misleading affiliation**
-
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
+4. Submit your report  
+     
     
 
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### What happens if you violate this policy? 
 
-Civic integrity policy
-======================
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
 
-### Overview
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
 
-### **August 2023**
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+Additional resources  
+  
 
-**What is a civic process?** 
+==========================
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**What is in violation of this policy?**
+### What is not a violation of this policy? 
 
-This policy addresses 4 categories of misleading behavior and content: 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
+* sharing personal stories and experiences related to self-harm or suicide;
     
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
     
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
     
 
-**Intimidation**
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+### Who can report violations of this policy? 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-**False or misleading affiliation**
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+### How to report violations of this policy 
 
-**What is not a violation of this policy?**
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
+### Expressing intentions of self-harm or suicide 
 
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
+**In-App**
 
-**What happens if you violate this policy?**
+You can report content for review in-app as follows:
 
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review on desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
+1. Select Report Post from drop-down menu
     
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+2. Select “It expresses intentions of self-harm or suicide”
     
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+3. Submit your report  
+     
     
 
-**Intimidation**
+**Reporting form**
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+**In-App**
 
-**False or misleading affiliation**
+You can report content for review in-app as follows:
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
      
 
-**What is in violation of this policy?**
+### Encouraging self-harm or suicide 
 
-This policy addresses 4 categories of misleading behavior and content: 
+**In-App**
 
-**Misleading information about how to participate**
+You can report content for review in-app as follows:
 
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
+1. Select Report Post from drop-down menu  
     
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+2. Select “It’s abusive or harmful”
     
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
     
 
-**Intimidation**
+**Desktop**
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+You can report this content for review on desktop as follows:
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+1. Select Report Post from drop-down menu
     
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+2. Select “It’s abusive or harmful”
     
-* inciting others to harass voters or poll workers;
+3. Select “They’re encouraging self-harm or suicide”
     
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
-
-**False or misleading affiliation**
-
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
+4. Submit your report  
+     
     
 
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### What happens if you violate this policy? 
 
-Civic integrity policy
-======================
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
 
-### Overview
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
 
-### **August 2023**
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+Additional resources  
+  
 
-**What is a civic process?** 
+==========================
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**What is in violation of this policy?**
+### What is not a violation of this policy? 
 
-This policy addresses 4 categories of misleading behavior and content: 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
+* sharing personal stories and experiences related to self-harm or suicide;
     
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
     
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
     
 
-**Intimidation**
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+### Who can report violations of this policy? 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-**False or misleading affiliation**
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+### How to report violations of this policy 
 
-**What is not a violation of this policy?**
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
+### Expressing intentions of self-harm or suicide 
 
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
+**In-App**
 
-**What happens if you violate this policy?**
+You can report content for review in-app as follows:
 
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review on desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
+1. Select Report Post from drop-down menu
     
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+2. Select “It expresses intentions of self-harm or suicide”
     
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+3. Submit your report  
+     
     
 
-**Intimidation**
+**Reporting form**
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+**In-App**
 
-**False or misleading affiliation**
+You can report content for review in-app as follows:
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
      
 
-**What is in violation of this policy?**
+### Encouraging self-harm or suicide 
 
-This policy addresses 4 categories of misleading behavior and content: 
+**In-App**
 
-**Misleading information about how to participate**
+You can report content for review in-app as follows:
 
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
+1. Select Report Post from drop-down menu  
     
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+2. Select “It’s abusive or harmful”
     
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
     
 
-**Intimidation**
+**Desktop**
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+You can report this content for review on desktop as follows:
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+1. Select Report Post from drop-down menu
     
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+2. Select “It’s abusive or harmful”
     
-* inciting others to harass voters or poll workers;
+3. Select “They’re encouraging self-harm or suicide”
     
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
-
-**False or misleading affiliation**
-
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
+4. Submit your report  
+     
     
 
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### What happens if you violate this policy? 
 
-Civic integrity policy
-======================
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
 
-### Overview
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
 
-### **August 2023**
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
 
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+Additional resources  
+  
 
-**What is a civic process?** 
+==========================
 
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
      
 
-**What is in violation of this policy?**
+### What is not a violation of this policy? 
 
-This policy addresses 4 categories of misleading behavior and content: 
+Some examples of behavior that are not considered a violation of this policy include: 
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
+* sharing personal stories and experiences related to self-harm or suicide;
     
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
     
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
     
 
-**Intimidation**
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+### Who can report violations of this policy? 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
 
-**False or misleading affiliation**
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+### How to report violations of this policy 
 
-**What is not a violation of this policy?**
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
 
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
+### Expressing intentions of self-harm or suicide 
 
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
+**In-App**
 
-**What happens if you violate this policy?**
+You can report content for review in-app as follows:
 
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
      
 
-**What is in violation of this policy?**
+**Desktop**
 
-This policy addresses 4 categories of misleading behavior and content: 
+You can report this content for review on desktop as follows:
 
-**Misleading information about how to participate**
-
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
+1. Select Report Post from drop-down menu
     
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+2. Select “It expresses intentions of self-harm or suicide”
     
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+3. Submit your report  
+     
     
 
-**Intimidation**
+**Reporting form**
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
-    
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
-    
-* inciting others to harass voters or poll workers;
-    
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+**In-App**
 
-**False or misleading affiliation**
+You can report content for review in-app as follows:
 
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
-    
-
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
-
-Civic integrity policy
-======================
-
-### Overview
-
-### **August 2023**
-
-**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
-
-**What is a civic process?** 
-
-X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
-
-* Political elections
-* Censuses 
-* Major referenda and ballot initiatives   
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
      
 
-**What is in violation of this policy?**
+### Encouraging self-harm or suicide 
 
-This policy addresses 4 categories of misleading behavior and content: 
+**In-App**
 
-**Misleading information about how to participate**
+You can report content for review in-app as follows:
 
-You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
-
-* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
-* misleading information about requirements for participation, including identification or citizenship requirements;
-* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
-* misleading statements or information about the official, announced date or time of a civic process.
-
-**Suppression**
-
-You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
-
-* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
+1. Select Report Post from drop-down menu  
     
-* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+2. Select “It’s abusive or harmful”
     
-* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
     
 
-**Intimidation**
+**Desktop**
 
-You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+You can report this content for review on desktop as follows:
 
-* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+1. Select Report Post from drop-down menu
     
-* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+2. Select “It’s abusive or harmful”
     
-* inciting others to harass voters or poll workers;
+3. Select “They’re encouraging self-harm or suicide”
     
-* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
-    
-* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
-
-**False or misleading affiliation**
-
-You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
-
-**What is not a violation of this policy?**
-
-Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
-
-* inaccurate statements about an elected or appointed official, candidate, or political party; 
-    
-* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
-    
-* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
-    
-* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
-
-**What happens if you violate this policy?**
-
-Posts that are enforced under this policy will have their reach restricted on X by:   
-
-* Excluding the post from search results, trends, and recommended notifications
-    
-* Removing the post from the For you and Following timelines
-    
-* Restricting the post's discoverability to the author’s profile
-    
-* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
-    
-* Downranking the Post in replies 
+4. Submit your report  
+     
     
 
-Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
