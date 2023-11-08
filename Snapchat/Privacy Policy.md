@@ -8,7 +8,7 @@ Snap Inc. is a technology company. Our products and services — including Snapc
 
 When you use these services, you’ll share some information with us. So we want to be upfront about the information we collect, how we use it, how it’s shared, and the controls you have.
 
-We’ve done our best to write this Privacy Policy in a way that’s easy to understand for all our users and free of difficult language and legal phrases. If you want to review something later on, you can always take a look at our [Privacy Center](https://values.snap.com/privacy/privacy-center). We designed it to give you easy-to-digest summaries of our privacy practices. For example, our [Privacy by Product](https://values.snap.com/privacy/privacy-by-product) page gives product-specific information and links to support pages with tips and tricks. Still have questions? Just [reach out](https://help.snapchat.com/) to us.
+We’ve done our best to write this Privacy Policy in a way that’s easy to understand for all our users and free of difficult language and legal phrases. If you want to review something later on, you can always take a look at our [Privacy Center](https://values.snap.com/privacy/privacy-center). We designed it to give you easy-to-digest summaries of our privacy practices. For example, our [Privacy by Product](https://values.snap.com/privacy/privacy-by-product) page gives product-specific information and links to support pages with tips and tricks. Still have questions? Just [reach out](https://help.snapchat.com/hc/?utm_source=web&utm_medium=snap&utm_campaign=priv_pol) to us.
 
 #### 
 
@@ -88,16 +88,16 @@ When you use our services, we collect information about which of those services 
         
     
 
-* Other information, with your permission. There may be instances when you interact with our services that we will ask your permission to collect additional information. For example, if you want to participate in our [Made For Me Panel](https://help.snapchat.com/hc/articles/14166174455444-What-is-the-Made-for-Me-Panel-) or live in a jurisdiction where certain data is considered sensitive we will ask your permission and give you a heads up on what data, including sensitive data, if any, we’re collecting. 
+* Other information, with your permission. There may be instances when you interact with our services that we will ask your permission to collect additional information. For example, if you want to participate in our [Made For Me Panel](https://help.snapchat.com/hc/articles/14166174455444?utm_source=web&utm_medium=snap&utm_campaign=priv_pol) or live in a jurisdiction where certain data is considered sensitive we will ask your permission and give you a heads up on what data, including sensitive data, if any, we’re collecting. 
     
 
 Information We Collect from Third Parties
 
-We may collect information about you from other users, our [affiliates](https://help.snapchat.com/hc/articles/7047492876308), and third parties. Here are a few examples:
+We may collect information about you from other users, our [affiliates](https://help.snapchat.com/hc/articles/7047492876308?utm_source=web&utm_medium=snap&utm_campaign=priv_pol), and third parties. Here are a few examples:
 
 * If you link your Snapchat account to another service (like Bitmoji or a third-party app), we may receive information from the other service, like how you use that service.
     
-* We may obtain information from advertisers, app developers, publishers, and other third parties. We may use this information, among other ways, to help target or measure the performance of ads. You can learn more about our use of this kind of third-party data on our [Support Site](https://help.snapchat.com/hc/articles/7012345515796).
+* We may obtain information from advertisers, app developers, publishers, and other third parties. We may use this information, among other ways, to help target or measure the performance of ads. You can learn more about our use of this kind of third-party data on our [Support Site](https://help.snapchat.com/hc/articles/7012345515796?utm_source=web&utm_medium=snap&utm_campaign=priv_pol).
     
 * If another user uploads their contact list, we may combine information about you from that user’s contact list with other information we have collected about you.
     
@@ -114,11 +114,11 @@ What do we do with the information we collect? For the detailed answer, go [here
 
 * develop, operate, improve, deliver, maintain, and protect our products and services.
     
-* provide, personalize, and improve our advertising services, ad targeting, and ad measurement, including through the use of your content and precise location information (again, if you’ve given us permission to collect precise location information), both on and off our services. We may also store information about your use of third-party apps and websites on your device to do this. [Learn more](https://help.snapchat.com/hc/articles/7012345515796#ondevicedata). See the [Control Over Your Information](https://values.snap.com/privacy/privacy-policy#control-over-your-information) section below for more information about our advertising practices and your choices.
+* provide, personalize, and improve our advertising services, ad targeting, and ad measurement, including through the use of your content and precise location information (again, if you’ve given us permission to collect precise location information), both on and off our services. We may also store information about your use of third-party apps and websites on your device to do this. [Learn more](https://help.snapchat.com/hc/articles/7012345515796#ondevicedata?utm_source=web&utm_medium=snap&utm_campaign=priv_pol). See the [Control Over Your Information](https://values.snap.com/privacy/privacy-policy#control-over-your-information) section below for more information about our advertising practices and your choices.
     
 * add context to your Snapchat experience, for example by tagging your Memories with searchable labels based on your location (of course, if you’ve given us permission to collect your precise location) and the content of your photo or video (for example, if there’s a dog in your photo, it may be searchable in Memories by the term “dog”). 
     
-* [personalize our services](https://values.snap.com/privacy/privacy-by-product#personalization) by, among other things, suggesting friends, place recommendations in Snap Map, profile information, or Cameos stickers, helping Snapchatters find each other in Snapchat, [affiliate](https://help.snapchat.com/hc/articles/7047492876308) and third-party apps and services, inferring your interests based on your content or activity, or customizing the content we show you, including ads.
+* [personalize our services](https://values.snap.com/privacy/privacy-by-product#personalization) by, among other things, suggesting friends, place recommendations in Snap Map, profile information, or Cameos stickers, helping Snapchatters find each other in Snapchat, [affiliate](https://help.snapchat.com/hc/articles/7047492876308?utm_source=web&utm_medium=snap&utm_campaign=priv_pol) and third-party apps and services, inferring your interests based on your content or activity, or customizing the content we show you, including ads.
     
 * develop and improve our algorithms and machine learning models, including for personalization, advertising, augmented reality, fairness and inclusivity, and to prevent abuse or other Terms of Service violations. 
     
@@ -171,14 +171,14 @@ Why do we share the information we collect? Most of the time, it’s because you
         
     
 
-* With our affiliates. We may share information with entities within the [Snap Inc. family of companies](https://help.snapchat.com/hc/articles/7047492876308).
+* With our affiliates. We may share information with entities within the [Snap Inc. family of companies](https://help.snapchat.com/hc/articles/7047492876308?utm_source=web&utm_medium=snap&utm_campaign=priv_pol).
     
 
 * With third parties. We may share information with third parties in the following ways:
     
-    * We may share information about you with [service providers](https://help.snapchat.com/hc/articles/7012351145364) who perform services on our behalf, including to facilitate payments and measure and optimize the performance of ads and deliver more relevant ads, including on third-party websites and apps.
+    * We may share information about you with [service providers](https://help.snapchat.com/hc/articles/7012351145364?utm_source=web&utm_medium=snap&utm_campaign=priv_pol) who perform services on our behalf, including to facilitate payments and measure and optimize the performance of ads and deliver more relevant ads, including on third-party websites and apps.
         
-    * We may share information about you with business partners that provide services and functionality on our services. For more information about information collected by third parties on our services, visit our [Support Site](https://help.snapchat.com/hc/articles/7012332511252).
+    * We may share information about you with business partners that provide services and functionality on our services. For more information about information collected by third parties on our services, visit our [Support Site](https://help.snapchat.com/hc/articles/7012332511252?utm_source=web&utm_medium=snap&utm_campaign=priv_pol).
         
     * We may share information about you, such as device and usage information, to help us and others prevent fraud.
         
@@ -204,13 +204,13 @@ Why do we share the information we collect? Most of the time, it’s because you
 
 Third-Party Content and Integrations
 
-Our services may contain third-party content and integrations. Examples include third-party integrations in Lenses, Camera editing tools, to provide Scan results, and third-party developer integrations. Through these integrations, you may be providing information to the third party as well as to Snap. We are not responsible for how those third parties collect or use your information. As always, we encourage you to review the privacy policies of every third-party service that you visit or use, including those third parties you interact with through our services. You can learn more about third-party services in Snapchat [here](https://help.snapchat.com/hc/articles/7012332511252).
+Our services may contain third-party content and integrations. Examples include third-party integrations in Lenses, Camera editing tools, to provide Scan results, and third-party developer integrations. Through these integrations, you may be providing information to the third party as well as to Snap. We are not responsible for how those third parties collect or use your information. As always, we encourage you to review the privacy policies of every third-party service that you visit or use, including those third parties you interact with through our services. You can learn more about third-party services in Snapchat [here](https://help.snapchat.com/hc/articles/7012332511252?utm_source=web&utm_medium=snap&utm_campaign=priv_pol).
 
 #### 
 
 How Long We Keep Your Information
 
-Snapchat lets you capture what it’s like to live in the moment. On our end, that means most messages — like Snaps and Chats — sent in Snapchat will be automatically deleted by default from our servers after we detect they’ve been opened by all recipients or have expired, unless you’ve changed your default settings or decide to save something. Other content, like Story posts, are stored for longer. For the latest information about how long we store different types of content, check out our [Support Site](https://help.snapchat.com/hc/articles/7012334940948).
+Snapchat lets you capture what it’s like to live in the moment. On our end, that means most messages — like Snaps and Chats — sent in Snapchat will be automatically deleted by default from our servers after we detect they’ve been opened by all recipients or have expired, unless you’ve changed your default settings or decide to save something. Other content, like Story posts, are stored for longer. For the latest information about how long we store different types of content, check out our [Support Site](https://help.snapchat.com/hc/articles/7012334940948?utm_source=web&utm_medium=snap&utm_campaign=priv_pol).
 
 We store other information for longer periods of time. For example:
 
@@ -219,7 +219,7 @@ We store other information for longer periods of time. For example:
 * We store location information for different lengths of time based on how precise it is and which services you use. If location information is associated with a Snap — like those saved to Memories or posted to Snap Map or Spotlight — we’ll retain that location as long as we store the Snap. Pro tip: You can see the location data we retain about you by [downloading your data](https://accounts.snapchat.com/accounts/downloadmydata).
     
 
-If you ever decide to stop using Snapchat, you can just [ask us to delete your account](https://help.snapchat.com/hc/articles/7012328360596). We’ll also delete most of the information we’ve collected about you after you’ve been inactive for a while!
+If you ever decide to stop using Snapchat, you can just [ask us to delete your account](https://help.snapchat.com/hc/articles/7012328360596?utm_source=web&utm_medium=snap&utm_campaign=priv_pol). We’ll also delete most of the information we’ve collected about you after you’ve been inactive for a while!
 
 Keep in mind that, while our systems are designed to carry out our deletion practices automatically, we cannot promise that deletion will occur within a specific timeframe. There may be legal requirements to store your data and we may need to suspend those deletion practices if we receive valid legal process asking us to preserve content, if we receive reports of abuse or other Terms of Service violations, or if your account, content created by you, or content created with other users is flagged by others or our systems for abuse or other Terms of Service violations. Finally, we may also retain certain information in backup for a limited period of time or as required by law.
 
@@ -235,23 +235,23 @@ We want you to be in control of your information, so we provide you with the fol
 * Revoking permissions. In most cases, if you let us use your information, you can simply revoke your permission by changing the settings in the app or on your device if your device offers those options. Of course, if you do that, certain services may lose full functionality. For promotional emails and messages sent by SMS or other messaging platforms, you may opt out by clicking on the unsubscribe link or similar mechanism as provided.
     
 
-* Deletion. While we hope you’ll remain a lifelong Snapchatter, if for some reason you ever want to delete your account, just go [here](https://help.snapchat.com/hc/articles/7012328360596) to learn how. You can also delete some information in the app, like photos you’ve saved to Memories, your conversations with My AI, Spotlight submissions, and search history.
+* Deletion. While we hope you’ll remain a lifelong Snapchatter, if for some reason you ever want to delete your account, just go [here](https://help.snapchat.com/hc/articles/7012328360596?utm_source=web&utm_medium=snap&utm_campaign=priv_pol) to learn how. You can also delete some information in the app, like photos you’ve saved to Memories, your conversations with My AI, Spotlight submissions, and search history.
     
 
-* Advertising Preferences. We try to show you ads that we think will be relevant to your interests. If you would like to modify the information we and our advertising partners use to select these ads, you can do so in the app and through your device preferences. Go [here](https://help.snapchat.com/hc/articles/7012345515796) to learn more.
+* Advertising Preferences. We try to show you ads that we think will be relevant to your interests. If you would like to modify the information we and our advertising partners use to select these ads, you can do so in the app and through your device preferences. Go [here](https://help.snapchat.com/hc/articles/7012345515796#ondevicedata?utm_source=web&utm_medium=snap&utm_campaign=priv_pol) to learn more.
     
 
 * Tracking. For users who run devices with iOS 14.5 or more recent, some specific requirements apply. We’ve specified those [here](https://values.snap.com/privacy/ads-privacy#controlling-ads). 
     
 
-* Communicating with other Snapchatters. It’s important to us that you stay in control over whom you communicate with. That’s why we’ve built a number of tools in Settings that let you indicate, among other things, who you want to see your Stories, whether you’d like to receive Snaps from just your friends, your friends and contacts, or all Snapchatters, and whether you’d like to block another Snapchatter from contacting you again. Go [here](https://help.snapchat.com/hc/articles/7012343074580) to learn more.
+* Communicating with other Snapchatters. It’s important to us that you stay in control over whom you communicate with. That’s why we’ve built a number of tools in Settings that let you indicate, among other things, who you want to see your Stories, whether you’d like to receive Snaps from just your friends, your friends and contacts, or all Snapchatters, and whether you’d like to block another Snapchatter from contacting you again. Go [here](https://help.snapchat.com/hc/articles/7012343074580?utm_source=web&utm_medium=snap&utm_campaign=priv_pol) to learn more.
     
 
 #### 
 
 International Data Transfers
 
-We may collect your personal information from, transfer it to, and store and process it in the United States and other countries outside of where you live. Whenever we share information outside of where you live, when we are legally required to do so, we make sure an adequate transfer mechanism is in place. We also make sure any third parties we share information with have an adequate transfer mechanism in place, as well. You can find more information on the categories of third parties we share information with [here](https://help.snapchat.com/hc/articles/7012351145364).
+We may collect your personal information from, transfer it to, and store and process it in the United States and other countries outside of where you live. Whenever we share information outside of where you live, when we are legally required to do so, we make sure an adequate transfer mechanism is in place. We also make sure any third parties we share information with have an adequate transfer mechanism in place, as well. You can find more information on the categories of third parties we share information with [here](https://help.snapchat.com/hc/articles/7012351145364?utm_source=web&utm_medium=snap&utm_campaign=priv_pol).
 
 #### 
 
