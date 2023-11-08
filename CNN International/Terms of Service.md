@@ -21,8 +21,6 @@ These Terms of Use describe the terms and conditions that govern your use of the
 
 **2\. User Content and Conduct; Community Guidelines.** 
 
-The following terms apply to content submitted by users, and user conduct, on the Platform’s Interactive Areas, including Interview Club:
-
 The following terms apply to content submitted by users, and user conduct, on the Site’s Interactive Areas:
 
 (A) Interactive Areas. The Site may contain comments sections, discussion forums, or other interactive features, CNN’s user-generated news community (“Interactive Areas”) in which you may post or upload user-generated content, comments, video, photos, messages, other materials or items (collectively, “User Content”). You are solely responsible for your use of any Interactive Areas and you use them at your own risk. Interactive Areas are available for individuals aged 13 years or older. By submitting User Content to an Interactive Area, you represent that you are 13 years of age or older and, if you are under the age of 18, you either are an emancipated minor, or have obtained the legal consent of your parent or legal guardian to enter into these Terms of Use, submit content, participate on the Site, and fulfill the obligations set forth in these Terms of Use, which forms a binding contract between you and CNN. Employees of Cable News Network, Inc. may not submit User Content without permission from their supervisors.
@@ -61,6 +59,8 @@ The following terms apply to content submitted by users, and user conduct, on th
 
 • You agree not to impersonate any person or entity, including, but not limited to, CNN or any CNN employee, or falsely state or otherwise misrepresent your affiliation with any person or entity.
 
+• Any views represented in your comments are your own, and you agree not to accept any compensation, services, or anything of value in exchange for posting User Content; or to post comments on behalf of other persons, government organizations, companies, special interest groups, marketing agencies, or other interests.
+
 • You agree not to represent or suggest, directly or indirectly, CNN’s endorsement of User Content.
 
 • You agree not to interfere with any other user’s right to privacy, including by harvesting or collecting personally-identifiable information about the Site users or posting private information about a third party.
@@ -71,10 +71,9 @@ The following terms apply to content submitted by users, and user conduct, on th
 
 • You agree not to reproduce, duplicate, copy, sell, resell or exploit for any commercial purpose, any portion of the Site, use the Site, or access to the Site.
 
-• You agree not to use any service, technology or automated system to artificially inflate the page views that your User Content receives.  
-This includes pay-per-click services, web “robots” and any other current or future technologies. You also agree not to direct any third party to use these services, technologies or automated systems on your behalf.
+• You agree not to use any service, technology or automated system to artificially inflate the page views that your User Content receives. This includes pay-per-click services, web “robots” and any other current or future technologies including Artificial Intelligence. You also agree not to direct any third party to use these services, technologies or automated systems on your behalf.
 
-• You agree not to use any technology, service or automated system to post more User Content than an individual could upload in a given period of time. You also agree not to direct any third party to use these services, technologies or automated systems on your behalf.
+• You agree not to use any technology, service or automated system, including Artificial Intelligence, to post more User Content than an individual could upload in a given period of time. You also agree not to direct any third party to use these services, technologies or automated systems on your behalf.
 
 Any conduct that in CNN’s sole discretion restricts or inhibits anyone else from using or enjoying the Site will not be permitted. CNN reserves the right in its sole discretion to remove or edit User Content by you and to terminate Your Account for any reason.
 
@@ -269,4 +268,4 @@ For any questions or requests other than copyright issues or licensing requests,
 
 For information about the discontinued CNN+ service, please click [here](https://help.cnn.com/US/Answer/Detail/000001066).
 
-These Terms of Use were last updated on December 19 2022
+These Terms of Use were last updated on November 7, 2023
