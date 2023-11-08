@@ -292,23 +292,16 @@ You may only make a verifiable consumer request to know about or access your Per
 
 **METRICS FOR REQUESTS BY CALIFORNIA RESIDENTS**  
   
-"Do Not Sell or Share My Personal Information" (Toyota and Lexus)  
-Total requests: 9,773  
-Requests complied with in whole or in part: 8,641  
-Requests denied: 1132\*  
-Median number of calendar days to complete requests in 2022: 3 days
 
-"Get My Personal Information" (Toyota and Lexus)  
-Total requests: 353  
-Requests complied with in whole or in part: 155  
-Requests denied: 198\*\*  
-Median number of calendar days to complete requests in 2022: 20 days
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Request Type** | **Total requests** | **Requests complied with in whole or in part** | **Requests denied** | **Median number of calendar days to complete requests in 2022** |
+| "Do Not Sell or Share My Personal Information" (Toyota and Lexus) | 9,773 | 8,641 | 1,132\* | 3   |
+| "Get My Personal Information" (Toyota and Lexus) | 353 | 155 | 198\*\* | 20  |
+| "Delete My Personal Information" (Toyota and Lexus) | 838 | 365 | 473\*\* | 12  |
+| **Total** | **10,964** | **9,161** | **1,803** |     |
 
-"Delete My Personal Information" (Toyota and Lexus)  
-Total requests: 838  
-Requests complied with in whole or in part: 365  
-Requests denied: 473\*\*  
-Median number of calendar days to complete requests in 2022: 12 days
+  
 
 \*Includes California resident requests that failed matching with Toyota Motor North America's internal system of consumer records, any canceled California resident requests where the submission failed to register with Toyota Motor North America's privacy tool, or when a California resident consumer explicitly requested cancellation of their request.
 
