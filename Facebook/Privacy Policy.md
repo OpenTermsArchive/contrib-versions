@@ -1,6 +1,7 @@
 [](https://www.facebook.com/privacy/center/search/)[](https://fr-fr.facebook.com/privacy/dialog/navigation/)
 
 Politique de confidentialité
+----------------------------
 
 Qu’est-ce que la Politique de confidentialité et que couvre-t-elle ?
 
