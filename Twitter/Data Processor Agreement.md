@@ -17,78 +17,84 @@ Primary legal basis/bases for processing personal data from the EU, EFTA States,
 
 Processing purpose
 
-Operating our services, including:
+**Operating our services, including:**
 
 * [Account creation](https://help.twitter.com/using-x/create-x-account)
 * [Account controls](https://help.twitter.com/managing-your-account#account-settings)
 * Content creation, including [posts](https://help.twitter.com/using-x/how-to-post), [reposts](https://help.twitter.com/using-x/how-to-repost), [likes](https://help.twitter.com/using-x/liking-posts-and-moments), and Direct Messages
 * Content display, recommendations, and [ranking](https://blog.twitter.com/engineering/en_us/topics/insights/2017/using-deep-learning-at-scale-in-twitters-timelines.html), such as in your [timeline](https://help.twitter.com/using-x/x-timeline), [trends](https://help.twitter.com/using-x/x-trending-faqs), [conversations](https://help.twitter.com/using-x/x-conversations), or [search](https://help.twitter.com/using-x/x-search)
 * Developer products, including our [APIs](https://help.twitter.com/rules-and-policies/x-api) and [embeds](https://developer.twitter.com/docs/twitter-for-websites)
-* Service-related [notifications](https://help.twitter.com/managing-your-account#notifications) and [customer support](https://help.twitter.com/forms)
+* Service-related [notifications](https://help.twitter.com/managing-your-account#notifications) and [customer support](https://help.x.com/forms)
 * Analytics
 * [Advertiser products](https://business.twitter.com/en/help/ads-policies.html)
 
 Data
 
-Information you share with us, including:
+**Information you share with us, including:**
 
-* [Basic account information](https://twitter.com/privacy)
-* [Public information](https://twitter.com/privacy)
-* [Contact information](https://twitter.com/privacy)
-* [Direct Messages and other non-public communications](https://twitter.com/privacy)
-* [Payment information](https://twitter.com/privacy)
+* Basic account information
+* Public information
+* Contact information
+* Direct Messages and other non-public communications
+* Payment information
 * Account controls
 
-Additional information we receive about you, including:
+**Additional information we receive about you, including:**
 
-* [Location information](https://twitter.com/privacy)
-* [Interactions with links](https://twitter.com/privacy)
-* [Cookie data](https://twitter.com/privacy)†
-* [Log data](https://twitter.com/privacy)
-* [Data from advertisers and other ad partners](https://twitter.com/privacy)
-* [Developer data](https://twitter.com/privacy)
-* [Data from other third parties and affiliates](https://twitter.com/privacy)
+* Location information
+* Interactions with links
+* Cookie data † 
+* Log data
+* Data from advertisers and other ad partners
+* Developer data
+* Data from other third parties and affiliates
 
-Inferences about you, as described below, based on this data.
+**Inferences about you, as described below, based on this data.**
+
+_  
+For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-Contractual necessity
+**Contractual necessity**
 
 Processing purpose
 
-[Safety and security](https://help.twitter.com/safety-and-security) features, including authentication, anti-spam, fraud protection, and quality and abuse prevention
+**[Safety and security](https://help.twitter.com/safety-and-security) features, including authentication, anti-spam, fraud protection, and quality and abuse prevention**
 
 Data
 
-Information you share with us, including:
+**Information you share with us, including:**
 
-* [Basic account information](https://twitter.com/privacy)
-* [Public information](https://twitter.com/privacy)
-* [Contact information](https://twitter.com/privacy)
-* [Direct Messages and other non-public communications](https://twitter.com/privacy)
-* [Payment information](https://twitter.com/privacy)
+* Basic account information
+* Public information
+* Contact information
+* Direct Messages and other non-public communications
+* Payment information
 * Account controls
 
-Additional information we receive about you, including:
+**Additional information we receive about you, including:**
 
-* [Location information](https://twitter.com/privacy)
-* [Interactions with links](https://twitter.com/privacy)
-* [Cookie data](https://twitter.com/privacy)†
-* [Log data](https://twitter.com/privacy)
-* [Data from ad partners](https://twitter.com/privacy)
-* [Developer data](https://twitter.com/privacy)
-* [Data from other third parties and affiliates](https://twitter.com/privacy)
+* Location information
+* Interactions with links
+* Cookie data † 
+* Log data
+* Data from ad partners
+* Developer data
+* Data from other third parties and affiliates
 
-Inferences about you, as described below, based on this data.
+**Inferences about you, as described below, based on this data.**
+
+_  
+For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-Contractual necessity
+**Contractual necessity**
 
 Processing purpose
 
-Inferences about your account - such as interests, age, and gender - which we use to provide features including:
+**Inferences about your account - such as interests, age, and gender - which we use to provide features including:**
 
 * [Account suggestions](https://help.twitter.com/using-x/account-suggestions)
 * Advertising
@@ -99,376 +105,414 @@ You can always review and modify these inferences by visiting [Your X data](http
 
 Data
 
-Information you share with us, including:
+**Information you share with us, including:**
 
-* [Basic account information](https://twitter.com/privacy)
-* [Public information](https://twitter.com/privacy)
-* [Contact information](https://twitter.com/privacy)
-* [Non-public communications](https://twitter.com/privacy) (survey data and accounts you correspond with by Direct Message)
+* Basic account information
+* Public information
+* Contact information
+* Non-public communications (survey data and accounts you correspond with by Direct Message)
 * Account controls
 
-Additional information we receive about you, including:
+**Additional information we receive about you, including:**
 
-* [Location information](https://twitter.com/privacy)
-* [Interactions with links](https://twitter.com/privacy)
-* [Cookie data](https://twitter.com/privacy)†
-* [Log data](https://twitter.com/privacy)
-* [Data from ad partners](https://twitter.com/privacy)
-* [Data from other third parties and affiliates](https://twitter.com/privacy)
+* Location information
+* Interactions with links
+* Cookie data † 
+* Log data
+* Data from ad partners
+* Data from other third parties and affiliates
+
+_  
+For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-[Legitimate interests](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-1)
+[**Legitimate interests**](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-1)
 
 Processing purpose
 
-[Advertising](https://business.twitter.com/en/help/ads-policies.html) we show you on X based on data you provide or we collect on X
+**[Advertising](https://business.twitter.com/en/help/ads-policies.html) we show you on X based on data you provide or we collect on X**
 
-Advertising we show you on other websites or mobile applications based only on information collected there
+**Advertising we show you on other websites or mobile applications based only on information collected there**
 
 Data
 
-Information you share with us, including:
+**Information you share with us, including:**
 
-* [Basic account information](https://twitter.com/privacy)
-* [Public information](https://twitter.com/privacy)
-* [Contact information](https://twitter.com/privacy)  
+* Basic account information
+* Public information
+* Contact information  
     
 * Account controls
 
-Additional information we receive about you, including:
+**Additional information we receive about you, including:**
 
-* [Location information](https://twitter.com/privacy)
-* [Interactions with links](https://twitter.com/privacy)
-* [Cookie data](https://twitter.com/privacy)†
-* [Log data](https://twitter.com/privacy)
-* [Data from ad partners](https://twitter.com/privacy)
-* [Data from other third parties and affiliates](https://twitter.com/privacy)
+* Location information
+* Interactions with links
+* Cookie data † 
+* Log data
+* Data from ad partners
+* Data from other third parties and affiliates
 
-Inferences about you, as described above, based on this data.
+**Inferences about you, as described above, based on this data.**
+
+_  
+For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-[Legitimate interests](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-2)
+[**Legitimate interests**](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-2)
 
 Processing purpose
 
-Measuring the effectiveness of advertising we show you
+**Measuring the effectiveness of advertising we show you**
 
 Data
 
-Information you share with us, including:
+**Information you share with us, including:**
 
-* [Basic account information](https://twitter.com/privacy)
+* Basic account information
     
-* [Public information](https://twitter.com/privacy)
+* Public information
     
 * Account controls
     
 * Non-public communications (survey data)
     
 
-Additional information we receive about you, including:
+**Additional information we receive about you, including:**
 
-* [Location information](https://twitter.com/privacy)
+* Location information
     
-* [Interactions with links](https://twitter.com/privacy)
+* Interactions with links
     
-* [Cookie data](https://twitter.com/privacy)†
+* Cookie data †
     
-* [Log data](https://twitter.com/privacy)
+* Log data
     
-* [Data from ad partners](https://twitter.com/privacy)
+* Data from ad partners
     
-* [Data from other third parties and affiliates](https://twitter.com/privacy)
+* Data from other third parties and affiliates
     
 
-Inferences about you, as described above, based on this data.
+**Inferences about you, as described above, based on this data.**
+
+_  
+For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-[Legitimate interests](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-2)❖
+[**Legitimate interests**](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-2)❖
 
 Processing purpose
 
-Exclusion audiences: enabling advertisers to exclude an advertiser-submitted audience from being eligible for an advertising campaign
+**Exclusion audiences:** enabling advertisers to exclude an advertiser-submitted audience from being eligible for an advertising campaign
 
 Data
 
-Information you share with us, including:
+**Information you share with us, including:**
 
-* [Basic account information](https://twitter.com/privacy)
+* Basic account information
     
-* [Public information](https://twitter.com/privacy)
+* Public information
     
-* [Contact information](https://twitter.com/privacy)
+* Contact information
     
 * Account controls
     
 
-Additional information we receive about you, including:
+**Additional information we receive about you, including:**
 
-* [Interactions with links](https://twitter.com/privacy)
+* Interactions with links
     
-* [Cookie data](https://twitter.com/privacy)†
+* Cookie data †
     
-* [Log data](https://twitter.com/privacy)
+* Log data
     
-* [Data from ad partners](https://twitter.com/privacy)
-    
-* [Data from other third parties and affiliates](https://twitter.com/privacy)
-    
+
+* Data from ad partners
+* Data from other third parties and affiliates
+
+**_  
+For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._**
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-[Legitimate interests](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-2)
+[**Legitimate interests**](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-2)
 
 Processing purpose
 
-[Personalized advertising](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads): advertising we show you on and off X based on information we collect from you on X, your other activity online, and data from our partners
+**[Personalized advertising](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads):** advertising we show you on and off X based on information we collect from you on X, your other activity online, and data from our partners
 
 Data
 
-Information you share with us, including:
+**Information you share with us, including:**
 
-* [Basic account information](https://twitter.com/privacy)
-* [Public information](https://twitter.com/privacy)
-* [Contact information](https://twitter.com/privacy)
+* Basic account information
+* Public information
+* Contact information
 * Account controls
 
-Additional information we receive about you, including:
+**Additional information we receive about you, including:**
 
-* [Location information](https://twitter.com/privacy)
-* [Interactions with links](https://twitter.com/privacy)
-* [Cookie data](https://twitter.com/privacy)†
-* [Log data](https://twitter.com/privacy)
-* [Data from ad partners](https://twitter.com/privacy)
-* [Data from other third parties and affiliates](https://twitter.com/privacy)
+* Location information
+* Interactions with links
+* Cookie data † 
+* Log data
+* Data from ad partners
+* Data from other third parties and affiliates
 
-Inferences about you, as described above, based on this data.
+**Inferences about you, as described above, based on this data.**
+
+**_  
+For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._**
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-Consent
+**Consent**
 
 Processing purpose
 
-[Personalize based on your inferred identity](https://help.twitter.com/about-personalization-across-your-devices)
+[**Personalize based on your inferred identity**](https://help.twitter.com/about-personalization-across-your-devices)
 
 Data
 
-Information you share with us, including:
+**Information you share with us, including:**
 
-* [Basic account information](https://twitter.com/privacy)
-* [Contact information](https://twitter.com/privacy)
+* Basic account information
+* Contact information
 * Account controls
 
-Additional information we receive about you, including:
+**Additional information we receive about you, including:**
 
-* [Location information](https://twitter.com/privacy)
-* [Interactions with links](https://twitter.com/privacy)
-* [Cookie data](https://twitter.com/privacy)†
-* [Log data](https://twitter.com/privacy)
-* [Data from ad partners](https://twitter.com/privacy)
-* [Data from other third parties and affiliates](https://twitter.com/privacy)
+* Location information
+* Interactions with links
+* Cookie data † 
+* Log data
+* Data from ad partners
+* Data from other third parties and affiliates
+
+_  
+For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-Consent
+**Consent**
 
 Processing purpose
 
-Personalizing our services based on the places you've been
+**Personalizing our services based on the places you've been**
 
 Data
 
-Additional information we receive about you, including:
+**Additional information we receive about you, including:**
 
-* [Location information](https://twitter.com/privacy)
+* Location information
 * Account controls
 
-Inferences about you, as described above, based on this data.
+**Inferences about you, as described above, based on this data.**
+
+_  
+For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-Consent
+**Consent**
 
 Processing purpose
 
-Complying with [legal requests](https://help.twitter.com/rules-and-policies/x-legal-faqs)
+**Complying with [legal requests](https://help.twitter.com/rules-and-policies/x-legal-faqs)**
 
 Data
 
-As required by applicable law, regulation, legal process, or governmental request.
+**As required by applicable law, regulation, legal process, or governmental request.**
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-Legal obligation
+**Legal obligation**
 
 Processing purpose
 
-[Additional information sharing with business partners](https://help.twitter.com/safety-and-security/data-through-partnerships)
+[**Additional information sharing with business partners**](https://help.twitter.com/safety-and-security/data-through-partnerships)
 
 Data
 
-Information you share with us, including:
+**Information you share with us, including:**
 
-* [Basic account information](https://twitter.com/privacy)
-* [Public information](https://twitter.com/privacy)
+* Basic account information
+* Public information
 * Account controls
 * Non-public communications (survey data)
 
-Additional information we receive about you, including:
+**Additional information we receive about you, including:**
 
-* [Location information](https://twitter.com/privacy)
-* [Interactions with links](https://twitter.com/privacy)
-* [Cookie data](https://twitter.com/privacy)†
-* [Log data](https://twitter.com/privacy)
-* [Data from ad partners](https://twitter.com/privacy)
-* [Data from other third parties and affiliates](https://twitter.com/privacy)
+* Location information
+* Interactions with links
+* Cookie data † 
+* Log data
+* Data from ad partners
+* Data from other third parties and affiliates
 
-[Devices we infer belong to you](https://help.twitter.com/about-personalization-across-your-devices)
+[**Devices we infer belong to you**](https://help.twitter.com/about-personalization-across-your-devices)
 
-Inferences about you, as described above, based on this data.
+**Inferences about you, as described above, based on this data.**
+
+_  
+For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-Consent
+**Consent**
 
   
-Legitimate Interests (only for some Log data collected prior to X account sign up)
+**Legitimate Interests (only for some Log data collected prior to X account sign up)**
 
 Processing purpose
 
-Sharing data with [third-party web clients or applications](https://help.twitter.com/managing-your-account/connect-or-revoke-access-to-third-party-apps) you've authorized
+**Sharing data with [third-party web clients or applications](https://help.twitter.com/managing-your-account/connect-or-revoke-access-to-third-party-apps) you've authorized**
 
 Data
 
-Information you share with us, dependent on the permissions requested by the application or web client, including:
+**Information you share with us, dependent on the permissions requested by the application or web client, including:**
 
-* [Basic account information](https://twitter.com/privacy)
-* [Public information](https://twitter.com/privacy)
-* [Contact information](https://twitter.com/privacy)
-* [Direct Messages and other non-public communications](https://twitter.com/privacy)
+* Basic account information
+* Public information
+* Contact information
+* Direct Messages and other non-public communications
 * Account controls
+
+_  
+For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-Consent
+**Consent**
 
 Processing purpose
 
-Sharing data with our service providers
+**Sharing data with our service providers**
 
 Data
 
-Information you share with us, including:
+**Information you share with us, including:**
 
-* [Basic account information](https://twitter.com/privacy)
-* [Public information](https://twitter.com/privacy)
-* [Contact information](https://twitter.com/privacy)
-* [Direct Messages and other non-public communications](https://twitter.com/privacy)
-* [Payment information](https://twitter.com/privacy)
+* Basic account information
+* Public information
+* Contact information
+* Direct Messages and other non-public communications
+* Payment information
 * Account controls
 
-Additional information we receive about you, including:
+**Additional information we receive about you, including:**
 
-* [Location information](https://twitter.com/privacy)
-* [Interactions with links](https://twitter.com/privacy)
-* [Cookie data](https://twitter.com/privacy)†
-* [Log data](https://twitter.com/privacy)
-* [Data from ad partners](https://twitter.com/privacy)
-* [Developer data](https://twitter.com/privacy)
-* [Data from other third parties and affiliates](https://twitter.com/privacy)
+* Location information
+* Interactions with links
+* Cookie data † 
+* Log data
+* Data from ad partners
+* Developer data
+* Data from other third parties and affiliates
 
-Inferences about you, as described above, based on this data.
+**Inferences about you, as described above, based on this data.**
+
+_  
+For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-Determined by the legal bases set forth in this table (contractual necessity, legitimate interests, consent, or legal obligation) for the processing activities for which the service provider is retained.
+**Determined by the legal bases set forth in this table (contractual necessity, legitimate interests, consent, or legal obligation) for the processing activities for which the service provider is retained.**
 
 Processing purpose
 
-[Enabling others to find your account by your email address or phone number](https://help.twitter.com/safety-and-security/search-twitter-by-email-or-phone-number)
+[**Enabling others to find your account by your email address or phone number**](https://help.twitter.com/safety-and-security/search-twitter-by-email-or-phone-number)
 
 Data
 
-Information you share with us, including:
+**Information you share with us, including:**
 
-* [Basic account information](https://twitter.com/privacy)
-* [Public information](https://twitter.com/privacy)
+* Basic account information
+* Public information
 * Account controls
 
-Additional information we receive about you, including:
+**Additional information we receive about you, including:**
 
-* [Data from third parties](https://twitter.com/privacy)
+* Data from third parties
 
-Information we process with your consent, including:
+**Information we process with your consent, including:**
 
 * [Address book data](https://help.twitter.com/using-x/upload-your-contacts-to-search-for-friends)
 
+_  
+For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
+
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-Consent
+**Consent**
 
 Processing purpose
 
-Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about your X activity, related content, Direct Messages, and other X product features
+**Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about your X activity, related content, Direct Messages, and other X product features**
 
 Data
 
-Information you share with us, including:
+**Information you share with us, including:**
 
-* [Basic account information](https://twitter.com/privacy)
-* [Public information](https://twitter.com/privacy)
-* [Contact information](https://twitter.com/privacy)
-* [Direct Messages and other non-public communications](https://twitter.com/privacy)
+* Basic account information
+* Public information
+* Contact information
+* Direct Messages and other non-public communications
 * Account controls
 
-Additional information we receive about you, including:
+**Additional information we receive about you, including:**
 
-* [Location information](https://twitter.com/privacy)
-* [Interactions with links](https://twitter.com/privacy)
-* [Cookie data](https://twitter.com/privacy)†
-* [Log data](https://twitter.com/privacy)
+* Location information
+* Interactions with links
+* Cookie data † 
+* Log data
 
-Inferences about you, as described above, based on this data.
+**Inferences about you, as described above, based on this data.**
+
+_  
+For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-[Legitimate interests](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-3)
+[**Legitimate interests**](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-3)
 
 Processing purpose
 
-Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about our X business products and third-party services
+**Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about our X business products and third-party services**
 
 Data
 
-Information you share with us, including:
+**Information you share with us, including:**
 
-* [Basic account information](https://twitter.com/privacy)
-* [Public information](https://twitter.com/privacy)
-* [Contact information](https://twitter.com/privacy)
-* [Non-public communications](https://twitter.com/privacy) (between you and X)
-* [Payment information](https://twitter.com/privacy)
+* Basic account information
+* Public information
+* Contact information
+* Non-public communications (between you and X)
+* Payment information
 * Account controls
 
-Additional information we receive about you, including:
+**Additional information we receive about you, including:**
 
-* [Location information](https://twitter.com/privacy)
-* [Interactions with links](https://twitter.com/privacy)
-* [Cookie data](https://twitter.com/privacy)†
-* [Log data](https://twitter.com/privacy)
-* [Data from ad partners](https://twitter.com/privacy)
-* [Developer data](https://twitter.com/privacy)
+* Location information
+* Interactions with links
+* Cookie data † 
+* Log data
+* Data from ad partners
+* Developer data
+
+_  
+For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-Consent
+**Consent**
 
 Processing purpose
 
-The processing activities described above:
+**The processing activities described above:**
 
 * Operating our services
 * Safety and security
@@ -479,24 +523,24 @@ The processing activities described above:
 
 Data
 
-Information we process with your consent, including:
+**Information we process with your consent, including:**
 
 * [Precise location data](https://help.twitter.com/safety-and-security/twitter-location-services-for-mobile)
 * [Address book data](https://help.twitter.com/using-x/upload-your-contacts-to-search-for-friends)
 
-[X for web data](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)\*
+[**X for web data**](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)\*
 
-[Devices we infer belong to you](https://help.twitter.com/about-personalization-across-your-devices)
+[**Devices we infer belong to you**](https://help.twitter.com/about-personalization-across-your-devices)
 
-Inferences about you, as described above, based on this data.
+**Inferences about you, as described above, based on this data.**
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-Consent
+**Consent**
 
 Processing purpose
 
-The processing activities described above:
+**The processing activities described above:**
 
 * [Advertising](https://business.twitter.com/en/help/ads-policies.html) we show you on X based on data you provide or we collect on X
     
@@ -507,71 +551,73 @@ The processing activities described above:
 * Personalizing our services based on the places you’ve been
     
 
-Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about your X activity, related content, Direct Messages, and other X product features
+**Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about your X activity, related content, Direct Messages, and other X product features**
 
 Data
 
-Information we process with your consent, including:
+**Information we process with your consent, including:**
 
 * [Precise location data](https://help.twitter.com/safety-and-security/x-location-services-for-mobile)
     
 
-Inferences about you, as described above, based on this data.
+**Inferences about you, as described above, based on this data.**
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-Consent
+**Consent**
 
 Processing purpose
 
-[Additional personalization of our services based on where you see X content across the web](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)
+[**Additional personalization of our services based on where you see X content across the web**](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)
 
-Additionally, the processing activities described above:
+**Additionally, the processing activities described above:**
 
 * [Personalize based on your inferred identity](https://help.twitter.com/about-personalization-across-your-devices)
     
 
-Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about your X activity, related content, Direct Messages, and other X product features
+**Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about your X activity, related content, Direct Messages, and other X product features**
 
 Data
 
-Information you share with us, including:
+**Information you share with us, including:**
 
 * Account controls
-    
-    [X for web data](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)\*
-    
-    [Devices we infer belong to you](https://help.twitter.com/about-personalization-across-your-devices)
-    
 
-Inferences about you, as described above, based on this data.
+[**X for web data**](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)\*
+
+[**Devices we infer belong to you**](https://help.twitter.com/about-personalization-across-your-devices)
+
+**Inferences about you, as described above, based on this data.**
+
+_  
+For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-Consent
+**Consent**
 
 Processing purpose
 
-Identify verification for safety & security and general verification
+**Identify verification for safety & security and general verification**
 
 Data
 
-What We Collect:   
+**What We Collect:**   
 Image of your ID, selfie, which includes face biometric data, and data from your ID
 
-How long do we store:  
+**How long do we store:**  
 Selfie is deleted soon after we receive verification/processing result
 
 Image of your ID is deleted in 72 hours after processing
 
 Data extracted from the ID may be kept for a longer period for safety purposes, including fraud and impersonation. The data extracted from the ID is deleted after for 30 days. This provides you an opportunity to appeal a verification decision and for X to review your appeal.
 
-Who Stores the data & Who we share with:  
+**Who Stores the data & Who we share with:**  
 X does not directly store this data. X shares it with Au10tix, who acts as our data processor. Au10tix processes and stores the data as detailed above.
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
-Consent
+**Consent**
 
 \* We do not collect X for Web data from browsers that we believe to be located in the European Union or the European Economic Area.
 
@@ -638,32 +684,33 @@ Source(s)
 
 Data Category
 
-Online Activity
+**Online Activity**
 
 (Internet and other electronic network activity information, including, but not limited to, information regarding interactions with websites, applications, or advertisements)
 
 Data
 
-* Information you post on X (see the [Information We Collect](https://twitter.com/privacy) section of our Privacy Policy)
+* Information you post on X 
     
-* [Direct Messages and other non-public communications](https://twitter.com/privacy#)
+* Direct Messages and other non-public communications
     
 * Account controls
     
-* [Interactions with links](https://twitter.com/privacy)
+* Interactions with links
     
-* [Cookie data](https://twitter.com/privacy)
+* Cookie data
     
-* [Log data](https://twitter.com/privacy)
+* Log data
     
-* [Data from advertisers and other ad partners](https://twitter.com/privacy)
-    
-* [Developer data](https://twitter.com/privacy)
-    
-* [Data from other third parties and affiliates](https://twitter.com/privacy)
-    
+
+* Data from advertisers and other ad partners
+* Developer data
+
+* Data from other third parties and affiliates
+
 * [X for web data](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)
-    
+
+_For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Source(s)
 
@@ -682,18 +729,19 @@ Source(s)
 
 Data Category
 
-[Payment Information](https://twitter.com/privacy)
+**Payment Information**
 
 Data
 
 * Credit or debit card number
     
+
 * Card expiration date
-    
 * CVV code
-    
+
 * Billing address
-    
+
+_For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Source(s)
 
@@ -701,32 +749,33 @@ Source(s)
 
 Data Category
 
-Identifiers
+**Identifiers**
 
 _(Real name, alias, postal address, telephone numbers, unique identifiers (such as a device identifier, cookies, mobile ad identifiers), customer number, Internet Protocol address, email address, account name, and other similar identifiers)_
 
 Data
 
-* [Basic account information](https://twitter.com/privacy)
+* Basic account information
     
-* Information you post on X (see the [Information We Collect](https://twitter.com/privacy) section of our Privacy Policy)
+* Information you post on X 
     
-* [Developer data](https://twitter.com/privacy)
+* Developer data
     
-* [Contact information](https://twitter.com/privacy)
+* Contact information
     
-* [Address book data](https://help.twitter.com/using-x/upload-your-contacts-to-search-for-friends)
+* Address book data
     
-* [Devices we infer belong to you](https://help.twitter.com/about-personalization-across-your-devices)
+* Devices we infer belong to you
     
-* [Cookie data](https://twitter.com/privacy)
+* Cookie data
     
-* [Log data](https://twitter.com/privacy)
+* Log data
     
-* [Data from advertisers and other ad partners](https://twitter.com/privacy)
-    
-* [Data from other third parties and affiliates](https://twitter.com/privacy)
-    
+
+* Data from advertisers and other ad partners
+* Data from other third parties and affiliates
+
+_For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Source(s)
 
@@ -743,16 +792,17 @@ Source(s)
 
 Data Category
 
-Protected Classifications
+**Protected Classifications**
 
 _(Characteristics of certain legally protected classifications, such as age range and gender)_
 
 Data
 
-* Information you post on X (see the [Information We Collect](https://twitter.com/privacy) section of our Privacy Policy)
-    
-* Inferences about your account, as listed below
-    
+* Information you post on X 
+* Inferences about your account, as listed below  
+     
+
+_For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Source(s)
 
@@ -771,28 +821,29 @@ Source(s)
 
 Data Category
 
-Commercial Information
+**Commercial Information**
 
 _(Records of products or services purchased, obtained, or considered, and other purchasing or consuming histories or tendencies)_
 
 Data
 
-* Information you post on X (see the [Information We Collect](https://twitter.com/privacy) section of our Privacy Policy)
+* Information you post on X 
     
-* [Interactions with links](https://twitter.com/privacy)
+* Interactions with links
     
-* [Cookie data](https://twitter.com/privacy)
+* Cookie data
     
-* [Log data](https://twitter.com/privacy)
+* Log data
     
-* [Data from advertisers and other ad partners](https://twitter.com/privacy)
+* Data from advertisers and other ad partners
     
-* [Developer data](https://twitter.com/privacy)
+* Developer data
     
-* [Data from other third parties and affiliates](https://twitter.com/privacy)
-    
+
+* Data from other third parties and affiliates
 * [X for web data](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)
-    
+
+_For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Source(s)
 
@@ -809,16 +860,16 @@ Source(s)
 
 Data Category
 
-Sensory Information
+**Sensory Information**
 
 _(Audio, electronic, visual, and similar information)_
 
 Data
 
-* Information you post on X (see the [Information We Collect](https://twitter.com/privacy) section of our Privacy Policy)
-    
-* [Direct Messages and other non-public communications](https://twitter.com/privacy)
-    
+* Information you post on X 
+* Direct Messages and other non-public communications
+
+_For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Source(s)
 
@@ -829,14 +880,14 @@ Source(s)
 
 Data Category
 
-Location Data
+**Location Data**
 
 Data
 
-* [Location information](https://twitter.com/privacy)
-    
+* Location information
 * [Precise location data](https://help.twitter.com/safety-and-security/x-location-services-for-mobile)
-    
+
+_For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Source(s)
 
@@ -844,7 +895,7 @@ Source(s)
 
 Data Category
 
-[Inferences](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#inferences)
+[**Inferences**](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#inferences)
 
 _(Inferences drawn to create a profile about you reflecting your preferences, characteristics, predispositions, behavior, and attitudes)_
 
@@ -854,6 +905,9 @@ Data
 * Age
 * Gender
 * [Topics](https://help.twitter.com/using-x/follow-and-unfollow-topics) you may be interested in
+
+_  
+For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Source(s)
 
@@ -880,54 +934,66 @@ We may share with...
 
 Data Category
 
-Online Activity
+**Online Activity**
 
-Identifiers
+**Identifiers**
 
-Protected Classifications
+**Protected Classifications**
 
-Commercial Information
+**Commercial Information**
 
-Sensory Information
+**Sensory Information**
 
 We may share with...
 
-* [Entities with whom you direct us to share your information](https://twitter.com/privacy), such as when you post publicly 
+* Entities with whom you direct us to share your information, such as when you post publicly 
     
-* [Entities you provide access to your account](https://twitter.com/privacy), such as third-party web clients or applications you authorize
+* Entities you provide access to your account, such as third-party web clients or applications you authorize
     
-* Our [corporate affiliates](https://twitter.com/privacy)
+* Our corporate affiliates
     
-* Our [business partners](https://twitter.com/privacy) and our [service providers](https://twitter.com/privacy), including advertisers and other ad partners
+* Our business partners and our service providers, including advertisers and other ad partners
     
-* Law enforcement and others as necessary to [comply with law, prevent harm, and serve the public interest](https://twitter.com/privacy)
+* Law enforcement and others as necessary to comply with law, prevent harm, and serve the public interest
+
+_  
+For details regarding the ways we share your information, why we share it, and how you can control it when you use X, please refer to Section 3 ("Sharing Information") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Data Category
 
-Payment Information
+**Payment Information**
 
 We may share with...
 
-* Our [service providers](https://twitter.com/privacy)
+* Our service providers
+
+_  
+For details regarding the ways we share your information, why we share it, and how you can control it when you use X, please refer to Section 3 ("Sharing Information") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Data Category
 
-Location Data
+**Location Data**
 
 We may share with...
 
-* Our [service providers](https://twitter.com/privacy)
+* Our service providers
     
-* Law enforcement and others as necessary to [comply with law, prevent harm, and serve the public interest](https://twitter.com/privacy)
+* Law enforcement and others as necessary to comply with law, prevent harm, and serve the public interest
+
+_  
+For details regarding the ways we share your information, why we share it, and how you can control it when you use X, please refer to Section 3 ("Sharing Information") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Data Category
 
-[Inferences](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#inferences)
+[**Inferences**](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#inferences)
 
 We may share with...
 
-* Our [corporate affiliates](https://twitter.com/privacy)
+* Our corporate affiliates
     
-* Our [business partners](https://twitter.com/privacy) and our [service providers](https://twitter.com/privacy), including advertisers and other ad partners
+* Our business partners and our service providers, including advertisers and other ad partners
     
-* Law enforcement and others as necessary to [comply with law, prevent harm, and serve the public interest](https://twitter.com/privacy)
+* Law enforcement and others as necessary to comply with law, prevent harm, and serve the public interest
+
+_  
+For details regarding the ways we share your information, why we share it, and how you can control it when you use X, please refer to Section 3 ("Sharing Information") of our [Privacy Policy](https://twitter.com/privacy)._
