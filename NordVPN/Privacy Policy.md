@@ -199,7 +199,7 @@ If you are a California resident, you can exercise your rights as provided in th
 
 For users in the Republic of Korea
 
-As set out in Section 3 of this Privacy Policy, we share personal data with service providers and other third parties that may be located outside the Republic of Korea. The list of third parties who may receive personal data which may relate to \[people\] in the Republic of Korea is provided in the respective version of this Privacy Policy in Korean language.
+As set out in Section 3 of this Privacy Policy, we share personal data with service providers and other third parties that may be located outside the Republic of Korea. The list of third parties who may receive personal data which may relate to people in the Republic of Korea is provided in the respective version of this Privacy Policy in Korean language, [available here](https://my.nordaccount.com/ko/legal/privacy-policy/).
 
 8\. CONTACT US
 
