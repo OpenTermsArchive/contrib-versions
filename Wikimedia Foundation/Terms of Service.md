@@ -132,6 +132,7 @@ Other languages:
 * [ייִדיש](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/yi "תנאים פון באניץ (3% translated)")
 * [עברית](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/he "Policy:Terms of Use/he (36% translated)")
 * [اردو](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ur "شرائط استعمال (3% translated)")
+* [الدارجة](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ary "I Want hacker counts (1% translated)")
 * [العربية](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ar "سياسة: شروط الاستخدام (82% translated)")
 * [جهلسری بلوچی](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bcc "سیاست:کاربندگءِ ڈؤل (5% translated)")
 * [فارسی](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fa "شرایط استفاده (18% translated)")
