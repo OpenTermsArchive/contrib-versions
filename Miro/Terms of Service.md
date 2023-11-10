@@ -12,7 +12,7 @@
     * [Apps & Integrations](https://miro.com/integrations/)
     * [Developer Platform](https://developers.miro.com/)
     
-    What’s new
+    What’s New
     ----------
     
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
@@ -25,6 +25,11 @@
         ![](https://images.ctfassets.net/w6r2i5d8q73s/1JVD1MjU9YKgxGTQzgNbp1/0eecfbd4af3cf1556691eb581f9fe757/Flex_your_flexibility_with_Planner.png)
         
         Planner = Integrated planning](https://miro.com/blog/what-we-launched-september-2023/#h-1-product-development-workflows-for-faster-time-to-market/)
+    * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        ![](https://images.ctfassets.net/w6r2i5d8q73s/4KAsD8SiCIPMEXkTKH20n7/ae8724091f611eb7665116d09e6fa6e3/Create_a_safe_space_with_Anonymous_Mode.png)
+        
+        Still thinking? Go Private](https://miro.com/blog/what-we-launched-september-2023/#h-2-workshops-amp-async-collaboration-for-enhanced-productivity)
     
     [See all updates](https://miro.com/whats-new/)
     
