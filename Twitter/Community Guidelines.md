@@ -1,178 +1,558 @@
-Our approach to policy development and enforcement philosophy
-=============================================================
+Platform manipulation and spam policy
+=====================================
 
-X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
-
-We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
-
-Our approach to policy development and enforcement philosophy
-=============================================================
-
-X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
-
-We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
-
-Our approach to policy development and enforcement philosophy
-=============================================================
-
-X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
-
-We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
-
-Our approach to policy development and enforcement philosophy
-=============================================================
-
-X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
-
-We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
-
-Our approach to policy development and enforcement philosophy
-=============================================================
-
-X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
-
-We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
-
-Our approach to policy development and enforcement philosophy
-=============================================================
-
-X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
-
-We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
-
-Our approach to policy development and enforcement philosophy
-=============================================================
-
-X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
-
-We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
-
-Our approach to policy development and enforcement philosophy
-=============================================================
-
-X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
-
-We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
-
-Our approach to policy development and enforcement philosophy
-=============================================================
-
-X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
-
-We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
-
-Our approach to policy development and enforcement philosophy
-=============================================================
-
-X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
-
-We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
-
-Our approach to policy development and enforcement philosophy
-=============================================================
-
-X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
-
-We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
-
-Our approach to policy development and enforcement philosophy
-=============================================================
-
-X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
-
-We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
-
-Our approach to policy development and enforcement philosophy
-=============================================================
-
-X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
-
-We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
-
-Our approach to policy development and enforcement philosophy
-=============================================================
-
-X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
-
-We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
-
-Our approach to policy development and enforcement philosophy
-=============================================================
-
-X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
-
-We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
-
-Our approach to policy development and enforcement philosophy
-=============================================================
-
-X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
-
-We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
-
-Our approach to policy development and enforcement philosophy
-=============================================================
-
-X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
-
-We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
-
-### Our policy development process 
-
-Creating a new policy or making a policy change requires in-depth research around trends in online behavior, developing clear external language that sets expectations around what’s allowed, and creating enforcement guidance for reviewers that can be scaled across millions of posts.
-
-While drafting policy language, we gather feedback from a variety of internal teams as well as our Trust & Safety Council. This is vital to ensure we are considering global perspectives around the changing nature of online speech, including how our rules are applied and interpreted in different cultural and social contexts. Finally, we train our global review teams, update the X Rules, and start enforcing the new policy.
-
-### Our enforcement philosophy 
-
-We empower people to understand different sides of an issue and encourage dissenting opinions and viewpoints to be discussed openly. This approach allows many forms of speech to exist on our platform and, in particular, promotes counterspeech: speech that presents facts to correct misstatements or misperceptions, points out hypocrisy or contradictions, warns of offline or online consequences, denounces hateful or dangerous speech, or helps change minds and disarm.
-
-Thus, **context matters**. When determining whether to take enforcement action, we may consider a number of factors, including (but not limited to) whether:
-
-* the behavior is directed at an individual, group, or protected category of people;
-* the report has been filed by the target of the abuse or a bystander;
-* the user has a history of violating our policies;
-* the severity of the violation;
-* the content may be a topic of legitimate public interest.
+### Overview
 
 **  
-Is the behavior directed at an individual or group of people?**
+March 2023**
 
-To strike a balance between allowing different opinions to be expressed on the platform, and protecting our users, we enforce policies when someone reports abusive behavior that targets a specific person or group of people. This targeting can happen in a number of ways (for example, @mentions, tagging a photo, mentioning them by name, and more).
+**You may not use X's services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience or platform manipulation defenses on X.**
+
+We want X to be a place where people can make human connections, find reliable information, and express themselves freely and safely. To make that possible, we do not allow spam or other types of platform manipulation. We define platform manipulation as using X to engage in bulk, aggressive, or deceptive activity that misleads others and/or disrupts their experience.  
+
+Platform manipulation can take many forms and our rules are intended to address a wide range of prohibited behavior, including:  
+
+* commercially-motivated spam, that typically aims to drive traffic or attention from a conversation on X to accounts, websites, products, services, or initiatives;
+* inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
+* coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting;
+* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html); and
+* leveraging X's open source code to circumvent remediations or platform defenses.
+
+Platform manipulation and spam policy
+=====================================
+
+### Overview
 
 **  
-Has the report been filed by the target of the potential abuse or a bystander?**
+March 2023**
 
-Some posts may seem to be abusive when viewed in isolation, but may not be when viewed in the context of a larger conversation or historical relationship between people on the platform. For example, friendly banter between friends could appear offensive to bystanders, and certain remarks that are acceptable in one culture or country may not be acceptable in another. To help prevent our teams from making a mistake and removing consensual interactions, in certain scenarios we require a [report](https://help.twitter.com/forms/private_information) from the actual target (or their authorized representative) prior to taking any enforcement action.
+**You may not use X's services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience or platform manipulation defenses on X.**
+
+We want X to be a place where people can make human connections, find reliable information, and express themselves freely and safely. To make that possible, we do not allow spam or other types of platform manipulation. We define platform manipulation as using X to engage in bulk, aggressive, or deceptive activity that misleads others and/or disrupts their experience.  
+
+Platform manipulation can take many forms and our rules are intended to address a wide range of prohibited behavior, including:  
+
+* commercially-motivated spam, that typically aims to drive traffic or attention from a conversation on X to accounts, websites, products, services, or initiatives;
+* inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
+* coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting;
+* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html); and
+* leveraging X's open source code to circumvent remediations or platform defenses.
+
+Platform manipulation and spam policy
+=====================================
+
+### Overview
 
 **  
-Does the user have a history of violating our policies?**
+March 2023**
 
-We start from a position of assuming that people do not intend to violate our Rules. Unless a violation is so egregious that we must immediately suspend an account, we first try to educate people about our Rules and give them a chance to correct their behavior. We show the violator the offending post(s), explain which Rule was broken, and require them to remove the content before they can post again. If someone repeatedly violates our Rules then our enforcement actions become stronger. This includes requiring violators to remove the post(s) and taking additional actions like verifying account ownership and/or temporarily limiting their ability to post for a set period of time. If someone continues to violate Rules beyond that point then their account may be permanently suspended.
+**You may not use X's services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience or platform manipulation defenses on X.**
+
+We want X to be a place where people can make human connections, find reliable information, and express themselves freely and safely. To make that possible, we do not allow spam or other types of platform manipulation. We define platform manipulation as using X to engage in bulk, aggressive, or deceptive activity that misleads others and/or disrupts their experience.  
+
+Platform manipulation can take many forms and our rules are intended to address a wide range of prohibited behavior, including:  
+
+* commercially-motivated spam, that typically aims to drive traffic or attention from a conversation on X to accounts, websites, products, services, or initiatives;
+* inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
+* coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting;
+* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html); and
+* leveraging X's open source code to circumvent remediations or platform defenses.
+
+Platform manipulation and spam policy
+=====================================
+
+### Overview
 
 **  
-What is the severity of the violation?**
+March 2023**
 
-Certain types of behavior may pose serious safety and security risks and/or result in physical, emotional, and financial hardship for the people involved. These egregious violations of the X Rules — such as posting violent threats, non-consensual intimate media, or content that sexually exploits children — result in the immediate and permanent suspension of an account. Other violations could lead to a range of different steps, like requiring someone to remove the offending post(s) and/or temporarily limiting their ability to post new post(s).
+**You may not use X's services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience or platform manipulation defenses on X.**
+
+We want X to be a place where people can make human connections, find reliable information, and express themselves freely and safely. To make that possible, we do not allow spam or other types of platform manipulation. We define platform manipulation as using X to engage in bulk, aggressive, or deceptive activity that misleads others and/or disrupts their experience.  
+
+Platform manipulation can take many forms and our rules are intended to address a wide range of prohibited behavior, including:  
+
+* commercially-motivated spam, that typically aims to drive traffic or attention from a conversation on X to accounts, websites, products, services, or initiatives;
+* inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
+* coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting;
+* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html); and
+* leveraging X's open source code to circumvent remediations or platform defenses.
+
+Platform manipulation and spam policy
+=====================================
+
+### Overview
 
 **  
-Is the behavior newsworthy and in the legitimate public interest?**
+March 2023**
 
-X moves at the speed of public consciousness and people come to the service to stay informed about what matters. Exposure to different viewpoints can help people learn from one another, become more tolerant, and make decisions about the type of society we want to live in.
+**You may not use X's services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience or platform manipulation defenses on X.**
 
-To help ensure people have an opportunity to see every side of an issue, there may be the rare occasion when we allow controversial content or behavior which may otherwise violate our Rules to remain on our service because we believe there is a legitimate public interest in its availability. Each situation is evaluated on a case by case basis and ultimately decided upon by a cross-functional team.
+We want X to be a place where people can make human connections, find reliable information, and express themselves freely and safely. To make that possible, we do not allow spam or other types of platform manipulation. We define platform manipulation as using X to engage in bulk, aggressive, or deceptive activity that misleads others and/or disrupts their experience.  
 
-Some of the factors that help inform our decision-making about content are the impact it may have on the public, the source of the content, and the availability of alternative coverage of an event.
+Platform manipulation can take many forms and our rules are intended to address a wide range of prohibited behavior, including:  
 
-Public impact of the content: A topic of legitimate public interest is different from a topic in which the public may be curious. We will consider what the impact is to citizens if they do **not** know about this content. If the post does have the potential to impact the lives of large numbers of people, the running of a country, and/or it speaks to an important societal issue then we may allow the the content to remain on the service. Likewise, if the impact on the public is minimal we will most likely remove content in violation of our policies.
+* commercially-motivated spam, that typically aims to drive traffic or attention from a conversation on X to accounts, websites, products, services, or initiatives;
+* inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
+* coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting;
+* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html); and
+* leveraging X's open source code to circumvent remediations or platform defenses.
 
-Source of the content: Some people, groups, organizations and the content they post on X may be considered a topic of legitimate public interest by virtue of their being in the public consciousness. This does not mean that their posts will always remain on the service. Rather, we will consider if there is a legitimate public interest for a particular post to remain up so it can be openly discussed.
+Platform manipulation and spam policy
+=====================================
 
-Availability of coverage: Everyday people play a crucial role in providing firsthand accounts of what’s happening in the world, counterpoints to establishment views, and, in some cases, exposing the abuse of power by someone in a position of authority. As a situation unfolds, removing access to certain information could inadvertently hide context and/or prevent people from seeing every side of the issue. Thus, before actioning a potentially violating post, we will take into account the role it plays in showing the larger story and whether that content can be found elsewhere.
+### Overview
 
-Our approach to policy development and enforcement philosophy
-=============================================================
+**  
+March 2023**
 
-X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
+**You may not use X's services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience or platform manipulation defenses on X.**
 
-We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
+We want X to be a place where people can make human connections, find reliable information, and express themselves freely and safely. To make that possible, we do not allow spam or other types of platform manipulation. We define platform manipulation as using X to engage in bulk, aggressive, or deceptive activity that misleads others and/or disrupts their experience.  
+
+Platform manipulation can take many forms and our rules are intended to address a wide range of prohibited behavior, including:  
+
+* commercially-motivated spam, that typically aims to drive traffic or attention from a conversation on X to accounts, websites, products, services, or initiatives;
+* inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
+* coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting;
+* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html); and
+* leveraging X's open source code to circumvent remediations or platform defenses.
+
+Platform manipulation and spam policy
+=====================================
+
+### Overview
+
+**  
+March 2023**
+
+**You may not use X's services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience or platform manipulation defenses on X.**
+
+We want X to be a place where people can make human connections, find reliable information, and express themselves freely and safely. To make that possible, we do not allow spam or other types of platform manipulation. We define platform manipulation as using X to engage in bulk, aggressive, or deceptive activity that misleads others and/or disrupts their experience.  
+
+Platform manipulation can take many forms and our rules are intended to address a wide range of prohibited behavior, including:  
+
+* commercially-motivated spam, that typically aims to drive traffic or attention from a conversation on X to accounts, websites, products, services, or initiatives;
+* inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
+* coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting;
+* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html); and
+* leveraging X's open source code to circumvent remediations or platform defenses.
+
+Platform manipulation and spam policy
+=====================================
+
+### Overview
+
+**  
+March 2023**
+
+**You may not use X's services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience or platform manipulation defenses on X.**
+
+We want X to be a place where people can make human connections, find reliable information, and express themselves freely and safely. To make that possible, we do not allow spam or other types of platform manipulation. We define platform manipulation as using X to engage in bulk, aggressive, or deceptive activity that misleads others and/or disrupts their experience.  
+
+Platform manipulation can take many forms and our rules are intended to address a wide range of prohibited behavior, including:  
+
+* commercially-motivated spam, that typically aims to drive traffic or attention from a conversation on X to accounts, websites, products, services, or initiatives;
+* inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
+* coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting;
+* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html); and
+* leveraging X's open source code to circumvent remediations or platform defenses.
+
+Platform manipulation and spam policy
+=====================================
+
+### Overview
+
+**  
+March 2023**
+
+**You may not use X's services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience or platform manipulation defenses on X.**
+
+We want X to be a place where people can make human connections, find reliable information, and express themselves freely and safely. To make that possible, we do not allow spam or other types of platform manipulation. We define platform manipulation as using X to engage in bulk, aggressive, or deceptive activity that misleads others and/or disrupts their experience.  
+
+Platform manipulation can take many forms and our rules are intended to address a wide range of prohibited behavior, including:  
+
+* commercially-motivated spam, that typically aims to drive traffic or attention from a conversation on X to accounts, websites, products, services, or initiatives;
+* inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
+* coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting;
+* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html); and
+* leveraging X's open source code to circumvent remediations or platform defenses.
+
+Platform manipulation and spam policy
+=====================================
+
+### Overview
+
+**  
+March 2023**
+
+**You may not use X's services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience or platform manipulation defenses on X.**
+
+We want X to be a place where people can make human connections, find reliable information, and express themselves freely and safely. To make that possible, we do not allow spam or other types of platform manipulation. We define platform manipulation as using X to engage in bulk, aggressive, or deceptive activity that misleads others and/or disrupts their experience.  
+
+Platform manipulation can take many forms and our rules are intended to address a wide range of prohibited behavior, including:  
+
+* commercially-motivated spam, that typically aims to drive traffic or attention from a conversation on X to accounts, websites, products, services, or initiatives;
+* inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
+* coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting;
+* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html); and
+* leveraging X's open source code to circumvent remediations or platform defenses.
+
+Platform manipulation and spam policy
+=====================================
+
+### Overview
+
+**  
+March 2023**
+
+**You may not use X's services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience or platform manipulation defenses on X.**
+
+We want X to be a place where people can make human connections, find reliable information, and express themselves freely and safely. To make that possible, we do not allow spam or other types of platform manipulation. We define platform manipulation as using X to engage in bulk, aggressive, or deceptive activity that misleads others and/or disrupts their experience.  
+
+Platform manipulation can take many forms and our rules are intended to address a wide range of prohibited behavior, including:  
+
+* commercially-motivated spam, that typically aims to drive traffic or attention from a conversation on X to accounts, websites, products, services, or initiatives;
+* inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
+* coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting;
+* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html); and
+* leveraging X's open source code to circumvent remediations or platform defenses.
+
+Platform manipulation and spam policy
+=====================================
+
+### Overview
+
+**  
+March 2023**
+
+**You may not use X's services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience or platform manipulation defenses on X.**
+
+We want X to be a place where people can make human connections, find reliable information, and express themselves freely and safely. To make that possible, we do not allow spam or other types of platform manipulation. We define platform manipulation as using X to engage in bulk, aggressive, or deceptive activity that misleads others and/or disrupts their experience.  
+
+Platform manipulation can take many forms and our rules are intended to address a wide range of prohibited behavior, including:  
+
+* commercially-motivated spam, that typically aims to drive traffic or attention from a conversation on X to accounts, websites, products, services, or initiatives;
+* inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
+* coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting;
+* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html); and
+* leveraging X's open source code to circumvent remediations or platform defenses.
+
+Platform manipulation and spam policy
+=====================================
+
+### Overview
+
+**  
+March 2023**
+
+**You may not use X's services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience or platform manipulation defenses on X.**
+
+We want X to be a place where people can make human connections, find reliable information, and express themselves freely and safely. To make that possible, we do not allow spam or other types of platform manipulation. We define platform manipulation as using X to engage in bulk, aggressive, or deceptive activity that misleads others and/or disrupts their experience.  
+
+Platform manipulation can take many forms and our rules are intended to address a wide range of prohibited behavior, including:  
+
+* commercially-motivated spam, that typically aims to drive traffic or attention from a conversation on X to accounts, websites, products, services, or initiatives;
+* inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
+* coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting;
+* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html); and
+* leveraging X's open source code to circumvent remediations or platform defenses.
+
+Platform manipulation and spam policy
+=====================================
+
+### Overview
+
+**  
+March 2023**
+
+**You may not use X's services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience or platform manipulation defenses on X.**
+
+We want X to be a place where people can make human connections, find reliable information, and express themselves freely and safely. To make that possible, we do not allow spam or other types of platform manipulation. We define platform manipulation as using X to engage in bulk, aggressive, or deceptive activity that misleads others and/or disrupts their experience.  
+
+Platform manipulation can take many forms and our rules are intended to address a wide range of prohibited behavior, including:  
+
+* commercially-motivated spam, that typically aims to drive traffic or attention from a conversation on X to accounts, websites, products, services, or initiatives;
+* inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
+* coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting;
+* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html); and
+* leveraging X's open source code to circumvent remediations or platform defenses.
+
+Platform manipulation and spam policy
+=====================================
+
+### Overview
+
+**  
+March 2023**
+
+**You may not use X's services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience or platform manipulation defenses on X.**
+
+We want X to be a place where people can make human connections, find reliable information, and express themselves freely and safely. To make that possible, we do not allow spam or other types of platform manipulation. We define platform manipulation as using X to engage in bulk, aggressive, or deceptive activity that misleads others and/or disrupts their experience.  
+
+Platform manipulation can take many forms and our rules are intended to address a wide range of prohibited behavior, including:  
+
+* commercially-motivated spam, that typically aims to drive traffic or attention from a conversation on X to accounts, websites, products, services, or initiatives;
+* inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
+* coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting;
+* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html); and
+* leveraging X's open source code to circumvent remediations or platform defenses.
+
+Platform manipulation and spam policy
+=====================================
+
+### Overview
+
+**  
+March 2023**
+
+**You may not use X's services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience or platform manipulation defenses on X.**
+
+We want X to be a place where people can make human connections, find reliable information, and express themselves freely and safely. To make that possible, we do not allow spam or other types of platform manipulation. We define platform manipulation as using X to engage in bulk, aggressive, or deceptive activity that misleads others and/or disrupts their experience.  
+
+Platform manipulation can take many forms and our rules are intended to address a wide range of prohibited behavior, including:  
+
+* commercially-motivated spam, that typically aims to drive traffic or attention from a conversation on X to accounts, websites, products, services, or initiatives;
+* inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
+* coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting;
+* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html); and
+* leveraging X's open source code to circumvent remediations or platform defenses.
+
+Platform manipulation and spam policy
+=====================================
+
+### Overview
+
+**  
+March 2023**
+
+**You may not use X's services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience or platform manipulation defenses on X.**
+
+We want X to be a place where people can make human connections, find reliable information, and express themselves freely and safely. To make that possible, we do not allow spam or other types of platform manipulation. We define platform manipulation as using X to engage in bulk, aggressive, or deceptive activity that misleads others and/or disrupts their experience.  
+
+Platform manipulation can take many forms and our rules are intended to address a wide range of prohibited behavior, including:  
+
+* commercially-motivated spam, that typically aims to drive traffic or attention from a conversation on X to accounts, websites, products, services, or initiatives;
+* inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
+* coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting;
+* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html); and
+* leveraging X's open source code to circumvent remediations or platform defenses.
+
+What is in violation of this policy?  
+
+  
+Under this policy we prohibit a range of behaviors in the following areas:  
+ 
+
+### Multiple accounts and coordination
+
+**You can’t mass-register X accounts or use automation to create X accounts.**
+
+X allows users to create and/or operate up to ten (10) accounts for different, non-duplicative purposes. Users who already own or operate more than ten accounts will not be impacted by these new limits unless a violation of the X Rules takes place. Some examples of what X considers to be non-duplicative uses include:
+
+* Accounts tracking when objects in space travel over a specific location on Earth, e.g. New York, Hong Kong
+    
+* Accounts sharing news about different professional teams in the same sport or league, e.g. NFL, NBA, Premier League
+    
+* Accounts for personal projects, hobbies/interests, or for your business(es)
+    
+* Accounts for branded entities specific to unique locations or languages, e.g. brand accounts in English, Spanish and French
+    
+
+In addition, users are allowed to control multiple accounts on behalf of a third-party (e.g. “Social Media Managers”), provided that no violations of Our Rules (including this policy) occurs.
+
+X may approve exceptions to multiple account limits at its discretion. 
+
+What is in violation of the Multiple Accounts policy?
+
+You can’t artificially amplify or disrupt conversations through the use of multiple accounts or by coordinating with others to violate Our Rules. This includes:
+
+* operating multiple accounts that interact with the same or substantially similar content or X account(s) in order to inflate or manipulate the prominence of content and/or accounts; for example:
+    
+    * Do not create multiple accounts to “boost” trending topics or hashtags
+    * Do not create multiple accounts to engage with the same posts, accounts, or polls
+    * Do not create multiple accounts to misuse the mention/reply feature
+    * Do not create multiple accounts to boost or amplify one of your own accounts by misusing engagement features (likes, reposts)
+* operating multiple accounts that post substantially similar or identical content to one another; for example:
+    
+    * Do not cross-post content across multiple accounts; content that is cross-posted but localized into another language is permitted
+    * Do not cross-post similar or duplicate content to the same trending topics or hashtags
+    
+* Employing workarounds to exceed the technical limits of account creation (e.g. [account phone number limits](https://help.twitter.com/en/managing-your-account/phone-number-faqs.html))
+
+  
+Multiple accounts that exhibit a pattern or sole purpose of the preceding behaviors may be suspended by X. Users operating multiple accounts are still subject to all other X Rules, particularly our rules surrounding Platform Manipulation and Spam, and [Ban Evasion](https://help.twitter.com/en/rules-and-policies/ban-evasion.html). Any other violations of Our Rules may also result in all of your accounts being suspended.
+
+Engagement and metrics  
+
+**  
+You can’t artificially inflate your own or others’ followers or engagement.** This includes:
+
+* selling/purchasing Post or account metric inflation – selling or purchasing followers or engagements (Reposts, Likes, mentions, X Poll votes);
+* apps – using or promoting third-party services or apps that claim to add followers or add engagements to Posts;
+* reciprocal inflation – trading or coordinating to exchange follows or Post engagements (including but not limited to participation in “follow trains,” “decks,” and “Repost for Repost” behavior); and
+* account transfers or sales – selling, purchasing, trading, or offering the sale, purchase, or trade of X accounts, usernames, or temporary access to X accounts.  
+    
+
+Misuse of X product features  
+
+**  
+You can’t misuse X product features to disrupt others’ experience.** This includes:  
+ 
+
+**Posts and Direct Messages**  
+
+* sending bulk, aggressive, high-volume unsolicited replies, mentions, or Direct Messages;
+* posting and deleting the same content repeatedly;
+* repeatedly posting identical or nearly identical Posts, or repeatedly sending identical Direct Messages;
+* repeatedly posting content or sending Direct Messages consisting of links shared without commentary, so that this comprises the bulk of your Post/Direct Message activity; and
+* Posting an existing phrase or content in a duplicative manner, whether individually or in concert with other accounts. Learn more in our [copypasta and duplicate content policy](https://help.twitter.com/en/rules-and-policies/copypasta-duplicate-content.html).
+
+**  
+Editing Posts**  
+
+* editing Posts to artificially amplify content or deceive people. Examples include, but are not limited to:
+    * using a Post's existing engagement to amplify substantially different content (e.g. editing a Post from “What’s better? Pancakes or waffles?” to “Thousands of people trust my service. Like my post and subscribe to my channel to get tips on investing”)
+    * editing links (URLs) so that the final destination page has significantly changed, either in content or location (e.g. domain, URL path)
+    * editing media (e.g. images, videos, audios, gifs, or URLs hosting relevant content) so the Post is meaningfully or entirely different or irrelevant to the previous versions.
+
+**  
+Following**  
+
+* “follow churn” – following and then unfollowing large numbers of accounts in an effort to inflate one’s own follower count;
+* indiscriminate following – following and/or unfollowing a large number of unrelated accounts in a short time period, particularly by automated means; and
+* duplicating another account’s followers, particularly using automation.  
+     
+
+**Engagement**  
+
+* aggressively or automatically engaging with Posts to drive traffic or attention to accounts, websites, products, services, or initiatives.
+* aggressively adding users to Lists or Moments.  
+     
+
+**Hashtags**   
+
+* using a trending or popular hashtag with an intent to subvert or manipulate a conversation or to drive traffic or attention to accounts, websites, products, services, or initiatives; and
+* Posting with excessive, unrelated hashtags in a single Post or across multiple Posts.  
+     
+
+**URLs**  
+
+* publishing or linking to malicious content intended to damage or disrupt another person’s browser (malware) or computer or to compromise a person’s privacy (phishing); and 
+* posting misleading or deceptive links; e.g., affiliate links and clickjacking links.  
+    
+
+**Open Source Code**  
+
+* exploiting X's open source code, including the logic behind visibility filtering or ML Model training, to circumvent policy enforcement for violations of [Our Rules](https://help.twitter.com/content/help-twitter/en/rules-and-policies).
+    
+
+What is not a violation of this policy?  
+
+  
+The following are not in violation of this policy:
+
+* posting links without commentary occasionally;
+* coordinating with others to express ideas, viewpoints, support, or opposition towards a cause, provided such behavior does not result in violations of Our Rules; and
+* operating multiple accounts with distinct identities, purposes, or use cases. These accounts may interact with one another, provided they don’t violate other rules. Some examples include:
+    * organizations with related but separate chapters or branches, such as a business with multiple locations;
+    * operating a personal account in addition to pseudonymous accounts or accounts associated with your hobbies or initiatives; and
+    * hobby/artistic bots.  
+        
+
+Who can report violations of this policy?
+
+Anyone can report accounts or Posts via our dedicated reporting flow. These reports are used in aggregate to help refine our enforcement systems and identify new and emerging trends and patterns of behavior.   
+
+### How can I report violations of this policy?  
+
+**  
+In-app**
+
+You can report this content in-app as follows:
+
+1. Select **Report Post** from the  icon.
+2. Select **It's suspicious or spam**. 
+3. Select the option that best tells us how the Post is suspicious or spreading spam.
+4. Submit your report.  
+     
+
+**Web**  
+
+You can report this content via web as follows:
+
+1. Select **Report Post** from the  icon.
+2. Select **It's suspicious or spam**.
+3. Select the option that best tells us how the Post is suspicious or spreading spam.
+4. Submit your report.
+
+### What happens if you violate this policy?  
+
+  
+The consequences for violating this policy depend on the severity of the violation as well as any previous history of violations. Our action is also informed by the type of spammy activity that we have identified. The actions we take may include the following:  
+ 
+
+**Anti-spam challenges**  
+
+When we detect suspicious levels of activity, accounts may be locked and prompted to provide additional information (e.g., a phone number) or to solve a reCAPTCHA.   
+ 
+
+**Denylisting URLs**
+
+We denylist or provide warnings about URLs we believe to be unsafe. Read more about [unsafe links](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links.html), including how to appeal if we’ve falsely identified your URL as unsafe.  
+ 
+
+**Limiting the visibility of Posts**
+
+Posts which we believe to be in violation of these policies may not appear in certain parts of the X product, and/or may not be recommended or amplified by X. [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-reach-limited.html) about other instances when a Post's visibility may be limited.   
+ 
+
+**Post deletion and temporary account locks**  
+
+* If the platform manipulation or spam offense is an isolated incident or first offense, we may take a number of actions ranging from requiring deletion of one of more Posts to temporarily locking account(s). Any subsequent platform manipulation offenses will result in permanent suspension.
+* In the case of a violation centering around the use of multiple accounts, you may be asked to choose one account to keep. The remaining accounts will be permanently suspended.
+
+**  
+Temporary loss of access to X features or products**
+
+* We may temporarily limit or restrict access to X features or products, including (but not limited to) Posts, Edit Post, Direct Messages, Spaces, Communities, or Live.
+
+**  
+Permanent suspension**
+
+For severe violations, accounts will be permanently suspended at first detection. Examples of severe violations include:
+
+* operating accounts where the majority of behavior is in violation of the policies described above;
+* using any of the tactics described on this page to undermine the integrity of elections;
+* buying/selling accounts;
+* creating accounts to replace or mimic a suspended account; and
+* operating accounts that X is able to reliably attribute to entities known to violate [Our Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html).
+
+If you believe that your account was locked or suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+### Additional resources  
+
+  
+Learn more about our [automation rules](https://help.twitter.com/en/rules-and-policies/twitter-automation.html) for developers, our [election integrity](https://about.twitter.com/en/values/elections-integrity.html) efforts, our [financial scam policy](https://help.twitter.com/en/rules-and-policies/financial-scam.html), our [hacked materials policy](https://help.twitter.com/en/rules-and-policies/hacked-materials.html), and our [guidelines for promotions and contests](https://help.twitter.com/en/rules-and-policies/twitter-contest-rules.html).
+
+Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Platform manipulation and spam policy
+=====================================
+
+### Overview
+
+**  
+March 2023**
+
+**You may not use X's services in a manner intended to artificially amplify or suppress information or engage in behavior that manipulates or disrupts people’s experience or platform manipulation defenses on X.**
+
+We want X to be a place where people can make human connections, find reliable information, and express themselves freely and safely. To make that possible, we do not allow spam or other types of platform manipulation. We define platform manipulation as using X to engage in bulk, aggressive, or deceptive activity that misleads others and/or disrupts their experience.  
+
+Platform manipulation can take many forms and our rules are intended to address a wide range of prohibited behavior, including:  
+
+* commercially-motivated spam, that typically aims to drive traffic or attention from a conversation on X to accounts, websites, products, services, or initiatives;
+* inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
+* coordinated activity, that attempts to artificially influence conversations through the use of multiple accounts, fake accounts, automation and/or scripting;
+* coordinated harmful activity that encourages or promotes behavior which violates [Our Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html); and
+* leveraging X's open source code to circumvent remediations or platform defenses.
