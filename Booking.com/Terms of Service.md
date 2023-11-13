@@ -9,7 +9,7 @@ Summary of these Terms
 Along with the Terms on this page, there are two other documents that form part of our contract with you:
 
 * Our [How we Work page](https://secure.booking.com/content/how_we_work.en-gb.html?) helps you to use our Platform and understand our reviews, our rankings, our recommendations, how we make money, and more.
-* Our [Content Standards and Guidelines](https://secure.booking.com/content-moderation-policy/overview-page.en-gb.html?) help us to keep everything on our Platform relevant to and appropriate for our global audience, without limiting freedom of expression. They tell you how we manage content and take action against anything inappropriate.
+* Our [Content Standards and Guidelines](https://www.booking.com/content-moderation-policy/overview-page.en-gb.html?) help us to keep everything on our Platform relevant to and appropriate for our global audience, without limiting freedom of expression. They tell you how we manage content and take action against anything inappropriate.
 
 By agreeing to our Terms, you’re agreeing to everything in all three documents. If you don’t accept any of these Terms, please do not use our Platform.
 
@@ -17,7 +17,7 @@ All this information is important because it (along with your booking confirmati
 
 If something goes wrong with your Travel Experience, [Section A15 of these Terms](#sep2023_terms_all_wrong_subheading) explains what you can do about it. This includes making a complaint to us, going to court, and (in some cases) using an online dispute resolution service.
 
-If you want to appeal a moderation decision, or report any content on our Platform, our [Content Standards and Guidelines](https://secure.booking.com/content-moderation-policy/overview-page.en-gb.html?) explain how to do so, and how we manage these requests.
+If you want to appeal a moderation decision, or report any content on our Platform, our [Content Standards and Guidelines](https://www.booking.com/content-moderation-policy/overview-page.en-gb.html?) explain how to do so, and how we manage these requests.
 
 This summary isn’t part of our Terms, or a legal document. It’s just a simple explanation of our Terms. We encourage you to read each document in full. Some of the words in this summary have very specific meanings, so please check out the [‘Booking.com dictionary’](#sep2023_terms_dictionary_heading) at the end of these Terms.
 
@@ -308,7 +308,7 @@ A14. Intellectual property rights
 * using any device or software to gather prices or other information
 * doing anything that places undue stress on our Platform.
 
-4\. By uploading a review/picture to our Platform, you’re confirming that it meets our [Content Standards and Guidelines](https://secure.booking.com/content-moderation-policy/overview-page.en-gb.html?) and that:
+4\. By uploading a review/picture to our Platform, you’re confirming that it meets our [Content Standards and Guidelines](https://www.booking.com/content-moderation-policy/overview-page.en-gb.html?) and that:
 
 * it’s truthful (you haven’t altered the picture, for example, or uploaded a picture of a different property)
 * it doesn’t contain any viruses
@@ -349,7 +349,7 @@ A16. Communication with the Service Provider
 
 A17. Measures against unacceptable behaviour
 
-1\. If you breach these Terms (including [our values](https://www.booking.com/trust-and-safety/values.en-gb.html?) and our [Content standards and guidelines](https://secure.booking.com/content-moderation-policy/overview-page.en-gb.html?)) or fail to comply with applicable laws or regulations, we have the right to:
+1\. If you breach these Terms (including [our values](https://www.booking.com/trust-and-safety/values.en-gb.html?) and our [Content standards and guidelines](https://www.booking.com/content-moderation-policy/overview-page.en-gb.html?)) or fail to comply with applicable laws or regulations, we have the right to:
 
 * stop you making any Bookings,
 * cancel any Bookings you’ve already made,
