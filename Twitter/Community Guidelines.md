@@ -1,1727 +1,2825 @@
-Hateful Conduct
-===============
+Private information and media policy
+====================================
 
 ### Overview 
 
-**April 2023**
+**December 2022**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+**Sharing someone’s private information:**
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+When reviewing reports under this policy, we consider a number of things, including:  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+**Who is sharing the information?**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
+ 
 
-**Dehumanization**
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
+ 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
 
-**Hateful Imagery** 
+**  
+Sharing private media:**
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+### What is in violation of this policy? 
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-**Hateful Profile**
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
+The following behaviors are also not permitted:   
 
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+     
 
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
+### What is not a violation of this policy? 
 
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
+The following are not in violation of this policy:
 
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-### What happens if you violate this policy?  
+**For media, the following are not in violation of our policy:**
 
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
+### Who can report violations of this policy? 
 
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+**Sharing private information:**
+
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
+
+  
+**Sharing private media:** 
+
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
+
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
+
+### How can I report violations of this policy? 
+
+**In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
+     
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Desktop**
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+You can report this content for review via desktop as follows:
 
-Hateful Conduct
-===============
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
+
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
+
+### What happens if you violate this policy? 
+
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+
+**Sharing private or live location information:**
+
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
 
 ### Overview 
 
-**April 2023**
+**December 2022**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+**Sharing someone’s private information:**
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+When reviewing reports under this policy, we consider a number of things, including:  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+**Who is sharing the information?**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
+ 
 
-**Dehumanization**
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
+ 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
 
-**Hateful Imagery** 
+**  
+Sharing private media:**
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+### What is in violation of this policy? 
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-**Hateful Profile**
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
+The following behaviors are also not permitted:   
 
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+     
 
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
+### What is not a violation of this policy? 
 
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
+The following are not in violation of this policy:
 
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-### What happens if you violate this policy?  
+**For media, the following are not in violation of our policy:**
 
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
+### Who can report violations of this policy? 
 
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+**Sharing private information:**
+
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
+
+  
+**Sharing private media:** 
+
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
+
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
+
+### How can I report violations of this policy? 
+
+**In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
+     
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Desktop**
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+You can report this content for review via desktop as follows:
 
-Hateful Conduct
-===============
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
+
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
+
+### What happens if you violate this policy? 
+
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+
+**Sharing private or live location information:**
+
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
 
 ### Overview 
 
-**April 2023**
+**December 2022**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+**Sharing someone’s private information:**
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+When reviewing reports under this policy, we consider a number of things, including:  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+**Who is sharing the information?**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
+ 
 
-**Dehumanization**
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
+ 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
 
-**Hateful Imagery** 
+**  
+Sharing private media:**
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+### What is in violation of this policy? 
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-**Hateful Profile**
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
+The following behaviors are also not permitted:   
 
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+     
 
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
+### What is not a violation of this policy? 
 
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
+The following are not in violation of this policy:
 
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-### What happens if you violate this policy?  
+**For media, the following are not in violation of our policy:**
 
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
+### Who can report violations of this policy? 
 
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+**Sharing private information:**
+
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
+
+  
+**Sharing private media:** 
+
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
+
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
+
+### How can I report violations of this policy? 
+
+**In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
+     
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Desktop**
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+You can report this content for review via desktop as follows:
 
-Hateful Conduct
-===============
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
+
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
+
+### What happens if you violate this policy? 
+
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+
+**Sharing private or live location information:**
+
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
 
 ### Overview 
 
-**April 2023**
+**December 2022**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+**Sharing someone’s private information:**
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+When reviewing reports under this policy, we consider a number of things, including:  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+**Who is sharing the information?**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
+ 
 
-**Dehumanization**
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
+ 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
 
-**Hateful Imagery** 
+**  
+Sharing private media:**
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+### What is in violation of this policy? 
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-**Hateful Profile**
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
+The following behaviors are also not permitted:   
 
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+     
 
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
+### What is not a violation of this policy? 
 
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
+The following are not in violation of this policy:
 
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-### What happens if you violate this policy?  
+**For media, the following are not in violation of our policy:**
 
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
+### Who can report violations of this policy? 
 
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+**Sharing private information:**
+
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
+
+  
+**Sharing private media:** 
+
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
+
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
+
+### How can I report violations of this policy? 
+
+**In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
+     
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Desktop**
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+You can report this content for review via desktop as follows:
 
-Hateful Conduct
-===============
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
+
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
+
+### What happens if you violate this policy? 
+
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+
+**Sharing private or live location information:**
+
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
 
 ### Overview 
 
-**April 2023**
+**December 2022**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+**Sharing someone’s private information:**
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+When reviewing reports under this policy, we consider a number of things, including:  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+**Who is sharing the information?**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
+ 
 
-**Dehumanization**
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
+ 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
 
-**Hateful Imagery** 
+**  
+Sharing private media:**
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+### What is in violation of this policy? 
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-**Hateful Profile**
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
+The following behaviors are also not permitted:   
 
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+     
 
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
+### What is not a violation of this policy? 
 
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
+The following are not in violation of this policy:
 
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-### What happens if you violate this policy?  
+**For media, the following are not in violation of our policy:**
 
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
+### Who can report violations of this policy? 
 
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+**Sharing private information:**
+
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
+
+  
+**Sharing private media:** 
+
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
+
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
+
+### How can I report violations of this policy? 
+
+**In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
+     
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Desktop**
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+You can report this content for review via desktop as follows:
 
-Hateful Conduct
-===============
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
+
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
+
+### What happens if you violate this policy? 
+
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+
+**Sharing private or live location information:**
+
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
 
 ### Overview 
 
-**April 2023**
+**December 2022**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+**Sharing someone’s private information:**
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+When reviewing reports under this policy, we consider a number of things, including:  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+**Who is sharing the information?**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
+ 
 
-**Dehumanization**
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
+ 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
 
-**Hateful Imagery** 
+**  
+Sharing private media:**
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+### What is in violation of this policy? 
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-**Hateful Profile**
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
+The following behaviors are also not permitted:   
 
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+     
 
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
+### What is not a violation of this policy? 
 
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
+The following are not in violation of this policy:
 
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-### What happens if you violate this policy?  
+**For media, the following are not in violation of our policy:**
 
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
+### Who can report violations of this policy? 
 
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+**Sharing private information:**
+
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
+
+  
+**Sharing private media:** 
+
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
+
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
+
+### How can I report violations of this policy? 
+
+**In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
+     
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Desktop**
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+You can report this content for review via desktop as follows:
 
-Hateful Conduct
-===============
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
+
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
+
+### What happens if you violate this policy? 
+
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+
+**Sharing private or live location information:**
+
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
 
 ### Overview 
 
-**April 2023**
+**December 2022**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+**Sharing someone’s private information:**
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+When reviewing reports under this policy, we consider a number of things, including:  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+**Who is sharing the information?**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
+ 
 
-**Dehumanization**
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
+ 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
 
-**Hateful Imagery** 
+**  
+Sharing private media:**
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+### What is in violation of this policy? 
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-**Hateful Profile**
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
+The following behaviors are also not permitted:   
 
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+     
 
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
+### What is not a violation of this policy? 
 
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
+The following are not in violation of this policy:
 
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-### What happens if you violate this policy?  
+**For media, the following are not in violation of our policy:**
 
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
+### Who can report violations of this policy? 
 
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+**Sharing private information:**
+
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
+
+  
+**Sharing private media:** 
+
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
+
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
+
+### How can I report violations of this policy? 
+
+**In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
+     
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Desktop**
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+You can report this content for review via desktop as follows:
 
-Hateful Conduct
-===============
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
+
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
+
+### What happens if you violate this policy? 
+
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+
+**Sharing private or live location information:**
+
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
 
 ### Overview 
 
-**April 2023**
+**December 2022**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+**Sharing someone’s private information:**
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+When reviewing reports under this policy, we consider a number of things, including:  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+**Who is sharing the information?**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
+ 
 
-**Dehumanization**
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
+ 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
 
-**Hateful Imagery** 
+**  
+Sharing private media:**
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+### What is in violation of this policy? 
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-**Hateful Profile**
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
+The following behaviors are also not permitted:   
 
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+     
 
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
+### What is not a violation of this policy? 
 
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
+The following are not in violation of this policy:
 
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-### What happens if you violate this policy?  
+**For media, the following are not in violation of our policy:**
 
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
+### Who can report violations of this policy? 
 
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+**Sharing private information:**
+
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
+
+  
+**Sharing private media:** 
+
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
+
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
+
+### How can I report violations of this policy? 
+
+**In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
+     
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Desktop**
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+You can report this content for review via desktop as follows:
 
-Hateful Conduct
-===============
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
+
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
+
+### What happens if you violate this policy? 
+
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+
+**Sharing private or live location information:**
+
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
 
 ### Overview 
 
-**April 2023**
+**December 2022**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+**Sharing someone’s private information:**
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+When reviewing reports under this policy, we consider a number of things, including:  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+**Who is sharing the information?**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
+ 
 
-**Dehumanization**
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
+ 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
 
-**Hateful Imagery** 
+**  
+Sharing private media:**
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+### What is in violation of this policy? 
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-**Hateful Profile**
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
+The following behaviors are also not permitted:   
 
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+     
 
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
+### What is not a violation of this policy? 
 
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
+The following are not in violation of this policy:
 
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-### What happens if you violate this policy?  
+**For media, the following are not in violation of our policy:**
 
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
+### Who can report violations of this policy? 
 
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+**Sharing private information:**
+
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
+
+  
+**Sharing private media:** 
+
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
+
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
+
+### How can I report violations of this policy? 
+
+**In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
+     
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Desktop**
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+You can report this content for review via desktop as follows:
 
-Hateful Conduct
-===============
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
+
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
+
+### What happens if you violate this policy? 
+
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+
+**Sharing private or live location information:**
+
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
 
 ### Overview 
 
-**April 2023**
+**December 2022**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+**Sharing someone’s private information:**
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+When reviewing reports under this policy, we consider a number of things, including:  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+**Who is sharing the information?**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
+ 
 
-**Dehumanization**
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
+ 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
 
-**Hateful Imagery** 
+**  
+Sharing private media:**
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+### What is in violation of this policy? 
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-**Hateful Profile**
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
+The following behaviors are also not permitted:   
 
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+     
 
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
+### What is not a violation of this policy? 
 
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
+The following are not in violation of this policy:
 
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-### What happens if you violate this policy?  
+**For media, the following are not in violation of our policy:**
 
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
+### Who can report violations of this policy? 
 
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+**Sharing private information:**
+
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
+
+  
+**Sharing private media:** 
+
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
+
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
+
+### How can I report violations of this policy? 
+
+**In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
+     
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Desktop**
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+You can report this content for review via desktop as follows:
 
-Hateful Conduct
-===============
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
+
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
+
+### What happens if you violate this policy? 
+
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+
+**Sharing private or live location information:**
+
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
 
 ### Overview 
 
-**April 2023**
+**December 2022**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+**Sharing someone’s private information:**
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+When reviewing reports under this policy, we consider a number of things, including:  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+**Who is sharing the information?**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
+ 
 
-**Dehumanization**
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
+ 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
 
-**Hateful Imagery** 
+**  
+Sharing private media:**
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+### What is in violation of this policy? 
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-**Hateful Profile**
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
+The following behaviors are also not permitted:   
 
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+     
 
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
+### What is not a violation of this policy? 
 
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
+The following are not in violation of this policy:
 
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-### What happens if you violate this policy?  
+**For media, the following are not in violation of our policy:**
 
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
+### Who can report violations of this policy? 
 
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+**Sharing private information:**
+
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
+
+  
+**Sharing private media:** 
+
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
+
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
+
+### How can I report violations of this policy? 
+
+**In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
+     
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Desktop**
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+You can report this content for review via desktop as follows:
 
-Hateful Conduct
-===============
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
+
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
+
+### What happens if you violate this policy? 
+
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+
+**Sharing private or live location information:**
+
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
 
 ### Overview 
 
-**April 2023**
+**December 2022**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+**Sharing someone’s private information:**
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+When reviewing reports under this policy, we consider a number of things, including:  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+**Who is sharing the information?**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
+ 
 
-**Dehumanization**
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
+ 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
 
-**Hateful Imagery** 
+**  
+Sharing private media:**
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+### What is in violation of this policy? 
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-**Hateful Profile**
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
+The following behaviors are also not permitted:   
 
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+     
 
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
+### What is not a violation of this policy? 
 
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
+The following are not in violation of this policy:
 
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-### What happens if you violate this policy?  
+**For media, the following are not in violation of our policy:**
 
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
+### Who can report violations of this policy? 
 
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+**Sharing private information:**
+
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
+
+  
+**Sharing private media:** 
+
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
+
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
+
+### How can I report violations of this policy? 
+
+**In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
+     
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Desktop**
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+You can report this content for review via desktop as follows:
 
-Hateful Conduct
-===============
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
+
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
+
+### What happens if you violate this policy? 
+
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+
+**Sharing private or live location information:**
+
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
 
 ### Overview 
 
-**April 2023**
+**December 2022**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+**Sharing someone’s private information:**
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+When reviewing reports under this policy, we consider a number of things, including:  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+**Who is sharing the information?**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
+ 
 
-**Dehumanization**
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
+ 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
 
-**Hateful Imagery** 
+**  
+Sharing private media:**
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+### What is in violation of this policy? 
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-**Hateful Profile**
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
+The following behaviors are also not permitted:   
 
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+     
 
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
+### What is not a violation of this policy? 
 
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
+The following are not in violation of this policy:
 
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-### What happens if you violate this policy?  
+**For media, the following are not in violation of our policy:**
 
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
+### Who can report violations of this policy? 
 
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+**Sharing private information:**
+
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
+
+  
+**Sharing private media:** 
+
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
+
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
+
+### How can I report violations of this policy? 
+
+**In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
+     
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Desktop**
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+You can report this content for review via desktop as follows:
 
-Hateful Conduct
-===============
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
+
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
+
+### What happens if you violate this policy? 
+
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+
+**Sharing private or live location information:**
+
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
 
 ### Overview 
 
-**April 2023**
+**December 2022**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+**Sharing someone’s private information:**
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+When reviewing reports under this policy, we consider a number of things, including:  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+**Who is sharing the information?**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
+ 
 
-**Dehumanization**
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
+ 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
 
-**Hateful Imagery** 
+**  
+Sharing private media:**
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+### What is in violation of this policy? 
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-**Hateful Profile**
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
+The following behaviors are also not permitted:   
 
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+     
 
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
+### What is not a violation of this policy? 
 
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
+The following are not in violation of this policy:
 
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-### What happens if you violate this policy?  
+**For media, the following are not in violation of our policy:**
 
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
+### Who can report violations of this policy? 
 
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+**Sharing private information:**
+
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
+
+  
+**Sharing private media:** 
+
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
+
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
+
+### How can I report violations of this policy? 
+
+**In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
+     
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Desktop**
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+You can report this content for review via desktop as follows:
 
-Hateful Conduct
-===============
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
+
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
+
+### What happens if you violate this policy? 
+
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+
+**Sharing private or live location information:**
+
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
 
 ### Overview 
 
-**April 2023**
+**December 2022**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+**Sharing someone’s private information:**
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+When reviewing reports under this policy, we consider a number of things, including:  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+**Who is sharing the information?**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
+ 
 
-**Dehumanization**
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
+ 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
 
-**Hateful Imagery** 
+**  
+Sharing private media:**
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+### What is in violation of this policy? 
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-**Hateful Profile**
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
+The following behaviors are also not permitted:   
 
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+     
 
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
+### What is not a violation of this policy? 
 
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
+The following are not in violation of this policy:
 
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-### What happens if you violate this policy?  
+**For media, the following are not in violation of our policy:**
 
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
+### Who can report violations of this policy? 
 
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+**Sharing private information:**
+
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
+
+  
+**Sharing private media:** 
+
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
+
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
+
+### How can I report violations of this policy? 
+
+**In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
+     
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Desktop**
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+You can report this content for review via desktop as follows:
 
-Hateful Conduct
-===============
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
+
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
+
+### What happens if you violate this policy? 
+
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+
+**Sharing private or live location information:**
+
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
 
 ### Overview 
 
-**April 2023**
+**December 2022**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+**Sharing someone’s private information:**
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+When reviewing reports under this policy, we consider a number of things, including:  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+**Who is sharing the information?**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
+ 
 
-**Dehumanization**
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
+ 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
 
-**Hateful Imagery** 
+**  
+Sharing private media:**
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+### What is in violation of this policy? 
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-**Hateful Profile**
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
+The following behaviors are also not permitted:   
 
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+     
 
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
+### What is not a violation of this policy? 
 
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
+The following are not in violation of this policy:
 
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-### What happens if you violate this policy?  
+**For media, the following are not in violation of our policy:**
 
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
+### Who can report violations of this policy? 
 
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+**Sharing private information:**
+
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
+
+  
+**Sharing private media:** 
+
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
+
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
+
+### How can I report violations of this policy? 
+
+**In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
+     
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Desktop**
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+You can report this content for review via desktop as follows:
 
-Hateful Conduct
-===============
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
+
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
+
+### What happens if you violate this policy? 
+
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+
+**Sharing private or live location information:**
+
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
 
 ### Overview 
 
-**April 2023**
+**December 2022**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+**Sharing someone’s private information:**
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+When reviewing reports under this policy, we consider a number of things, including:  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+**Who is sharing the information?**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
+ 
 
-**Dehumanization**
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
+ 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
 
-**Hateful Imagery** 
+**  
+Sharing private media:**
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+### What is in violation of this policy? 
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-**Hateful Profile**
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
+The following behaviors are also not permitted:   
 
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+     
 
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
+### What is not a violation of this policy? 
 
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
+The following are not in violation of this policy:
 
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-### What happens if you violate this policy?  
+**For media, the following are not in violation of our policy:**
 
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
+### Who can report violations of this policy? 
 
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+**Sharing private information:**
+
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
+
+  
+**Sharing private media:** 
+
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
+
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
+
+### How can I report violations of this policy? 
+
+**In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
+     
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Desktop**
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+You can report this content for review via desktop as follows:
 
-Hateful Conduct
-===============
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
+
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
+
+### What happens if you violate this policy? 
+
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+
+**Sharing private or live location information:**
+
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+
+Private information and media policy
+====================================
 
 ### Overview 
 
-**April 2023**
+**December 2022**
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
+**Sharing someone’s private information:**
 
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
+Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
 
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+When reviewing reports under this policy, we consider a number of things, including:  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**What type of information is being shared?  
+**  
+We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+**Who is sharing the information?**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
+ 
 
-**Dehumanization**
+**Is the information available elsewhere online?  
+**  
+If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
+ 
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+**Why is the information being shared?  
+**  
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
 
-**Hateful Imagery** 
+**  
+Sharing private media:**
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+### What is in violation of this policy? 
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
+Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-**Hateful Profile**
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
+The following behaviors are also not permitted:   
 
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+     
 
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
+### What is not a violation of this policy? 
 
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
+The following are not in violation of this policy:
 
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
+* people sharing their own private information;
+* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
+* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+         
 
-### What happens if you violate this policy?  
+**For media, the following are not in violation of our policy:**
 
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying post text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
+### Who can report violations of this policy? 
 
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
+**Sharing private information:**
+
+Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
+
+  
+**Sharing private media:** 
+
+When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
+
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
+        a.  parents/legal guardians,  
+        b.  lawyers, or  
+        c.  legal representative.
+
+### How can I report violations of this policy? 
+
+**In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
     
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Tap **Submit**.  
+     
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+**Desktop**
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Choose who you're reporting the post for.  
+    
+3. Select **Harassed or intimidated with violence**
+4. Select **Posting my private info**
+5. Identify what private info you're reporting
+6. You can choose to add up to five posts or add any additional context to support your report.
+7. Click **Submit**.
+
+You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
+  
+
+### What happens if you violate this policy? 
+
+  
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+
+**Sharing private or live location information:**
+
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+
+**Sharing private media:** 
+
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
