@@ -31,7 +31,7 @@ This Privacy Policy explains the following:
 
 If you live in a country in the [European Economic Area](https://en.wikipedia.org/wiki/European_Economic_Area) (EEA), the Services are provided by Telegram, which for the purposes of applicable data protection legislation is the data controller responsible for your personal data when you use our Services. However, as Telegram is located outside the EEA, we have designated a third party, European Data Protection Office (EDPO), as our [representative](https://www.smartcertificate.com/SmartCertificate/?1%7c7b72c5ff-fe64-4290-8c35-221528a0c087%7c36fd44f1-9739-4c72-9e47-c41d96436c6d) pursuant to Article 27 of the GDPR. You can direct to EDPO any of your GDPR-related queries:
 
-* by using EDPO’s online request form at [](https://edpo.com/gdpr-data-request/)[https://edpo.com/gdpr-data-request/](https://edpo.com/gdpr-data-request/) or
+* by using EDPO’s online request form at [](https://edpo.com/telegram-gdpr-data-request/)[https://edpo.com/telegram-gdpr-data-request/](https://edpo.com/telegram-gdpr-data-request/) or
 * by writing to EDPO at Avenue Huart Hamoir 71, 1030 Brussels, Belgium.
 
 ### [](#2-legal-ground-for-processing-your-personal-data)2\. Legal Ground for Processing Your Personal Data
