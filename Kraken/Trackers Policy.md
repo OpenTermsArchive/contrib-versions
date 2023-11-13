@@ -20,7 +20,7 @@ To find information relating to other browsers, visit the browser developer's we
 **Advertising**
 ---------------
 
-Enabled
+Disabled
 
 Kraken uses Advertising cookies to place targeted Kraken ads on other sites you visit and measure your engagement with those ads.
 
@@ -29,7 +29,7 @@ View providers
 **Marketing & Analytics**
 -------------------------
 
-Enabled
+Disabled
 
 Marketing & Analytics cookies help us improve the Kraken website by allowing us to analyze how clients interact with our tools and services.
 
