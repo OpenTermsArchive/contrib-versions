@@ -1,2825 +1,1601 @@
-Private information and media policy
-====================================
+Civic integrity policy
+======================
 
-### Overview 
+### Overview
 
-**December 2022**
+### **August 2023**
 
-**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
 
-**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+**What is a civic process?** 
 
-**Sharing someone’s private information:**
+X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
 
-Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
-
-When reviewing reports under this policy, we consider a number of things, including:  
-  
-
-**What type of information is being shared?  
-**  
-We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
-
-**Who is sharing the information?**  
-  
-We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
- 
-
-**Is the information available elsewhere online?  
-**  
-If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
- 
-
-**Why is the information being shared?  
-**  
-We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
-
-**  
-Sharing private media:**
-
-Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
-
-### What is in violation of this policy? 
-
-Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
-
-* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
-* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
-* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
-* contact information, including non-public personal phone numbers or email addresses; 
-* financial account information, including bank account and credit card details;
-* other private information, including biometric data or medical records;
-* media of private individuals without the permission of the person(s) depicted; and
-* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
-
-The following behaviors are also not permitted:   
-
-* threatening to publicly expose someone’s private information;
-* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
-* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
-* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+* Political elections
+* Censuses 
+* Major referenda and ballot initiatives   
      
 
-### What is not a violation of this policy? 
+**What is in violation of this policy?**
 
-The following are not in violation of this policy:
+This policy addresses 4 categories of misleading behavior and content: 
 
-* people sharing their own private information;
-* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
-* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
-* sharing information that we don’t consider to be private, including:
-    * name;
-    * birthdate or age;
-    * place of education or employment;
-    * location information related to commercial property or places of business, where this information is publicly available;
-    * descriptions of physical appearance;
-    * gossip, rumours, accusations, and allegations; and
-    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
-         
+**Misleading information about how to participate**
 
-**For media, the following are not in violation of our policy:**
+You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
 
-* the media is publicly available or is being covered by mainstream media;
-* the media and the accompanying post text add value to the public discourse or are shared in public interest;
-* contains eyewitness accounts or on the ground reports from developing events; 
-* the subject of the media is a public figure. 
+* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
+* misleading information about requirements for participation, including identification or citizenship requirements;
+* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
+* misleading statements or information about the official, announced date or time of a civic process.
 
-### Who can report violations of this policy? 
+**Suppression**
 
-**Sharing private information:**
+You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
 
-Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
-
-  
-**Sharing private media:** 
-
-When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
-
-1. Individuals depicted in the reported media or
-2. Their authorized representative such as:  
-        a.  parents/legal guardians,  
-        b.  lawyers, or  
-        c.  legal representative.
-
-### How can I report violations of this policy? 
-
-**In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Tap **Submit**.  
+* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+    
+* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+    
+
+**Intimidation**
+
+You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+
+* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+    
+* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+    
+* inciting others to harass voters or poll workers;
+    
+* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
+    
+* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+
+**False or misleading affiliation**
+
+You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+
+**What is not a violation of this policy?**
+
+Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
+
+* inaccurate statements about an elected or appointed official, candidate, or political party; 
+    
+* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
+    
+* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
+    
+* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
+
+**What happens if you violate this policy?**
+
+Posts that are enforced under this policy will have their reach restricted on X by:   
+
+* Excluding the post from search results, trends, and recommended notifications
+    
+* Removing the post from the For you and Following timelines
+    
+* Restricting the post's discoverability to the author’s profile
+    
+* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
+    
+* Downranking the Post in replies 
+    
+
+Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+
+Civic integrity policy
+======================
+
+### Overview
+
+### **August 2023**
+
+**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+
+**What is a civic process?** 
+
+X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+
+* Political elections
+* Censuses 
+* Major referenda and ballot initiatives   
      
 
-**Desktop**
+**What is in violation of this policy?**
 
-You can report this content for review via desktop as follows:
+This policy addresses 4 categories of misleading behavior and content: 
 
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+**Misleading information about how to participate**
+
+You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
+
+* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
+* misleading information about requirements for participation, including identification or citizenship requirements;
+* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
+* misleading statements or information about the official, announced date or time of a civic process.
+
+**Suppression**
+
+You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
+
+* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Click **Submit**.
+* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+    
+* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+    
 
-You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
-  
+**Intimidation**
 
-### What happens if you violate this policy? 
+You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
 
-  
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+    
+* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+    
+* inciting others to harass voters or poll workers;
+    
+* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
+    
+* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
 
-**Sharing private or live location information:**
+**False or misleading affiliation**
 
-* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
-* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
 
-**Sharing private media:** 
+**What is not a violation of this policy?**
 
-* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
 
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+* inaccurate statements about an elected or appointed official, candidate, or political party; 
+    
+* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
+    
+* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
+    
+* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
 
-### Additional resources 
+**What happens if you violate this policy?**
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+Posts that are enforced under this policy will have their reach restricted on X by:   
 
-The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+* Excluding the post from search results, trends, and recommended notifications
+    
+* Removing the post from the For you and Following timelines
+    
+* Restricting the post's discoverability to the author’s profile
+    
+* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
+    
+* Downranking the Post in replies 
+    
 
-Private information and media policy
-====================================
+Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### Overview 
+Civic integrity policy
+======================
 
-**December 2022**
+### Overview
 
-**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+### **August 2023**
 
-**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
 
-**Sharing someone’s private information:**
+**What is a civic process?** 
 
-Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
 
-When reviewing reports under this policy, we consider a number of things, including:  
-  
-
-**What type of information is being shared?  
-**  
-We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
-
-**Who is sharing the information?**  
-  
-We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
- 
-
-**Is the information available elsewhere online?  
-**  
-If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
- 
-
-**Why is the information being shared?  
-**  
-We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
-
-**  
-Sharing private media:**
-
-Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
-
-### What is in violation of this policy? 
-
-Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
-
-* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
-* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
-* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
-* contact information, including non-public personal phone numbers or email addresses; 
-* financial account information, including bank account and credit card details;
-* other private information, including biometric data or medical records;
-* media of private individuals without the permission of the person(s) depicted; and
-* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
-
-The following behaviors are also not permitted:   
-
-* threatening to publicly expose someone’s private information;
-* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
-* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
-* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+* Political elections
+* Censuses 
+* Major referenda and ballot initiatives   
      
 
-### What is not a violation of this policy? 
+**What is in violation of this policy?**
 
-The following are not in violation of this policy:
+This policy addresses 4 categories of misleading behavior and content: 
 
-* people sharing their own private information;
-* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
-* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
-* sharing information that we don’t consider to be private, including:
-    * name;
-    * birthdate or age;
-    * place of education or employment;
-    * location information related to commercial property or places of business, where this information is publicly available;
-    * descriptions of physical appearance;
-    * gossip, rumours, accusations, and allegations; and
-    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
-         
+**Misleading information about how to participate**
 
-**For media, the following are not in violation of our policy:**
+You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
 
-* the media is publicly available or is being covered by mainstream media;
-* the media and the accompanying post text add value to the public discourse or are shared in public interest;
-* contains eyewitness accounts or on the ground reports from developing events; 
-* the subject of the media is a public figure. 
+* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
+* misleading information about requirements for participation, including identification or citizenship requirements;
+* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
+* misleading statements or information about the official, announced date or time of a civic process.
 
-### Who can report violations of this policy? 
+**Suppression**
 
-**Sharing private information:**
+You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
 
-Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
-
-  
-**Sharing private media:** 
-
-When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
-
-1. Individuals depicted in the reported media or
-2. Their authorized representative such as:  
-        a.  parents/legal guardians,  
-        b.  lawyers, or  
-        c.  legal representative.
-
-### How can I report violations of this policy? 
-
-**In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Tap **Submit**.  
+* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+    
+* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+    
+
+**Intimidation**
+
+You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+
+* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+    
+* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+    
+* inciting others to harass voters or poll workers;
+    
+* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
+    
+* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+
+**False or misleading affiliation**
+
+You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+
+**What is not a violation of this policy?**
+
+Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
+
+* inaccurate statements about an elected or appointed official, candidate, or political party; 
+    
+* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
+    
+* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
+    
+* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
+
+**What happens if you violate this policy?**
+
+Posts that are enforced under this policy will have their reach restricted on X by:   
+
+* Excluding the post from search results, trends, and recommended notifications
+    
+* Removing the post from the For you and Following timelines
+    
+* Restricting the post's discoverability to the author’s profile
+    
+* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
+    
+* Downranking the Post in replies 
+    
+
+Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+
+Civic integrity policy
+======================
+
+### Overview
+
+### **August 2023**
+
+**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+
+**What is a civic process?** 
+
+X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+
+* Political elections
+* Censuses 
+* Major referenda and ballot initiatives   
      
 
-**Desktop**
+**What is in violation of this policy?**
 
-You can report this content for review via desktop as follows:
+This policy addresses 4 categories of misleading behavior and content: 
 
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+**Misleading information about how to participate**
+
+You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
+
+* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
+* misleading information about requirements for participation, including identification or citizenship requirements;
+* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
+* misleading statements or information about the official, announced date or time of a civic process.
+
+**Suppression**
+
+You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
+
+* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Click **Submit**.
+* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+    
+* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+    
 
-You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
-  
+**Intimidation**
 
-### What happens if you violate this policy? 
+You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
 
-  
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+    
+* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+    
+* inciting others to harass voters or poll workers;
+    
+* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
+    
+* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
 
-**Sharing private or live location information:**
+**False or misleading affiliation**
 
-* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
-* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
 
-**Sharing private media:** 
+**What is not a violation of this policy?**
 
-* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
 
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+* inaccurate statements about an elected or appointed official, candidate, or political party; 
+    
+* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
+    
+* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
+    
+* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
 
-### Additional resources 
+**What happens if you violate this policy?**
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+Posts that are enforced under this policy will have their reach restricted on X by:   
 
-The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+* Excluding the post from search results, trends, and recommended notifications
+    
+* Removing the post from the For you and Following timelines
+    
+* Restricting the post's discoverability to the author’s profile
+    
+* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
+    
+* Downranking the Post in replies 
+    
 
-Private information and media policy
-====================================
+Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### Overview 
+Civic integrity policy
+======================
 
-**December 2022**
+### Overview
 
-**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+### **August 2023**
 
-**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
 
-**Sharing someone’s private information:**
+**What is a civic process?** 
 
-Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
 
-When reviewing reports under this policy, we consider a number of things, including:  
-  
-
-**What type of information is being shared?  
-**  
-We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
-
-**Who is sharing the information?**  
-  
-We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
- 
-
-**Is the information available elsewhere online?  
-**  
-If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
- 
-
-**Why is the information being shared?  
-**  
-We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
-
-**  
-Sharing private media:**
-
-Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
-
-### What is in violation of this policy? 
-
-Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
-
-* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
-* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
-* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
-* contact information, including non-public personal phone numbers or email addresses; 
-* financial account information, including bank account and credit card details;
-* other private information, including biometric data or medical records;
-* media of private individuals without the permission of the person(s) depicted; and
-* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
-
-The following behaviors are also not permitted:   
-
-* threatening to publicly expose someone’s private information;
-* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
-* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
-* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+* Political elections
+* Censuses 
+* Major referenda and ballot initiatives   
      
 
-### What is not a violation of this policy? 
+**What is in violation of this policy?**
 
-The following are not in violation of this policy:
+This policy addresses 4 categories of misleading behavior and content: 
 
-* people sharing their own private information;
-* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
-* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
-* sharing information that we don’t consider to be private, including:
-    * name;
-    * birthdate or age;
-    * place of education or employment;
-    * location information related to commercial property or places of business, where this information is publicly available;
-    * descriptions of physical appearance;
-    * gossip, rumours, accusations, and allegations; and
-    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
-         
+**Misleading information about how to participate**
 
-**For media, the following are not in violation of our policy:**
+You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
 
-* the media is publicly available or is being covered by mainstream media;
-* the media and the accompanying post text add value to the public discourse or are shared in public interest;
-* contains eyewitness accounts or on the ground reports from developing events; 
-* the subject of the media is a public figure. 
+* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
+* misleading information about requirements for participation, including identification or citizenship requirements;
+* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
+* misleading statements or information about the official, announced date or time of a civic process.
 
-### Who can report violations of this policy? 
+**Suppression**
 
-**Sharing private information:**
+You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
 
-Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
-
-  
-**Sharing private media:** 
-
-When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
-
-1. Individuals depicted in the reported media or
-2. Their authorized representative such as:  
-        a.  parents/legal guardians,  
-        b.  lawyers, or  
-        c.  legal representative.
-
-### How can I report violations of this policy? 
-
-**In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Tap **Submit**.  
+* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+    
+* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+    
+
+**Intimidation**
+
+You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+
+* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+    
+* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+    
+* inciting others to harass voters or poll workers;
+    
+* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
+    
+* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+
+**False or misleading affiliation**
+
+You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+
+**What is not a violation of this policy?**
+
+Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
+
+* inaccurate statements about an elected or appointed official, candidate, or political party; 
+    
+* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
+    
+* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
+    
+* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
+
+**What happens if you violate this policy?**
+
+Posts that are enforced under this policy will have their reach restricted on X by:   
+
+* Excluding the post from search results, trends, and recommended notifications
+    
+* Removing the post from the For you and Following timelines
+    
+* Restricting the post's discoverability to the author’s profile
+    
+* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
+    
+* Downranking the Post in replies 
+    
+
+Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+
+Civic integrity policy
+======================
+
+### Overview
+
+### **August 2023**
+
+**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+
+**What is a civic process?** 
+
+X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+
+* Political elections
+* Censuses 
+* Major referenda and ballot initiatives   
      
 
-**Desktop**
+**What is in violation of this policy?**
 
-You can report this content for review via desktop as follows:
+This policy addresses 4 categories of misleading behavior and content: 
 
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+**Misleading information about how to participate**
+
+You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
+
+* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
+* misleading information about requirements for participation, including identification or citizenship requirements;
+* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
+* misleading statements or information about the official, announced date or time of a civic process.
+
+**Suppression**
+
+You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
+
+* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Click **Submit**.
+* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+    
+* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+    
 
-You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
-  
+**Intimidation**
 
-### What happens if you violate this policy? 
+You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
 
-  
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+    
+* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+    
+* inciting others to harass voters or poll workers;
+    
+* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
+    
+* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
 
-**Sharing private or live location information:**
+**False or misleading affiliation**
 
-* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
-* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
 
-**Sharing private media:** 
+**What is not a violation of this policy?**
 
-* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
 
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+* inaccurate statements about an elected or appointed official, candidate, or political party; 
+    
+* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
+    
+* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
+    
+* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
 
-### Additional resources 
+**What happens if you violate this policy?**
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+Posts that are enforced under this policy will have their reach restricted on X by:   
 
-The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+* Excluding the post from search results, trends, and recommended notifications
+    
+* Removing the post from the For you and Following timelines
+    
+* Restricting the post's discoverability to the author’s profile
+    
+* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
+    
+* Downranking the Post in replies 
+    
 
-Private information and media policy
-====================================
+Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### Overview 
+Civic integrity policy
+======================
 
-**December 2022**
+### Overview
 
-**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+### **August 2023**
 
-**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
 
-**Sharing someone’s private information:**
+**What is a civic process?** 
 
-Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
 
-When reviewing reports under this policy, we consider a number of things, including:  
-  
-
-**What type of information is being shared?  
-**  
-We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
-
-**Who is sharing the information?**  
-  
-We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
- 
-
-**Is the information available elsewhere online?  
-**  
-If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
- 
-
-**Why is the information being shared?  
-**  
-We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
-
-**  
-Sharing private media:**
-
-Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
-
-### What is in violation of this policy? 
-
-Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
-
-* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
-* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
-* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
-* contact information, including non-public personal phone numbers or email addresses; 
-* financial account information, including bank account and credit card details;
-* other private information, including biometric data or medical records;
-* media of private individuals without the permission of the person(s) depicted; and
-* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
-
-The following behaviors are also not permitted:   
-
-* threatening to publicly expose someone’s private information;
-* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
-* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
-* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+* Political elections
+* Censuses 
+* Major referenda and ballot initiatives   
      
 
-### What is not a violation of this policy? 
+**What is in violation of this policy?**
 
-The following are not in violation of this policy:
+This policy addresses 4 categories of misleading behavior and content: 
 
-* people sharing their own private information;
-* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
-* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
-* sharing information that we don’t consider to be private, including:
-    * name;
-    * birthdate or age;
-    * place of education or employment;
-    * location information related to commercial property or places of business, where this information is publicly available;
-    * descriptions of physical appearance;
-    * gossip, rumours, accusations, and allegations; and
-    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
-         
+**Misleading information about how to participate**
 
-**For media, the following are not in violation of our policy:**
+You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
 
-* the media is publicly available or is being covered by mainstream media;
-* the media and the accompanying post text add value to the public discourse or are shared in public interest;
-* contains eyewitness accounts or on the ground reports from developing events; 
-* the subject of the media is a public figure. 
+* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
+* misleading information about requirements for participation, including identification or citizenship requirements;
+* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
+* misleading statements or information about the official, announced date or time of a civic process.
 
-### Who can report violations of this policy? 
+**Suppression**
 
-**Sharing private information:**
+You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
 
-Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
-
-  
-**Sharing private media:** 
-
-When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
-
-1. Individuals depicted in the reported media or
-2. Their authorized representative such as:  
-        a.  parents/legal guardians,  
-        b.  lawyers, or  
-        c.  legal representative.
-
-### How can I report violations of this policy? 
-
-**In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Tap **Submit**.  
+* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+    
+* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+    
+
+**Intimidation**
+
+You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+
+* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+    
+* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+    
+* inciting others to harass voters or poll workers;
+    
+* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
+    
+* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+
+**False or misleading affiliation**
+
+You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+
+**What is not a violation of this policy?**
+
+Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
+
+* inaccurate statements about an elected or appointed official, candidate, or political party; 
+    
+* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
+    
+* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
+    
+* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
+
+**What happens if you violate this policy?**
+
+Posts that are enforced under this policy will have their reach restricted on X by:   
+
+* Excluding the post from search results, trends, and recommended notifications
+    
+* Removing the post from the For you and Following timelines
+    
+* Restricting the post's discoverability to the author’s profile
+    
+* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
+    
+* Downranking the Post in replies 
+    
+
+Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+
+Civic integrity policy
+======================
+
+### Overview
+
+### **August 2023**
+
+**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+
+**What is a civic process?** 
+
+X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+
+* Political elections
+* Censuses 
+* Major referenda and ballot initiatives   
      
 
-**Desktop**
+**What is in violation of this policy?**
 
-You can report this content for review via desktop as follows:
+This policy addresses 4 categories of misleading behavior and content: 
 
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+**Misleading information about how to participate**
+
+You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
+
+* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
+* misleading information about requirements for participation, including identification or citizenship requirements;
+* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
+* misleading statements or information about the official, announced date or time of a civic process.
+
+**Suppression**
+
+You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
+
+* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Click **Submit**.
+* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+    
+* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+    
 
-You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
-  
+**Intimidation**
 
-### What happens if you violate this policy? 
+You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
 
-  
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+    
+* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+    
+* inciting others to harass voters or poll workers;
+    
+* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
+    
+* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
 
-**Sharing private or live location information:**
+**False or misleading affiliation**
 
-* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
-* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
 
-**Sharing private media:** 
+**What is not a violation of this policy?**
 
-* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
 
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+* inaccurate statements about an elected or appointed official, candidate, or political party; 
+    
+* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
+    
+* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
+    
+* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
 
-### Additional resources 
+**What happens if you violate this policy?**
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+Posts that are enforced under this policy will have their reach restricted on X by:   
 
-The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+* Excluding the post from search results, trends, and recommended notifications
+    
+* Removing the post from the For you and Following timelines
+    
+* Restricting the post's discoverability to the author’s profile
+    
+* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
+    
+* Downranking the Post in replies 
+    
 
-Private information and media policy
-====================================
+Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### Overview 
+Civic integrity policy
+======================
 
-**December 2022**
+### Overview
 
-**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+### **August 2023**
 
-**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
 
-**Sharing someone’s private information:**
+**What is a civic process?** 
 
-Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
 
-When reviewing reports under this policy, we consider a number of things, including:  
-  
-
-**What type of information is being shared?  
-**  
-We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
-
-**Who is sharing the information?**  
-  
-We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
- 
-
-**Is the information available elsewhere online?  
-**  
-If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
- 
-
-**Why is the information being shared?  
-**  
-We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
-
-**  
-Sharing private media:**
-
-Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
-
-### What is in violation of this policy? 
-
-Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
-
-* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
-* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
-* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
-* contact information, including non-public personal phone numbers or email addresses; 
-* financial account information, including bank account and credit card details;
-* other private information, including biometric data or medical records;
-* media of private individuals without the permission of the person(s) depicted; and
-* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
-
-The following behaviors are also not permitted:   
-
-* threatening to publicly expose someone’s private information;
-* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
-* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
-* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+* Political elections
+* Censuses 
+* Major referenda and ballot initiatives   
      
 
-### What is not a violation of this policy? 
+**What is in violation of this policy?**
 
-The following are not in violation of this policy:
+This policy addresses 4 categories of misleading behavior and content: 
 
-* people sharing their own private information;
-* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
-* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
-* sharing information that we don’t consider to be private, including:
-    * name;
-    * birthdate or age;
-    * place of education or employment;
-    * location information related to commercial property or places of business, where this information is publicly available;
-    * descriptions of physical appearance;
-    * gossip, rumours, accusations, and allegations; and
-    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
-         
+**Misleading information about how to participate**
 
-**For media, the following are not in violation of our policy:**
+You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
 
-* the media is publicly available or is being covered by mainstream media;
-* the media and the accompanying post text add value to the public discourse or are shared in public interest;
-* contains eyewitness accounts or on the ground reports from developing events; 
-* the subject of the media is a public figure. 
+* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
+* misleading information about requirements for participation, including identification or citizenship requirements;
+* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
+* misleading statements or information about the official, announced date or time of a civic process.
 
-### Who can report violations of this policy? 
+**Suppression**
 
-**Sharing private information:**
+You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
 
-Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
-
-  
-**Sharing private media:** 
-
-When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
-
-1. Individuals depicted in the reported media or
-2. Their authorized representative such as:  
-        a.  parents/legal guardians,  
-        b.  lawyers, or  
-        c.  legal representative.
-
-### How can I report violations of this policy? 
-
-**In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Tap **Submit**.  
+* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+    
+* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+    
+
+**Intimidation**
+
+You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+
+* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+    
+* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+    
+* inciting others to harass voters or poll workers;
+    
+* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
+    
+* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+
+**False or misleading affiliation**
+
+You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+
+**What is not a violation of this policy?**
+
+Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
+
+* inaccurate statements about an elected or appointed official, candidate, or political party; 
+    
+* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
+    
+* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
+    
+* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
+
+**What happens if you violate this policy?**
+
+Posts that are enforced under this policy will have their reach restricted on X by:   
+
+* Excluding the post from search results, trends, and recommended notifications
+    
+* Removing the post from the For you and Following timelines
+    
+* Restricting the post's discoverability to the author’s profile
+    
+* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
+    
+* Downranking the Post in replies 
+    
+
+Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+
+Civic integrity policy
+======================
+
+### Overview
+
+### **August 2023**
+
+**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+
+**What is a civic process?** 
+
+X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+
+* Political elections
+* Censuses 
+* Major referenda and ballot initiatives   
      
 
-**Desktop**
+**What is in violation of this policy?**
 
-You can report this content for review via desktop as follows:
+This policy addresses 4 categories of misleading behavior and content: 
 
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+**Misleading information about how to participate**
+
+You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
+
+* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
+* misleading information about requirements for participation, including identification or citizenship requirements;
+* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
+* misleading statements or information about the official, announced date or time of a civic process.
+
+**Suppression**
+
+You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
+
+* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Click **Submit**.
+* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+    
+* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+    
 
-You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
-  
+**Intimidation**
 
-### What happens if you violate this policy? 
+You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
 
-  
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+    
+* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+    
+* inciting others to harass voters or poll workers;
+    
+* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
+    
+* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
 
-**Sharing private or live location information:**
+**False or misleading affiliation**
 
-* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
-* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
 
-**Sharing private media:** 
+**What is not a violation of this policy?**
 
-* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
 
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+* inaccurate statements about an elected or appointed official, candidate, or political party; 
+    
+* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
+    
+* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
+    
+* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
 
-### Additional resources 
+**What happens if you violate this policy?**
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+Posts that are enforced under this policy will have their reach restricted on X by:   
 
-The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+* Excluding the post from search results, trends, and recommended notifications
+    
+* Removing the post from the For you and Following timelines
+    
+* Restricting the post's discoverability to the author’s profile
+    
+* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
+    
+* Downranking the Post in replies 
+    
 
-Private information and media policy
-====================================
+Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### Overview 
+Civic integrity policy
+======================
 
-**December 2022**
+### Overview
 
-**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+### **August 2023**
 
-**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
 
-**Sharing someone’s private information:**
+**What is a civic process?** 
 
-Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
 
-When reviewing reports under this policy, we consider a number of things, including:  
-  
-
-**What type of information is being shared?  
-**  
-We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
-
-**Who is sharing the information?**  
-  
-We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
- 
-
-**Is the information available elsewhere online?  
-**  
-If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
- 
-
-**Why is the information being shared?  
-**  
-We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
-
-**  
-Sharing private media:**
-
-Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
-
-### What is in violation of this policy? 
-
-Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
-
-* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
-* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
-* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
-* contact information, including non-public personal phone numbers or email addresses; 
-* financial account information, including bank account and credit card details;
-* other private information, including biometric data or medical records;
-* media of private individuals without the permission of the person(s) depicted; and
-* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
-
-The following behaviors are also not permitted:   
-
-* threatening to publicly expose someone’s private information;
-* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
-* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
-* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+* Political elections
+* Censuses 
+* Major referenda and ballot initiatives   
      
 
-### What is not a violation of this policy? 
+**What is in violation of this policy?**
 
-The following are not in violation of this policy:
+This policy addresses 4 categories of misleading behavior and content: 
 
-* people sharing their own private information;
-* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
-* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
-* sharing information that we don’t consider to be private, including:
-    * name;
-    * birthdate or age;
-    * place of education or employment;
-    * location information related to commercial property or places of business, where this information is publicly available;
-    * descriptions of physical appearance;
-    * gossip, rumours, accusations, and allegations; and
-    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
-         
+**Misleading information about how to participate**
 
-**For media, the following are not in violation of our policy:**
+You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
 
-* the media is publicly available or is being covered by mainstream media;
-* the media and the accompanying post text add value to the public discourse or are shared in public interest;
-* contains eyewitness accounts or on the ground reports from developing events; 
-* the subject of the media is a public figure. 
+* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
+* misleading information about requirements for participation, including identification or citizenship requirements;
+* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
+* misleading statements or information about the official, announced date or time of a civic process.
 
-### Who can report violations of this policy? 
+**Suppression**
 
-**Sharing private information:**
+You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
 
-Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
-
-  
-**Sharing private media:** 
-
-When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
-
-1. Individuals depicted in the reported media or
-2. Their authorized representative such as:  
-        a.  parents/legal guardians,  
-        b.  lawyers, or  
-        c.  legal representative.
-
-### How can I report violations of this policy? 
-
-**In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Tap **Submit**.  
+* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+    
+* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+    
+
+**Intimidation**
+
+You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+
+* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+    
+* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+    
+* inciting others to harass voters or poll workers;
+    
+* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
+    
+* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+
+**False or misleading affiliation**
+
+You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+
+**What is not a violation of this policy?**
+
+Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
+
+* inaccurate statements about an elected or appointed official, candidate, or political party; 
+    
+* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
+    
+* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
+    
+* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
+
+**What happens if you violate this policy?**
+
+Posts that are enforced under this policy will have their reach restricted on X by:   
+
+* Excluding the post from search results, trends, and recommended notifications
+    
+* Removing the post from the For you and Following timelines
+    
+* Restricting the post's discoverability to the author’s profile
+    
+* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
+    
+* Downranking the Post in replies 
+    
+
+Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+
+Civic integrity policy
+======================
+
+### Overview
+
+### **August 2023**
+
+**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+
+**What is a civic process?** 
+
+X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+
+* Political elections
+* Censuses 
+* Major referenda and ballot initiatives   
      
 
-**Desktop**
+**What is in violation of this policy?**
 
-You can report this content for review via desktop as follows:
+This policy addresses 4 categories of misleading behavior and content: 
 
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+**Misleading information about how to participate**
+
+You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
+
+* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
+* misleading information about requirements for participation, including identification or citizenship requirements;
+* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
+* misleading statements or information about the official, announced date or time of a civic process.
+
+**Suppression**
+
+You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
+
+* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Click **Submit**.
+* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+    
+* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+    
 
-You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
-  
+**Intimidation**
 
-### What happens if you violate this policy? 
+You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
 
-  
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+    
+* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+    
+* inciting others to harass voters or poll workers;
+    
+* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
+    
+* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
 
-**Sharing private or live location information:**
+**False or misleading affiliation**
 
-* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
-* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
 
-**Sharing private media:** 
+**What is not a violation of this policy?**
 
-* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
 
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+* inaccurate statements about an elected or appointed official, candidate, or political party; 
+    
+* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
+    
+* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
+    
+* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
 
-### Additional resources 
+**What happens if you violate this policy?**
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+Posts that are enforced under this policy will have their reach restricted on X by:   
 
-The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+* Excluding the post from search results, trends, and recommended notifications
+    
+* Removing the post from the For you and Following timelines
+    
+* Restricting the post's discoverability to the author’s profile
+    
+* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
+    
+* Downranking the Post in replies 
+    
 
-Private information and media policy
-====================================
+Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### Overview 
+Civic integrity policy
+======================
 
-**December 2022**
+### Overview
 
-**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+### **August 2023**
 
-**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
 
-**Sharing someone’s private information:**
+**What is a civic process?** 
 
-Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
 
-When reviewing reports under this policy, we consider a number of things, including:  
-  
-
-**What type of information is being shared?  
-**  
-We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
-
-**Who is sharing the information?**  
-  
-We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
- 
-
-**Is the information available elsewhere online?  
-**  
-If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
- 
-
-**Why is the information being shared?  
-**  
-We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
-
-**  
-Sharing private media:**
-
-Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
-
-### What is in violation of this policy? 
-
-Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
-
-* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
-* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
-* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
-* contact information, including non-public personal phone numbers or email addresses; 
-* financial account information, including bank account and credit card details;
-* other private information, including biometric data or medical records;
-* media of private individuals without the permission of the person(s) depicted; and
-* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
-
-The following behaviors are also not permitted:   
-
-* threatening to publicly expose someone’s private information;
-* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
-* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
-* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+* Political elections
+* Censuses 
+* Major referenda and ballot initiatives   
      
 
-### What is not a violation of this policy? 
+**What is in violation of this policy?**
 
-The following are not in violation of this policy:
+This policy addresses 4 categories of misleading behavior and content: 
 
-* people sharing their own private information;
-* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
-* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
-* sharing information that we don’t consider to be private, including:
-    * name;
-    * birthdate or age;
-    * place of education or employment;
-    * location information related to commercial property or places of business, where this information is publicly available;
-    * descriptions of physical appearance;
-    * gossip, rumours, accusations, and allegations; and
-    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
-         
+**Misleading information about how to participate**
 
-**For media, the following are not in violation of our policy:**
+You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
 
-* the media is publicly available or is being covered by mainstream media;
-* the media and the accompanying post text add value to the public discourse or are shared in public interest;
-* contains eyewitness accounts or on the ground reports from developing events; 
-* the subject of the media is a public figure. 
+* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
+* misleading information about requirements for participation, including identification or citizenship requirements;
+* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
+* misleading statements or information about the official, announced date or time of a civic process.
 
-### Who can report violations of this policy? 
+**Suppression**
 
-**Sharing private information:**
+You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
 
-Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
-
-  
-**Sharing private media:** 
-
-When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
-
-1. Individuals depicted in the reported media or
-2. Their authorized representative such as:  
-        a.  parents/legal guardians,  
-        b.  lawyers, or  
-        c.  legal representative.
-
-### How can I report violations of this policy? 
-
-**In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Tap **Submit**.  
+* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+    
+* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+    
+
+**Intimidation**
+
+You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+
+* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+    
+* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+    
+* inciting others to harass voters or poll workers;
+    
+* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
+    
+* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+
+**False or misleading affiliation**
+
+You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+
+**What is not a violation of this policy?**
+
+Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
+
+* inaccurate statements about an elected or appointed official, candidate, or political party; 
+    
+* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
+    
+* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
+    
+* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
+
+**What happens if you violate this policy?**
+
+Posts that are enforced under this policy will have their reach restricted on X by:   
+
+* Excluding the post from search results, trends, and recommended notifications
+    
+* Removing the post from the For you and Following timelines
+    
+* Restricting the post's discoverability to the author’s profile
+    
+* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
+    
+* Downranking the Post in replies 
+    
+
+Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+
+Civic integrity policy
+======================
+
+### Overview
+
+### **August 2023**
+
+**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+
+**What is a civic process?** 
+
+X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+
+* Political elections
+* Censuses 
+* Major referenda and ballot initiatives   
      
 
-**Desktop**
+**What is in violation of this policy?**
 
-You can report this content for review via desktop as follows:
+This policy addresses 4 categories of misleading behavior and content: 
 
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+**Misleading information about how to participate**
+
+You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
+
+* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
+* misleading information about requirements for participation, including identification or citizenship requirements;
+* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
+* misleading statements or information about the official, announced date or time of a civic process.
+
+**Suppression**
+
+You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
+
+* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Click **Submit**.
+* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+    
+* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+    
 
-You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
-  
+**Intimidation**
 
-### What happens if you violate this policy? 
+You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
 
-  
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+    
+* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+    
+* inciting others to harass voters or poll workers;
+    
+* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
+    
+* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
 
-**Sharing private or live location information:**
+**False or misleading affiliation**
 
-* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
-* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
 
-**Sharing private media:** 
+**What is not a violation of this policy?**
 
-* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
 
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+* inaccurate statements about an elected or appointed official, candidate, or political party; 
+    
+* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
+    
+* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
+    
+* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
 
-### Additional resources 
+**What happens if you violate this policy?**
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+Posts that are enforced under this policy will have their reach restricted on X by:   
 
-The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+* Excluding the post from search results, trends, and recommended notifications
+    
+* Removing the post from the For you and Following timelines
+    
+* Restricting the post's discoverability to the author’s profile
+    
+* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
+    
+* Downranking the Post in replies 
+    
 
-Private information and media policy
-====================================
+Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### Overview 
+Civic integrity policy
+======================
 
-**December 2022**
+### Overview
 
-**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+### **August 2023**
 
-**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
 
-**Sharing someone’s private information:**
+**What is a civic process?** 
 
-Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
 
-When reviewing reports under this policy, we consider a number of things, including:  
-  
-
-**What type of information is being shared?  
-**  
-We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
-
-**Who is sharing the information?**  
-  
-We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
- 
-
-**Is the information available elsewhere online?  
-**  
-If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
- 
-
-**Why is the information being shared?  
-**  
-We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
-
-**  
-Sharing private media:**
-
-Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
-
-### What is in violation of this policy? 
-
-Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
-
-* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
-* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
-* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
-* contact information, including non-public personal phone numbers or email addresses; 
-* financial account information, including bank account and credit card details;
-* other private information, including biometric data or medical records;
-* media of private individuals without the permission of the person(s) depicted; and
-* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
-
-The following behaviors are also not permitted:   
-
-* threatening to publicly expose someone’s private information;
-* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
-* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
-* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+* Political elections
+* Censuses 
+* Major referenda and ballot initiatives   
      
 
-### What is not a violation of this policy? 
+**What is in violation of this policy?**
 
-The following are not in violation of this policy:
+This policy addresses 4 categories of misleading behavior and content: 
 
-* people sharing their own private information;
-* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
-* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
-* sharing information that we don’t consider to be private, including:
-    * name;
-    * birthdate or age;
-    * place of education or employment;
-    * location information related to commercial property or places of business, where this information is publicly available;
-    * descriptions of physical appearance;
-    * gossip, rumours, accusations, and allegations; and
-    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
-         
+**Misleading information about how to participate**
 
-**For media, the following are not in violation of our policy:**
+You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
 
-* the media is publicly available or is being covered by mainstream media;
-* the media and the accompanying post text add value to the public discourse or are shared in public interest;
-* contains eyewitness accounts or on the ground reports from developing events; 
-* the subject of the media is a public figure. 
+* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
+* misleading information about requirements for participation, including identification or citizenship requirements;
+* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
+* misleading statements or information about the official, announced date or time of a civic process.
 
-### Who can report violations of this policy? 
+**Suppression**
 
-**Sharing private information:**
+You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
 
-Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
-
-  
-**Sharing private media:** 
-
-When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
-
-1. Individuals depicted in the reported media or
-2. Their authorized representative such as:  
-        a.  parents/legal guardians,  
-        b.  lawyers, or  
-        c.  legal representative.
-
-### How can I report violations of this policy? 
-
-**In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Tap **Submit**.  
+* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+    
+* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+    
+
+**Intimidation**
+
+You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+
+* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+    
+* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+    
+* inciting others to harass voters or poll workers;
+    
+* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
+    
+* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+
+**False or misleading affiliation**
+
+You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+
+**What is not a violation of this policy?**
+
+Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
+
+* inaccurate statements about an elected or appointed official, candidate, or political party; 
+    
+* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
+    
+* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
+    
+* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
+
+**What happens if you violate this policy?**
+
+Posts that are enforced under this policy will have their reach restricted on X by:   
+
+* Excluding the post from search results, trends, and recommended notifications
+    
+* Removing the post from the For you and Following timelines
+    
+* Restricting the post's discoverability to the author’s profile
+    
+* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
+    
+* Downranking the Post in replies 
+    
+
+Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+
+Civic integrity policy
+======================
+
+### Overview
+
+### **August 2023**
+
+**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+
+**What is a civic process?** 
+
+X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+
+* Political elections
+* Censuses 
+* Major referenda and ballot initiatives   
      
 
-**Desktop**
+**What is in violation of this policy?**
 
-You can report this content for review via desktop as follows:
+This policy addresses 4 categories of misleading behavior and content: 
 
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+**Misleading information about how to participate**
+
+You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
+
+* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
+* misleading information about requirements for participation, including identification or citizenship requirements;
+* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
+* misleading statements or information about the official, announced date or time of a civic process.
+
+**Suppression**
+
+You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
+
+* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Click **Submit**.
+* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+    
+* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+    
 
-You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
-  
+**Intimidation**
 
-### What happens if you violate this policy? 
+You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
 
-  
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+    
+* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+    
+* inciting others to harass voters or poll workers;
+    
+* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
+    
+* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
 
-**Sharing private or live location information:**
+**False or misleading affiliation**
 
-* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
-* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
+You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
 
-**Sharing private media:** 
+**What is not a violation of this policy?**
 
-* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
 
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+* inaccurate statements about an elected or appointed official, candidate, or political party; 
+    
+* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
+    
+* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
+    
+* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
 
-### Additional resources 
+**What happens if you violate this policy?**
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+Posts that are enforced under this policy will have their reach restricted on X by:   
 
-The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+* Excluding the post from search results, trends, and recommended notifications
+    
+* Removing the post from the For you and Following timelines
+    
+* Restricting the post's discoverability to the author’s profile
+    
+* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
+    
+* Downranking the Post in replies 
+    
 
-Private information and media policy
-====================================
+Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-### Overview 
+Civic integrity policy
+======================
 
-**December 2022**
+### Overview
 
-**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
+### **August 2023**
 
-**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
 
-**Sharing someone’s private information:**
+**What is a civic process?** 
 
-Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
+X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
 
-When reviewing reports under this policy, we consider a number of things, including:  
-  
-
-**What type of information is being shared?  
-**  
-We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
-
-**Who is sharing the information?**  
-  
-We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
- 
-
-**Is the information available elsewhere online?  
-**  
-If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
- 
-
-**Why is the information being shared?  
-**  
-We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
-
-**  
-Sharing private media:**
-
-Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
-
-### What is in violation of this policy? 
-
-Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
-
-* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
-* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
-* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
-* contact information, including non-public personal phone numbers or email addresses; 
-* financial account information, including bank account and credit card details;
-* other private information, including biometric data or medical records;
-* media of private individuals without the permission of the person(s) depicted; and
-* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
-
-The following behaviors are also not permitted:   
-
-* threatening to publicly expose someone’s private information;
-* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
-* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
-* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+* Political elections
+* Censuses 
+* Major referenda and ballot initiatives   
      
 
-### What is not a violation of this policy? 
+**What is in violation of this policy?**
 
-The following are not in violation of this policy:
+This policy addresses 4 categories of misleading behavior and content: 
 
-* people sharing their own private information;
-* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
-* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
-* sharing information that we don’t consider to be private, including:
-    * name;
-    * birthdate or age;
-    * place of education or employment;
-    * location information related to commercial property or places of business, where this information is publicly available;
-    * descriptions of physical appearance;
-    * gossip, rumours, accusations, and allegations; and
-    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
-         
+**Misleading information about how to participate**
 
-**For media, the following are not in violation of our policy:**
+You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
 
-* the media is publicly available or is being covered by mainstream media;
-* the media and the accompanying post text add value to the public discourse or are shared in public interest;
-* contains eyewitness accounts or on the ground reports from developing events; 
-* the subject of the media is a public figure. 
+* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
+* misleading information about requirements for participation, including identification or citizenship requirements;
+* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
+* misleading statements or information about the official, announced date or time of a civic process.
 
-### Who can report violations of this policy? 
+**Suppression**
 
-**Sharing private information:**
+You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
 
-Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
-
-  
-**Sharing private media:** 
-
-When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
-
-1. Individuals depicted in the reported media or
-2. Their authorized representative such as:  
-        a.  parents/legal guardians,  
-        b.  lawyers, or  
-        c.  legal representative.
-
-### How can I report violations of this policy? 
-
-**In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Tap **Submit**.  
+* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
+    
+* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
+    
+
+**Intimidation**
+
+You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
+
+* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
+    
+* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
+    
+* inciting others to harass voters or poll workers;
+    
+* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
+    
+* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
+
+**False or misleading affiliation**
+
+You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
+
+**What is not a violation of this policy?**
+
+Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
+
+* inaccurate statements about an elected or appointed official, candidate, or political party; 
+    
+* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
+    
+* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
+    
+* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
+
+**What happens if you violate this policy?**
+
+Posts that are enforced under this policy will have their reach restricted on X by:   
+
+* Excluding the post from search results, trends, and recommended notifications
+    
+* Removing the post from the For you and Following timelines
+    
+* Restricting the post's discoverability to the author’s profile
+    
+* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
+    
+* Downranking the Post in replies 
+    
+
+Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+
+Civic integrity policy
+======================
+
+### Overview
+
+### **August 2023**
+
+**You may not use X’s services for the purpose of manipulating or interfering in elections or other civic processes, such as posting or sharing content that may suppress participation, mislead people about when, where, or how to participate in a civic process, or lead to offline violence during an election.** Any attempt to undermine the integrity of civic participation undermines our core tenets of freedom of expression and as a result, we will apply labels to violative posts informing users that the content is misleading.
+
+**What is a civic process?** 
+
+X considers civic processes to be events or procedures mandated, organized, and conducted by the governing and/or electoral body of a country, state, region, district, or municipality to address a matter of common concern through public participation. Some examples of civic processes may include: 
+
+* Political elections
+* Censuses 
+* Major referenda and ballot initiatives   
      
 
-**Desktop**
+**What is in violation of this policy?**
 
-You can report this content for review via desktop as follows:
+This policy addresses 4 categories of misleading behavior and content: 
 
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+**Misleading information about how to participate**
+
+You may not advance verifiably false or misleading information about how to participate in an election or other civic process. This includes but is not limited to:
+
+* misleading information about procedures to participate in a civic process (for example, that you can vote by Post, text message, email, or phone call in jurisdictions where these are not a possibility);
+* misleading information about requirements for participation, including identification or citizenship requirements;
+* misleading claims that cause confusion about the established laws, regulations, procedures, and methods of a civic process, or about the actions of officials or entities executing those civic processes; and
+* misleading statements or information about the official, announced date or time of a civic process.
+
+**Suppression**
+
+You may not advance verifiably false or misleading information about the circumstances surrounding a civic process intended to intimidate or dissuade people from participating in an election or other civic process. This includes but is not limited to:
+
+* misleading claims that polling places are closed, that polling has ended, or other misleading information relating to votes not being counted; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Click **Submit**.
-
-You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
-  
-
-### What happens if you violate this policy? 
-
-  
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
-
-**Sharing private or live location information:**
-
-* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
-* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
-
-**Sharing private media:** 
-
-* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
-
-The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
-
-Private information and media policy
-====================================
-
-### Overview 
-
-**December 2022**
-
-**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
-
-**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
-
-**Sharing someone’s private information:**
-
-Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
-
-When reviewing reports under this policy, we consider a number of things, including:  
-  
-
-**What type of information is being shared?  
-**  
-We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
-
-**Who is sharing the information?**  
-  
-We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
- 
-
-**Is the information available elsewhere online?  
-**  
-If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
- 
-
-**Why is the information being shared?  
-**  
-We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
-
-**  
-Sharing private media:**
-
-Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
-
-### What is in violation of this policy? 
-
-Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
-
-* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
-* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
-* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
-* contact information, including non-public personal phone numbers or email addresses; 
-* financial account information, including bank account and credit card details;
-* other private information, including biometric data or medical records;
-* media of private individuals without the permission of the person(s) depicted; and
-* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
-
-The following behaviors are also not permitted:   
-
-* threatening to publicly expose someone’s private information;
-* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
-* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
-* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
-     
-
-### What is not a violation of this policy? 
-
-The following are not in violation of this policy:
-
-* people sharing their own private information;
-* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
-* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
-* sharing information that we don’t consider to be private, including:
-    * name;
-    * birthdate or age;
-    * place of education or employment;
-    * location information related to commercial property or places of business, where this information is publicly available;
-    * descriptions of physical appearance;
-    * gossip, rumours, accusations, and allegations; and
-    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
-         
-
-**For media, the following are not in violation of our policy:**
-
-* the media is publicly available or is being covered by mainstream media;
-* the media and the accompanying post text add value to the public discourse or are shared in public interest;
-* contains eyewitness accounts or on the ground reports from developing events; 
-* the subject of the media is a public figure. 
-
-### Who can report violations of this policy? 
-
-**Sharing private information:**
-
-Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
-
-  
-**Sharing private media:** 
-
-When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
-
-1. Individuals depicted in the reported media or
-2. Their authorized representative such as:  
-        a.  parents/legal guardians,  
-        b.  lawyers, or  
-        c.  legal representative.
-
-### How can I report violations of this policy? 
-
-**In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* misleading claims about police or law enforcement activity related to voting in an election, polling places, or collecting census information; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Tap **Submit**.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* misleading claims about long lines, equipment problems, or other disruptions at voting locations during election periods;
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Click **Submit**.
 
-You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
-  
+**Intimidation**
 
-### What happens if you violate this policy? 
+You may not engage in or promote behaviors that may coerce others to refrain from participating in a civic process. This includes, but is not limited to:
 
-  
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
-
-**Sharing private or live location information:**
-
-* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
-* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
-
-**Sharing private media:** 
-
-* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
-
-The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
-
-Private information and media policy
-====================================
-
-### Overview 
-
-**December 2022**
-
-**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
-
-**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
-
-**Sharing someone’s private information:**
-
-Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
-
-When reviewing reports under this policy, we consider a number of things, including:  
-  
-
-**What type of information is being shared?  
-**  
-We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
-
-**Who is sharing the information?**  
-  
-We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
- 
-
-**Is the information available elsewhere online?  
-**  
-If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
- 
-
-**Why is the information being shared?  
-**  
-We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
-
-**  
-Sharing private media:**
-
-Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
-
-### What is in violation of this policy? 
-
-Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
-
-* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
-* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
-* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
-* contact information, including non-public personal phone numbers or email addresses; 
-* financial account information, including bank account and credit card details;
-* other private information, including biometric data or medical records;
-* media of private individuals without the permission of the person(s) depicted; and
-* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
-
-The following behaviors are also not permitted:   
-
-* threatening to publicly expose someone’s private information;
-* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
-* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
-* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
-     
-
-### What is not a violation of this policy? 
-
-The following are not in violation of this policy:
-
-* people sharing their own private information;
-* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
-* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
-* sharing information that we don’t consider to be private, including:
-    * name;
-    * birthdate or age;
-    * place of education or employment;
-    * location information related to commercial property or places of business, where this information is publicly available;
-    * descriptions of physical appearance;
-    * gossip, rumours, accusations, and allegations; and
-    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
-         
-
-**For media, the following are not in violation of our policy:**
-
-* the media is publicly available or is being covered by mainstream media;
-* the media and the accompanying post text add value to the public discourse or are shared in public interest;
-* contains eyewitness accounts or on the ground reports from developing events; 
-* the subject of the media is a public figure. 
-
-### Who can report violations of this policy? 
-
-**Sharing private information:**
-
-Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
-
-  
-**Sharing private media:** 
-
-When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
-
-1. Individuals depicted in the reported media or
-2. Their authorized representative such as:  
-        a.  parents/legal guardians,  
-        b.  lawyers, or  
-        c.  legal representative.
-
-### How can I report violations of this policy? 
-
-**In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* inciting or promoting violent behaviors intentionally near a location where an electoral process is being conducted, including polling stations and vote counting locations;
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Tap **Submit**.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* inciting the disruption or destruction of procedures, infrastructure, or election equipment that is necessary for someone to participate in a civic process;
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Click **Submit**.
-
-You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
-  
-
-### What happens if you violate this policy? 
-
-  
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
-
-**Sharing private or live location information:**
-
-* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
-* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
-
-**Sharing private media:** 
-
-* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
-
-The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
-
-Private information and media policy
-====================================
-
-### Overview 
-
-**December 2022**
-
-**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
-
-**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
-
-**Sharing someone’s private information:**
-
-Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
-
-When reviewing reports under this policy, we consider a number of things, including:  
-  
-
-**What type of information is being shared?  
-**  
-We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
-
-**Who is sharing the information?**  
-  
-We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
- 
-
-**Is the information available elsewhere online?  
-**  
-If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
- 
-
-**Why is the information being shared?  
-**  
-We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
-
-**  
-Sharing private media:**
-
-Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
-
-### What is in violation of this policy? 
-
-Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
-
-* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
-* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
-* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
-* contact information, including non-public personal phone numbers or email addresses; 
-* financial account information, including bank account and credit card details;
-* other private information, including biometric data or medical records;
-* media of private individuals without the permission of the person(s) depicted; and
-* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
-
-The following behaviors are also not permitted:   
-
-* threatening to publicly expose someone’s private information;
-* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
-* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
-* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
-     
-
-### What is not a violation of this policy? 
-
-The following are not in violation of this policy:
-
-* people sharing their own private information;
-* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
-* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
-* sharing information that we don’t consider to be private, including:
-    * name;
-    * birthdate or age;
-    * place of education or employment;
-    * location information related to commercial property or places of business, where this information is publicly available;
-    * descriptions of physical appearance;
-    * gossip, rumours, accusations, and allegations; and
-    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
-         
-
-**For media, the following are not in violation of our policy:**
-
-* the media is publicly available or is being covered by mainstream media;
-* the media and the accompanying post text add value to the public discourse or are shared in public interest;
-* contains eyewitness accounts or on the ground reports from developing events; 
-* the subject of the media is a public figure. 
-
-### Who can report violations of this policy? 
-
-**Sharing private information:**
-
-Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
-
-  
-**Sharing private media:** 
-
-When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
-
-1. Individuals depicted in the reported media or
-2. Their authorized representative such as:  
-        a.  parents/legal guardians,  
-        b.  lawyers, or  
-        c.  legal representative.
-
-### How can I report violations of this policy? 
-
-**In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* inciting others to harass voters or poll workers;
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Tap **Submit**.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* promoting the brandishing of firearms near polling locations to intimidate voters and election workers;
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Click **Submit**.
+* threats regarding voting locations or other key places or events (note that our [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech) policy may also be relevant for threats not covered by this policy).
 
-You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
-  
+**False or misleading affiliation**
 
-### What happens if you violate this policy? 
+You may not create fake accounts which misrepresent their affiliation, or share content that falsely represents its affiliation, to a candidate, elected official, political party, electoral authority, or government entity. Read more about our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).
 
-  
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
+**What is not a violation of this policy?**
 
-**Sharing private or live location information:**
+Not all false or untrue information about politics or civic processes constitutes manipulation or interference. In the absence of other policy violations, the following are generally not in violation of this policy:
 
-* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
-* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
-
-**Sharing private media:** 
-
-* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
-
-The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
-
-Private information and media policy
-====================================
-
-### Overview 
-
-**December 2022**
-
-**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
-
-**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
-
-**Sharing someone’s private information:**
-
-Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
-
-When reviewing reports under this policy, we consider a number of things, including:  
-  
-
-**What type of information is being shared?  
-**  
-We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
-
-**Who is sharing the information?**  
-  
-We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
- 
-
-**Is the information available elsewhere online?  
-**  
-If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
- 
-
-**Why is the information being shared?  
-**  
-We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
-
-**  
-Sharing private media:**
-
-Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
-
-### What is in violation of this policy? 
-
-Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
-
-* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
-* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
-* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
-* contact information, including non-public personal phone numbers or email addresses; 
-* financial account information, including bank account and credit card details;
-* other private information, including biometric data or medical records;
-* media of private individuals without the permission of the person(s) depicted; and
-* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
-
-The following behaviors are also not permitted:   
-
-* threatening to publicly expose someone’s private information;
-* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
-* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
-* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
-     
-
-### What is not a violation of this policy? 
-
-The following are not in violation of this policy:
-
-* people sharing their own private information;
-* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
-* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
-* sharing information that we don’t consider to be private, including:
-    * name;
-    * birthdate or age;
-    * place of education or employment;
-    * location information related to commercial property or places of business, where this information is publicly available;
-    * descriptions of physical appearance;
-    * gossip, rumours, accusations, and allegations; and
-    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
-         
-
-**For media, the following are not in violation of our policy:**
-
-* the media is publicly available or is being covered by mainstream media;
-* the media and the accompanying post text add value to the public discourse or are shared in public interest;
-* contains eyewitness accounts or on the ground reports from developing events; 
-* the subject of the media is a public figure. 
-
-### Who can report violations of this policy? 
-
-**Sharing private information:**
-
-Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
-
-  
-**Sharing private media:** 
-
-When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
-
-1. Individuals depicted in the reported media or
-2. Their authorized representative such as:  
-        a.  parents/legal guardians,  
-        b.  lawyers, or  
-        c.  legal representative.
-
-### How can I report violations of this policy? 
-
-**In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* inaccurate statements about an elected or appointed official, candidate, or political party; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Tap **Submit**.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* organic content that is polarizing, biased, hyperpartisan, or contains controversial viewpoints expressed about elections or politics; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Click **Submit**.
-
-You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
-  
-
-### What happens if you violate this policy? 
-
-  
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
-
-**Sharing private or live location information:**
-
-* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
-* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
-
-**Sharing private media:** 
-
-* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
-
-The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
-
-Private information and media policy
-====================================
-
-### Overview 
-
-**December 2022**
-
-**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
-
-**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
-
-**Sharing someone’s private information:**
-
-Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
-
-When reviewing reports under this policy, we consider a number of things, including:  
-  
-
-**What type of information is being shared?  
-**  
-We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
-
-**Who is sharing the information?**  
-  
-We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
- 
-
-**Is the information available elsewhere online?  
-**  
-If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
- 
-
-**Why is the information being shared?  
-**  
-We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
-
-**  
-Sharing private media:**
-
-Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
-
-### What is in violation of this policy? 
-
-Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
-
-* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
-* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
-* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
-* contact information, including non-public personal phone numbers or email addresses; 
-* financial account information, including bank account and credit card details;
-* other private information, including biometric data or medical records;
-* media of private individuals without the permission of the person(s) depicted; and
-* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
-
-The following behaviors are also not permitted:   
-
-* threatening to publicly expose someone’s private information;
-* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
-* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
-* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
-     
-
-### What is not a violation of this policy? 
-
-The following are not in violation of this policy:
-
-* people sharing their own private information;
-* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
-* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
-* sharing information that we don’t consider to be private, including:
-    * name;
-    * birthdate or age;
-    * place of education or employment;
-    * location information related to commercial property or places of business, where this information is publicly available;
-    * descriptions of physical appearance;
-    * gossip, rumours, accusations, and allegations; and
-    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
-         
-
-**For media, the following are not in violation of our policy:**
-
-* the media is publicly available or is being covered by mainstream media;
-* the media and the accompanying post text add value to the public discourse or are shared in public interest;
-* contains eyewitness accounts or on the ground reports from developing events; 
-* the subject of the media is a public figure. 
-
-### Who can report violations of this policy? 
-
-**Sharing private information:**
-
-Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
-
-  
-**Sharing private media:** 
-
-When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
-
-1. Individuals depicted in the reported media or
-2. Their authorized representative such as:  
-        a.  parents/legal guardians,  
-        b.  lawyers, or  
-        c.  legal representative.
-
-### How can I report violations of this policy? 
-
-**In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* discussion of public polling information; voting and audience participation for competitions, game shows, or other entertainment purposes; 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Tap **Submit**.  
-     
+* using X pseudonymously or as a [parody, commentary, or fan account](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy) to discuss elections or politics.
 
-**Desktop**
+**What happens if you violate this policy?**
 
-You can report this content for review via desktop as follows:
+Posts that are enforced under this policy will have their reach restricted on X by:   
 
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* Excluding the post from search results, trends, and recommended notifications
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Click **Submit**.
-
-You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
-  
-
-### What happens if you violate this policy? 
-
-  
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
-
-**Sharing private or live location information:**
-
-* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
-* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
-
-**Sharing private media:** 
-
-* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
-
-The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
-
-Private information and media policy
-====================================
-
-### Overview 
-
-**December 2022**
-
-**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
-
-**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
-
-**Sharing someone’s private information:**
-
-Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
-
-When reviewing reports under this policy, we consider a number of things, including:  
-  
-
-**What type of information is being shared?  
-**  
-We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
-
-**Who is sharing the information?**  
-  
-We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
- 
-
-**Is the information available elsewhere online?  
-**  
-If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
- 
-
-**Why is the information being shared?  
-**  
-We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
-
-**  
-Sharing private media:**
-
-Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
-
-### What is in violation of this policy? 
-
-Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
-
-* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
-* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
-* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
-* contact information, including non-public personal phone numbers or email addresses; 
-* financial account information, including bank account and credit card details;
-* other private information, including biometric data or medical records;
-* media of private individuals without the permission of the person(s) depicted; and
-* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
-
-The following behaviors are also not permitted:   
-
-* threatening to publicly expose someone’s private information;
-* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
-* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
-* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
-     
-
-### What is not a violation of this policy? 
-
-The following are not in violation of this policy:
-
-* people sharing their own private information;
-* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
-* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
-* sharing information that we don’t consider to be private, including:
-    * name;
-    * birthdate or age;
-    * place of education or employment;
-    * location information related to commercial property or places of business, where this information is publicly available;
-    * descriptions of physical appearance;
-    * gossip, rumours, accusations, and allegations; and
-    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
-         
-
-**For media, the following are not in violation of our policy:**
-
-* the media is publicly available or is being covered by mainstream media;
-* the media and the accompanying post text add value to the public discourse or are shared in public interest;
-* contains eyewitness accounts or on the ground reports from developing events; 
-* the subject of the media is a public figure. 
-
-### Who can report violations of this policy? 
-
-**Sharing private information:**
-
-Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
-
-  
-**Sharing private media:** 
-
-When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
-
-1. Individuals depicted in the reported media or
-2. Their authorized representative such as:  
-        a.  parents/legal guardians,  
-        b.  lawyers, or  
-        c.  legal representative.
-
-### How can I report violations of this policy? 
-
-**In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* Removing the post from the For you and Following timelines
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Tap **Submit**.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* Restricting the post's discoverability to the author’s profile
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Click **Submit**.
-
-You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
-  
-
-### What happens if you violate this policy? 
-
-  
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
-
-**Sharing private or live location information:**
-
-* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
-* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
-
-**Sharing private media:** 
-
-* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
-
-The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
-
-Private information and media policy
-====================================
-
-### Overview 
-
-**December 2022**
-
-**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
-
-**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
-
-**Sharing someone’s private information:**
-
-Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
-
-When reviewing reports under this policy, we consider a number of things, including:  
-  
-
-**What type of information is being shared?  
-**  
-We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
-
-**Who is sharing the information?**  
-  
-We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
- 
-
-**Is the information available elsewhere online?  
-**  
-If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
- 
-
-**Why is the information being shared?  
-**  
-We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
-
-**  
-Sharing private media:**
-
-Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
-
-### What is in violation of this policy? 
-
-Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
-
-* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
-* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
-* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
-* contact information, including non-public personal phone numbers or email addresses; 
-* financial account information, including bank account and credit card details;
-* other private information, including biometric data or medical records;
-* media of private individuals without the permission of the person(s) depicted; and
-* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
-
-The following behaviors are also not permitted:   
-
-* threatening to publicly expose someone’s private information;
-* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
-* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
-* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
-     
-
-### What is not a violation of this policy? 
-
-The following are not in violation of this policy:
-
-* people sharing their own private information;
-* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
-* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
-* sharing information that we don’t consider to be private, including:
-    * name;
-    * birthdate or age;
-    * place of education or employment;
-    * location information related to commercial property or places of business, where this information is publicly available;
-    * descriptions of physical appearance;
-    * gossip, rumours, accusations, and allegations; and
-    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
-         
-
-**For media, the following are not in violation of our policy:**
-
-* the media is publicly available or is being covered by mainstream media;
-* the media and the accompanying post text add value to the public discourse or are shared in public interest;
-* contains eyewitness accounts or on the ground reports from developing events; 
-* the subject of the media is a public figure. 
-
-### Who can report violations of this policy? 
-
-**Sharing private information:**
-
-Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
-
-  
-**Sharing private media:** 
-
-When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
-
-1. Individuals depicted in the reported media or
-2. Their authorized representative such as:  
-        a.  parents/legal guardians,  
-        b.  lawyers, or  
-        c.  legal representative.
-
-### How can I report violations of this policy? 
-
-**In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* Restricting Likes, replies, reposts, quotes, bookmarks, share, pin to profile, or Edit post
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Tap **Submit**.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
+* Downranking the Post in replies 
     
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Click **Submit**.
 
-You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
-  
-
-### What happens if you violate this policy? 
-
-  
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
-
-**Sharing private or live location information:**
-
-* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
-* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
-
-**Sharing private media:** 
-
-* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
-
-The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
-
-Private information and media policy
-====================================
-
-### Overview 
-
-**December 2022**
-
-**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
-
-**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
-
-**Sharing someone’s private information:**
-
-Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
-
-When reviewing reports under this policy, we consider a number of things, including:  
-  
-
-**What type of information is being shared?  
-**  
-We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
-
-**Who is sharing the information?**  
-  
-We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
- 
-
-**Is the information available elsewhere online?  
-**  
-If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
- 
-
-**Why is the information being shared?  
-**  
-We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
-
-**  
-Sharing private media:**
-
-Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
-
-### What is in violation of this policy? 
-
-Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
-
-* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
-* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
-* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
-* contact information, including non-public personal phone numbers or email addresses; 
-* financial account information, including bank account and credit card details;
-* other private information, including biometric data or medical records;
-* media of private individuals without the permission of the person(s) depicted; and
-* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
-
-The following behaviors are also not permitted:   
-
-* threatening to publicly expose someone’s private information;
-* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
-* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
-* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
-     
-
-### What is not a violation of this policy? 
-
-The following are not in violation of this policy:
-
-* people sharing their own private information;
-* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
-* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
-* sharing information that we don’t consider to be private, including:
-    * name;
-    * birthdate or age;
-    * place of education or employment;
-    * location information related to commercial property or places of business, where this information is publicly available;
-    * descriptions of physical appearance;
-    * gossip, rumours, accusations, and allegations; and
-    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
-         
-
-**For media, the following are not in violation of our policy:**
-
-* the media is publicly available or is being covered by mainstream media;
-* the media and the accompanying post text add value to the public discourse or are shared in public interest;
-* contains eyewitness accounts or on the ground reports from developing events; 
-* the subject of the media is a public figure. 
-
-### Who can report violations of this policy? 
-
-**Sharing private information:**
-
-Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
-
-  
-**Sharing private media:** 
-
-When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
-
-1. Individuals depicted in the reported media or
-2. Their authorized representative such as:  
-        a.  parents/legal guardians,  
-        b.  lawyers, or  
-        c.  legal representative.
-
-### How can I report violations of this policy? 
-
-**In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
-    
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Tap **Submit**.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
-    
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Click **Submit**.
-
-You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
-  
-
-### What happens if you violate this policy? 
-
-  
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
-
-**Sharing private or live location information:**
-
-* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
-* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
-
-**Sharing private media:** 
-
-* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
-
-The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
-
-Private information and media policy
-====================================
-
-### Overview 
-
-**December 2022**
-
-**You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
-
-**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
-
-**Sharing someone’s private information:**
-
-Sharing someone’s private information online without their permission, sometimes called doxxing, is a breach of their privacy and of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sharing private information can pose serious safety and security risks for those affected and can lead to physical, emotional, and financial hardship.  
-
-When reviewing reports under this policy, we consider a number of things, including:  
-  
-
-**What type of information is being shared?  
-**  
-We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
-
-**Who is sharing the information?**  
-  
-We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
- 
-
-**Is the information available elsewhere online?  
-**  
-If the reported information was shared somewhere else before it was shared on X, e.g., someone sharing their personal phone number on their own publicly accessible website, we may not treat this information as private, as the owner has made it publicly available. Note: we may take action against home addresses being shared, even if they are publicly available, due to the potential for physical harm.   
- 
-
-**Why is the information being shared?  
-**  
-We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any posts or accounts that share someone’s live location.
-
-**  
-Sharing private media:**
-
-Posting images is an important part of our users' experience on X. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
-
-### What is in violation of this policy? 
-
-Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
-
-* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
-* live location information, including information shared on X directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
-* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
-* contact information, including non-public personal phone numbers or email addresses; 
-* financial account information, including bank account and credit card details;
-* other private information, including biometric data or medical records;
-* media of private individuals without the permission of the person(s) depicted; and
-* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
-
-The following behaviors are also not permitted:   
-
-* threatening to publicly expose someone’s private information;
-* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
-* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
-* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
-     
-
-### What is not a violation of this policy? 
-
-The following are not in violation of this policy:
-
-* people sharing their own private information;
-* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
-* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
-* sharing information that we don’t consider to be private, including:
-    * name;
-    * birthdate or age;
-    * place of education or employment;
-    * location information related to commercial property or places of business, where this information is publicly available;
-    * descriptions of physical appearance;
-    * gossip, rumours, accusations, and allegations; and
-    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
-         
-
-**For media, the following are not in violation of our policy:**
-
-* the media is publicly available or is being covered by mainstream media;
-* the media and the accompanying post text add value to the public discourse or are shared in public interest;
-* contains eyewitness accounts or on the ground reports from developing events; 
-* the subject of the media is a public figure. 
-
-### Who can report violations of this policy? 
-
-**Sharing private information:**
-
-Anyone can report private information that has been shared in a clearly abusive way (whether they have a X account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
-
-  
-**Sharing private media:** 
-
-When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
-
-1. Individuals depicted in the reported media or
-2. Their authorized representative such as:  
-        a.  parents/legal guardians,  
-        b.  lawyers, or  
-        c.  legal representative.
-
-### How can I report violations of this policy? 
-
-**In-app**
-
-You can report this content for review in-app as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
-    
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Tap **Submit**.  
-     
-
-**Desktop**
-
-You can report this content for review via desktop as follows:
-
-1. Select **Report post** from the  icon.
-2. Choose who you're reporting the post for.  
-    
-3. Select **Harassed or intimidated with violence**
-4. Select **Posting my private info**
-5. Identify what private info you're reporting
-6. You can choose to add up to five posts or add any additional context to support your report.
-7. Click **Submit**.
-
-You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
-  
-
-### What happens if you violate this policy? 
-
-  
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
-
-**Sharing private or live location information:**
-
-* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
-* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
-
-**Sharing private media:** 
-
-* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
-
-The distribution of other types of content without the consent of the owner may be actionable under our distribution of hacked material policy.
+Posts enforced under this policy will receive a label informing both Post authors and viewers that we have limited the Post’s visibility. Post authors are able to submit an appeal on the label if they think we incorrectly limited their Post’s visibility. Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
