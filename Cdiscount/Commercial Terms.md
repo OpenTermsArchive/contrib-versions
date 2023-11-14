@@ -1151,7 +1151,7 @@ En cas de reconduction de l'Abonnement conformément aux stipulations de l'artic
 
 **ARTICLE 4 - OFFRE D'ESSAI GRATUIT**
 
-Cdiscount est susceptible de proposer une offre d’essai gratuit dans les conditions décrites ci-après. Cdiscount se réserve le droit d’arrêter l’offre d’essai gratuit à tout moment ; le cas échéant, l’offre d'essai gratuit ne sera pas visible sur le Site au moment de la souscription au service.  
+Cdiscount est susceptible de proposer une offre d’essai gratuit dans les conditions décrites ci-après. Cdiscount se réserve le droit d’arrêter l’offre d’essai gratuit à tout moment ; le cas échéant, l’offre d’essai gratuit ne sera pas visible sur le Site au moment de la souscription au service.  
   
 
 En cas d‘offre d’essai gratuit, la durée de l’essai gratuit sera susceptible d’être modifiée par Cdiscount. La durée de l’essai gratuit sera alors celle indiquée par Cdiscount au jour de la souscription à l’Abonnement. 
