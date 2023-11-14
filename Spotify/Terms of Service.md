@@ -39,7 +39,7 @@ We provide numerous Spotify Service options. Certain Spotify Service options are
 
 ### [](#trials)**Trials**
 
-From time to time, we or others on our behalf may offer trials of Paid Subscriptions for a specified period without payment or at a reduced rate ("**Trial**"). By using a Spotify Service via a Trial, you agree to the [Spotify Premium Promotional Offer Terms](https://www.spotify.com/legal/premium-promotional-offer-terms/).
+From time to time, we or others on our behalf may offer trials of Paid Subscriptions for a specified period without payment or at a reduced rate ("**Trial**"). By using a Spotify Service via a Trial, you agree to the [Spotify Paid Subscription Terms](https://www.spotify.com/us/legal/paid-subscription-terms/).
 
 ### [](#third-party-applications-devices-and-open-source-software)**Third-party applications, devices and open source software**
 
@@ -305,7 +305,7 @@ We may make changes to these Terms (including any additional Spotify terms and c
 
 ### [](#entire-agreement)**Entire agreement**
 
-Other than as stated in this section or as explicitly agreed upon in writing between you and Spotify, these Terms constitute all the terms and conditions agreed upon between you and Spotify and supersede any prior agreements in relation to the subject matter of these Terms, whether written or oral. As noted above, other terms and conditions governing use of the Spotify Service are incorporated herein by reference, including the following terms and conditions: [Spotify Premium Promotional Offer Terms](https://www.spotify.com/legal/premium-promotional-offer-terms/); [Spotify Audiobook Purchase Terms and Conditions](https://www.spotify.com/us/legal/audiobook-purchase-terms/); [Spotify's Card Terms](https://www.spotify.com/us/legal/gift-card); [Spotify User Guidelines](https://www.spotify.com/legal/user-guidelines); [Spotify Copyright Policy](https://www.spotify.com/legal/copyright-policy/); and [Spotify Support Community Terms](https://www.spotify.com/us/legal/support-community-end-user-agreement/).
+Other than as stated in this section or as explicitly agreed upon in writing between you and Spotify, these Terms constitute all the terms and conditions agreed upon between you and Spotify and supersede any prior agreements in relation to the subject matter of these Terms, whether written or oral. As noted above, other terms and conditions governing use of the Spotify Service are incorporated herein by reference, including the following terms and conditions: [Spotify Paid Subscription Terms](https://www.spotify.com/us/legal/paid-subscription-terms/); [Spotify Audiobook Purchase Terms and Conditions](https://www.spotify.com/us/legal/audiobook-purchase-terms/); [Spotify's Card Terms](https://www.spotify.com/us/legal/gift-card); [Spotify User Guidelines](https://www.spotify.com/legal/user-guidelines); [Spotify Copyright Policy](https://www.spotify.com/legal/copyright-policy/); and [Spotify Support Community Terms](https://www.spotify.com/us/legal/support-community-end-user-agreement/).
 
 ### [](#severability-and-waiver)**Severability and waiver**
 
