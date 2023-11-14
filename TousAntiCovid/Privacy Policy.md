@@ -53,8 +53,8 @@
     * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
             
             * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/article/antibiotiques-les-bons-gestes)
-            * [Action des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
         * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -415,8 +415,8 @@
     * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
             
             * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/article/antibiotiques-les-bons-gestes)
-            * [Action des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
         * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -918,8 +918,8 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
             
             * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/article/antibiotiques-les-bons-gestes)
-            * [Action des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
         * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -1280,8 +1280,8 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
             
             * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/article/antibiotiques-les-bons-gestes)
-            * [Action des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
         * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -1763,8 +1763,8 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
             
             * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/article/antibiotiques-les-bons-gestes)
-            * [Action des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
         * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -2125,8 +2125,8 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
             
             * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/article/antibiotiques-les-bons-gestes)
-            * [Action des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
         * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -2553,8 +2553,8 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
             
             * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/article/antibiotiques-les-bons-gestes)
-            * [Action des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
         * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -2921,8 +2921,8 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
             
             * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/article/antibiotiques-les-bons-gestes)
-            * [Action des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
         * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -3289,8 +3289,8 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
             
             * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/article/antibiotiques-les-bons-gestes)
-            * [Action des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
         * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -3657,8 +3657,8 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
             
             * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/article/antibiotiques-les-bons-gestes)
-            * [Action des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
         * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -4025,8 +4025,8 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
             
             * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/article/antibiotiques-les-bons-gestes)
-            * [Action des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
         * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -4393,8 +4393,8 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
     * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
             
             * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/article/antibiotiques-les-bons-gestes)
-            * [Action des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
         * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -4735,8 +4735,8 @@ Retour
 * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
 
 * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-* [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/article/antibiotiques-les-bons-gestes)
-* [Action des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+* [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+* [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
 
 * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
 * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
@@ -4951,8 +4951,8 @@ Retour
     * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
             
             * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/article/antibiotiques-les-bons-gestes)
-            * [Action des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
         * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -5313,8 +5313,8 @@ Retour
     * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
             
             * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/article/antibiotiques-les-bons-gestes)
-            * [Action des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
         * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -5675,8 +5675,8 @@ Retour
     * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
             
             * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/article/antibiotiques-les-bons-gestes)
-            * [Action des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
         * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -6037,8 +6037,8 @@ Retour
     * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
             
             * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/article/antibiotiques-les-bons-gestes)
-            * [Action des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
         * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -6399,8 +6399,8 @@ Retour
     * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
             
             * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/article/antibiotiques-les-bons-gestes)
-            * [Action des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
         * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -6761,8 +6761,8 @@ Retour
     * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
             
             * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/article/antibiotiques-les-bons-gestes)
-            * [Action des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
         * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -6912,8 +6912,8 @@ Retour
     * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
             
             * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/article/antibiotiques-les-bons-gestes)
-            * [Action des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
         * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -7043,8 +7043,8 @@ Retour
 * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
 
 * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-* [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/article/antibiotiques-les-bons-gestes)
-* [Action des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+* [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+* [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
 
 * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
 * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
