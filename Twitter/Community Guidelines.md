@@ -1,554 +1,2663 @@
-Perpetrators of Violent Attacks
-===============================
+Suicide and Self-harm policy
+============================
 
-Overview
+Overview  
+ 
 
-**February 2023**
+**You may not promote or encourage suicide or self-harm.**
 
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
 
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
 
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
+### What is in violation of this policy? 
 
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
 
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
 
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies. 
-
-What is in violation of this policy?
-
-Under this policy, we will permanently suspend accounts belonging to apparent individual perpetrators of terrorist, violent extremist, and mass violent attacks, as well as accounts dedicated to the sharing of harmful and violent content associated with the perpetrators or the violent attack.
-
-Additionally, you may not Post any of the following:
-
-**Manifestos and other content created by perpetrators**
-
-We may remove content containing manifestos and other content created by individual perpetrators or their accomplices. Violations can occur via Posts, Spaces, images, and videos, including live video. Examples of content that we may action under this policy include, but are not limited to:
-
-* Sharing or linking full-length manifestos, regardless of context
-* Any Posts containing excerpt(s) of a reproduced manifesto (edited or sliced) or of the original manifesto, except when shared in a newsworthy context.
-    * Regardless of context, it is always prohibited to share any of the following: 
-        
-        * Excerpt(s) that convey suggestions about how to arm oneself and choose targets.
-        * Excerpt(s) that share hateful slogans, symbols, memes, and/or hateful conspiracy theories such as the Great Replacement Theory.
-        * Excerpt(s) outlining the perpetrator’s ideology, tactical choices, and/or plan of attack.
-* Sharing perpetrator-generated media related to the attack in all instances. This includes, but is not limited to:
+* self-inflicted physical injuries e.g., cutting; and
     
-    * Media filmed by the perpetrator of the attack
-    * Memes, stickers, or graffiti shared and/or produced by the perpetrator
-    * Media of the weapons utilized in the attack
-* Other perpetrator-generated content that is not associated with the violent attack but that is specific to the promotion or support of violence.
-* Bystander-generated content of the attack as the attack is taking place, such as content that displays a moment of the assault or death, dead bodies, content that identifies victims, or content that depicts the perpetrator(s) conducting the attack.
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
 
-**Multimedia content, URLs, and hashtags**
+Violations of this policy include, but are not limited to:  
 
-We may put a sensitive media interstitial over some media. The interstitial places images and videos behind a warning message that needs to be acknowledged before the media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. The types of media we may interstitial include, but are not limited to:
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
 
-* Media depicting a perpetrator 
-* Excerpts of the attacker’s manifesto that are shared as part of a news report
+### What is not a violation of this policy? 
 
-We may label URLs linking directly to documents believed to be a manifesto to prevent these URLs from being shared on X.
+Some examples of behavior that are not considered a violation of this policy include: 
 
-We may denylist hashtags identifying perpetrators on trends to reduce the visibility of perpetrators’ identities, as well as all hashtags that are used uniquely to surface manifestos.
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
 
-What is not a violation of this policy?  
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
 
-* Accounts that belong to
-    * Bystanders who happened to be close to the violent attack and/or managed to stop the attack, for example someone who shot the perpetrator(s)
-    * Perpetrators whose convictions were overturned after a not guilty verdict
-* Content depicting any of the following:
-    * The use of force by law enforcement and military personnel, as part of the scope of their official functions, that resulted in casualties;
-    * Violence against military personnel and law enforcement;
-    * Human rights abuses
-    * Violent attacks that are part of an armed conflict
-    * Violence used as a means of self defense
-    * Violent attacks, where there is probable doubt about the intent behind the attack
-    * Cases of vandalism and attacks resulting in damage to essential infrastructure
-    * Sharing a few sentences from the manifesto(s), either in a newsworthy context or to bring more awareness to the rise of hate or violence towards a specific group. For example: “the shooter said he wants to eradicate x group” is not actionable under this policy.
-
-Who can report violations of this policy?
-
+Additional resources  
   
-Anyone can report potential violations of this policy, whether they have an X account or not.   
 
-What happens if I violate this policy? 
+==========================
 
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
   
-The consequences for violating our violent events policy depends on the severity of the violation. Accounts maintained by perpetrators of terrorist, violent extremist, or mass violent attacks will be permanently suspended. As described above, we may also remove content containing manifestos and other content created by perpetrators or their accomplices. 
 
-In addition, we will also remove content that violates our policies regarding [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html) or [other parts of Our Rules](https://help.twitter.com/en/rules-and-policies.html#general-policies.html).
-
-Additional resources
-
+Additional resources  
   
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
 
-Perpetrators of Violent Attacks
-===============================
+==========================
 
-Overview
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-**February 2023**
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
 
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
 
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
+Suicide and Self-harm policy
+============================
 
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
+Overview  
+ 
 
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
+**You may not promote or encourage suicide or self-harm.**
 
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
 
-**What is a manifesto?**
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
 
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
+### What is in violation of this policy? 
 
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
 
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
+
+Suicide and Self-harm policy
+============================
+
+Overview  
+ 
+
+**You may not promote or encourage suicide or self-harm.**
+
+At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+
+When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
+ 
+
+### What is in violation of this policy? 
+
+Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+
+We define suicide to be the act of taking one’s own life. We define self-harm to include:
+
+* self-inflicted physical injuries e.g., cutting; and
+    
+* eating disorders e.g., bulimia, anorexia.  
+     
+    
+
+Violations of this policy include, but are not limited to:  
+
+* encouraging someone to physically harm or kill themselves;
+    
+* asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+    
+* sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
+     
+
+### What is not a violation of this policy? 
+
+Some examples of behavior that are not considered a violation of this policy include: 
+
+* sharing personal stories and experiences related to self-harm or suicide;
+    
+* sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
+    
+* discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
+     
+    
+
+**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
+ 
+
+### Who can report violations of this policy? 
+
+Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+
+Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
+ 
+
+### How to report violations of this policy 
+
+To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
+ 
+
+### Expressing intentions of self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It expresses intentions of self-harm or suicide”
+    
+3. Submit your report  
+     
+    
+
+**Reporting form**
+
+You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
+ 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu
+2. Select “It expresses intentions of self-harm or suicide”
+3. Submit your report  
+     
+
+### Encouraging self-harm or suicide 
+
+**In-App**
+
+You can report content for review in-app as follows:
+
+1. Select Report Post from drop-down menu  
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re  encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+**Desktop**
+
+You can report this content for review on desktop as follows:
+
+1. Select Report Post from drop-down menu
+    
+2. Select “It’s abusive or harmful”
+    
+3. Select “They’re encouraging self-harm or suicide”
+    
+4. Submit your report  
+     
+    
+
+### What happens if you violate this policy? 
+
+Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
+
+If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
+
+We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
+  
+
+Additional resources  
+  
+
+==========================
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
+
+Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
