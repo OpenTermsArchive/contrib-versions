@@ -93,6 +93,7 @@ The following tables set out details of the third-party Cookies we use as part o
 | Strictly necessary cookie | referrer04\_0 02 | comeet.co | Third Party | A month |
 | Strictly necessary cookie | visid\_incap\_XXXXXX | comeet.co | Third Party | 364 days |
 | Strictly necessary cookie | incap\_ses\_\* | comeet.co | Third Party | Session |
+| Strictly necessary cookie | sysid | www.viber.com | First Party | Session |
 | Performance and Analytics Cookie | \_gid | Viber.com | First Party | A day |
 | Performance and Analytics Cookie | \_gat\_UA- | viber.com | First Party | a few seconds |
 | Performance and Analytics Cookie | \_ga | viber.com | First Party | 2 years |
