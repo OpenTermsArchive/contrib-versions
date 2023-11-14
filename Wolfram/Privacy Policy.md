@@ -105,7 +105,7 @@ Various Wolfram Services offer some functionality for which they must access our
 
 Specifically, using Wolfram|Alpha, or utilizing the Wolfram|Alpha functionality within other Services, will trigger the collection of information about the specific query. Some queries may require collecting additional information, such as session information covering the history of Wolfram Mathematica evaluations or the content of Wolfram Finance Platform notebooks containing the Wolfram|Alpha query.
 
-You can choose to prevent these Services from accessing our servers by disconnecting from the internet or by using the Internet Connectivity item in the Help menu to tell the Service not to connect to the internet. If you choose not to allow these Services to access our servers, our Services will not be able to perform certain functions.
+You can choose to prevent these Services from accessing our servers by disconnecting from the internet or by using the Internet & Mail Settings in the Help menu to tell the Service not to connect to the internet. If you choose not to allow these Services to access our servers, our Services will not be able to perform certain functions.
 
 Under normal circumstances, we will never release information on accesses to our servers. We may, however, release information as described above in [Disclosures of Your Information](#disclosures).
 
@@ -125,7 +125,7 @@ Effective January 1, 2020, the California Consumer Privacy Act (CCPA) allows Cal
 
 ### Japan Residents
 
-Wolfram Research Asia Ltd. and its wholly related corporate affiliate, Wolfram Research, Inc., which is located in the United States, along with all other Wolfram corporations worldwide, are committed to honoring the privacy rights as identified in the [Act on the Protection of Personal Information Law](https://www.ppc.go.jp/files/pdf/APPI_english.pdf) (APPI) and the [Law Concerning the Proper Transmission of Specified Electronic Mail](https://www.soumu.go.jp/main_sosiki/cybersecurity/kokumin/basic/basic_legal_08.html) (Anti-spam Law).
+Wolfram Research Asia Ltd. and its wholly related corporate affiliate, Wolfram Research, Inc., which is located in the United States, along with all other Wolfram corporations worldwide, are committed to honoring the privacy rights as identified in the [Act on the Protection of Personal Information](https://www.ppc.go.jp/files/pdf/APPI_english.pdf) (APPI) and the [Law Concerning the Proper Transmission of Specified Electronic Mail](https://www.soumu.go.jp/main_sosiki/cybersecurity/kokumin/basic/basic_legal_08.html) (Anti-spam Law).
 
 Wolfram Research Asia Limited and/or Wolfram Research, Inc. may obtain email addresses listed within websites owned and operated by your institution with which Wolfram has a preexisting business relationship. Accordingly, an email may be sent with the singular purpose of advising the recipient of the existence of this business relationship and benefits and support the recipient has access to.
 
