@@ -128,6 +128,8 @@ Winners of a giveaway will receive a shareable link that contains a unique gift 
 
 Giveaways are available for purchase on Telegram’s store apps, direct and web versions and on Fragment. Prices may vary between each option. All purchases are nonrefundable. If there are not enough eligible participants to distribute all the prizes, the channel admins will receive all the undistributed premium activation links, to be used at the admins’ discretion. Undistributed prizes cannot be “rolled over” into other giveaways.
 
+Admins who sponsored a giveaway are not entitled to a refund if they lose access to their channel. Reasons for losing access include but are not limited to being demoted, banned, transferring ownership, and the channel being deleted by its owner or restricted by Telegram due to violations of these Terms of Service or the terms of app stores.
+
 Channels that mislead users into joining by means of giveaways that are later refunded with a third party (e.g., a bank) may be terminated or assigned a _scam_ label and removed from Telegram search. Subscribers gained as a result of such actions may be removed from the channel sponsoring the giveaway, all channels listed in the selection criteria and other associated channels at our sole discretion.
 
 Certain countries or jurisdictions may impose regulatory constraints on giveaways. If you run a giveaway, you are solely responsible for complying with applicable law. You explicitly acknowledge that Telegram is not liable in the event of sanctions, fees, and any form of legal or administrative action incurred as a result of or in relation to your use of the “Giveaway” feature provided by Telegram.
