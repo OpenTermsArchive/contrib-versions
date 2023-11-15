@@ -1,9 +1,9 @@
 Privacy Policy
 ==============
 
-Version 5.0 | March 8, 2023
+Version 6.0 | September 14, 2023
 
-At OPay, the privacy of our Data Subjects' Personal Data is of utmost importance to us. And in line with our resolution, we have developed this Privacy Policy to explain your privacy rights regarding how we collect, process, retain, share and protect your Personal Data when you visit our website, premises or use our digital platforms (collectively, "the Platform" or "Services").
+At OPay, the privacy of our Data Subjects and their Personal Data is of utmost importance to us. And in line with our resolution, we have developed this Privacy Policy to explain your privacy rights, particularly regarding how we collect, process, retain, share and protect your Personal Data when you visit our website, premises or use our digital platforms (collectively, "the Platform" or "Services").
 
 This Privacy Policy between OPay Digital Services Limited ("OPay") and you constitutes our commitment to your continued privacy on all our platforms. It is designed to provide information regarding our privacy practices and help you understand how we handle your data.
 
@@ -78,6 +78,7 @@ We may share your Personal Data or other information about you with others for t
     7. As reasonably and legally permitted, to facilitate a purchase or sale of all or part of Opay's business, or in the instance of some merger and acquisition;
     8. To support our audit, compliance, and corporate governance functions.
 * With your consent: We also will share your Personal Data and other information with your consent or direction.
+* Your BVN. By accepting this policy, you agree that, in line with regulation and in furtherance of our KYC computation processes, we may access and utilize your BVN to upgrade your account.
 
 6\. How We Use Cookies
 ----------------------
@@ -91,7 +92,7 @@ Cookies are small files placed on your device’s browser that enable the websit
     
     1. Access Request
         
-        As permitted under law and applicable data privacy regulations, you have the right to ask us whether we hold any Personal Data relating to you and, if we do, to be provided with a copy of that Personal Data in electronic form, unless you want to receive it in another way (for example, a paper copy). In addition, you can ask us for information on how we use your Personal Data, who we share it with, how long we keep it, where it is stored, and other information to help you understand how we use it.
+        As permitted under law and applicable data privacy regulations, you have the right to ask us whether we hold any Personal Data relating to you and, if we do, to be provided with a copy of that Personal Data in electronic form, unless you want to receive it in any other way (for example, a paper copy). In addition, you can ask us for information on how we use your Personal Data, who we share it with, how long we keep it, where it is stored, and other information to help you understand how we use it.
         
     2. Rectification Request
         
@@ -108,7 +109,7 @@ Cookies are small files placed on your device’s browser that enable the websit
         5. You object to the possession, provided there are no overriding legitimate grounds for continued processing, or
         6. You object to processing for direct marketing purposes.
     
-    If an erasure request is received, we will also take reasonable steps to inform other data controllers processing the data so they can seek to erase links to or copies of your Personal Data. We may refuse to act on your request to erase your Personal Data if the processing of your Personal Data is necessary:
+    If we receive your erasure request, we will also take reasonable steps to inform other data controllers processing the data so they can seek to erase links to or copies of your Personal Data. We may refuse to act on your request to erase your Personal Data if the processing of your Personal Data is necessary:
     
     1. To exercise our right of freedom of expression and information.
     2. To comply with the NDPR and relevant Nigerian laws.
@@ -130,7 +131,7 @@ Cookies are small files placed on your device’s browser that enable the websit
     * If you have given us your consent.
     * For establishing, exercising or defending legal claims.
     * For protecting the rights of another natural or legal person, or
-    * For reasons of important public interest as defined under the NDPR and relevant Nigerian laws.
+    * For reasons of important public interest as defined under the NDPR and relevant Nigerian laws
     
     Once processing is restricted following your request, we will inform you before we lift the restriction.
     
@@ -140,8 +141,6 @@ Cookies are small files placed on your device’s browser that enable the websit
     * Send your Personal Data to another organization or have us do so for you if it is technically feasible for us to do so.
     
     If your request relates to a set of Personal Data that also concerns other individuals, we may restrict the transfer to only the portion relevant to you, unless you establish that you have also gotten their consent.
-    
-    Even if you request the portability of your Personal Data, you retain your right to also request their erasure.
     
 5. Requests to Object to Automated Decisions: Generally, you have the right to object to any legal decision concerning you or which otherwise significantly affects you if this is based solely on the automated processing of your Personal Data. This includes automated decisions based on profiling. In such instance, you may undertake a legal process to prevent or advance your rights.
     
