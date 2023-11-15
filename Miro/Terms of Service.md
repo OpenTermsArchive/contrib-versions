@@ -193,13 +193,15 @@ Terms of Service
 
 [Online Community Terms of Use](https://miro.com/legal/online-community-terms-of-use)
 
-[Cookie List](https://miro.com/legal/cookie-list)
-
 [Open Source Software - Site](https://miro.com/legal/open-source-software-site)
 
 [Open Source Software - Client](https://miro.com/legal/open-source-software-client)
 
 [Current Subprocessors List](https://miro.com/legal/subprocessors-list)
+
+[Cookie List](https://miro.com/legal/cookie-list)
+
+[Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
 
 [Customer Data Processing Addendum](https://miro.com/legal/customer-data-processing-addendum)
 
@@ -212,8 +214,6 @@ Terms of Service
 [Vendor Data Processing Addendum](https://miro.com/legal/vendor-data-processing-addendum)
 
 [Code of Conduct](https://miro.com/legal/code-of-conduct)
-
-[Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
 
 ##### Table of contents
 
