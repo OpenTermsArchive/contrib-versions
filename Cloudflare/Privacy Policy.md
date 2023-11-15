@@ -445,7 +445,8 @@ Attention: Data Protection Officer
 
   
 
-### Legal
+Legal
+-----
 
 * * *
 
