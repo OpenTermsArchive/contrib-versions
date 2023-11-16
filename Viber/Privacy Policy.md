@@ -83,8 +83,7 @@ For more information regarding how we and our partners use cookies, as well as y
 Data we collect or receive from other sources and inferred data:
 
 * **Social media data**:
-    * If you sign in through third party social media sites like VK – your public profile, including name, relationship status, age, avatar, friends list, accounts you follow or who follow you, your email address, birthday, occupation history, education history, interests, current country, city, and video viewing. Access is ongoing and based on what you already share publicly;
-    * Social media data received through your contacts on social media, depending upon your and your contacts’ setting on such social media sites.
+    * If you have signed in to the app through third party social media sites – your email address, birthday and gender – if such information has appeared on your social media profile – was collected. Note that we disabled the option to sign in to the app through user social media accounts, and we no longer have any access to the current data from the social media accounts of users, who have signed in to Viber in such fashion in the past.
 * **Your contact name**, as saved on other users’ devices if they chose to share their contacts with us.
 * **Viber may also process inferences about your account and device identifier**, such as:
     * Inferred gender – for example, inferred from your name;
@@ -129,7 +128,7 @@ Viber uses different types of your personal data to create and administrate your
 
 * To authenticate and verify your account, as well as to make sure you do not already have a Viber account;
 * To synchronize your contact list on the App (meaning, in order to show you your contacts on the Viber interface so you contact them through Viber);
-* To create your profile, customize your Viber account according to the information you have provided (e.g. name or photo, including where you sign in through your social media account), and display such information as part of your profile when you use Viber Services.
+* To create your profile, customize your Viber account according to the information you have provided (e.g. name or photo), and display such information as part of your profile when you use Viber Services.
 
 The types of data we will use for such purpose will mainly include (as detailed in the “**[**Data We Collect**](#data-we-collect)**” section above):
 
@@ -346,7 +345,7 @@ We may share the data we collect about you with the Viber corporate family, incl
 * We share data with Viber’s subsidiaries due to our global operations, as we have teams and offices located worldwide, and each such subsidiary may operate the services or other functions (g. development) for a certain region;
 * Further, we share data with our affiliated company, Rakuten Marketing LLC, as our service provider for our marketing and advertising activities.
 
-For users registering to Viber from November 20, 2019 – details provided during your registration will be shared with Rakuten group to create the Rakuten account and/or to link your Rakuten account with your Viber account. In addition, the same will apply to users in Japan, who decided to link their email to their Viber account. Your Rakuten account or any activity related to your use of Rakuten services is governed by [**Rakuten ID Privacy Policy.**](https://corp.rakuten.co.jp/privacy/en/rakuten-id.html?)
+Your Rakuten account or any activity related to your use of Rakuten services is governed by [**Rakuten ID Privacy Policy.**](https://corp.rakuten.co.jp/privacy/en/rakuten-id.html?)
 
 **Our Service Providers**:
 
@@ -455,8 +454,8 @@ Viber respects your ability to exercise certain rights with regards to your pers
 * **The right to access your personal data** – you may receive your profile data by using the **[request your data button](https://help.viber.com/hc/en-us/articles/9062953104029)** (see below) and for further access requests you can contact our [](https://vb.me/ContactUs)**[support team](https://vb.me/ContactUs).**
 * **The right to request rectification the personal data we hold about you** – if you believe we have the wrong data about you, or that your data is incomplete, feel free to change your personal data at any time through the profile settings on your Viber settings on your mobile device. If you can’t find what you are looking for, [**contact us**](https://vb.me/ContactUs).
 * **The right to erase your personal data** – we have made it easy for you to delete your historical data on the App, while continuing to use the App. Simply tap on the **delete your data** button in your privacy settings. We will delete the data which we are not otherwise required to keep or is not necessary for the provision of the Service. And no need to worry – deleting your data won’t remove the chats on your Viber App on your phone. Note that when you deactivate the Viber account your data and chats are automatically deleted from your devices.
-* **The right to restrict our use of your personal data, right to opt out** – We allow you to opt out of certain processing of your data by using the [**Viber privacy settings**](https://vb.me/PrivacySettings) on your mobile device. You can decide which processing operations you want to opt-out of. You can also change the settings on your mobile device operating system at any time to prevent us gaining access to certain data such as your accurate location – but this may negatively impact on your user experience.
-* **The right to object to our use of your personal data** – you can object to the processing of certain forms of data by contacting our support. Complete this [**online form**](https://vb.me/ContactUs) and explain your special circumstances. If you receive emails from us, you can always opt out on the bottom of the email, or by contacting our support. We also allow you to opt out of certain processing of your data by using the [**Viber privacy settings**](https://vb.me/PrivacySettings) on your mobile device.
+* **The right to restrict our use of your personal data** – We allow you to opt out of certain processing of your data by using the [**Viber privacy settings**](https://vb.me/PrivacySettings) on your mobile device. You can decide which processing operations you want to opt-out of. You can also change the settings on your mobile device operating system at any time to prevent us gaining access to certain data such as your accurate location – but this may negatively impact on your user experience.
+* **The right to object to our use of your personal data (right to opt out)** – you can object to the processing of certain forms of data by contacting our support. Complete this [**online form**](https://vb.me/ContactUs) and explain your special circumstances. If you receive emails from us, you can always opt out on the bottom of the email, or by contacting our support. We also allow you to opt out of certain processing of your data by using the [**Viber privacy settings**](https://vb.me/PrivacySettings) on your mobile device.
 * **The right to receive your personal data in a usable electronic format and transmit it to an external party (right to data portability) –** we have created a [**request your data button**](https://vb.me/RequestDeleteData) in Viber’s privacy settings on your mobile device to make a simple way for you to access the data connected to your account. Once it is ready, you will receive a file from Viber containing this data.
 * **The right to withdraw consent –** where we have collected or other process your personal data based on your consent and permissions, at any time, you have the right withdraw your consent.
 * **Right to non-discrimination.**
@@ -529,7 +528,7 @@ We are committed to working with you to obtain a fair resolution of any complain
 
 In the event you read this policy in any language other than English, you agree that in the event of any discrepancies, the English version shall prevail.
 
-Current Privacy Policy PDF Version [Viber Privacy Policy August 2023](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-August-2023-2.pdf)
+Current Privacy Policy PDF Version [Viber Privacy Policy August 2023](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-August-2023-3.pdf)
 
 Previous Privacy Policy PDF Version [Viber Privacy Policy March 2022](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-June-2023.pdf)
 
