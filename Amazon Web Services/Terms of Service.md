@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: October 31, 2023
+#### Last Updated: November 16, 2023
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -742,7 +742,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 #### 50\. AWS Machine Learning and Artificial Intelligence Services
 
-**50.1.** “AI Services” means, collectively, Amazon Bedrock, Amazon CodeGuru Profiler, Amazon CodeGuru Reviewer, Amazon CodeWhisperer, Amazon Titan, Amazon Comprehend, Amazon Comprehend Medical, Amazon DevOps Guru, Amazon Forecast, AWS HealthLake, Amazon Kendra, Amazon Lex, Amazon Lookout for Metrics, Amazon Personalize, Amazon Polly, Amazon Rekognition, Amazon Textract, Amazon Transcribe, Amazon Transcribe Medical, Amazon Translate, AWS HealthOmics, and AWS HealthImaging. “AI Content” means Your Content that is processed by an AI Service.
+**50.1.** “AI Services” means, collectively, Amazon Bedrock, Amazon CodeGuru Profiler, Amazon CodeGuru Reviewer, Amazon CodeWhisperer, Amazon Titan, Amazon Comprehend, Amazon Comprehend Medical, Amazon DevOps Guru, Amazon Forecast, AWS HealthLake, Amazon Kendra, Amazon Lex, Amazon Lookout for Metrics, PartyRock, an Amazon Bedrock Playground (“PartyRock”), Amazon Personalize, Amazon Polly, Amazon Rekognition, Amazon Textract, Amazon Transcribe, Amazon Transcribe Medical, Amazon Translate, AWS HealthOmics, and AWS HealthImaging. “AI Content” means Your Content that is processed by an AI Service.
 
 **50.2.** The output that you generate using AI Services is Your Content. Due to the nature of machine learning, output may not be unique across customers and the Services may generate the same or similar results across customers.
 
@@ -778,13 +778,19 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **50.11.** Neither you nor your End Users will, or will attempt to, reverse engineer, disassemble, or decompile AI Services, or apply any other process or procedure to derive the source code or other underlying components (such as the model, model parameters, or model weights) of AI Services.  
 
-**50.12. Amazon Bedrock**. The following terms apply to Amazon Bedrock:
+**50.12. Amazon Bedrock** **and PartyRock.** The following terms apply to Amazon Bedrock and PartyRock:
 
-**50.12.1.** Third-party models are made available to you as “Third-Party Content” under your Agreement with AWS and are subject to additional third-party license terms specified in Amazon Bedrock and related documentation. Your access to and use of third-party models on Amazon Bedrock may require your use of AWS Marketplace, and in those cases Section 20 (AWS Marketplace) of the Service Terms apply. Notwithstanding anything to the contrary in the Agreement or Service Terms, for purposes of facilitating your purchases of Amazon Bedrock, Amazon Web Services, Inc. will be the AWS Contracting Party.
+**50.12.1.** Third-party models are made available to you as “Third-Party Content” under your Agreement with AWS and are subject to additional third-party license terms specified in Amazon Bedrock, PartyRock, and related documentation. Your access to and use of third-party models on Amazon Bedrock may require your use of AWS Marketplace, and in those cases Section 20 (AWS Marketplace) of the Service Terms apply. Notwithstanding anything to the contrary in the Agreement or Service Terms, for purposes of facilitating your purchases of Amazon Bedrock, Amazon Web Services, Inc. will be the AWS Contracting Party.
 
-**50.12.2.** We may share information, that does not include Your Content, about your use of a third-party model on Amazon Bedrock with the provider of that third-party model, including related to potential violations of the third-party model provider’s terms of service or acceptable use policies. 
+**50.12.2.** We may share information, that does not include Your Content, about your use of a third-party model on Amazon Bedrock and PartyRock with the provider of that third-party model, including related to potential violations of the third-party model provider’s terms of service or acceptable use policies. 
 
-**50.12.3.** Provisioned throughput commitments for Bedrock. We may change provisioned throughput commitment pricing or stop offering commitments for provisioned throughput at any time. Any price changes will not apply to existing commitments. Provisioned throughput commitments are nontransferable and noncancellable, so you will be charged for the duration of the term you selected, even if you terminate the Agreement.  
+**50.12.3.** Provisioned throughput commitments for Bedrock. We may change provisioned throughput commitment pricing or stop offering commitments for provisioned throughput at any time. Any price changes will not apply to existing commitments. Provisioned throughput commitments are nontransferable and noncancellable, so you will be charged for the duration of the term you selected, even if you terminate the Agreement.
+
+**50.12.4.** PartyRock is intended for personal and educational use, and not for commercial or business use. You may not use PartyRock if you are younger than 18. We do not knowingly collect information from anyone under 18, but if we discover that we have inadvertently collected information from anyone under 18, we will delete that information.
+
+**50.12.5**. PartyRock Data. We use the input that you provide and output that you generate when using PartyRock (“PartyRock Data”) in accordance with the [AWS Privacy Notice](https://aws.amazon.com/privacy/). As described in the [AWS Privacy Notice](https://aws.amazon.com/privacy/) and [PartyRock FAQs](https://partyrock.aws/guide/faq), we may use PartyRock Data to develop and improve AWS and affiliate machine-learning and artificial intelligence technologies. You may instruct AWS not to use PartyRock Data to develop and improve AWS and affiliate machine-learning and artificial intelligence technologies by using the opt-out mechanism described in the [PartyRock FAQs](https://partyrock.aws/guide/faq). We may use PartyRock Data to maintain and provide PartyRock and enforce our policies, including to develop and improve our fraud, abuse, and AI safety operations. PartyRock Data does not constitute Your Content as defined in the Agreement.  
+
+**50.12.6.** PartyRock Apps. “PartyRock App” means any application created or remixed through PartyRock, including any app snapshot and all corresponding source code. By creating or remixing a PartyRock App, you hereby grant: (a) AWS and its affiliates a worldwide, non-exclusive, fully paid-up, royalty-free license to access, reproduce, prepare derivative works based upon, transmit, display, perform and otherwise exploit your PartyRock App in connection with PartyRock; and (b) anyone who accesses your PartyRock App (“PartyRock Users”), a non-exclusive license to access, reproduce, export, use, prepare derivative works based upon, transmit, and otherwise exploit your PartyRock App for any personal purpose. We may reject, remove, or disable your PartyRock App, PartyRock alias, or PartyRock account at any time for any reason with or without notice to you. You are responsible for your PartyRock Apps, PartyRock Data, and use of your PartyRock Apps, including compliance with the Policies as defined in the Agreement and applicable law. Except as provided in this Section 50.12, we obtain no rights under the Agreement to PartyRock Data or PartyRock Apps. Neither AWS, its Affiliates, nor PartyRock Users have any obligations to make any payments to you in connection with your PartyRock Apps. You will defend and indemnify AWS and its Affiliates for any and all damages, liabilities, penalties, fines, costs, and expenses (including reasonable attorneys’ fees) arising out of or in any way related to Your PartyRock Apps or your use of PartyRock. Do not include personally identifying, confidential, or sensitive information in the input that you provide to create or use a PartyRock App.  
 
 #### 51\. Amazon Lightsail
 
