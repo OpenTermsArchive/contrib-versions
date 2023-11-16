@@ -1,453 +1,683 @@
-Trademark policy
-================
+Illegal or certain regulated goods or services
+==============================================
 
 ### Overview 
 
-**April 2023**
+**March 2023**
 
-**You may not violate others’ intellectual property rights, including copyright and trademark.**
+**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
 
-A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
+X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+
+Goods or services covered under this policy include, but are not limited to:
+
+* counterfeit goods and services\*;
+* drugs and controlled substances;
+* human trafficking;
+* products made from endangered or protected species;
+* sexual services;
+* illicitly obtained materials; and
+* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+     
+
+\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
   
 
-### What is in violation of this policy? 
+### What happens if you violate this policy? 
 
-Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
+If we determine that you violated this policy, we may suspend your account, including upon first review.
+
+Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
  
-
-### What is not a violation of this policy? 
-
-Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
-
-* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
-
-Trademark policy
-================
-
-### Overview 
-
-**April 2023**
-
-**You may not violate others’ intellectual property rights, including copyright and trademark.**
-
-A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
-  
-
-### What is in violation of this policy? 
-
-Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
- 
-
-### What is not a violation of this policy? 
-
-Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
-
-* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
-
-Trademark policy
-================
-
-### Overview 
-
-**April 2023**
-
-**You may not violate others’ intellectual property rights, including copyright and trademark.**
-
-A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
-  
-
-### What is in violation of this policy? 
-
-Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
- 
-
-### What is not a violation of this policy? 
-
-Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
-
-* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
-
-Trademark policy
-================
-
-### Overview 
-
-**April 2023**
-
-**You may not violate others’ intellectual property rights, including copyright and trademark.**
-
-A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
-  
-
-### What is in violation of this policy? 
-
-Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
- 
-
-### What is not a violation of this policy? 
-
-Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
-
-* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
-
-Trademark policy
-================
-
-### Overview 
-
-**April 2023**
-
-**You may not violate others’ intellectual property rights, including copyright and trademark.**
-
-A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
-  
-
-### What is in violation of this policy? 
-
-Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
- 
-
-### What is not a violation of this policy? 
-
-Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
-
-* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
-
-Trademark policy
-================
-
-### Overview 
-
-**April 2023**
-
-**You may not violate others’ intellectual property rights, including copyright and trademark.**
-
-A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
-  
-
-### What is in violation of this policy? 
-
-Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
- 
-
-### What is not a violation of this policy? 
-
-Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
-
-* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
-
-Trademark policy
-================
-
-### Overview 
-
-**April 2023**
-
-**You may not violate others’ intellectual property rights, including copyright and trademark.**
-
-A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
-  
-
-### What is in violation of this policy? 
-
-Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
- 
-
-### What is not a violation of this policy? 
-
-Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
-
-* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
-
-Trademark policy
-================
-
-### Overview 
-
-**April 2023**
-
-**You may not violate others’ intellectual property rights, including copyright and trademark.**
-
-A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
-  
-
-### What is in violation of this policy? 
-
-Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
- 
-
-### What is not a violation of this policy? 
-
-Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
-
-* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
-
-Trademark policy
-================
-
-### Overview 
-
-**April 2023**
-
-**You may not violate others’ intellectual property rights, including copyright and trademark.**
-
-A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
-  
-
-### What is in violation of this policy? 
-
-Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
- 
-
-### What is not a violation of this policy? 
-
-Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
-
-* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
-
-Trademark policy
-================
-
-### Overview 
-
-**April 2023**
-
-**You may not violate others’ intellectual property rights, including copyright and trademark.**
-
-A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
-  
-
-### What is in violation of this policy? 
-
-Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
- 
-
-### What is not a violation of this policy? 
-
-Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
-
-* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
-
-Trademark policy
-================
-
-### Overview 
-
-**April 2023**
-
-**You may not violate others’ intellectual property rights, including copyright and trademark.**
-
-A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
-  
-
-### What is in violation of this policy? 
-
-Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
- 
-
-### What is not a violation of this policy? 
-
-Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
-
-* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
-
-Trademark policy
-================
-
-### Overview 
-
-**April 2023**
-
-**You may not violate others’ intellectual property rights, including copyright and trademark.**
-
-A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
-  
-
-### What is in violation of this policy? 
-
-Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
- 
-
-### What is not a violation of this policy? 
-
-Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
-
-* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
-
-Trademark policy
-================
-
-### Overview 
-
-**April 2023**
-
-**You may not violate others’ intellectual property rights, including copyright and trademark.**
-
-A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
-  
-
-### What is in violation of this policy? 
-
-Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
- 
-
-### What is not a violation of this policy? 
-
-Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
-
-* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
-
-Trademark policy
-================
-
-### Overview 
-
-**April 2023**
-
-**You may not violate others’ intellectual property rights, including copyright and trademark.**
-
-A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
-  
-
-### What is in violation of this policy? 
-
-Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
- 
-
-### What is not a violation of this policy? 
-
-Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
-
-* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
-
-Trademark policy
-================
-
-### Overview 
-
-**April 2023**
-
-**You may not violate others’ intellectual property rights, including copyright and trademark.**
-
-A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
-  
-
-### What is in violation of this policy? 
-
-Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
- 
-
-### What is not a violation of this policy? 
-
-Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
-
-* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
-
-Trademark policy
-================
-
-### Overview 
-
-**April 2023**
-
-**You may not violate others’ intellectual property rights, including copyright and trademark.**
-
-A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
-  
-
-### What is in violation of this policy? 
-
-Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
- 
-
-### What is not a violation of this policy? 
-
-Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
-
-* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
-
-Trademark policy
-================
-
-### Overview 
-
-**April 2023**
-
-**You may not violate others’ intellectual property rights, including copyright and trademark.**
-
-A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
-  
-
-### What is in violation of this policy? 
-
-Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
- 
-
-### What is not a violation of this policy? 
-
-Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
-
-* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)  
-    
-
-### Who can report violations of this policy? 
-
-X only investigates requests that are submitted by the trademark holder or their authorized representative e.g., a legal representative or other representative for a brand.   
- 
-
-### How can I report violations of this policy? 
-
-You can submit a trademark report through our [trademark report form](https://help.twitter.com/forms/trademark). Please provide all the information requested in the form. If you submit an incomplete report, we’ll need to follow up about the missing information. Please note that this will result in a delay in processing your report.
-
-**Note:** We may provide the account holder with your name and other information included in the copy of the report.  
-  
-
-### What happens if you violate this policy?  
-  
-
-If we determine that you violated our trademark policy, we may suspend your account. Depending on the type of violation, we may give you an opportunity to comply with our policies. In other instances, an account may be permanently suspended upon first review. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
 ### Additional resources 
 
 Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-Trademark policy
-================
+Illegal or certain regulated goods or services
+==============================================
 
 ### Overview 
 
-**April 2023**
+**March 2023**
 
-**You may not violate others’ intellectual property rights, including copyright and trademark.**
+**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
 
-A trademark is a word, logo, phrase, or device that distinguishes a trademark holder’s good or service in the marketplace. Trademark law may prevent others from using a trademark in an unauthorized or confusing manner.    
+X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+
+Goods or services covered under this policy include, but are not limited to:
+
+* counterfeit goods and services\*;
+* drugs and controlled substances;
+* human trafficking;
+* products made from endangered or protected species;
+* sexual services;
+* illicitly obtained materials; and
+* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+     
+
+\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
   
 
-### What is in violation of this policy? 
+### What happens if you violate this policy? 
 
-Using another’s trademark in a way that may mislead or confuse people about your affiliation may be a violation of our trademark policy.  
+If we determine that you violated this policy, we may suspend your account, including upon first review.
+
+Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
  
 
-### What is not a violation of this policy? 
+### Additional resources 
 
-Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
-* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.twitter.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)
+Illegal or certain regulated goods or services
+==============================================
+
+### Overview 
+
+**March 2023**
+
+**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+
+X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+
+Goods or services covered under this policy include, but are not limited to:
+
+* counterfeit goods and services\*;
+* drugs and controlled substances;
+* human trafficking;
+* products made from endangered or protected species;
+* sexual services;
+* illicitly obtained materials; and
+* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+     
+
+\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+  
+
+### What happens if you violate this policy? 
+
+If we determine that you violated this policy, we may suspend your account, including upon first review.
+
+Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+ 
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Illegal or certain regulated goods or services
+==============================================
+
+### Overview 
+
+**March 2023**
+
+**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+
+X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+
+Goods or services covered under this policy include, but are not limited to:
+
+* counterfeit goods and services\*;
+* drugs and controlled substances;
+* human trafficking;
+* products made from endangered or protected species;
+* sexual services;
+* illicitly obtained materials; and
+* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+     
+
+\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+  
+
+### What happens if you violate this policy? 
+
+If we determine that you violated this policy, we may suspend your account, including upon first review.
+
+Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+ 
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Illegal or certain regulated goods or services
+==============================================
+
+### Overview 
+
+**March 2023**
+
+**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+
+X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+
+Goods or services covered under this policy include, but are not limited to:
+
+* counterfeit goods and services\*;
+* drugs and controlled substances;
+* human trafficking;
+* products made from endangered or protected species;
+* sexual services;
+* illicitly obtained materials; and
+* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+     
+
+\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+  
+
+### What happens if you violate this policy? 
+
+If we determine that you violated this policy, we may suspend your account, including upon first review.
+
+Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+ 
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Illegal or certain regulated goods or services
+==============================================
+
+### Overview 
+
+**March 2023**
+
+**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+
+X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+
+Goods or services covered under this policy include, but are not limited to:
+
+* counterfeit goods and services\*;
+* drugs and controlled substances;
+* human trafficking;
+* products made from endangered or protected species;
+* sexual services;
+* illicitly obtained materials; and
+* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+     
+
+\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+  
+
+### What happens if you violate this policy? 
+
+If we determine that you violated this policy, we may suspend your account, including upon first review.
+
+Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+ 
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Illegal or certain regulated goods or services
+==============================================
+
+### Overview 
+
+**March 2023**
+
+**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+
+X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+
+Goods or services covered under this policy include, but are not limited to:
+
+* counterfeit goods and services\*;
+* drugs and controlled substances;
+* human trafficking;
+* products made from endangered or protected species;
+* sexual services;
+* illicitly obtained materials; and
+* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+     
+
+\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+  
+
+### What happens if you violate this policy? 
+
+If we determine that you violated this policy, we may suspend your account, including upon first review.
+
+Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+ 
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Illegal or certain regulated goods or services
+==============================================
+
+### Overview 
+
+**March 2023**
+
+**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+
+X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+
+Goods or services covered under this policy include, but are not limited to:
+
+* counterfeit goods and services\*;
+* drugs and controlled substances;
+* human trafficking;
+* products made from endangered or protected species;
+* sexual services;
+* illicitly obtained materials; and
+* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+     
+
+\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+  
+
+### What happens if you violate this policy? 
+
+If we determine that you violated this policy, we may suspend your account, including upon first review.
+
+Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+ 
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Illegal or certain regulated goods or services
+==============================================
+
+### Overview 
+
+**March 2023**
+
+**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+
+X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+
+Goods or services covered under this policy include, but are not limited to:
+
+* counterfeit goods and services\*;
+* drugs and controlled substances;
+* human trafficking;
+* products made from endangered or protected species;
+* sexual services;
+* illicitly obtained materials; and
+* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+     
+
+\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+  
+
+### What happens if you violate this policy? 
+
+If we determine that you violated this policy, we may suspend your account, including upon first review.
+
+Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+ 
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Illegal or certain regulated goods or services
+==============================================
+
+### Overview 
+
+**March 2023**
+
+**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+
+X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+
+Goods or services covered under this policy include, but are not limited to:
+
+* counterfeit goods and services\*;
+* drugs and controlled substances;
+* human trafficking;
+* products made from endangered or protected species;
+* sexual services;
+* illicitly obtained materials; and
+* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+     
+
+\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+  
+
+### What happens if you violate this policy? 
+
+If we determine that you violated this policy, we may suspend your account, including upon first review.
+
+Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+ 
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Illegal or certain regulated goods or services
+==============================================
+
+### Overview 
+
+**March 2023**
+
+**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+
+X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+
+Goods or services covered under this policy include, but are not limited to:
+
+* counterfeit goods and services\*;
+* drugs and controlled substances;
+* human trafficking;
+* products made from endangered or protected species;
+* sexual services;
+* illicitly obtained materials; and
+* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+     
+
+\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+  
+
+### What happens if you violate this policy? 
+
+If we determine that you violated this policy, we may suspend your account, including upon first review.
+
+Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+ 
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Illegal or certain regulated goods or services
+==============================================
+
+### Overview 
+
+**March 2023**
+
+**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+
+X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+
+Goods or services covered under this policy include, but are not limited to:
+
+* counterfeit goods and services\*;
+* drugs and controlled substances;
+* human trafficking;
+* products made from endangered or protected species;
+* sexual services;
+* illicitly obtained materials; and
+* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+     
+
+\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+  
+
+### What happens if you violate this policy? 
+
+If we determine that you violated this policy, we may suspend your account, including upon first review.
+
+Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+ 
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Illegal or certain regulated goods or services
+==============================================
+
+### Overview 
+
+**March 2023**
+
+**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+
+X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+
+Goods or services covered under this policy include, but are not limited to:
+
+* counterfeit goods and services\*;
+* drugs and controlled substances;
+* human trafficking;
+* products made from endangered or protected species;
+* sexual services;
+* illicitly obtained materials; and
+* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+     
+
+\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+  
+
+### What happens if you violate this policy? 
+
+If we determine that you violated this policy, we may suspend your account, including upon first review.
+
+Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+ 
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Illegal or certain regulated goods or services
+==============================================
+
+### Overview 
+
+**March 2023**
+
+**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+
+X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+
+Goods or services covered under this policy include, but are not limited to:
+
+* counterfeit goods and services\*;
+* drugs and controlled substances;
+* human trafficking;
+* products made from endangered or protected species;
+* sexual services;
+* illicitly obtained materials; and
+* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+     
+
+\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+  
+
+### What happens if you violate this policy? 
+
+If we determine that you violated this policy, we may suspend your account, including upon first review.
+
+Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+ 
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Illegal or certain regulated goods or services
+==============================================
+
+### Overview 
+
+**March 2023**
+
+**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+
+X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+
+Goods or services covered under this policy include, but are not limited to:
+
+* counterfeit goods and services\*;
+* drugs and controlled substances;
+* human trafficking;
+* products made from endangered or protected species;
+* sexual services;
+* illicitly obtained materials; and
+* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+     
+
+\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+  
+
+### What happens if you violate this policy? 
+
+If we determine that you violated this policy, we may suspend your account, including upon first review.
+
+Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+ 
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Illegal or certain regulated goods or services
+==============================================
+
+### Overview 
+
+**March 2023**
+
+**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+
+X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+
+Goods or services covered under this policy include, but are not limited to:
+
+* counterfeit goods and services\*;
+* drugs and controlled substances;
+* human trafficking;
+* products made from endangered or protected species;
+* sexual services;
+* illicitly obtained materials; and
+* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+     
+
+\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+  
+
+### What happens if you violate this policy? 
+
+If we determine that you violated this policy, we may suspend your account, including upon first review.
+
+Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+ 
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Illegal or certain regulated goods or services
+==============================================
+
+### Overview 
+
+**March 2023**
+
+**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+
+X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+
+Goods or services covered under this policy include, but are not limited to:
+
+* counterfeit goods and services\*;
+* drugs and controlled substances;
+* human trafficking;
+* products made from endangered or protected species;
+* sexual services;
+* illicitly obtained materials; and
+* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+     
+
+\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+  
+
+### What happens if you violate this policy? 
+
+If we determine that you violated this policy, we may suspend your account, including upon first review.
+
+Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+ 
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+Illegal or certain regulated goods or services
+==============================================
+
+### Overview 
+
+**March 2023**
+
+**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+
+X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+
+Goods or services covered under this policy include, but are not limited to:
+
+* counterfeit goods and services\*;
+* drugs and controlled substances;
+* human trafficking;
+* products made from endangered or protected species;
+* sexual services;
+* illicitly obtained materials; and
+* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+     
+
+\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
+  
+
+### What happens if you violate this policy? 
+
+If we determine that you violated this policy, we may suspend your account, including upon first review.
+
+Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
+ 
+
+### Additional resources 
+
+Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
