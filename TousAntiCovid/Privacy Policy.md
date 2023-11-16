@@ -50,13 +50,7 @@
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-    * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-        * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
+    * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
@@ -194,7 +188,12 @@
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
-        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+        * [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
+            
+            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -205,6 +204,7 @@
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
+        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -412,13 +412,7 @@
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-    * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-        * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
+    * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
@@ -556,7 +550,12 @@
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
-        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+        * [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
+            
+            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -567,6 +566,7 @@
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
+        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -915,13 +915,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-    * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-        * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
+    * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
@@ -1059,7 +1053,12 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
-        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+        * [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
+            
+            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -1070,6 +1069,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
+        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -1277,13 +1277,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-    * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-        * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
+    * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
@@ -1421,7 +1415,12 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
-        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+        * [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
+            
+            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -1432,6 +1431,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
+        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -1760,13 +1760,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-    * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-        * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
+    * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
@@ -1904,7 +1898,12 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
-        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+        * [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
+            
+            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -1915,6 +1914,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
+        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -2122,13 +2122,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-    * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-        * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
+    * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
@@ -2266,7 +2260,12 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
-        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+        * [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
+            
+            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -2277,6 +2276,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
+        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -2550,13 +2550,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-    * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-        * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
+    * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
@@ -2694,7 +2688,12 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
-        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+        * [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
+            
+            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -2705,6 +2704,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
+        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -2918,13 +2918,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-    * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-        * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
+    * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
@@ -3062,7 +3056,12 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
-        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+        * [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
+            
+            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -3073,6 +3072,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
+        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -3286,13 +3286,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-    * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-        * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
+    * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
@@ -3430,7 +3424,12 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
-        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+        * [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
+            
+            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -3441,6 +3440,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
+        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -3654,13 +3654,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-    * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-        * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
+    * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
@@ -3798,7 +3792,12 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
-        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+        * [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
+            
+            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -3809,6 +3808,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
+        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -4022,13 +4022,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-    * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-        * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
+    * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
@@ -4166,7 +4160,12 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
-        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+        * [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
+            
+            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -4177,6 +4176,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
+        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -4390,13 +4390,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-    * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-        * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
+    * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
@@ -4534,7 +4528,12 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
-        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+        * [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
+            
+            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -4545,6 +4544,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
+        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -4734,10 +4734,6 @@ Retour
 
 * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
 
-* [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-* [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-* [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-
 * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
 * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
 
@@ -4791,6 +4787,10 @@ Retour
 * [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
 * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
 * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
+
+* [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+* [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+* [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
 
 * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
 * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
@@ -4948,13 +4948,7 @@ Retour
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-    * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-        * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
+    * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
@@ -5092,7 +5086,12 @@ Retour
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
-        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+        * [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
+            
+            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -5103,6 +5102,7 @@ Retour
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
+        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -5310,13 +5310,7 @@ Retour
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-    * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-        * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
+    * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
@@ -5454,7 +5448,12 @@ Retour
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
-        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+        * [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
+            
+            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -5465,6 +5464,7 @@ Retour
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
+        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -5672,13 +5672,7 @@ Retour
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-    * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-        * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
+    * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
@@ -5816,7 +5810,12 @@ Retour
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
-        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+        * [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
+            
+            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -5827,6 +5826,7 @@ Retour
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
+        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -6034,13 +6034,7 @@ Retour
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-    * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-        * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
+    * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
@@ -6178,7 +6172,12 @@ Retour
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
-        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+        * [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
+            
+            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -6189,6 +6188,7 @@ Retour
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
+        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -6396,13 +6396,7 @@ Retour
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-    * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-        * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
+    * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
@@ -6540,7 +6534,12 @@ Retour
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
-        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+        * [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
+            
+            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -6551,6 +6550,7 @@ Retour
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
+        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -6758,13 +6758,7 @@ Retour
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-    * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-        * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
+    * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
@@ -6909,13 +6903,7 @@ Retour
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-    * * [Lutte contre l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-        * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
+    * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
@@ -7042,10 +7030,6 @@ Retour
 
 * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
 
-* [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-* [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-* [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-
 * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
 * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
 
@@ -7108,7 +7092,12 @@ Retour
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
-        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+        * [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
+            
+            * [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+            * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -7119,6 +7108,7 @@ Retour
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
+        * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -7310,6 +7300,10 @@ Retour
 * [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
 * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
 * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
+
+* [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+* [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+* [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
 
 * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
 * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
