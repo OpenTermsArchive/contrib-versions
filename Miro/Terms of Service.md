@@ -8,7 +8,7 @@
     * [Content & Data Visualization](https://miro.com/team-workspace/)
     
     * [Workshops & Async Collaboration](https://miro.com/workshops-async-collaboration/)
-    * [Miro Assist](https://miro.com/assist/)
+    * [Artificial Intelligence](https://miro.com/assist/)
     * [Apps & Integrations](https://miro.com/integrations/)
     * [Developer Platform](https://developers.miro.com/)
     
