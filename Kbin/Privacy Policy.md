@@ -1,31 +1,26 @@
 Privacy policy
 ==============
 
-At kbin.social, we value the privacy and security of our users. This privacy policy outlines the types of information we collect, how we use and protect that information, and our commitment to transparency.
+Welcome to Kbin, an open source social networking platform where everyone is welcome to create their own communities and share their interests with others. By using our platform, you agree to the following terms:
 
-Server Location
----------------
+Respectful Behavior
+-------------------
 
-Our servers are located in Europe, specifically in the Germany.
+We expect all users to treat each other with respect and kindness. Harassment, hate speech, or any other form of harmful behavior will not be tolerated. We reserve the right to remove any content or user that violates these guidelines.
 
-JavaScript Not Required
------------------------
+Early Version
+-------------
 
-The kbin.social platform is designed to work without JavaScript enabled in your browser. You can fully use the platform without having to enable JavaScript.
+Kbin is still in its early version, and not all features may work as intended. We are constantly working on improving the platform, and appreciate any feedback or suggestions from our users.
 
-Cookies
--------
+Community Moderation
+--------------------
 
-We only use session cookies that are necessary for logging in and customizing the user interface. We do not use any tracking cookies or scripts.
+Each magazine on Kbin has its own moderators, who are responsible for enforcing the community's rules and guidelines. If you have any issues with a particular community or its moderators, please contact us.
 
-No User Tracking
+Account Deletion
 ----------------
 
-kbin.social does not track user activity on the platform, nor do we use any tracking scripts. We do not collect any personal information about our users except what is required for registration and login.
+If you wish to delete your account, you can do so at any time by clicking the "Delete Account" button in your user settings. Please note that this action is irreversible and will delete all of your data from our servers.
 
-Part of the Fediverse
----------------------
-
-kbin.social is part of the Fediverse, a network of decentralized social media platforms. This means that users can communicate and interact with users on other platforms like Mastodon, Pleroma, Peertube, Pixelfed, Miskey.
-
-By using kbin.social, you agree to this Privacy Policy. If you have any questions or concerns, please contact us.
+By using Kbin, you agree to these Terms of Service. If you have any questions or concerns, please contact us.
