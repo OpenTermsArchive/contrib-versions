@@ -1160,7 +1160,6 @@ For reservations made between 14 February 2022 and 30 October 2023 inclusive
     * [E. Flights](#nov2021_terms_flights_heading)
     * [F. Private and Public Transport](#nov2021_terms_rides_heading)
     * [Booking.com dictionary](#nov2021_terms_dictionary_heading)
-    * [Previous terms of service](#tcs_previous_terms_section)
     
     Back to top
     
