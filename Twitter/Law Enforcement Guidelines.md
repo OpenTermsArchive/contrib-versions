@@ -165,7 +165,7 @@ Government and law enforcement reporters may also request the withholding of con
 
 Find more information on our Country Withheld Content policy [here](https://help.twitter.com/en/rules-and-policies/tweet-withheld-by-country).
 
-### Assisting a X user
+### Assisting an X user
 
   
 Registered X users can obtain a download of their own account information, including posts posted to his or her X account. Directions on how a user can request that information are available in our [Help Center](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive).
@@ -191,7 +191,7 @@ X’s Legal Request Submission site is the designated single point of contact as
 
 All legal requests made under the Digital Services Act must be provided in English.
 
-If you experience issues with our Legal Request Submissions site, you may ask for assistance through our [web form](https://support.twitter.com/forms/lawenforcement) by selecting “other inquiries” for the type of request.  
+If you experience issues or are requesting access to our Legal Request Submissions site, you may ask for assistance through our [web form](https://support.twitter.com/forms/lawenforcement) by selecting “other inquiries” for the type of request.  
 
 Receipt of correspondence by this means is for convenience only and does not waive any objections, including the lack of jurisdiction or proper service.  
   
