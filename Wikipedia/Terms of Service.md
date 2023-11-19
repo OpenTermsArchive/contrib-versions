@@ -123,7 +123,7 @@ Other languages:
 * [гӀалгӀай](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/inh "Пайда эцара бехкамаш (1% translated)")
 * [кыргызча](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ky "Колдонуу шарттары (1% translated)")
 * [македонски](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mk "Услови на употреба (36% translated)")
-* [нохчийн](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ce "Лелоран хьал (1% translated)")
+* [нохчийн](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ce "Лелоран хьал (2% translated)")
 * [русский](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru "Условия использования (99% translated)")
 * [српски / srpski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sr "Услови коришћења (16% translated)")
 * [тоҷикӣ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tg "Қоидаҳои истифода (3% translated)")
