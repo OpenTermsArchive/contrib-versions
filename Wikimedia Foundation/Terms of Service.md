@@ -59,9 +59,8 @@ Other languages:
 
 * [Afrikaans](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/af "Ons Gebruikstermrces (4% translated)")
 * [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/id "Ketentuan Penggunaan Kami (37% translated)")
-* [Bân-lâm-gú](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nan "Sú-iōng tiâu-khuán (10% translated)")
+* [Bân-lâm-gú](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nan "Sú-iōng tiâu-khuán (11% translated)")
 * [Cymraeg](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cy "Telerau defnydd (5% translated)")
-* [Deitsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pdc "Policy:Terms of Use/pdc (0% translated)")
 * [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de "Nutzungsbedingungen (100% translated)")
 * [Deutsch (Sie-Form)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de-formal "Nutzungsbedingungen (99% translated)")
 * English
@@ -145,7 +144,7 @@ Other languages:
 * [मराठी](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mr "वापराच्या अटी (18% translated)")
 * [हिन्दी](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hi "सेवा शर्तें (97% translated)")
 * [অসমীয়া](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/as "ব্যৱহাৰৰ চৰ্তাৱলী (1% translated)")
-* [বাংলা](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bn "ব্যবহারের শর্তাবলী (16% translated)")
+* [বাংলা](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bn "ব্যবহারের শর্তাবলী (18% translated)")
 * [ਪੰਜਾਬੀ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pa "ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ (14% translated)")
 * [ગુજરાતી](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/gu "વપરાશની શરતો (8% translated)")
 * [தமிழ்](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ta "பயன்படுத்தல் விதிமுறைகள் (7% translated)")
