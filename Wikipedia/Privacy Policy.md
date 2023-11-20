@@ -118,7 +118,7 @@ Other languages:
 * [მარგალური](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/xmf "კონფიდენციალურალაშ პოლიტიკა (25% translated)")
 * [ქართული](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ka "კონფიდენციალურობის პოლიტიკა (12% translated)")
 * [ភាសាខ្មែរ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/km "គោលការណ៍ឯកជនភាព (26% translated)")
-* [中文](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/zh "方针:隐私方针 (96% translated)")
+* [中文](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/zh "方针:隐私方针 (97% translated)")
 * [日本語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ja "方針:プライバシー・ポリシー (97% translated)")
 * [粵語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/yue "私隱政策 (24% translated)")
 * [ꠍꠤꠟꠐꠤ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/syl "ꠘꠤꠔꠤ ꠪ ꠀꠟꠣꠉꠣꠁ ꠞꠣꠈꠣꠞ ꠘꠤꠔꠤ (1% translated)")
