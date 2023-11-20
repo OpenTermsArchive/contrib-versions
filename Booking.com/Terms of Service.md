@@ -199,13 +199,17 @@ A12. Genius
 
 1\. The Genius rate is a discounted rate offered by participating Service Providers for certain products/services.
 
-2\. Genius rates are for members of the Booking.com Genius programme. There are no membership fees, and it’s easy to become a member - just create an Account and we’ll email you a link that you’ll need to click to validate your email address. Membership and rates are non-transferable. Membership is linked to a specific Account. Membership can also be linked to specific campaigns or incentives.
+2\. Genius rates are for members of the Booking.com Genius programme. There are no membership fees, and it’s easy to become a member - just create an Account. Membership and rates are non-transferable. Membership is linked to a specific Account. Membership can also be linked to specific campaigns or incentives.
 
-3\. There are different ‘Genius Levels’, based on how many Accommodation Bookings you’ve made in a given period. Each level provides different travel rewards.
+3\. There are different ‘Genius Levels’, based on the number of completed bookings made within a given period for any vertical offered by the programme. Each level provides different travel rewards. To reach Level 2, the user must complete 5 bookings within 2 years. To reach Level 3, the user must complete 15 bookings within 2 years.
 
-4\. We may change any feature of the Genius programme, including the membership levels and the way the programme is structured.
+4\. The following types of reservations made through Booking.com are excluded from the Genius programme: Ride hail, Insurance, public transport, free options, Partner offers and any additional purchases such as room upgrades, child seats for Rental Cars, and additional luggage.
 
-5\. For more details, visit [https://www.booking.com/genius.html](https://secure.booking.com/genius.en-gb.html?).
+5\. We may change any feature of the Genius programme, including the membership levels, eligible booking types for progression, and the way the programme is structured.
+
+6\. To ensure a fair and secure programme, we may investigate instances of fraud, misuse, or abuse. This may result in a membership being cancelled and earned rewards being lost.
+
+7\. For more details, visit [https://www.booking.com/genius.html](https://secure.booking.com/genius.en-gb.html?).
 
 A13. Rewards, Credits & Wallet
 
