@@ -4,7 +4,7 @@ Binance Terms of Use
 **TERMS OF USE - United Kingdom**
 =================================
 
-You can download a PDF copy of these terms [here](https://public.bnbstatic.com/static/terms_doc/2023_07_27_terms_of_use_uk_consolidated-f8ef267b2.pdf).
+You can download a PDF copy of these terms [here](https://public.bnbstatic.com/static/terms_doc/20231117_TERMS_OF_USE_UnitedKingdom_Consolidated_aba03c38eca9d7.pdf).
 
 **Last Updated: 27 July 2023**  
 **Effective Date: 10 August 2023**
