@@ -1583,6 +1583,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Barcelona's City Hall Open Data Service: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
+        * MITECO - Ministerio para la Transición Ecológica y el Reto Demográfico: [https://www.ica.miteco.es/](https://www.ica.miteco.es/)
+            
+        * Instituto Geográfico Nacional (IGN): [https://www.scne.es/avisoLegal.html](https://www.scne.es/avisoLegal.html)
+            
     56. **Sweden**
         * © 2009 Cartesia GIS AB
             
@@ -2258,6 +2262,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Latvian Open Data Portal - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
         * Open Data Latvia - [https://data.gov.lv/lv](https://data.gov.lv/lv)
+            
+        * VSIA "Latvijas Vides, Ģeoloģijas un Meteoroloģijas Centrs"
             
     82. **Slovenia**
         * Javni Geodetski Podatki - Public Geodetic Data Slovenia - [https://creativecommons.org/licenses/by/4.0/deed.sl](https://creativecommons.org/licenses/by/4.0/deed.sl)
