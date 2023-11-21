@@ -31,7 +31,7 @@ By accessing or using any Licensed Material (defined below), or clicking on a bu
 
 **8.** “**Post**” means a short-form text and multimedia-based message distributed via the X Applications.
 
-**9.** “**X**” means (a) X Corp. (1355 Market Street, Suite 900, San Francisco, CA, 94103, USA) if your principal place of business is in North America (including Hawaii) or South America; or (b) Twitter International Unlimited Company (One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland) if your principal place of business is in any country or territory outside of North America (including Hawaii) or South America.
+**9.** “**X**” means (a) X Corp. (1355 Market Street, Suite 900, San Francisco, CA, 94103, USA) if your principal place of business is outside the European Union, EFTA States, and the United Kingdom; or (b) Twitter International Unlimited Company (One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland) if your principal place of business is in the European Union, EFTA States, or the United Kingdom.
 
 **10.** “**X** **API**” means X Application Programming Interfaces (each, an **“API”**), Software Development Kits (each, an **“SDK”**), and the related tools, documentation, data, technology, code, and other materials provided by X through the Developer Site.
 
@@ -167,12 +167,9 @@ YOU HAVE ONE YEAR TO BRING A CLAIM AGAINST X, UNLESS YOU OPT OUT. You must bring
 
 **4\. 30-Day Right to Opt Out.**  If you wish to opt out and not be bound by these arbitration provisions set forth above, you can send written notice of your decision to opt out to the following address:
 
-X Corp.
-
-Attn: Legal Department - Arbitration Opt Out
-
-1355 Market Street, Suite 900
-
+X Corp.  
+Attn: Legal Department - Arbitration Opt Out  
+1355 Market Street, Suite 900  
 San Francisco, CA 94103
 
 If you’ve already purchased a Paid Service, you may also submit your opt out notice via the support link available in the navigation menu of the Developer Site under the payment or subscription settings. 
