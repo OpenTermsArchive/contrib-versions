@@ -81,21 +81,24 @@ You may also not use a screenshot of LinkedIn’s personal profile pages or grou
 
 ### V.
 
-### Books or printed materials
+### Books and other printed or electronic publications
 
   
-LinkedIn does not allow the use of its trademarks in books or other printed materials without permission.  
-If you would like to display the LinkedIn trademark in a book title, book cover, and or other printed materials please email [trademarkrequest@linkedin.com](mailto:trademarkrequest@linkedin.com)  
+  
+LinkedIn does not allow the use of its trademarks in books or any other print or electronic publications without permission.  
+If you would like to display the LinkedIn trademark in a title, book cover, or any other print or electronic publication please email [trademarkrequest@linkedin.com](mailto:trademarkrequest@linkedin.com)  
+  
   
 Book covers and titles must follow the below guidance:  
   
-• ”LinkedIn” must not be utilized as the first word in the title.  
-Only refer to the word “LinkedIn”, do not utilize the LinkedIn logo.   
-• “LinkedIn” cannot be placed in a different color than the rest of the title (i.e., no use of blue font for LinkedIn).  
-• “LinkedIn” must be used in the same font, color, and size as the rest of the words.  
-• “LinkedIn” must be accompanied by the ® symbol.  
+• Never use the LinkedIn logo within the title of your book, article, or any other print or electronic publication.  
+• LinkedIn must never be utilized as the first word in the title.  
+• LinkedIn cannot be emphasized by using a different color than the rest of the title (i.e., no use of blue font for LinkedIn). LinkedIn must be written using the same color, font, and size as the rest of the words.  
+• LinkedIn must be accompanied by the ® symbol.  
+• Your book cover must not be a color similar to the color and layout of the LinkedIn platform.  
+• LinkedIn must be displayed in standard English characters or Chinese characters as written on our downloads page: [https://brand.linkedin.com/downloads](https://brand.linkedin.com/downloads).  
   
-Lastly, the following disclaimer must be included: _“**LinkedIn is the registered trademark of LinkedIn Corporation or its affiliates. The use of the LinkedIn trademark in connection with this product does not signify any affiliation with or endorsement by LinkedIn Corporation or its affiliates.**”_ Please email [trademarkrequest@linkedin.com](mailto:TrademarkRequest@linkedin.com) with a mockup to receive final approval.
+_Lastly, the following disclaimer must be included: **“LinkedIn is the registered trademark of LinkedIn Corporation or its affiliates. The use of the LinkedIn trademark in connection with this product does not signify any affiliation with or endorsement by LinkedIn Corporation or its affiliates.”**_  Please email [trademarkrequest@linkedin.com](mailto:TrademarkRequest@linkedin.com) with a mockup to receive final approval.
 
 ### VI.
 
