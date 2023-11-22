@@ -203,7 +203,7 @@ A12. Genius
 
 3\. There are different ‘Genius Levels’, based on the number of completed bookings made within a given period for any vertical offered by the programme. Each level provides different travel rewards. To reach Level 2, the user must complete 5 bookings within 2 years. To reach Level 3, the user must complete 15 bookings within 2 years.
 
-4\. The following types of reservations made through Booking.com are excluded from the Genius programme: Ride hail, Insurance, public transport, free options, Partner offers and any additional purchases such as room upgrades, child seats for Rental Cars, and additional luggage.
+4\. The following types of reservations made through Booking.com are excluded from the Genius programme: Ride hail, Cruises, Insurance, public transport, free options, Partner offers and any additional purchases such as room upgrades, child seats for Rental Cars, and additional luggage.
 
 5\. We may change any feature of the Genius programme, including the membership levels, eligible booking types for progression, and the way the programme is structured.
 
