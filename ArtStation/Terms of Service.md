@@ -291,7 +291,17 @@ You must not copy, modify, distribute, use, exploit or make derivative works fro
 
 ### 17\. License regarding Your Content
 
-Your Content may be shared with third parties, for example, on social media sites to promote Your Content on the Site, and may be available for purchase through the Marketplace. You hereby grant royalty-free, perpetual, world-wide, licenses (the “Licenses”) to Epic and our service providers to use, copy, modify, reformat and distribute Your Content, and to use the name that you provide in association with Your Content, in connection with providing the Services; and to Epic and our service providers, members, users and licensees to use, communicate, share, and display Your Content (in whole or in part) subject to our policies, as those policies are amended from time-to-time
+#### a. License to Provide and Improve the Services
+
+Your Content may be shared with third parties, for example, on social media sites to promote Your Content on the Site, and may be available for purchase through the Marketplace. You hereby grant a worldwide, non-exclusive, royalty-free, fully paid-up, perpetual, irrevocable, sub-licensable (through multiple tiers) right and license to Epic to use, reproduce, publicly display, adapt, modify, reformat, and distribute Your Content, and to use the name that you provide in association with Your Content, as necessary to provide, improve and promote the Services.
+
+#### b. License for Safety and Discovery Tools
+
+We use automation to moderate content and improve discovery. This helps us provide a safe and trustworthy service, enforce our rules and make it as easy as possible for you to discover the quality content that you are looking for. Epic uses Your Content to improve (1) our internal safety tools to ensure all of our products and services comply with our [Content Guidelines](https://www.epicgames.com/site/en-US/content-guidelines) and [Epic Community Rules](https://www.epicgames.com/site/community-rules) and (2) our search and recommendation tools to improve users’ ability to discover content across all of our products and services ((1) and (2), collectively, “Safety and Discovery Tools”).
+
+You additionally grant a royalty-free, perpetual, world-wide, fully sub-licensable (through multiple tiers) license to Epic limited to using, copying, editing, modifying, inputting, and integrating Your Content into and in connection with the development and testing of Epic’s Safety and Discovery Tools (together with the above license, the “Licenses”).
+
+For more information about the technologies we use in our Safety and Discovery Tools, please see Section 46(c) below.
 
 ### 18\. Moral Rights
 
@@ -299,7 +309,7 @@ Epic and our service providers, members, users and licensees may use, copy, disp
 
 > Basically...
 > 
-> You're allowing us to use your artwork and name for things connected with ArtStation. E.g. if we want to post it on Facebook to promote you, we're allowed to do that. We won't sell your artwork.
+> You’re allowing us to use your artwork and name for things connected with ArtStation, like helping us improve our systems to moderate certain content. We use Safety and Discovery Tools on ArtStation and Epic’s other products and services to make sure the content we host and users interactions follow our [Content Guidelines](https://www.epicgames.com/site/en-US/content-guidelines) and [Community Rules](https://www.epicgames.com/site/community-rules). In addition, we analyze your content to improve search and recommendations. Also, if we want to post your artwork on social media to promote you, we’re allowed to do that, but we won’t sell your artwork.
 
 * * *
 
@@ -617,9 +627,15 @@ Where Your Content is sold as a Digital Product in the Marketplace and is create
 
 Under this Agreement, Your Content is considered to be created using Generative AI Programs where a material portion of Your Content is generated with Generative AI Programs, whether characters, backgrounds, or other material elements. Your Content is not considered to be created using Generative AI Programs merely for use of features that solely operate on Your Content (e.g., content-aware fill) or that don't introduce material Generative AI elements into your work (e.g. AI based image upscaling).
 
+(c) How We use AI in our Safety and Discovery Tools
+
+Epic uses artificial intelligence and machine learning technologies in our Safety and Discovery Tools to make sure our Services and Epic’s other products and services comply with our [Content Guidelines](https://www.epicgames.com/site/en-US/content-guidelines) and [Community Rules](https://www.epicgames.com/site/community-rules) and to improve our search and recommendations We use Your Content to improve how our Safety and Discovery Tools operate. These tools perform a wide range of safety workloads, like identifying dangerous and illegal content, fraud, spam, unauthorized automation, fake accounts, and content, users or interactions which might break our rules. In addition to safety, we may further classify your content to provide services like search, recommendations and content discovery.
+
+As noted above in Section 46(a), Epic does not use Your Content and does not license Your Content to third parties for use in datasets for, training of, or as inputs to Generative AI Programs.
+
 > Basically...
 > 
-> Epic won't use or license your content with, or to train, Generative AI
+> Epic may use your art to improve our Safety and Discovery Tools, but we won't use or license your content for use in, or to train, Generative AI.
 
 * * *
 
