@@ -1,8 +1,6 @@
 Page content
 ------------
 
-asset\_assetid%-head">%
-
 * [Ulster.ac.uk](#panel1-1195415)
 * [Alumni](#panel2-1195415)
 
