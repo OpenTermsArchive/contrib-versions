@@ -2,6 +2,8 @@ Your submission was sent successfully! [_Close_](#)
 
 You have successfully unsubscribed! [_Close_](#)
 
+Thank you for signing up for our newsletter![_Close_](#)
+
 Website terms and conditions
 ============================
 
