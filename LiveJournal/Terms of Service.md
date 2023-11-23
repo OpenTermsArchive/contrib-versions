@@ -1,8 +1,8 @@
 User Agreement
 ==============
 
-Updated: May 17 2023, 14:26 GMT  
-Location: [https://www.livejournal.com/legal/tos-en.bml?r=15271](https://www.livejournal.com/legal/tos-en.bml?r=15271)
+Updated: November 23 2023, 08:31 GMT  
+Location: [https://www.livejournal.com/legal/tos-en.bml?r=15272](https://www.livejournal.com/legal/tos-en.bml?r=15272)
 
 1. #### Subject of the Agreement
     
@@ -99,8 +99,12 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15271](https://www.liv
         4. transmit spam messaging without the recipients’ consent;
         5. perform any actions aimed at disrupting the normal functioning of the Service;
         6. without the Administration’s special permit, use automatic scripts (bots, crawlers etc.) to collect information from the Service and/or to interact with the Service;
-        7. post advertising and/or political solicitation materials unless otherwise directly specified in a separate agreement between User and the Administration;
-        8. perform any other actions contradictory to the laws of the Russian Federation and/or any other applicable laws, including those applicable in the jurisdiction of User’s residence.
+        7. post political solicitation materials unless otherwise directly specified in a separate agreement between User and the Administration;
+        8. using the Blog to commit criminal acts, disclose information that constitutes state or other legally protected secrets, disseminate materials containing public calls for terrorist activities or publicly justifying terrorism, other extremist materials, as well as materials promoting pornography, violence, and cruelty, and materials containing obscene language;
+        9. spreading information with the aim of discrediting a citizen or specific categories of citizens based on gender, age, race or national origin, language, religion, profession, place of residence and work, as well as in connection with their political beliefs;
+        10. using the Blog to violate the prohibitions and restrictions provided for by the legislation of the Russian Federation on referendums and the legislation of the Russian Federation on elections;
+        11. violating the rights and legitimate interests of citizens and organizations, including the honor, dignity, and business reputation of citizens, the business reputation of organizations;
+        12. perform any other actions contradictory to the laws of the Russian Federation and/or any other applicable laws, including those applicable in the jurisdiction of User’s residence.
 10. #### Rights and Obligations of the Administration
     
     1. The Administration shall endeavour to ensure providing of the Service and its prompt restoration in the event of technical failures and outages.
@@ -113,7 +117,7 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15271](https://www.liv
     8. The User may not:
         1. The Administration has the right to use special technical solutions and/or other methods of identifying Content that violates the terms of the Agreement and/or Russian legislation to comply with the requirements of Russian legislation. The procedure for using these methods is to be determined either by the Administration or by Russian legislation.
         2. The Administration has the right, in the case and in the manner prescribed by Russian legislation, to take measures to restrict access to the Content.
-        3. User is obliged to comply with requirements and restrictions provided for by Russian legislation, including those concerning information that is prohibited or restricted for distribution, in particular not to distribute materials with pornographic images of minors and (or) advertisements for engaging minors as performers in entertainment activities of pornographic nature; information on methods and techniques of development, manufacture and use of narcotic drugs, psychotropic substances and their precursors, new potentially dangerous psychoactive substances, places of their acquisition, methods and places of cultivation of narcotic plants; information on methods of committing suicide, as well as exhortation to commit suicide.
+        3. User is obliged to comply with requirements and restrictions provided for by Russian legislation, including those concerning information that is prohibited or restricted for distribution, in particular not to distribute materials with pornographic images of minors and (or) advertisements for engaging minors as performers in entertainment activities of pornographic nature; information on methods and techniques of development, manufacture and use of narcotic drugs, psychotropic substances and their precursors, new potentially dangerous psychoactive substances, places of their acquisition, methods and places of cultivation of narcotic plants; information on methods of committing suicide, as well as exhortation to commit suicide; information that violates the requirements prohibiting activities related to organizing and conducting gambling and lotteries using the Internet and other communication means; information containing offers for retail sales of alcoholic products, spirits-containing food products, ethyl alcohol, and spirits-containing non-food products, the retail sale of which is restricted or prohibited by legislation on state regulation of production and circulation of ethyl alcohol, alcoholic and spirits-containing products, and on limiting the consumption (drinking) of alcoholic products; information aimed at enticing or involving minors in unlawful actions that pose a threat to their life and/or health or to the life and/or health of others; information expressed in an indecent form that insults human dignity and public morality, shows explicit disrespect for society, the state, official state symbols of the Russian Federation, the Constitution of the Russian Federation, or authorities exercising state power in the Russian Federation; information containing calls for mass riots, extremist activities, participation in mass (public) events held in violation of established procedures, false socially significant information disseminated under the guise of reliable messages that create a threat of harm to citizens’ lives and/or health, property, a threat of mass disruption of public order and/or public safety, or a threat of obstruction to the functioning or cessation of functioning of life support objects, transport or social infrastructure, credit institutions, energy, industrial or communication facilities, information materials of foreign or international non-governmental organizations whose activities are deemed undesirable on the territory of the Russian Federation in accordance with Federal Law No. 272-FZ «On Measures of Influence on Persons Involved in Violations of Fundamental Human Rights and Freedoms, Rights and Freedoms of Citizens of the Russian Federation,» information allowing access to such information or materials; information promoting non-traditional sexual relationships and/or preferences, pedophilia, gender reassignment.
 11. #### Liability
     
     1. User shall be liable for breaching the terms and conditions hereof, including the requirements to Registration and Content posting, as well as for violation of applicable laws committed by User, including the laws of the Russian Federation and the laws of User’s residence;
@@ -145,6 +149,7 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15271](https://www.liv
     3. If the dispute is not resolved by the time defined in clause 14.2 hereof it may be resolved by the Court in the Administration’s place of incorporation.
     4. The Agreement is drawn up in [Russian language](https://www.livejournal.com/legal/tos-ru.bml). The English version is a translation and is provided solely for the convenience of reading the Agreement. In the event of any inconsistency between the [Russian version](https://www.livejournal.com/legal/tos-ru.bml) and its translation, the [Russian version](https://www.livejournal.com/legal/tos-ru.bml) of the Agreement shall prevail.
 
+[Previous version May 17 2023, 14:26 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15271) (archived)  
 [Previous version March 31 2023, 13:45 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15270) (archived)  
 [Previous version January 20 2022, 11:18 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15269) (archived)  
 [Previous version December 17 2021, 09:47 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15268) (archived)
