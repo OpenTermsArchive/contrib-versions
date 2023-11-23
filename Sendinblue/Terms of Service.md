@@ -30,7 +30,7 @@ The terms used in this document are defined as follows:
 
 The “User” means any natural or legal person authorized to use the Brevo Services.
 
-The “Services” provided by Brevo are the features made available to Users via the Site, in accordance with the applicable Version of the Software, such as sending SMSs and emails, providing reports or optimizing the deliverability of messages sent (the complete list of features is available at the following address: [https://brevo.com/features/](https://sendinblue.com/features/)).
+The “Services” provided by Brevo are the features made available to Users via the Site, in accordance with the applicable Version of the Software, such as sending SMSs and emails, providing reports or optimizing the deliverability of messages sent, as detailed on the Site (at the following address: [https://brevo.com/features/](https://brevo.com/features/)) or in a purchase order if the User subscribed to the Brevo+ offer.
 
 The “data processor” is the company that performs data processing at the request of a data controller. Thus, Brevo acts as a data processor to make its Services available to Users, who define the purpose and the means of the processing. Brevo may also use secondary processors (“sub-processors”) to carry out data processing on its behalf.
 
