@@ -206,3 +206,5 @@ About our policies
 > Google requires advertisers to comply with all applicable laws and regulations and the Google policies described above. It's important that you familiarise yourself with and keep up to date on these requirements for the places where your business operates, and any other places where your ads are showing. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may stop you from advertising with us.
 > 
 > Advertisers have a responsibility not to promote content or engage in behaviour that risks harm to our users, employees or the Ads ecosystem. If we find such content or behaviour, we may take action, including but not limited to restricting or blocking your ads or suspending your account.
+
+If you’re working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue or complete the task. [Learn how to find support if you use a non-Google platform](https://support.google.com/merchants/answer/12048683).
