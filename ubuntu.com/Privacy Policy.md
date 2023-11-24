@@ -369,7 +369,6 @@ The open source software platform that runs everywhere from the smartphone, the 
     
     * [App store](https://ubuntu.com/internet-of-things/appstore)
     * [Embedded Linux](https://ubuntu.com/embedded)
-    * [EdgeX](https://ubuntu.com/internet-of-things/edgex)
     * [Management](https://ubuntu.com/internet-of-things/management)
 * [Raspberry Pi](https://ubuntu.com/raspberry-pi) [Raspberry Pi](#)
     -----------------------------------------------------------------
