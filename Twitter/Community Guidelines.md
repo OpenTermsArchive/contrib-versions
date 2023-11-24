@@ -1,1727 +1,1907 @@
-Hateful Conduct
-===============
+Non-consensual nudity policy
+============================
 
-### Overview 
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**April 2023**
+### Overview
 
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+**  
+December 2021**
 
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is a violation of this policy?
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-**Dehumanization**
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
+     
 
-**Hateful Imagery** 
+### What is not a violation of this policy?
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Who can report violations of this policy?
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**Content reportable by anyone**
 
-**Incitement  
-**
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+**Content reportable by featured individual(s)**
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
 
-**Slurs and Tropes**  
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### Additional resources
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
 
-**Dehumanization**
+Non-consensual nudity policy
+============================
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**Hateful Imagery** 
+### Overview
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+**  
+December 2021**
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is a violation of this policy?
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-**Dehumanization**
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
+     
 
-**Hateful Imagery** 
+### What is not a violation of this policy?
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Who can report violations of this policy?
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**Content reportable by anyone**
 
-**Incitement  
-**
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+**Content reportable by featured individual(s)**
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
 
-**Slurs and Tropes**  
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### Additional resources
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
 
-**Dehumanization**
+Non-consensual nudity policy
+============================
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**Hateful Imagery** 
+### Overview
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+**  
+December 2021**
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is a violation of this policy?
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-**Dehumanization**
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
+     
 
-**Hateful Imagery** 
+### What is not a violation of this policy?
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Who can report violations of this policy?
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**Content reportable by anyone**
 
-**Incitement  
-**
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+**Content reportable by featured individual(s)**
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
 
-**Slurs and Tropes**  
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### Additional resources
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
 
-**Dehumanization**
+Non-consensual nudity policy
+============================
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**Hateful Imagery** 
+### Overview
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+**  
+December 2021**
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is a violation of this policy?
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-**Dehumanization**
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
+     
 
-**Hateful Imagery** 
+### What is not a violation of this policy?
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Who can report violations of this policy?
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+**Content reportable by anyone**
 
-**Incitement  
-**
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
+**Content reportable by featured individual(s)**
 
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
 
-**Slurs and Tropes**  
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
 
-**Dehumanization**
-
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
-
-**Hateful Imagery** 
-
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### Additional resources
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
 
-**Dehumanization**
+Non-consensual nudity policy
+============================
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+[Take the survey](https://www.research.net/r/QFBQSNC)
 
-**Hateful Imagery** 
+### Overview
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+**  
+December 2021**
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
+### What is a violation of this policy?
 
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
 
-**Dehumanization**
+Examples of the types of content that violate this policy include, but are not limited to:  
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
+     
 
-**Hateful Imagery** 
+### What is not a violation of this policy?
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
-
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
-
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
-
-**Hateful Profile**
-
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
-
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
-
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
-
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
-
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
-
-### What happens if you violate this policy?  
-
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
-
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
-
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
-
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
-
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
-
-Hateful Conduct
-===============
-
-### Overview 
-
-**April 2023**
-
-You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
-
-X's mission is to give everyone the power to create and share ideas and information, and to express their opinions and beliefs without barriers. Free expression is a human right – we believe that everyone has a voice, and the right to use it. Our role is to serve the public conversation, which requires representation of a diverse range of perspectives. 
-
-We recognize that if people experience abuse on X, it can jeopardize their ability to express themselves. Research has shown that some groups of people are disproportionately targeted with abuse online. For those who identify with multiple underrepresented groups, abuse may be more common, more severe in nature, and more harmful.
-
-We are committed to combating abuse motivated by hatred, prejudice or intolerance, particularly abuse that seeks to silence the voices of those who have been historically marginalized. For this reason, we prohibit behavior that targets individuals or groups with abuse based on their perceived membership in a protected category.  
-
-If you see something on X that you believe violates this policy, please [report it to us](https://help.twitter.com/en/forms/safety-and-sensitive-content/abuse.html).
-
-### What is in violation of this policy?  
-
-We will review and take action against reports of accounts targeting an individual or group of people with any of the following behavior, whether within Posts or Direct Messages. 
-
-**Hateful references  
   
-**We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
 
-* genocides, (e.g., the Holocaust);
-* lynchings.
-
-**Incitement  
-**
-
-We prohibit inciting behavior that targets individuals or groups of people belonging to protected categories. This includes:
-
-* inciting fear or spreading fearful stereotypes about a protected category, including asserting that members of a protected category are more likely to take part in dangerous or illegal activities, e.g., “all \[religious group\] are terrorists.”
-* inciting others to harass members of a protected category on or off platform, e.g., “I’m sick of these \[religious group\] thinking they are better than us, if any of you see someone wearing a \[religious symbol of the religious group\], grab it off them and post pics!“
-* inciting others to discriminate in the form of denial of support to the economic enterprise of an individual or group because of their perceived membership in a protected category, e.g., “If you go to a \[religious group\] store, you are supporting those \[slur\], let’s stop giving our money to these \[religious slur\].” This may not include content intended as political in nature, such as political commentary or content relating to boycotts or protests.
-
-Note: content intended to incite violence against a protected category is prohibited under [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
-
-**Slurs and Tropes**  
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
   
-We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category. In some cases, such as (but not limited to) severe, repetitive usage of slurs, or racist/sexist tropes where the context is to harass or intimidate others, we may require Post removal. In other cases, such as (but not limited to) moderate, isolated usage where the context is to harass or intimidate others, we may limit Post visibility as further described below.
 
-**Dehumanization**
+### Who can report violations of this policy?
 
-We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation.
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
 
-**Hateful Imagery** 
+**Content reportable by anyone**
 
-We consider hateful imagery to be logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin. Some examples of hateful imagery include, but are not limited to:
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
 
-* symbols historically associated with hate groups, e.g., the Nazi swastika;
-* images depicting others as less than human, or altered to include hateful symbols, e.g., altering images of individuals to include animalistic features; or
-* images altered to include hateful symbols or references to a mass murder that targeted a protected category, e.g., manipulating images of individuals to include yellow Star of David badges, in reference to the Holocaust.
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
 
-Media depicting hateful imagery is not permitted within live video, account bio, profile or header images. All other instances must be marked as sensitive media. Additionally, sending an individual unsolicited hateful imagery is a violation of this policy. 
+**Content reportable by featured individual(s)**
 
-**Hateful Profile**
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
 
-You may not use hateful images or symbols in your profile image or profile header. You also may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
+### How can I report violations of this policy?
 
-### Do I need to be the target of this content for it to be a violation of the X Rules?  
+**  
+In-app**
 
-Some Posts may appear to be hateful when viewed in isolation, but may not be when viewed in the context of a larger conversation. For example, members of a protected category may refer to each other using terms that are typically considered as slurs. When used consensually, the context behind these terms is not abusive, but a means to reclaim terms that were historically used to demean individuals.  
+You can report this content for review in-app as follows:
 
-When we review this type of content, it may not be clear whether the context is to abuse an individual on the basis of their protected status, or if it is part of a consensual conversation. To help our teams understand the context, we sometimes need to hear directly from the person being targeted to ensure that we have the information needed prior to taking any enforcement action.
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
 
-**Note:** individuals do not need to be a member of a specific protected category for us to take action. We will never ask people to prove or disprove membership in any protected category and we will not investigate this information. 
+**Desktop**
 
-### What happens if you violate this policy?  
+You can report this content for review via desktop as follows:
 
-Under this policy, we take action against behavior that targets individuals or an entire protected category with hateful conduct, as described above. Targeting can happen in a number of ways, for example, mentions, including a photo of an individual, referring to someone by their full name, etc.
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
 
-When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
+**Report form**  
 
-* Making content less visible on X by:
-    * Removing the Post from search results, in-product recommendations, trends, notifications, and home timelines 
-        
-    * Restricting the Post discoverability to the author’s profile
-        
-    * Downranking the Post in replies
-        
-    * Restricting Likes, replies, Reposts, Quote, bookmarks, share, pin to profile, or engagement counts 
-        
-    * Excluding the Post from having ads adjacent to it
-        
-* Excluding Posts and/or accounts in email or in-product recommendations. 
-    
-* Requiring Post removal.
-    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Post again.
-* Suspending accounts that violate our Hateful Profile policy.
+You can also report this content via [our private information report form](https://help.twitter.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
+ 
 
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html). 
+### What happens if you violate this policy?
 
-If someone believes their account was suspended in error, they can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
+
+### Overview
+
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
+
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
+
+Examples of the types of content that violate this policy include, but are not limited to:  
+
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
+     
+
+### What is not a violation of this policy?
+
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
+
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
+
+### Overview
+
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
+
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
+
+Examples of the types of content that violate this policy include, but are not limited to:  
+
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
+     
+
+### What is not a violation of this policy?
+
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
+
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
+
+### Overview
+
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
+
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
+
+Examples of the types of content that violate this policy include, but are not limited to:  
+
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
+     
+
+### What is not a violation of this policy?
+
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
+
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
+
+### Overview
+
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
+
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
+
+Examples of the types of content that violate this policy include, but are not limited to:  
+
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
+     
+
+### What is not a violation of this policy?
+
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
+
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
+
+### Overview
+
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
+
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
+
+Examples of the types of content that violate this policy include, but are not limited to:  
+
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
+     
+
+### What is not a violation of this policy?
+
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
+
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
+
+### Overview
+
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
+
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
+
+Examples of the types of content that violate this policy include, but are not limited to:  
+
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
+     
+
+### What is not a violation of this policy?
+
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
+
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
+
+### Overview
+
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
+
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
+
+Examples of the types of content that violate this policy include, but are not limited to:  
+
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
+     
+
+### What is not a violation of this policy?
+
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
+
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
+
+### Overview
+
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
+
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
+
+Examples of the types of content that violate this policy include, but are not limited to:  
+
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
+     
+
+### What is not a violation of this policy?
+
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
+
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
+
+### Overview
+
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
+
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
+
+Examples of the types of content that violate this policy include, but are not limited to:  
+
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
+     
+
+### What is not a violation of this policy?
+
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
+
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
+
+### Overview
+
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
+
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
+
+Examples of the types of content that violate this policy include, but are not limited to:  
+
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
+     
+
+### What is not a violation of this policy?
+
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
+
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
+
+### Overview
+
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
+
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
+
+Examples of the types of content that violate this policy include, but are not limited to:  
+
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
+     
+
+### What is not a violation of this policy?
+
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
+
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
+
+### Overview
+
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
+
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
+
+Examples of the types of content that violate this policy include, but are not limited to:  
+
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
+     
+
+### What is not a violation of this policy?
+
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
+
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Non-consensual nudity policy
+============================
+
+[Take the survey](https://www.research.net/r/QFBQSNC)
+
+### Overview
+
+**  
+December 2021**
+
+**You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.**
+
+Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.  
+  
+
+### What is a violation of this policy?
+
+  
+Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
+
+Examples of the types of content that violate this policy include, but are not limited to:  
+
+* hidden camera content featuring nudity, partial nudity, and/or sexual acts;
+* creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts; 
+* images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body; 
+* images or videos that are taken in an intimate setting and not intended for public distribution; and
+* offering a bounty or financial reward in exchange for intimate images or videos.  
+     
+
+### What is not a violation of this policy?
+
+  
+Pornography and other forms of consensually produced adult content are allowed on X, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. 
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.   
+  
+
+### Who can report violations of this policy?
+
+  
+Because X allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.   
+ 
+
+**Content reportable by anyone**
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
+
+* creepshots or upskirts;
+* content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
+* intimate images or videos that are accompanied by:
+* text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
+* information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.  
+     
+
+**Content reportable by featured individual(s)**
+
+For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.   
+ 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select **An unauthorized photo or video**.
+4. Select **It includes unauthorized, intimate content of me or someone else**.
+5. Select the relevant option depending on who you are reporting on behalf of.
+6. Select up to 5 posts to report for review.
+7. Submit your report.  
+     
+
+**Report form**  
+
+You can also report this content via [our private information report form](https://help.twitter.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.  
+ 
+
+### What happens if you violate this policy?
+
+  
+We will **immediately and permanently suspend any account that we identify as the original poster of intimate media** that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+
+In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/en/forms/account-access/appeals.html).  
+  
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
