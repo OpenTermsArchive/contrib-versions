@@ -64,7 +64,7 @@ Other languages:
 * [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de "Nutzungsbedingungen (100% translated)")
 * [Deutsch (Sie-Form)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de-formal "Nutzungsbedingungen (99% translated)")
 * English
-* [Esperanto](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/eo "Niaj uzkondiĉoj (10% translated)")
+* [Esperanto](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/eo "Niaj uzkondiĉoj (11% translated)")
 * [Fulfulde](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ff "Policy:Terms of Use/ff (5% translated)")
 * [Gaeilge](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ga "Policy:Terms of Use/ga (1% translated)")
 * [Hausa](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ha "Fassara: Dokoki: Kaidojin anfani/bayyanar da shafuka/ha
@@ -150,7 +150,7 @@ Other languages:
 * [தமிழ்](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ta "பயன்படுத்தல் விதிமுறைகள் (7% translated)")
 * [తెలుగు](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/te "విధానం:వినియోగ నిబంధనలు (99% translated)")
 * [മലയാളം](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ml "Policy:Terms of Use/ml (36% translated)")
-* [ไทย](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/th "ข้อกำหนดการใช้งาน (37% translated)")
+* [ไทย](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/th "ข้อกำหนดการใช้งาน (38% translated)")
 * [ລາວ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lo "ນະໂຍບາຍ: ຂໍ້ກຳນົດການໃຊ້ງານ (10% translated)")
 * [ပအိုဝ်ႏဘာႏသာႏ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/blk "မူဝါဒ:သုင်ꩻအဝ်ႏ ဖွောင်ꩻရဲဉ်ႏဖုံႏ (1% translated)")
 * [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/my "Policy:အသုံးပြုသည်စ့ည်းမျဥ်းများ (6% translated)")
@@ -158,7 +158,7 @@ Other languages:
 * [ქართული](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ka "გამოყენების პირობები (37% translated)")
 * [ភាសាខ្មែរ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/km "លក្ខខណ្ឌ​ក្នុងការ​ប្រើប្រាស់ (5% translated)")
 * [ᱥᱟᱱᱛᱟᱲᱤ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sat "ᱩᱠᱩᱣᱟᱜ : ᱵᱮᱵᱷᱟᱨ ᱨᱮᱭᱟᱜ ᱟᱹᱱ ᱟᱹᱨᱤ (5% translated)")
-* [中文](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh "政策：使用条款 (17% translated)")
+* [中文](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh "政策：使用条款 (19% translated)")
 * [中文（简体）](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh-hans "使用条款 (27% translated)")
 * [中文（繁體）](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh-hant "使用條款 (37% translated)")
 * [日本語](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja "方針:利用規約 (97% translated)")
