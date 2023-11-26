@@ -1,288 +1,252 @@
-Misleading and deceptive identities policy
-==========================================
+Synthetic and manipulated media policy
+======================================
 
-Overview
---------
+### Overview 
 
-April 2023
-==========
+### April 2023
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+Synthetic and manipulated media policy
+======================================
 
-Misleading and deceptive identities policy
-==========================================
+### Overview 
 
-Overview
---------
+### April 2023
 
-April 2023
-==========
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+Synthetic and manipulated media policy
+======================================
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+### Overview 
 
-Misleading and deceptive identities policy
-==========================================
+### April 2023
 
-Overview
---------
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-April 2023
-==========
+Synthetic and manipulated media policy
+======================================
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+### Overview 
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+### April 2023
 
-Misleading and deceptive identities policy
-==========================================
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-Overview
---------
+Synthetic and manipulated media policy
+======================================
 
-April 2023
-==========
+### Overview 
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+### April 2023
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-Misleading and deceptive identities policy
-==========================================
+Synthetic and manipulated media policy
+======================================
 
-Overview
---------
+### Overview 
 
-April 2023
-==========
+### April 2023
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+Synthetic and manipulated media policy
+======================================
 
-Misleading and deceptive identities policy
-==========================================
+### Overview 
 
-Overview
---------
+### April 2023
 
-April 2023
-==========
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+Synthetic and manipulated media policy
+======================================
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+### Overview 
 
-Misleading and deceptive identities policy
-==========================================
+### April 2023
 
-Overview
---------
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-April 2023
-==========
+Synthetic and manipulated media policy
+======================================
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+### Overview 
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+### April 2023
 
-Misleading and deceptive identities policy
-==========================================
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-Overview
---------
+Synthetic and manipulated media policy
+======================================
 
-April 2023
-==========
+### Overview 
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+### April 2023
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-Misleading and deceptive identities policy
-==========================================
+Synthetic and manipulated media policy
+======================================
 
-Overview
---------
+### Overview 
 
-April 2023
-==========
+### April 2023
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+Synthetic and manipulated media policy
+======================================
 
-Misleading and deceptive identities policy
-==========================================
+### Overview 
 
-Overview
---------
+### April 2023
 
-April 2023
-==========
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+Synthetic and manipulated media policy
+======================================
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+### Overview 
 
-Misleading and deceptive identities policy
-==========================================
+### April 2023
 
-Overview
---------
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-April 2023
-==========
+Synthetic and manipulated media policy
+======================================
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+### Overview 
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+### April 2023
 
-Misleading and deceptive identities policy
-==========================================
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-Overview
---------
+Synthetic and manipulated media policy
+======================================
 
-April 2023
-==========
+### Overview 
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+### April 2023
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-Misleading and deceptive identities policy
-==========================================
+Synthetic and manipulated media policy
+======================================
 
-Overview
---------
+### Overview 
 
-April 2023
-==========
+### April 2023
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+Synthetic and manipulated media policy
+======================================
 
-Misleading and deceptive identities policy
-==========================================
+### Overview 
 
-Overview
---------
+### April 2023
 
-April 2023
-==========
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+### What is in violation of this policy 
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+In order for content with **misleading media** (including images, videos, audios, gifs, and URLs hosting relevant content) to be labeled or removed under this policy, it must:
 
-Misleading and deceptive identities policy
-==========================================
+* Include media that is significantly and deceptively altered, manipulated, or fabricated, or
+* Include media that is shared in a deceptive manner or with false context, and
+* Include media likely to result in widespread confusion on public issues, impact public safety, or cause serious harm
 
-Overview
---------
+We use the following criteria as we consider posts and media for labeling or removal under this policy as part of our ongoing work to enforce our rules and ensure healthy and safe conversations on X:
 
-April 2023
-==========
+**1\. Is the content significantly and deceptively altered, manipulated, or fabricated?**
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+In order for content to be labeled or removed under this policy, we must have reason to believe that media are significantly and deceptively altered, manipulated, or fabricated. Synthetic and manipulated media take many different forms and people can employ a wide range of technologies to produce these media. Some of the factors we consider include:
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+* whether media have been substantially edited or post-processed in a manner that fundamentally alters their composition, sequence, timing, or framing and distorts their meaning; 
+* whether there are any visual or auditory information (such as new video frames, overdubbed audio, or modified subtitles) that has been added, edited, or removed that fundamentally changes the understanding, meaning, or context of the media;
+* whether media have been created, edited, or post-processed with enhancements or use of filters that fundamentally changes the understanding, meaning, or context of the content; and
+* whether media depicting a real person have been fabricated or simulated, especially through use of artificial intelligence algorithms
 
-Misleading and deceptive identities policy
-==========================================
+We will not take action to label or remove media that have been edited in ways that do not fundamentally alter their meaning, such as retouched photos or color-corrected videos. 
 
-Overview
---------
+In order to determine if media have been significantly and deceptively altered or fabricated, we may use our own technology or receive reports through partnerships with third parties. In situations where we are unable to reliably determine if media have been altered or fabricated, we may not take action to label or remove them.
 
-April 2023
-==========
+**2\. Is the content shared in a deceptive manner or with false context?**
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+We also consider whether the context in which media are shared could result in confusion or suggests a deliberate intent to deceive people about the nature or origin of the content, for example, by falsely claiming that it depicts reality. We assess the context provided alongside media to see whether it provides true and factual information. Some of the types of context we assess in order to make this determination include:
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+* whether inauthentic, fictional, or produced media are presented or being endorsed as fact or reality, including produced or staged works, reenactments, or exhibitions portrayed as actual events;
+* whether media are presented with false or misleading context surrounding the source, location, time, or authenticity of the media;
+* whether media are presented with false or misleading context surrounding the identity of the individuals or entities visually depicted in the media;
+* whether media are presented with misstatements or misquotations of what is being said or presented with fabricated claims of fact of what is being depicted
 
-Misleading and deceptive identities policy
-==========================================
+We will not take action to label or remove media that have been shared with commentary or opinions that do not advance or present a misleading claim on the context of the media such as those listed above. 
 
-April 2023
-==========
+In order to determine if media have been shared in a deceptive manner or with false context, we may use our own technology or receive reports through partnerships with third parties. In situations where we are unable to reliably determine if media have been shared with false context, we will not label or remove the content.
 
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
+**3\. Is the content likely to result in widespread confusion on public issues, impact public safety, or cause serious harm?**
 
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+Posts that share misleading media are subject to removal under this policy if they are likely to cause serious harm. Some specific harms we consider include:
 
-We prohibit the following behaviors under this policy:
+* Threats to physical safety of a person or group
+* Incitement of abusive behavior to a person or group
+* Risk of mass violence or widespread civil unrest
+* Risk of impeding or complicating provision of public services, protection efforts, or emergency response
+* Threats to the privacy or to the ability of a person or group to freely express themselves or participate in civic events, such as:
+    * Stalking or unwanted and obsessive attention
+    * Targeted content that aims to harass, intimidate, or silence someone else's voice
+    * Voter suppression or intimidation
 
-**Impersonation  
-**
+We also consider the time frame within which the content may be likely to impact public safety or cause serious harm, and are more likely to remove content under this policy if immediate harm is likely to result.
 
-You may not pose as an existing person, group, or organization to mislead others about who you are or who you represent. Accounts that violate this policy will misrepresent their identity by using **at least two elements** of another identity, such as the name, image, or false claims of affiliation with another individual or organization in their profile or posts.
+Posts with misleading media that are not likely to result in immediate harm but still have a potential to impact public safety, result in harm, or cause widespread confusion towards a public issue (health, environment, safety, human rights and equality, immigration, and social and political stability) may be labeled to reduce their spread and to provide additional context. 
 
-**Deceptive Identities**
+While we have other rules also intended to address these forms of harm, including our policies on violent threats, civic integrity, and hateful conduct, we will err toward removal in borderline cases that might otherwise not violate existing rules for Posts that include misleading media.
 
-You may not pose as someone who doesn’t exist to mislead others about who you are or who you represent. This includes using at least one element of someone else's identity on your profile or posts in a misleading way, such as using another individual’s image or making a false statement of affiliation with an existing individual or entity. We also consider accounts to be deceptive if they use a computer generated image of a person to pose as someone who doesn’t exist.
+### What is not a violation of this policy 
 
-We believe giving people choice in terms of how they represent themselves online enables them to express themselves and control their privacy. X allows the use of pseudonymous accounts, meaning an account’s profile is not required to use the name or image of the account owner. Accounts that appear similar to others on X are not in violation of this policy, so long as their purpose is not to deceive or manipulate others. Accounts that share your name but have no other commonalities are not in violation of this policy.
+We seek to protect public conversation surrounding various issues. Media often accompany these conversations and encourage further discourse. In the absence of other policy violations, the following are generally not in violation of this policy:
 
-**Parody, Commentary, or Fan Accounts**
+* **Memes or satire,** provided these do not cause significant confusion about the authenticity of the media;
+* **Animations, illustrations, and cartoons,** provided these do not cause significant confusion about the authenticity of the media.
+* **Commentary, reviews, opinions, and/or reactions.** Sharing media with edits that only add commentary, reviews, opinions, or reactions allows for further debate and discourse relating to various issues and are not in violation of this policy.
+* **Counterspeech.** We allow for direct responses to misleading information which seek to undermine its impact by correcting the record, amplifying credible information, and educating the wider community about the prevalence and dynamics of misleading information.
 
-Accounts that depict another person, group, or organization in their profile to discuss, satirize, or share information about that entity are not in violation of this policy. While these accounts may use elements of another’s identity, they also include profile language or other indicators that inform people on X that the account is not affiliated with the subject of the profile.
+### What happens if you violate this policy? 
 
-To avoid confusing others about an account’s affiliation, Parody, Commentary, and Fan accounts must distinguish themselves in their account name and in their bio. Accounts that fail to sufficiently distinguish themselves are considered non-compliant and in violation of this policy.
+The consequences for violating our synthetic and manipulated media policy depends on the severity of the violation.
 
-* **Account name:** The account name should clearly indicate that the account is not affiliated with the subject portrayed in the profile. Accounts can indicate this by incorporating words such as, but not limited to, "parody," "fake," "fan," or "commentary.” This language should be stated in a way that can be understood by any audience and should not be contradicted by other affiliation terminology such as “official.” Please note, an account name is separate from the username (i.e. @handle).
-* **Bio:** The bio should clearly state that the account is not affiliated with the subject portrayed in the profile. Non-affiliation can be indicated by incorporating words such as, but not limited to, “not affiliated with,” "parody," "fake," "fan," or "commentary.” This language should be stated in a way that can be understood by any audience.
+**Post Deletion  
+**For high-severity violations of the policy, including misleading media that have a serious risk of harm to individuals or communities, we will require you to remove this content.
 
-If you believe an account is posing as you or your brand, you can file a report [here](https://help.twitter.com/forms/impersonation). If you believe an account is using a deceptive fake identity or misusing the identity of somebody else, you can flag it as a bystander by [reporting](https://help.twitter.com/en/rules-and-policies/twitter-report-violation.html) directly from the account’s profile.
+**Labeling**  
+In circumstances where we do not remove content which violates this policy, we may provide additional context on posts sharing the misleading media where they appear on X. This means we may:
 
-In cases where an account is suspected of misusing a specific individual or entity’s identity, we may need more information to determine whether the account is run or authorized by the entity portrayed in the profile. To ensure we have enough context, we may need a report from the portrayed party in order to take action.
+* Apply a label and/or warning message to the post
+* Show a warning to people before they share or like the post;
+* Reduce the visibility of the post on the platform and/or prevent it from being recommended;
+* Turn off likes, replies, and Reposts; and/or
+* Provide a link to additional explanations or clarifications, such as relevant X policies.
 
-The consequences for violating the policy depend on the severity and type of violation, as well as an account’s history of previous violations. The actions we take may include the following:
+In most cases, we will take a combination of the above actions on posts we label. 
 
-**Profile modifications**
+**Account locks**  
+If we determine that an account has advanced or continuously shares harmful misleading narratives that violate the synthetic and manipulated media policy, we may temporarily reduce the visibility of the account or lock or suspend the account. 
 
-If your account is potentially confusing in terms of its affiliation, including as a non-compliant parody, commentary or fan account, we may require you to edit the content on your profile. If you violate this policy again after your first warning, your account may be suspended.
+If you believe that your account was locked or suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-**Suspension**  
+### Additional resources 
 
-If you are engaged in impersonation or are using a deceptive identity, we may suspend your account. If we believe you may be in violation of this policy, we may require you to provide government issued identification (such as a driver’s license or passport) in order to reinstate your account.   
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
-If you believe that your account was locked or suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+Synthetic and manipulated media policy
+======================================
 
-To report an account that may be misusing your trademark, please see our [trademark policy.](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html) For information about our spam rules, you can read more on our [platform manipulation and spam](https://help.twitter.com/en/rules-and-policies/platform-manipulation.html) policy. You may submit feedback using this [form](https://help.twitter.com/en/twitter-for-you).
+### Overview 
 
-Misleading and deceptive identities policy
-==========================================
+### April 2023
 
-Overview
---------
-
-April 2023
-==========
-
-**You may not misappropriate the identity of individuals, groups, or organizations or use a fake identity to deceive others.**
-==============================================================================================================================
-
-We want X to be a place where people can find authentic voices. While you are not required to display your real name or image on your profile, your account should not use false profile information to represent itself as a person or entity that is not affiliated with the account owner, such that it may mislead others who use X.
+**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
