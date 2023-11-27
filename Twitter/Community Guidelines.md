@@ -1,683 +1,178 @@
-Illegal or certain regulated goods or services
-==============================================
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-### Overview 
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-**March 2023**
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-Goods or services covered under this policy include, but are not limited to:
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
-     
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
-  
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-### What happens if you violate this policy? 
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-If we determine that you violated this policy, we may suspend your account, including upon first review.
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
- 
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-### Additional resources 
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-Illegal or certain regulated goods or services
-==============================================
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-### Overview 
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-**March 2023**
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-Goods or services covered under this policy include, but are not limited to:
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
-     
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
-  
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-### What happens if you violate this policy? 
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-If we determine that you violated this policy, we may suspend your account, including upon first review.
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
- 
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-### Additional resources 
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-Illegal or certain regulated goods or services
-==============================================
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-### Overview 
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-**March 2023**
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-Goods or services covered under this policy include, but are not limited to:
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
-     
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
-  
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-### What happens if you violate this policy? 
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-If we determine that you violated this policy, we may suspend your account, including upon first review.
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
- 
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-### Additional resources 
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-Illegal or certain regulated goods or services
-==============================================
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-### Overview 
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-**March 2023**
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-Goods or services covered under this policy include, but are not limited to:
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
-     
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
-  
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-### What happens if you violate this policy? 
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
 
-If we determine that you violated this policy, we may suspend your account, including upon first review.
+### Our policy development process 
 
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+Creating a new policy or making a policy change requires in-depth research around trends in online behavior, developing clear external language that sets expectations around what’s allowed, and creating enforcement guidance for reviewers that can be scaled across millions of posts.
 
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
- 
+While drafting policy language, we gather feedback from a variety of internal teams as well as our Trust & Safety Council. This is vital to ensure we are considering global perspectives around the changing nature of online speech, including how our rules are applied and interpreted in different cultural and social contexts. Finally, we train our global review teams, update the X Rules, and start enforcing the new policy.
 
-### Additional resources 
+### Our enforcement philosophy 
 
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+We empower people to understand different sides of an issue and encourage dissenting opinions and viewpoints to be discussed openly. This approach allows many forms of speech to exist on our platform and, in particular, promotes counterspeech: speech that presents facts to correct misstatements or misperceptions, points out hypocrisy or contradictions, warns of offline or online consequences, denounces hateful or dangerous speech, or helps change minds and disarm.
 
-Illegal or certain regulated goods or services
-==============================================
+Thus, **context matters**. When determining whether to take enforcement action, we may consider a number of factors, including (but not limited to) whether:
 
-### Overview 
+* the behavior is directed at an individual, group, or protected category of people;
+* the report has been filed by the target of the abuse or a bystander;
+* the user has a history of violating our policies;
+* the severity of the violation;
+* the content may be a topic of legitimate public interest.
 
-**March 2023**
+**  
+Is the behavior directed at an individual or group of people?**
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+To strike a balance between allowing different opinions to be expressed on the platform, and protecting our users, we enforce policies when someone reports abusive behavior that targets a specific person or group of people. This targeting can happen in a number of ways (for example, @mentions, tagging a photo, mentioning them by name, and more).
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+**  
+Has the report been filed by the target of the potential abuse or a bystander?**
 
-Goods or services covered under this policy include, but are not limited to:
+Some posts may seem to be abusive when viewed in isolation, but may not be when viewed in the context of a larger conversation or historical relationship between people on the platform. For example, friendly banter between friends could appear offensive to bystanders, and certain remarks that are acceptable in one culture or country may not be acceptable in another. To help prevent our teams from making a mistake and removing consensual interactions, in certain scenarios we require a [report](https://help.twitter.com/forms/private_information) from the actual target (or their authorized representative) prior to taking any enforcement action.
 
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
-     
+**  
+Does the user have a history of violating our policies?**
 
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
-  
+We start from a position of assuming that people do not intend to violate our Rules. Unless a violation is so egregious that we must immediately suspend an account, we first try to educate people about our Rules and give them a chance to correct their behavior. We show the violator the offending post(s), explain which Rule was broken, and require them to remove the content before they can post again. If someone repeatedly violates our Rules then our enforcement actions become stronger. This includes requiring violators to remove the post(s) and taking additional actions like verifying account ownership and/or temporarily limiting their ability to post for a set period of time. If someone continues to violate Rules beyond that point then their account may be permanently suspended.
 
-### What happens if you violate this policy? 
+**  
+What is the severity of the violation?**
 
-If we determine that you violated this policy, we may suspend your account, including upon first review.
+Certain types of behavior may pose serious safety and security risks and/or result in physical, emotional, and financial hardship for the people involved. These egregious violations of the X Rules — such as posting violent threats, non-consensual intimate media, or content that sexually exploits children — result in the immediate and permanent suspension of an account. Other violations could lead to a range of different steps, like requiring someone to remove the offending post(s) and/or temporarily limiting their ability to post new post(s).
 
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
+**  
+Is the behavior newsworthy and in the legitimate public interest?**
 
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
- 
+X moves at the speed of public consciousness and people come to the service to stay informed about what matters. Exposure to different viewpoints can help people learn from one another, become more tolerant, and make decisions about the type of society we want to live in.
 
-### Additional resources 
+To help ensure people have an opportunity to see every side of an issue, there may be the rare occasion when we allow controversial content or behavior which may otherwise violate our Rules to remain on our service because we believe there is a legitimate public interest in its availability. Each situation is evaluated on a case by case basis and ultimately decided upon by a cross-functional team.
 
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+Some of the factors that help inform our decision-making about content are the impact it may have on the public, the source of the content, and the availability of alternative coverage of an event.
 
-Illegal or certain regulated goods or services
-==============================================
+Public impact of the content: A topic of legitimate public interest is different from a topic in which the public may be curious. We will consider what the impact is to citizens if they do **not** know about this content. If the post does have the potential to impact the lives of large numbers of people, the running of a country, and/or it speaks to an important societal issue then we may allow the the content to remain on the service. Likewise, if the impact on the public is minimal we will most likely remove content in violation of our policies.
 
-### Overview 
+Source of the content: Some people, groups, organizations and the content they post on X may be considered a topic of legitimate public interest by virtue of their being in the public consciousness. This does not mean that their posts will always remain on the service. Rather, we will consider if there is a legitimate public interest for a particular post to remain up so it can be openly discussed.
 
-**March 2023**
+Availability of coverage: Everyday people play a crucial role in providing firsthand accounts of what’s happening in the world, counterpoints to establishment views, and, in some cases, exposing the abuse of power by someone in a position of authority. As a situation unfolds, removing access to certain information could inadvertently hide context and/or prevent people from seeing every side of the issue. Thus, before actioning a potentially violating post, we will take into account the role it plays in showing the larger story and whether that content can be found elsewhere.
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
+Our approach to policy development and enforcement philosophy
+=============================================================
 
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
+X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-Goods or services covered under this policy include, but are not limited to:
-
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
-     
-
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
-  
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
- 
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Illegal or certain regulated goods or services
-==============================================
-
-### Overview 
-
-**March 2023**
-
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
-
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
-
-Goods or services covered under this policy include, but are not limited to:
-
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
-     
-
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
-  
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
- 
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Illegal or certain regulated goods or services
-==============================================
-
-### Overview 
-
-**March 2023**
-
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
-
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
-
-Goods or services covered under this policy include, but are not limited to:
-
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
-     
-
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
-  
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
- 
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Illegal or certain regulated goods or services
-==============================================
-
-### Overview 
-
-**March 2023**
-
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
-
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
-
-Goods or services covered under this policy include, but are not limited to:
-
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
-     
-
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
-  
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
- 
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Illegal or certain regulated goods or services
-==============================================
-
-### Overview 
-
-**March 2023**
-
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
-
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
-
-Goods or services covered under this policy include, but are not limited to:
-
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
-     
-
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
-  
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
- 
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Illegal or certain regulated goods or services
-==============================================
-
-### Overview 
-
-**March 2023**
-
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
-
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
-
-Goods or services covered under this policy include, but are not limited to:
-
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
-     
-
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
-  
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
- 
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Illegal or certain regulated goods or services
-==============================================
-
-### Overview 
-
-**March 2023**
-
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
-
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
-
-Goods or services covered under this policy include, but are not limited to:
-
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
-     
-
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
-  
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
- 
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Illegal or certain regulated goods or services
-==============================================
-
-### Overview 
-
-**March 2023**
-
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
-
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
-
-Goods or services covered under this policy include, but are not limited to:
-
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
-     
-
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
-  
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
- 
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Illegal or certain regulated goods or services
-==============================================
-
-### Overview 
-
-**March 2023**
-
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
-
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
-
-Goods or services covered under this policy include, but are not limited to:
-
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
-     
-
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
-  
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
- 
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Illegal or certain regulated goods or services
-==============================================
-
-### Overview 
-
-**March 2023**
-
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
-
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
-
-Goods or services covered under this policy include, but are not limited to:
-
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
-     
-
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
-  
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
- 
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Illegal or certain regulated goods or services
-==============================================
-
-### Overview 
-
-**March 2023**
-
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
-
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
-
-Goods or services covered under this policy include, but are not limited to:
-
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
-     
-
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
-  
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
- 
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Illegal or certain regulated goods or services
-==============================================
-
-### Overview 
-
-**March 2023**
-
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
-
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
-
-Goods or services covered under this policy include, but are not limited to:
-
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
-     
-
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
-  
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
- 
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-Illegal or certain regulated goods or services
-==============================================
-
-### Overview 
-
-**March 2023**
-
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
-
-X takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of X for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy or request additional information directly. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
-
-Goods or services covered under this policy include, but are not limited to:
-
-* counterfeit goods and services\*;
-* drugs and controlled substances;
-* human trafficking;
-* products made from endangered or protected species;
-* sexual services;
-* illicitly obtained materials; and
-* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
-     
-
-\*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
-  
-
-### What happens if you violate this policy? 
-
-If we determine that you violated this policy, we may suspend your account, including upon first review.
-
-Accounts that appear to be using misleading account information in order to engage in spamming, abusive, or disruptive behavior to promote the sale of illegal and regulated goods and/or services may be subject to suspension under our [platform manipulation and spam](https://help.twitter.com/rules-and-policies/platform-manipulation) policy. 
-
-If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals).  
- 
-
-### Additional resources 
-
-Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+We have the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about [different enforcement actions](https://support.twitter.com/articles/20175435).
