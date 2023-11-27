@@ -368,7 +368,7 @@ Publishers must:
 
 ### Children’s Online Privacy Protection Act (COPPA)
 
-If you implement any Google advertising service on a site or section of a site that is covered by the Children's Online Privacy Protection Act (COPPA), you must:
+If you implement any Google advertising service on an app, a site or section of a site that is covered by the Children's Online Privacy Protection Act (COPPA), you must:
 
 * notify Google of those sites or sections of sites covered by COPPA using the [Google Search Console](https://search.google.com/search-console/coppa), tag the ad request using the [AdMob SDK](https://firebase.google.com/docs/admob/android/targeting) , or tag your site, app, or ad request for child-directed treatment;
 *  not use interest-based advertising (including remarketing) to target:
