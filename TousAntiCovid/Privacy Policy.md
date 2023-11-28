@@ -234,7 +234,7 @@
         * [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
             
             * [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-            * [Bisphénol A](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a)
+            * [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
             * [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
             * [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
@@ -596,7 +596,7 @@
         * [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
             
             * [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-            * [Bisphénol A](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a)
+            * [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
             * [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
             * [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
@@ -1099,7 +1099,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
             
             * [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-            * [Bisphénol A](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a)
+            * [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
             * [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
             * [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
@@ -1461,7 +1461,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
             
             * [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-            * [Bisphénol A](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a)
+            * [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
             * [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
             * [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
@@ -1944,7 +1944,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
             
             * [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-            * [Bisphénol A](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a)
+            * [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
             * [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
             * [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
@@ -2306,7 +2306,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
             
             * [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-            * [Bisphénol A](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a)
+            * [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
             * [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
             * [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
@@ -2734,7 +2734,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
             
             * [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-            * [Bisphénol A](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a)
+            * [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
             * [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
             * [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
@@ -3102,7 +3102,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
             
             * [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-            * [Bisphénol A](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a)
+            * [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
             * [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
             * [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
@@ -3470,7 +3470,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
             
             * [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-            * [Bisphénol A](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a)
+            * [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
             * [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
             * [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
@@ -3838,7 +3838,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
             
             * [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-            * [Bisphénol A](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a)
+            * [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
             * [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
             * [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
@@ -4206,7 +4206,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
             
             * [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-            * [Bisphénol A](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a)
+            * [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
             * [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
             * [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
@@ -4574,7 +4574,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
         * [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
             
             * [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-            * [Bisphénol A](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a)
+            * [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
             * [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
             * [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
@@ -4817,7 +4817,7 @@ Retour
 * [Compléments alimentaires](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/article/complements-alimentaires)
 
 * [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-* [Bisphénol A](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a)
+* [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
 * [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
 * [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
 * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
@@ -5132,7 +5132,7 @@ Retour
         * [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
             
             * [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-            * [Bisphénol A](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a)
+            * [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
             * [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
             * [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
@@ -5494,7 +5494,7 @@ Retour
         * [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
             
             * [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-            * [Bisphénol A](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a)
+            * [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
             * [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
             * [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
@@ -5856,7 +5856,7 @@ Retour
         * [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
             
             * [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-            * [Bisphénol A](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a)
+            * [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
             * [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
             * [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
@@ -6218,7 +6218,7 @@ Retour
         * [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
             
             * [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-            * [Bisphénol A](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a)
+            * [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
             * [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
             * [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
@@ -6580,7 +6580,7 @@ Retour
         * [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
             
             * [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-            * [Bisphénol A](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a)
+            * [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
             * [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
             * [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
@@ -7138,7 +7138,7 @@ Retour
         * [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
             
             * [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-            * [Bisphénol A](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a)
+            * [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
             * [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
             * [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
@@ -7330,7 +7330,7 @@ Retour
 * [Compléments alimentaires](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/article/complements-alimentaires)
 
 * [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-* [Bisphénol A](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a)
+* [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
 * [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
 * [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
 * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
