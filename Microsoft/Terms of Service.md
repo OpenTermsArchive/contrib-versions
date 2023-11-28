@@ -386,10 +386,8 @@ The following products, apps and services are covered by the Microsoft Services 
 * Apps and services included with Microsoft 365 Personal
 * Ask Cortana
 * Bing Apps
-* Bing Conversational Experiences
 * Bing Dictionary
 * Bing Image and News (iOS)
-* Bing Image Creator
 * Bing Maps
 * Bing Pages
 * Bing Rebates
@@ -415,6 +413,7 @@ The following products, apps and services are covered by the Microsoft Services 
 * Groove Music Pass
 * Groove
 * GroupMe
+* Image Creator from Microsoft Designer
 * LineBack
 * Link to Windows
 * Maps App
@@ -430,6 +429,7 @@ The following products, apps and services are covered by the Microsoft Services 
 * Microsoft Add-Ins for Skype
 * Microsoft Bots
 * Microsoft Collections
+* Microsoft Copilot
 * Microsoft Defender for individuals
 * Microsoft Educator Community
 * Microsoft Family
