@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last updated: June 1, 2023
+Last updated: November 27, 2023
 
 This document (“**Privacy Policy**”) explains the privacy rules applicable to personal data and other information collected or submitted when you access, install, or use Nord Services and Websites regardless of the device (computer, mobile phone, tablet, etc.) you use.
 
@@ -36,6 +36,7 @@ Subscription information
 * **Payment data.** This information is necessary to collect payments for the Services. Our payment processing partners process basic billing information for payment processing and refund requests (e.g., date of purchase, payer’s IP address, postal (ZIP) code, credit card owner's full name and credit card information). We also process some of such billing information ourselves (e. g., date of purchase, credit card owner's full name, part of your credit card number, its expiration date) in cases of recurring payments or when you provide your payment details directly to us.
 * **Country details.** When making a purchase we process information on the user’s country the purchase takes place from. This information is necessary for VAT calculation purposes.
 * **Information for payment fraud prevention.** To prevent fraudulent payments for the Services, your personal data (such as payer's email address and device information) can be verified by our and/or our payment processing partners fraud management tools. A payment transaction that is considered high risk may be rejected by us.
+* **Information concerning zero authorization for billing.** The purpose of the zero authorization is to confirm that your payment method is still valid, which, respectively, leads to a seamless continuation of your Subscription. No personally identifiable information is collected in this case, apart from the fact that your provided payment method is still valid (or not) and the date of such authorization.
 
 Communication data
 
@@ -91,7 +92,7 @@ Some of our main long-term service providers:
 * Emailing service providers, e.g., Iterable (provided by Iterable Inc.), Sendgrid (provided by Twilio Inc.)
 * Marketing, application analytics and diagnostics, e.g., Google Analytics, Firebase Analytics (provided by Google), AppsFlyer (provided by AppsFlyer Ltd.), Bugsnag (provided by Bugsnag Inc.)
 * Conversion attribution system, e.g., Hasoffers (provided by Tune Inc.)
-* Payments processing, e.g., Mollymind AG, Moonflash Limited, Lagosec, Inc., Nord Security JP Co., Ltd, Checkout Ltd
+* Payments processing, e.g., Mollymind AG, NordSec B.V., Moonflash Limited, Lagosec, Inc., Nord Security JP Co., Ltd, Checkout Ltd
 
 **Nord partners.** Sometimes our partners, for example, distributors, resellers, and app store partners, will be independent data controllers of your personal data. In such cases, the procedures established by them (e.g., terms of service and privacy policies) will apply to such relationships. In other cases we may collaborate with partners as joint controllers meaning that we jointly define the purpose and means of data processing with them. Both joint controllers are then responsible for the data processing and its compliance with applicable privacy laws.
 
@@ -99,7 +100,7 @@ We also partner with third parties to display advertising on our Websites or to 
 
 Your personal data may be processed in any country in which we engage service providers and partners. When you use our Services and Websites, you understand and acknowledge that your personal data may be transferred outside of the country where you reside.
 
-**Bundled subscriptions (Third Party Services purchased through Nord)**. By subscribing to the Bundled Subscription which includes Third Party Services purchased through Nord, you agree that certain purchase information (e.g., your email address, Subscription term, payment amount, and subscription ID) will be shared with the respective provider of Third Party Services for purposes of activating, administering, and provision of Third Party Services, also for improving your experience, and communicating with you about the Bundled Subscription and Third Party Services. When you use Third Party Services, your personal data is processed by the provider of Third Party Services (which acts as a separate data controller of your personal data) according to the procedures established by it and governed by its privacy policies.
+**Bundled subscriptions (Third Party Services acquired through Nord)**. By subscribing to the Bundled Subscription which includes Third Party Services acquired through Nord, you agree that certain purchase information (e.g., your email address, Subscription term, payment amount, subscription ID) will be shared with the respective provider of Third Party Services for purposes of activating, administering, and provision of Third Party Services, also for improving your experience, and communicating with you about the Bundled Subscription and Third Party Services. When you use Third Party Services, your personal data is processed by the provider of Third Party Services (which acts as a separate data controller of your personal data) according to the procedures established by it and governed by its privacy policies.
 
 **Other Nord group companies.** We share your personal data with other Nord group companies to carry out our daily business operations and to enable us to maintain and provide our Services to you. We may also share the contact information of Nord business customers (i.e., our customers which use our products as a tool for their business) with Nord group companies for marketing of their B2B products purposes (business users have a right to object to such transfer at any time).
 
@@ -203,27 +204,29 @@ As set out in Section 3 of this Privacy Policy, we share personal data with serv
 
 8\. CONTACT US
 
-If you have questions, requests, concerns, or complaints about this Privacy Policy or our personal data processing practices, please contact us via [privacy@nordaccount.com](mailto:privacy@nordaccount.com) or by writing to us at the following address:
+If you have questions, requests, concerns, or complaints about this Privacy Policy or our personal data processing practices, or you wish to exercise your data subject rights, please contact us via [privacy@nordaccount.com](mailto:privacy@nordaccount.com) or by writing to us at the following address:
 
 nordvpn S.A., PH F&F TOWER, 50th Street & 56th Street, Suite #32-D, Floor 32, Panama City, Republic of Panama
 
-On matters related to the processing of personal data, you may also contact our representative VeraSafe in the European Economic Area using the following details:
+On matters related to the processing of personal data, you may also contact our representative, VeraSafe, in the EEA through the following means:
 
-* via this contact form: [https://verasafe.com/public-resources/contact-data-protection-representative](https://verasafe.com/public-resources/contact-data-protection-representative)
+* online contact form: [https://verasafe.com/public-resources/contact-data-protection-representative](https://verasafe.com/public-resources/contact-data-protection-representative);
     
-* via telephone at: +420 228 881 031
+* telephone: +420 228 881 031;
     
-* via postal address at: VeraSafe Ireland Ltd., Unit 3D North Point House, North Point Business Park, New Mallow Road, Cork T23AT2P, Ireland
+* postal address: VeraSafe Ireland Ltd., Unit 3D North Point House, North Point Business Park, New Mallow Road, Cork T23AT2P, Ireland.
     
 
-If you are located within the United Kingdom, you may also contact our representative VeraSafe in the United Kingdom:
+If you are located within the United Kingdom, you may also contact our representative, VeraSafe, specifically for the United Kingdom, through the following means:
 
-* via this contact form: [https://verasafe.com/public-resources/contact-data-protection-representative](https://verasafe.com/public-resources/contact-data-protection-representative)
+* online contact form: [https://verasafe.com/public-resources/contact-data-protection-representative](https://verasafe.com/public-resources/contact-data-protection-representative);
     
-* via telephone at: +44 (20) 4532 2003
+* telephone: +44 (20) 4532 2003;
     
-* via postal address at: VeraSafe United Kingdom Ltd., 37 Albert Embankment, London SE1 7TL, United Kingdom
+* postal address: VeraSafe United Kingdom Ltd., 37 Albert Embankment, London SE1 7TL, United Kingdom.
     
+
+Nord has also appointed a Data Protection Officer (DPO) to ensure the protection of your personal data. You can contact our DPO at [dpo@nordsec.com](mailto:privacy@nordaccount.com).
 
 9\. CHILDREN’S DATA
 
