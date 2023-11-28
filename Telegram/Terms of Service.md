@@ -44,9 +44,9 @@ Your subscription will remain active from the time you cancel until the end of y
 
 > Deleting your Telegram account or removing the Telegram application from your device does not cancel your subscription.
 
-#### [](#3-paid-services-obtained-through-third-parties)3\. Paid Services Obtained Through Third Parties
+### [](#3-paid-services-obtained-through-third-parties)3\. Paid Services Obtained Through Third Parties
 
-If you obtain a Telegram Premium subscription via a third party (e.g. Google Play, Apple App Store), your purchase may be further subject to the third party's terms as agreed between you and the third party. For Paid Services obtained via a third party, your billing relationship will be directly with the applicable third party.
+If you obtain a Telegram Premium subscription via a third party (e.g. Google Play, Apple App Store), your purchase may be further subject to the third party's terms as agreed between you and the third party. For paid services obtained via a third party, your billing relationship will be directly with the applicable third party.
 
 ### [](#4-termination)4\. Termination
 
