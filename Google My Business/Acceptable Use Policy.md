@@ -169,9 +169,9 @@ Categories help your customers to find accurate, specific results for services t
 
 #### Select your category
 
-Select categories that complete the statement: 'This business _IS_ a' rather than 'this business _HAS_ a'. The goal is to describe your business holistically rather than a list of all the services it offers, products it sells or amenities it features.
+Select categories that complete the statement: 'This business _IS_ a' rather than 'this business _HAS_ a'. The goal is to describe your business holistically rather than a list of all the services it offers, products it sells or amenities it features.
 
-Focus primarily on adding the most specific categories for your business; we'll do the rest behind the scenes. For instance, when you select a specific category like 'Golf Resort', Google implicitly includes more general categories such as 'Resort Hotel', 'Hotel' and 'Golf Course'. Feel free to skip adding any category that seems redundant and add a more specific category that you selected. If you can't find a category for your business, choose one that's more general. Google can also detect category information from your website and from mentions about your business throughout the web.
+Focus primarily on adding the most specific categories for your business; we'll do the rest behind the scenes. For instance, when you select a specific category like 'Golf Resort', Google implicitly includes more general categories such as 'Resort Hotel', 'Hotel' and 'Golf Course'. You can skip adding any category that seems redundant with a more specific category that you selected. If you can't find a category for your business, choose one that's more general. Google can also detect category information from your website and from mentions about your business throughout the web.
 
 |     |     |     |
 | --- | --- | --- |
@@ -197,7 +197,7 @@ Examples:
     * **'Nobu' category:** 'Restaurant'
     * **'Hard Rock Hotel' category:** 'Hotel'. It shouldn't add 'Restaurant' as a category.
 
-The following types of co-located businesses should each have their own page. If you need to use both categories for the same business location, then create two pages instead. Make sure that you use a different name for the second business. [Learn about departments](https://support.google.com/business/answer/3038177#departments).
+The following types of co-located businesses should each have their own profile. If you need to use both categories for the same business location, create two profiles instead. Make sure that you use a different name for the second business. [Learn about departments](https://support.google.com/business/answer/3038177#departments).
 
 * A Restaurant/Cafe/Bar inside a Hotel/Motel
 * A Pharmacy inside a Supermarket/Grocery Shop
