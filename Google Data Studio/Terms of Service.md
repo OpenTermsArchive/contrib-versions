@@ -1,13 +1,15 @@
 Looker Studio Terms of Service
 ==============================
 
-_Version: December 22, 2022_
+_Version: November 30, 2023_
 
 These Looker Studio Terms of Service (“Agreement”) are entered into by Google and the entity or person agreeing to these terms (“Customer”). This Agreement is effective as of the date you click to accept these terms (the "Effective Date").
 
 If you are accepting on behalf of Customer, you represent and warrant that (i) you have full legal authority to bind Customer to this Agreement; (ii) you have read and understand this Agreement; and (iii) you agree, on behalf of Customer, to this Agreement.
 
 Certain Customers may choose to have their use of the Service be governed by the Customer’s Google Cloud Platform Agreement, as described in the Google Cloud Platform Agreement. Such choice by the Customer will supersede any prior acceptance of this Agreement by Customer. If you are an End User managed by an Administrator for a Customer who has made such a choice, this Agreement will not apply to you and the Google Cloud Platform Agreement will govern your use of the Services.
+
+This Agreement does not apply to your use of Looker Studio Pro, which is made available under the Google Cloud Platform Agreement.
 
 1\. Services.
 
@@ -109,7 +111,7 @@ Certain Customers may choose to have their use of the Service be governed by the
 
 12.10 “Google” means (a) Google Ireland Limited, with offices at Gordon House, Barrow Street, Dublin 4, Ireland, if your principal place of business (for entities) or place of residence (for individuals) is in any country within Europe, the Middle East, or Africa ("EMEA"); (b) Google Asia Pacific Pte Ltd., with offices at 70 Pasir Panjang Road, #03-71, Mapletree Business City II Singapore 117371, if your principal place of business (for entities) or place of residence (for individuals) is in any country within the Asia Pacific region (“APAC”); or (c) Google LLC, with offices at 1600 Amphitheatre Parkway, Mountain View, California 94043, if your principal place of business (for entities) or place of residence (for individuals) is in any country in the world other than those in EMEA or APAC.
 
-12.11 “Google Cloud Platform Agreement” means the agreement between Customer and the relevant Google entity (as further described in the Google Cloud Platform Agreement) under which that Google entity has agreed to provide Google Cloud Platform (as described at [https://cloud.google.com/terms/services](https://cloud.google.com/terms/services)).
+12.11 “Google Cloud Platform Agreement” means the agreement that governs Customer’s use of Google Cloud Platform (as described at [https://cloud.google.com/terms/services](https://cloud.google.com/terms/services)).
 
 12.12 "High Risk Activities" means uses such as the operation of nuclear facilities, air traffic control, or life support systems, where the use or failure of the Service could lead to death, personal injury, or environmental damage.
 
@@ -125,6 +127,8 @@ Certain Customers may choose to have their use of the Service be governed by the
 
 Previous versions
 -----------------
+
+[December 22, 2022](https://support.google.com/looker-studio/answer/14273738)
 
 [June 28, 2022](https://support.google.com/looker-studio/answer/13139310)
 
