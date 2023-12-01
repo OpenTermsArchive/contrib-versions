@@ -127,6 +127,10 @@ By using the Criteo Services, they undertake, where the applicable regulations r
 
 In order to help our partners meet their legal and contractual obligations, we regularly share industry best practices with them.  
 
+#### Google’s Privacy Sandbox
+
+We participate in testing the Google Privacy Sandbox, a set of technologies to enable digital advertising without using third-party cookies in Google Chrome. With your consent, and as part of the testing, Criteo may store and access data on your device or browser, including by setting new cookies, that relates to your web browsing interests and to ad measurement. In accordance with applicable data protection laws, you have the right to withdraw your consent at any time on this [page](https://www.criteo.com/privacy/disable-criteo-services-on-internet-browsers/). For more information about the Google Privacy Sandbox please see [https://privacysandbox.com/](https://privacysandbox.com/).
+
 #### Your data, your choice
 
 [Understand my rights](https://www.criteo.com/privacy/your-rights/) in relation to my personal data.  
