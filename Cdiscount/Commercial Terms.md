@@ -1,5 +1,5 @@
-_Mon espace client PREAMBULE GENERAL_
--------------------------------------
+_Article 1 : CHAMP D'APPLICATION_
+---------------------------------
 
 Ce site est opéré  par :  
   
@@ -111,7 +111,7 @@ Les CGV ne sont pas applicables :
 
 \- aux commandes passées sur la Marketplace Cdiscount auprès de vendeurs professionnels. Pour consulter les conditions générales d’utilisation de la Marketplace Cdiscount, [cliquez ici.](https://i2.cdscdn.com/resources/imagesok/cgu/mkp/cgu_acheteurs_mp_cdiscount.pdf)
 
-\- aux professionnels. Est considéré comme professionnel, toute personne physique ou morale, publique ou privée, qui agit à des fins entrant dans le cadre de son activité commerciale, industrielle, artisanale, libérale ou agricole, y compris lorsqu'elle agit au nom ou pour le compte d'un autre professionnel. Les professionnels qui souhaitent commander auprès de CDISCOUNT sont invités à consulter les conditions générales de vente « CDISCOUNT PRO ».
+\- aux professionnels. Est considéré comme professionnel, toute personne physique ou morale, publique ou privée, qui agit à des fins entrant dans le cadre de son activité commerciale, industrielle, artisanale, libérale ou agricole, y compris lorsqu'elle agit au nom ou pour le compte d'un autre professionnel.
 
 Les présentes CGV sont susceptibles d’être modifiées à tout moment par CDISCOUNT. Il vous appartient de les consulter et de les accepter formellement avant toute commande.
 
@@ -1140,7 +1140,8 @@ Cdiscount se réserve le droit de modifier le prix de l’Abonnement du Service 
 
 * l’Abonné ne bénéficie pas de l’Offre d’essai gratuit, telle que définie ci-après, le paiement du prix de l’Abonnement au Service sera réalisé au jour de la Date de souscription au Service.
 
-* l’Abonné bénéficie de l’Offre d’essai gratuit, telle que définie ci-après, le paiement du prix de l’Abonnement au Service sera différé au sixième (6ème) jour suivant la Date de souscription au Service ;
+* l’Abonné bénéficie de l’Offre d’essai gratuit, telle que définie ci-après, le paiement du prix de l’Abonnement au Service sera différé au sixième (6ème) jour suivant la Date de souscription au Service.
+* Afin de garantir le paiement du Service à l'issue de la Période d'essai telle que définie à l'article 4.1 ci-après, Cdiscount procédera à une empreinte bancaire du prix de l'Abonnement sur la carte bancaire que l'Abonné aura utilisée lors de la souscription au Service. En cas d'échec de l'empreinte bancaire, aucune somme ne sera débitée de la carte bancaire utilisée par l'Abonné et la souscription au Service ne sera pas effective. En cas d'interruption de la Période d'essai par l'Abonné ou par Cdiscount, aucune somme ne sera débitée de la carte bancaire utilisée par l'Abonné.
 
 En cas de reconduction de l'Abonnement conformément aux stipulations de l'article 5 ci-après, le paiement du prix de l'Abonnement sera exigible au jour du renouvellement de l'Abonnement.
 
@@ -1178,8 +1179,6 @@ Si l'Abonné choisit d'interrompre sa Période d'essai au cours de celle-ci, il 
             - depuis l’Allemagne au 0800 627 9980 (numéro gratuit) ;  
             - depuis l’Espagne au 0800 00 01 17 (numéro gratuit) ;  
             - depuis le Luxembourg au 0800 40 234 (numéro gratuit);
-
-Cdiscount procèdera au remboursement du prix de l'Abonnement au Service dans un délai pouvant aller jusqu'à 72 heures.
 
 **ARTICLE 5 - DUREE**
 
@@ -1248,6 +1247,8 @@ Ce droit de rétractation est exercé par écrit, par tout moyen, et notamment :
 \-          via l'Espace client, en complétant un formulaire en ligne. Ce formulaire est accessible en cliquant sur la rubrique "Cdiscount à volonté" puis sur le bouton "Se désabonner" ;
 
 \-          en nous adressant le formulaire présenté à l'article 8 des CGV complété.
+
+ Cdiscount procèdera au remboursement du prix de l'Abonnement au Service dans un délai pouvant aller jusqu'à 72 heures.
 
   
  
@@ -1469,6 +1470,8 @@ La Cagnotte du Bénéficiaire du Partage reste active pendant toute la durée o�
 
    
   
+
+    
 
 _CONDITIONS ASSURANCE FLOA BANK ACHAT ET MOYEN DE PAIEMENT (uniquement pour la France métropolitaine) Notice d'information_
 ---------------------------------------------------------------------------------------------------------------------------
