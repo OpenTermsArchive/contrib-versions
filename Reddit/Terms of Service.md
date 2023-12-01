@@ -12,14 +12,15 @@ Effective September 25, 2023. Last Revised September 25, 2023
 
 * * *
 
-**Reddit User Agreement if you live outside the EEA, United Kingdom, or Switzerland, including if you live in the United States**
+Reddit User Agreement if you live outside the EEA, United Kingdom, or Switzerland, including if you live in the United States
+-----------------------------------------------------------------------------------------------------------------------------
 
 Hello, redditors and people of the Internet! This Reddit User Agreement (“**Terms**”) applies to your access to and use of the websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the “**Services**”) provided by Reddit, Inc. (“**Reddit**,” “**we**,” “**us**,” or “**our**”).  
 
   
 Remember Reddit is for fun and is intended to be a place for your entertainment, but we still need some basic rules. By accessing or using our Services, you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use our Services.
 
-**1\. Your Access to the Services**
+### 1\. Your Access to the Services
 
 No one under 13 is allowed to use or access the Services. We may offer additional Services that require you to be older to use them, so please read all notices and any Additional Terms carefully when you access the Services.  
   
@@ -36,11 +37,11 @@ By using the Services, you state that:
 
 If you are accepting these Terms on behalf of another legal entity, including a business or government entity, you represent that you have full legal authority to bind such entity to these Terms.
 
-**2\. Privacy**
+### 2\. Privacy
 
 Reddit’s [Privacy Policy](https://www.reddit.com/policies/privacy-policy) explains how and why we collect, use, and share information about you when you access or use our Services. You understand that through your use of the Services, you consent to the collection and use of this information as set forth in the [Privacy Policy](https://www.reddit.com/policies/privacy-policy).
 
-**3\. Your Use of the Services**
+### 3\. Your Use of the Services
 
 Subject to your complete and ongoing compliance with these Terms, Reddit grants you a personal, non-transferable, non-exclusive, revocable, limited license to: (a) install and use a copy of our mobile application associated with the Services that is obtained from a legitimate marketplace on a mobile device owned or controlled by you; and (b) access and use the Services. We reserve all rights not expressly granted to you by these Terms.  
   
@@ -55,7 +56,7 @@ Except and solely to the extent such a restriction is impermissible under applic
 
 We are always improving our Services. This means we may add or remove features, products, or functionalities; we will try to notify you beforehand, but that won’t always be possible. We reserve the right to modify, suspend, or discontinue the Services (in whole or in part) at any time, with or without notice to you. Any future release, update, or other addition to functionality of the Services will be subject to these Terms, which may be updated from time to time. You agree that we will not be liable to you or to any third party for any modification, suspension, or discontinuation of the Services or any part thereof.
 
-**4\. Your Reddit Account and Account Security**
+### 4\. Your Reddit Account and Account Security
 
 To use certain features of our Services, you may be required to create a Reddit account (an “**Account**”) and provide us with a username, password, and certain other information about yourself as set forth in the [Privacy Policy](https://www.reddit.com/policies/privacy-policy).  
   
@@ -63,7 +64,7 @@ You are solely responsible for the information associated with your Account and 
   
 You will not license, sell, or transfer your Account without our prior written approval.
 
-**5\. Your Content**
+### 5\. Your Content
 
 The Services may contain information, text, links, graphics, photos, videos, audio, streams, software, tools, or other materials (“**Content**”), including Content created with or submitted to the Services by you or through your Account (“**Your Content**”). We take no responsibility for and we do not expressly or implicitly endorse, support, or guarantee the completeness, truthfulness, accuracy, or reliability of any of Your Content.  
   
@@ -77,7 +78,7 @@ Any ideas, suggestions, and feedback about Reddit or our Services that you provi
   
 Although we have no obligation to screen, edit, or monitor Your Content, we may, in our sole discretion, delete or remove Your Content at any time and for any reason, including for violating these Terms, violating our [Content Policy](https://www.redditinc.com/policies/content-policy), or if you otherwise create or are likely to create liability for us.
 
-**6\. Third-Party Content, Advertisements, and Promotions**
+### 6\. Third-Party Content, Advertisements, and Promotions
 
 The Services may contain links to third-party websites, products, or services, which may be posted by advertisers, our affiliates, our partners, or other users (“**Third-Party Content**”). Third-Party Content is not under our control, and we are not responsible for any third party’s websites, products, or services. Your use of Third-Party Content is at your own risk and you should make any investigation you feel necessary before proceeding with any transaction in connection with such Third-Party Content.  
   
@@ -85,7 +86,7 @@ The Services may also contain sponsored Third-Party Content or advertisements. T
   
 If you choose to use the Services to conduct a promotion, including a contest or sweepstakes (“**Promotion**”), you alone are responsible for conducting the Promotion in compliance with all applicable laws and regulations, including creating official rules, offer terms, eligibility requirements, and compliance with applicable laws, rules, and regulations which govern the Promotion (such as licenses, registrations, bonds, and regulatory approval). Your Promotion must state that the Promotion is not sponsored by, endorsed by, or associated with Reddit, and the rules for your Promotion must require each entrant or participant to release Reddit from any liability related to the Promotion. You acknowledge and agree that we will not assist you in any way with your Promotion, and you agree to conduct your Promotion at your own risk.
 
-**7\. Things You Cannot Do**
+### 7\. Things You Cannot Do
 
 When using or accessing the Services, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the [Content Policy](https://www.redditinc.com/policies/content-policy), which is incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the [Content Policy](https://www.redditinc.com/policies/content-policy), you may not do any of the following:
 
@@ -104,7 +105,7 @@ When using or accessing the Services, you must comply with these Terms and all a
 
 We encourage you to [report](https://reddit.zendesk.com/hc/en-us/requests/new) content or conduct that you believe violates these Terms or our [Content Policy](https://www.redditinc.com/policies/content-policy). We also support the responsible reporting of security vulnerabilities. To report a security issue, please email [security@reddit.com](mailto:security@reddit.com).
 
-**8\. Moderators**
+### 8\. Moderators
 
 Moderating a subreddit is an unofficial, voluntary position that may be available to users of the Services. We are not responsible for actions taken by the moderators. We reserve the right to revoke or limit a user’s ability to moderate at any time and for any reason or no reason, including for a breach of these Terms.  
   
@@ -127,7 +128,7 @@ If you choose to moderate a subreddit:
 
 Reddit reserves the right, but has no obligation, to overturn any action or decision of a moderator if Reddit, in its sole discretion, believes that such action or decision is not in the interest of Reddit or the Reddit community.
 
-**9\. Copyright, Trademark, the DMCA, and Takedowns**
+### 9\. Copyright, Trademark, the DMCA, and Takedowns
 
 Reddit respects the intellectual property of others and requires that users of our Services do the same. We have a policy that includes the removal of any infringing material from the Services and for the termination, in appropriate circumstances, of users of our Services who are repeat infringers. If you believe that anything on our Services infringes a copyright or a trademark that you own or control, you may notify Reddit’s Designated Agent by filling out our [Copyright Report Form](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=16510899084308&tf_16510589022228=contact_form_copyright_infringement_dmca) or [Trademark Report Form](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=16510899084308&tf_16510589022228=contact_form_trademark_request), or by contacting:  
   
@@ -140,19 +141,19 @@ See [17 U.S.C. § 512(c)(3)](http://www.copyright.gov/title17/92chap5.html#512) 
   
 If we remove Your Content in response to a copyright or trademark notice, we will notify you via Reddit’s private messaging system. If you believe Your Content was wrongly removed due to a mistake or misidentification in a copyright notice, you can send a counter notification via our [Copyright Counter Notice Form](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=16510899084308&tf_16510589022228=contact_form_copyright_counter_notice) or to our Copyright Agent (contact information provided above). Please see [17 U.S.C. § 512(g)(3)](http://www.copyright.gov/title17/92chap5.html#512) for the requirements of a proper counter notification.
 
-**10\. Paid Services**
+### 10\. Paid Services
 
 There are no fees for the use of many aspects of the Services. However, some services, features, and products may be available for purchase (“**Paid Services**”). In addition to these Terms, the [Reddit Premium and Virtual Goods Agreement](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement) also applies to Paid Services. By purchasing or using Paid Services, you further agree to the [Premium and Virtual Goods Agreement](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement) and, if applicable, the [Previews Terms of Use](https://www.redditinc.com/policies/previews-terms).
 
-**11\. Intellectual Property**
+### 11\. Intellectual Property
 
 The Services are owned and operated by Reddit. The visual interfaces, graphics, design, compilation, information, data, computer code, products, services, trademarks, and all other elements of the Services (“**Materials**”) provided by Reddit are protected by intellectual property and other laws. All Materials included in the Services are the property of Reddit or its third-party licensors. You acknowledge and agree that you shall not acquire any ownership rights whatsoever by downloading Materials or by purchasing Paid Services. Except as expressly authorized by Reddit, and subject to Reddit’s [Brand Guidelines](https://reddit.lingoapp.com/k/Brand-foundation-oYYL4W), you may not make use of the Materials. Reddit reserves all rights to the Materials not granted expressly in these Terms.
 
-**12\. Indemnity**
+### 12\. Indemnity
 
 Except to the extent prohibited by law, you agree to defend, indemnify, and hold Reddit, its affiliates, and their respective, directors, officers, employees, affiliates, agents, contractors, third-party service providers, and licensors (the “**Reddit Entities**”) harmless from and against any claim or demand made by any third party, and any related liability, damage, loss, and expense (including costs and attorneys’ fees) due to, arising out of, or in connection with: (a) your use of the Services; (b) your violation of these Terms; (c) your violation of applicable laws or regulations; or (d) Your Content. We reserve the right to control the defense of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims.
 
-**13\. Disclaimers and Limitation of Liability**
+### 13\. Disclaimers and Limitation of Liability
 
 Nothing in these Terms will prejudice the statutory rights that you may have as a user of the Services. Some countries, states, provinces or other jurisdictions do not allow the exclusion of certain warranties or the limitation of liability as stated in this section, so the below terms may not fully apply to you. Instead, in such jurisdictions, the exclusions and limitations below shall apply only to the extent permitted by the laws of such jurisdictions.  
   
@@ -160,7 +161,7 @@ THE SERVICES ARE PROVIDED “AS IS” AND “AS AVAILABLE” WITHOUT REPRESENTAT
   
 IN NO EVENT WILL ANY OF THE REDDIT ENTITIES BE LIABLE TO YOU FOR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, OR LOST PROFITS ARISING FROM OR RELATING TO THESE TERMS OR THE SERVICES, INCLUDING THOSE ARISING FROM OR RELATING TO CONTENT MADE AVAILABLE ON THE SERVICES THAT IS ALLEGED TO BE DEFAMATORY, OFFENSIVE, OR ILLEGAL. ACCESS TO, AND USE OF, THE SERVICES IS AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR DEVICE OR COMPUTER SYSTEM, OR RESULTING LOSS OF DATA. IN NO EVENT WILL THE AGGREGATE LIABILITY OF THE REDDIT ENTITIES EXCEED THE GREATER OF ONE HUNDRED U.S. DOLLARS ($100) OR ANY AMOUNT YOU PAID REDDIT IN THE PREVIOUS SIX MONTHS FOR THE SERVICES GIVING RISE TO THE CLAIM. THE LIMITATIONS OF THIS SECTION WILL APPLY TO ANY THEORY OF LIABILITY, INCLUDING THOSE BASED ON WARRANTY, CONTRACT, STATUTE, TORT, NEGLIGENCE, STRICT LIABILITY, OR OTHERWISE, EVEN IF THE REDDIT ENTITIES HAVE BEEN ADVISED OF THE POSSIBILITY OF ANY SUCH DAMAGE, AND EVEN IF ANY REMEDY SET FORTH IN THESE TERMS IS FOUND TO HAVE FAILED ITS ESSENTIAL PURPOSE.
 
-**14\. Governing Law and Venue**
+### 14\. Governing Law and Venue
 
 We want you to enjoy Reddit, so if you have an issue or dispute, you agree to raise it and try to resolve it with us informally. You can contact us with feedback and concerns [here](https://www.reddithelp.com/en/submit-request).  
   
@@ -168,11 +169,11 @@ To the fullest extent permitted by applicable law, any claims arising out of or 
   
 If you are a U.S. city, county, or state government entity, then this Section 14 does not apply to you. If you are a U.S. federal government entity, any claims arising out of or relating to these Terms or the Services will be governed by the laws of the United States of America without regard to its conflict of laws rules. To the extent permitted by federal law, the laws of California (other than its conflict of law rules) will apply in the absence of applicable federal law. All disputes related to these Terms or the Services will be brought solely in the federal or state courts located in San Francisco, California.
 
-**15\. Changes to these Terms**
+### 15\. Changes to these Terms
 
 We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our sole discretion, are material, we may also notify you by sending an email to the address associated with your Account (if you have chosen to provide an email address) or by otherwise providing you with notice through our Services. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective.
 
-**16\. Additional Terms**
+### 16\. Additional Terms
 
 Because we offer a variety of Services, you may be asked to agree to additional terms, policies, guidelines, or rules before using a specific product or service offered by Reddit (collectively, “**Additional Terms**”). All Additional Terms are incorporated by this reference into, and made a part of, these Terms, and to the extent any Additional Terms conflict with these Terms, the Additional Terms govern with respect to your use of the corresponding Services.
 
@@ -187,7 +188,7 @@ Because we offer a variety of Services, you may be asked to agree to additional 
 * If you participate in any Reddit program that is subject to Additional Terms (including our Contributor Program), you must also agree to those Additional Terms.
     
 
-**17\. Termination**
+### 17\. Termination
 
 You may terminate these Terms at any time and for any reason by deleting your Account and discontinuing use of all Services. If you stop using the Services without deactivating your Account, your Account may be deactivated due to prolonged inactivity.  
   
@@ -195,7 +196,7 @@ To the fullest extent permitted by applicable law, we may suspend or terminate y
   
 The following sections will survive any termination of these Terms or of your Account: 5 (Your Content), 7 (Things You Cannot Do), 12 (Indemnity), 13 (Disclaimers and Limitation of Liability), 14 (Governing Law and Venue), 17 (Termination), and 18 (Miscellaneous).
 
-**18\. Miscellaneous**
+### 18\. Miscellaneous
 
 These Terms, together with the [Privacy Policy](https://www.reddit.com/policies/privacy-policy) and any other agreements expressly incorporated by reference into these Terms, constitute the entire agreement between you and us regarding your access to and use of the Services. Our failure to exercise or enforce any right or provision of these Terms will not operate as a waiver of such right or provision. If any part of these Terms is held to be invalid or unenforceable, the unenforceable part will be given effect to the greatest extent possible, and the remaining parts will remain in full force and effect. You may not assign or transfer any of your rights or obligations under these Terms without our consent. We may freely assign any of our rights and obligations under these Terms.
 
@@ -210,14 +211,15 @@ United States
 
 * * *
 
-**Reddit User Agreement if you live in the EEA, United Kingdom, or Switzerland**
+Reddit User Agreement if you live in the EEA, United Kingdom, or Switzerland
+----------------------------------------------------------------------------
 
 Hello, redditors and people of the Internet! This Reddit User Agreement (“**Terms**”) applies to your access to and use of the websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the “**Services**”) provided by Reddit, Inc. (“**Reddit**,” “**we**,” “**us**,” or “**our**”).  
 
   
 Remember Reddit is for fun and is intended to be a place for your entertainment, but we still need some basic rules. In order to use the Services, you must have accepted these Terms, which are: (a) presented to you when you create an Account; and (b) available at all times when you access the Services. If you don’t accept them, you may not access or use our Services.
 
-**1\. Your Access to the Services**
+### 1\. Your Access to the Services
 
 No one under 13 is allowed to use or access the Services. We may offer additional Services that require you to be older to use them, so please read all notices and any Additional Terms carefully when you access the Services.  
   
@@ -234,11 +236,11 @@ By using the Services, you state that:
 
 If you are accepting these Terms on behalf of another legal entity, including a business or government entity, you represent that you have full legal authority to bind such entity to these Terms.
 
-**2\. Privacy**
+### 2\. Privacy
 
 Reddit’s [Privacy Policy](https://www.reddit.com/policies/privacy-policy) explains how and why we collect, use, and share information about you when you access or use our Services. You understand that through your use of the Services, you consent to the collection and use of this information as set forth in the [Privacy Policy](https://www.reddit.com/policies/privacy-policy).
 
-**3\. Your Use of the Services**
+### 3\. Your Use of the Services
 
 Subject to your complete and ongoing compliance with these Terms, Reddit grants you a personal, non-transferable, non-exclusive, revocable, limited license to: (a) install and use a copy of our mobile application associated with the Services that is obtained from a legitimate marketplace on a mobile device owned or controlled by you; and (b) access and use the Services. We reserve all rights not expressly granted to you by these Terms.  
   
@@ -253,7 +255,7 @@ Except and solely to the extent such a restriction is impermissible under applic
 
 We do not guarantee that the Services will always be available or uninterrupted. We are always improving our Services. This means we may add or remove features, products, or functionalities; we will try to notify you beforehand, but that won’t always be possible. We reserve the right to modify, suspend, or discontinue the Services (in whole or in part) at any time, with or without notice to you. Any future release, update, or other addition to functionality of the Services will be subject to these Terms, which may be updated from time to time. You agree that we will not be liable to you or to any third party for any modification, suspension, or discontinuation of the Services or any part thereof.
 
-**4\. Your Reddit Account and Account Security**
+### 4\. Your Reddit Account and Account Security
 
 To use certain features of our Services, you may be required to create a Reddit account (an “**Account**”) and provide us with a username, password, and certain other information about yourself as set forth in the [Privacy Policy](https://www.reddit.com/policies/privacy-policy).  
   
@@ -261,7 +263,7 @@ You are solely responsible for the information associated with your Account and 
   
 You will not license, sell, or transfer your Account without our prior written approval.
 
-**5\. Your Content**
+### 5\. Your Content
 
 The Services may contain information, text, links, graphics, photos, videos, audio, streams, software, tools, or other materials (“**Content**”), including Content created with or submitted to the Services by you or through your Account (“**Your Content**”). We take no responsibility for and we do not expressly or implicitly endorse, support, or guarantee the completeness, truthfulness, accuracy, or reliability of any of Your Content.  
   
@@ -275,7 +277,7 @@ Any ideas, suggestions, and feedback about Reddit or our Services that you provi
   
 Although we reserve the right to review, screen, edit, or monitor Your Content, we do not necessarily review all of it at the time it is submitted to the Services. However, we may, in our sole discretion, delete or remove Your Content at any time and for any reason, including for violating these Terms, violating our [Content Policy](https://www.redditinc.com/policies/content-policy), or if you otherwise create or are likely to create liability for us.
 
-**6\. Third-Party Content, Advertisements, and Promotions**
+### 6\. Third-Party Content, Advertisements, and Promotions
 
 The Services may contain links to third-party websites, products, or services, which may be posted by advertisers, our affiliates, our partners, or other users (“**Third-Party Content**”). Third-Party Content is not under our control, and we are not responsible for any third party’s websites, products, or services. Your use of Third-Party Content is at your own risk, and you should make any investigation you feel necessary before proceeding with any transaction in connection with such Third-Party Content.  
   
@@ -283,7 +285,7 @@ The Services may also contain sponsored Third-Party Content or advertisements. T
   
 If you choose to use the Services to conduct a promotion, including a contest or sweepstakes (“**Promotion**”), you alone are responsible for conducting the Promotion in compliance with all applicable laws and regulations, including creating official rules, offer terms, eligibility requirements, and compliance with applicable laws, rules, and regulations which govern the Promotion (such as licenses, registrations, bonds, and regulatory approval). Your Promotion must state that the Promotion is not sponsored by, endorsed by, or associated with Reddit, and the rules for your Promotion must require each entrant or participant to release Reddit from any liability related to the Promotion. You acknowledge and agree that we will not assist you in any way with your Promotion, and you agree to conduct your Promotion at your own risk.
 
-**7\. Things You Cannot Do**
+### 7\. Things You Cannot Do
 
 When using or accessing Reddit, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the [Content Policy](https://www.redditinc.com/policies/content-policy), which is incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the [Content Policy](https://www.redditinc.com/policies/content-policy), you may not do any of the following:
 
@@ -302,7 +304,7 @@ When using or accessing Reddit, you must comply with these Terms and all applica
 
 We encourage you to [report](https://reddit.zendesk.com/hc/en-us/requests/new) content or conduct that you believe violates these Terms or our [Content Policy](https://www.redditinc.com/policies/content-policy). We also support the responsible reporting of security vulnerabilities. To report a security issue, please email [security@reddit.com](mailto:security@reddit.com).
 
-**8\. Moderators**
+### 8\. Moderators
 
 Moderating a subreddit is an unofficial, voluntary position that may be available to users of the Services. We are not responsible for actions taken by the moderators. We reserve the right to revoke or limit a user’s ability to moderate at any time and for any reason or no reason, including for a breach of these Terms.  
   
@@ -325,7 +327,7 @@ If you choose to moderate a subreddit:
 
 Reddit reserves the right, but has no obligation, to overturn any action or decision of a moderator if Reddit, in its sole discretion, believes that such action or decision is not in the interest of Reddit or the Reddit community.
 
-**9\. Copyright, Trademark, the DMCA, and Takedowns**
+### 9\. Copyright, Trademark, the DMCA, and Takedowns
 
 Reddit respects the intellectual property of others and requires that users of our Services do the same. We have a policy that includes the removal of any infringing material from the Services and for the termination, in appropriate circumstances, of users of our Services who are repeat infringers. If you believe that anything on our Services infringes a copyright or a trademark that you own or control, you may notify Reddit’s Designated Agent by filling out our our [Copyright Report Form](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=16510899084308&tf_16510589022228=contact_form_copyright_infringement_dmca) or [Trademark Report Form](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=16510899084308&tf_16510589022228=contact_form_trademark_request), or by contacting:  
   
@@ -339,27 +341,27 @@ See [17 U.S.C. § 512(c)(3)](http://www.copyright.gov/title17/92chap5.html#512) 
   
 If we remove Your Content in response to a copyright or trademark notice, we will notify you via Reddit’s private messaging system. If you believe Your Content was wrongly removed due to a mistake or misidentification in a copyright notice, you can send a counter notification via our [Copyright Counter Notice Form](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=16510899084308&tf_16510589022228=contact_form_copyright_counter_notice) or to our Copyright Agent (contact information provided above). Please see [17 U.S.C. § 512(g)(3)](http://www.copyright.gov/title17/92chap5.html#512) for the requirements of a proper counter notification.
 
-**10\. Paid Services**
+### 10\. Paid Services
 
 There are no fees for the use of many aspects of the Services. However, some services, features, and products may be available for purchase (“**Paid Services**”). In addition to these Terms the [Reddit Premium and Virtual Goods Agreement](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement) also applies to Paid Services. By purchasing or using Paid Services, you further agree to the [Premium and Virtual Goods Agreement](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement) and, if applicable, the [Previews Terms of Use](https://www.redditinc.com/policies/previews-terms).
 
-**11\. Intellectual Property**
+### 11\. Intellectual Property
 
 The Services are owned and operated by Reddit. The visual interfaces, graphics, design, compilation, information, data, computer code, products, services, trademarks, and all other elements of the Services (“**Materials**”) provided by Reddit are protected by intellectual property and other laws. All Materials included in the Services are the property of Reddit or its third-party licensors. You acknowledge and agree that you shall not acquire any ownership rights whatsoever by downloading Materials or by purchasing Paid Services. Except as expressly authorized by Reddit, and subject to Reddit’s [Brand Guidelines](https://reddit.lingoapp.com/k/Brand-foundation-oYYL4W), you may not make use of the Materials. Reddit reserves all rights to the Materials not granted expressly in these Terms.
 
-**12\. Indemnity**
+### 12\. Indemnity
 
 Except to the extent prohibited by law, you agree to defend, indemnify, and hold Reddit, its affiliates, and their respective directors, officers, employees, affiliates, agents, contractors, third-party service providers, and licensors (the “**Reddit Entities**”) harmless from and against any claim or demand made by any third party, and any related liability, damage, loss, and expense (including costs and attorneys’ fees) due to, arising out of, or in connection with: (a) your use of the Services; (b) your violation of these Terms; (c) your violation of applicable laws or regulations; or (d) Your Content. We reserve the right to control the defense of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims.
 
-**13\. Limitation of Liability**
+### 13\. Limitation of Liability
 
 By using the Services you agree that the Reddit Entities’ liability is limited to the maximum extent permissible in your country of residence. Liability will be limited to foreseeable damages arising due to a breach of material contractual obligations typical for this type of contract. Reddit isn’t liable for damages that result from a non-material breach of any other applicable duty of care. This limitation of liability will not apply to any statutory liability that cannot be limited, to liability for death or personal injury caused by our negligence or willful misconduct, or if and to exclude our responsibility for something we have specifically promised to you.
 
-**14\. Changes to these Terms**
+### 14\. Changes to these Terms
 
 We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our reasonable discretion, are material, we will notify you by sending an email to the address associated with your Account (if you have chosen to provide an email address) or by otherwise providing you with notice through our Services at least 30 days before the date they become effective. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective.
 
-**15\. Additional Terms**
+### 15\. Additional Terms
 
 Because we offer a variety of Services, you may be asked to agree to additional terms, policies, guidelines, or rules before using a specific product or service offered by Reddit (collectively, “**Additional Terms**”). All Additional Terms are incorporated by this reference into, and made a part of, these Terms, and to the extent any Additional Terms conflict with these Terms, the Additional Terms govern with respect to your use of the corresponding Services.
 
@@ -374,7 +376,7 @@ Because we offer a variety of Services, you may be asked to agree to additional 
 * If you participate in any Reddit program that is subject to Additional Terms (including our Contributor Program), you must also agree to those Additional Terms.
     
 
-**16\. Termination**
+### 16\. Termination
 
 You may terminate these Terms at any time and for any reason by deleting your Account and discontinuing use of all Services. If you stop using the Services without deactivating your Account, your Account may be deactivated due to prolonged inactivity.  
   
@@ -382,7 +384,7 @@ To the fullest extent permitted by applicable law, we may suspend or terminate y
   
 The following sections will survive any termination of these Terms or of your Account: 5 (Your Content), 7 (Things You Cannot Do), 12 (Indemnity), 13 (Limitation of Liability), 16 (Termination), and 17 (Miscellaneous).
 
-**17\. Miscellaneous**
+### 17\. Miscellaneous
 
 These Terms, together with the [Privacy Policy](https://www.reddit.com/policies/privacy-policy) and any other agreements expressly incorporated by reference into these Terms, constitute the entire agreement between you and us regarding your access to and use of the Services. Our failure to exercise or enforce any right or provision of these Terms will not operate as a waiver of such right or provision. If any part of these Terms is held to be invalid or unenforceable, the unenforceable part will be given effect to the greatest extent possible, and the remaining parts will remain in full force and effect. You may not assign or transfer any rights or obligations under these Terms without Reddit’s prior written consent. Reddit may, without restriction, assign any of our rights and obligations under these Terms, at its sole discretion, with 30 days’ prior notice. Your right to terminate these Terms at any time pursuant to Section 16 remains unaffected.
 
@@ -390,7 +392,7 @@ Headings are used in these Terms for reference only and will not be considered w
   
 These Terms are a legally-binding agreement between you and Reddit, Inc. If you have any questions about these Terms, please [contact us](https://www.reddithelp.com/hc/en-us/requests/new).
 
-**18\. Contact Details**
+### 18\. Contact Details
 
 Reddit, Inc.  
 303 2nd Street, Suite 500S  
