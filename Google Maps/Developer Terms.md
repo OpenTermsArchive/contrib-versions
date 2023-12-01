@@ -138,7 +138,17 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * City of Launceston (AU):[https://opendata.launceston.tas.gov.au/datasets/launceston::bike-lanes/about](https://opendata.launceston.tas.gov.au/datasets/launceston::bike-lanes/about)
             
-        * Data Gov Au (AU): [https://data.gov.au/data/](https://data.gov.au/data/%20target=)
+        * Data Gov Au (AU): [https://data.gov.au/data/](https://data.gov.au/data/)
+            
+        * City of Sydney: [https://data.cityofsydney.nsw.gov.au/datasets/cityofsydney::property-boundaries/about](https://data.cityofsydney.nsw.gov.au/datasets/cityofsydney::property-boundaries/about)
+            
+        * Data.gov.au: [https://data.gov.au/search?q=license+information](https://data.gov.au/search?q=license+information)
+            
+        * City of Launceston open data: [https://opendata.launceston.tas.gov.au/datasets/launceston::address/about](https://opendata.launceston.tas.gov.au/datasets/launceston::address/about)
+            
+        * City of Melbourne open data: [https://data.melbourne.vic.gov.au/explore/dataset/property-boundaries/information/?location=18,-37.81344,144.96306&basemap=mbs-7a7333#:~:text=License-,CCBY,-Modified](https://data.melbourne.vic.gov.au/explore/dataset/property-boundaries/information/?location=18,-37.81344,144.96306&basemap=mbs-7a7333#:~:text=License-,CCBY,-Modified)
+            
+        * Brisbane City Council: [https://www.data.brisbane.qld.gov.au/data/dataset/property-address-data/resource/65cb77d7-5795-48da-a37c-6aed4ee774ad](https://www.data.brisbane.qld.gov.au/data/dataset/property-address-data/resource/65cb77d7-5795-48da-a37c-6aed4ee774ad)
             
     4. **Austria**
         * BEV - BA fuer Eich und Vermessungswesen (Geocodes) © Österreichisches Adressregister, 2009. You are not permitted, at any one time, to use Austrian Postal Data to provide, display or provide access to mass downloads or bulk feeds of numerical latitude and longitude coordinates.
@@ -162,6 +172,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * BEV - Bundesamt für Eich- und Vermessungswesen [https://data.bev.gv.at/geonetwork/srv/eng/catalog.search#/home](https://data.bev.gv.at/geonetwork/srv/eng/catalog.search#/home)
             
         * Stadt Wien [https://creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de)
+            
+        * Open Data Austria [https://creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de)
             
     5. **Argentina**
         * Instituto Geográfico Nacional (AR): [https://www.ign.gob.ar/](https://www.ign.gob.ar/)
@@ -456,9 +468,12 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * OCHA (KM): [https://data.humdata.org/dataset/7f80a5d1-9f1a-462c-b298-338c7edc9224](https://data.humdata.org/dataset/7f80a5d1-9f1a-462c-b298-338c7edc9224) Licensed under CC BY-IGO
             
     11. **Czechia**
-        
-        Prague PID Agency - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
-        
+        * Prague PID Agency - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        * Czech Office for Surveying, Mapping and Cadastre - [https://www.cuzk.cz/Uvod/Produkty-a-sluzby/Otevrena-data/Otevrena-data-zakladni-informace.aspx](https://www.cuzk.cz/Uvod/Produkty-a-sluzby/Otevrena-data/Otevrena-data-zakladni-informace.aspx)
+            
+        * Data.Brno - [https://data.brno.cz/datasets/7ba88c54abfa4551bdfdb2d6759c642a\_0/explore?location=49.21662316.59403715.75&showTable=true](https://data.brno.cz/datasets/7ba88c54abfa4551bdfdb2d6759c642a_0/explore?location=49.21662316.59403715.75&showTable=true)
+            
     12. **Denmark**
         * © COWI A/S
             
@@ -492,6 +507,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Fiji Ministry of Lands & Mineral Resource (FJ): [https://www.lands.gov.fj/](https://www.lands.gov.fj/)
             
         * The Humanitarian Data Exchange (FJ): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+            
+        * Pacific Data Hub: [https://opendefinition.org/licenses/cc-by/](https://opendefinition.org/licenses/cc-by/)
             
     16. **Finland**
         * National Land Survey of Finland © NLS, 2011
@@ -838,6 +855,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Pays de la Loire: Source of the data: Air Pays de la Loire: [https://www.airpl.org/](https://www.airpl.org/)
             
+        * Open Data Portal European Metropolis Of Lille: [https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence\_Ouverte.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence_Ouverte.pdf)
+            
     18. **Gambia**
         * Gambia National Disaster Management Agency (NDMA) - [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
             
@@ -957,6 +976,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Offene Daten Köln: [https://www.offenedaten-koeln.de/dataset/adressen-kö6ln](https://www.offenedaten-koeln.de/dataset/adressen-k%C3%B66ln)
             
         * Stadt Mühlheim a der Ruhr: [https://creativecommons.org/licenses/by/3.0/de/deed.en](https://creativecommons.org/licenses/by/3.0/de/deed.en)
+            
+        * Metadaten Verbund (MetaVer): [https://metaver.de/trefferanzeige?cmd=doShowDocument&docuuid=0C6CD167-F1F3-43E7-B897-9C49D3CD6AB7#detail\_links](https://metaver.de/trefferanzeige?cmd=doShowDocument&docuuid=0C6CD167-F1F3-43E7-B897-9C49D3CD6AB7#detail_links)
+            
+        * Geoportal Stadt Freiburg im Breisgau: [https://geoportal.freiburg.de/freigis/#LayerInfoDataDownload](https://geoportal.freiburg.de/freigis/#LayerInfoDataDownload)
             
     20. **Great Britain**
         * This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
@@ -1267,6 +1290,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * The Lithuanian Spatial Information Portal - [https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)
         * National Access Point (LT): [https://maps.eismoinfo.lt/portal/apps/sites/#/npp/pages/network](https://maps.eismoinfo.lt/portal/apps/sites/#/npp/pages/network)
         * State Enterprise Centre of Registers: [https://www.geoportal.lt/geoportal/en/web/en/general-conditions-for-the-use-of-spatial-data](https://www.geoportal.lt/geoportal/en/web/en/general-conditions-for-the-use-of-spatial-data)
+        * Vilnius Open Data: [https://opendata.vilnius.lt/dataset/vilnius-addresses](https://opendata.vilnius.lt/dataset/vilnius-addresses)
+        * Lithuanian Road Administration: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
     37. **Luxembourg**
         
         © Administration du Cadastre et de la Topography (ACT)
@@ -1358,6 +1383,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Auckland Transport Open Gis Data (NZ): [https://data-atgis.opendata.arcgis.com/](https://data-atgis.opendata.arcgis.com/) Licensed by Creative Commons Attribution 4.0 International (CC By 4.0)
             
         * Auckland Transport Open GIS Data (NZ): [https://data-atgis.opendata.arcgis.com/](https://data-atgis.opendata.arcgis.com/)
+            
+        * Christ Church City Council Spatial Open Data Portal : [https://opendata-christchurchcity.hub.arcgis.com/datasets/ChristchurchCity::street-address-full-opendata/explore](https://opendata-christchurchcity.hub.arcgis.com/datasets/ChristchurchCity::street-address-full-opendata/explore)
+            
+        * Palmerston North City Open Data: [https://data-pncc.opendata.arcgis.com/datasets/PNCC::pncc-address/explore](https://data-pncc.opendata.arcgis.com/datasets/PNCC::pncc-address/explore)
             
     44. **Northern Ireland**
         * © Ordnance Survey of Northern Ireland
@@ -1686,6 +1715,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Abundance Distributions for Tree Species in UK, [https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2661](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2661), changes were made.
             
         * Edinburgh DataShare [https://datashare.ed.ac.uk/](https://datashare.ed.ac.uk/)
+            
+        * SpatialData Gov Scot [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+            
+        * Welsh Government (Wales, UK) [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
             
     63. **Ukraine**
         
