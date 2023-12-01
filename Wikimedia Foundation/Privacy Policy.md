@@ -108,6 +108,7 @@ Other languages:
 * [ગુજરાતી](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/gu "ગોપનીયતા નીતિ (3% translated)")
 * [தமிழ்](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ta "தகவல் பாதுகாப்பு கொள்கை (26% translated)")
 * [తెలుగు](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/te "గోప్యతా విధానము (30% translated)")
+* [ತುಳು](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/tcy "Policy:Privacy policy/tcy (1% translated)")
 * [മലയാളം](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ml "സ്വകാര്യതാനയം (26% translated)")
 * [සිංහල](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/si "Policy:Privacy policy/si (4% translated)")
 * [ไทย](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/th "นโยบายความเป็นส่วนตัว (78% translated)")
