@@ -210,7 +210,13 @@ This processing is necessary for the execution of Qwant’s General Terms and Co
 
 To evaluate its audience and understand the use of its services in order to improve them, Qwant also keeps other data relating to your use of the services (associated for 30 days with an anonymous identifier common to all users In addition, the Qwant provider keeps an anonymous randomly generated visitor ID for 13 months from the first visit.
 
-This processing is necessary for the purposes of Qwant’s legitimate interests in compiling statistics and measuring its audience, based on Article 6.1.f of the GDPR. This processing does not contain personal data is governed by Article 82 of the Data Protection Act on the exemption of consent in the context of a deposit of cookies for statistical purposes.
+Likewise, we occasionally run so-called “A/B” tests. These tests enable us to compare different versions of our engine or features to see which works best. The aim is to understand user preferences and improve the usability and efficiency of our search engine.
+
+In this context, we only use aggregated and anonymized data, such as the number of clicks on a feature or the time spent on a page, to evaluate the performance of the different versions tested.
+
+If you do not wish to take part in these tests, you can opt out via our [cookie manager](https://www.qwant.com/?drawer=cookies-management). For these tests, Qwant’s supplier retains a randomly generated anonymous identifier that is kept for 6 months from the first visit.
+
+This processing is necessary for the purposes of the legitimate interests pursued by Qwant to draw up statistics and measure its audience, on the basis of Article 6.1.f of the RGPD. These processing operations, which do not contain personal data, are governed by Article 82 of the French Data Protection Act (Loi Informatique et Libertés) concerning the exemption of consent in the context of the deposit of cookies for statistical purposes.
 
 What data is processed for video playback?
 ------------------------------------------
@@ -329,4 +335,4 @@ Qwant does its utmost to preserve your privacy during your searches, but you can
 
 We also advise you to use the Qwant application for your browsing or another browser that does not keep your browsing history and does not analyze it for advertising purposes.
 
-* Mise à jour : 20/09/2023
+* Mise à jour : 29/11/2023
