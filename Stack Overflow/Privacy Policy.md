@@ -37,10 +37,10 @@ We have set out below an overview of how our privacy notices work. Depending on 
 * This Privacy Notice applies where you interact with us through the Network, or use any of our products and services.
 * If you interact with us through our Collectives on Stack Overflow product, please read the [Collectives Privacy Notice](https://stackoverflow.com/legal/privacy-policy/collectives).
 * If you interact with us through your organization’s Private Network on Teams Free, Basic, Business or Enterprise, we will only process certain limited information as controller.
-* For Teams Free, Basic, Business: Please read the [Privacy Notice for Stack Overflow Teams Free, Basic and Business](https://stackoverflow.com/legal/privacy-policy/teams-free-basic-business).
-* For Teams Enterprise: Please read the [Privacy Notice for Stack Overflow Teams Enterprise](https://stackoverflow.com/legal/privacy-policy/teams-enterprise).
+* For Teams Free, Basic, Business: Please read the [Privacy Notice for Stack Overflow Teams Free, Basic and Business](https://policies.stackoverflow.co/teams/privacy-notice).
+* For Teams Enterprise: Please read the [Privacy Notice for Stack Overflow Teams Enterprise](https://policies.stackoverflow.co/teams/privacy-notice).
 * If you’re an employee, our Employee Privacy Notice will be applicable.
-* Please read the [Privacy Notice for Stack Overflow Talent and Jobs.](https://stackoverflow.com/legal/privacy-policy/talent)
+* Please read the [Privacy Notice for Stack Overflow Talent and Jobs.](https://policies.stackoverflow.co/talent/talent-privacy-notice)
 
 GENERAL PRIVACY NOTICE FOR STACK EXCHANGE, INC.
 
@@ -357,7 +357,7 @@ Your rights include:
 | Data portability | The right to receive the personal data you provided to us, in a structured, commonly used and machine-readable format and/or transmit that data to a third party—in certain situations |
 | To object | The right to object:<br><br>* at any time to your personal data being processed for direct marketing (including profiling);<br>* in certain other situations to our continued processing of your personal data, e.g., processing carried out for the purpose of our legitimate interests. |
 
-If you would like to exercise any of these rights, please [submit a data request](https://stackoverflow.com/legal/gdpr/request).
+If you would like to exercise any of these rights, please [submit a data request](https://policies.stackoverflow.co/data-request).
 
 We may need to request specific information from you to help us confirm your identity before we can deal with your request. We will respond to your request within one month. If your request is complicated, it may take us longer. We will let you know if we need longer than one month to respond.
 
