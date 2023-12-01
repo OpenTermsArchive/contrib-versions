@@ -11,7 +11,7 @@ All Applications must ensure they visually indicate that the Stack Exchange Netw
 
 ### Stack Exchange Trademark and Brand Guidelines
 
-Stack Exchange logos, branding, and other copyrighted content returned by the API may be used unmodified for the purposes of identification (ie. identifying content on Stack Overflow with the Stack Overflow logo). Other uses of Stack Exchange Inc. content are subject to the [Stack Exchange Trademark Guidelines](https://stackoverflow.com/legal/trademark-guidance).
+Stack Exchange logos, branding, and other copyrighted content returned by the API may be used unmodified for the purposes of identification (ie. identifying content on Stack Overflow with the Stack Overflow logo). Other uses of Stack Exchange Inc. content are subject to the [Stack Exchange Trademark Guidelines](https://policies.stackoverflow.co/company/trademark-guidance).
 
 ### Termination
 
