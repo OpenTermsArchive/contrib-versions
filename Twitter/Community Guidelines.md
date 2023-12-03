@@ -1,252 +1,3041 @@
-Synthetic and manipulated media policy
-======================================
+Sensitive media policy
+======================
 
-### Overview 
+### Overview
 
-### April 2023
+**  
+March 2023  
+**
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+**You may not post media that is graphic or share violent or adult nudity and sexual behavior within live video or in profile header, List banner images, or Community cover photos. Media depicting excessively gory content, sexual violence and/or assault, bestiality or necrophilia is also not permitted.**
 
-Synthetic and manipulated media policy
-======================================
+People use X to show what’s happening in the world, often sharing images and videos as part of the conversation. Sometimes, this media can depict sensitive topics, including graphic content and adult nudity and sexual behavior. We recognize that some people may not want to be exposed to sensitive content, which is why we balance allowing people to share this type of media with helping people who want to avoid it to do so. 
 
-### Overview 
+For this reason, you can’t include graphic content or adult nudity and sexual behavior within areas that are highly visible on X, including in live video, profile, header, List banner images, or Community cover photos. If you share this content on X, you need to [mark your account as sensitive](https://help.twitter.com/en/rules-and-policies/media-settings.html). Doing so places images and videos behind an interstitial (or warning message), that needs to be acknowledged before your media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. We also restrict specific sensitive media, such as adult nudity and sexual behavior, for viewers who are under 18 or viewers who do not include a birth date on their profile. Learn more about age restricted content [here](https://help.twitter.com/en/rules-and-policies/notices-on-twitter.html).
 
-### April 2023
+Under this policy, there are also some types of sensitive media content that we don’t allow at all, because they have the potential to normalize violence and cause distress to those who view them. 
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+We group sensitive media content into the following categories: 
 
-Synthetic and manipulated media policy
-======================================
+**  
+Graphic content**
 
-### Overview 
+Graphic content is any media that depicts death, violence, medical procedures, or serious physical injury in graphic detail. Some examples include, but are not limited to, depictions of:
 
-### April 2023
+* violent crimes or accidents; 
+* physical fights;
+* physical child abuse;
+* bodily fluids including blood, feces, semen etc.;
+* serious physical harm, including visible wounds; and
+* severely injured or mutilated animals.   
+     
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+**Note:** exceptions may be made for documentary or educational content.   
+  
 
-Synthetic and manipulated media policy
-======================================
+**Adult nudity and sexual behavior**
 
-### Overview 
+Adult nudity and sexual behavior is any consensually produced and distributed media that is pornographic or intended to cause sexual arousal. Some examples include, but are not limited to, depictions of:
 
-### April 2023
+* full or partial nudity, including close-ups of genitals, buttocks, or breasts (excluding content related to breastfeeding);
+* simulated sexual acts; and
+* sexual intercourse or other sexual acts – this also applies to cartoons, hentai, or anime involving humans or depictions of animals with human-like features.  
+     
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+**Note:** exceptions may be made for artistic, medical, health, or educational content.   
+  
 
-Synthetic and manipulated media policy
-======================================
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
+  
 
-### Overview 
+**Violent sexual conduct**
 
-### April 2023
+Violent sexual conduct is any media that depicts violence, whether real or simulated, in association with sexual acts. Some examples include, but are not limited to, depictions of:
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+* rape and other forms of violent sexual assault, or sexual acts that occur without the consent of participants, including a simulated lack of consent; and
+* sexualized violence – inflicting physical harm on an individual within an intimate setting, where it is not immediately obvious if those involved have consented to take part.  
+     
 
-Synthetic and manipulated media policy
-======================================
+**Bestiality and necrophilia**
 
-### Overview 
+Bestiality is any media that depicts sexual acts between a human and an animal. Necrophilia is any media that depicts sexuals acts between a living human and a human corpse.
 
-### April 2023
+**Gratuitous gore**
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+Gratuitous gore is any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or graphic content that is shared for sadistic purposes. Some examples include, but are not limited to, depictions of:
 
-Synthetic and manipulated media policy
-======================================
+* dismembered or mutilated humans;
+* charred or burned human remains;
+* exposed internal organs or bones; and
+* animal torture or killing. 
 
-### Overview 
+**Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
 
-### April 2023
+**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+### What is in violation of this policy?
 
-Synthetic and manipulated media policy
-======================================
+  
+Our aim is to limit exposure to sensitive images and videos and to prevent the sharing of potentially disturbing types of sensitive media. For this reason, we differentiate our enforcement approach depending on the type of media that has been shared and where it has been shared.   
+ 
 
-### Overview 
+**Graphic content and adult nudity and sexual behavior**  
 
-### April 2023
+* you can’t target people with unsolicited images or videos that contain graphic content, adult nudity and sexual behavior; and
+* you can’t include graphic content or adult nudity and sexual behavior within live video, profile, header, List banner images, or Community cover photos.  
+     
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+**Violent sexual conduct, bestiality, necrophilia, and gratuitous gore**
 
-Synthetic and manipulated media policy
-======================================
+We strictly prohibit violent sexual conduct, bestiality, and necrophilia to prevent the normalization of sexual assault and non-consensual violence associated with sexual acts. We prohibit gratuitous gore content because research has shown that repeated exposure to excessively graphic content online may negatively impact an individual’s wellbeing. For these reasons, you can’t share images or videos that depict violent sexual conduct or gratuitous gore on X.
 
-### Overview 
+**Note:** very limited exceptions may be made for gory media associated with newsworthy events. 
 
-### April 2023
+### What is not a violation of this policy?
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+  
+You can share graphic content and consensually produced adult nudity and sexual behavior content within your posts, provided that you mark this media as sensitive.
 
-Synthetic and manipulated media policy
-======================================
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we will do so manually if your content is reported for review.  We may also limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
 
-### Overview 
+### Who can report violations of this policy?
 
-### April 2023
+  
+Anyone can report potential violations of this policy via our dedicated reporting flows. 
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+### How can I report violations of this policy?
 
-Synthetic and manipulated media policy
-======================================
+**  
+In-app**
 
-### Overview 
+You can report this content for review in-app as follows:
 
-### April 2023
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+**Desktop**
 
-Synthetic and manipulated media policy
-======================================
+You can report this content for review via desktop as follows:
 
-### Overview 
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
 
-### April 2023
+**To report Lists:**
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+1. Navigate to the List you’d like to report.  
+    
+2. Click or tap the **More** icon.
+3. Select **Report List**.
 
-Synthetic and manipulated media policy
-======================================
+### What happens if you violate this policy?
 
-### Overview 
+  
+The enforcement action we take depends on the type of media you have shared, and where you have shared it.   
+ 
 
-### April 2023
+**Graphic content and adult nudity and sexual behavior  
+**
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+* if shared in a live video and profile images - we will require you to remove this content;
+* if you target someone with unsolicited graphic content or adult nudity and sexual behavior, we'll require you to remove it under our [abusive behavior policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html);
+* we may limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
 
-Synthetic and manipulated media policy
-======================================
+**Violent sexual conduct, bestiality, and necrophilia  
+**
 
-### Overview 
+* sharing media anywhere on X that depicts violent sexual conduct, bestiality, or necrophilia is strictly prohibited
+* for the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
 
-### April 2023
+**Gratuitous gore  
+**
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+* if shared in a post, we will require you to remove this content
+* if shared in live video and profile images – the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account will be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
 
-Synthetic and manipulated media policy
-======================================
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-### Overview 
+### Additional resources
 
-### April 2023
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+Adult content that was created or shared without the consent of those depicted is reviewed under our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
 
-Synthetic and manipulated media policy
-======================================
+Sensitive media policy
+======================
 
-### Overview 
+### Overview
 
-### April 2023
+**  
+March 2023  
+**
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+**You may not post media that is graphic or share violent or adult nudity and sexual behavior within live video or in profile header, List banner images, or Community cover photos. Media depicting excessively gory content, sexual violence and/or assault, bestiality or necrophilia is also not permitted.**
 
-Synthetic and manipulated media policy
-======================================
+People use X to show what’s happening in the world, often sharing images and videos as part of the conversation. Sometimes, this media can depict sensitive topics, including graphic content and adult nudity and sexual behavior. We recognize that some people may not want to be exposed to sensitive content, which is why we balance allowing people to share this type of media with helping people who want to avoid it to do so. 
 
-### Overview 
+For this reason, you can’t include graphic content or adult nudity and sexual behavior within areas that are highly visible on X, including in live video, profile, header, List banner images, or Community cover photos. If you share this content on X, you need to [mark your account as sensitive](https://help.twitter.com/en/rules-and-policies/media-settings.html). Doing so places images and videos behind an interstitial (or warning message), that needs to be acknowledged before your media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. We also restrict specific sensitive media, such as adult nudity and sexual behavior, for viewers who are under 18 or viewers who do not include a birth date on their profile. Learn more about age restricted content [here](https://help.twitter.com/en/rules-and-policies/notices-on-twitter.html).
 
-### April 2023
+Under this policy, there are also some types of sensitive media content that we don’t allow at all, because they have the potential to normalize violence and cause distress to those who view them. 
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+We group sensitive media content into the following categories: 
 
-### What is in violation of this policy 
+**  
+Graphic content**
 
-In order for content with **misleading media** (including images, videos, audios, gifs, and URLs hosting relevant content) to be labeled or removed under this policy, it must:
+Graphic content is any media that depicts death, violence, medical procedures, or serious physical injury in graphic detail. Some examples include, but are not limited to, depictions of:
 
-* Include media that is significantly and deceptively altered, manipulated, or fabricated, or
-* Include media that is shared in a deceptive manner or with false context, and
-* Include media likely to result in widespread confusion on public issues, impact public safety, or cause serious harm
+* violent crimes or accidents; 
+* physical fights;
+* physical child abuse;
+* bodily fluids including blood, feces, semen etc.;
+* serious physical harm, including visible wounds; and
+* severely injured or mutilated animals.   
+     
 
-We use the following criteria as we consider posts and media for labeling or removal under this policy as part of our ongoing work to enforce our rules and ensure healthy and safe conversations on X:
+**Note:** exceptions may be made for documentary or educational content.   
+  
 
-**1\. Is the content significantly and deceptively altered, manipulated, or fabricated?**
+**Adult nudity and sexual behavior**
 
-In order for content to be labeled or removed under this policy, we must have reason to believe that media are significantly and deceptively altered, manipulated, or fabricated. Synthetic and manipulated media take many different forms and people can employ a wide range of technologies to produce these media. Some of the factors we consider include:
+Adult nudity and sexual behavior is any consensually produced and distributed media that is pornographic or intended to cause sexual arousal. Some examples include, but are not limited to, depictions of:
 
-* whether media have been substantially edited or post-processed in a manner that fundamentally alters their composition, sequence, timing, or framing and distorts their meaning; 
-* whether there are any visual or auditory information (such as new video frames, overdubbed audio, or modified subtitles) that has been added, edited, or removed that fundamentally changes the understanding, meaning, or context of the media;
-* whether media have been created, edited, or post-processed with enhancements or use of filters that fundamentally changes the understanding, meaning, or context of the content; and
-* whether media depicting a real person have been fabricated or simulated, especially through use of artificial intelligence algorithms
+* full or partial nudity, including close-ups of genitals, buttocks, or breasts (excluding content related to breastfeeding);
+* simulated sexual acts; and
+* sexual intercourse or other sexual acts – this also applies to cartoons, hentai, or anime involving humans or depictions of animals with human-like features.  
+     
 
-We will not take action to label or remove media that have been edited in ways that do not fundamentally alter their meaning, such as retouched photos or color-corrected videos. 
+**Note:** exceptions may be made for artistic, medical, health, or educational content.   
+  
 
-In order to determine if media have been significantly and deceptively altered or fabricated, we may use our own technology or receive reports through partnerships with third parties. In situations where we are unable to reliably determine if media have been altered or fabricated, we may not take action to label or remove them.
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
+  
 
-**2\. Is the content shared in a deceptive manner or with false context?**
+**Violent sexual conduct**
 
-We also consider whether the context in which media are shared could result in confusion or suggests a deliberate intent to deceive people about the nature or origin of the content, for example, by falsely claiming that it depicts reality. We assess the context provided alongside media to see whether it provides true and factual information. Some of the types of context we assess in order to make this determination include:
+Violent sexual conduct is any media that depicts violence, whether real or simulated, in association with sexual acts. Some examples include, but are not limited to, depictions of:
 
-* whether inauthentic, fictional, or produced media are presented or being endorsed as fact or reality, including produced or staged works, reenactments, or exhibitions portrayed as actual events;
-* whether media are presented with false or misleading context surrounding the source, location, time, or authenticity of the media;
-* whether media are presented with false or misleading context surrounding the identity of the individuals or entities visually depicted in the media;
-* whether media are presented with misstatements or misquotations of what is being said or presented with fabricated claims of fact of what is being depicted
+* rape and other forms of violent sexual assault, or sexual acts that occur without the consent of participants, including a simulated lack of consent; and
+* sexualized violence – inflicting physical harm on an individual within an intimate setting, where it is not immediately obvious if those involved have consented to take part.  
+     
 
-We will not take action to label or remove media that have been shared with commentary or opinions that do not advance or present a misleading claim on the context of the media such as those listed above. 
+**Bestiality and necrophilia**
 
-In order to determine if media have been shared in a deceptive manner or with false context, we may use our own technology or receive reports through partnerships with third parties. In situations where we are unable to reliably determine if media have been shared with false context, we will not label or remove the content.
+Bestiality is any media that depicts sexual acts between a human and an animal. Necrophilia is any media that depicts sexuals acts between a living human and a human corpse.
 
-**3\. Is the content likely to result in widespread confusion on public issues, impact public safety, or cause serious harm?**
+**Gratuitous gore**
 
-Posts that share misleading media are subject to removal under this policy if they are likely to cause serious harm. Some specific harms we consider include:
+Gratuitous gore is any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or graphic content that is shared for sadistic purposes. Some examples include, but are not limited to, depictions of:
 
-* Threats to physical safety of a person or group
-* Incitement of abusive behavior to a person or group
-* Risk of mass violence or widespread civil unrest
-* Risk of impeding or complicating provision of public services, protection efforts, or emergency response
-* Threats to the privacy or to the ability of a person or group to freely express themselves or participate in civic events, such as:
-    * Stalking or unwanted and obsessive attention
-    * Targeted content that aims to harass, intimidate, or silence someone else's voice
-    * Voter suppression or intimidation
+* dismembered or mutilated humans;
+* charred or burned human remains;
+* exposed internal organs or bones; and
+* animal torture or killing. 
 
-We also consider the time frame within which the content may be likely to impact public safety or cause serious harm, and are more likely to remove content under this policy if immediate harm is likely to result.
+**Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
 
-Posts with misleading media that are not likely to result in immediate harm but still have a potential to impact public safety, result in harm, or cause widespread confusion towards a public issue (health, environment, safety, human rights and equality, immigration, and social and political stability) may be labeled to reduce their spread and to provide additional context. 
+**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
 
-While we have other rules also intended to address these forms of harm, including our policies on violent threats, civic integrity, and hateful conduct, we will err toward removal in borderline cases that might otherwise not violate existing rules for Posts that include misleading media.
+### What is in violation of this policy?
 
-### What is not a violation of this policy 
+  
+Our aim is to limit exposure to sensitive images and videos and to prevent the sharing of potentially disturbing types of sensitive media. For this reason, we differentiate our enforcement approach depending on the type of media that has been shared and where it has been shared.   
+ 
 
-We seek to protect public conversation surrounding various issues. Media often accompany these conversations and encourage further discourse. In the absence of other policy violations, the following are generally not in violation of this policy:
+**Graphic content and adult nudity and sexual behavior**  
 
-* **Memes or satire,** provided these do not cause significant confusion about the authenticity of the media;
-* **Animations, illustrations, and cartoons,** provided these do not cause significant confusion about the authenticity of the media.
-* **Commentary, reviews, opinions, and/or reactions.** Sharing media with edits that only add commentary, reviews, opinions, or reactions allows for further debate and discourse relating to various issues and are not in violation of this policy.
-* **Counterspeech.** We allow for direct responses to misleading information which seek to undermine its impact by correcting the record, amplifying credible information, and educating the wider community about the prevalence and dynamics of misleading information.
+* you can’t target people with unsolicited images or videos that contain graphic content, adult nudity and sexual behavior; and
+* you can’t include graphic content or adult nudity and sexual behavior within live video, profile, header, List banner images, or Community cover photos.  
+     
 
-### What happens if you violate this policy? 
+**Violent sexual conduct, bestiality, necrophilia, and gratuitous gore**
 
-The consequences for violating our synthetic and manipulated media policy depends on the severity of the violation.
+We strictly prohibit violent sexual conduct, bestiality, and necrophilia to prevent the normalization of sexual assault and non-consensual violence associated with sexual acts. We prohibit gratuitous gore content because research has shown that repeated exposure to excessively graphic content online may negatively impact an individual’s wellbeing. For these reasons, you can’t share images or videos that depict violent sexual conduct or gratuitous gore on X.
 
-**Post Deletion  
-**For high-severity violations of the policy, including misleading media that have a serious risk of harm to individuals or communities, we will require you to remove this content.
+**Note:** very limited exceptions may be made for gory media associated with newsworthy events. 
 
-**Labeling**  
-In circumstances where we do not remove content which violates this policy, we may provide additional context on posts sharing the misleading media where they appear on X. This means we may:
+### What is not a violation of this policy?
 
-* Apply a label and/or warning message to the post
-* Show a warning to people before they share or like the post;
-* Reduce the visibility of the post on the platform and/or prevent it from being recommended;
-* Turn off likes, replies, and Reposts; and/or
-* Provide a link to additional explanations or clarifications, such as relevant X policies.
+  
+You can share graphic content and consensually produced adult nudity and sexual behavior content within your posts, provided that you mark this media as sensitive.
 
-In most cases, we will take a combination of the above actions on posts we label. 
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we will do so manually if your content is reported for review.  We may also limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
 
-**Account locks**  
-If we determine that an account has advanced or continuously shares harmful misleading narratives that violate the synthetic and manipulated media policy, we may temporarily reduce the visibility of the account or lock or suspend the account. 
+### Who can report violations of this policy?
 
-If you believe that your account was locked or suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+  
+Anyone can report potential violations of this policy via our dedicated reporting flows. 
 
-### Additional resources 
+### How can I report violations of this policy?
 
-Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
+**  
+In-app**
 
-Synthetic and manipulated media policy
-======================================
+You can report this content for review in-app as follows:
 
-### Overview 
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
 
-### April 2023
+**Desktop**
 
-**You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.**
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**To report Lists:**
+
+1. Navigate to the List you’d like to report.  
+    
+2. Click or tap the **More** icon.
+3. Select **Report List**.
+
+### What happens if you violate this policy?
+
+  
+The enforcement action we take depends on the type of media you have shared, and where you have shared it.   
+ 
+
+**Graphic content and adult nudity and sexual behavior  
+**
+
+* if shared in a live video and profile images - we will require you to remove this content;
+* if you target someone with unsolicited graphic content or adult nudity and sexual behavior, we'll require you to remove it under our [abusive behavior policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html);
+* we may limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+**Violent sexual conduct, bestiality, and necrophilia  
+**
+
+* sharing media anywhere on X that depicts violent sexual conduct, bestiality, or necrophilia is strictly prohibited
+* for the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+**Gratuitous gore  
+**
+
+* if shared in a post, we will require you to remove this content
+* if shared in live video and profile images – the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account will be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Adult content that was created or shared without the consent of those depicted is reviewed under our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+
+Sensitive media policy
+======================
+
+### Overview
+
+**  
+March 2023  
+**
+
+**You may not post media that is graphic or share violent or adult nudity and sexual behavior within live video or in profile header, List banner images, or Community cover photos. Media depicting excessively gory content, sexual violence and/or assault, bestiality or necrophilia is also not permitted.**
+
+People use X to show what’s happening in the world, often sharing images and videos as part of the conversation. Sometimes, this media can depict sensitive topics, including graphic content and adult nudity and sexual behavior. We recognize that some people may not want to be exposed to sensitive content, which is why we balance allowing people to share this type of media with helping people who want to avoid it to do so. 
+
+For this reason, you can’t include graphic content or adult nudity and sexual behavior within areas that are highly visible on X, including in live video, profile, header, List banner images, or Community cover photos. If you share this content on X, you need to [mark your account as sensitive](https://help.twitter.com/en/rules-and-policies/media-settings.html). Doing so places images and videos behind an interstitial (or warning message), that needs to be acknowledged before your media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. We also restrict specific sensitive media, such as adult nudity and sexual behavior, for viewers who are under 18 or viewers who do not include a birth date on their profile. Learn more about age restricted content [here](https://help.twitter.com/en/rules-and-policies/notices-on-twitter.html).
+
+Under this policy, there are also some types of sensitive media content that we don’t allow at all, because they have the potential to normalize violence and cause distress to those who view them. 
+
+We group sensitive media content into the following categories: 
+
+**  
+Graphic content**
+
+Graphic content is any media that depicts death, violence, medical procedures, or serious physical injury in graphic detail. Some examples include, but are not limited to, depictions of:
+
+* violent crimes or accidents; 
+* physical fights;
+* physical child abuse;
+* bodily fluids including blood, feces, semen etc.;
+* serious physical harm, including visible wounds; and
+* severely injured or mutilated animals.   
+     
+
+**Note:** exceptions may be made for documentary or educational content.   
+  
+
+**Adult nudity and sexual behavior**
+
+Adult nudity and sexual behavior is any consensually produced and distributed media that is pornographic or intended to cause sexual arousal. Some examples include, but are not limited to, depictions of:
+
+* full or partial nudity, including close-ups of genitals, buttocks, or breasts (excluding content related to breastfeeding);
+* simulated sexual acts; and
+* sexual intercourse or other sexual acts – this also applies to cartoons, hentai, or anime involving humans or depictions of animals with human-like features.  
+     
+
+**Note:** exceptions may be made for artistic, medical, health, or educational content.   
+  
+
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
+  
+
+**Violent sexual conduct**
+
+Violent sexual conduct is any media that depicts violence, whether real or simulated, in association with sexual acts. Some examples include, but are not limited to, depictions of:
+
+* rape and other forms of violent sexual assault, or sexual acts that occur without the consent of participants, including a simulated lack of consent; and
+* sexualized violence – inflicting physical harm on an individual within an intimate setting, where it is not immediately obvious if those involved have consented to take part.  
+     
+
+**Bestiality and necrophilia**
+
+Bestiality is any media that depicts sexual acts between a human and an animal. Necrophilia is any media that depicts sexuals acts between a living human and a human corpse.
+
+**Gratuitous gore**
+
+Gratuitous gore is any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or graphic content that is shared for sadistic purposes. Some examples include, but are not limited to, depictions of:
+
+* dismembered or mutilated humans;
+* charred or burned human remains;
+* exposed internal organs or bones; and
+* animal torture or killing. 
+
+**Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
+
+**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
+
+### What is in violation of this policy?
+
+  
+Our aim is to limit exposure to sensitive images and videos and to prevent the sharing of potentially disturbing types of sensitive media. For this reason, we differentiate our enforcement approach depending on the type of media that has been shared and where it has been shared.   
+ 
+
+**Graphic content and adult nudity and sexual behavior**  
+
+* you can’t target people with unsolicited images or videos that contain graphic content, adult nudity and sexual behavior; and
+* you can’t include graphic content or adult nudity and sexual behavior within live video, profile, header, List banner images, or Community cover photos.  
+     
+
+**Violent sexual conduct, bestiality, necrophilia, and gratuitous gore**
+
+We strictly prohibit violent sexual conduct, bestiality, and necrophilia to prevent the normalization of sexual assault and non-consensual violence associated with sexual acts. We prohibit gratuitous gore content because research has shown that repeated exposure to excessively graphic content online may negatively impact an individual’s wellbeing. For these reasons, you can’t share images or videos that depict violent sexual conduct or gratuitous gore on X.
+
+**Note:** very limited exceptions may be made for gory media associated with newsworthy events. 
+
+### What is not a violation of this policy?
+
+  
+You can share graphic content and consensually produced adult nudity and sexual behavior content within your posts, provided that you mark this media as sensitive.
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we will do so manually if your content is reported for review.  We may also limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+### Who can report violations of this policy?
+
+  
+Anyone can report potential violations of this policy via our dedicated reporting flows. 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**To report Lists:**
+
+1. Navigate to the List you’d like to report.  
+    
+2. Click or tap the **More** icon.
+3. Select **Report List**.
+
+### What happens if you violate this policy?
+
+  
+The enforcement action we take depends on the type of media you have shared, and where you have shared it.   
+ 
+
+**Graphic content and adult nudity and sexual behavior  
+**
+
+* if shared in a live video and profile images - we will require you to remove this content;
+* if you target someone with unsolicited graphic content or adult nudity and sexual behavior, we'll require you to remove it under our [abusive behavior policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html);
+* we may limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+**Violent sexual conduct, bestiality, and necrophilia  
+**
+
+* sharing media anywhere on X that depicts violent sexual conduct, bestiality, or necrophilia is strictly prohibited
+* for the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+**Gratuitous gore  
+**
+
+* if shared in a post, we will require you to remove this content
+* if shared in live video and profile images – the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account will be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Adult content that was created or shared without the consent of those depicted is reviewed under our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+
+Sensitive media policy
+======================
+
+### Overview
+
+**  
+March 2023  
+**
+
+**You may not post media that is graphic or share violent or adult nudity and sexual behavior within live video or in profile header, List banner images, or Community cover photos. Media depicting excessively gory content, sexual violence and/or assault, bestiality or necrophilia is also not permitted.**
+
+People use X to show what’s happening in the world, often sharing images and videos as part of the conversation. Sometimes, this media can depict sensitive topics, including graphic content and adult nudity and sexual behavior. We recognize that some people may not want to be exposed to sensitive content, which is why we balance allowing people to share this type of media with helping people who want to avoid it to do so. 
+
+For this reason, you can’t include graphic content or adult nudity and sexual behavior within areas that are highly visible on X, including in live video, profile, header, List banner images, or Community cover photos. If you share this content on X, you need to [mark your account as sensitive](https://help.twitter.com/en/rules-and-policies/media-settings.html). Doing so places images and videos behind an interstitial (or warning message), that needs to be acknowledged before your media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. We also restrict specific sensitive media, such as adult nudity and sexual behavior, for viewers who are under 18 or viewers who do not include a birth date on their profile. Learn more about age restricted content [here](https://help.twitter.com/en/rules-and-policies/notices-on-twitter.html).
+
+Under this policy, there are also some types of sensitive media content that we don’t allow at all, because they have the potential to normalize violence and cause distress to those who view them. 
+
+We group sensitive media content into the following categories: 
+
+**  
+Graphic content**
+
+Graphic content is any media that depicts death, violence, medical procedures, or serious physical injury in graphic detail. Some examples include, but are not limited to, depictions of:
+
+* violent crimes or accidents; 
+* physical fights;
+* physical child abuse;
+* bodily fluids including blood, feces, semen etc.;
+* serious physical harm, including visible wounds; and
+* severely injured or mutilated animals.   
+     
+
+**Note:** exceptions may be made for documentary or educational content.   
+  
+
+**Adult nudity and sexual behavior**
+
+Adult nudity and sexual behavior is any consensually produced and distributed media that is pornographic or intended to cause sexual arousal. Some examples include, but are not limited to, depictions of:
+
+* full or partial nudity, including close-ups of genitals, buttocks, or breasts (excluding content related to breastfeeding);
+* simulated sexual acts; and
+* sexual intercourse or other sexual acts – this also applies to cartoons, hentai, or anime involving humans or depictions of animals with human-like features.  
+     
+
+**Note:** exceptions may be made for artistic, medical, health, or educational content.   
+  
+
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
+  
+
+**Violent sexual conduct**
+
+Violent sexual conduct is any media that depicts violence, whether real or simulated, in association with sexual acts. Some examples include, but are not limited to, depictions of:
+
+* rape and other forms of violent sexual assault, or sexual acts that occur without the consent of participants, including a simulated lack of consent; and
+* sexualized violence – inflicting physical harm on an individual within an intimate setting, where it is not immediately obvious if those involved have consented to take part.  
+     
+
+**Bestiality and necrophilia**
+
+Bestiality is any media that depicts sexual acts between a human and an animal. Necrophilia is any media that depicts sexuals acts between a living human and a human corpse.
+
+**Gratuitous gore**
+
+Gratuitous gore is any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or graphic content that is shared for sadistic purposes. Some examples include, but are not limited to, depictions of:
+
+* dismembered or mutilated humans;
+* charred or burned human remains;
+* exposed internal organs or bones; and
+* animal torture or killing. 
+
+**Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
+
+**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
+
+### What is in violation of this policy?
+
+  
+Our aim is to limit exposure to sensitive images and videos and to prevent the sharing of potentially disturbing types of sensitive media. For this reason, we differentiate our enforcement approach depending on the type of media that has been shared and where it has been shared.   
+ 
+
+**Graphic content and adult nudity and sexual behavior**  
+
+* you can’t target people with unsolicited images or videos that contain graphic content, adult nudity and sexual behavior; and
+* you can’t include graphic content or adult nudity and sexual behavior within live video, profile, header, List banner images, or Community cover photos.  
+     
+
+**Violent sexual conduct, bestiality, necrophilia, and gratuitous gore**
+
+We strictly prohibit violent sexual conduct, bestiality, and necrophilia to prevent the normalization of sexual assault and non-consensual violence associated with sexual acts. We prohibit gratuitous gore content because research has shown that repeated exposure to excessively graphic content online may negatively impact an individual’s wellbeing. For these reasons, you can’t share images or videos that depict violent sexual conduct or gratuitous gore on X.
+
+**Note:** very limited exceptions may be made for gory media associated with newsworthy events. 
+
+### What is not a violation of this policy?
+
+  
+You can share graphic content and consensually produced adult nudity and sexual behavior content within your posts, provided that you mark this media as sensitive.
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we will do so manually if your content is reported for review.  We may also limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+### Who can report violations of this policy?
+
+  
+Anyone can report potential violations of this policy via our dedicated reporting flows. 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**To report Lists:**
+
+1. Navigate to the List you’d like to report.  
+    
+2. Click or tap the **More** icon.
+3. Select **Report List**.
+
+### What happens if you violate this policy?
+
+  
+The enforcement action we take depends on the type of media you have shared, and where you have shared it.   
+ 
+
+**Graphic content and adult nudity and sexual behavior  
+**
+
+* if shared in a live video and profile images - we will require you to remove this content;
+* if you target someone with unsolicited graphic content or adult nudity and sexual behavior, we'll require you to remove it under our [abusive behavior policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html);
+* we may limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+**Violent sexual conduct, bestiality, and necrophilia  
+**
+
+* sharing media anywhere on X that depicts violent sexual conduct, bestiality, or necrophilia is strictly prohibited
+* for the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+**Gratuitous gore  
+**
+
+* if shared in a post, we will require you to remove this content
+* if shared in live video and profile images – the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account will be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Adult content that was created or shared without the consent of those depicted is reviewed under our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+
+Sensitive media policy
+======================
+
+### Overview
+
+**  
+March 2023  
+**
+
+**You may not post media that is graphic or share violent or adult nudity and sexual behavior within live video or in profile header, List banner images, or Community cover photos. Media depicting excessively gory content, sexual violence and/or assault, bestiality or necrophilia is also not permitted.**
+
+People use X to show what’s happening in the world, often sharing images and videos as part of the conversation. Sometimes, this media can depict sensitive topics, including graphic content and adult nudity and sexual behavior. We recognize that some people may not want to be exposed to sensitive content, which is why we balance allowing people to share this type of media with helping people who want to avoid it to do so. 
+
+For this reason, you can’t include graphic content or adult nudity and sexual behavior within areas that are highly visible on X, including in live video, profile, header, List banner images, or Community cover photos. If you share this content on X, you need to [mark your account as sensitive](https://help.twitter.com/en/rules-and-policies/media-settings.html). Doing so places images and videos behind an interstitial (or warning message), that needs to be acknowledged before your media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. We also restrict specific sensitive media, such as adult nudity and sexual behavior, for viewers who are under 18 or viewers who do not include a birth date on their profile. Learn more about age restricted content [here](https://help.twitter.com/en/rules-and-policies/notices-on-twitter.html).
+
+Under this policy, there are also some types of sensitive media content that we don’t allow at all, because they have the potential to normalize violence and cause distress to those who view them. 
+
+We group sensitive media content into the following categories: 
+
+**  
+Graphic content**
+
+Graphic content is any media that depicts death, violence, medical procedures, or serious physical injury in graphic detail. Some examples include, but are not limited to, depictions of:
+
+* violent crimes or accidents; 
+* physical fights;
+* physical child abuse;
+* bodily fluids including blood, feces, semen etc.;
+* serious physical harm, including visible wounds; and
+* severely injured or mutilated animals.   
+     
+
+**Note:** exceptions may be made for documentary or educational content.   
+  
+
+**Adult nudity and sexual behavior**
+
+Adult nudity and sexual behavior is any consensually produced and distributed media that is pornographic or intended to cause sexual arousal. Some examples include, but are not limited to, depictions of:
+
+* full or partial nudity, including close-ups of genitals, buttocks, or breasts (excluding content related to breastfeeding);
+* simulated sexual acts; and
+* sexual intercourse or other sexual acts – this also applies to cartoons, hentai, or anime involving humans or depictions of animals with human-like features.  
+     
+
+**Note:** exceptions may be made for artistic, medical, health, or educational content.   
+  
+
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
+  
+
+**Violent sexual conduct**
+
+Violent sexual conduct is any media that depicts violence, whether real or simulated, in association with sexual acts. Some examples include, but are not limited to, depictions of:
+
+* rape and other forms of violent sexual assault, or sexual acts that occur without the consent of participants, including a simulated lack of consent; and
+* sexualized violence – inflicting physical harm on an individual within an intimate setting, where it is not immediately obvious if those involved have consented to take part.  
+     
+
+**Bestiality and necrophilia**
+
+Bestiality is any media that depicts sexual acts between a human and an animal. Necrophilia is any media that depicts sexuals acts between a living human and a human corpse.
+
+**Gratuitous gore**
+
+Gratuitous gore is any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or graphic content that is shared for sadistic purposes. Some examples include, but are not limited to, depictions of:
+
+* dismembered or mutilated humans;
+* charred or burned human remains;
+* exposed internal organs or bones; and
+* animal torture or killing. 
+
+**Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
+
+**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
+
+### What is in violation of this policy?
+
+  
+Our aim is to limit exposure to sensitive images and videos and to prevent the sharing of potentially disturbing types of sensitive media. For this reason, we differentiate our enforcement approach depending on the type of media that has been shared and where it has been shared.   
+ 
+
+**Graphic content and adult nudity and sexual behavior**  
+
+* you can’t target people with unsolicited images or videos that contain graphic content, adult nudity and sexual behavior; and
+* you can’t include graphic content or adult nudity and sexual behavior within live video, profile, header, List banner images, or Community cover photos.  
+     
+
+**Violent sexual conduct, bestiality, necrophilia, and gratuitous gore**
+
+We strictly prohibit violent sexual conduct, bestiality, and necrophilia to prevent the normalization of sexual assault and non-consensual violence associated with sexual acts. We prohibit gratuitous gore content because research has shown that repeated exposure to excessively graphic content online may negatively impact an individual’s wellbeing. For these reasons, you can’t share images or videos that depict violent sexual conduct or gratuitous gore on X.
+
+**Note:** very limited exceptions may be made for gory media associated with newsworthy events. 
+
+### What is not a violation of this policy?
+
+  
+You can share graphic content and consensually produced adult nudity and sexual behavior content within your posts, provided that you mark this media as sensitive.
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we will do so manually if your content is reported for review.  We may also limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+### Who can report violations of this policy?
+
+  
+Anyone can report potential violations of this policy via our dedicated reporting flows. 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**To report Lists:**
+
+1. Navigate to the List you’d like to report.  
+    
+2. Click or tap the **More** icon.
+3. Select **Report List**.
+
+### What happens if you violate this policy?
+
+  
+The enforcement action we take depends on the type of media you have shared, and where you have shared it.   
+ 
+
+**Graphic content and adult nudity and sexual behavior  
+**
+
+* if shared in a live video and profile images - we will require you to remove this content;
+* if you target someone with unsolicited graphic content or adult nudity and sexual behavior, we'll require you to remove it under our [abusive behavior policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html);
+* we may limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+**Violent sexual conduct, bestiality, and necrophilia  
+**
+
+* sharing media anywhere on X that depicts violent sexual conduct, bestiality, or necrophilia is strictly prohibited
+* for the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+**Gratuitous gore  
+**
+
+* if shared in a post, we will require you to remove this content
+* if shared in live video and profile images – the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account will be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Adult content that was created or shared without the consent of those depicted is reviewed under our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+
+Sensitive media policy
+======================
+
+### Overview
+
+**  
+March 2023  
+**
+
+**You may not post media that is graphic or share violent or adult nudity and sexual behavior within live video or in profile header, List banner images, or Community cover photos. Media depicting excessively gory content, sexual violence and/or assault, bestiality or necrophilia is also not permitted.**
+
+People use X to show what’s happening in the world, often sharing images and videos as part of the conversation. Sometimes, this media can depict sensitive topics, including graphic content and adult nudity and sexual behavior. We recognize that some people may not want to be exposed to sensitive content, which is why we balance allowing people to share this type of media with helping people who want to avoid it to do so. 
+
+For this reason, you can’t include graphic content or adult nudity and sexual behavior within areas that are highly visible on X, including in live video, profile, header, List banner images, or Community cover photos. If you share this content on X, you need to [mark your account as sensitive](https://help.twitter.com/en/rules-and-policies/media-settings.html). Doing so places images and videos behind an interstitial (or warning message), that needs to be acknowledged before your media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. We also restrict specific sensitive media, such as adult nudity and sexual behavior, for viewers who are under 18 or viewers who do not include a birth date on their profile. Learn more about age restricted content [here](https://help.twitter.com/en/rules-and-policies/notices-on-twitter.html).
+
+Under this policy, there are also some types of sensitive media content that we don’t allow at all, because they have the potential to normalize violence and cause distress to those who view them. 
+
+We group sensitive media content into the following categories: 
+
+**  
+Graphic content**
+
+Graphic content is any media that depicts death, violence, medical procedures, or serious physical injury in graphic detail. Some examples include, but are not limited to, depictions of:
+
+* violent crimes or accidents; 
+* physical fights;
+* physical child abuse;
+* bodily fluids including blood, feces, semen etc.;
+* serious physical harm, including visible wounds; and
+* severely injured or mutilated animals.   
+     
+
+**Note:** exceptions may be made for documentary or educational content.   
+  
+
+**Adult nudity and sexual behavior**
+
+Adult nudity and sexual behavior is any consensually produced and distributed media that is pornographic or intended to cause sexual arousal. Some examples include, but are not limited to, depictions of:
+
+* full or partial nudity, including close-ups of genitals, buttocks, or breasts (excluding content related to breastfeeding);
+* simulated sexual acts; and
+* sexual intercourse or other sexual acts – this also applies to cartoons, hentai, or anime involving humans or depictions of animals with human-like features.  
+     
+
+**Note:** exceptions may be made for artistic, medical, health, or educational content.   
+  
+
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
+  
+
+**Violent sexual conduct**
+
+Violent sexual conduct is any media that depicts violence, whether real or simulated, in association with sexual acts. Some examples include, but are not limited to, depictions of:
+
+* rape and other forms of violent sexual assault, or sexual acts that occur without the consent of participants, including a simulated lack of consent; and
+* sexualized violence – inflicting physical harm on an individual within an intimate setting, where it is not immediately obvious if those involved have consented to take part.  
+     
+
+**Bestiality and necrophilia**
+
+Bestiality is any media that depicts sexual acts between a human and an animal. Necrophilia is any media that depicts sexuals acts between a living human and a human corpse.
+
+**Gratuitous gore**
+
+Gratuitous gore is any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or graphic content that is shared for sadistic purposes. Some examples include, but are not limited to, depictions of:
+
+* dismembered or mutilated humans;
+* charred or burned human remains;
+* exposed internal organs or bones; and
+* animal torture or killing. 
+
+**Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
+
+**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
+
+### What is in violation of this policy?
+
+  
+Our aim is to limit exposure to sensitive images and videos and to prevent the sharing of potentially disturbing types of sensitive media. For this reason, we differentiate our enforcement approach depending on the type of media that has been shared and where it has been shared.   
+ 
+
+**Graphic content and adult nudity and sexual behavior**  
+
+* you can’t target people with unsolicited images or videos that contain graphic content, adult nudity and sexual behavior; and
+* you can’t include graphic content or adult nudity and sexual behavior within live video, profile, header, List banner images, or Community cover photos.  
+     
+
+**Violent sexual conduct, bestiality, necrophilia, and gratuitous gore**
+
+We strictly prohibit violent sexual conduct, bestiality, and necrophilia to prevent the normalization of sexual assault and non-consensual violence associated with sexual acts. We prohibit gratuitous gore content because research has shown that repeated exposure to excessively graphic content online may negatively impact an individual’s wellbeing. For these reasons, you can’t share images or videos that depict violent sexual conduct or gratuitous gore on X.
+
+**Note:** very limited exceptions may be made for gory media associated with newsworthy events. 
+
+### What is not a violation of this policy?
+
+  
+You can share graphic content and consensually produced adult nudity and sexual behavior content within your posts, provided that you mark this media as sensitive.
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we will do so manually if your content is reported for review.  We may also limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+### Who can report violations of this policy?
+
+  
+Anyone can report potential violations of this policy via our dedicated reporting flows. 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**To report Lists:**
+
+1. Navigate to the List you’d like to report.  
+    
+2. Click or tap the **More** icon.
+3. Select **Report List**.
+
+### What happens if you violate this policy?
+
+  
+The enforcement action we take depends on the type of media you have shared, and where you have shared it.   
+ 
+
+**Graphic content and adult nudity and sexual behavior  
+**
+
+* if shared in a live video and profile images - we will require you to remove this content;
+* if you target someone with unsolicited graphic content or adult nudity and sexual behavior, we'll require you to remove it under our [abusive behavior policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html);
+* we may limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+**Violent sexual conduct, bestiality, and necrophilia  
+**
+
+* sharing media anywhere on X that depicts violent sexual conduct, bestiality, or necrophilia is strictly prohibited
+* for the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+**Gratuitous gore  
+**
+
+* if shared in a post, we will require you to remove this content
+* if shared in live video and profile images – the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account will be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Adult content that was created or shared without the consent of those depicted is reviewed under our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+
+Sensitive media policy
+======================
+
+### Overview
+
+**  
+March 2023  
+**
+
+**You may not post media that is graphic or share violent or adult nudity and sexual behavior within live video or in profile header, List banner images, or Community cover photos. Media depicting excessively gory content, sexual violence and/or assault, bestiality or necrophilia is also not permitted.**
+
+People use X to show what’s happening in the world, often sharing images and videos as part of the conversation. Sometimes, this media can depict sensitive topics, including graphic content and adult nudity and sexual behavior. We recognize that some people may not want to be exposed to sensitive content, which is why we balance allowing people to share this type of media with helping people who want to avoid it to do so. 
+
+For this reason, you can’t include graphic content or adult nudity and sexual behavior within areas that are highly visible on X, including in live video, profile, header, List banner images, or Community cover photos. If you share this content on X, you need to [mark your account as sensitive](https://help.twitter.com/en/rules-and-policies/media-settings.html). Doing so places images and videos behind an interstitial (or warning message), that needs to be acknowledged before your media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. We also restrict specific sensitive media, such as adult nudity and sexual behavior, for viewers who are under 18 or viewers who do not include a birth date on their profile. Learn more about age restricted content [here](https://help.twitter.com/en/rules-and-policies/notices-on-twitter.html).
+
+Under this policy, there are also some types of sensitive media content that we don’t allow at all, because they have the potential to normalize violence and cause distress to those who view them. 
+
+We group sensitive media content into the following categories: 
+
+**  
+Graphic content**
+
+Graphic content is any media that depicts death, violence, medical procedures, or serious physical injury in graphic detail. Some examples include, but are not limited to, depictions of:
+
+* violent crimes or accidents; 
+* physical fights;
+* physical child abuse;
+* bodily fluids including blood, feces, semen etc.;
+* serious physical harm, including visible wounds; and
+* severely injured or mutilated animals.   
+     
+
+**Note:** exceptions may be made for documentary or educational content.   
+  
+
+**Adult nudity and sexual behavior**
+
+Adult nudity and sexual behavior is any consensually produced and distributed media that is pornographic or intended to cause sexual arousal. Some examples include, but are not limited to, depictions of:
+
+* full or partial nudity, including close-ups of genitals, buttocks, or breasts (excluding content related to breastfeeding);
+* simulated sexual acts; and
+* sexual intercourse or other sexual acts – this also applies to cartoons, hentai, or anime involving humans or depictions of animals with human-like features.  
+     
+
+**Note:** exceptions may be made for artistic, medical, health, or educational content.   
+  
+
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
+  
+
+**Violent sexual conduct**
+
+Violent sexual conduct is any media that depicts violence, whether real or simulated, in association with sexual acts. Some examples include, but are not limited to, depictions of:
+
+* rape and other forms of violent sexual assault, or sexual acts that occur without the consent of participants, including a simulated lack of consent; and
+* sexualized violence – inflicting physical harm on an individual within an intimate setting, where it is not immediately obvious if those involved have consented to take part.  
+     
+
+**Bestiality and necrophilia**
+
+Bestiality is any media that depicts sexual acts between a human and an animal. Necrophilia is any media that depicts sexuals acts between a living human and a human corpse.
+
+**Gratuitous gore**
+
+Gratuitous gore is any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or graphic content that is shared for sadistic purposes. Some examples include, but are not limited to, depictions of:
+
+* dismembered or mutilated humans;
+* charred or burned human remains;
+* exposed internal organs or bones; and
+* animal torture or killing. 
+
+**Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
+
+**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
+
+### What is in violation of this policy?
+
+  
+Our aim is to limit exposure to sensitive images and videos and to prevent the sharing of potentially disturbing types of sensitive media. For this reason, we differentiate our enforcement approach depending on the type of media that has been shared and where it has been shared.   
+ 
+
+**Graphic content and adult nudity and sexual behavior**  
+
+* you can’t target people with unsolicited images or videos that contain graphic content, adult nudity and sexual behavior; and
+* you can’t include graphic content or adult nudity and sexual behavior within live video, profile, header, List banner images, or Community cover photos.  
+     
+
+**Violent sexual conduct, bestiality, necrophilia, and gratuitous gore**
+
+We strictly prohibit violent sexual conduct, bestiality, and necrophilia to prevent the normalization of sexual assault and non-consensual violence associated with sexual acts. We prohibit gratuitous gore content because research has shown that repeated exposure to excessively graphic content online may negatively impact an individual’s wellbeing. For these reasons, you can’t share images or videos that depict violent sexual conduct or gratuitous gore on X.
+
+**Note:** very limited exceptions may be made for gory media associated with newsworthy events. 
+
+### What is not a violation of this policy?
+
+  
+You can share graphic content and consensually produced adult nudity and sexual behavior content within your posts, provided that you mark this media as sensitive.
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we will do so manually if your content is reported for review.  We may also limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+### Who can report violations of this policy?
+
+  
+Anyone can report potential violations of this policy via our dedicated reporting flows. 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**To report Lists:**
+
+1. Navigate to the List you’d like to report.  
+    
+2. Click or tap the **More** icon.
+3. Select **Report List**.
+
+### What happens if you violate this policy?
+
+  
+The enforcement action we take depends on the type of media you have shared, and where you have shared it.   
+ 
+
+**Graphic content and adult nudity and sexual behavior  
+**
+
+* if shared in a live video and profile images - we will require you to remove this content;
+* if you target someone with unsolicited graphic content or adult nudity and sexual behavior, we'll require you to remove it under our [abusive behavior policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html);
+* we may limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+**Violent sexual conduct, bestiality, and necrophilia  
+**
+
+* sharing media anywhere on X that depicts violent sexual conduct, bestiality, or necrophilia is strictly prohibited
+* for the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+**Gratuitous gore  
+**
+
+* if shared in a post, we will require you to remove this content
+* if shared in live video and profile images – the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account will be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Adult content that was created or shared without the consent of those depicted is reviewed under our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+
+Sensitive media policy
+======================
+
+### Overview
+
+**  
+March 2023  
+**
+
+**You may not post media that is graphic or share violent or adult nudity and sexual behavior within live video or in profile header, List banner images, or Community cover photos. Media depicting excessively gory content, sexual violence and/or assault, bestiality or necrophilia is also not permitted.**
+
+People use X to show what’s happening in the world, often sharing images and videos as part of the conversation. Sometimes, this media can depict sensitive topics, including graphic content and adult nudity and sexual behavior. We recognize that some people may not want to be exposed to sensitive content, which is why we balance allowing people to share this type of media with helping people who want to avoid it to do so. 
+
+For this reason, you can’t include graphic content or adult nudity and sexual behavior within areas that are highly visible on X, including in live video, profile, header, List banner images, or Community cover photos. If you share this content on X, you need to [mark your account as sensitive](https://help.twitter.com/en/rules-and-policies/media-settings.html). Doing so places images and videos behind an interstitial (or warning message), that needs to be acknowledged before your media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. We also restrict specific sensitive media, such as adult nudity and sexual behavior, for viewers who are under 18 or viewers who do not include a birth date on their profile. Learn more about age restricted content [here](https://help.twitter.com/en/rules-and-policies/notices-on-twitter.html).
+
+Under this policy, there are also some types of sensitive media content that we don’t allow at all, because they have the potential to normalize violence and cause distress to those who view them. 
+
+We group sensitive media content into the following categories: 
+
+**  
+Graphic content**
+
+Graphic content is any media that depicts death, violence, medical procedures, or serious physical injury in graphic detail. Some examples include, but are not limited to, depictions of:
+
+* violent crimes or accidents; 
+* physical fights;
+* physical child abuse;
+* bodily fluids including blood, feces, semen etc.;
+* serious physical harm, including visible wounds; and
+* severely injured or mutilated animals.   
+     
+
+**Note:** exceptions may be made for documentary or educational content.   
+  
+
+**Adult nudity and sexual behavior**
+
+Adult nudity and sexual behavior is any consensually produced and distributed media that is pornographic or intended to cause sexual arousal. Some examples include, but are not limited to, depictions of:
+
+* full or partial nudity, including close-ups of genitals, buttocks, or breasts (excluding content related to breastfeeding);
+* simulated sexual acts; and
+* sexual intercourse or other sexual acts – this also applies to cartoons, hentai, or anime involving humans or depictions of animals with human-like features.  
+     
+
+**Note:** exceptions may be made for artistic, medical, health, or educational content.   
+  
+
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
+  
+
+**Violent sexual conduct**
+
+Violent sexual conduct is any media that depicts violence, whether real or simulated, in association with sexual acts. Some examples include, but are not limited to, depictions of:
+
+* rape and other forms of violent sexual assault, or sexual acts that occur without the consent of participants, including a simulated lack of consent; and
+* sexualized violence – inflicting physical harm on an individual within an intimate setting, where it is not immediately obvious if those involved have consented to take part.  
+     
+
+**Bestiality and necrophilia**
+
+Bestiality is any media that depicts sexual acts between a human and an animal. Necrophilia is any media that depicts sexuals acts between a living human and a human corpse.
+
+**Gratuitous gore**
+
+Gratuitous gore is any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or graphic content that is shared for sadistic purposes. Some examples include, but are not limited to, depictions of:
+
+* dismembered or mutilated humans;
+* charred or burned human remains;
+* exposed internal organs or bones; and
+* animal torture or killing. 
+
+**Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
+
+**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
+
+### What is in violation of this policy?
+
+  
+Our aim is to limit exposure to sensitive images and videos and to prevent the sharing of potentially disturbing types of sensitive media. For this reason, we differentiate our enforcement approach depending on the type of media that has been shared and where it has been shared.   
+ 
+
+**Graphic content and adult nudity and sexual behavior**  
+
+* you can’t target people with unsolicited images or videos that contain graphic content, adult nudity and sexual behavior; and
+* you can’t include graphic content or adult nudity and sexual behavior within live video, profile, header, List banner images, or Community cover photos.  
+     
+
+**Violent sexual conduct, bestiality, necrophilia, and gratuitous gore**
+
+We strictly prohibit violent sexual conduct, bestiality, and necrophilia to prevent the normalization of sexual assault and non-consensual violence associated with sexual acts. We prohibit gratuitous gore content because research has shown that repeated exposure to excessively graphic content online may negatively impact an individual’s wellbeing. For these reasons, you can’t share images or videos that depict violent sexual conduct or gratuitous gore on X.
+
+**Note:** very limited exceptions may be made for gory media associated with newsworthy events. 
+
+### What is not a violation of this policy?
+
+  
+You can share graphic content and consensually produced adult nudity and sexual behavior content within your posts, provided that you mark this media as sensitive.
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we will do so manually if your content is reported for review.  We may also limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+### Who can report violations of this policy?
+
+  
+Anyone can report potential violations of this policy via our dedicated reporting flows. 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**To report Lists:**
+
+1. Navigate to the List you’d like to report.  
+    
+2. Click or tap the **More** icon.
+3. Select **Report List**.
+
+### What happens if you violate this policy?
+
+  
+The enforcement action we take depends on the type of media you have shared, and where you have shared it.   
+ 
+
+**Graphic content and adult nudity and sexual behavior  
+**
+
+* if shared in a live video and profile images - we will require you to remove this content;
+* if you target someone with unsolicited graphic content or adult nudity and sexual behavior, we'll require you to remove it under our [abusive behavior policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html);
+* we may limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+**Violent sexual conduct, bestiality, and necrophilia  
+**
+
+* sharing media anywhere on X that depicts violent sexual conduct, bestiality, or necrophilia is strictly prohibited
+* for the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+**Gratuitous gore  
+**
+
+* if shared in a post, we will require you to remove this content
+* if shared in live video and profile images – the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account will be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Adult content that was created or shared without the consent of those depicted is reviewed under our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+
+Sensitive media policy
+======================
+
+### Overview
+
+**  
+March 2023  
+**
+
+**You may not post media that is graphic or share violent or adult nudity and sexual behavior within live video or in profile header, List banner images, or Community cover photos. Media depicting excessively gory content, sexual violence and/or assault, bestiality or necrophilia is also not permitted.**
+
+People use X to show what’s happening in the world, often sharing images and videos as part of the conversation. Sometimes, this media can depict sensitive topics, including graphic content and adult nudity and sexual behavior. We recognize that some people may not want to be exposed to sensitive content, which is why we balance allowing people to share this type of media with helping people who want to avoid it to do so. 
+
+For this reason, you can’t include graphic content or adult nudity and sexual behavior within areas that are highly visible on X, including in live video, profile, header, List banner images, or Community cover photos. If you share this content on X, you need to [mark your account as sensitive](https://help.twitter.com/en/rules-and-policies/media-settings.html). Doing so places images and videos behind an interstitial (or warning message), that needs to be acknowledged before your media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. We also restrict specific sensitive media, such as adult nudity and sexual behavior, for viewers who are under 18 or viewers who do not include a birth date on their profile. Learn more about age restricted content [here](https://help.twitter.com/en/rules-and-policies/notices-on-twitter.html).
+
+Under this policy, there are also some types of sensitive media content that we don’t allow at all, because they have the potential to normalize violence and cause distress to those who view them. 
+
+We group sensitive media content into the following categories: 
+
+**  
+Graphic content**
+
+Graphic content is any media that depicts death, violence, medical procedures, or serious physical injury in graphic detail. Some examples include, but are not limited to, depictions of:
+
+* violent crimes or accidents; 
+* physical fights;
+* physical child abuse;
+* bodily fluids including blood, feces, semen etc.;
+* serious physical harm, including visible wounds; and
+* severely injured or mutilated animals.   
+     
+
+**Note:** exceptions may be made for documentary or educational content.   
+  
+
+**Adult nudity and sexual behavior**
+
+Adult nudity and sexual behavior is any consensually produced and distributed media that is pornographic or intended to cause sexual arousal. Some examples include, but are not limited to, depictions of:
+
+* full or partial nudity, including close-ups of genitals, buttocks, or breasts (excluding content related to breastfeeding);
+* simulated sexual acts; and
+* sexual intercourse or other sexual acts – this also applies to cartoons, hentai, or anime involving humans or depictions of animals with human-like features.  
+     
+
+**Note:** exceptions may be made for artistic, medical, health, or educational content.   
+  
+
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
+  
+
+**Violent sexual conduct**
+
+Violent sexual conduct is any media that depicts violence, whether real or simulated, in association with sexual acts. Some examples include, but are not limited to, depictions of:
+
+* rape and other forms of violent sexual assault, or sexual acts that occur without the consent of participants, including a simulated lack of consent; and
+* sexualized violence – inflicting physical harm on an individual within an intimate setting, where it is not immediately obvious if those involved have consented to take part.  
+     
+
+**Bestiality and necrophilia**
+
+Bestiality is any media that depicts sexual acts between a human and an animal. Necrophilia is any media that depicts sexuals acts between a living human and a human corpse.
+
+**Gratuitous gore**
+
+Gratuitous gore is any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or graphic content that is shared for sadistic purposes. Some examples include, but are not limited to, depictions of:
+
+* dismembered or mutilated humans;
+* charred or burned human remains;
+* exposed internal organs or bones; and
+* animal torture or killing. 
+
+**Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
+
+**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
+
+### What is in violation of this policy?
+
+  
+Our aim is to limit exposure to sensitive images and videos and to prevent the sharing of potentially disturbing types of sensitive media. For this reason, we differentiate our enforcement approach depending on the type of media that has been shared and where it has been shared.   
+ 
+
+**Graphic content and adult nudity and sexual behavior**  
+
+* you can’t target people with unsolicited images or videos that contain graphic content, adult nudity and sexual behavior; and
+* you can’t include graphic content or adult nudity and sexual behavior within live video, profile, header, List banner images, or Community cover photos.  
+     
+
+**Violent sexual conduct, bestiality, necrophilia, and gratuitous gore**
+
+We strictly prohibit violent sexual conduct, bestiality, and necrophilia to prevent the normalization of sexual assault and non-consensual violence associated with sexual acts. We prohibit gratuitous gore content because research has shown that repeated exposure to excessively graphic content online may negatively impact an individual’s wellbeing. For these reasons, you can’t share images or videos that depict violent sexual conduct or gratuitous gore on X.
+
+**Note:** very limited exceptions may be made for gory media associated with newsworthy events. 
+
+### What is not a violation of this policy?
+
+  
+You can share graphic content and consensually produced adult nudity and sexual behavior content within your posts, provided that you mark this media as sensitive.
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we will do so manually if your content is reported for review.  We may also limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+### Who can report violations of this policy?
+
+  
+Anyone can report potential violations of this policy via our dedicated reporting flows. 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**To report Lists:**
+
+1. Navigate to the List you’d like to report.  
+    
+2. Click or tap the **More** icon.
+3. Select **Report List**.
+
+### What happens if you violate this policy?
+
+  
+The enforcement action we take depends on the type of media you have shared, and where you have shared it.   
+ 
+
+**Graphic content and adult nudity and sexual behavior  
+**
+
+* if shared in a live video and profile images - we will require you to remove this content;
+* if you target someone with unsolicited graphic content or adult nudity and sexual behavior, we'll require you to remove it under our [abusive behavior policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html);
+* we may limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+**Violent sexual conduct, bestiality, and necrophilia  
+**
+
+* sharing media anywhere on X that depicts violent sexual conduct, bestiality, or necrophilia is strictly prohibited
+* for the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+**Gratuitous gore  
+**
+
+* if shared in a post, we will require you to remove this content
+* if shared in live video and profile images – the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account will be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Adult content that was created or shared without the consent of those depicted is reviewed under our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+
+Sensitive media policy
+======================
+
+### Overview
+
+**  
+March 2023  
+**
+
+**You may not post media that is graphic or share violent or adult nudity and sexual behavior within live video or in profile header, List banner images, or Community cover photos. Media depicting excessively gory content, sexual violence and/or assault, bestiality or necrophilia is also not permitted.**
+
+People use X to show what’s happening in the world, often sharing images and videos as part of the conversation. Sometimes, this media can depict sensitive topics, including graphic content and adult nudity and sexual behavior. We recognize that some people may not want to be exposed to sensitive content, which is why we balance allowing people to share this type of media with helping people who want to avoid it to do so. 
+
+For this reason, you can’t include graphic content or adult nudity and sexual behavior within areas that are highly visible on X, including in live video, profile, header, List banner images, or Community cover photos. If you share this content on X, you need to [mark your account as sensitive](https://help.twitter.com/en/rules-and-policies/media-settings.html). Doing so places images and videos behind an interstitial (or warning message), that needs to be acknowledged before your media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. We also restrict specific sensitive media, such as adult nudity and sexual behavior, for viewers who are under 18 or viewers who do not include a birth date on their profile. Learn more about age restricted content [here](https://help.twitter.com/en/rules-and-policies/notices-on-twitter.html).
+
+Under this policy, there are also some types of sensitive media content that we don’t allow at all, because they have the potential to normalize violence and cause distress to those who view them. 
+
+We group sensitive media content into the following categories: 
+
+**  
+Graphic content**
+
+Graphic content is any media that depicts death, violence, medical procedures, or serious physical injury in graphic detail. Some examples include, but are not limited to, depictions of:
+
+* violent crimes or accidents; 
+* physical fights;
+* physical child abuse;
+* bodily fluids including blood, feces, semen etc.;
+* serious physical harm, including visible wounds; and
+* severely injured or mutilated animals.   
+     
+
+**Note:** exceptions may be made for documentary or educational content.   
+  
+
+**Adult nudity and sexual behavior**
+
+Adult nudity and sexual behavior is any consensually produced and distributed media that is pornographic or intended to cause sexual arousal. Some examples include, but are not limited to, depictions of:
+
+* full or partial nudity, including close-ups of genitals, buttocks, or breasts (excluding content related to breastfeeding);
+* simulated sexual acts; and
+* sexual intercourse or other sexual acts – this also applies to cartoons, hentai, or anime involving humans or depictions of animals with human-like features.  
+     
+
+**Note:** exceptions may be made for artistic, medical, health, or educational content.   
+  
+
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
+  
+
+**Violent sexual conduct**
+
+Violent sexual conduct is any media that depicts violence, whether real or simulated, in association with sexual acts. Some examples include, but are not limited to, depictions of:
+
+* rape and other forms of violent sexual assault, or sexual acts that occur without the consent of participants, including a simulated lack of consent; and
+* sexualized violence – inflicting physical harm on an individual within an intimate setting, where it is not immediately obvious if those involved have consented to take part.  
+     
+
+**Bestiality and necrophilia**
+
+Bestiality is any media that depicts sexual acts between a human and an animal. Necrophilia is any media that depicts sexuals acts between a living human and a human corpse.
+
+**Gratuitous gore**
+
+Gratuitous gore is any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or graphic content that is shared for sadistic purposes. Some examples include, but are not limited to, depictions of:
+
+* dismembered or mutilated humans;
+* charred or burned human remains;
+* exposed internal organs or bones; and
+* animal torture or killing. 
+
+**Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
+
+**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
+
+### What is in violation of this policy?
+
+  
+Our aim is to limit exposure to sensitive images and videos and to prevent the sharing of potentially disturbing types of sensitive media. For this reason, we differentiate our enforcement approach depending on the type of media that has been shared and where it has been shared.   
+ 
+
+**Graphic content and adult nudity and sexual behavior**  
+
+* you can’t target people with unsolicited images or videos that contain graphic content, adult nudity and sexual behavior; and
+* you can’t include graphic content or adult nudity and sexual behavior within live video, profile, header, List banner images, or Community cover photos.  
+     
+
+**Violent sexual conduct, bestiality, necrophilia, and gratuitous gore**
+
+We strictly prohibit violent sexual conduct, bestiality, and necrophilia to prevent the normalization of sexual assault and non-consensual violence associated with sexual acts. We prohibit gratuitous gore content because research has shown that repeated exposure to excessively graphic content online may negatively impact an individual’s wellbeing. For these reasons, you can’t share images or videos that depict violent sexual conduct or gratuitous gore on X.
+
+**Note:** very limited exceptions may be made for gory media associated with newsworthy events. 
+
+### What is not a violation of this policy?
+
+  
+You can share graphic content and consensually produced adult nudity and sexual behavior content within your posts, provided that you mark this media as sensitive.
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we will do so manually if your content is reported for review.  We may also limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+### Who can report violations of this policy?
+
+  
+Anyone can report potential violations of this policy via our dedicated reporting flows. 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**To report Lists:**
+
+1. Navigate to the List you’d like to report.  
+    
+2. Click or tap the **More** icon.
+3. Select **Report List**.
+
+### What happens if you violate this policy?
+
+  
+The enforcement action we take depends on the type of media you have shared, and where you have shared it.   
+ 
+
+**Graphic content and adult nudity and sexual behavior  
+**
+
+* if shared in a live video and profile images - we will require you to remove this content;
+* if you target someone with unsolicited graphic content or adult nudity and sexual behavior, we'll require you to remove it under our [abusive behavior policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html);
+* we may limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+**Violent sexual conduct, bestiality, and necrophilia  
+**
+
+* sharing media anywhere on X that depicts violent sexual conduct, bestiality, or necrophilia is strictly prohibited
+* for the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+**Gratuitous gore  
+**
+
+* if shared in a post, we will require you to remove this content
+* if shared in live video and profile images – the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account will be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Adult content that was created or shared without the consent of those depicted is reviewed under our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+
+Sensitive media policy
+======================
+
+### Overview
+
+**  
+March 2023  
+**
+
+**You may not post media that is graphic or share violent or adult nudity and sexual behavior within live video or in profile header, List banner images, or Community cover photos. Media depicting excessively gory content, sexual violence and/or assault, bestiality or necrophilia is also not permitted.**
+
+People use X to show what’s happening in the world, often sharing images and videos as part of the conversation. Sometimes, this media can depict sensitive topics, including graphic content and adult nudity and sexual behavior. We recognize that some people may not want to be exposed to sensitive content, which is why we balance allowing people to share this type of media with helping people who want to avoid it to do so. 
+
+For this reason, you can’t include graphic content or adult nudity and sexual behavior within areas that are highly visible on X, including in live video, profile, header, List banner images, or Community cover photos. If you share this content on X, you need to [mark your account as sensitive](https://help.twitter.com/en/rules-and-policies/media-settings.html). Doing so places images and videos behind an interstitial (or warning message), that needs to be acknowledged before your media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. We also restrict specific sensitive media, such as adult nudity and sexual behavior, for viewers who are under 18 or viewers who do not include a birth date on their profile. Learn more about age restricted content [here](https://help.twitter.com/en/rules-and-policies/notices-on-twitter.html).
+
+Under this policy, there are also some types of sensitive media content that we don’t allow at all, because they have the potential to normalize violence and cause distress to those who view them. 
+
+We group sensitive media content into the following categories: 
+
+**  
+Graphic content**
+
+Graphic content is any media that depicts death, violence, medical procedures, or serious physical injury in graphic detail. Some examples include, but are not limited to, depictions of:
+
+* violent crimes or accidents; 
+* physical fights;
+* physical child abuse;
+* bodily fluids including blood, feces, semen etc.;
+* serious physical harm, including visible wounds; and
+* severely injured or mutilated animals.   
+     
+
+**Note:** exceptions may be made for documentary or educational content.   
+  
+
+**Adult nudity and sexual behavior**
+
+Adult nudity and sexual behavior is any consensually produced and distributed media that is pornographic or intended to cause sexual arousal. Some examples include, but are not limited to, depictions of:
+
+* full or partial nudity, including close-ups of genitals, buttocks, or breasts (excluding content related to breastfeeding);
+* simulated sexual acts; and
+* sexual intercourse or other sexual acts – this also applies to cartoons, hentai, or anime involving humans or depictions of animals with human-like features.  
+     
+
+**Note:** exceptions may be made for artistic, medical, health, or educational content.   
+  
+
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
+  
+
+**Violent sexual conduct**
+
+Violent sexual conduct is any media that depicts violence, whether real or simulated, in association with sexual acts. Some examples include, but are not limited to, depictions of:
+
+* rape and other forms of violent sexual assault, or sexual acts that occur without the consent of participants, including a simulated lack of consent; and
+* sexualized violence – inflicting physical harm on an individual within an intimate setting, where it is not immediately obvious if those involved have consented to take part.  
+     
+
+**Bestiality and necrophilia**
+
+Bestiality is any media that depicts sexual acts between a human and an animal. Necrophilia is any media that depicts sexuals acts between a living human and a human corpse.
+
+**Gratuitous gore**
+
+Gratuitous gore is any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or graphic content that is shared for sadistic purposes. Some examples include, but are not limited to, depictions of:
+
+* dismembered or mutilated humans;
+* charred or burned human remains;
+* exposed internal organs or bones; and
+* animal torture or killing. 
+
+**Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
+
+**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
+
+### What is in violation of this policy?
+
+  
+Our aim is to limit exposure to sensitive images and videos and to prevent the sharing of potentially disturbing types of sensitive media. For this reason, we differentiate our enforcement approach depending on the type of media that has been shared and where it has been shared.   
+ 
+
+**Graphic content and adult nudity and sexual behavior**  
+
+* you can’t target people with unsolicited images or videos that contain graphic content, adult nudity and sexual behavior; and
+* you can’t include graphic content or adult nudity and sexual behavior within live video, profile, header, List banner images, or Community cover photos.  
+     
+
+**Violent sexual conduct, bestiality, necrophilia, and gratuitous gore**
+
+We strictly prohibit violent sexual conduct, bestiality, and necrophilia to prevent the normalization of sexual assault and non-consensual violence associated with sexual acts. We prohibit gratuitous gore content because research has shown that repeated exposure to excessively graphic content online may negatively impact an individual’s wellbeing. For these reasons, you can’t share images or videos that depict violent sexual conduct or gratuitous gore on X.
+
+**Note:** very limited exceptions may be made for gory media associated with newsworthy events. 
+
+### What is not a violation of this policy?
+
+  
+You can share graphic content and consensually produced adult nudity and sexual behavior content within your posts, provided that you mark this media as sensitive.
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we will do so manually if your content is reported for review.  We may also limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+### Who can report violations of this policy?
+
+  
+Anyone can report potential violations of this policy via our dedicated reporting flows. 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**To report Lists:**
+
+1. Navigate to the List you’d like to report.  
+    
+2. Click or tap the **More** icon.
+3. Select **Report List**.
+
+### What happens if you violate this policy?
+
+  
+The enforcement action we take depends on the type of media you have shared, and where you have shared it.   
+ 
+
+**Graphic content and adult nudity and sexual behavior  
+**
+
+* if shared in a live video and profile images - we will require you to remove this content;
+* if you target someone with unsolicited graphic content or adult nudity and sexual behavior, we'll require you to remove it under our [abusive behavior policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html);
+* we may limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+**Violent sexual conduct, bestiality, and necrophilia  
+**
+
+* sharing media anywhere on X that depicts violent sexual conduct, bestiality, or necrophilia is strictly prohibited
+* for the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+**Gratuitous gore  
+**
+
+* if shared in a post, we will require you to remove this content
+* if shared in live video and profile images – the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account will be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Adult content that was created or shared without the consent of those depicted is reviewed under our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+
+Sensitive media policy
+======================
+
+### Overview
+
+**  
+March 2023  
+**
+
+**You may not post media that is graphic or share violent or adult nudity and sexual behavior within live video or in profile header, List banner images, or Community cover photos. Media depicting excessively gory content, sexual violence and/or assault, bestiality or necrophilia is also not permitted.**
+
+People use X to show what’s happening in the world, often sharing images and videos as part of the conversation. Sometimes, this media can depict sensitive topics, including graphic content and adult nudity and sexual behavior. We recognize that some people may not want to be exposed to sensitive content, which is why we balance allowing people to share this type of media with helping people who want to avoid it to do so. 
+
+For this reason, you can’t include graphic content or adult nudity and sexual behavior within areas that are highly visible on X, including in live video, profile, header, List banner images, or Community cover photos. If you share this content on X, you need to [mark your account as sensitive](https://help.twitter.com/en/rules-and-policies/media-settings.html). Doing so places images and videos behind an interstitial (or warning message), that needs to be acknowledged before your media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. We also restrict specific sensitive media, such as adult nudity and sexual behavior, for viewers who are under 18 or viewers who do not include a birth date on their profile. Learn more about age restricted content [here](https://help.twitter.com/en/rules-and-policies/notices-on-twitter.html).
+
+Under this policy, there are also some types of sensitive media content that we don’t allow at all, because they have the potential to normalize violence and cause distress to those who view them. 
+
+We group sensitive media content into the following categories: 
+
+**  
+Graphic content**
+
+Graphic content is any media that depicts death, violence, medical procedures, or serious physical injury in graphic detail. Some examples include, but are not limited to, depictions of:
+
+* violent crimes or accidents; 
+* physical fights;
+* physical child abuse;
+* bodily fluids including blood, feces, semen etc.;
+* serious physical harm, including visible wounds; and
+* severely injured or mutilated animals.   
+     
+
+**Note:** exceptions may be made for documentary or educational content.   
+  
+
+**Adult nudity and sexual behavior**
+
+Adult nudity and sexual behavior is any consensually produced and distributed media that is pornographic or intended to cause sexual arousal. Some examples include, but are not limited to, depictions of:
+
+* full or partial nudity, including close-ups of genitals, buttocks, or breasts (excluding content related to breastfeeding);
+* simulated sexual acts; and
+* sexual intercourse or other sexual acts – this also applies to cartoons, hentai, or anime involving humans or depictions of animals with human-like features.  
+     
+
+**Note:** exceptions may be made for artistic, medical, health, or educational content.   
+  
+
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
+  
+
+**Violent sexual conduct**
+
+Violent sexual conduct is any media that depicts violence, whether real or simulated, in association with sexual acts. Some examples include, but are not limited to, depictions of:
+
+* rape and other forms of violent sexual assault, or sexual acts that occur without the consent of participants, including a simulated lack of consent; and
+* sexualized violence – inflicting physical harm on an individual within an intimate setting, where it is not immediately obvious if those involved have consented to take part.  
+     
+
+**Bestiality and necrophilia**
+
+Bestiality is any media that depicts sexual acts between a human and an animal. Necrophilia is any media that depicts sexuals acts between a living human and a human corpse.
+
+**Gratuitous gore**
+
+Gratuitous gore is any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or graphic content that is shared for sadistic purposes. Some examples include, but are not limited to, depictions of:
+
+* dismembered or mutilated humans;
+* charred or burned human remains;
+* exposed internal organs or bones; and
+* animal torture or killing. 
+
+**Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
+
+**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
+
+### What is in violation of this policy?
+
+  
+Our aim is to limit exposure to sensitive images and videos and to prevent the sharing of potentially disturbing types of sensitive media. For this reason, we differentiate our enforcement approach depending on the type of media that has been shared and where it has been shared.   
+ 
+
+**Graphic content and adult nudity and sexual behavior**  
+
+* you can’t target people with unsolicited images or videos that contain graphic content, adult nudity and sexual behavior; and
+* you can’t include graphic content or adult nudity and sexual behavior within live video, profile, header, List banner images, or Community cover photos.  
+     
+
+**Violent sexual conduct, bestiality, necrophilia, and gratuitous gore**
+
+We strictly prohibit violent sexual conduct, bestiality, and necrophilia to prevent the normalization of sexual assault and non-consensual violence associated with sexual acts. We prohibit gratuitous gore content because research has shown that repeated exposure to excessively graphic content online may negatively impact an individual’s wellbeing. For these reasons, you can’t share images or videos that depict violent sexual conduct or gratuitous gore on X.
+
+**Note:** very limited exceptions may be made for gory media associated with newsworthy events. 
+
+### What is not a violation of this policy?
+
+  
+You can share graphic content and consensually produced adult nudity and sexual behavior content within your posts, provided that you mark this media as sensitive.
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we will do so manually if your content is reported for review.  We may also limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+### Who can report violations of this policy?
+
+  
+Anyone can report potential violations of this policy via our dedicated reporting flows. 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**To report Lists:**
+
+1. Navigate to the List you’d like to report.  
+    
+2. Click or tap the **More** icon.
+3. Select **Report List**.
+
+### What happens if you violate this policy?
+
+  
+The enforcement action we take depends on the type of media you have shared, and where you have shared it.   
+ 
+
+**Graphic content and adult nudity and sexual behavior  
+**
+
+* if shared in a live video and profile images - we will require you to remove this content;
+* if you target someone with unsolicited graphic content or adult nudity and sexual behavior, we'll require you to remove it under our [abusive behavior policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html);
+* we may limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+**Violent sexual conduct, bestiality, and necrophilia  
+**
+
+* sharing media anywhere on X that depicts violent sexual conduct, bestiality, or necrophilia is strictly prohibited
+* for the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+**Gratuitous gore  
+**
+
+* if shared in a post, we will require you to remove this content
+* if shared in live video and profile images – the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account will be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Adult content that was created or shared without the consent of those depicted is reviewed under our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+
+Sensitive media policy
+======================
+
+### Overview
+
+**  
+March 2023  
+**
+
+**You may not post media that is graphic or share violent or adult nudity and sexual behavior within live video or in profile header, List banner images, or Community cover photos. Media depicting excessively gory content, sexual violence and/or assault, bestiality or necrophilia is also not permitted.**
+
+People use X to show what’s happening in the world, often sharing images and videos as part of the conversation. Sometimes, this media can depict sensitive topics, including graphic content and adult nudity and sexual behavior. We recognize that some people may not want to be exposed to sensitive content, which is why we balance allowing people to share this type of media with helping people who want to avoid it to do so. 
+
+For this reason, you can’t include graphic content or adult nudity and sexual behavior within areas that are highly visible on X, including in live video, profile, header, List banner images, or Community cover photos. If you share this content on X, you need to [mark your account as sensitive](https://help.twitter.com/en/rules-and-policies/media-settings.html). Doing so places images and videos behind an interstitial (or warning message), that needs to be acknowledged before your media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. We also restrict specific sensitive media, such as adult nudity and sexual behavior, for viewers who are under 18 or viewers who do not include a birth date on their profile. Learn more about age restricted content [here](https://help.twitter.com/en/rules-and-policies/notices-on-twitter.html).
+
+Under this policy, there are also some types of sensitive media content that we don’t allow at all, because they have the potential to normalize violence and cause distress to those who view them. 
+
+We group sensitive media content into the following categories: 
+
+**  
+Graphic content**
+
+Graphic content is any media that depicts death, violence, medical procedures, or serious physical injury in graphic detail. Some examples include, but are not limited to, depictions of:
+
+* violent crimes or accidents; 
+* physical fights;
+* physical child abuse;
+* bodily fluids including blood, feces, semen etc.;
+* serious physical harm, including visible wounds; and
+* severely injured or mutilated animals.   
+     
+
+**Note:** exceptions may be made for documentary or educational content.   
+  
+
+**Adult nudity and sexual behavior**
+
+Adult nudity and sexual behavior is any consensually produced and distributed media that is pornographic or intended to cause sexual arousal. Some examples include, but are not limited to, depictions of:
+
+* full or partial nudity, including close-ups of genitals, buttocks, or breasts (excluding content related to breastfeeding);
+* simulated sexual acts; and
+* sexual intercourse or other sexual acts – this also applies to cartoons, hentai, or anime involving humans or depictions of animals with human-like features.  
+     
+
+**Note:** exceptions may be made for artistic, medical, health, or educational content.   
+  
+
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
+  
+
+**Violent sexual conduct**
+
+Violent sexual conduct is any media that depicts violence, whether real or simulated, in association with sexual acts. Some examples include, but are not limited to, depictions of:
+
+* rape and other forms of violent sexual assault, or sexual acts that occur without the consent of participants, including a simulated lack of consent; and
+* sexualized violence – inflicting physical harm on an individual within an intimate setting, where it is not immediately obvious if those involved have consented to take part.  
+     
+
+**Bestiality and necrophilia**
+
+Bestiality is any media that depicts sexual acts between a human and an animal. Necrophilia is any media that depicts sexuals acts between a living human and a human corpse.
+
+**Gratuitous gore**
+
+Gratuitous gore is any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or graphic content that is shared for sadistic purposes. Some examples include, but are not limited to, depictions of:
+
+* dismembered or mutilated humans;
+* charred or burned human remains;
+* exposed internal organs or bones; and
+* animal torture or killing. 
+
+**Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
+
+**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
+
+### What is in violation of this policy?
+
+  
+Our aim is to limit exposure to sensitive images and videos and to prevent the sharing of potentially disturbing types of sensitive media. For this reason, we differentiate our enforcement approach depending on the type of media that has been shared and where it has been shared.   
+ 
+
+**Graphic content and adult nudity and sexual behavior**  
+
+* you can’t target people with unsolicited images or videos that contain graphic content, adult nudity and sexual behavior; and
+* you can’t include graphic content or adult nudity and sexual behavior within live video, profile, header, List banner images, or Community cover photos.  
+     
+
+**Violent sexual conduct, bestiality, necrophilia, and gratuitous gore**
+
+We strictly prohibit violent sexual conduct, bestiality, and necrophilia to prevent the normalization of sexual assault and non-consensual violence associated with sexual acts. We prohibit gratuitous gore content because research has shown that repeated exposure to excessively graphic content online may negatively impact an individual’s wellbeing. For these reasons, you can’t share images or videos that depict violent sexual conduct or gratuitous gore on X.
+
+**Note:** very limited exceptions may be made for gory media associated with newsworthy events. 
+
+### What is not a violation of this policy?
+
+  
+You can share graphic content and consensually produced adult nudity and sexual behavior content within your posts, provided that you mark this media as sensitive.
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we will do so manually if your content is reported for review.  We may also limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+### Who can report violations of this policy?
+
+  
+Anyone can report potential violations of this policy via our dedicated reporting flows. 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**To report Lists:**
+
+1. Navigate to the List you’d like to report.  
+    
+2. Click or tap the **More** icon.
+3. Select **Report List**.
+
+### What happens if you violate this policy?
+
+  
+The enforcement action we take depends on the type of media you have shared, and where you have shared it.   
+ 
+
+**Graphic content and adult nudity and sexual behavior  
+**
+
+* if shared in a live video and profile images - we will require you to remove this content;
+* if you target someone with unsolicited graphic content or adult nudity and sexual behavior, we'll require you to remove it under our [abusive behavior policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html);
+* we may limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+**Violent sexual conduct, bestiality, and necrophilia  
+**
+
+* sharing media anywhere on X that depicts violent sexual conduct, bestiality, or necrophilia is strictly prohibited
+* for the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+**Gratuitous gore  
+**
+
+* if shared in a post, we will require you to remove this content
+* if shared in live video and profile images – the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account will be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Adult content that was created or shared without the consent of those depicted is reviewed under our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+
+Sensitive media policy
+======================
+
+### Overview
+
+**  
+March 2023  
+**
+
+**You may not post media that is graphic or share violent or adult nudity and sexual behavior within live video or in profile header, List banner images, or Community cover photos. Media depicting excessively gory content, sexual violence and/or assault, bestiality or necrophilia is also not permitted.**
+
+People use X to show what’s happening in the world, often sharing images and videos as part of the conversation. Sometimes, this media can depict sensitive topics, including graphic content and adult nudity and sexual behavior. We recognize that some people may not want to be exposed to sensitive content, which is why we balance allowing people to share this type of media with helping people who want to avoid it to do so. 
+
+For this reason, you can’t include graphic content or adult nudity and sexual behavior within areas that are highly visible on X, including in live video, profile, header, List banner images, or Community cover photos. If you share this content on X, you need to [mark your account as sensitive](https://help.twitter.com/en/rules-and-policies/media-settings.html). Doing so places images and videos behind an interstitial (or warning message), that needs to be acknowledged before your media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. We also restrict specific sensitive media, such as adult nudity and sexual behavior, for viewers who are under 18 or viewers who do not include a birth date on their profile. Learn more about age restricted content [here](https://help.twitter.com/en/rules-and-policies/notices-on-twitter.html).
+
+Under this policy, there are also some types of sensitive media content that we don’t allow at all, because they have the potential to normalize violence and cause distress to those who view them. 
+
+We group sensitive media content into the following categories: 
+
+**  
+Graphic content**
+
+Graphic content is any media that depicts death, violence, medical procedures, or serious physical injury in graphic detail. Some examples include, but are not limited to, depictions of:
+
+* violent crimes or accidents; 
+* physical fights;
+* physical child abuse;
+* bodily fluids including blood, feces, semen etc.;
+* serious physical harm, including visible wounds; and
+* severely injured or mutilated animals.   
+     
+
+**Note:** exceptions may be made for documentary or educational content.   
+  
+
+**Adult nudity and sexual behavior**
+
+Adult nudity and sexual behavior is any consensually produced and distributed media that is pornographic or intended to cause sexual arousal. Some examples include, but are not limited to, depictions of:
+
+* full or partial nudity, including close-ups of genitals, buttocks, or breasts (excluding content related to breastfeeding);
+* simulated sexual acts; and
+* sexual intercourse or other sexual acts – this also applies to cartoons, hentai, or anime involving humans or depictions of animals with human-like features.  
+     
+
+**Note:** exceptions may be made for artistic, medical, health, or educational content.   
+  
+
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
+  
+
+**Violent sexual conduct**
+
+Violent sexual conduct is any media that depicts violence, whether real or simulated, in association with sexual acts. Some examples include, but are not limited to, depictions of:
+
+* rape and other forms of violent sexual assault, or sexual acts that occur without the consent of participants, including a simulated lack of consent; and
+* sexualized violence – inflicting physical harm on an individual within an intimate setting, where it is not immediately obvious if those involved have consented to take part.  
+     
+
+**Bestiality and necrophilia**
+
+Bestiality is any media that depicts sexual acts between a human and an animal. Necrophilia is any media that depicts sexuals acts between a living human and a human corpse.
+
+**Gratuitous gore**
+
+Gratuitous gore is any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or graphic content that is shared for sadistic purposes. Some examples include, but are not limited to, depictions of:
+
+* dismembered or mutilated humans;
+* charred or burned human remains;
+* exposed internal organs or bones; and
+* animal torture or killing. 
+
+**Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
+
+**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
+
+### What is in violation of this policy?
+
+  
+Our aim is to limit exposure to sensitive images and videos and to prevent the sharing of potentially disturbing types of sensitive media. For this reason, we differentiate our enforcement approach depending on the type of media that has been shared and where it has been shared.   
+ 
+
+**Graphic content and adult nudity and sexual behavior**  
+
+* you can’t target people with unsolicited images or videos that contain graphic content, adult nudity and sexual behavior; and
+* you can’t include graphic content or adult nudity and sexual behavior within live video, profile, header, List banner images, or Community cover photos.  
+     
+
+**Violent sexual conduct, bestiality, necrophilia, and gratuitous gore**
+
+We strictly prohibit violent sexual conduct, bestiality, and necrophilia to prevent the normalization of sexual assault and non-consensual violence associated with sexual acts. We prohibit gratuitous gore content because research has shown that repeated exposure to excessively graphic content online may negatively impact an individual’s wellbeing. For these reasons, you can’t share images or videos that depict violent sexual conduct or gratuitous gore on X.
+
+**Note:** very limited exceptions may be made for gory media associated with newsworthy events. 
+
+### What is not a violation of this policy?
+
+  
+You can share graphic content and consensually produced adult nudity and sexual behavior content within your posts, provided that you mark this media as sensitive.
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we will do so manually if your content is reported for review.  We may also limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+### Who can report violations of this policy?
+
+  
+Anyone can report potential violations of this policy via our dedicated reporting flows. 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**To report Lists:**
+
+1. Navigate to the List you’d like to report.  
+    
+2. Click or tap the **More** icon.
+3. Select **Report List**.
+
+### What happens if you violate this policy?
+
+  
+The enforcement action we take depends on the type of media you have shared, and where you have shared it.   
+ 
+
+**Graphic content and adult nudity and sexual behavior  
+**
+
+* if shared in a live video and profile images - we will require you to remove this content;
+* if you target someone with unsolicited graphic content or adult nudity and sexual behavior, we'll require you to remove it under our [abusive behavior policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html);
+* we may limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+**Violent sexual conduct, bestiality, and necrophilia  
+**
+
+* sharing media anywhere on X that depicts violent sexual conduct, bestiality, or necrophilia is strictly prohibited
+* for the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+**Gratuitous gore  
+**
+
+* if shared in a post, we will require you to remove this content
+* if shared in live video and profile images – the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account will be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Adult content that was created or shared without the consent of those depicted is reviewed under our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+
+Sensitive media policy
+======================
+
+### Overview
+
+**  
+March 2023  
+**
+
+**You may not post media that is graphic or share violent or adult nudity and sexual behavior within live video or in profile header, List banner images, or Community cover photos. Media depicting excessively gory content, sexual violence and/or assault, bestiality or necrophilia is also not permitted.**
+
+People use X to show what’s happening in the world, often sharing images and videos as part of the conversation. Sometimes, this media can depict sensitive topics, including graphic content and adult nudity and sexual behavior. We recognize that some people may not want to be exposed to sensitive content, which is why we balance allowing people to share this type of media with helping people who want to avoid it to do so. 
+
+For this reason, you can’t include graphic content or adult nudity and sexual behavior within areas that are highly visible on X, including in live video, profile, header, List banner images, or Community cover photos. If you share this content on X, you need to [mark your account as sensitive](https://help.twitter.com/en/rules-and-policies/media-settings.html). Doing so places images and videos behind an interstitial (or warning message), that needs to be acknowledged before your media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. We also restrict specific sensitive media, such as adult nudity and sexual behavior, for viewers who are under 18 or viewers who do not include a birth date on their profile. Learn more about age restricted content [here](https://help.twitter.com/en/rules-and-policies/notices-on-twitter.html).
+
+Under this policy, there are also some types of sensitive media content that we don’t allow at all, because they have the potential to normalize violence and cause distress to those who view them. 
+
+We group sensitive media content into the following categories: 
+
+**  
+Graphic content**
+
+Graphic content is any media that depicts death, violence, medical procedures, or serious physical injury in graphic detail. Some examples include, but are not limited to, depictions of:
+
+* violent crimes or accidents; 
+* physical fights;
+* physical child abuse;
+* bodily fluids including blood, feces, semen etc.;
+* serious physical harm, including visible wounds; and
+* severely injured or mutilated animals.   
+     
+
+**Note:** exceptions may be made for documentary or educational content.   
+  
+
+**Adult nudity and sexual behavior**
+
+Adult nudity and sexual behavior is any consensually produced and distributed media that is pornographic or intended to cause sexual arousal. Some examples include, but are not limited to, depictions of:
+
+* full or partial nudity, including close-ups of genitals, buttocks, or breasts (excluding content related to breastfeeding);
+* simulated sexual acts; and
+* sexual intercourse or other sexual acts – this also applies to cartoons, hentai, or anime involving humans or depictions of animals with human-like features.  
+     
+
+**Note:** exceptions may be made for artistic, medical, health, or educational content.   
+  
+
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
+  
+
+**Violent sexual conduct**
+
+Violent sexual conduct is any media that depicts violence, whether real or simulated, in association with sexual acts. Some examples include, but are not limited to, depictions of:
+
+* rape and other forms of violent sexual assault, or sexual acts that occur without the consent of participants, including a simulated lack of consent; and
+* sexualized violence – inflicting physical harm on an individual within an intimate setting, where it is not immediately obvious if those involved have consented to take part.  
+     
+
+**Bestiality and necrophilia**
+
+Bestiality is any media that depicts sexual acts between a human and an animal. Necrophilia is any media that depicts sexuals acts between a living human and a human corpse.
+
+**Gratuitous gore**
+
+Gratuitous gore is any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or graphic content that is shared for sadistic purposes. Some examples include, but are not limited to, depictions of:
+
+* dismembered or mutilated humans;
+* charred or burned human remains;
+* exposed internal organs or bones; and
+* animal torture or killing. 
+
+**Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
+
+**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
+
+### What is in violation of this policy?
+
+  
+Our aim is to limit exposure to sensitive images and videos and to prevent the sharing of potentially disturbing types of sensitive media. For this reason, we differentiate our enforcement approach depending on the type of media that has been shared and where it has been shared.   
+ 
+
+**Graphic content and adult nudity and sexual behavior**  
+
+* you can’t target people with unsolicited images or videos that contain graphic content, adult nudity and sexual behavior; and
+* you can’t include graphic content or adult nudity and sexual behavior within live video, profile, header, List banner images, or Community cover photos.  
+     
+
+**Violent sexual conduct, bestiality, necrophilia, and gratuitous gore**
+
+We strictly prohibit violent sexual conduct, bestiality, and necrophilia to prevent the normalization of sexual assault and non-consensual violence associated with sexual acts. We prohibit gratuitous gore content because research has shown that repeated exposure to excessively graphic content online may negatively impact an individual’s wellbeing. For these reasons, you can’t share images or videos that depict violent sexual conduct or gratuitous gore on X.
+
+**Note:** very limited exceptions may be made for gory media associated with newsworthy events. 
+
+### What is not a violation of this policy?
+
+  
+You can share graphic content and consensually produced adult nudity and sexual behavior content within your posts, provided that you mark this media as sensitive.
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we will do so manually if your content is reported for review.  We may also limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+### Who can report violations of this policy?
+
+  
+Anyone can report potential violations of this policy via our dedicated reporting flows. 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**To report Lists:**
+
+1. Navigate to the List you’d like to report.  
+    
+2. Click or tap the **More** icon.
+3. Select **Report List**.
+
+### What happens if you violate this policy?
+
+  
+The enforcement action we take depends on the type of media you have shared, and where you have shared it.   
+ 
+
+**Graphic content and adult nudity and sexual behavior  
+**
+
+* if shared in a live video and profile images - we will require you to remove this content;
+* if you target someone with unsolicited graphic content or adult nudity and sexual behavior, we'll require you to remove it under our [abusive behavior policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html);
+* we may limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+**Violent sexual conduct, bestiality, and necrophilia  
+**
+
+* sharing media anywhere on X that depicts violent sexual conduct, bestiality, or necrophilia is strictly prohibited
+* for the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+**Gratuitous gore  
+**
+
+* if shared in a post, we will require you to remove this content
+* if shared in live video and profile images – the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account will be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Adult content that was created or shared without the consent of those depicted is reviewed under our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+
+Sensitive media policy
+======================
+
+### Overview
+
+**  
+March 2023  
+**
+
+**You may not post media that is graphic or share violent or adult nudity and sexual behavior within live video or in profile header, List banner images, or Community cover photos. Media depicting excessively gory content, sexual violence and/or assault, bestiality or necrophilia is also not permitted.**
+
+People use X to show what’s happening in the world, often sharing images and videos as part of the conversation. Sometimes, this media can depict sensitive topics, including graphic content and adult nudity and sexual behavior. We recognize that some people may not want to be exposed to sensitive content, which is why we balance allowing people to share this type of media with helping people who want to avoid it to do so. 
+
+For this reason, you can’t include graphic content or adult nudity and sexual behavior within areas that are highly visible on X, including in live video, profile, header, List banner images, or Community cover photos. If you share this content on X, you need to [mark your account as sensitive](https://help.twitter.com/en/rules-and-policies/media-settings.html). Doing so places images and videos behind an interstitial (or warning message), that needs to be acknowledged before your media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. We also restrict specific sensitive media, such as adult nudity and sexual behavior, for viewers who are under 18 or viewers who do not include a birth date on their profile. Learn more about age restricted content [here](https://help.twitter.com/en/rules-and-policies/notices-on-twitter.html).
+
+Under this policy, there are also some types of sensitive media content that we don’t allow at all, because they have the potential to normalize violence and cause distress to those who view them. 
+
+We group sensitive media content into the following categories: 
+
+**  
+Graphic content**
+
+Graphic content is any media that depicts death, violence, medical procedures, or serious physical injury in graphic detail. Some examples include, but are not limited to, depictions of:
+
+* violent crimes or accidents; 
+* physical fights;
+* physical child abuse;
+* bodily fluids including blood, feces, semen etc.;
+* serious physical harm, including visible wounds; and
+* severely injured or mutilated animals.   
+     
+
+**Note:** exceptions may be made for documentary or educational content.   
+  
+
+**Adult nudity and sexual behavior**
+
+Adult nudity and sexual behavior is any consensually produced and distributed media that is pornographic or intended to cause sexual arousal. Some examples include, but are not limited to, depictions of:
+
+* full or partial nudity, including close-ups of genitals, buttocks, or breasts (excluding content related to breastfeeding);
+* simulated sexual acts; and
+* sexual intercourse or other sexual acts – this also applies to cartoons, hentai, or anime involving humans or depictions of animals with human-like features.  
+     
+
+**Note:** exceptions may be made for artistic, medical, health, or educational content.   
+  
+
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
+  
+
+**Violent sexual conduct**
+
+Violent sexual conduct is any media that depicts violence, whether real or simulated, in association with sexual acts. Some examples include, but are not limited to, depictions of:
+
+* rape and other forms of violent sexual assault, or sexual acts that occur without the consent of participants, including a simulated lack of consent; and
+* sexualized violence – inflicting physical harm on an individual within an intimate setting, where it is not immediately obvious if those involved have consented to take part.  
+     
+
+**Bestiality and necrophilia**
+
+Bestiality is any media that depicts sexual acts between a human and an animal. Necrophilia is any media that depicts sexuals acts between a living human and a human corpse.
+
+**Gratuitous gore**
+
+Gratuitous gore is any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or graphic content that is shared for sadistic purposes. Some examples include, but are not limited to, depictions of:
+
+* dismembered or mutilated humans;
+* charred or burned human remains;
+* exposed internal organs or bones; and
+* animal torture or killing. 
+
+**Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
+
+**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
+
+### What is in violation of this policy?
+
+  
+Our aim is to limit exposure to sensitive images and videos and to prevent the sharing of potentially disturbing types of sensitive media. For this reason, we differentiate our enforcement approach depending on the type of media that has been shared and where it has been shared.   
+ 
+
+**Graphic content and adult nudity and sexual behavior**  
+
+* you can’t target people with unsolicited images or videos that contain graphic content, adult nudity and sexual behavior; and
+* you can’t include graphic content or adult nudity and sexual behavior within live video, profile, header, List banner images, or Community cover photos.  
+     
+
+**Violent sexual conduct, bestiality, necrophilia, and gratuitous gore**
+
+We strictly prohibit violent sexual conduct, bestiality, and necrophilia to prevent the normalization of sexual assault and non-consensual violence associated with sexual acts. We prohibit gratuitous gore content because research has shown that repeated exposure to excessively graphic content online may negatively impact an individual’s wellbeing. For these reasons, you can’t share images or videos that depict violent sexual conduct or gratuitous gore on X.
+
+**Note:** very limited exceptions may be made for gory media associated with newsworthy events. 
+
+### What is not a violation of this policy?
+
+  
+You can share graphic content and consensually produced adult nudity and sexual behavior content within your posts, provided that you mark this media as sensitive.
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we will do so manually if your content is reported for review.  We may also limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+### Who can report violations of this policy?
+
+  
+Anyone can report potential violations of this policy via our dedicated reporting flows. 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**To report Lists:**
+
+1. Navigate to the List you’d like to report.  
+    
+2. Click or tap the **More** icon.
+3. Select **Report List**.
+
+### What happens if you violate this policy?
+
+  
+The enforcement action we take depends on the type of media you have shared, and where you have shared it.   
+ 
+
+**Graphic content and adult nudity and sexual behavior  
+**
+
+* if shared in a live video and profile images - we will require you to remove this content;
+* if you target someone with unsolicited graphic content or adult nudity and sexual behavior, we'll require you to remove it under our [abusive behavior policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html);
+* we may limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+**Violent sexual conduct, bestiality, and necrophilia  
+**
+
+* sharing media anywhere on X that depicts violent sexual conduct, bestiality, or necrophilia is strictly prohibited
+* for the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+**Gratuitous gore  
+**
+
+* if shared in a post, we will require you to remove this content
+* if shared in live video and profile images – the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account will be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Adult content that was created or shared without the consent of those depicted is reviewed under our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+
+Sensitive media policy
+======================
+
+### Overview
+
+**  
+March 2023  
+**
+
+**You may not post media that is graphic or share violent or adult nudity and sexual behavior within live video or in profile header, List banner images, or Community cover photos. Media depicting excessively gory content, sexual violence and/or assault, bestiality or necrophilia is also not permitted.**
+
+People use X to show what’s happening in the world, often sharing images and videos as part of the conversation. Sometimes, this media can depict sensitive topics, including graphic content and adult nudity and sexual behavior. We recognize that some people may not want to be exposed to sensitive content, which is why we balance allowing people to share this type of media with helping people who want to avoid it to do so. 
+
+For this reason, you can’t include graphic content or adult nudity and sexual behavior within areas that are highly visible on X, including in live video, profile, header, List banner images, or Community cover photos. If you share this content on X, you need to [mark your account as sensitive](https://help.twitter.com/en/rules-and-policies/media-settings.html). Doing so places images and videos behind an interstitial (or warning message), that needs to be acknowledged before your media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. We also restrict specific sensitive media, such as adult nudity and sexual behavior, for viewers who are under 18 or viewers who do not include a birth date on their profile. Learn more about age restricted content [here](https://help.twitter.com/en/rules-and-policies/notices-on-twitter.html).
+
+Under this policy, there are also some types of sensitive media content that we don’t allow at all, because they have the potential to normalize violence and cause distress to those who view them. 
+
+We group sensitive media content into the following categories: 
+
+**  
+Graphic content**
+
+Graphic content is any media that depicts death, violence, medical procedures, or serious physical injury in graphic detail. Some examples include, but are not limited to, depictions of:
+
+* violent crimes or accidents; 
+* physical fights;
+* physical child abuse;
+* bodily fluids including blood, feces, semen etc.;
+* serious physical harm, including visible wounds; and
+* severely injured or mutilated animals.   
+     
+
+**Note:** exceptions may be made for documentary or educational content.   
+  
+
+**Adult nudity and sexual behavior**
+
+Adult nudity and sexual behavior is any consensually produced and distributed media that is pornographic or intended to cause sexual arousal. Some examples include, but are not limited to, depictions of:
+
+* full or partial nudity, including close-ups of genitals, buttocks, or breasts (excluding content related to breastfeeding);
+* simulated sexual acts; and
+* sexual intercourse or other sexual acts – this also applies to cartoons, hentai, or anime involving humans or depictions of animals with human-like features.  
+     
+
+**Note:** exceptions may be made for artistic, medical, health, or educational content.   
+  
+
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
+  
+
+**Violent sexual conduct**
+
+Violent sexual conduct is any media that depicts violence, whether real or simulated, in association with sexual acts. Some examples include, but are not limited to, depictions of:
+
+* rape and other forms of violent sexual assault, or sexual acts that occur without the consent of participants, including a simulated lack of consent; and
+* sexualized violence – inflicting physical harm on an individual within an intimate setting, where it is not immediately obvious if those involved have consented to take part.  
+     
+
+**Bestiality and necrophilia**
+
+Bestiality is any media that depicts sexual acts between a human and an animal. Necrophilia is any media that depicts sexuals acts between a living human and a human corpse.
+
+**Gratuitous gore**
+
+Gratuitous gore is any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or graphic content that is shared for sadistic purposes. Some examples include, but are not limited to, depictions of:
+
+* dismembered or mutilated humans;
+* charred or burned human remains;
+* exposed internal organs or bones; and
+* animal torture or killing. 
+
+**Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
+
+**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
+
+### What is in violation of this policy?
+
+  
+Our aim is to limit exposure to sensitive images and videos and to prevent the sharing of potentially disturbing types of sensitive media. For this reason, we differentiate our enforcement approach depending on the type of media that has been shared and where it has been shared.   
+ 
+
+**Graphic content and adult nudity and sexual behavior**  
+
+* you can’t target people with unsolicited images or videos that contain graphic content, adult nudity and sexual behavior; and
+* you can’t include graphic content or adult nudity and sexual behavior within live video, profile, header, List banner images, or Community cover photos.  
+     
+
+**Violent sexual conduct, bestiality, necrophilia, and gratuitous gore**
+
+We strictly prohibit violent sexual conduct, bestiality, and necrophilia to prevent the normalization of sexual assault and non-consensual violence associated with sexual acts. We prohibit gratuitous gore content because research has shown that repeated exposure to excessively graphic content online may negatively impact an individual’s wellbeing. For these reasons, you can’t share images or videos that depict violent sexual conduct or gratuitous gore on X.
+
+**Note:** very limited exceptions may be made for gory media associated with newsworthy events. 
+
+### What is not a violation of this policy?
+
+  
+You can share graphic content and consensually produced adult nudity and sexual behavior content within your posts, provided that you mark this media as sensitive.
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we will do so manually if your content is reported for review.  We may also limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+### Who can report violations of this policy?
+
+  
+Anyone can report potential violations of this policy via our dedicated reporting flows. 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**To report Lists:**
+
+1. Navigate to the List you’d like to report.  
+    
+2. Click or tap the **More** icon.
+3. Select **Report List**.
+
+### What happens if you violate this policy?
+
+  
+The enforcement action we take depends on the type of media you have shared, and where you have shared it.   
+ 
+
+**Graphic content and adult nudity and sexual behavior  
+**
+
+* if shared in a live video and profile images - we will require you to remove this content;
+* if you target someone with unsolicited graphic content or adult nudity and sexual behavior, we'll require you to remove it under our [abusive behavior policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html);
+* we may limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+**Violent sexual conduct, bestiality, and necrophilia  
+**
+
+* sharing media anywhere on X that depicts violent sexual conduct, bestiality, or necrophilia is strictly prohibited
+* for the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+**Gratuitous gore  
+**
+
+* if shared in a post, we will require you to remove this content
+* if shared in live video and profile images – the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account will be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Adult content that was created or shared without the consent of those depicted is reviewed under our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
+
+Sensitive media policy
+======================
+
+### Overview
+
+**  
+March 2023  
+**
+
+**You may not post media that is graphic or share violent or adult nudity and sexual behavior within live video or in profile header, List banner images, or Community cover photos. Media depicting excessively gory content, sexual violence and/or assault, bestiality or necrophilia is also not permitted.**
+
+People use X to show what’s happening in the world, often sharing images and videos as part of the conversation. Sometimes, this media can depict sensitive topics, including graphic content and adult nudity and sexual behavior. We recognize that some people may not want to be exposed to sensitive content, which is why we balance allowing people to share this type of media with helping people who want to avoid it to do so. 
+
+For this reason, you can’t include graphic content or adult nudity and sexual behavior within areas that are highly visible on X, including in live video, profile, header, List banner images, or Community cover photos. If you share this content on X, you need to [mark your account as sensitive](https://help.twitter.com/en/rules-and-policies/media-settings.html). Doing so places images and videos behind an interstitial (or warning message), that needs to be acknowledged before your media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. We also restrict specific sensitive media, such as adult nudity and sexual behavior, for viewers who are under 18 or viewers who do not include a birth date on their profile. Learn more about age restricted content [here](https://help.twitter.com/en/rules-and-policies/notices-on-twitter.html).
+
+Under this policy, there are also some types of sensitive media content that we don’t allow at all, because they have the potential to normalize violence and cause distress to those who view them. 
+
+We group sensitive media content into the following categories: 
+
+**  
+Graphic content**
+
+Graphic content is any media that depicts death, violence, medical procedures, or serious physical injury in graphic detail. Some examples include, but are not limited to, depictions of:
+
+* violent crimes or accidents; 
+* physical fights;
+* physical child abuse;
+* bodily fluids including blood, feces, semen etc.;
+* serious physical harm, including visible wounds; and
+* severely injured or mutilated animals.   
+     
+
+**Note:** exceptions may be made for documentary or educational content.   
+  
+
+**Adult nudity and sexual behavior**
+
+Adult nudity and sexual behavior is any consensually produced and distributed media that is pornographic or intended to cause sexual arousal. Some examples include, but are not limited to, depictions of:
+
+* full or partial nudity, including close-ups of genitals, buttocks, or breasts (excluding content related to breastfeeding);
+* simulated sexual acts; and
+* sexual intercourse or other sexual acts – this also applies to cartoons, hentai, or anime involving humans or depictions of animals with human-like features.  
+     
+
+**Note:** exceptions may be made for artistic, medical, health, or educational content.   
+  
+
+For content that was created or distributed without the consent of those featured, please refer to our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).   
+  
+
+**Violent sexual conduct**
+
+Violent sexual conduct is any media that depicts violence, whether real or simulated, in association with sexual acts. Some examples include, but are not limited to, depictions of:
+
+* rape and other forms of violent sexual assault, or sexual acts that occur without the consent of participants, including a simulated lack of consent; and
+* sexualized violence – inflicting physical harm on an individual within an intimate setting, where it is not immediately obvious if those involved have consented to take part.  
+     
+
+**Bestiality and necrophilia**
+
+Bestiality is any media that depicts sexual acts between a human and an animal. Necrophilia is any media that depicts sexuals acts between a living human and a human corpse.
+
+**Gratuitous gore**
+
+Gratuitous gore is any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or graphic content that is shared for sadistic purposes. Some examples include, but are not limited to, depictions of:
+
+* dismembered or mutilated humans;
+* charred or burned human remains;
+* exposed internal organs or bones; and
+* animal torture or killing. 
+
+**Note:** exceptions may be made for religious sacrifice, food preparation or processing, and hunting. 
+
+**For deceased individuals, please refer to our [Deceased individuals policy](https://help.twitter.com/en/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html).**
+
+### What is in violation of this policy?
+
+  
+Our aim is to limit exposure to sensitive images and videos and to prevent the sharing of potentially disturbing types of sensitive media. For this reason, we differentiate our enforcement approach depending on the type of media that has been shared and where it has been shared.   
+ 
+
+**Graphic content and adult nudity and sexual behavior**  
+
+* you can’t target people with unsolicited images or videos that contain graphic content, adult nudity and sexual behavior; and
+* you can’t include graphic content or adult nudity and sexual behavior within live video, profile, header, List banner images, or Community cover photos.  
+     
+
+**Violent sexual conduct, bestiality, necrophilia, and gratuitous gore**
+
+We strictly prohibit violent sexual conduct, bestiality, and necrophilia to prevent the normalization of sexual assault and non-consensual violence associated with sexual acts. We prohibit gratuitous gore content because research has shown that repeated exposure to excessively graphic content online may negatively impact an individual’s wellbeing. For these reasons, you can’t share images or videos that depict violent sexual conduct or gratuitous gore on X.
+
+**Note:** very limited exceptions may be made for gory media associated with newsworthy events. 
+
+### What is not a violation of this policy?
+
+  
+You can share graphic content and consensually produced adult nudity and sexual behavior content within your posts, provided that you mark this media as sensitive.
+
+To mark your media as sensitive, navigate to your [safety settings](https://twitter.com/settings/safety) and select the **Mark media you post as containing material that may be sensitive** option. If you don’t mark your media as sensitive, we will do so manually if your content is reported for review.  We may also limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+### Who can report violations of this policy?
+
+  
+Anyone can report potential violations of this policy via our dedicated reporting flows. 
+
+### How can I report violations of this policy?
+
+**  
+In-app**
+
+You can report this content for review in-app as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**Desktop**
+
+You can report this content for review via desktop as follows:
+
+1. Select **Report post** from the  icon.
+2. Select **It displays a sensitive photo or video**.
+3. Select the relevant option depending on what you are reporting.  
+     
+
+**To report Lists:**
+
+1. Navigate to the List you’d like to report.  
+    
+2. Click or tap the **More** icon.
+3. Select **Report List**.
+
+### What happens if you violate this policy?
+
+  
+The enforcement action we take depends on the type of media you have shared, and where you have shared it.   
+ 
+
+**Graphic content and adult nudity and sexual behavior  
+**
+
+* if shared in a live video and profile images - we will require you to remove this content;
+* if you target someone with unsolicited graphic content or adult nudity and sexual behavior, we'll require you to remove it under our [abusive behavior policy](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html);
+* we may limit exposure of posts depicting graphic content, adult nudity, and sexual behavior.
+
+**Violent sexual conduct, bestiality, and necrophilia  
+**
+
+* sharing media anywhere on X that depicts violent sexual conduct, bestiality, or necrophilia is strictly prohibited
+* for the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account may be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+**Gratuitous gore  
+**
+
+* if shared in a post, we will require you to remove this content
+* if shared in live video and profile images – the first time you violate this policy, we will require you to remove this content. If you violate this policy again after your first warning, your account will be permanently suspended;
+* your account may be permanently suspended if the majority of your activity on X is sharing this type of media.
+
+If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
+
+### Additional resources
+
+  
+Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
+
+Adult content that was created or shared without the consent of those depicted is reviewed under our [non-consensual nudity policy](https://help.twitter.com/en/rules-and-policies/intimate-media.html).
