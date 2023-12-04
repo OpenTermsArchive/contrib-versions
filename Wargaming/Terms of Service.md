@@ -6,16 +6,16 @@ Last updated: 19 September 2022.
 
 In other languages:
 
-* [Czech](https://legal.eu.wargaming.net/cs/eula) (contains changes effective 30 November 2023)
+* [Czech](https://legal.eu.wargaming.net/cs/eula)
 * [French](https://legal.eu.wargaming.net/fr/eula)
-* [German](https://legal.eu.wargaming.net/de/eula) (contains changes effective 30 November 2023)
-* [Hungarian](https://legal.eu.wargaming.net/hu/eula) (contains changes effective 30 November 2023)
-* [Italian](https://legal.eu.wargaming.net/it/eula) (contains changes effective 30 November 2023)
-* [Polish](https://legal.eu.wargaming.net/pl/eula) (contains changes effective 30 November 2023)
+* [German](https://legal.eu.wargaming.net/de/eula)
+* [Hungarian](https://legal.eu.wargaming.net/hu/eula)
+* [Italian](https://legal.eu.wargaming.net/it/eula)
+* [Polish](https://legal.eu.wargaming.net/pl/eula)
 * [Russian](https://legal.eu.wargaming.net/ru/eula)
 * [Spanish](https://legal.eu.wargaming.net/es/eula)
-* [Turkish](https://legal.eu.wargaming.net/tr/eula) (contains changes effective 30 November 2023)
-* [Ukrainian](https://legal.eu.wargaming.net/uk/eula) (contains changes effective 30 November 2023)
+* [Turkish](https://legal.eu.wargaming.net/tr/eula)
+* [Ukrainian](https://legal.eu.wargaming.net/uk/eula)
 
 \======================
 
