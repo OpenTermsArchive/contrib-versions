@@ -1,4 +1,4 @@
-_Last Updated: November 1, 2023_
+_Last Updated: December 1, 2023_
 
 **1\. Introduction**
 --------------------
@@ -22,7 +22,7 @@ The following terms are defined as follows:
 
 2.4 “Personal data” refers to any information relating to an identified or identifiable natural person, including names, identification numbers, location data, an online identifier, or to one or more factors specific to the physical, economic, cultural or social identity of a natural person.
 
-2.5 "PIL Services" means e-money services. For a full definition, please see Annex I of the Terms of Service [here](https://www.kraken.com/legal/emi). 
+2.5 "PIL Services" means e-money services. For a full definition, please see Annex G of the Terms of Service [here](https://www.kraken.com/legal/emi). 
 
 2.6 “VASP Services” means exchange between digital assets and fiat currencies; exchange between one or more forms of digital assets; transfer of digital assets, that is to say, conduct a transaction on behalf of another person that moves a digital asset from one digital asset address or account to another; and act as a custodian wallet provider.
 
@@ -227,7 +227,7 @@ You are contracting with Kraken as follows:
 * If you reside in the UK, you are contracting with Payward Ltd., 6th Floor, One London Wall, London, EC2Y 5EB, United Kingdom. 
 * If you reside in the United States, you are contracting with Payward Ventures, Inc., 100 Pine St Suite 1250, Office 6, PMB A188, San Francisco, CA 94111, USA. 
 * If you reside in Italy you are contracting with Payward Europe Solutions Limited, 70 Sir John Rogerson’s Quay, Dublin 2, D02 R296, operating through its Italian Branch, Payward Europe Solutions Limited, Italian Branch, 21 Via San Marco, Milan, MI, 20121, Italy (for VASP Services). If you reside in Ireland or Belgium, you are contracting with Payward Europe Solutions Limited, 70 Sir John Rogerson’s Quay, Dublin Docklands, Dublin 2, Ireland, D02 R296 (for VASP Services). For all other clients located in the European Economic Area you are contracting with Payward International Markets Limited, Trinity Chambers, PO BOX 4301, Road Town, Tortola, British Virgin Islands. 
-* If you reside in Ireland or the Netherlands you are contracting with Payward Ireland Limited (with respect to PIL Services only) with a registered office at 70 Sir John Rogerson’s Quay, Dublin Docklands, Dublin 2, Ireland, D02 R296.
+* If you reside in Ireland, France, or the Netherlands you are contracting with Payward Ireland Limited (with respect to PIL Services only) with a registered office at 70 Sir John Rogerson’s Quay, Dublin Docklands, Dublin 2, Ireland, D02 R296.
 * If you reside in the rest of the world you are contracting with Payward Trading Ltd., 2429 Wickhams Cay II, Tortola, British Virgin Islands, VG1110. 
 * If you are a client of Kraken Futures, you are contracting with either Payward Brokers Pte. Ltd., or Payward Global Trading Pte. Ltd., 8 Tomasello Boulevard, #15-04, Suntec Tower Three, Singapore 038988. 
 * The company you are contracting with is your Data Controller, and is responsible for the collection, use, disclosure, retention and protection of your personal data in accordance with our global privacy standards, this Privacy Notice, as well as any applicable national laws. We process and retain your personal data on our servers in multiple data center locations, including the European Union, Japan, Australia, the United Kingdom, the United States of America and elsewhere in the world.
