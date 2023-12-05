@@ -1,5 +1,5 @@
-Conditions générales d'utilisation en date du 21 avril 2022
-===========================================================
+Conditions générales d'utilisation en date du 1er décembre 2023
+===============================================================
 
 1\. Champ d'application
 -----------------------
@@ -135,7 +135,7 @@ Sites : [www.tchap.gouv.fr](https://www.tchap.gouv.fr/) et [tchap.beta.gouv.fr](
 
 Editeur : Direction interministérielle du numérique de l'Etat (DINUM). 20 avenue de Ségur 75007 Paris - Tel. Accueil : 01.71.21.01.70 SIRET : 12000101100010 (secrétariat général du gouvernement) SIREN : 120 001 011
 
-Directeur de la publication : Monsieur Xavier ALBOUY, Directeur par intérim de la Direction interministérielle du numérique.
+Directeur de la publication : Madame Stéphanie Schaer, Directrice interministérielle du numérique.
 
 Conception et gestion : Le suivi éditorial et graphique est assuré par la DINUM.
 
