@@ -703,5 +703,21 @@ We also made changes to other portions of the Roblox TermsThe terms and conditio
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957415352852)
     
+* [PL - Warunki korzystania z Roblox 20231114.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/21522165308692)
+    
+    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/21522165308692)
+    
+* [TH - ข้อกำหนดการใช้งานของ Roblox 20231114.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/21522231017236)
+    
+    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/21522231017236)
+    
+* [TR - Roblox Kullanım Koşulları 20231114.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/21522305082260)
+    
+    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/21522305082260)
+    
+* [VI - Điều khoản Sử dụng của Roblox 20231114.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/21522384208660)
+    
+    4 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/21522384208660)
+    
 
 [Return to top](#article-container)
