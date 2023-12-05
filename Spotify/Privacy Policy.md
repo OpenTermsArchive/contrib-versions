@@ -1,4 +1,6 @@
-Effective as of 29 June 2023
+Your privacy is important. As of 5 December, we've updated our Privacy Policy to make it easier to read and include additional detail.
+
+Effective as of 5 December 2023
 
 [1\. About this Policy](#1-about-this-policy)
 
@@ -109,6 +111,12 @@ How to control tailored advertising:
 
 If you are 'opted out' of Tailored Ads in your [Privacy Settings](https://www.spotify.com/account/privacy/), you may still get advertising. This can include on our free Service Option, as well as our paid Service Option, as applicable (for example, advertising in podcasts). This type of advertising is based on your registration information and what you are currently listening to on our services. For example, if you are listening to a cooking podcast, you may hear an ad for a food processor.
 
+Appropriate age for tailored advertising:
+
+* The appropriate age for tailored advertising is determined by the country you are in and what rules apply to tailored advertising in that country. You will not receive Tailored Ads unless you have reached the appropriate age.
+* You will not be able to 'opt-in' to Tailored Ads if you are under the appropriate age.
+* You will start to receive Tailored Ads once you reach the appropriate age for your country. When this happens, you will receive a message within the Spotify Service to let you know. This message will contain a link to the [Privacy Settings](https://www.spotify.com/account/privacy/) where you can change your preferences or 'opt-out' of Tailored Ads at any time.
+
 [**3\. Personal data we collect about you**](#3-personal-data-we-collect-about-you)
 -----------------------------------------------------------------------------------
 
@@ -192,7 +200,7 @@ You or another user can share certain information on third party services, like 
 
 * your profile
 * any content you post on Spotify and details about that content
-* your public playlists
+* your playlists and any associated titles, descriptions and images
 
 When this sharing occurs, the third party service may store a copy of it to support their features.
 
@@ -237,37 +245,21 @@ We keep your personal data only as long as necessary to provide you with the Spo
 * complying with our legal obligations
 * resolving disputes
 
-Here are some of the categories of our retention periods:
+Here are some of the categories of our retention periods, and the criteria we use to determine them:
 
-* \*_Data retained until you remove it_
+* **Data retained until you remove it**  
+    It's your right to request that we delete certain of your personal data. See the section on 'Deletion' in [Section 2 'Your personal data rights and controls'](#2-your-personal-data-rights-and-controls) for more information, and the circumstances in which we can act on your request.  
+    You can also delete certain personal data directly from the Spotify Service: for example, you can edit or delete your profile picture. Where users are able to see and update the personal data themselves, we keep the information for as long as the user chooses unless one of the limited purposes described below applies.
+* **Data that expires after a specific period of time**  
+    We have set certain retention periods so that some data expires after a specific period of time. For example, personal data you may input as part of search queries is generally deleted after 90 days.
+* **Data retained until your Spotify account is deleted**  
+    We keep some data until your Spotify account is deleted. Examples of this include your Spotify username and profile information. We also typically keep streaming history for the life of an account, for example, to provide retrospective playlists that users enjoy and personalized recommendations that take listening habits into account (for example, Your Time Capsule or Your Summer Rewind). When your Spotify account is deleted, this category of data is deleted or de-identified.
+* **Data retained for extended time periods for limited purposes**  
+    After your account is deleted, we keep some data for a longer time period but for very limited purposes. For example, we may be subject to legal or contractual obligations that require this. These may include mandatory data retention laws, government orders to preserve data relevant to an investigation, or data kept for the purposes of litigation. We may also keep data that has been removed from the Spotify Service for a limited period of time. This could be:
+    * to help ensure user safety, or
+    * to protect against harmful content on our platform.
 
-It's your right to request that we delete certain of your personal data. See the section on 'Deletion' in [Section 2 'Your personal data rights and controls'](#2-your-personal-data-rights-and-controls) for more information.
-
-* \*_Data that expires after a specific period of time_
-
-We have set certain retention periods so that some data expires after a specific period of time.
-
-* \*_Data retained until your Spotify account is deleted_
-
-We keep some data until your Spotify account is deleted. When your Spotify account is deleted, your data is deleted or anonymized.
-
-* \*_Data retained for extended time periods for limited purposes_
-
-After your account is deleted, we keep some data for a longer time period but for very limited purposes.
-
-Criteria used to determine the retention periods include:
-
-* **What is the appropriate retention period to carry out our purpose?** Our systems are designed to automatically 'age out' data based on a defined retention period. We choose the retention period based on its legitimate business purpose.
-* **Do we need to keep data to ensure the service that users expect?** We keep personal data for an appropriate period to deliver a personalized service to our users over time. We typically keep streaming history for the life of an account, for example, to provide retrospective playlists that users enjoy and personalized recommendations that take listening habits into account. For example, Your Summer Rewind and the end-of-year Wrapped campaign.
-* **Are users able to update or delete the data themselves?** Where users are able to see and update the personal data themselves, we keep the information for as long as the user chooses.
-* **Do we need to keep the data to uphold our rules and keep our service safe?** We may keep data that has been removed from the Spotify Service for a limited period of time. This is:
-    * to help ensure user safety
-    * to protect against harmful content on our platform
-    * to take action with reports of intellectual property infringement
-
-This also helps us investigate potential breaches of our [User Guidelines](https://www.spotify.com/legal/user-guidelines/) and [Platform Rules](https://www.spotify.com/platform-rules/).
-
-* Is Spotify subject to a legal or contractual obligation to keep or delete the data? Examples include mandatory data retention laws, government orders to preserve data relevant to an investigation or data kept for the purposes of litigation. Conversely, we will remove unlawful content if the law requires us to do so.
+This helps us investigate potential breaches of our [User Guidelines](https://www.spotify.com/legal/user-guidelines/) and [Platform Rules](https://www.spotify.com/platform-rules/). On the other hand, we will remove unlawful content if the law requires us to do so.
 
 [**7\. Transfer to other countries**](#7-transfer-to-other-countries)
 ---------------------------------------------------------------------
