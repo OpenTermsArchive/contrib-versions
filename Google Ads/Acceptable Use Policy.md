@@ -453,6 +453,7 @@ Publishers must also comply with applicable sanctions and export regulations, wh
 [](https://support.google.com/adsense/answer/1282103?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/10437795?hl=en&ref_topic=1250104)
 
 Was this helpful?
+-----------------
 
 How can we improve it?
 
