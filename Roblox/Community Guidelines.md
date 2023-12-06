@@ -84,7 +84,7 @@ Threatening others with real-world or online harm, inciting violence against peo
 
 Suicide, Self Injury, and Harmful Behavior
 
-At Roblox, we take our users’ well-being very seriously. We’re here to help provide resources for those struggling with mental health, and we reserve the right to communicate with authorities regarding credible threats of self-harm. We don’t allow content or behavior that depicts, glorifies, or encourages suicide, self-injury, or real-world activities that may create an extreme risk of physical harm including:
+At Roblox, we take our users’ well-being very seriously. We’re here to help provide resources for those struggling with mental health, and we reserve the right to communicate with authorities regarding credible threats of self-harm. We do not allow content or behavior that depicts, glorifies, or encourages suicide, self-injury, or real-world activities that may create an extreme risk of physical harm including:
 
 * Describing methods for suicide or self-harm
 * Content that glorifies, supports, or depicts instances or methods of suicide or self-harm
@@ -95,7 +95,7 @@ If you or a loved one are having thoughts of suicide or self-harm, there is help
 
 Discrimination, Slurs, and Hate Speech
 
-Roblox honors and welcomes users of all ages, backgrounds, and identities. We don't allow content or behavior that supports, glorifies, or promotes hate groups, their ideologies, or actions. You also may not discriminate, mock, or promote hatred against individuals or groups, or encourage others to do so directly or indirectly, on the basis of their:
+Roblox honors and welcomes users of all ages, backgrounds, and identities. We do not allow content or behavior that supports, glorifies, or promotes hate groups, their ideologies, or actions. You also may not discriminate, mock, or promote hatred against individuals or groups, or encourage others to do so directly or indirectly, on the basis of their:
 
 * Age
 * Race, perceived race, or ethnicity
@@ -132,7 +132,7 @@ Roblox prohibits content that recreates specific real-world sensitive events; mo
 
 Violent Content and Gore
 
-Although some experiences on Roblox may include weapons and violence, we don’t allow content that contains extreme violence or serious physical or psychological abuse, including:
+Although some experiences on Roblox may include weapons and violence, we do not allow content that contains extreme violence or serious physical or psychological abuse, including:
 
 * Animal abuse and torture
 * Realistic or real-world depictions of extreme gore, graphic violence, or death
@@ -176,10 +176,12 @@ For 17+ experiences, please see [Roblox’s 17+ Policy Standards](https://en.hel
 
 Profanity
 
-To keep Roblox safe and civil for everyone, we don’t allow swearing in any language text, images, or uploaded audio, including:
+To keep Roblox safe and civil for everyone, we do not allow swearing in any language text, images, or uploaded audio, including:
 
 * Using misspellings, special characters, or other methods to evade detection of profanity
 * Quoting or using audio containing profane lyrics
+
+For 17+ experiences, please see [Roblox’s 17+ Policy Standards](https://en.help.roblox.com/hc/articles/15869919570708).
 
 Political Content
 
@@ -200,7 +202,7 @@ We want Robloxians to trust each other to play fairly and honestly, and to respe
 
 Cheating and Scams
 
-We don’t permit users to deploy or discuss deceptive schemes or methods of cheating on our platform, including:
+We do not permit users to deploy or discuss deceptive schemes or methods of cheating on our platform, including:
 
 * Using exploits to gain an unfair advantage anywhere on the platform
 * Sharing exploits with others or encouraging others to cheat
@@ -259,7 +261,7 @@ Roblox maintains the Robux system for everyone’s benefit and enjoyment. To kee
 
 Promotional Offers Developers may not use off-platform services or products to sell on-platform items (including exclusive features or other in-experience enhancements) for money or Robux, either directly or as a bundle, unless expressly authorized by or in partnership with Roblox. Find more details on acceptable promo codes [here](https://en.help.roblox.com/hc/articles/10549651908244).
 
-Soliciting Donations We also don’t allow our community to solicit donations for a charitable cause on Roblox, including:
+Soliciting Donations We also do not allow our community to solicit donations for a charitable cause on Roblox, including:
 
 * In-experience prompts for users to donate Robux toward a crowdfunding campaign
 * Claiming that a transaction is associated with a fundraiser
@@ -330,13 +332,14 @@ Disruptive Content and Behavior
 
 For more information about creating Avatar Bodies that comply with these policies, including requirements for clothing and accessories, please review the guidelines [here](https://create.roblox.com/docs/art/marketplace/marketplace-policy).
 
-Last Updated: October 3, 2023
+Last Updated: December 5, 2023
 
 Change Log
 
 |     |     |
 | --- | --- |
 | **Announcement Date** | **Change Summary** |
+| December 5, 2023 | Added a link to the detailed 17+ Policy Standards to the Profanity policy.<br><br>Added a Strong Language section to allow Verified 17+ creators to create 17+ experiences containing vulgar or obscene language and allow it in user communications. |
 | October 3, 2023 | Added a link to the detailed 17+ Policy Standards to the Violent Content and Gore, Romantic and Sexual Content, and Illegal and Regulated Goods and Activities policies.<br><br>Updated the section for Misusing Roblox Systems to clarify rules on creating or using an account to evade enforcement actions.<br><br>Updated the section for Illegal and Regulated Goods and Activities with clarified language around alcohol and controlled substances.<br><br>Added clarifying language to Threats, Bullying, and Harassment.<br><br>Effective October 3, 2023 |
 | August 16, 2023 | Updated the following Community Standards<br><br>* Romantic and Sexual Content<br>    * Added link to Avatar Bodies feature requirements for modesty layers<br>    * Clarified language around prohibiting sexually suggestive avatar bodies in addition to clothing items<br>* Misusing Roblox Systems<br>    * Added link to Avatar Bodies feature requirements for clothing and accessories<br><br>Effective August 16, 2023 |
 | August 1, 2023 | Updated the section for Sharing Personal Information, including:<br><br>* Clarified language for unique identifiers<br>* Added examples of prohibited content<br><br>Effective August 1, 2023 |
