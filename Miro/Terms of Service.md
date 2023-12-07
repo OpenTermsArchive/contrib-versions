@@ -2,10 +2,10 @@
     -------
     
     * [Product Overview](https://miro.com/product-overview/)
-    * [Visual Project Management](https://miro.com/how-project-managers-use-miro/)
+    * [Visual Project Management](https://miro.com/visual-project-management/)
     * [Diagramming & Process Mapping](https://miro.com/diagramming/)
     * [Product Development Workflows](https://miro.com/product-development/)
-    * [Content & Data Visualization](https://miro.com/team-workspace/)
+    * [Content & Data Visualization](https://miro.com/content-data-visualization/)
     
     * [Workshops & Async Collaboration](https://miro.com/workshops-async-collaboration/)
     * [Artificial Intelligence](https://miro.com/assist/)
