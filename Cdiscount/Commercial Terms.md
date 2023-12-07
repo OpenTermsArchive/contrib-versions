@@ -614,7 +614,7 @@ Le montant des frais de retour est calculé en fonction de la typologie du produ
 | Meuble | **Entre 50€ et 70€** |
 | Réfrigérateur | **Entre 60€ et 90€** |
 | Réfrigérateur américain | **Entre 80€ et 100€** |
-| Sèche-Linge | **Entre 55' et 70€** |
+| Sèche-Linge | **Entre 55€ et 70€** |
 | Salon de jardin (petit) | **Entre 60€ et 80€** |
 | Salon de jardin (grand) | **Entre 75€ et 100€** |
 | Lit bébé combiné | **Entre 50€ et 70€** |
