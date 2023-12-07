@@ -1,8 +1,8 @@
 Google Play Developer Distribution Agreement
 ============================================
 
-Effective as of August 29, 2023 ([view archived version](https://play.google/developer-distribution-agreement/archive.html))
-----------------------------------------------------------------------------------------------------------------------------
+Effective as of August 29, 2023 ([view archived version](https://play.google.com/about/developer-distribution-agreement/archive.html))
+--------------------------------------------------------------------------------------------------------------------------------------
 
 1\. Definitions
 ---------------
