@@ -317,7 +317,7 @@ Postal address: 1st Floor, 6 Lapps Quay, Cork, Ireland
 10\. DATA LOCATIONS.
 --------------------
 
-We want you to be able to access Badoo wherever you happen to be in the world. To enable us to provide that service, we operate a global network of servers including in the US, UK, EU, and (for Users located in Russia) Russia. The hardware is located in third-party data centres but is owned by the Badoo Group. Data collected by Advertising Partners and other Service Providers may also be held outside the UK and the European Economic Area. We ensure that the data is adequately protected by ensuring that valid, legal mechanisms are in place such as: EU approved model clauses (which can be found [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)), and implementing robust contractual standards. If you want more information relating to the nature of the safeguards we have in place, please email DPO@badoo.com.
+We want you to be able to access Badoo wherever you happen to be in the world. To enable us to provide that service, we operate a global network of servers including in the US, UK, EU, and (for Users located in Russia) Russia. The hardware is located in third-party data centres but is owned by the Badoo Group. Data collected by Advertising Partners and other Service Providers may also be held outside the UK and the European Economic Area. We ensure that the data is adequately protected by ensuring that valid, legal mechanisms are in place such as: EU approved model clauses (which can be found [here](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en)), and implementing robust contractual standards. If you want more information relating to the nature of the safeguards we have in place, please email DPO@badoo.com.
 
 11\. DATA RETENTION AND DELETION.
 ---------------------------------
@@ -340,4 +340,4 @@ Thanks for reading, we hope we didn’t drone on for too long!
 
 As Badoo evolves, we may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at https://badoo.com/privacy/. If we make a change to this policy that, in our sole discretion, is material, we will notify you, for example, via an email to the email associated with your Account or by posting a notice within Badoo.
 
-**Effective date.** This Privacy Policy was last updated on 14 July 2023.
+**Effective date.** This Privacy Policy was last updated on 7 December 2023.
