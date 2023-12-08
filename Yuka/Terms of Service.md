@@ -3,12 +3,12 @@ Terms & Conditions
 
 ![Benoit](https://files.helpdocs.io/n0njida9x8/other/1574088362284/03-mg-1925-1.jpg)
 
-Updated 2023-12-04T08:33:03Z by Benoit
+Updated 2023-12-07T19:18:52Z by Benoit
 
 There are two versions of Yuka's Terms & Conditions, depending on the country of residence of the User :
 
-* The Terms and Conditions for Users **in the US, Canada and Australia** zone are accessible [here](https://help.yuka.io/l/en/article/qcdty8rmrv/preview).
-* The Terms and Conditions for Users **in the EU and UK** are accessible [here](https://help.yuka.io/l/en/article/nui6tegnjw/preview).
+* The Terms and Conditions for Users **in the US, Canada and Australia** zone are accessible [here](https://help.yuka.io/l/en/article/qcdty8rmrv/).
+* The Terms and Conditions for Users **in the EU and UK** are accessible [here](https://help.yuka.io/l/en/article/nui6tegnjw/).
 
 * * *
 
@@ -31,4 +31,4 @@ How do I contact the team ? ✉️
 
 ![Benoit](https://files.helpdocs.io/n0njida9x8/other/1574088362284/03-mg-1925-1.jpg)
 
-Updated 2023-12-04T08:33:03Z by Benoit
+Updated 2023-12-07T19:18:52Z by Benoit
