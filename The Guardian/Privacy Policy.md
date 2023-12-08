@@ -1,7 +1,7 @@
 Privacy policy
 ==============
 
-Fri 19 Aug 2022 09.24 BST
+Fri 8 Dec 2023 09.56 GMT
 
 1\. Introduction
 ----------------
@@ -306,8 +306,12 @@ _Service providers_ - We may share your data with other organisations that provi
     
 * YouTube because we use their unbranded embedded player to provide video content on our websites and apps. The embedded player relies on the YouTube API, which is a type of software that allows data to be communicated between our website and apps and the YouTube player. This will include personal data which will also be collected by cookies as set out in our [cookie policy](https://www.theguardian.com/info/cookies). We will provide this data about how you interact with videos to enable YouTube to provide statistical information such as how many views a video has, or how many users watch the entire video. More information about how YouTube will use this personal data, which includes usage data when you interact or use the embedded YouTube player, can be found at the Google Privacy Policy: [http://www.google.com/policies/privacy](http://www.google.com/policies/privacy).
     
+* Skimlinks because they are an affiliate marketing service provider. We do not drop first or third party cookies, or otherwise access local storage through our affiliate links. Instead we use a type of link that redirects users into Skimlinks’ network. This means we are tracking and identifying the click, rather than individuals. Skimlinks will use IP addresses to direct readers to the geographically relevant affiliate link. The IP address and user agent are anonymised and truncated by Skimlinks. Third party sites including retailers and sites in Skimlinks’ network may place cookies or collect additional information. Details about Skimlinks use of data is set out in their privacy policy at [https://skimlinks.com/privacy-policy](https://skimlinks.com/privacy-policy).
+    
 
 _Advertising partners_ - We may also share your data collected through our websites and apps with our advertising partners, as set out in our [cookie policy](https://www.theguardian.com/info/cookies). These partners help us deliver relevant advertising across our websites and apps. For example, we use Google Ad Manager to assist us with the delivery of relevant ads.
+
+_Affiliate marketing_ - When a product is linked from a Guardian article or gallery, if the retailer has an affiliate programme, then the link will redirect to the retailer website through our affiliate marketing partner, such as Skimlinks’ network. When a reader clicks on a link, Skimlinks will identify which page the click came from and assign it a randomly generated number. This is communicated to the retailer and associated with any subsequent purchase. The affiliate marketing partner, such as Skimlinks, then reconciles the list of clicks from links on the Guardian with purchases on the retailer’s site. This is used in order to calculate the commission for the Guardian.
 
 _Agencies and authorities if required by law_ - We may reveal your personal data to any law enforcement agency, court, regulator, government authority, or in connection with any legal action if we are required to do so to meet a legal or regulatory obligation, where the request is proportionate, or otherwise to protect our rights or the rights of anyone else (for example, in response to a valid and properly served legal process such as subpoena or warrant). If we have your contact details, we will take reasonable steps to attempt to notify you prior to disclosing your data unless (i) prohibited by applicable law from doing so, or (ii) there are clear indications of unlawful conduct in connection with your use of Guardian services.
 
@@ -485,6 +489,8 @@ _Changes to this privacy policy to date_
 
 The most recent changes to this privacy policy were made on:
 
+* 8 December 2023
+    
 * 13 July 2023
     
 * 19 August 2022
