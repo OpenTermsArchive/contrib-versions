@@ -3,12 +3,9 @@
 Wikimedia Foundation Terms of Use
 =================================
 
- 2 languages
+ Add languages
 
-* [English](https://en.wikipedia.org/wiki/Wikipedia:Terms_of_use "Wikipedia:Terms of use – English")
-* [中文](https://zh.wikipedia.org/wiki/Wikipedia:%E4%BD%BF%E7%94%A8%E6%9D%A1%E6%AC%BE "Wikipedia:使用条款 – Chinese")
-
-[Edit links](https://www.wikidata.org/wiki/Special:EntityPage/Q118719909#sitelinks-wikipedia "Edit interlanguage links")
+[Add links](https://www.wikidata.org/wiki/Special:NewItem?site=foundationwiki&page=Policy%3ATerms+of+Use "Add interlanguage links")
 
 * [Policy](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use "View the subject page [c]")
 * [Discussion](https://foundation.wikimedia.org/wiki/Policy_talk:Terms_of_Use "Discussion about the content page [t]")
@@ -40,18 +37,12 @@ General
 * [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=304910 "Permanent link to this revision of this page")
 * [Page information](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=info "More information about this page")
 * [Get shortened URL](https://foundation.wikimedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
-* [Wikidata item](https://www.wikidata.org/wiki/Special:EntityPage/Q118719909 "Link to connected data repository item [g]")
 
 Print/export
 
 * [Create a book](https://foundation.wikimedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Policy%3ATerms+of+Use)
 * [Download as PDF](https://foundation.wikimedia.org/w/index.php?title=Special:DownloadAsPdf&page=Policy%3ATerms_of_Use&action=show-download-screen)
 * [Printable version](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&printable=yes "Printable version of this page [p]")
-
-In other projects
-
-* [Meta-Wiki](https://meta.wikimedia.org/wiki/Terms_of_use)
-* [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Terms_of_use)
 
 From Wikimedia Foundation Governance Wiki
 
