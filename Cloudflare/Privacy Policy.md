@@ -450,28 +450,27 @@ Legal
 
 * * *
 
-* [Website Terms of Use](https://www.cloudflare.com/website-terms/)
-    
-* [Self-Serve Subscription Agreement](https://www.cloudflare.com/terms/)
-    
-* [Service-Specific Terms](https://www.cloudflare.com/service-specific-terms-overview/)
-    
-* [Privacy Policy](https://www.cloudflare.com/privacypolicy/)
-    
-* [Cookie Policy](https://www.cloudflare.com/cookie-policy/)
-    
-* [Trust & Safety](https://www.cloudflare.com/abuse/)
-    
-* [Transparency Report](https://www.cloudflare.com/transparency/)
-    
-* [Domain Registration Agreement](https://www.cloudflare.com/domain-registration-agreement/)
-    
-* [Modern Slavery Act Statement](https://www.cloudflare.com/modern-slavery-act-statement/)
-    
-* [Third Party Code of Conduct](https://cf-assets.www.cloudflare.com/slt3lc6tev37/284hiWkCYNc49GQpAeBvGN/e137cdac96d1c4cd403c6b525831d284/Third_Party_Code_of_Conduct.pdf)
-    
-* [Candidate Privacy Policy](https://www.cloudflare.com/candidate-privacy-notice/)
-    
+[Website Terms of Use](https://www.cloudflare.com/website-terms/)
+
+[Self-Serve Subscription Agreement](https://www.cloudflare.com/terms/)
+
+[Service-Specific Terms](https://www.cloudflare.com/service-specific-terms-overview/)
+
+[Privacy Policy](https://www.cloudflare.com/privacypolicy/)
+
+[Cookie Policy](https://www.cloudflare.com/cookie-policy/)
+
+[Trust & Safety](https://www.cloudflare.com/abuse/)
+
+[Transparency Report](https://www.cloudflare.com/transparency/)
+
+[Domain Registration Agreement](https://www.cloudflare.com/domain-registration-agreement/)
+
+[Modern Slavery Act Statement](https://www.cloudflare.com/modern-slavery-act-statement/)
+
+[Third Party Code of Conduct](https://cf-assets.www.cloudflare.com/slt3lc6tev37/284hiWkCYNc49GQpAeBvGN/e137cdac96d1c4cd403c6b525831d284/Third_Party_Code_of_Conduct.pdf)
+
+[Candidate Privacy Policy](https://www.cloudflare.com/candidate-privacy-notice/)
 
 ### Have Questions?
 
