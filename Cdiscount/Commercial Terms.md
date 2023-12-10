@@ -130,7 +130,7 @@ _Article 2 : INFORMATION SUR LES PRIX_
 
 **2.1 Prix des produits et des services**  
   
-Le prix des produits et des services (hors frais de livraison) est celui indiqué sur la fiche produit correspondante, accessible sur le Site. Cdiscount se réserve le droit de modifier le prix de ses produits et services é tout moment, dans le respect de la législation applicable. Les produits ou services que vous commandez vous seront facturés sur la base du prix en vigueur sur le Site au moment de la validation de votre commande.  
+Le prix des produits et des services (hors frais de livraison) est celui indiqué sur la fiche produit correspondante, accessible sur le Site. Cdiscount se réserve le droit de modifier le prix de ses produits et services à tout moment, dans le respect de la législation applicable. Les produits ou services que vous commandez vous seront facturés sur la base du prix en vigueur sur le Site au moment de la validation de votre commande.  
   
 Cdiscount ne procédant pas à la réservation de stock (sauf cas particulier de produits signalés en "pré-commande" sur la fiche produit), la mise au panier d'un produit ou d'un service ne permet pas de garantir la disponibilité dudit produit ou service ainsi que son prix.  
   
