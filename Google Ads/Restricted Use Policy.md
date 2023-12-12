@@ -190,6 +190,10 @@ We will provide you with information on our decision for any policy violation en
 > > 
 > > Advertisers may not run personalized ads on content set as [made for kids](https://support.google.com/youtube/answer/9528076). [See here](https://support.google.com/adspolicy/answer/9683742) for categories restricted for advertising on made for kids content.
 > 
+> ### Ad-serving protections for children and teens
+> 
+> > It’s important that our advertising experience on Google products is useful, informative, and above all, safe for all our users, and that includes children and teens, too. Google’s [child ads policy](https://composer.connect.corp.google.com/#/composer/web/14170968) and [teen ads policy](https://support.google.com/adspolicy/answer/12205906) implement safeguards to help protect users under age 18, including disabling ads personalization and restricting sensitive ad categories.
+> 
 > ### Limited ad serving
 > 
 > > ![This illustration represents Google Ads' limited ad serving policy.](//storage.googleapis.com/support-kms-prod/jquKxFezP73Z8l5bDrgwV3IZSo0CbAFX0pHm)
