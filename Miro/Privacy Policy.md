@@ -17,9 +17,9 @@
     
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        ![](https://images.ctfassets.net/w6r2i5d8q73s/4EeqiJ0Yiho3Ompmbbe0Xm/12b5b829b54e09cad0bb13dd8bccb9d5/Reclaim_your_time_with_Talktrack.png)
+        ![](https://images.ctfassets.net/w6r2i5d8q73s/CKhiCgj9RX0CWyB1CVuU2/c946d50cb6a5442914ec5ef29c1e0c28/miro-creators_illustration-02_EN_standard_1_1_2x.png)
         
-        Record a Talktrack](https://miro.com/talktrack/)
+        Explore our 2023 releases](https://miro.com/blog/2023-in-review/)
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
         ![](https://images.ctfassets.net/w6r2i5d8q73s/1JVD1MjU9YKgxGTQzgNbp1/0eecfbd4af3cf1556691eb581f9fe757/Flex_your_flexibility_with_Planner.png)
