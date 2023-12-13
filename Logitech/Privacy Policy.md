@@ -1,4 +1,4 @@
-**Last updated:** July 2023
+**Last updated:** November 2023
 
 This privacy notice explains how Logitech collects and uses personal data from visitors to its web and mobile sites that link directly to this notice (collectively “Sites”). Your personal data is controlled by Logitech Europe S.A. (collectively “Logitech”, ''We” and “Us”).
 
@@ -17,7 +17,7 @@ We do not currently respond to “Do Not Track” signals in browsers as we are 
 Cookies
 -------
 
-Logitech uses cookies that are essentially small data files placed on your computer, tablet, mobile phone, or other devices. Click [here](https://www.logitech.com/legal/cookie-policy.html) to learn more about cookies.
+Logitech uses cookies that are essentially small data files placed on your computer, tablet, mobile phone, or other devices. Click [here](https://www.logitech.com/en-gb/legal/cookie-policy.html) to learn more about cookies.
 
 Data use and sharing
 --------------------
@@ -48,7 +48,7 @@ These companies are required to abide by our data protection and security requir
 
 We may disclose your personal information to
 
-1. comply with relevant laws, regulatory requirements, and to respond to lawful requests, court orders, and legal process;
+1. comply with relevant laws, regulatory requirements, and to respond to lawful requests, including to meet national security requirements, court orders, and legal process;
 2. to protect and defend the rights or property of us or third parties, including enforcing agreements, policies, and terms of use;
 3. in an emergency, including to protect the safety of our employees or any person; or
 4. in connection with investigating or preventing fraud.
@@ -79,7 +79,7 @@ Controlling and accessing your information
 
 You may request that we update or delete/deactivate certain information pertaining to you.
 
-If we cannot remove some personal information, we will let you know why. If you have subscribed to marketing emails, you may stop the delivery by following the unsubscribe instructions contained in the email received or at the subscription management page on our Site: [https://www.logitech.com/subscribe](https://www.logitech.com/footer/subscription-management).
+If we cannot remove some personal information, we will let you know why. If you have subscribed to marketing emails, you may stop the delivery by following the unsubscribe instructions contained in the email received or at the [subscription management page](https://www.logitech.com/en-gb/my-account/email-preferences.html) on our Site.
 
 You also have the right to request how your data is processed and with whom we share it.
 
@@ -95,25 +95,27 @@ If you have questions, comments, or would like to make a request regarding your 
 
 If you are not satisfied with our response, you can refer your privacy complaint or dispute to the relevant state or national data protection authority in your jurisdiction.
 
-Special information for EU, UK and Swiss users
-----------------------------------------------
+Special information for EEA, UK and Swiss users
+-----------------------------------------------
 
-From May 25, 2018, the processing of personal data of individuals in the European Union is subject to the [EU General Data Protection Regulation (“GDPR”)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG&toc=OJ:L:2016:119:TOC). This section provides information relating to EU users' rights and Logitech’s obligations under the GDPR. Personal data processed through the use of our Sites is controlled by Logitech Inc, 3930 North First Street, San Jose, CA 95134 USA. The European Representative is Logitech Ireland Services Limited, City Gate Plaza Two, Mahon, Cork, Ireland.
+This section provides information for users in the European Economic Area (EEA), the United Kingdom (UK) and Switzerland (CH) whose personal data is processed through the use of our Sites by Logitech in the EEA, the UK or Switzerland.
 
 Read more
 
-##### Legal basis for processing
+The information you provide may be transferred or accessed by Logitech entities around the world as described in this policy.
 
-Logitech processes personal data relating to EU customers on one or more of the lawful bases specified in the GDPR.
+##### Legal bases for processing
+
+Logitech processes personal data for one or more of the lawful bases specified below:
 
 1. **The processing is necessary for entering into or performing a contract with you.**  
     We need to process personal data relating to you in order to activate and register products, ensure products and services you use are working as they should, maintain and improve products, answer to questions and requests from you, and provide customer support.
 2. **The processing is necessary for Logitech’s legitimate interests.**  
     We process usage data to support website functionality, detect and prevent fraud; to protect and defend the rights or property of other customers or third parties, or our own rights and interests. We consider your rights and freedoms when doing so and de-identify personal data to the largest extent practicable. We may also process your personal data to meet regulatory requirements, and to respond to lawful requests, court orders, and legal processes.
 3. **The processing is necessary to meet Logitech’s legal obligations.**  
-    We may need to process your personal data to comply with relevant EU or Member State laws.
+    We may need to process your personal data to comply with relevant EU law, EU Member State laws, UK law and Swiss law, regulatory requirements, and respond to lawful requests, court orders, and legal process.
 4. **Consent**  
-    Logitech processes some personal data based on consent. We often do this for our direct marketing communications. You can unsubscribe at any time by following the instructions here [https://www.logitech.com/subscribe](https://www.logitech.com/footer/subscription-management).
+    Logitech processes some personal data based on consent. We often do this for our direct marketing communications. You can unsubscribe at any time by following the instructions [here](https://www.logitech.com/en-gb/my-account/email-preferences.html).
 
 ##### Your rights and choices
 
@@ -151,19 +153,47 @@ If you are a Logitech customer within the EU, you have the rights described belo
     21 Fitzwilliam Square, Dublin 2  
     D02 RD28, Ireland  
     Phone: +353 57 8684800, +353 (0)761 104 800
-* Where processing is based on consent, you have a right to withdraw consent at any time. Use of our Sites and our products as described in Logitech Privacy Statements is voluntary.
 
-To invoke any of these rights, please fill out the form [here](https://support.logitech.com/response-center). You may also contact us via phone, email, or postal mail by using the contact information below:
+Where processing is based on consent, you have a right to withdraw consent at any time. Use of our Sites and our products as described in Logitech Privacy Statements is voluntary.
 
-**Phone:** + 1-510 713 5556  
+In compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF), Logitech commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU and UK and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF should first contact Logitech.
+
+To invoke any of these rights and resolve enquiries or complaints, please fill out the form [here](https://support.logitech.com/response-center). You may also contact us via phone, email, or postal mail by using the contact information below:
+
+**Phone:** + 1-646-454-3200  
 **Email:** [privacy@logitech.com](mailto:privacy@logitech.com)  
 **Postal Mail:** Logitech Privacy Office EMEA, Logitech Ireland Services Limited, City Gate Plaza Two, Mahon, Cork, Ireland
 
-**German users only:** If you are a German user, you may contact Logitech’s Data Protection officer with any questions or concerns by emailing: [email@iitr.de](mailto:email@iitr.de).
+**Data Protection Officer (DPO):** You may contact our DPO by emailing [dpo@logitech.com](mailto:dpo@logitech.com).
+
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Logitech commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Gibraltar Regulatory Authority (GRA) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF.
+
+You have the possibility, under certain conditions, to invoke binding arbitration for complaints regarding DPF compliance not resolved by any of the other DPF mechanisms. For additional information, please visit [https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2)
 
 ##### International transfers
 
-We will only transfer your personal data from the European Economic Area (EEA) to countries outside the EEA, on the basis of appropriate safeguards. When Logitech transfers data internationally we rely on i) Adequacy Decisions as adopted by the European Commission on the basis of Article 45 of Regulation (EU) 2016/679 (GDPR), or ii) Standard Contractual Clauses as issued by the European Commission. These agreements are available upon request to [privacy@logitech.com](mailto:privacy@logitech.com).
+We will only transfer your personal data from the EEA, the UK and CH to countries outside these, on the basis of appropriate safeguards. When Logitech transfers data internationally we rely on i) Adequacy Decisions as adopted by the European Commission on the basis of Article 45 of Regulation (EU) 2016/679 (GDPR and UK GDPR), ii) Standard Contractual Clauses as issued by the European Commission, these agreements are available upon request to [privacy@logitech.com](mailto:privacy@logitech.com).
+
+Logitech and its U.S. affiliates and subsidiaries (Logitech) has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Logitech has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/)
+
+[See below the list of Logitech U.S. affiliates and subsidiaries also adhering to the EU-U.S. DPF Principles and Swiss-U.S. DPF Principles:](https://www.dataprivacyframework.gov/)
+
+1. Baltic Latvian Universal Electronics, LLC
+2. Blue Microphones Holding Corporation
+3. General Workings Inc.
+4. Logitech (Slim Devices) Inc. (Fka Spotlife Inc.)
+5. Logitech (Streaming Media) Inc. (Fka. Logitech (Slim Devices) Inc.
+6. Logitech Inc.
+7. Logitech Latin America Inc.
+8. Meetio Inc.
+9. Mevo Inc.
+10. Streamlabs LLC
+11. UE Acquisition Inc.
+12. Ultimate Ears Incorporated
+
+Logitech has responsibility for the processing of personal information it receives under the DPF Principles and subsequently transfers to a third party acting as an agent on its behalf. Logitech shall remain liable under the DPF Principles if its agent processes such personal information in a manner inconsistent with the DPF Principles, unless Logitech proves that it is not responsible for the event giving rise to the damage.
+
+The Federal Trade Commission (FTC) has jurisdiction over Logitech’s compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF.
 
 Change to this Statement
 ------------------------
