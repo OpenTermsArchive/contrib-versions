@@ -423,4 +423,4 @@ To submit an inquiry, click  [here](https://www.ning.com/ning3help/contact-us/)
 
 NING Interactive, Inc.
 
-1906 El Camino Real, Menlo Park, CA 94027
+2850 HORIZON RIDGE PKWY, Suite 200, HENDERSON, NV 89052
