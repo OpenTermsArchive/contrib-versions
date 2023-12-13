@@ -168,7 +168,7 @@ We may occasionally update this Privacy Policy. If we do, we will update the “
 If you have questions about this Privacy Policy, you may contact us at [privacyinfo \[at\] ning \[dot\] com](mailto:privacyinfo@ning.com). You may also write to us at:
 
 NING Interactive, Inc.  
-1906 El Camino Real  
-Menlo Park, CA 94027
+2850 HORIZON RIDGE PKWY, Suite 200  
+HENDERSON, NV 89052
 
 Attn: Privacy Matters
