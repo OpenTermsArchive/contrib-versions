@@ -103,7 +103,7 @@ When using or accessing the Services, you must comply with these Terms and all a
 * Use the Services in any manner that we reasonably believe to be an abuse of or fraud on Reddit or any payment system.
     
 
-We encourage you to [report](https://reddit.zendesk.com/hc/en-us/requests/new) content or conduct that you believe violates these Terms or our [Content Policy](https://www.redditinc.com/policies/content-policy). We also support the responsible reporting of security vulnerabilities. To report a security issue, please email [security@reddit.com](mailto:security@reddit.com).
+We encourage you to [report](https://support.reddithelp.com/hc/en-us/sections/360008810132-Reporting) content or conduct that you believe violates these Terms or our [Content Policy](https://www.redditinc.com/policies/content-policy). We also support the responsible reporting of security vulnerabilities. To report a security issue, please email [security@reddit.com](mailto:security@reddit.com).
 
 ### 8\. Moderators
 
@@ -202,7 +202,7 @@ These Terms, together with the [Privacy Policy](https://www.reddit.com/policies/
 
 Headings are used in these Terms for reference only and will not be considered when interpreting them. For purposes of these Terms: (a) the words “include,” “includes,” and “including” will be deemed to be followed by the words “without limitation;” (b) the words “such as,” “for example,” “e.g.,” and any derivatives of those words will mean by way of example and the items that follow these words will not be deemed an exhaustive list; and (c) the word “or” is used in the inclusive sense of “and/or” and the terms “or,” “any,” and “either” are not exclusive. No ambiguity will be construed against any party based on a claim that the party drafted the language.  
   
-These Terms are a legally-binding agreement between you and Reddit, Inc. If you have any questions about these Terms, please [contact us](https://www.reddithelp.com/hc/en-us/requests/new).  
+These Terms are a legally-binding agreement between you and Reddit, Inc. If you have any questions about these Terms, please [contact us](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=20794104097300).  
   
 Reddit, Inc.  
 303 2nd Street, Suite 500S  
@@ -302,7 +302,7 @@ When using or accessing Reddit, you must comply with these Terms and all applica
 * Use the Services in any manner that we reasonably believe to be an abuse of or fraud on Reddit or any payment system.
     
 
-We encourage you to [report](https://reddit.zendesk.com/hc/en-us/requests/new) content or conduct that you believe violates these Terms or our [Content Policy](https://www.redditinc.com/policies/content-policy). We also support the responsible reporting of security vulnerabilities. To report a security issue, please email [security@reddit.com](mailto:security@reddit.com).
+We encourage you to [report](https://support.reddithelp.com/hc/en-us/sections/360008810132-Reporting) content or conduct that you believe violates these Terms or our [Content Policy](https://www.redditinc.com/policies/content-policy). We also support the responsible reporting of security vulnerabilities. To report a security issue, please email [security@reddit.com](mailto:security@reddit.com).
 
 ### 8\. Moderators
 
@@ -390,7 +390,7 @@ These Terms, together with the [Privacy Policy](https://www.reddit.com/policies/
 
 Headings are used in these Terms for reference only and will not be considered when interpreting them. For purposes of these Terms: (a) the words “include,” “includes,” and “including” will be deemed to be followed by the words “without limitation;” (b) the words “such as,” “for example,” “e.g.,” and any derivatives of those words will mean by way of example and the items that follow these words will not be deemed an exhaustive list; and (c) the word “or” is used in the inclusive sense of “and/or” and the terms “or,” “any,” and “either” are not exclusive. No ambiguity will be construed against any party based on a claim that the party drafted the language.  
   
-These Terms are a legally-binding agreement between you and Reddit, Inc. If you have any questions about these Terms, please [contact us](https://www.reddithelp.com/hc/en-us/requests/new).
+These Terms are a legally-binding agreement between you and Reddit, Inc. If you have any questions about these Terms, please [contact us](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=20794104097300).
 
 ### 18\. Contact Details
 
