@@ -22,11 +22,13 @@ For the best results managing your Business Profile:
 Learn content guidelines for Business Profiles
 ----------------------------------------------
 
-Published content should highlight what makes your business unique.
+Published content should highlight what makes your business unique. For more information, go to the [overview of Google Business Profile policies](https://support.google.com/business/answer/13762416).
 
-As outlined in our [prohibited and restricted content policies](https://support.google.com/contributionpolicy/answer/7400114), we do not allow content, or solicitation of content, that contains private or confidential information such as personal financial information, government-issued IDs, contact information linked or associated with a name, sensitive records, images, transcripts or links that contain personal information. 
+As outlined in our [prohibited and restricted content policies](https://support.google.com/contributionpolicy/answer/7400114), we do not allow content or solicitation of content that contains private or confidential information such as personal financial information, government-issued IDs, contact information linked or associated with a name, sensitive records, images, transcripts or links that contain personal information.
 
-Merchants are permitted to post contact information (social media handles, email, phone number) for their own business on their own business profile or in response to reviews, Q&A, etc. However, we do not allow solicitation of personal or confidential information
+Merchants are permitted to post contact information (social media handles, email, phone number) for their own business on their own business profile or in response to reviews, Q&A, etc. However, we do not allow solicitation of personal or confidential information.
+
+**Tip:** If your profile edit or post is rejected, [Learn about the several reasons why submitted content may be rejected](https://support.google.com/business/answer/13762416#rejection_reasons).
 
 Business description
 
@@ -367,3 +369,4 @@ Related resources
 -----------------
 
 * [Report a violation of Business Profile third-party policies](https://support.google.com/business/contact/gmb_3p_complaints).
+* [Overview of Google Business Profile policies](https://support.google.com/business/answer/13762416).
