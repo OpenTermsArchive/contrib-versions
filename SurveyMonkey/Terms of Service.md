@@ -402,8 +402,6 @@ If you are using Wufoo Services, the following additional terms apply:
 
 **(e)** The API is currently provided for free, but SurveyMonkey reserves the right to charge for use of the API in the future. If SurveyMonkey charges a fee for use of the API, you do not have any obligation to continue using it.
 
-### 16.3 Beta Services.
-
 SurveyMonkey may designate or offer certain products or features, as a pre-release, alpha, preview, early access, or beta version (“**Beta Service**”). If you are using a Beta Service, the following terms also apply:  
 
 A Beta Service is offered as-is to allow for testing and evaluation; it does not represent the final product or service and may contain bugs that may cause system or other failure, errors, and data loss. SurveyMonkey may choose not to release a commercial version of the Beta Service. SurveyMonkey may, in its sole discretion and at any time, remove or discontinue the Beta Service and release a commercial version of the Beta Service. You must promptly cease using the Beta Service if we request you to do so. In exchange for your use of a Beta Service, you agree that SurveyMonkey may collect data regarding your use of the Beta Service, including any feedback, and analyze your Content (including manual review) to improve and troubleshoot the Service. If you do not wish to have this usage or feedback data collected or Content analyzed, you must immediately discontinue your use of the Beta Service.   
