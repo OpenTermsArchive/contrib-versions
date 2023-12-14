@@ -16,18 +16,18 @@ There are two versions of Yuka's Terms & Conditions, depending on the country of
 
 [![](https://files.helpdocs.io/n0njida9x8/articles/tu0my38nn5/1617283820093/bullet.svg)
 
+Yuka's Terms & Conditions (EU, UK)
+----------------------------------](https://help.yuka.io/l/en/article/nui6tegnjw-terms-conditions-ue-uk)
+
+[![](https://files.helpdocs.io/n0njida9x8/articles/tu0my38nn5/1617283820093/bullet.svg)
+
+Yuka's Terms & Conditions (US, Canada, Australia)
+-------------------------------------------------](https://help.yuka.io/l/en/article/qcdty8rmrv-terms-conditions-us-canada-australia)
+
+[![](https://files.helpdocs.io/n0njida9x8/articles/tu0my38nn5/1617283820093/bullet.svg)
+
 Legal notice
 ------------](https://help.yuka.io/l/en/article/nlsu1ptphw-legal-notice)
-
-[![](https://files.helpdocs.io/n0njida9x8/articles/tu0my38nn5/1617283820093/bullet.svg)
-
-Where is the team located ? 🏠
-------------------------------](https://help.yuka.io/l/en/article/0yon87ttb0-where-is-team-located)
-
-[![](https://files.helpdocs.io/n0njida9x8/articles/tu0my38nn5/1617283820093/bullet.svg)
-
-How do I contact the team ? ✉️
-------------------------------](https://help.yuka.io/l/en/article/eh7vei3ud3-how-do-i-contact-the-team)
 
 ![Benoit](https://files.helpdocs.io/n0njida9x8/other/1574088362284/03-mg-1925-1.jpg)
 
