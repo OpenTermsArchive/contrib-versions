@@ -1,14 +1,14 @@
 General Terms and Conditions
 ============================
 
-**“XING”** means the service as described below (including all applications such as XING, kununu and onlyfy) and/or the provider of this service, New Work SE.
+**“XING”** means the comprehensive service and various applications (including XING, kununu and onlyfy) operated by New Work SE as described in detail below, and/or the provider of the comprehensive XING service, New Work SE.
 
-A. General Terms and Conditions for the use of the XING service 
-----------------------------------------------------------------
+General Terms and Conditions for the use of the XING service 
+-------------------------------------------------------------
 
 The XING service is rendered via websites (e.g. xing.com, xing.de, kununu.com, onlyfy.io, lebenslauf.com, bewerbung.com), a number of different sub-domains and domain aliases, and via mobile applications (“apps”), background applications, web services and third-party-site integrations (e.g. iFrame). All websites, sub-domains, aliases, mobile applications, background applications, web services and third-party-site integrations provided by XING and where XING is available are hereinafter referred to as **“XING Websites”**.
 
-The XING service applications include, in particular, contact and communication forums (hereinafter referred to as **“social network”**) for which the user can obtain membership, a **“talent acquisition platform”** and an **“employer review platform”**. Some of the XING applications may appear under other brand names (e.g. kununu or onlyfy) or by using other XING Websites.
+The XING service applications include, in particular, the social and jobs network of the same name (hereinafter referred to as **“social network”**) for which the user can obtain membership, the **“talent acquisition platform”** onlyfy one and the **“employer review platform”** kununu. Some of the XING applications may appear under other brand names (e.g. kununu or onlyfy) or by using other XING Websites.
 
 These General Terms and Conditions for the use of the XING service govern the contractual relationship between the user and XING, irrespective of which XING Websites the User visits to take use XING services.
 
@@ -39,6 +39,14 @@ The contract is concluded with New Work SE, Am Strandkai 1, 20457 Hamburg, Germa
 **1.7** The user has the option of switching its free membership to a paid membership on the social network (paid membership on the social network is hereinafter referred to as **“Premium membership”**). In contrast to free membership, Premium membership provides a number of additional and advanced features. Special paid memberships for specific target groups, e.g. ProJobs for active jobseekers, are also covered by the term “Premium membership”. Free membership and Premium membership will hereinafter be collectively referred to as **“XING membership”**. Add-ons may be offered which the user can book in addition to Premium membership. 
 
 **1.8** If XING offers the user the option to book one or more free or paid third-party supplementary services, the user shall enter into separate agreements with the respective third party that have no legal connection to the user's XING membership. The amendment, discontinuation, other termination or exchange of such third-party services or any default of performance thereof in relations between the user and third party does not have any impact on the contractual relationship between XING and the user in terms of the user's XING membership. The terms and conditions and privacy policies of the respective third parties, who are also the contractual and contact partners of the user, apply to all third-party supplementary services.
+
+**Talent acquisition platform**
+
+**1.9** The talent acquisition platform is part of the comprehensive XING service. It is an online platform where and via which talent and companies can interact with each other. Among other things, companies can post job ads, identify interesting talent (possibly also on the social network), receive and manage job applications, and interact with talent and job applicants on and via the talent acquisition platform. The comprehensive XING service supports this interaction between talent and companies on and via the talent acquisition platform, such as by recommending talent and by generating and delivering recruitment-related information and analyses based on data processed within the talent acquisition platform and possibly in other XING applications or beyond.
+
+**Employer review platform**
+
+**1.10** The employer review platform offers employees real insights into the past, present and future working world, be it via employer reviews, salary details or company culture (employer reviews, salary details and company culture are hereafter collectively referred to as “**employer reviews**” or “**reviews**”), data analyses and information about things like the New Work movement, and helpful tips. The employer review platform offers companies ways to showcase their employer brand and attract potential hires, in turn giving them the edge in the race for talent.
 
 ### 2\. Conditions of use, conclusion of contract and warranties upon conclusion of contract 
 
@@ -100,7 +108,7 @@ The contract is concluded with New Work SE, Am Strandkai 1, 20457 Hamburg, Germa
 
 **You expressly agree that we will start to render the service before the end of the cancellation period.**
 
-### 4\. General obligations of the user and special provisions for using the social network 
+### 4\. General obligations of the user and special provisions for using the social network **and employer review platform**
 
 **4.1** The user is obliged
 
@@ -125,6 +133,20 @@ The contract is concluded with New Work SE, Am Strandkai 1, 20457 Hamburg, Germa
 * (d) Performing any actions which may impair the operability of XING's infrastructure, particularly actions which may overload said infrastructure.
 
 **4.3** XING is not obliged to serve data provided by the user and/or information to other users if said data and/or information is not in line with Sections 4.1 and 4.2. XING is entitled to remove from the XING Websites any data and/or information that is prohibited according to Sections 4.1 and 4.2, without notifying the user in advance.
+
+**4.4** The employer review platform user is obliged to
+
+* (a) specify employers and places of work,
+* (b) only submit a review if they work or worked for the employer to be reviewed, or have applied to the employer to be reviewed,
+* (c) not submit untrue and/or unfair reviews and/or statements about an employer, persons employed there, or other circumstances relating to the employer,
+* (d) not name any natural persons,
+* (e) not post links to external content.
+
+**4.5** The user agrees that their employer review may be moved to other sections of the XING Websites.
+
+**4.6** The user agrees that XING may edit and/or shorten their employer reviews.
+
+**4.7** The user agrees that their employer reviews may be posted worldwide, including via third-party services.
 
 ### 5\. Changes to services and GTC 
 
@@ -282,30 +304,3 @@ _Premium membership shall run for the initial term selected by the user during t
 **11.8** These GTC and the contractual relationship shall be governed by German law, excluding international private law and the provisions of the United Nations Convention on Contracts for the International Sale of Goods that have been adopted by German law. This does not affect obligatory consumer protection law of the European Member State in which a user has its regular place of residence.
 
 **11.9** These GTC are available in English, German, French and Spanish. In the event of any contradiction between the different language versions of these GTC, the German version shall take precedence.
-
-B. Additional terms for using the employer review platform 
------------------------------------------------------------
-
-The employer review platform provides employees the opportunity to rate their employer on XING Websites.
-
-These additional terms for the use of the employer review platform supplement the General Terms and Conditions for using the XING service.
-
-### 1\. Obligations of the user and special provisions for users 
-
-**1.1** The user is obliged to
-
-* (a) Accurately describe their employer and employment locations
-* (b) Only submit a review if they currently work or have worked for the employer to be reviewed, or have applied for a vacancy with that employer
-* (c) Refrain from submitting any untrue and/or unfounded reviews and/or statements about the employer, their employees or other relations pertaining to the employer
-* (d) Refrain from naming any natural persons
-* (e) Refrain from adding any links to external content.
-
-**1.2** The user agrees that their employer review may be moved to other sections and parts of the XING Websites.
-
-**1.3** The user agrees that their employer review may be edited or shortened by XING.
-
-**1.4** The user agrees that their employer review may be displayed worldwide, also by via third-party services.
-
-### 2\. Validity of the provisions of the General Terms and Conditions for using the XING service 
-
-In any other respect, the GTC for use of the XING service shall apply.
