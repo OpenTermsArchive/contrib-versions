@@ -74,6 +74,7 @@ The following tables set out details of the third-party Cookies we use as part o
 | Criteo | User acquisition, conversion | For privacy information, go to:<br><br>[https://www.criteo.com/privacy](https://www.criteo.com/privacy)<br><br>To opt out, visit:<br><br>[https://www.criteo.com/privacy/disable-criteo-services-on-internet-browsers](https://www.criteo.com/privacy/disable-criteo-services-on-internet-browsers)<br><br>For additional information, visit:<br><br>[https://www.criteo.com/privacy/disable-criteo-services-on-mobile-applications](https://www.criteo.com/privacy/disable-criteo-services-on-mobile-applications/) |
 | Huawei Mobile Services Core (HMS Core) | Supporting Huawei Mobile services (e.g. Supporting push messages and location sharing) | For Privacy Information, go to:<br><br>[https://consumer.huawei.com/sa-en/privacy/privacy-policy/](https://consumer.huawei.com/sa-en/privacy/privacy-policy/)<br><br>For additional information, go to:<br><br>[https://consumer.huawei.com/ie/support/content/en-gb15841692/#:~:text=If%20you%20are%20not%20aquianted,Core%20to%20its%20factory%20version](https://consumer.huawei.com/ie/support/content/en-gb15841692/#:~:text=If%20you%20are%20not%20aquianted,Core%20to%20its%20factory%20version) |
 | Meta Audience Network | Advertising | For Privacy Information, go to:<br><br>[https://www.facebook.com/privacy/policy/?entry\_point=data\_policy\_redirect&entry=0](https://www.facebook.com/privacy/policy/?entry_point=data_policy_redirect&entry=0)<br><br>For additional information, go to:<br><br>[https://accountscenter.facebook.com/ad\_preferences/ad\_settings/](https://accountscenter.facebook.com/ad_preferences/ad_settings/) |
+| Amazon Publisher Services | Advertising | For Privacy Information, go to:<br><br>[https://aps.amazon.com/aps/privacy-policy/](https://aps.amazon.com/aps/privacy-policy/)<br><br>For additional information, go to:<br><br>[https://www.amazon.com/adprefs](https://www.amazon.com/adprefs) |
 
 **Cookies we use on our main website (**[**www.viber.com**](http://www.viber.com/)**):**  
 
@@ -203,6 +204,8 @@ Please note that, in the event you disable certain Cookies and tracking technolo
 For more information of your rights and choices, please see the [**US Notice**](https://www.viber.com/en/terms/viber-united-states-regional-privacy-notice/) and the [**EU Region Privacy Notice**](https://www.viber.com/en/terms/gdpr-privacy-rights/).
 
 Viber participates in the IAB Europe Transparency & Consent Framework and complies with its Specifications and Policies. Viber operates Consent Management Platform (own use) with the identification number 171.
+
+In the US, Viber follows the [Policy Framework for Addressable Media Identifiers](https://digitaladvertisingalliance.org/sites/aboutads/files/DAA_files/AMI_Principles_Booklet.pdf) (by Digital Advertising Alliance).
 
   
 
