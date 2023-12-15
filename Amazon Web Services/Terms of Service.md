@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: December 1, 2023
+#### Last Updated: December 15, 2023
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -83,7 +83,9 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.23.** If you use any artificial intelligence and machine learning Services, features, and functionality (including third-party models) that we provide, you will comply with the [AWS Responsible AI Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy).
 
-**1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Contact Lens, Amazon DataZone, Amazon Lex, Amazon Personalize, Amazon Q, AWS AppFabric, and AWS HealthScribe. The Amazon Bedrock automated abuse detection mechanisms may apply to such services. See [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-detection.html) for more details.  
+**1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Contact Lens, Amazon DataZone, Amazon Lex, Amazon Personalize, Amazon Q, AWS AppFabric, and AWS HealthScribe. The Amazon Bedrock automated abuse detection mechanisms may apply to such services. See [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-detection.html) for more details.
+
+**1.25.** You will not use, and will not facilitate or allow End Users to use, the Services to mine cryptocurrency without our prior written approval.
 
 #### 2\. Betas and Previews
 
@@ -277,7 +279,7 @@ Your failure to maintain your database instance within the support perimeter (as
 * Use of a Linux OS version, such as those from Red Hat, Inc., SUSE LLC, and NVIDIA Corporation, on RDS Custom is subject to Section 5.2. above.
 * Use of “License Included” Microsoft Software on RDS Custom is subject to Sections 5.1. and 10.4. above.
 
-**10.6.** Trusted Language Extensions for PostgresSQL (Trusted Language Extensions) enables you to use, build, and run extensions developed, owned, or provided by you, third parties, or their licensors using PostgreSQL trusted languages in Amazon RDS. Extension code that you use with Trusted Language Extensions is Your Content under the Agreement. AWS is not responsible for Service failure caused by extensions. You consent to AWS scanning extension code for security and performance purposes
+**10.6.** Trusted Language Extensions for PostgresSQL (Trusted Language Extensions) enables you to use, build, and run extensions developed, owned, or provided by you, third parties, or their licensors using PostgreSQL trusted languages in Amazon RDS. Extension code that you use with Trusted Language Extensions is Your Content under the Agreement. AWS is not responsible for Service failure caused by extensions. You consent to AWS scanning extension code for security and performance purposes.
 
 **10.7. Using IBM Software**
 
@@ -423,7 +425,7 @@ The Amazon DynamoDB Reserved Capacity program allows you to purchase reserved th
 
 **20.7.2.** The purchase fees and charges payable by you will be exclusive of all applicable Taxes, and will be made free and clear of any deduction or withholding, as may be required by law. For clarity, if any such deduction or withholding (including but not limited to cross-border withholding taxes) is required on any payment, you will pay such additional amount, as necessary, to ensure that the net amount received by AWS or its affiliates is equal to the amount then due and payable by you for your purchases on the AWS Marketplace. AWS or its affiliates will provide you with such tax forms, as are reasonably requested, in order to reduce or eliminate the amount of any withholding or deduction for taxes, in respect of the payments made by you for purchases on the AWS Marketplace. AWS or its affiliates may charge, and you will pay, all applicable Taxes that it or we are legally obligated or authorized to collect from you. AWS or its affiliates will not collect, and you will not pay, any Taxes for which you furnish us a properly completed exemption certificate, or a direct payment permit certificate, for which AWS or its affiliates may claim an available exemption from such Taxes.
 
-### 21\. AWS Ground Station
+#### 21\. AWS Ground Station
 
 **21.1.** Any guidance provided through Licensing Accelerator or by AWS Ground Station is provided for your convenience, does not constitute legal or compliance advice, and is not subject to any legal professional privilege. You are responsible for making your own assessment of whether your use of AWS Ground Station meets applicable legal and regulatory requirements, including by engaging with a legal professional if necessary.  
 
@@ -738,7 +740,7 @@ When you use AWS Application Discovery Service, data that is scanned by AWS Appl
 
 The Reserved Node program allows you to designate Amazon Redshift nodes as subject to the reserved pricing and payment terms set forth on the Amazon Redshift pricing page on the AWS Site (each designated node, a “Reserved Node”). We may terminate the Reserved Node program at any time. We may change pricing for the Reserved Node Program at any time, but price changes will not apply to previously designated Reserved Nodes. Reserved Nodes are noncancellable, and you will owe the amount charged for the Reserved Node for the duration of the term you selected, even if the Agreement is terminated. Reserved Nodes are nontransferable, and all amounts paid in connection with Reserved Nodes are nonrefundable, except that if we terminate the Agreement other than for cause, terminate an individual Reserved Node type, or terminate the Reserved Node program, we will refund you a pro rata portion of any up-front fee paid in connection with any previously designated Reserved Node. Upon expiration or termination of the term of a Reserved Node, the Reserved Node pricing will expire and standard on-demand usage prices will apply to the Amazon Redshift node.  
 
-#### 47\. AWS Server Migration Service.
+#### 47\. AWS Server Migration Service
 
 **47.1.** When you use AWS Server Migration Service, data that is scanned by AWS Server Migration Service in your on-premises computing resources will be deemed Your Content.
 
@@ -1249,7 +1251,7 @@ b. Layer routes from HERE on top of a map from another third-party provider, or 
 
 Amazon FinSpace is a tool to help you analyze data for investment and business decisions. It is not a substitute for the judgment and experience of the user when making investment and business decisions. Amazon FinSpace does not provide investment advice, make investment recommendations or evaluate the suitability of any investment or investment strategy.  
 
-### 85\. Amazon Elastic Kubernetes Service Anywhere (Amazon EKS Anywhere) Support.
+#### 85\. Amazon Elastic Kubernetes Service Anywhere (Amazon EKS Anywhere) Support
 
 **85.1.** You must purchase AWS Enterprise Support in order to subscribe to Amazon EKS Anywhere Support. Payments for subscriptions to Amazon EKS Anywhere Support are not refundable.
 
@@ -1257,7 +1259,7 @@ Amazon FinSpace is a tool to help you analyze data for investment and business d
 
 **85.3.** We may request that you implement specific updates and provide us with Account Information, logs or other usage information so that we can provide you Amazon EKS Anywhere Support and verify your Support Subscription. If you request support for Isovalent’s software, such as Cilium, we may share your Account Information, logs or other usage information with Isovalent to provide technical support.
 
-### 86\. AWS DeepRacer Student
+#### 86\. AWS DeepRacer Student
 
 **86.1.** You acknowledge that we may store your Content that is processed by AWS DeepRacer Student in AWS regions outside the AWS region where you are using AWS DeepRacer Student.
 
@@ -1271,7 +1273,7 @@ Amazon FinSpace is a tool to help you analyze data for investment and business d
 
 **86.6.** You must be a student in high school or a higher education institution, and at least 16 years old, to use AWS DeepRacer Student. If you are under 18 years of age, or the age of majority in your location, you may use AWS DeepRacer Student only with involvement of a parent or guardian who agrees to be bound by these Service Terms.
 
-### 87\. Amazon GuardDuty
+#### 87\. Amazon GuardDuty
 
 **87.1.** “Malware Content” is Your Content that the Amazon GuardDuty Malware Protection feature processes and identifies as being malicious or harmful. 
 
@@ -1281,7 +1283,7 @@ Amazon FinSpace is a tool to help you analyze data for investment and business d
   
 **87.4.** You agree and instruct that: (a) we may use and store Runtime Monitoring Content to develop and improve Amazon GuardDuty and its underlying technologies; and (b) we may use and store Runtime Monitoring Content that is not personal data to develop and improve other AWS security services. You may instruct AWS not to use and store Runtime Monitoring Content to develop and improve Amazon GuardDuty or other AWS security services by configuring an AI services opt out policy using AWS Organizations.  
 
-### 88\. AWS Wickr
+#### 88\. AWS Wickr
 
 **88.1.** End Users.
 
@@ -1289,7 +1291,7 @@ Amazon FinSpace is a tool to help you analyze data for investment and business d
 
 **88.1.2.** AWS Wickr End Users can be managed by End Users with administrative privileges (“AWS Wickr Administrators”). AWS Wickr Administrators can (a) upgrade or downgrade End Users’ AWS Wickr feature set; (b) suspend End User’s access to AWS Wickr; and (c) access information about their End Users’ use of AWS Wickr.  
 
-### 89\. AWS Private 5G
+#### 89\. AWS Private 5G
 
 **89.1.** AWS Private 5G Equipment. AWS will make equipment available to you to support your use of the AWS Private 5G Service (the “Private 5G Equipment”). AWS, or its affiliates, maintain all rights in the Private 5G Equipment and is not selling, renting, leasing, or transferring any ownership, intellectual or other rights in the Private 5G Equipment to you. You will not, and will not purport to, assign, grant, or transfer the Private 5G Equipment or any interest in the Private 5G Equipment to any individual or entity, and any such purported assignment, grant or transfer is void.
 
@@ -1303,13 +1305,13 @@ Amazon FinSpace is a tool to help you analyze data for investment and business d
 
 **89.6.** Security. As the Private 5G Equipment is physically located at the Designated Facility, you are responsible for physical security and access controls, as well as all power, networking, and environmental conditions at your Designated Facility. Consequently, any AWS commitments in the Agreement that depend on AWS’s operation of such physical security and access controls, or power, networking, and environmental conditions, do not apply to AWS Private 5G. 
 
-### 90\. AWS SimSpace
+#### 90\. AWS SimSpace
 
 **90.1.** We may change, discontinue, or deprecate support for any third-party integrations or samples at any time. We will provide you with prior notice of any deprecation or discontinuation of support for a third-party integration or sample where practicable under the circumstances.
 
 **90.2.** AWS SimSpace Weaver is designed to help customers build simulations. This may include simulation of real-world locations, scenarios, and assets, based on the simulation code and data you provide. Data generated by AWS SimSpace Weaver should be evaluated for accuracy as appropriate for your use case. You and your End Users are solely responsible for all decisions made, advice given, actions taken, and failures to act based on your use of AWS SimSpace Weaver.  
 
-### 91\. AWS Builder ID
+#### 91\. AWS Builder ID
 
 **91.1.** If during the previous 12 months you have registered no usage of your AWS Builder ID, we may delete your AWS Builder ID upon 30 days’ prior notice.
 
@@ -1317,7 +1319,7 @@ Amazon FinSpace is a tool to help you analyze data for investment and business d
 
 **91.3.** For purposes of your use of AWS Builder ID, Amazon Web Services, Inc. is the AWS Contracting Party under the Agreement.
 
-### 92\. AWS Clean Rooms
+#### 92\. AWS Clean Rooms
 
 **92.1.**[](#_msocom_1) You may not use AWS Clean Rooms or any information obtained from your use of AWS Clean Rooms to identify a person or associate such information with an identifiable person, unless otherwise permitted by the applicable third party contributor of the data.
 
@@ -1327,7 +1329,7 @@ Amazon FinSpace is a tool to help you analyze data for investment and business d
 
 **92.2.2.** AWS Clean Rooms ML is not intended for use in, or in association with, the operation of any hazardous environments or critical systems that may lead to serious bodily injury or death or cause environmental or property damage. AWS Clean Rooms ML may be used in connection with supporting healthcare services but is not a medical device and is not intended to be used by itself for any clinical decision-making or other clinical use. You are responsible for liability that may arise in connection with any such uses.
 
-### 93\. Amazon CodeCatalyst
+#### 93\. Amazon CodeCatalyst
 
 **93.1.** When you access an Amazon CodeCatalyst Space established under another CodeCatalyst account (“Third-Party Space”), you are an End User of that CodeCatalyst account. This means, for example, that your activities within the Third-Party Space may incur fees for which that Third-Party Space owner is responsible. Additionally, Content you contribute to a Third-Party Space or Project within that Space (“Contributed Content”) as an End User is not considered Your Content for the purposes of rights and obligations under the terms of this Agreement. Subject to the non-exclusive license granted by Section 93.2, this does not modify any rights you may hold in your Contributed Content.
 
@@ -1339,33 +1341,33 @@ Amazon FinSpace is a tool to help you analyze data for investment and business d
 
 **93.5.** When an End User you have invited to collaborate in your CodeCatalyst Space deletes their CodeCatalyst account, their Contributed Content will not be deleted from your Space. However, identifications of that End User, including those associated with issues, comments, and Contributed Content, may be deleted.
 
-### 94\. Integrated Private Wireless on AWS
+#### 94\. Integrated Private Wireless on AWS
 
 **94.1.** AWS may stop providing the Integrated Private Wireless on AWS portal (or remove any offerings on the [Integrated Private Wireless on AWS site](https://aws.amazon.com/telecom/integrated-private-wireless/) (or any successor site)) at any time. We will provide you with prior notice where practicable under the circumstances.  
 
 **94.2.** The offerings on the [Integrated Private Wireless on AWS site](https://aws.amazon.com/telecom/integrated-private-wireless/) (or any successor site) are offered by third parties and subject to separate terms and conditions specified by the respective third party. AWS has no control and makes no guarantees about such offerings. 
 
-### 95\. AWS Diode
+#### 95\. AWS Diode
 
 **95.1.** AWS Diode allows You to map Your account to another Diode account (“Mapped Account”), enabling Your Content to be moved and stored by the Mapped Account to an AWS region of a different classification level.  You acknowledge and agree that using the Service may result in Your Content being moved and stored in AWS regions other than the AWS regions where You initially stored Your Content.
 
 **95.2.** You are responsible for all data transferred through AWS Diode, including, but not limited to: (i) compliance with all laws, regulations, and policies related to the control, disclosure, and transfer of classified information; and (ii) transferring data only to AWS regions of appropriate classification levels. Your failure to do so may result in Amazon incurring sanitization costs for which You will be responsible, and which will be exempt from any limitations of liability in any of your agreements with AWS.  
 
-### 96\. AWS Nitro System
+#### 96\. AWS Nitro System
 
 AWS personnel do not have access to Your Content on AWS Nitro System EC2 instances. There are no technical means or APIs available to AWS personnel to read, copy, extract, modify, or otherwise access Your Content on an AWS Nitro System EC2 instance or encrypted-EBS volume attached to an AWS Nitro System EC2 instance. Access to AWS Nitro System EC2 instance APIs – which enable AWS personnel to operate the system without access to Your Content - is always logged, and always requires authentication and authorization.
 
-### 97\. Amazon Security Lake
+#### 97\. Amazon Security Lake
 
 **97.1.** "Security Lake Content" is Your Content that (a) Amazon Security Lake processes or (b) is stored in Amazon Security Lake.  
 
 **97.2.** You agree and instruct that: (a) we may use and store your Security Lake Content to develop and improve Amazon Security Lake and its underlying technologies; and (b) we may use and store Security Lake Content that is not personal data to develop and improve other AWS security services. You may instruct AWS not to use and store Security Lake Content to develop and improve Amazon Security Lake or other AWS security services by configuring an AI services opt out policy using AWS Organizations.
 
-### 98\. Amazon Managed Blockchain
+#### 98\. Amazon Managed Blockchain
 
 You are solely responsible for evaluating the information made available through the Amazon Managed Blockchain Query Service for accuracy as appropriate for your use case.
 
-### 99\. Amazon DataZone
+#### 99\. Amazon DataZone
 
 **99.1.** DataZone generates probable forecasts, insights or recommendations from Your Content, and its outputs should be evaluated for accuracy as appropriate for your use case, including by employing human review of such output. You and your End Users are responsible for all decisions made, advice given, actions taken, and failures to take action.
 
@@ -1375,13 +1377,13 @@ a. You agree and instruct that: (i) we may use and store Amazon DataZone ML Cont
 
 b. You are responsible for providing legally adequate privacy notices to End Users of your products or services that use Amazon DataZone ML Services and obtaining any necessary consent from such End Users for the processing of Amazon DataZone ML Content and the storage, use, and transfer of Amazon DataZone ML Content as described under this Section. You represent to us that you have provided all necessary privacy notices and obtained all necessary consents. You are responsible for notifying us in the event that any Amazon DataZone ML Content stored by Amazon DataZone ML Services must be deleted under applicable law.
 
-### 100\. AWS re:Post Private
+#### 100\. AWS re:Post Private
 
 **100.1.** You acknowledge that we may store Your Content that is processed by AWS re:Post Private in AWS regions outside the AWS region where you are using AWS re:Post Private.
 
 **100.2.** Use of AWS re:Post Private is subject to the Terms of Use for AWS re:Post Private which are available in your private re:Post.
 
-### 101\. Amazon One Enterprise
+#### 101\. Amazon One Enterprise
 
 **101.1. Amazon One Enterprise Services (Preview).** “Amazon One Enterprise Service” includes all Services and Amazon Content AWS or its affiliates provide in conjunction with Amazon One Enterprise Devices. “Amazon One Enterprise Devices” are the hardware and equipment Amazon One Enterprise makes available to you to support your use of the Amazon One Enterprise Service. You understand and agree that the Amazon One Enterprise Service is intended for use only in the commercial or business context and that you will not use the Amazon One Enterprise Service in any way to collect information or provide services to your End Users in their personal or household capacity
 
@@ -1405,11 +1407,11 @@ If you do not comply with these requirements or otherwise fail to comply with al
 
 **101.8.** You will not, and will not allow any third-party to use Amazon One Enterprise Services to, directly or indirectly, develop or improve a similar or competing product or service.
 
-### 102\. Amazon WorkSpaces Thin Client
+#### 102\. Amazon WorkSpaces Thin Client
 
 In addition to the Agreement and these Service Terms, use of Amazon WorkSpaces Thin Client devices is subject to [device terms](https://aws.amazon.com/workspaces/thin-client/terms/)[](#_msocom_1). Please review the device terms before using an Amazon WorkSpaces Thin Client device.
 
-### 103\. AWS B2B Data Interchange
+#### 103\. AWS B2B Data Interchange
 
 **103.1.** When you register as a trading partner to access an AWS B2B Data Interchange Portal established under another AWS account (“B2B Data Interchange Portal”), you are an End User of that AWS account. Content you contribute to a B2B Data Interchange Portal (“Trading Partner Contributed Content”) as an End User is not considered Your Content for the purposes of rights and obligations under the terms of this Agreement. Subject to the non-exclusive license granted by Section 103.2, this does not modify any rights you may hold in your Trading Partner Contributed Content.
 
