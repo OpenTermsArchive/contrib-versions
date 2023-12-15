@@ -1,9 +1,9 @@
 Alexa Terms of Use
 ==================
 
-**Last Updated: November 1, 2023**
+**Last Updated: December 15, 2023**
 
-This is an agreement between you and Amazon.com Services LLC (with its affiliates, "Amazon" or "we"). Before using Alexa, please read these Alexa Terms of Use, including the attached schedules, the [Amazon.com Privacy Notice](https://www.amazon.com/privacy), the [Amazon.com Conditions of Use](https://www.amazon.com/conditionsofuse), and the other applicable rules, policies, and terms posted on the Amazon.com website, available through your Alexa App, or provided with Alexa Enabled Products (collectively, this "Agreement"). By using Alexa, you agree to the terms of this Agreement on behalf of yourself and all other persons who use Alexa under your account. If you do not accept the terms of this Agreement, then you may not use Alexa.
+This is an agreement between you and Amazon.com Services LLC (with its affiliates, "Amazon" or "we"). Before using Alexa, please read these Alexa Terms of Use, including the attached schedules, the [Amazon.com Privacy Notice](https://www.amazon.com/privacy), the [Amazon.com Conditions of Use](https://www.amazon.com/conditionsofuse), the [Alexa Acceptable Use Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=TTFAPMmEqemeDWZaWf), and the other applicable rules, policies, and terms posted on the Amazon.com website, available through your Alexa App, or provided with Alexa Enabled Products (collectively, this "Agreement"). By using Alexa, you agree to the terms of this Agreement on behalf of yourself and all other persons who use Alexa under your account. If you do not accept the terms of this Agreement, then you may not use Alexa.
 
 For the purpose of these Alexa Terms of Use:
 
@@ -25,7 +25,7 @@ For the purpose of these Alexa Terms of Use:
 
 **1.1. Alexa.** An Alexa Enabled Product and internet connection are required to access and use Alexa. Some Alexa services may not be available in all areas or on all Alexa Enabled Products and may require separate fees or subscriptions.
 
-**1.2 Use of the Software.** You may use the Software only on or through an Alexa Enabled Product or Auxiliary Product, and you may only make personal and non-commercial use of Alexa. For additional terms that apply to the Software, see the software terms contained in the [Amazon.com Conditions of Use](https://www.amazon.com/conditionsofuse) and the terms contained in the Legal & Compliance section in the Help menu of your Alexa App.
+**1.2 Use of Alexa and the Software.** You may use Alexa only for personal and non-commercial use, and your use of Alexa must comply with the [Alexa Acceptable Use Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=TTFAPMmEqemeDWZaWf). You may use the Software only on or through an Alexa Enabled Product or Auxiliary Product. For additional terms that apply to the Software, see the software terms contained in the [Amazon.com Conditions of Use](https://www.amazon.com/conditionsofuse) and the terms contained in the Legal & Compliance section in the Help menu of your Alexa App.
 
 **1.3 Alexa Interactions.** You control Alexa with your voice. Alexa records and sends audio to the cloud when you interact with Alexa. Amazon processes and retains your Alexa Interactions, such as your voice inputs, music playlists, and your Alexa to-do and shopping lists, in the cloud to provide, personalize, and improve our services. [Learn more](https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230) about Alexa, including how to delete voice recordings associated with your account and manage our use of those voice recordings.
 
@@ -53,9 +53,9 @@ You can find more information about Amazon-Processed Purchases and donations in 
 
 **4\. General**
 
-**4.1 Information.** The Software will provide Amazon with information about your use of Alexa, your Alexa Interactions, and your Alexa Enabled Products and Auxiliary Products (such as device type, name, features, status, network connectivity, software performance, and location). This information may be stored on servers outside the country in which you live. We will handle any information we receive in accordance with the [Amazon.com Privacy Notice](https://www.amazon.com/privacy)
+**4.1 Information.** The Software will provide Amazon with information about your use of Alexa, your Alexa Interactions, and your Alexa Enabled Products and Auxiliary Products (such as device type, name, features, status, network connectivity, software performance, and location). This information may be stored on servers outside the country in which you live. We will handle any information we receive in accordance with the [Amazon.com Privacy Notice](https://www.amazon.com/privacy).
 
-**4.2 Functionality; Content.** We do not guarantee that Alexa or its functionality or content (including traffic, health, or stock information) is accurate, reliable, always available, or complete. You may encounter content through Alexa that you find offensive, indecent, or objectionable. Amazon has no responsibility or liability for such content.
+**4.2 Functionality; Content.** Alexa uses machine learning models to interpret and provide responses to your requests. We use a variety of data sources to train these models and provide responses to your requests, including Amazon content, content from the use of our services, content licensed from third parties, and content publicly available on the internet. Alexa’s machine learning models may produce content that is based, in part, on patterns in data used to train these models. Alexa may provide responses that do not represent Amazon’s views. Alexa may also get things wrong, including by failing to take a requested action or taking an action different from what you requested. We do not guarantee that Alexa or its functionality or content (including traffic, health, or stock information) is accurate, reliable, always available, or complete. You may encounter content through Alexa that you find inaccurate, offensive, indecent, or objectionable. Amazon has no responsibility or liability for such content.
 
 **4.3 Changes to Alexa; Amendments.** We may change, suspend, or discontinue Alexa, or any part of it, including any Third Party Services or Premium Features, at any time without notice. We may amend any of this Agreement's terms at our sole discretion by posting the revised terms on the Amazon.com website. Your continued use of Alexa after the effective date of the revised Agreement constitutes your acceptance of the terms.
 
@@ -63,7 +63,7 @@ You can find more information about Amazon-Processed Purchases and donations in 
 
 **4.5 Termination.** We may terminate your access to Alexa at our discretion without notice (except as may be required by applicable law). Your rights under this Agreement will automatically terminate without notice if you fail to comply with any of its terms. In case of such termination, Amazon may immediately revoke your access to Alexa without refund of any fees. Amazon's failure to insist upon or enforce your strict compliance with this Agreement will not constitute a waiver of any of its rights.
 
-**4.6 Disputes. Any dispute or claim arising from or relating to this Agreement or Alexa is subject to the dispute resolution, governing law, disclaimer of warranties, limitation of liability, and all other terms in the****[Amazon.com Conditions of Use](https://www.amazon.com/conditionsofuse)****.**
+**4.6 Disputes. Any dispute or claim arising from or relating to this Agreement or Alexa is subject to the dispute resolution, governing law, disclaimer of warranties, limitation of liability, and all other terms in the [Amazon.com Conditions of Use](https://www.amazon.com/conditionsofuse).**
 
 **4.7 Disclaimer of Warranties and Limitation of Liability. Without limiting the Disclaimer of Warranties and Limitation of Liability terms in the Amazon.com Conditions of Use, and unless otherwise required by applicable law, in no event will our or our licensors' or our service providers' aggregate liability with respect to any claim arising from or relating to this Agreement or your use of Alexa exceed fifty dollars ($50).**
 
