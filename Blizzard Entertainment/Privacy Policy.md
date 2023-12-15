@@ -386,7 +386,7 @@ Some of Blizzard’s products, services and features require that we share infor
 
 **2\. With other players and/or the general public.** Information may be viewable by your friends, people in games, or the public in general if you play our games, use certain features in our games, use certain features on our platforms (such as chat applications in game or on the Battle.net platform) or make posts in the forums.
 
-**3\. With subsidiaries and affiliates.** We share information with our subsidiaries and affiliates to help us provide our services or conduct personal information processing on our behalf. For example, Blizzard processes and stores information at Blizzard Entertainment, Inc. in the United States. We also may share your personal information with our affiliated companies, available here , including for our affiliated or subsidiary companies’ own marketing purposes
+**3\. With subsidiaries and affiliates.** We share information with our subsidiaries and affiliates to help us provide our services or conduct personal information processing on our behalf. For example, Blizzard processes and stores information at Blizzard Entertainment, Inc. in the United States. We also may share your personal information with our affiliated companies, available [here](https://www.blizzard.com/en-us/legal/90d332e7-314e-4926-9d43-e46ea63bfe36/entities) , including for our affiliated or subsidiary companies’ own marketing purposes
 
 Blizzard is not responsible for the privacy practices of our affiliates and the use of your Information by those companies will be governed by those specific companies’ privacy policies, which you may find on each company’s website.
 
