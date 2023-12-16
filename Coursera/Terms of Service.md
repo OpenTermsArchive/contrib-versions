@@ -5,7 +5,7 @@ Terms of Use
 
 * * *
 
-_Effective: January 1, 2023._
+_Effective: January 1, 2024._
 
 Thank you for using Coursera!
 -----------------------------
@@ -107,7 +107,7 @@ Professional licensure, certification, and job requirements for various professi
 9\. Modifying or Terminating our Services
 -----------------------------------------
 
-We are constantly changing and improving our Services. We may add or remove functions, features, or requirements, and we may suspend (to the extent allowed by applicable law) or stop part of our Services altogether. Accordingly, Coursera may terminate your use of any Service for any reason. If your use of a paid Service is terminated, a refund may be available under our Refund Policy. We may not be able to deliver the Services to certain regions or countries for various reasons, including due to applicable export control requirements or internet access limitations and restrictions from governments. None of Coursera, its Content Providers and instructors, its contributors, sponsors, and other business partners, and their employees, contractors, and other agents (the "Coursera Parties") shall have any liability to you for any such action. You can stop using our Services at any time, although we'll be sorry to see you go.
+We are constantly changing and improving our Services. We may add or remove functions, features, or requirements, and we may suspend (to the extent allowed by applicable law) or stop part of our Services altogether. Accordingly, Coursera may terminate your use of any Service for any reason. If your use of a paid Service is terminated, a refund may be available under our Refund Policy. We may not be able to deliver the Services to certain regions or countries for various reasons, including due to applicable export control requirements or internet access limitations and restrictions from governments, or for commercial or reputational reasons. None of Coursera, its Content Providers and instructors, its contributors, sponsors, and other business partners, and their employees, contractors, and other agents (the "Coursera Parties") shall have any liability to you for any such action. You can stop using our Services at any time, although we'll be sorry to see you go.
 
 10\. Disclaimers
 ----------------
@@ -117,32 +117,32 @@ TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SERVICES AND ALL INCLUDED CONTENT AR
 11\. Limitation of Liability
 ----------------------------
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COURSERA PARTIES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM: (A) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE SERVICES; (B) ANY CONDUCT OR CONTENT OF ANY PARTY OTHER THAN THE APPLICABLE COURSERA PARTY, INCLUDING WITHOUT LIMITATION, ANY DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT; OR (C) UNAUTHORIZED ACCESS, USE, OR ALTERATION OF YOUR CONTENT OR INFORMATION. IN NO EVENT SHALL COURSERA'S AGGREGATE LIABILITY FOR ALL CLAIMS RELATED TO THE SERVICES EXCEED TWENTY U.S. DOLLARS ($20) OR THE TOTAL AMOUNT OF FEES RECEIVED BY COURSERA FROM YOU FOR THE USE OF PAID SERVICES DURING THE PAST SIX MONTHS, WHICHEVER IS GREATER.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, COURSERA SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM: (A) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE SERVICES; (B) ANY CONDUCT OR CONTENT OF ANY PARTY OTHER THAN THE APPLICABLE COURSERA PARTY, INCLUDING WITHOUT LIMITATION, ANY DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT; OR (C) UNAUTHORIZED ACCESS, USE, OR ALTERATION OF YOUR CONTENT OR INFORMATION. IN NO EVENT SHALL COURSERA'S AGGREGATE LIABILITY FOR ALL CLAIMS RELATED TO THE SERVICES EXCEED TWENTY U.S. DOLLARS ($20) OR THE TOTAL AMOUNT OF FEES RECEIVED BY COURSERA FROM YOU FOR THE USE OF PAID SERVICES DURING THE PAST SIX MONTHS, WHICHEVER IS GREATER.
 
-YOU ACKNOWLEDGE AND AGREE THAT THE DISCLAIMERS AND THE LIMITATIONS OF LIABILITY SET FORTH IN THIS TERMS OF USE REFLECT A REASONABLE AND FAIR ALLOCATION OF RISK BETWEEN YOU AND THE COURSERA PARTIES, AND THAT THESE LIMITATIONS ARE AN ESSENTIAL BASIS TO COURSERA'S ABILITY TO MAKE THE SERVICES AVAILABLE TO YOU ON AN ECONOMICALLY FEASIBLE BASIS.
+YOU ACKNOWLEDGE AND AGREE THAT THE DISCLAIMERS AND THE LIMITATIONS OF LIABILITY SET FORTH IN THIS TERMS OF USE REFLECT A REASONABLE AND FAIR ALLOCATION OF RISK BETWEEN YOU AND COURSERA, AND THAT THESE LIMITATIONS ARE AN ESSENTIAL BASIS TO COURSERA'S ABILITY TO MAKE THE SERVICES AVAILABLE TO YOU ON AN ECONOMICALLY FEASIBLE BASIS.
 
 YOU AGREE THAT ANY CAUSE OF ACTION RELATED TO THE SERVICES MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
 
 12\. Export Controls
 --------------------
 
-You warrant that you are not located in, or ordinarily reside in, any country that is subject to applicable U.S. laws and regulations preventing Coursera from providing you access to the Services. Your location is determined by your physical location. Use of a virtual private network service, IP routing services, or other similar service for the purpose of circumventing these laws is strictly prohibited.
+By using our Services, you are warranting that you are not located in, under the control of, a national of, or ordinarily resident in, any country that is subject to applicable U.S. laws and regulations, or laws of your local jurisdiction, preventing Coursera from providing you access to the Services. Your location is determined by your physical location. Use of a virtual private network service, IP routing services, or other similar service for the purpose of circumventing these laws is strictly prohibited.
 
-You warrant that you are not named on any government prohibited, denied, unverified-party, sanctions, debarment, or exclusion list or export-controlled related restricted party list (collectively, “Sanctions Lists”). You will immediately discontinue your use of the Services if you are placed on any Sanctions List. You also warrant that you will not export, re-export, or transfer the Services to an entity on any Sanctions List or otherwise use the services in a manner that would be in violation of applicable laws.
+By using our Services, you are warranting that you are not named on, or controlled by anyone named on, any government prohibited, denied, unverified-party, sanctions, debarment, or exclusion list or export-controlled related restricted party list (collectively, “Sanctions Lists”). You will immediately discontinue your use of the Services if you, or a party exercising control over you, are placed on any Sanctions List. You also warrant that you will not export, re-export, or transfer the Services to any country against which the U.S. has embargoed goods or services, or to an entity or person on any Sanctions List, or otherwise use the services in a manner that would be in violation of applicable laws.
 
-Notwithstanding anything to the contrary in these Terms, Coursera may terminate any further obligations to you, effectively immediately if you are in breach of the obligations in this section.
+Notwithstanding anything to the contrary in these Terms, Coursera may suspend performance of or terminate any further obligations to you, effectively immediately if you are in breach of the obligations in this section or if the continued provision of our Services to you may, in our sole discretion, result in our commercial or reputational harm.
 
 13\. Indemnification
 --------------------
 
-You agree to indemnify, defend, and hold harmless the Coursera Parties from any and all claims, liabilities, expenses, and damages (to the extent attributable to you under the applicable law), including reasonable attorneys' fees and costs, made by any third party related to: (a) your use or attempted use of the Services in violation of these Terms; (b) your violation of any law or rights of any third party; or (c) User Content, including without limitation any claim of infringement or misappropriation of intellectual property or other proprietary rights.
+You agree to indemnify, defend, and hold harmless Coursera from any and all claims, liabilities, expenses, and damages (to the extent attributable to you under the applicable law), including reasonable attorneys' fees and costs, made by any third party related to: (a) your use or attempted use of the Services in violation of these Terms; (b) your violation of any law or rights of any third party; or (c) User Content, including without limitation any claim of infringement or misappropriation of intellectual property or other proprietary rights.
 
 14\. Governing Law and Venue
 ----------------------------
 
 Except as provided below, the Services are managed by Coursera, Inc. which is located in Santa Clara County, California. You agree that these Terms will be governed by the laws of the State of California, excluding its conflicts of law provisions. In the event of any dispute related to these Terms that is not subject to binding arbitration, you and Coursera will submit to the personal jurisdiction of and exclusive venue in the federal and state courts located in and serving Santa Clara County, California as the legal forum for any such dispute.
 
-To the extent you are located in the European Union or the United Kingdom, the Services are managed by Coursera Europe B.V. You agree that these Terms will be governed by the laws of the Netherlands, excluding its conflicts of law provisions.
+To the extent you are located in the European Union, an EFTA country or the United Kingdom, the Services are managed by Coursera Europe B.V. You agree that these Terms will be governed by the laws of the Netherlands, excluding its conflicts of law provisions.
 
 This section shall not deprive you of any mandatory consumer protections under the law of the country to which we direct Services to you, where you have your habitual residence.
 
@@ -197,7 +197,7 @@ Acceptable Use Policy
 
 * * *
 
-_Effective: January 1, 2023._
+_Effective: January 1, 2024._
 
 Our mission is to provide universal access to the world’s best education. We believe strongly in preserving free speech and expression for our users as well as academic freedom for our Content Providers and instructors. We also want to make sure that all of our users and instructors feel safe and comfortable while using our Services. We have drafted this policy to ensure that people understand and follow the rules when participating in our online community and otherwise using our Services.
 
@@ -274,7 +274,7 @@ Payments and Refund Policy
 
 * * *
 
-_Effective as of January 1, 2023._
+_Effective as of January 1, 2024._
 
 For details on our refund and cancellation policies, please refer to the information below. Please note that our policies may differ between offerings, and payment options may vary. Please also note that we treat violations of our Terms of Use and Honor Code very seriously, and we have no obligation to offer refunds to users who violate these or other Coursera policies, even if their requests are made within the designated refund period. Similarly, we have no obligation to offer late refunds to users who do not receive a passing mark in a Content Offering, or who are otherwise unsatisfied with their final grade.
 
@@ -333,7 +333,7 @@ To get a full refund of your Coursera Plus subscription payment, submit a refund
 
 #### Refunds for Trials
 
-Some Coursera Plus subscriptions may have a free trial period instead of a refund period. If you do not cancel during the free trial, you will be billed the full amount for the subscription you signed up for and be unable to request a refund.
+Some Coursera Plus subscriptions may have a free trial period instead of a refund period. If you do not cancel during the free trial, you will be billed the full amount for the subscription you signed up for and be unable to request a refund. If you complete a course during the free trial period, Coursera reserves the right to require you to pay for a one-month subscription in order to receive a course and/or specialization certificate.
 
 #### Refunds for Upgrades
 
@@ -402,7 +402,7 @@ Honor Code
 
 * * *
 
-_Effective as of June 28, 2023_
+_Effective as of June 28, 2023._
 
 All users of learning materials hosted on the Coursera platform are expected to abide by the following standards to ensure the integrity of learning within Coursera learning experiences. Learners are expected to familiarize themselves and comply with the [Terms of Use](https://www.coursera.org/about/terms) for the Coursera platform and any code of conduct, academic policy, honor code or or any institution's requirements associated with programs which a learner has enrolled onto through the Coursera platform has established.
 
@@ -455,6 +455,7 @@ Revisions
 
 Below is a list of all the revisions made to the content of our Terms, with links to view the difference between each revision.
 
+* [2023-12-16: Updated terms specific to Modifying or Terminating our Services. Clarified and added terms specific to Export Controls. Updated terms specific to Governing Law and Venue. Clarified terms specific to Acceptable Use Policy. Updated terms specific to Payments and Refund Policy.](https://www.diffchecker.com/YmIR3V6I/)
 * [2022-12-17: Updated general formatting of Terms of Use. Clarified and added terms specific to Using Coursera. Updated terms specific to Paid Services from Coursera. Clarified and added terms specific to Payments and Refund Policy.](https://www.diffchecker.com/XiPrZFzX)
 * [2021-12-17: Updated terms specific to users based in certain jurisdictions. Updated terms specific to Degree, MasterTrack, and University Certificate programs. Added terms addressing export laws.](https://www.diffchecker.com/cRdj5n0M)
 * [2020-12-18: Updated arbitration language and increased clarity of definitions](https://www.diffchecker.com/2JTCTEUY)
