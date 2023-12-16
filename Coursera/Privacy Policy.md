@@ -5,7 +5,7 @@ Privacy Notice
 
 * * *
 
-_Effective: July 31, 2023._
+_Effective: January 1, 2024._
 
 Key Information
 ---------------
@@ -56,8 +56,7 @@ If you participate in a Content Offering, we may collect certain user-generated 
 How We Use the Information
 --------------------------
 
-1. **Information relating to your use of our Site.** We use information relating to your use of the Site to build higher quality, more useful Services by performing statistical analyses of the collective characteristics and behavior of our users, and by measuring demographics and interests regarding specific areas of our Site. We may also use this information to ensure the security of our Services and the Site.
-2. **Personally Identifiable Information provided directly by you or via third parties.** Except as set forth in this Privacy Notice or as specifically agreed to by you, Coursera will not disclose any of your Personal Data. In addition to the other uses set forth in this Privacy Notice, we may disclose and otherwise use Personal Data as described below.
+Coursera collects and uses Personal Data for the purposes described in this section. Where Coursera may disclose Personal Data to third parties in the context of these purposes, such sharing is explained.
 
 External Links
 --------------
@@ -74,8 +73,8 @@ Confidentiality & Security of Personally Identifiable Information
 
 We will use industry standard physical, technical, and administrative security measures to keep your Personal Data confidential and secure, and will not share it with third parties, except as otherwise provided in this Privacy Notice, or unless such disclosure is necessary in special cases, such as a physical threat to you or others, as permitted by applicable law. Because the Internet is not a 100% secure environment, we cannot guarantee the security of Personal Data, and there is some risk that an unauthorized third party may find a way to circumvent our security systems or that transmission of your information over the Internet will be intercepted. It is your responsibility to protect the security of your login information. Please note that e-mail communications are typically not encrypted and should not be considered secure.
 
-Updating or Deleting Your Personal Data
----------------------------------------
+Your Rights
+-----------
 
 You have certain rights in relation to your Personal Data. You can access your Personal Data and confirm that it remains correct and up-to-date, choose whether or not you wish to receive material from us or some of our partners, and request that we delete or provide you with a copy of your personal data by logging into the Site, selecting ‘Settings’ from the dropdown in the top right, and scrolling down to find the appropriate option. The ability to delete an account may be disabled for some users, particularly those who are enrolled in for-credit offerings such as degrees, MasterTrack certificate programs, and other similar offerings.
 
@@ -88,7 +87,9 @@ Further information for residents of U.S. States which have passed relevant U.S.
 Questions, Suggestions, and Complaints
 --------------------------------------
 
-If you have any privacy-related questions, suggestions, unresolved problems, or complaints, you may contact us via [privacy@coursera.org](mailto:privacy@coursera.org). If you reside or are located in the EEA, United Kingdom, Switzerland, or other region that offers similar protections, our Data Protection Officer and Privacy Team may assist with all queries regarding our handling of Personal Data at [security@coursera.org](mailto:security@coursera.org). If you reside or are located in the EEA, United Kingdom, Switzerland, or other region that offers similar protections, you may also make a complaint to our supervisory body for data protection matters (namely the UK Information Commissioner's Office or Dutch Autoriteit Persoonsgegevens) or seek a remedy through local courts if you believe that your rights have been breached.
+If you have any privacy-related questions, suggestions, unresolved problems, or complaints, you may contact us via [privacy@coursera.org](mailto:privacy@coursera.org).
+
+If you reside or are located in the EEA, United Kingdom, Switzerland, or other region that offers similar protections, you may also make a complaint to our supervisory body for data protection matters (namely the UK Information Commissioner's Office or Dutch Autoriteit Persoonsgegevens) or seek a remedy through local courts if you believe that your rights have been breached.
 
 Coursera BV serves as the EU Representative for Coursera, Inc. To contact Coursera BV, please use the following contact info:
 
@@ -98,7 +99,7 @@ Coursera BV serves as the EU Representative for Coursera, Inc. To contact Course
     
     Email: eu-representative@coursera.org
 
-Coursera UK Limited serves as the EU Representative for Coursera, Inc. To contact Coursera UK Limited, please use the following contact info:
+Coursera UK Limited serves as the UK Representative for Coursera, Inc. To contact Coursera UK Limited, please use the following contact info:
 
     Post: Coursera UK Limited
           Attn: Privacy Request
@@ -124,7 +125,7 @@ Under privacy laws of certain U.S. States (“U.S. State Privacy Laws”), resid
 International Privacy Practices
 -------------------------------
 
-Our Sites are primarily operated and managed on servers located and operated within the United States. In order to provide our products and Services to you, you may be sending your Personal Data outside of the country where you reside or are located, including to the United States. Accordingly, if you reside or are located outside of the United States, your Personal Data may be transferred outside of the country where you reside or are located, including to countries that may not or do not provide the same level of protection for your Personal Data. We are committed to protecting the privacy and confidentiality of Personal Data when it is transferred. If you reside or are located within the EEA, United Kingdom, Switzerland, or other region that offers similar protections, and such transfers occur, we take appropriate steps to provide the same level of protection for the processing carried out in any such countries as you would have within the EEA or other regions to the extent feasible under applicable law. We participate in and commit to adhering to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks when transferring data from the EEA or Switzerland to the United States. Please see our Privacy Shield Notice below for further information.
+Our Site is primarily operated and managed on servers located and operated within the United States. In order to provide our products and Services to you, you may be sending your Personal Data outside of the country where you reside or are located, including to the United States. Accordingly, your Personal Data may be transferred outside of the country in which you reside or are located, including to countries that may not provide the same level of protection for your Personal Data. We are committed to protecting Personal Data when it is transferred. If you reside or are located within the EEA, United Kingdom, Switzerland (or other region that offers similar protections) and such data transfers occur, we take appropriate steps to ensure an equivalent level of protection for your Personal Data. We participate in and commit to adhering to the EU-U.S. Data Privacy Framework, the UK extension to the EU-U.S. Data Privacy Framework, or the Swiss-U.S. Data Privacy Framework when transferring data from the EEA, UK or Switzerland to the United States. Please see our Data Privacy Framework Notice, below, for further information.
 
 Changing Our Privacy Notice
 ---------------------------
@@ -147,58 +148,46 @@ If you have any questions about how we handle your information, please contact u
 
 * * *
 
-Privacy Shield Notice
-=====================
+Data Privacy Framework (DPF) Notice
+===================================
 
 * * *
 
-_Effective as of January 1, 2022._
+_Effective as of January 1, 2024._
 
 Introduction.
 -------------
 
-Coursera, Inc. (referred to as "we," "us," or "our"), believes in protecting your privacy.
+Coursera, Inc. (referred to as "we," "us," or "our"), believes in protecting your privacy. This DPF Notice contains supplementary information relating to Personal Data transferred on the basis of the EU-U.S. Data Privacy Framework, the UK extension to the EU-U.S. Data Privacy Framework, or the Swiss-U.S. Data Privacy Framework. This DPF Notice should be read in conjunction with Coursera’s [Privacy Notice](https://www.coursera.org/about/privacy), which provides details of the Personal Data processed, purposes for which Personal Data is collected, processed and disclosed, types of third parties to which Personal Data is disclosed, and rights of individuals. To the extent of any conflict between this DPF Notice and Coursera’s Privacy Notice, this DPF Notice prevails.
 
-We participate in and commit to adhering to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks which includes the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement (the "Principles") for all transfers of personal data from the EEA, Switzerland, or the United Kingdom to the U.S. To learn more about Privacy Shield, please visit the U.S. Department of Commerce Privacy Shield website: [https://www.privacyshield.gov/](https://www.privacyshield.gov/). For more information regarding our Privacy Shield certification, please click [here](https://www.privacyshield.gov/participant?id=a2zt000000001EEAAY&status=Active). When we use the term "Personal Information" in this Privacy Shield Notice, we are referring to any information that (i) is recorded in any form; (ii) is about an identified or identifiable individual; and (iii) is received by us from the EEA, Switzerland, or the United Kingdom.
+We participate in and commit to adhering to the EU-U.S. Data Privacy Framework, the UK extension to the EU-U.S. Data Privacy Framework, and the Swiss-U.S. Data Privacy Framework (together the “DPF”) which includes the DPF Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability (the "Principles") for transfers of Personal Data from the EEA, UK and Switzerland, respectively, to the U.S. To learn more about the DPF, please visit the DPF website: [https://www.dataprivacyframework.gov](https://www.dataprivacyframework.gov/). For more information regarding our DPF certification, please click [here](https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt000000001EEAAY&status=Active) or search for ‘Coursera’ in the DPF list of participants.
 
-When we use the term "Sensitive Personal Information" in this Privacy Shield Notice, we are referring to a particular subset of an individual’s Personal Information that provides details of his or her race, ethnic origin, sexual orientation, political opinions, religious or philosophical beliefs, or trade union membership or that concerns his or her health.
+Your Choices
+------------
 
-The purpose of this Privacy Shield Notice is to outline our general practices for implementing the Principles with respect to the Personal Information we collect. If you would like to obtain additional information regarding our privacy practices in connection with information collected on this website in general, please refer to our online Privacy Notice.
+We will offer you the opportunity to opt-out of your Personal Data (or to provide explicit consent for Sensitive Personal Data) being: (i) disclosed to a third party (other than an agent performing tasks on behalf of and under the instructions of Coursera) ); or (ii) used for a purpose materially different from the purpose for which it was originally collected (as set out in our Privacy Notice), or subsequently authorized by you, when the circumstances arise. You also have the ability to opt out at any time from the use of your Personal Data for direct marketing and certain uses of tracking technologies purposes. To exercise this right, please check your account and cookie settings. If you have further questions related to the above, you can also contact us at [privacy@coursera.org](mailto:privacy@coursera.org).
 
-Principles.
------------
+Recourse, Enforcement and Liability
+-----------------------------------
 
-1. **Notice**. We will provide you with timely and appropriate notice in our Terms of Use and Privacy Notice, describing what Personal Information we are collecting, how we will use that information, and the types of third parties with whom we may share such information (and the reasons we do so). Please review these documents carefully. Where we process personal data on behalf of our business partners, we will work with them to help them provide appropriate notice to you.
-    
-2. **Choice**. We will offer you the opportunity to opt-out of your Personal Information (or to provide explicit consent for Sensitive Personal Information) being: (i) disclosed to a third party (other than a service provider as set forth below); or (ii) used for a purpose materially different from the purpose for which it was originally collected (as set out in our Privacy Notice), or subsequently authorized by you, when the circumstances arise. You also have the ability to opt out at any time from the use of your Personal Information for direct marketing purposes. To exercise this right, please check your settings options. If you have further questions related to the above, you can also contact us at [privacyshield@coursera.org](mailto:privacyshield@coursera.org).
+We will regularly review our compliance with the statements set forth in this DPF Notice, and we will provide an independent way to resolve complaints about our privacy practices. We encourage interested persons to first contact us (contact information provided below) and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personal Data in accordance with the Principles. If your enquiry is not satisfactorily addressed by us, we have registered with the International Centre for Dispute Resolution ("ICDR"), a division of the American Arbitration Association, to provide independent third party dispute resolution (free of charge) to you. To contact ICDR and/or learn more about the company’s dispute resolution services, including complaint submission, please visit: [https://go.adr.org/dpf\_irm.html](http://go.adr.org/privacyshield.html). There may also be circumstances when disputes can be resolved through the DPF binding arbitration process. Please see the [DPF website for further information](https://www.dataprivacyframework.gov/s/article/My-Rights-under-the-Data-Privacy-Framework-DPF-Program-dpf). For residents of Switzerland, the Swiss Federal Data Protection and Information Commissioner’s authority will replace that of the EU bodies. For residents of the United Kingdom, the Information Commissioner’s Office will serve this role.
 
-Where we process personal data on behalf of our business partners, we will work with them to ensure you are offered appropriate choices (and means to exercise those choices) for limiting use or disclosure of your personal data (where appropriate).
+In the context of an onward transfer, Coursera has responsibility for the processing of Personal Data it receives under the DPF and subsequently transfers to a third party acting as an agent on its behalf. Coursera shall remain liable under the Principles if its agent processes such Personal Data in a manner inconsistent with the Principles, unless Coursera proves that it is not responsible for the event giving rise to the damage.
 
-Notwithstanding the foregoing, you agree that we may disclose Personal Information under the following circumstances without offering you an opportunity to opt out of such disclosure: (i) to our Content Providers and other service providers that we have retained to perform requested Services on our behalf; (ii) if we are required to do so by law or legal process; (iii) pursuant to valid requests by law enforcement or other government authorities (which we are legally required to respond to); and (iv) when we believe disclosure is necessary to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. In addition, we reserve the right to transfer Personal Information in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution, or liquidation). Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use the Personal Information in a manner consistent with this Privacy Shield Notice.
+Jurisdiction
+------------
 
-1. **Onward Transfers (Transfer to Third Parties)**. We will only transfer Personal Information to third parties where the third party: (i) has provided satisfactory assurances to us that it will protect the Personal Information in accordance with this Privacy Shield Notice and the Principles; (ii) is located in the EU or a country considered "adequate" for privacy by the EU Commission, and therefore is required to comply with the EU data protection laws or substantially equivalent privacy laws; or (iii) has certified to Privacy Shield, and is independently responsible for complying with the Principles.
+As part of our participation in DPF, we are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission and other authorized statutory bodies.
 
-Where we have knowledge that a third party to whom we have provided Personal Information is processing that Personal Information in a manner contrary to this Privacy Shield Notice or the Principles, we will take reasonable steps to prevent or terminate processing by the third party until such time the third party can process Personal Information in compliance with this Privacy Shield Notice and the Principles. Under certain circumstances, we may be potentially liable if these requirements are not met.
+Modifications
+-------------
 
-1. **Data Security**. We will take reasonable and appropriate measures to protect Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction. We have implemented appropriate physical, electronic and managerial procedures to help safeguard and secure Personal Information from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
-    
-2. **Data Integrity and Purpose Limitation**. We will process Personal Information in a manner that is compatible with and relevant to the purpose for which it was collected or authorized by you. To the extent necessary for those purposes, we will take reasonable steps to ensure that Personal Information is accurate, complete, current, and reliable for its intended use.
-    
-3. **Access**. Upon request, we will provide you with reasonable access to the Personal Information about you that we hold. We will also take reasonable steps to correct, update, amend, or delete any information that is demonstrated to be inaccurate, except where the burden or expense of doing so would be disproportionate to the risks to your privacy in the case in question or where the rights of third parties would be violated. Where we process personal data on behalf of our business partners, we will work with them in complying with such requests in accordance with applicable law.
-    
-4. **Recourse; Enforcement**. We will regularly review our compliance with the statements set forth in this Privacy Shield Notice, and we will provide an independent way to resolve complaints about our privacy practices. We encourage interested persons to first contact us (contact information provided below) and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personal Information in accordance with the Principles. If your inquiry is not satisfactorily addressed by us, we have registered with the International Centre for Dispute Resolution ("ICDR"), a division of the American Arbitration Association, to provide independent third party dispute resolution (free of charge) to you. To contact ICDR and/or learn more about the company’s dispute resolution services, including complaint submission, please visit: [http://go.adr.org/privacyshield.html](http://go.adr.org/privacyshield.html). There may also be circumstances when disputes can be resolved through the Privacy Shield binding arbitration process. Please see the [Privacy Shield website for further information](https://www.privacyshield.gov/article?id=C-Pre-Arbitration-Requirements). For residents of Switzerland, the Swiss Federal Data Protection and Information Commissioner’s authority will replace that of the EU bodies. For residents of the United Kingdom, the Information Commissioner’s Office will serve this role.
-    
-5. **Jurisdiction**. As part of our participation in Privacy Shield, we are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission and other authorized statutory bodies.
+We may amend this DPF Notice from time-to-time in accordance with the requirements of the DPF or a successor data transfer framework. The most recent version of the DPF Notice will always be posted to this website. Anytime that we do make such changes, we will also update the effective date listed at the top of the DPF Notice. Please be sure to review the most recent version of the DPF Notice each time that you visit this website so that you are aware of how we collect, use, and retain Personal Data.
 
-Modifications.
---------------
+Contact Us
+----------
 
-We may amend this Privacy Shield Notice from time-to-time in accordance with the requirements of the EU-U.S. or Swiss-U.S. Privacy Shield Framework. The most recent version of the Privacy Shield Notice will always be posted to this website. Anytime that we do make such changes, we will also update the effective date listed at the top of the Privacy Shield Notice. Please be sure to review the most recent version of the Privacy Shield Notice each time that you visit this website so that you are aware of how we collect, use, and retain personal information.
-
-Contact Us.
------------
-
-Please contact us with any questions or comments about this Privacy Shield Notice, transfer of your personal information from the EEA, Switzerland, or the United Kingdom to the U.S., our privacy practices, or your consent choices by email at [privacyshield@coursera.org](mailto:privacyshield@coursera.org).
+Please contact us with any questions or comments about this DPF Notice, transfer of your Personal Data from the EEA, UK or Switzerland to the U.S., our privacy practices, or your consent choices by email at [privacy@coursera.org](mailto:privacy@coursera.org).
 
 * * *
 
