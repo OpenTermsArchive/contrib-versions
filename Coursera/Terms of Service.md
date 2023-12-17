@@ -37,7 +37,7 @@ Subject to these Terms and our Policies, we grant you a limited, personal, non-e
 
 #### Commercial Use
 
-Any use of our Services for commercial purposes is strictly prohibited. Any commercial use must be subject to a separate agreement with Coursera, Inc. Refer to our Enterprise page for more information. If you are an organization already using our Services, separate terms apply. These terms do not govern the relationship between your organization and Coursera.
+Any use of our Services for commercial purposes is strictly prohibited. Any commercial use must be subject to a separate agreement with Coursera, Inc. Refer to our [Enterprise page](https://www.coursera.org/business) for more information. If you are an organization already using our Services, separate terms apply. These terms do not govern the relationship between your organization and Coursera.
 
 2\. Content Offerings
 ---------------------
