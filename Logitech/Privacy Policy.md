@@ -119,7 +119,7 @@ Logitech processes personal data for one or more of the lawful bases specified b
 
 ##### Your rights and choices
 
-If you are a Logitech customer within the EU, you have the rights described below with respect to Logitech’s processing of your personal data.
+If you are a Logitech customer within the EEA, the UK or CH, you may have the rights described below with respect to Logitech’s processing of your personal data.
 
 ###### Right of access and explanation
 
