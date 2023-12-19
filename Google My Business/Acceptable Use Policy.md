@@ -3,7 +3,7 @@ Guidelines for representing your business on Google
 
 If your business either has a physical location that customers can visit, or travels to customers where they are, you can create a Business Profile on Google. To create a successful Business Profile that won’t be suspended requires that you:
 
-* Avoid prohibited content. [Learn what content is prohibited](https://support.google.com/business/answer/3038177#illegal).
+* Avoid prohibited content. [Learn what content is prohibited](https://support.google.com/contributionpolicy/answer/7400114).
 * Reflect your business accurately.
 * Comply with the policies in this article.
 
