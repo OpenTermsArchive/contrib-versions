@@ -1,4 +1,4 @@
-**Last updated on March 23, 2023. [See changes here](https://forum.sketchfab.com/t/terms-of-use-update/18680/last?utm_source=website&utm_campaign=terms_page).**
+**Last updated on March 23, 2023.**
 
 Sketchfab, Inc. ("Sketchfab," "we" or "us") is pleased to provide you with access to the Sketchfab platform, which allows a user ("User" or "you") to upload, download, and/or publish 3D files on the Sketchfab website, or embed on third-party websites by means of our proprietary viewer. All elements of the Sketchfab platform, along with our proprietary 3D viewing technology and software, are referred to herein as the "Services," and may be modified from time to time at our sole discretion.
 
