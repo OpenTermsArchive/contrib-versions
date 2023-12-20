@@ -112,7 +112,7 @@ Other languages:
 * [ತುಳು](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/tcy "Policy:Privacy policy/tcy (1% translated)")
 * [മലയാളം](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ml "സ്വകാര്യതാനയം (26% translated)")
 * [සිංහල](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/si "Policy:Privacy policy/si (4% translated)")
-* [ไทย](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/th "นโยบายความเป็นส่วนตัว (78% translated)")
+* [ไทย](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/th "นโยบายความเป็นส่วนตัว (100% translated)")
 * [ပအိုဝ်ႏဘာႏသာႏ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/blk "နမ်းပဲင်ႏရေꩻရာႏမူဝါဒ (26% translated)")
 * [ဖၠုံလိက်](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/kjp "Policy:Privacy policy/kjp (8% translated)")
 * [ဘာသာ မန်](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mnw "ဝါဒအခေါင်ညးပကင် (1% translated)")
