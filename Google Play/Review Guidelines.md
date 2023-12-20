@@ -230,4 +230,4 @@ Developer
     
 * ### Status dashboard
     
-    If you're having trouble accessing a Google product, there's a chance that we're currently experiencing a temporary problem. You can check for outages and downtime on the [G Suite Status Dashboard](http://www.google.com/appsstatus).
+    If you're having trouble accessing a Google product, there's a chance we're currently experiencing a temporary problem. You can check for outages and downtime on the [Status Dashboard](http://www.google.com/appsstatus).
