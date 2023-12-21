@@ -7,7 +7,7 @@ Welcome to Bumble’s Terms and Conditions of Use (these “Terms”). This is a
 
 You should also note that Section 13 of these Terms contains provisions governing how claims that you and Bumble Group have against each other are resolved. **In particular, it contains an arbitration agreement that will, with limited exceptions, require disputes between us to be submitted to binding and final arbitration.** You have a right to opt out of the arbitration agreement pursuant to Section 13 below. If you do not opt out of the arbitration agreement in accordance with Section 13, (1) you will only be permitted to pursue claims and seek relief against us on an individual basis only; and (2) you are waiving your right to seek relief in a court of law and to have a jury trial on your claims.
 
-And a notice to California subscribers: You may cancel your subscription and request a refund at any time prior to midnight of the third business day following the date you subscribed. If you subscribed using your Apple ID, refunds are handled by Apple, not Bumble. If you wish to request a refund, please visit [https://getsupport.apple.com](https://getsupport.apple.com/). If you subscribed using your Google Play Store account or through Bumble, please contact [customer support](https://bumble.com/en/help/#contact-us).
+And a notice to California subscribers: You may cancel your subscription and request a refund at any time prior to midnight of the third business day following the date you subscribed. If you subscribed using your Apple ID, refunds are handled by Apple, not Bumble. If you wish to request a refund, please visit [Apple Support](https://getsupport.apple.com/). If you subscribed using your Google Play Store account or through Bumble, please contact [customer support](https://bumble.com/en/help/#contact-us).
 
 1\. BUMBLE RULES
 ----------------
@@ -57,7 +57,7 @@ Bumble Group operates a zero-tolerance policy for this kind of content.
 
 ### Your Content
 
-You agree that Your Content must comply with our Guidelines at [https://bumble.com/en/guidelines](https://bumble.com/en/guidelines), as updated from time to time. As Your Content is unique, you are responsible and liable for Your Content and will indemnify, defend, release, and hold us harmless from any claims made in connection with Your Content. Sorry that was a bit of a mouthful, but you are what you post!
+You agree that Your Content must comply with our Guidelines at [Guidelines](https://bumble.com/en/guidelines) as updated from time to time. As Your Content is unique, you are responsible and liable for Your Content and will indemnify, defend, release, and hold us harmless from any claims made in connection with Your Content. Sorry that was a bit of a mouthful, but you are what you post!
 
 You may not display any personal contact or banking information on your individual profile page whether in relation to you or any other person (for example, names, home addresses or postcodes, telephone numbers, email addresses, URLs, credit/debit card or other banking details). If you do choose to reveal any personal information about yourself to other users, whether via email or otherwise, it is at your own risk. We encourage you to use the same caution in disclosing details about yourself to third parties online as you would under any other circumstances.
 
@@ -154,7 +154,7 @@ YOU, THE BUYER, MAY CANCEL YOUR SUBSCRIPTION, WITHOUT PENALTY OR OBLIGATION, AT 
 
 To request a refund:
 
-**To request a refund:** In addition to cancelling, eligible subscribers must request a refund to receive one. If you subscribed using your Apple ID, refunds are handled by Apple, not Bumble. To request a refund, go to iTunes, click on your Apple ID, select “Purchase history,” find the transaction and hit “Report Problem”. You can also submit a request at [https://getsupport.apple.com](https://getsupport.apple.com/).
+**To request a refund:** In addition to cancelling, eligible subscribers must request a refund to receive one. If you subscribed using your Apple ID, refunds are handled by Apple, not Bumble. To request a refund, go to iTunes, click on your Apple ID, select “Purchase history,” find the transaction and hit “Report Problem”. You can also submit a request at [Apple Support](https://getsupport.apple.com/).
 
 For all other purchases: please contact [customer support](https://bumble.com/en/help/#contact-us) with your order number (you can find the order number in the order confirmation email, or if you purchased from the Google Play Store by logging in to Google Wallet). You may also mail or deliver a signed and dated notice which states that you, the buyer, are cancelling this agreement, or words of similar effect. Please also include the email address or mobile number associated with your account along with your order number. This notice shall be sent to: Bumble, Attn.: Cancellations, P.O. Box 300940, Austin, Texas, 78703.
 
@@ -241,8 +241,8 @@ The following additional terms and conditions apply to you if you download the A
 
 In the event of a conflict between a Third Party Store’s or mobile carrier’s applicable terms and conditions and these Terms, the terms and conditions of the Third Party Store or mobile carrier shall govern and control. We are not responsible and have no liability whatsoever for third-party goods or services you obtain through a Third Party Store or mobile carrier. We encourage you to make whatever investigation you feel necessary or appropriate before proceeding with any online transaction with any of these third parties.
 
-13\. DISPUTE RESOLUTION.
-------------------------
+13\. DISPUTE RESOLUTION
+-----------------------
 
 **Please read the following arbitration agreement in this Section (“Arbitration Agreement”) carefully. Unless you opt out in the manner described in Section 13(10) below, this Arbitration Agreement requires you and Bumble Group to resolve disputes by binding arbitration instead of in court, and limits the manner in which we may seek relief from each other.**
 
@@ -258,7 +258,7 @@ The informal dispute resolution conference shall occur within 60 days of receipt
 
 Any statute of limitations will be tolled while the parties engage in the informal dispute resolution process described in this section.
 
-**How Do You Start The Arbitration Process?** If you and Bumble Group are unable to resolve the dispute within 60 days, either party may proceed to file a claim for arbitration. To begin the arbitration process, you or Bumble Group must submit notice by certified mail of the claim with an individualised arbitration demand. To be valid, the demand must contain the name of the claiming party (you or Bumble Group), your or Bumble Group’s mailing address, the email address or phone number associated with your Bumble account (if applicable), and a detailed description of the dispute and the relief sought. Notice to Bumble Group must be submitted to our registered agent: CT Corporation, 1209 Orange Street, City of Wilmington, County of New Castle, Delaware 19801.
+**3\. How Do You Start The Arbitration Process?** If you and Bumble Group are unable to resolve the dispute within 60 days, either party may proceed to file a claim for arbitration. To begin the arbitration process, you or Bumble Group must submit notice by certified mail of the claim with an individualised arbitration demand. To be valid, the demand must contain the name of the claiming party (you or Bumble Group), your or Bumble Group’s mailing address, the email address or phone number associated with your Bumble account (if applicable), and a detailed description of the dispute and the relief sought. Notice to Bumble Group must be submitted to our registered agent: CT Corporation, 1209 Orange Street, City of Wilmington, County of New Castle, Delaware 19801.
 
 **4\. What Are The Rules Of Arbitration?** The Federal Arbitration Act (“FAA”) governs this Arbitration Agreement and applies to the interpretation and enforcement of this Arbitration Agreement. If the FAA is found to not apply to any issue regarding the interpretation or enforcement of this Arbitration Agreement, that that issue shall be determined by Texas law, notwithstanding choice-of-law principles, pursuant to Section 17 of the Terms. The applicable arbitration provider depends on where you live. If you live in California, the arbitration will be administered by ADR Services, Inc. under its most current arbitration rules and procedures, available at https://www.adrservices.com/services-2/arbitration-rules/. If you live outside of California, the arbitration will be administered by National Arbitration and Mediation under its most current Comprehensive Dispute Resolution Rules and Procedures, available at https://www.namadr.com/resources/rules-fees-forms, or under its most current Supplemental Rules for Mass Arbitrations, as applicable, available at https://www.namadr.com/content/uploads/2021/12/SupplementalRules12.22.21.pdf. If the applicable arbitration provider is not available to arbitrate, including because it is not able to administer the arbitration(s) consistent with the rules, procedures, and terms of this Arbitration Agreement, including those described in Section 13(8) (Mass Filings), the parties will select an alternative arbitral forum. If the parties cannot agree on an appropriate alternative arbitration provider, then the parties will ask a court of competent jurisdiction to appoint an arbitrator pursuant to 9 U.S.C. § 5 that is able to administer the arbitration(s) consistent with the rules, procedures, and terms of this Arbitration Agreement. This Arbitration Agreement will govern to the extent it conflicts with the arbitration provider’s rules.
 
@@ -379,4 +379,4 @@ The Terms constitute a binding legal agreement between you as user (“you”) a
 
 ### Effective date
 
-The Terms were last updated on: July 24, 2023.
+The Terms were last updated on: 21 December, 2023.
