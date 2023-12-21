@@ -12,7 +12,7 @@ Hello. You should read these terms and conditions in full because they apply eve
 2. We’re not responsible for anything that you post or say while you are on Badoo and we don’t monitor the content of the site, but if we do see or someone alerts us that you have posted something that we think is inappropriate then we are allowed at our discretion to remove it.
 3. If you post any content that actually belongs to someone else and they get annoyed (or even call in their lawyers), we are not in the firing line. You have to take responsibility for what you post.
 4. Please refer to our Community Guidelines and Safety Tips for additional Dos and Don’ts, and information on staying safe.
-5. If you are concerned about how your data is being used by Badoo then please refer to our [Privacy Policy](https://badoo.com/en/privacy/), which explains how we treat your personal data and protect your privacy when you use Badoo. By using Badoo, you agree that we can use such data in accordance with our Privacy Policy. Our website and apps also use cookies or similar technologies which we tell you more about [here](https://badoo.com/privacy/#cookies). You may set your browser and your mobile settings to block cookies and local storage devices, but if you do so, you may not be able to access the features that Badoo offers.
+5. If you are concerned about how your data is being used by Badoo then please refer to our [Privacy Policy](https://badoo.com/en/privacy/), which explains how we treat your personal data and protect your privacy when you use Badoo. By using Badoo, you agree that we can use such data in accordance with our Privacy Policy. Our website and apps also use cookies or similar technologies which we tell you more about on our [Privacy Policy](https://badoo.com/privacy/#cookies) page. You may set your browser and your mobile settings to block cookies and local storage devices, but if you do so, you may not be able to access the features that Badoo offers.
 
 The full legal bit
 ------------------
@@ -162,7 +162,7 @@ Content that you have uploaded to Badoo, other than your Profile (such as commen
 
 You can report any abuse or complain about Content on Badoo by contacting us via [Feedback page](https://badoo.com/terms/feedback), outlining the abuse and or complaint. You can also report a user directly from a profile, by clicking the ‘Report Abuse’ link on their profile, choosing the reason for the complaint and providing us with any additional information you think fit.
 
-We will always try our best to help resolve any issue that you may encounter with our service. If your complaint or dispute remains unresolved, however, you may be eligible to use the European Commission’s online dispute resolution platform [here](https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage).
+We will always try our best to help resolve any issue that you may encounter with our service. If your complaint or dispute remains unresolved, however, you may be eligible to use the [European Commission’s online dispute resolution platform](https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage).
 
 ### Are other users vetted?
 
@@ -256,4 +256,4 @@ Our registered office is at The Broadgate Tower, Third Floor, 20 Primrose Street
 Effective date
 --------------
 
-The Terms were last updated on: 14th July 2023.
+The Terms were last updated on: 21st December 2023.
