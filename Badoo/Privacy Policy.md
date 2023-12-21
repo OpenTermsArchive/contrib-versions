@@ -304,7 +304,7 @@ If you want to exercise any of your rights listed above please visit our [Feedba
 
 If you have a concern about how we have processed your request or your personal data, you should contact us in the first instance via the contact details listed above.
 
-If you feel we have not resolved your concern, you have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](http://www.ico.org.uk/)). If you live in a country or territory located in the European Union (EU) or European Economic Area (EEA), you may also get in touch with your local [Data Protection Regulator](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080). If you live in a country outside the EU, you may have the right to lodge a complaint with your local privacy or data protection regulator.
+If you feel we have not resolved your concern, you have the right to make a complaint at any time to the [Information Commissioner’s Office](http://www.ico.org.uk/) (ICO), the UK supervisory authority for data protection issues. If you live in a country or territory located in the European Union (EU) or European Economic Area (EEA), you may also get in touch with your local [Data Protection Regulator](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080). If you live in a country outside the EU, you may have the right to lodge a complaint with your local privacy or data protection regulator.
 
 ### EU Representative
 
@@ -317,7 +317,7 @@ Postal address: 1st Floor, 6 Lapps Quay, Cork, Ireland
 10\. DATA LOCATIONS.
 --------------------
 
-We want you to be able to access Badoo wherever you happen to be in the world. To enable us to provide that service, we operate a global network of servers including in the US, UK, EU, and (for Users located in Russia) Russia. The hardware is located in third-party data centres but is owned by the Badoo Group. Data collected by Advertising Partners and other Service Providers may also be held outside the UK and the European Economic Area. We ensure that the data is adequately protected by ensuring that valid, legal mechanisms are in place such as: EU approved model clauses (which can be found [here](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en)), and implementing robust contractual standards. If you want more information relating to the nature of the safeguards we have in place, please email DPO@badoo.com.
+We want you to be able to access Badoo wherever you happen to be in the world. To enable us to provide that service, we operate a global network of servers including in the US, UK, EU, and (for Users located in Russia) Russia. The hardware is located in third-party data centres but is owned by the Badoo Group. Data collected by Advertising Partners and other Service Providers may also be held outside the UK and the European Economic Area. We ensure that the data is adequately protected by ensuring that valid, legal mechanisms are in place such as: [EU approved model clauses](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en), and implementing robust contractual standards. If you want more information relating to the nature of the safeguards we have in place, please email DPO@badoo.com.
 
 11\. DATA RETENTION AND DELETION.
 ---------------------------------
@@ -340,4 +340,4 @@ Thanks for reading, we hope we didn’t drone on for too long!
 
 As Badoo evolves, we may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at https://badoo.com/privacy/. If we make a change to this policy that, in our sole discretion, is material, we will notify you, for example, via an email to the email associated with your Account or by posting a notice within Badoo.
 
-**Effective date.** This Privacy Policy was last updated on 7 December 2023.
+**Effective date.** This Privacy Policy was last updated on 21 December 2023.
