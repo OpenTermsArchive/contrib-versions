@@ -2441,7 +2441,7 @@ Users may not engage in the acts indicated in any of the following items when us
     * Use of Software to confirm the normal mechanical operation of illustrating tablets, PC, and the like on sale with the Software (For promotional purpose of the mechanical products).
     * Any other situations specifically permitted by the Company.
 7. Transferring, lending or licensing Software to third parties.
-8. Using Provided Content, or 3D models or Output Items containing Provided Content, to create applications having functions that allow avatars, items, or other 3D models to be created by deforming meshes or combining meshes or textures; provided, however, that this does not apply when the User is creating the application for personal use
+8. Using Provided Content, or 3D models or Output Items containing Provided Content, to create applications that can generate or output avatars, items, or other 3D models consisting of deformed or combined meshes and textures.
 9. Acts that are prohibited in Article 14 of pixiv Master Terms of Use or related guidelines.
 
 Article 6: Upgrades and Suspension of Provision etc.
@@ -2520,6 +2520,10 @@ Supplementary Provisions
 Revision
 --------
 
+* December 21st, 2023
+    
+    > Creation of applications with output features in violation of Article 5 is expressly prohibited.
+    
 * September 7, 2023
     
     > "Article 2: Definitions" has been revised to reflect the release of VRoid Studio for iPad.
