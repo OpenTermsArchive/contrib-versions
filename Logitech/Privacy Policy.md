@@ -182,7 +182,7 @@ Logitech and its U.S. affiliates and subsidiaries (Logitech) has certified to th
 2. Blue Microphones Holding Corporation
 3. General Workings Inc.
 4. Logitech (Slim Devices) Inc. (Fka Spotlife Inc.)
-5. Logitech (Streaming Media) Inc. (Fka. Logitech (Slim Devices) Inc.
+5. Logitech (Streaming Media) Inc. (Fka. Logitech (Slim Devices) Inc.)
 6. Logitech Inc.
 7. Logitech Latin America Inc.
 8. Meetio Inc.
