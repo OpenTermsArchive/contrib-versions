@@ -67,10 +67,9 @@ Recherche
     Retour
     
     * * [Tout sur le ministère de la Santé et de la Prévention](https://sante.gouv.fr/ministere/)
-        * [Le ministre et la ministre déléguée](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/)
-            * [Aurélien Rousseau](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/aurelien-rousseau/)
-            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/agnes-firmin-le-bodo/)
-            * [Organisation](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/organisation-11312/)
+        * [La ministre de la Santé et de la Prévention, ministre chargée de l’Organisation territoriale et des Professions de santé](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/)
+            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/agnes-firmin-le-bodo/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -795,10 +794,9 @@ Recherche
     Retour
     
     * * [Tout sur le ministère de la Santé et de la Prévention](https://sante.gouv.fr/ministere/)
-        * [Le ministre et la ministre déléguée](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/)
-            * [Aurélien Rousseau](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/aurelien-rousseau/)
-            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/agnes-firmin-le-bodo/)
-            * [Organisation](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/organisation-11312/)
+        * [La ministre de la Santé et de la Prévention, ministre chargée de l’Organisation territoriale et des Professions de santé](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/)
+            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/agnes-firmin-le-bodo/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -1497,10 +1495,9 @@ Recherche
     Retour
     
     * * [Tout sur le ministère de la Santé et de la Prévention](https://sante.gouv.fr/ministere/)
-        * [Le ministre et la ministre déléguée](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/)
-            * [Aurélien Rousseau](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/aurelien-rousseau/)
-            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/agnes-firmin-le-bodo/)
-            * [Organisation](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/organisation-11312/)
+        * [La ministre de la Santé et de la Prévention, ministre chargée de l’Organisation territoriale et des Professions de santé](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/)
+            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/agnes-firmin-le-bodo/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -2130,10 +2127,9 @@ Recherche
     Retour
     
     * * [Tout sur le ministère de la Santé et de la Prévention](https://sante.gouv.fr/ministere/)
-        * [Le ministre et la ministre déléguée](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/)
-            * [Aurélien Rousseau](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/aurelien-rousseau/)
-            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/agnes-firmin-le-bodo/)
-            * [Organisation](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/organisation-11312/)
+        * [La ministre de la Santé et de la Prévention, ministre chargée de l’Organisation territoriale et des Professions de santé](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/)
+            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/agnes-firmin-le-bodo/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -2502,10 +2498,9 @@ Recherche
     Retour
     
     * * [Tout sur le ministère de la Santé et de la Prévention](https://sante.gouv.fr/ministere/)
-        * [Le ministre et la ministre déléguée](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/)
-            * [Aurélien Rousseau](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/aurelien-rousseau/)
-            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/agnes-firmin-le-bodo/)
-            * [Organisation](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/organisation-11312/)
+        * [La ministre de la Santé et de la Prévention, ministre chargée de l’Organisation territoriale et des Professions de santé](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/)
+            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/agnes-firmin-le-bodo/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -2874,10 +2869,9 @@ Recherche
     Retour
     
     * * [Tout sur le ministère de la Santé et de la Prévention](https://sante.gouv.fr/ministere/)
-        * [Le ministre et la ministre déléguée](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/)
-            * [Aurélien Rousseau](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/aurelien-rousseau/)
-            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/agnes-firmin-le-bodo/)
-            * [Organisation](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/organisation-11312/)
+        * [La ministre de la Santé et de la Prévention, ministre chargée de l’Organisation territoriale et des Professions de santé](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/)
+            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/agnes-firmin-le-bodo/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -3246,10 +3240,9 @@ Recherche
     Retour
     
     * * [Tout sur le ministère de la Santé et de la Prévention](https://sante.gouv.fr/ministere/)
-        * [Le ministre et la ministre déléguée](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/)
-            * [Aurélien Rousseau](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/aurelien-rousseau/)
-            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/agnes-firmin-le-bodo/)
-            * [Organisation](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/organisation-11312/)
+        * [La ministre de la Santé et de la Prévention, ministre chargée de l’Organisation territoriale et des Professions de santé](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/)
+            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/agnes-firmin-le-bodo/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -3618,10 +3611,9 @@ Recherche
     Retour
     
     * * [Tout sur le ministère de la Santé et de la Prévention](https://sante.gouv.fr/ministere/)
-        * [Le ministre et la ministre déléguée](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/)
-            * [Aurélien Rousseau](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/aurelien-rousseau/)
-            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/agnes-firmin-le-bodo/)
-            * [Organisation](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/organisation-11312/)
+        * [La ministre de la Santé et de la Prévention, ministre chargée de l’Organisation territoriale et des Professions de santé](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/)
+            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/agnes-firmin-le-bodo/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -3990,10 +3982,9 @@ Recherche
     Retour
     
     * * [Tout sur le ministère de la Santé et de la Prévention](https://sante.gouv.fr/ministere/)
-        * [Le ministre et la ministre déléguée](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/)
-            * [Aurélien Rousseau](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/aurelien-rousseau/)
-            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/agnes-firmin-le-bodo/)
-            * [Organisation](https://sante.gouv.fr/ministere/le-ministre-et-la-ministre-deleguee/organisation-11312/)
+        * [La ministre de la Santé et de la Prévention, ministre chargée de l’Organisation territoriale et des Professions de santé](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/)
+            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/agnes-firmin-le-bodo/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
