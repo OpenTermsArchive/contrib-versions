@@ -4,7 +4,7 @@ Privacy Policy (printable version)
 General information
 -------------------
 
-* Last updated: 1 June 2023
+* Last updated: 20 December 2023
 * Here we inform you about data processing in connection with the entire service XING and its applications (XING, kununu, onlyfy, etc.).
 * New Work SE is the body responsible for the processing of personal data.
 * Our Data Protection Officer is Christian Schmidt.
@@ -36,6 +36,10 @@ The purposes for which we process your [personal data](https://privacy.xing.com/
 #### Duty to provide and necessity of personal data for contract closure
 
 You are not legally required to make your [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) available. Nevertheless, in order to close a user contract you must provide information such as your name and e-mail address. Without this information we are not able to enter into such a contract with you. Within the scope of the user contract, we are contractually obliged to keep the data provided in its precise and complete form for all applications used by you and for the entire duration of the contractual term. During the initial process of data entry we inform you if the provision of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) is necessary for a particular feature or application ("mandatory field"). Where data is required, any failure to provide this information will result in the respective feature or application not being accessible to you the user. In the case of optional data, not making this information available may mean that our services cannot be provided in the same form or scope.
+
+#### Anwendbarkeit des Schweizer Datenschutzgesetzes
+
+Das Schweizer Bundesgesetz über den Datenschutz (Schweizer DSG) gilt für Sachverhalte, die sich in der Schweiz auswirken, auch wenn sie im Ausland veranlasst werden. Diese Datenschutzerklärung dient entsprechend sowohl der Information gemäß [EU-DSGVO](https://privacy.xing.com/de/datenschutzerklaerung/glossar/eu-dsgvo) also auch gemäß Schweizer DSG. Es werden die Begriffe der [EU-DSGVO](https://privacy.xing.com/de/datenschutzerklaerung/glossar/eu-dsgvo) verwendet, also insbesondere „Verarbeitung“, „personenbezogene Daten“, „berechtigtes Interesse" sowie "besondere Kategorien von Daten" statt der im Schweizer DSG verwendeten Begriffe „Bearbeitung“, „Personendaten“, "überwiegendes Interesse" und "besonders schützenswerte Personendaten". Wenn das Schweizer DSG anwendbar ist, bestimmen sich die entsprechenden Begriffe nach dem Schweizer DSG. Den Namen und die Adresse unserer Vertretung in der Schweiz findest Du im [Impressum](https://www.xing.com/legalnotice).
 
 How is your personal data processed?
 ------------------------------------
@@ -431,17 +435,6 @@ You can enable or deactivate this data collection. We recommend you enable it so
     Please note that opting out of cookies is device-specific. This means that if you delete your cookie or use a different computer or web browser, you will need to opt out again. When using mobile apps, you can opt out in the app settings.
     
 
-#### Acoustic
-
-We would like to show you content that is tailored to your interests. We show this content on our websites or in e-mails. To do that, we use the 'Acoustic' service to collect your usage data.  
-  
-You can enable or deactivate this data collection by Acoustic. We recommend you enable it so we can keep providing you with relevant content and with useful tips and information about XING solutions.
-
-* Opt in to data collection with Acoustic
-    
-    Please note that by opting out of data collection, a cookie will be set which saves this setting. If you delete this cookie or use a different device or web browser, you will need to opt out again.
-    
-
 #### Wingify/VWO
 
 We use a tool called VWO to run A/B tests. You can opt out of this kind of web analysis [here](https://vwo.com/opt-out/)
@@ -596,17 +589,9 @@ More information is available [here](https://www.tiktok.com/legal/page/eea/priva
 
 More information is available [here](https://twitter.com/en/privacy)
 
-#### Wonderkind
-
-More information is available [here](https://wonderkind.com/wp-content/uploads/2020/10/Wonderkind-privacy-statement-2020.pdf)
-
 #### Yieldlab
 
 More information is available [here](https://yieldlab.com/datenschutz/)
-
-#### Zeotap
-
-More information is available [here](https://zeotap.com/product-privacy-policy/)
 
 #### Opting out of tracking for the measurement and optimisation of advertising in our applications
 
@@ -660,6 +645,12 @@ If you’d like to prevent tracking by external providers within the XING enviro
     
     As a non-member these changes only apply in the browser you're currently using.
     
+
+#### Opting out of tracking within the XING environment
+
+Opting out of tracking within the XING environment
+
+Opting out of tracking within the XING environment
 
 ### 4\. Information we obtain about you from other sources
 
