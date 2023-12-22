@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: December 15, 2023
+#### Last Updated: December 22, 2023
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -557,15 +557,13 @@ We may delete, upon 30 days’ notice to you, any of Your Content uploaded to AW
 
 **32.3.** As part of regular operation of Amazon WAM, we may update your Amazon WAM desktop applications with software upgrades, patches, and bug fixes.  
 
-#### 33\. AWS Marketplace for Desktop Apps
+#### 33\. AWS B2B Data Interchange
 
-**33.1.** Except to the extent Content made available through AWS Marketplace for Desktop Apps is provided to you under a separate license that expressly states otherwise, neither you nor any End User may, or may attempt to, (a) modify, alter, tamper with, repair, or otherwise create derivative works of any Content, (b) reverse engineer, disassemble, or decompile the Content or apply any other process or procedure to derive the source code of any software included in the Content, (c) resell or sublicense the Content, (d) transfer Content outside the Services without specific authorization to do so, or (e) tamper with or circumvent any controls or make unauthorized copies of the Content.
+**33.1.** When you register as a trading partner to access an AWS B2B Data Interchange Portal established under another AWS account (“B2B Data Interchange Portal”), you are an End User of that AWS account. Content you contribute to a B2B Data Interchange Portal (“Trading Partner Contributed Content”) as an End User is not considered Your Content for the purposes of rights and obligations under the terms of this Agreement. Subject to the non-exclusive license granted by Section 33.2, this does not modify any rights you may hold in your Trading Partner Contributed Content.
 
-**33.2.** AWS may stop providing AWS Marketplace for Desktop Apps (or any features of or listings within AWS Marketplace for Desktop Apps), without prior notice to you. In addition, AWS may disable or remove Content you have purchased on AWS Marketplace for Desktop Apps, if AWS reasonably determines that the Content may violate any Policies or any other regulations, policies, or laws.  
+**33.2.** Trading Partner Contributed Content may be viewed by others who have access to the B2B Data Interchange Portal. Unless you enter into a license with other parties who have access to the B2B Data Interchange Portal specifying different terms, you grant each party who has access a nonexclusive, worldwide, irrevocable license, without restriction, to use the Trading Partner Contributed Content. You represent and warrant that you have all rights necessary to grant this license.
 
-**33.3.** If the applicable AWS Contracting Party is AWS India, parties agree that this Section 33.3 will be applicable:   
-
-You have provided your GST registration number to us so that it can be applied to your purchases, then the information you provide with your registration (including your GST registration number and the name and address associated with your GST registration) will be shared with third parties from whom you have purchased software on the AWS Marketplace for Desktop Apps to the extent necessary for those third parties to comply with GST invoicing regulations and requirements.33.3.2. You will be responsible for identifying and paying all applicable taxes, governmental fees, and charges (including any penalties, interest, and other additions) that may be imposed on you with respect to the purchases you make on the AWS Marketplace for Desktop Apps. The purchase fees and charges payable by you will be exclusive of all applicable Taxes, and will be made free and clear of any deduction or withholding, as may be required by law. For clarity, if any such deduction or withholding (including but not limited to cross-border withholding taxes) is required on any payment, you will pay such additional amount, as necessary, to ensure that the net amount received by AWS or its affiliates is equal to the amount then due and payable by you for your purchases on the AWS Marketplace. AWS or its affiliates will provide you with such tax forms, as are reasonably requested, in order to reduce or eliminate the amount of any withholding or deduction for taxes, in respect of the payments made by you for purchases on the AWS Marketplace. AWS or its affiliates may charge, and you will pay, all applicable Taxes that it or we are legally obligated or authorized to collect from you. AWS or its affiliates will not collect, and you will not pay, any Taxes for which you furnish us a properly completed exemption certificate, or a direct payment permit certificate, for which AWS or its affiliates may claim an available exemption from such Taxes.  
+**33.3.** When you invite another party to register as a trading partner to access your B2B Data Interchange Portal, they become an End User of your AWS account and their Trading Partner Contributed Content is considered Your Content under the terms of the Agreement. You are responsible for the conduct of End Users that you invite, including their Trading Partner Contributed Content.
 
 #### 34\. AWS Directory Service
 
@@ -1410,13 +1408,5 @@ If you do not comply with these requirements or otherwise fail to comply with al
 #### 102\. Amazon WorkSpaces Thin Client
 
 In addition to the Agreement and these Service Terms, use of Amazon WorkSpaces Thin Client devices is subject to [device terms](https://aws.amazon.com/workspaces/thin-client/terms/)[](#_msocom_1). Please review the device terms before using an Amazon WorkSpaces Thin Client device.
-
-#### 103\. AWS B2B Data Interchange
-
-**103.1.** When you register as a trading partner to access an AWS B2B Data Interchange Portal established under another AWS account (“B2B Data Interchange Portal”), you are an End User of that AWS account. Content you contribute to a B2B Data Interchange Portal (“Trading Partner Contributed Content”) as an End User is not considered Your Content for the purposes of rights and obligations under the terms of this Agreement. Subject to the non-exclusive license granted by Section 103.2, this does not modify any rights you may hold in your Trading Partner Contributed Content.
-
-**103.2.** Trading Partner Contributed Content may be viewed by others who have access to the B2B Data Interchange Portal. Unless you enter into a license with other parties who have access to the B2B Data Interchange Portal specifying different terms, you grant each party who has access a nonexclusive, worldwide, irrevocable license, without restriction, to use the Trading Partner Contributed Content. You represent and warrant that you have all rights necessary to grant this license.
-
-**103.3.** When you invite another party to register as a trading partner to access your B2B Data Interchange Portal, they become an End User of your AWS account and their Trading Partner Contributed Content is considered Your Content under the terms of the Agreement. You are responsible for the conduct of End Users that you invite, including their Trading Partner Contributed Content.
 
 [Previous version(s)](https://aws.amazon.com/service-terms/historical/)[](https://aws.amazon.com/service-terms/historical/)
