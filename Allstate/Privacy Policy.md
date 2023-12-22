@@ -1,245 +1,246 @@
-Allstate online _privacy statement_
-===================================
+_Declaración de privacidad en línea_ de Allstate
+================================================
 
-Effective: June 6, 2023
+Fecha de entrada en efecto: 6 junio 2023
 
-This Allstate Online Privacy Statement (“Privacy Statement”) describes the privacy practices of Allstate Insurance Company and the Allstate affiliated companies whose websites and mobile apps link to this Privacy Statement (“Allstate,” “we” “our” or “us”). This Privacy Statement explains the information we collect, why we collect it, how we use and share it, and the choices you can make regarding your information. More information about Allstate affiliates is in the Allstate Affiliates section at the end of this Privacy Statement.
+La Declaración de Privacidad en Línea de Allstate (“Declaración de Privacidad”) describe las prácticas de privacidad de Allstate Insurance Company y las empresas afiliadas de Allstate cuyos sitios web y apps móviles están vinculados a esta Declaración de Privacidad (“Allstate”, “nosotros”, “nuestro”). Esta Declaración de Privacidad explica la información que recopilamos, por qué la recopilamos, cómo la usamos y compartimos, y las decisiones que puedes hacer respecto a tu información. Más información sobre las afiliados de Allstatees disponible en la sección de Afiliados de Allstate al final de esta Declaración de Privacidad.
 
-Customers of Allstate’s insurance, investment and other financial products may also receive a privacy statement for those products in the initial policy package and annual policy documents. Those consumer privacy statements may contain additional information and rights relating to your customer relationship with us. Those privacy statements and this Allstate Online Privacy Statement explain our privacy practices and should be read together.
+Puede que los clientes de seguros, inversiones y otros productos financieros de Allstate también reciban una declaración de privacidad para esos productos en el paquete inicial de póliza y los documentos anuales de póliza. Esas declaraciones de privacidad del consumidor pueden contener información y derechos adicionales relacionados con tu relación de cliente con nosotros. Esas declaraciones de privacidad y esta Declaración de Privacidad en Línea de Allstate explican nuestras prácticas de privacidad y deben leerse juntas.
 
-privacy statement
------------------
+declaración de privacidad
+-------------------------
 
-[download privacy statement](https://delivery.contenthub.allstate.com/api/public/content/3140e554e53b44dfa00a40f15fddca39?v=a9270b36)
+[descargar declaración de privacidad](https://delivery.contenthub.allstate.com/api/public/content/ff8f8375385c401580073bfd86b2daf0?v=8d79cb61)  
 
-[en Español](https://espanol.allstate.com/sobre-allstate/declaracion-de-privacidad-aic.aspx)
+[en inglés](https://www.allstate.com/privacy-center/aic-privacy-statement)
 
-Information we collect and how we collect it
---------------------------------------------
+Información que recopilamos y cómo la recopilamos
+-------------------------------------------------
 
-Allstate collects personal and other information about you. Personal information is information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked (directly or indirectly) with you. Other, non-personal information does not and cannot reveal an individual’s identity such as information that has been de-identified or aggregated. The information we collect varies based on what products and services you have with us.
+Allstate recopila información personal y de otros tipos. La información personal es información que te identifica, se relaciona contigo, te describe, o se puede o podría asociar contigo de manera razonable (directa o indirectamente). Otros tipos de información no personal no revela ni puede revelar la identidad de un individuo, cómo información que se ha desidentificado o se ha conjuntado. La información que recopilamos varía según los productos y servicios que tienes con nosotros.
 
-We collect personal information about you in several ways from several sources. We collect personal information directly from you including when you sign up for services, buy a product, subscribe to a membership or mailing list, set up an account with us, enroll in a mobile app feature such as Allstate Digital Footprint℠ or Drivewise® or during the quoting, registering, application, claims handling or roadside assistance processes. We and service providers working on our behalf collect personal information from you such as IP address, browsing history and other internet activity information when you use one of our websites, mobile apps, view our emails or otherwise engage with us through a computer or mobile device (“Sites”). We also collect personal information about you from third parties such as consumer reporting agencies, state agencies, such as departments of motor vehicles, service providers, marketing companies and data providers as well as individuals such as your spouse or your parent.
+Recopilamos información personal tuya de diferentes maneras y de diversas fuentes. Recopilamos información personal directamente de tí incluyendo cuando contratas un servicio, compras un producto, te suscribes a una membresía o a una lista de correo, abres una cuenta con nosotros, te inscribes en una función de un app móvil como Allstate Digital Footprint℠ o Drivewise® o durante el proceso de cotización, registro, solicitud, gestión de reclamos o asistencia en carretera. Nosotros y los proveedores de servicios que trabajan de parte nuestra, recopilamos tu información como la dirección IP, el historial de navegación y otra información de actividad en la internet cuando utilizas uno de nuestros sitios web, apps móviles, lees nuestros correos electrónicos o te pones en contacto con nosotros a través de una computadora o dispositivo móvil (“sitios web”). También recopilamos información personal sobre tí de parte de terceros, como agencias de verificación de crédito, agencias estatales cómo departamentos de vehículos motores, proveedores de servicios, compañías de mercadeo y proveedores de data al igual que individuos cómo tu cónyuge o padre de familia
 
-We collect the following categories of personal information:
+Recopilamos las siguientes categorías de datos personales:
 
-| Personal information categories | Example |
+| Categorías de información personal | Ejemplos |
 | --- | --- |
-| Personal identifiers | Name, alias, signature, postal address, phone number, date of birth, unique personal identifier, online identifier, email address, internet protocol (IP) address, state identification card number, account name, Social Security number, driver's license number, passport number, or other similar identifiers. |
-| Personal characteristics | Age, race, ancestry, national origin, citizenship, religion, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information) and other descriptions of your physical characteristics (e.g., height). |
-| Commercial information | Service or product related information including policy coverage information, premiums, account name, policy number, payment history, claims history, records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies, account log-in, bank account number, credit or debit card number, other payment or financial information, health insurance information, driving record, credit information, medical history, or family member information. If you use the Allstate Digital Footprint℠ feature, we will also access emails in your inbox. |
-| Biometrics and multimedia information | Fingerprint, voice print, retinal print, scan of hand or facial geometry, audio, electronic, visual or similar information. |
-| Internet or other electronic network activity information | Browsing history, search history, information regarding your interaction with our website, application or advertisement, links you use or web pages you visit while visiting our site or applications, browser type, internet service provider (ISP), cookies, and mobile device information including device identifier or other information. |
-| Geolocation data | Physical location, movements, or trip tracking information. |
-| Professional or employment information | Employment history, union membership, some contents of mail, e-mail and text messages on company devices, applications or communication platforms. |
-| Education information | Education records, grades or transcripts. |
-| Inferences | Inferences drawn from any personal information collected to create a profile reflecting preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities and aptitudes. |
+| Identificadores personales | Nombre, alias, dirección postal, número de teléfono, fecha de nacimiento, identificador personal único, identificador en línea, dirección de correo electrónico, dirección de protocolo de Internet (IP, por sus siglas en inglés), número de tarjeta de identificación estatal, nombre de la cuenta, número de seguro social, número de licencia de conducir, número de pasaporte u otros identificadores similares. |
+| Características personales | Edad, raza, ascendencia, nacionalidad de origen, ciudadanía, religión, estado civil, condición médica, discapacidad física o mental, sexo (incluido género, identidad de género, expresión de género, embarazo o parto y condiciones médicas relacionadas), orientación sexual, condición de veterano o militar, información genética (incluida información genética familiar) y otras descripciones de sus características físicas (p. ej., altura). |
+| Información relacionada con un producto o servicio | Información de cobertura de la póliza, primas, nombre de la cuenta, número de póliza, historial de pagos, registro de manejo, historial de reclamos, información de crédito, registros de propiedad personal, productos o servicios comprados, obtenidos o considerados, u otros historiales o tendencias de compra o consumo, cuenta bancaria o número de tarjeta de crédito u otro pago o información financiera, información médica o información de seguro de salud, información |
+| Información biométrica y de multimedia | Huella digital, impresión de voz, impresión de retina, escaneo de geometría facial o de la mano audio, electrónico, visual o información similar. |
+| Información de internet u otra actividad en redes electrónicas | Historial de navegación, historial de búsqueda, información respecto a su interacción con nuestro sitio web, aplicación o publicidad, enlaces que utiliza o páginas web que visita cuando visita nuestro sitio web o aplicaciones, tipo de navegador, proveedor de servicios de Internet (ISP, por sus siglas en inglés), cookies e información de dispositivo móvil, incluido el identificador de dispositivo u otra información. |
+| Data de geolocalización | Ubicación física, movimientos, o información de rastreo de viajes. |
+| Información profesional o de empleo | Historial de empleo, membresía de sindicato, algunos contenidos del correo, correos electrónicos y textos en dispositivos de compañía, apps o plataformas de comunicación. |
+| Información de educación | Archivos de educación, calficaciones o expedientes. |
+| Inferencias | Las inferencias son el resultado de cualquier información personal recopilada para crear un perfil que refleje las preferencias, características, tendencias psicológicas, predisposiciones, comportamiento, actitudes, inteligencia, habilidades y aptitudes. |
 
-**Sensitive Personal Information:** Some personal information we collect is defined under the law as sensitive personal information. Sensitive personal information we collect includes Social Security number, driver’s license number, state identification card number, passport number, customer account log-in, financial account number, debit card number, credit card number in combination with any required security or access code, password, or credentials allowing access to an account, precise geolocation information, racial or ethnic origin, religious beliefs, union membership, genetic data, biometric information used for identification, personal health information and sexual orientation.
+**Datos personales confidenciales:** Algunos datos personales que recopilamos se definen bajo la ley cómo datos personales confidenciales/información personal confidencial. Los datos personales confidenciales que recopilamos incluyen el número de seguro social, el número de licencia de conducir, el número de tarjeta estatal de identificación, el número de pasaporte, credenciales de ingreso a cuenta de cliente, el número de cuenta financiera, el número de tarjeta de débito, el número de tarjeta de crédito en combinación con cualquier código de seguridad o acceso necesario, o credenciales permitiendo ingreso a una cuenta, información de geolocación precisa, origen racial u étnico, creencias religiosas, membresía de sindicato, datos genéticos, información biométrica utilizada para la identificación, datos de salud personal y orientación sexual.
 
-Use of your personal information
---------------------------------
+Uso de su información personal
+------------------------------
 
-We use your personal and other information for business purposes including to:
+Utilizamos tus datos personales y otros tipos de datos con fines comerciales, incluyendo:
 
-**Provide and maintain your services and products.** We may use your personal information to provide or maintain your service, products, or membership including to set up a product or service or provide a product or service, maintain your account, service your policy, change your policy, handle a claim, complete a transaction, repair a product or respond to customer service requests or other inquiries. We may also collect information about other parties from you to carry out necessary services and/or requests, including adding another driver to your existing policy. If you provide us personal information about others, or if others give us your personal information, we will only use the information for the specific reason for which it was provided to us. If you use the Allstate Digital Footprint℠ feature, we will access the emails in your inbox to identify companies in your Digital Footprint. Additional information about uses and restrictions is in the Allstate Digital Footprint℠ section below.
+**Proporcionar y mantener tus servicios y productos.** Podríamos utilizar tus datos personales para proporcionar o mantener un servicio, producto, o membresía, incluyendo configurar un servicio o proporcionar un producto, administrar tu cuenta, dar mantenimiento a tu póliza, cambiar tu póliza, gestionar un reclamo, completar una transacción, reparar un producto o responder a solicitudes del servicio al cliente u otros trámites. También podemos recopilar información sobre terceros de tu parte, para llevar a cabo servicios o solicitudes necesarias, incluyendo agregar a otro conductor a una póliza existente. Si nos proporcionas datos personales sobre terceros, o si otros nos dan tus datos personales, solo utilizaremos la información necesaria para el propósito específico por el cual nos fué proporcionada. Si utilizas la función Allstate Digital Footprint℠, accederemos a los correos electrónicos en tu bandeja de entrada para identificar empresas en tu rastro digital. La información adicional sobre usos y restricciones se encuentra en la sección de Allstate Digital Footprint℠ a continuación.
 
-**Improve, develop and analyze our Sites, services and products.** We use your personal information and other information to:
+**Mejorar, desarrollar y analizar nuestros sitios web, servicios y productos.** Usamos tus datos personales y otros tipos de información para:
 
-* analyze, improve, develop or deliver our Sites, products and services and develop new services, products or features using algorithms, analytics software and other similar methods,
-* conduct actuarial or research studies to maintain, protect and develop our networks, services, and products and protect our customers, and
-* analyze how visitors use our Sites to improve the Sites and enhance and personalize your experience.
+* analizar, mejorar, desarrollar o entregar nuestros sitios web, productos y servicios, y desarrollar nuevos servicios, productos o funciones utilizando algoritmos, software de análisis de datos y otros métodos,
+* o realizar estudios actuariales o de investigación para mantener, proteger y desarrollar nuestras redes, servicios y productos, y proteger a nuestros clientes, y
+* o analizar de qué manera los visitantes usan nuestros sitios web y mejorar y personalizar su experiencia.
 
-We collect some information used for these purposes using analytics software, cookies and other tracking technologies. For more information about the collection and use of this information, see Cookies and Other Tracking Technologies below.
+Recopilamos algunos datos utilizados para estos propósitos a través de un programa de análisis de datos, cookies y otras tecnologías de seguimiento. Para más información sobre la recopilación y uso de esta información, ver Cookies y tecnologías de seguimiento a continuación.
 
-**Communicate with you about your service or product.** We may communicate with you about your product, service, account, policy or membership, provide you transaction confirmations, payment alerts or other service or product related messages via mail, email or other available methods such as push notifications.
+**Comunicarnos contigo sobre tu servicio y producto.** Podríamos comunicarnos contigo sobre tu producto, servicio, cuenta, póliza o membresía, proporcionarte confirmaciones de transacciones, alertas de pago o mensajes relacionados a otro producto o servicio mediante correo postal, correo electrónico u otro método disponible, como notificaciones automáticas.
 
-**Provide marketing communications.** We may use your personal information to send you promotional communications about products, services, features, and options we believe may interest you. We may send communications via e-mail, regular mail or may send push notifications via a mobile device. We may also use your information to serve you ads or customized content online.
+**Proporcionar comunicaciones de mercadeo.** Podríamos utilizar tus datos personales para enviarte comunicaciones promocionales sobre productos, servicios, funciones y opciones que consideramos que podrían interesarte. Podríamos enviar comunicaciones por correo electrónico, correo regular o podríamos enviar notificaciones automáticas a un dispositivo móvil. También podríamos usar tu información para proporcionarte publicidad o contenido en línea personalizado.
 
-**Comply with legal requirements and protect the safety and security of our business, services, and Sites.** We may use your personal information to comply with laws, regulations or other legal obligations, to assist in an investigation, to protect and defend our rights and property or the rights of third parties or enforce terms and conditions. We may also use your personal information to prevent suspected fraud, threats to our network or other illegal activities, prevent misuse or for any other reason permitted by law.
+**Cumplir con los requisitos legales y proteger la seguridad de nuestro negocio, nuestros servicios y sitios web.** Podríamos utilizar información para cumplir con las leyes, normas u otras obligaciones legales, para apoyar a una investigación, para proteger y defender nuestros derechos y propiedad o los derechos de terceros o para cumplir términos y condiciones. También podríamos utilizar tu información para evitar posibles fraudes, riesgos a nuestra red u otras actividades ilegales, evitar usos indebidos o por cualquier otra razón permitida por la ley. Podríamos utilizar tu información para proteger a nuestra compañía, nuestras afiliadas, nuestros clientes, nuestra red y nuestros sitios web.
 
-**Update or correct our records.** We may receive personal information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine that personal information with other personal information we have about you to update our records. For example, we may obtain change of address information from public sources and use that personal information to update or correct your address.
+**Actualizar o corregir nuestros registros.** Podríamos recibir datos personales tuyos de otras fuentes, incluyendo bases de datos disponibles al público o terceros de quienes hemos comprado datos, y combinar dicha información personal con otra información personal que tenemos de tí para actualizar nuestros registros. Por ejemplo, podríamos obtener información sobre cambios de dirección de fuentes públicas y utilizar dicha información personal para actualizar o corregir tu dirección postal.
 
-**Find locations on request.** Your location may be obtained from the mobile device or the network using your device's Global Positioning System (GPS) functionality or directly from you. We may use your location information to search for information including searching for an agent, searching for a service provider, identifying the location of an accident or identifying the location of a roadside event you are reporting. If you do not want location information used, you can disable the GPS functionality on your mobile device.
+**Buscar ubicaciones a solicitud.** Se podría obtener tu ubicación a través de tu dispositivo móvil o de la red al utilizar la función del Sistema de Posicionamiento Global (GPS) de tu dispositivo o directamente de tí. Podríamos utilizar tu información de ubicación para buscar información, incluyendo buscar un agente, un proveedor de servicios, identificar la ubicación de un accidente o identificar la ubicación de un evento en carretera que reportes. Si no deseas que se use la información de tu ubicación, puedes desactivar la función GPS de tu dispositivo móvil.
 
-We use sensitive personal information only as reasonably necessary to perform or maintain the services or provide goods you requested, to perform services on behalf of the business such as maintaining or servicing accounts, processing payments, to provide analytics services or similar services, to detect security incidents, resist malicious, deceptive, fraudulent, or illegal actions and to prosecute those responsible for those actions, to ensure customers and other peoples’ physical safety, for short-term use such as non-personalized advertising as part of our current interactions, to verify or maintain the quality or safety of service, improve, upgrade or enhance service, or other reasons that do not require an opt-out of this use.
+Utilizamos datos personales confidenciales solo cuando sea necesario para efectuar o mantener los servicios o proveerte los artículos que hayas solicitado, para entregar servicios de parte del negocio cómo mantener o darle servicio a las cuentas, procesar pagos, proveer servicios de analítica o semejante, para detectar incidentes de seguridad, resistir acciones maliciosas, deceptivas, fraudulentas o ilegales, para asegurar el bienestar físico de los clientes u otros, para uso de corto plazo cómo para la publicidad no personalizada parte de nuestras interacciones actuales, para verificar o mantener la calidad o seguridad de un servicio, mejorar, actualizar o realzar un servicio, u otras razones que no requieren la opción de darse de baja de este uso.
 
-We do not market any products or services to children under the age of thirteen or knowingly collect any information from children under the age of thirteen. We do not knowingly sell or share for cross-context behavioral advertising the personal information of consumers under the age of sixteen. Our website is not intended for children.
+No ofrecemos ningún producto o servicio a los niños menores de trece años. No vendemos o compartimos los datos personales de consumidores de menos de trece años para promoción con base en la conducta en diferentes contextos.
 
-Sharing your information
-------------------------
+Compartiendo su información
+---------------------------
 
-We do not sell your personal information. We also do not share personal information for cross-context behavioral advertising as defined under California law. We may share your personal information with our affiliates for business purposes consistent with the uses described in this Privacy Statement. We may also share personal information about you with third parties whenever you consent to or direct such sharing. We strive to work with companies that share our commitment to privacy. We may also share information with others in an aggregated or de-identified form that does not reasonably identify you.
+Nosotros no vendemos tus datos personales. También no compartimos datos personales para promoción con base en la conducta en diferentes contextos cómo se define bajo la ley estatal en California. Podríamos compartir tu información personal con nuestras afiliadas con fines comerciales acorde al uso descrito en esta Declaración de Privacidad. También podríamos compartir información personal con terceros siempre que lo permitas o solicites. Nos esforzamos a trabajar con compañías que comparten nuestro compromiso con la privacidad. También podríamos compartir información con otros de forma colectiva o sin identificar individuos dentro de lo razonable.
 
-We may also share any of the categories of personal information described above with service providers and other third parties for business purposes or as required or permitted by law including with:
+También podemos compartir cualquiera de las categorías de datos personales descritos arriba con los proveedores de servicios y con otros terceros para fines comerciales o según lo requiera o permita la ley, incluyendo en los siguientes casos:
 
-**Companies involved in insurance and other business transactions:** We share your personal information with other companies that play a role in an insurance transaction with you such as independent claims adjusters, repair shops, and other claims related companies. We may also share your personal information to participate in insurance support organizations.
+**Compañías involucradas en transacciones de seguros u otras transacciones comerciales:** Compartimos tu información personal con otras compañías que desempeñan una función en una transacción de seguros contigo, como las ajustadoras de reclamos independientes, los talleres de reparación y otras compañías relacionadas a los reclamos. También podríamos compartir tu información personal para participar en organizaciones de apoyo para seguros.
 
-**Authorized agents or brokers:** Allstate operates through agents and brokers who sell our services and products on our behalf. We may share your personal information with those agents or brokers to provide you with the services you’ve requested. They may use your personal information in the manner described in this Privacy Statement.
+**Agentes o corredores autorizados:** Allstate opera a través de agentes y corredores que venden nuestros servicios y productos representándonos. Podríamos compartir tu información personal con estos agentes o corredores para proporcionarte los servicios que hayas solicitado. Ellos podrían utilizar tu información personal de la forma descrita en esta Declaración de Privacidad.
 
-**Service providers:** Personal information may be shared with service providers who perform services on our behalf for a business purpose including service providers that:
+**Proveedores de servicios:** Puede que datos personales sean compartidos con proveedores de servicios que nos representen con un fin comercial, incluidos proveedores de servicio que:
 
-* help complete transactions, handle a claim, service your policy or service your membership,
-* engage in credit reporting or payment processing,
-* provide marketing and advertising, email or other communication services,
-* provide services that support our online activities including providing tracking technologies, web hosting and analytics,
-* provide tax and accounting, legal services, delivery, and data enhancement services,
-* provide technology services and enhance security, privacy and fraud protections,
-* provide data analytics services or conduct research or actuarial studies, and
-* provide support to our operations.
+* ayuden a completar transacciones, gestionen reclamos, den mantenimiento a tu póliza o a tu membresía,
+* participen en los reportes de crédito o procesamiento de pagos,
+* proporcionen servicios de mercadeo y publicidad, correos electrónicos u otros servicios de comunicación,
+* proporcionen servicios que dan apoyo a nuestras actividades en línea, incluyendo proporcionar tecnologías de seguimiento, alojo de sitios web, y análisis de datos,
+* proporcionen servicios de impuestos y contabilidad, servicios legales, servicios de entrega, y servicios de optimización de datos,
+* proporcionen servicios tecnológicos y mejoren la seguridad, privacidad y protección frente a fraudes,
+* proporcionen servicios de análisis de datos o realizan investigaciones o estudios actuariales, y
+* proporcionen apoyo a nuestras operaciones.
 
-**Marketing and advertising partners:** We may share personal and other information with third party online and other marketing and advertising partners or permit these partners to collect personal information from you directly on our Sites to personalize online advertising. We may share personal information with other financial institutions or other companies with whom we have a joint marketing agreement. The [Cookies and Other Tracking Technologies](#cookies) section below has more details about these activities.
+**Socios de mercadeo y publicidad:** Podríamos compartir información personal y de otra índole con socios terceros de mercadeo y publicidad en línea o permitir a estos socios que recopilen tu información personal directamente de nuestros sitios web para personalizar la publicidad en línea. Podríamos compartir información personal con otras instituciones financieras u otras empresas con las que tenemos un acuerdo de colaboración de mercadeo. La Sección de Cookies y otras tecnologías de seguimiento que se encuentra más adelante tiene más detalles sobre estas actividades.
 
-**Third parties in connection with a business transaction:** Personal information may be disclosed to third parties in connection with a corporate transaction, such as a merger, sale of any or all of our company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by an affiliate or third party, or in the event of a bankruptcy or similar proceedings.
+**Terceros en relación con transacciones comerciales:** Puede que datos personales sean divulgados a terceros relacionados con una transacción comercial, como una fusión de empresas, la venta de algunos o todos nuestros activos o acciones de la compañía, reorganización, financiamiento, cambio en la dirección o adquisición de toda o una porción de la empresa por parte de un afiliado o terceros, o en caso de bancarrota o procedimientos similares.
 
-**Law enforcement, regulators and other parties for legal reasons:** Personal information may be disclosed to third parties, as required by law or subpoena, or if we reasonably believe such action is necessary to:
+**Autoridades policiales, organismos reguladores y otras partes por razones legales:** Puede que datos personales sean divulgados a terceros, según lo requiera la ley o una citación, o si tenemos razones para creer que dicha acción es necesaria para:
 
-* comply with the law and the reasonable requests of regulators, law enforcement or other public authorities,
-* protect our or others safety, rights or property, and
-* investigate fraud or to protect the security or integrity of our Sites or any product or services.
+* cumplir con la ley y con la solicitud razonable por parte de organismos reguladores, autoridades policiales u otras autoridades de servicio público,
+* proteger nuestra seguridad, derechos o propiedad, o la de otros, e
+* investigar fraudes o proteger la seguridad o integridad de nuestros sitios web o cualquier producto o servicio.
 
-How long we keep your information
+Cuánto mantenemos tus datos
+---------------------------
+
+Retenemos los datos personales acordando con las leyes aplicables o requisitos reglamentarios y también siempre que sea necesario cumplir con los propósitos para cuales fue recopilada y para cumplir con los propósitos de negocio o comerciales explicados en esta declaración de privacidad.
+
+Cookies y otras tecnologías de seguimiento
+------------------------------------------
+
+**Tecnologías e información recopilada:** Cuando visitas nuestros sitios web, nosotros y nuestros proveedores de servicios automáticamente recopilamos información sobre tu uso y acceso a estos sitios web. Recopilamos esta información a través de una serie de tecnologías de monitoreo, incluidas cookies, objetos flash, web beacons (también llamadas en inglés pixel tags), secuencias de comandos (scripts) incrustados, tecnologías de ubicación-identificación y otras tecnologías similares (en conjunto, “tecnologías de seguimiento”). La información que recopilamos de forma automática sobre tí puede combinarse con otra información personal que recopilamos directamente. La información recopilada de este modo incluye:
+
+* El sitio web desde dónde accediste a nuestros sitios web, dónde fuiste cuando dejaste nuestros sitios web, con qué frecuencia visitas nuestros sitios web, tu ubicación cuando accedes a nuestros sitios, cuando y si abres correos electrónicos y haces clic en los enlaces que se encuentran ahí, las páginas que visitas y que anuncios promocionales ves en nuestros sitios web, rastreo de clics de mouse, movimientos de mouse, tecleados que oprimes, y otras comunicaciones que efectúes en nuestros sitios web,
+* La información sobre la computadora, tableta, smartphone u otro dispositivo que utilices, como la dirección IP, tipo de navegador, proveedor de servicio de internet, tipo de plataforma, tipo/modelo/fabricante del dispositivo, sistema operativo, marca de fecha y hora, un identificador único que nos permita identificar de manera única al navegador, dispositivo móvil o cuenta (incluido, por ejemplo, un identificador de dispositivo constante o un Ad ID), y otra información similar,
+* La información del análisis de datos recopilada por nosotros mismos o a través de herramientas de análisis de datos de terceros, para ayudarnos a medir el tráfico y las tendencias de uso para los sitios web y para entender más acerca de los datos demográficos y comportamientos de nuestros usuarios, y
+* Con qué frecuencia utilizas la app móvil, desde dónde se descargó el app, eventos ocurridos en el app, uso consolidado y data de desempeño.
+
+**Uso de la información:** La información recopilada a través de tecnologías de seguimiento nos permite ofrecerte una experiencia mejorada, optimizada y personalizada como cliente, además de monitorear y mejorar nuestros sitios web, y otros fines internos, como:
+
+* Recordar información de modo que ya no tengas que reingresarla durante una visita o en la siguiente visita a nuestros sitios web,
+* Proporcionar contenido e información personalizados, incluyendo contenido, comunicación y publicidad orientados,
+* Identificarte y contactarte a través de distintos dispositivos,
+* Proporcionar y monitorear la efectividad de nuestros sitios web,
+* Llevar a cabo análisis de datos y detectar patrones de uso en nuestros sitios web,
+* Diagnosticar o reparar problemas tecnológicos,
+* Detectar o prevenir fraude u otras actividades dañinas, y
+* Planificar y mejorar nuestros sitios web.
+
+Entre nuestros proveedores de servicios están Adobe y Google. Para conocer sobre las prácticas de privacidad de Adobe Analytics o para no utilizar las cookies configuradas para facilitar los informes, [visita el Adobe Privacy Center](http://www.adobe.com/privacy.html). Para conocer las prácticas de privacidad de Google, [visita el Google Privacy Center](https://www.google.com/policies/privacy/). Para acceder y utilizar la función de darse de baja del complemento para navegadores de Google Analytics [Visita el Google Opt-Out](https://tools.google.com/dlpage/gaoptout).
+
+**Tus opciones respecto a las cookies:** Si prefieres no aceptar las cookies, la mayoría de los navegadores te permitirán administrar las cookies en la configuración del navegador para desactivar o bloquear cookies, eliminar las cookies existentes, aceptar automáticamente cookies o notificar cuando recibas una cookie. Las opciones disponibles podrían variar según el navegador. Sin embargo, si desactivas, modificas o rechazas las cookies, no podrás acceder a algunas partes o funciones de nuestro sitio web o estas no funcionarán de forma adecuada. Por ejemplo, desactivar las cookies puede hacer que tengas que ingresar información repetidamente para aprovechar nuestros servicios o promociones.
+
+**Renunciar a la publicidad en línea personalizada y dejar el seguimiento:** Nosotros o nuestros proveedores de servicios de mercadeo y publicitarios podemos utilizar información sobre tus actividades en nuestros sitios web u otros sitios web para ayudar a adaptar nuestra publicidad u ofertas a lo que te podría interesar, lo que también se conoce como publicidad basada en intereses. La información se recopila utilizando las tecnologías de seguimiento antes explicadas. [Para limitar la promoción con base en los intereses, visita el Internet-based Advertising Opt-out](https://optout.aboutads.info/?c=2&lang=EN).
+
+Podrás seguir viendo publicidad genérica o que no ha sido personalizada sobre nuestros productos y servicios si renuncias a la publicidad basada en intereses. Si bien hacemos todo lo posible para honrar las preferencias de privacidad de nuestros visitantes, actualmente no tenemos la capacidad de responder a señales de "No hacer seguimiento" desde un navegador.
+
+Derechos y opciones de privacidad
 ---------------------------------
 
-We retain personal information in accordance with applicable laws or regulatory requirements and also for as long as necessary to fulfill the purposes for which it was collected and to fulfill the business or commercial purposes that are explained in this Privacy Statement.
+Diferentes leyes federales y estatales proveen derechos de privacidad a los consumidores, incluyendo el derecho de conocer, acceder a, borrar, o corregir los datos personales, el derecho de darse de baja de compartir datos personales con afiliadas para propósitos de mercadeo o el derecho de darse de baja de recibir mercadeo por correo electrónico. Estos derechos varían por estado y también por tipo de productos y servicios que tengas con Allstate. Por ejemplo, los derechos de conocer, acceder o eliminar bajo la California Consumer Privacy Act (Ley de Privacidad del Consumidor de California, o CCPA por su siglas en inglés) no aplican a datos personales sujetos a algunas leyes federales y estatales sobre el seguro o información médica.
 
-Cookies and other tracking technologies
----------------------------------------
+**Opciones sobre el mercadeo electrónico/digital y otras notificaciones:** Puede que te enviemos comunicaciones de mercadotécnica sobre productos, características y servicios que podrían interesarte. Para darte de baja de los correos electrónicos de mercadotécnica y promoción de nosotros, por favor envíanos una solicitud por correo electrónico al [customerprivacy@allstate.com](mailto:customerprivacy@allstate.com) o haz clic en el enlace de darse de baja (unsubscribe) al fondo de cada comunicación. Si te das de baja de recibir correos electrónicos de mercadotécnica, puede que aún te enviemos correos no relacionados con la mercadotécnica cómo aquellos sobre tus productos o servicios, respuestas a tus solicitudes o preguntas, o notificaciones de actualización de términos y condiciones o nuestras prácticas de privacidad
 
-**Technologies and information collected:** When you visit our Sites, we and our service providers automatically collect information about your use of and access to these Sites. We collect this information through a variety of tracking technologies, including cookies, Flash objects, web beacons (also called pixel tags), embedded scripts, location-identifying technologies, and similar technology (collectively, “tracking technologies”). Information we collect automatically about you may be combined with other personal information we collect directly. The information collected in this manner includes:
+Si utilizas Mi cuenta, también puedes administrar los correos electrónicos u otras notificaciones y preferencias de mercadotécnica a través de la sección sobre notificaciones (Notifications) en el menú de ajustes (Settings). En la app múvil, también puedes administrar tus preferencias para los correos electrónicos, textos y notificaciones push, y preferencias de mercadotécnica a través de la pantalla de notificaciones (Notifications) en la sección del perfil y ajustes (Profile & Settings).
 
-* The website from where you accessed our Sites, where you went to when you left our Sites, how frequently you visit our Sites, your location when you access our Sites, when and whether you open emails or click the links contained in emails, pages you visit and ads you view on our Sites, recordings of mouse clicks, mouse movements, keystrokes, and other communications you make on our Sites,
-* Information about the computer, tablet, smartphone or other device you use, such as your IP address, browser type, Internet service provider, platform type, device type/model/manufacturer, operating system, date and time stamp, a unique ID that allows us to uniquely identify your browser, mobile device or your account (including, e.g., a persistent device identifier or an Ad ID), and other similar information,
-* Analytics information collected by us or via third party analytics tools, to help us measure traffic and usage trends for the Sites and to understand more about the demographics and behaviors of our users, and
-* How often you use a mobile app, from where the app was downloaded, events that occur within the app, aggregated usage, and performance data.
+Derechos y opciones de los clientes de seguros
+----------------------------------------------
 
-**Use of the information:** The information collected through tracking technologies allows us to provide you with an improved, enhanced and personalized customer experience, to monitor and improve our Sites and for other internal purposes such as:
+**Derecho de los clientes de seguros de acceder, revisar y corregir información personal:** Los clientes de los productos de Allstate pueden solicitar ver o acceder sus datos personales archivados cuando deseen. Para hacerlo, por favor envíanos un correo electrónico a [customerprivacy@allstate.com](mailto:customerprivacy@allstate.com) o envía una carta a Allstate Insurance Company, Customer Privacy Inquiries, P.P.Box 660598, Dallas, TX 75266-0598 con tu solicitación. Al enviar tu correo electrónico o carta postal la primera vez, incluye solo tu nombre, estado de residencia y la razón de tu solicitud; no envíes otros datos personales. Puede que se requiera identificación apropiada para cumplir con la solicitud. Si crees que nuestra información es incompleta o errónea, puedes solicitar que efectuemos una corrección y efectuaremos estas correcciones si es posible. Por favor nota que puede que no podamos proveer información relacionada con investigaciones, reclamos, litigación y otros temas. Responderemos a este tipo de solicitud dentro de un plazo razonable. No podemos cambiar información que otras compañías nos hayan proveído, cómo agencias de reportaje del consumidor. Deberás contactarlas directamente.
 
-* Remembering information so that you will not have to re-enter it during your visit or the next time you visit our Sites,
-* Provide custom, personalized content and information, including targeted content, communications and advertising,
-* Identify and contact you across multiple devices,
-* Provide and monitor the effectiveness of our Sites,
-* Perform analytics and detect usage patterns on our Sites,
-* Diagnose or fix technology problems,
-* Detect or prevent fraud or other harmful activities, and
-* Otherwise to plan for and enhance our Sites.
+También te es posible actualizar, eliminar o modificar la información del perfil de tu cuenta cuando desees al iniciar una sesión en tu cuenta en línea y efectuar los cambios, o también nos puedes llamar o contactar a tu agente para cambiar la información.
 
-Our service providers include Adobe and Google. To learn about Adobe Analytics privacy practices or to opt-out of cookies set to facilitate reporting, visit [Adobe Privacy Center](https://www.adobe.com/privacy.html). To learn more about Google’s privacy practices, visit [Google Privacy Center](https://policies.google.com/privacy). To access and use the Google Analytics Opt-out Browser Add-on, visit [Google Opt-out](https://tools.google.com/dlpage/gaoptout).
+**Preferencias sobre compartir información personal:** Nos gustaría compartir tu información personal con uno o más afiliadas de Allstate para que conozcas los diferentes productos, servicios y ofertas que pueden ofrecerte. Sin embargo, puedes solicitar que Allstate no comparta tu información personal con nuestras afiliadas para ofrecer productos y servicios.
 
-**Your choices regarding cookies:** If you prefer not to accept cookies, most browsers will allow you to manage cookies in your browser settings to disable or block cookies, remove existing cookies, automatically accept cookies or to notify you when you receive a cookie. Options available may vary by browser. However, if you disable, modify, or reject cookies, some parts or functionalities of our Site may be inaccessible or not function properly. For example, disabling cookies may require you to repeatedly enter information to take advantage of services or promotions.
+Para solicitar que no permitamos que otros afiliadas de Allstate utilicen tu información personal para comercializarte sus productos y servicios, por favor llámanos al [1-800-856-2518](tel:1-800-856-2518) las veinticuatro horas del día, los siete días de la semana. Por favor ten en cuenta que procesar tu solicitud podría tomar hasta cuatro semanas. Si te comunicaste con nosotros anteriormente y nos solicitaste que no permitiéramos que otras afiliadas de Allstate usen tu información personal, tu elección anterior aún aplica y no es necesario que te comuniques con nosotros nuevamente. Si deseas cambiar tu elección anterior, por favor llama al número anterior cuando desees.
 
-**Targeted online advertising and do not track:** We or our marketing and advertising service providers may use information about your activities on our Sites or other websites, to help tailor our advertisements or offers to what may interest you — also called interest-based advertising. The information is collected using the tracking technologies explained above. To limit interest-based advertising visit [Interest-based Advertising Opt-out](https://optout.aboutads.info/?c=2&lang=EN).
+Derechos y opciones de privacidad específicos a otros estados
+-------------------------------------------------------------
 
-You may continue to see generic or non-targeted ads about our products and services if you opt-out of interest-based advertising. Although we do our best to honor the privacy preferences of our visitors, we are currently not able to respond to “Do Not Track” signals from your browser.
+**Residentes de California, Virginia y Connecticut:**  
+Los residentes de California tienen ciertos derechos bajo la California Consumer Privacy Act (CCPA) para acceder, corregir o borrar la información personal, y otros derechos descritos a continuación. Derechos semejanes existen para los residentes de Virginia y Connecticut para algunos de los datos personales que recopilamos. Mientras que estos derechos aplican solo a algunos datos personales que recopilamos, para propósitos de transparencia y para tu conveniencia, puedes solicitar sin importar dónde vivas.
 
-Privacy rights and choices
---------------------------
+**Derecho de conocer y acceder a tu información personal:** Tienes el derecho de solicitar las piezas específicas de información personal que hayamos recopilado sobre de ti y el derecho de conocer:
 
-Various federal and state laws provide privacy rights to consumers including the right to know, access, delete, or correct personal information, the right to opt-out of sharing of personal information with affiliates for marketing or the right to opt-out of receiving email marketing. These rights differ by state and also by the type of products and services you have with Allstate. For example, the rights to know, access, delete or correct under the California Consumer Privacy Act (CCPA) do not apply to personal information that is subject to certain federal and state laws governing insurance or health information.
+* Las categorías de información personal que hemos recopilado,
+* Las categorías de fuentes de las cuales la información personal fue recopilada,
+* El propósito de negocio o comercial para recopilar la información personal, y
+* Las categorías de terceros con quienes hayamos informado o compartido los datos personales
 
-**Email marketing choices and other notifications:** We may send you email marketing communications about products, features and services that may be of interest to you. To opt out from receiving marketing and promotional emails from us, please send us a request by email at [customerprivacy@allstate.com](mailto:customerprivacy@allstate.com) or click the unsubscribe link located at the bottom of each communication. If you opt out from receiving marketing emails, we may still send you non-marketing emails such as emails about your products or services, responses to your requests and inquiries, or notices of updates to terms and conditions or our privacy practices.
+**Derecho a borrar información personal:** Tienes el derecho de solicitar que se borre la información personal recopilada sobre ti, sujeto a algunas excepciones incluyendo que necesitemos la información para:
 
-If you use My Account you can also manage email and other notifications and marketing preferences via the Notifications in the Settings menu. In the Mobile App, you can also manage email, text and push notification preferences, and marketing preferences via the Notifications screen in the Profile & Settings section.
+* Completar una transacción o proveer un bien o servicio que hayas solicitado, darle servicio a tu cuenta, o tomar acciones razonablemente por anticipado durante nuestra relación comercial,
+* Detectar incidentes de seguridad, proteger contra actividades maliciosas, deceptivas, fraudulentas o ilegales, o enjuiciar aquellos responsables de tales actividades,
+* Cumplir con una obligación legal, o
+* De otra forma utilizar tu información personal internamente de una forma legal que es compatible con el uso por el cual proveíste esa información
 
-### Insurance customers' rights and choices
+**Derecho de corregir la información personal:** Tienes el derecho de solicitar que se corrija cualquier información no factual sobre ti. Puede que solicitemos que presentes documentación para apoyar tu solicitud y corregiremos tu información a menos que determinemos que la información personal es probablemente factual.
 
-**Insurance customer's right to access, review and correct personal information:** Allstate insurance product customers can request to see or access their recorded personal information at any time. To do this, please email us at [customerprivacy@allstate.com](mailto:customerprivacy@allstate.com) or send a letter to Allstate Insurance Company, Customer Privacy Inquiries, P.O. Box 660598, Dallas, TX 75266-0598 with your request. When sending your initial email or letter, include only your name, state of residence, and the nature of your request; do not send any additional personal information. Proper identification may be required to fulfill the request. If you believe our information is incomplete or inaccurate, you can request that we correct it and we will make corrections if possible. Please note we may not be able to provide information relating to investigations, claims, litigation, and other matters. We will respond to all such requests within a reasonable time. We can’t change information provided to us by other companies like consumer reporting agencies. You will have to contact them directly.
+**Derechos no discriminatorios:** No discriminaremos contra ti si ejercitas cualquiera de los derechos de privacidad descritos en esta declaración de privacidad.
 
-You may also update, delete or modify your account profile information at any time by logging into your online account and making updates, or you may call us or contact your agent to correct the information.
+**Solicitudes verificadas:** Para protegerte a ti y a tu información personal, solo responderemos a solicitudes de acceso o de borrar que podamos verificar adecuadamente a través de nuestro proceso de autenticación. Para verificar tu identidad, se te preguntará sobre diferentes piezas de información personal, como tu nombre y cualquiera información demográfica, que solamente utilizaremos para verificar tu identidad o autoridad para presentar la solicitud.
 
-**Personal information sharing perferences:** We would like to share your personal information with one or more Allstate affiliates in order to make you aware of different products, services and offers they can provide. However, you can request that Allstate not share your personal information with our affiliates for marketing products and services. For information about Allstate's affiliates, see the Affiliates section at the end of this Privacy Statement.
+**Enviar una solicitud:** Para presentar una solicitud de acceso o borrar información, por favor visitar la página web de [Acceso/Borra](https://allstate.consumerprivacyinfo.com/) (Access/Delete) para presentar una solicitud en línea o llamarnos [1-800-624-4419](tel:1-800-624-4419). Para presentar una solicitud de corregir datos, por favor visitar la [página de correcciones](https://allstatecorrections.consumerprivacyinfo.com/) (Correction) para presentar una solicitud en línea o llamar al [1-800-624-4419](tel:1-800-624-4419). Las respuestas a solicitudes verificadas pueden tomar hasta 45 días de calendario, o más, dependiendo del tipo de solicitud. Si se requiere tiempo adicional, te notificaremos del tiempo adicional. Puede que solo respondamos a dos solicitudes de acceso cada período de 12 meses. Solicitudes de agentes autorizados deben ser enviados a través del mismo portal web o número telefónico gratuito, pero para proteger tu privacidad, los consumidores deberán verificar su identidad directamente con nosotros a través de nuestro portal en línea o número telefónico gratuito.
 
-To request that we not allow other Allstate affiliates use your personal information to market their products and services, please call us at [1-800-856-2518](tel:1-800-856-2518) twenty-four hours a day, seven days a week. Please keep in mind that it may take up to four weeks to process your request. If you previously contacted us and asked us not to allow other Allstate affiliates to use your personal information, your previous choice still applies, and you do not need to contact us again. If you would like to change your previous choice, please call the number above at any time.
+**Solicitudes de métricas por consumidores**
 
-State specific privacy rights and choices
------------------------------------------
+Ver la [solicitud de métricas por consumidores en California](https://www.allstate.com/privacy-center/consumer-requests-metrics).
 
-**California, Virginia and Connecticut residents:**  
-California residents have certain rights under California Consumer Privacy Act (CCPA) to access, correct and delete personal information, and other rights described below. Similar rights exist for Virginia and Connecticut residents for some of the personal information we collect. While these rights apply only to some of the personal information we collect, for transparency and for your convenience, you can submit a request no matter where you live.
+**Derecho de apelar de los residentes de Virginia y Connecticut:** Si no logramos cumplir con tu solicitud de acceder, revisar, borrar o corregir tu información personal, entonces te responderemos dejándote saber el por qué. Si deseas apelar para una revisión de nuestra inhabilidad de cumplir con tu solicitud, por favor visitar [la página web de apelaciones](https://appeals.consumerprivacyinfo.com/) (Appeals).
 
-**Right to know and access your personal information:** You have the right to request the specific pieces of personal information we have collected about you and the right to know:
+**Residentes de Montana:** De conformidad con la ley de Montana, puedes solicitar un registro de cualquier divulgación de tu información médica durante los tres años anteriores. Por favor envía las solicitudes a Allstate Insurance Company, Customer Privacy Inquiries, P.O. Box 660598, Dallas, TX 75266-0598.
 
-* the categories of personal information we’ve collected,
-* the categories of sources from which personal information was collected,
-* the business or commercial purpose for collecting the personal information, and
-* the categories of third parties with whom we disclose or share personal information.
-
-**Right to deletion of personal information:** You have the right to request deletion of personal information collected from you, subject to certain exceptions including that we need the personal information to:
-
-* Complete a transaction or provide a good or service you requested, service your account, or take actions reasonably anticipated within the context of our ongoing business relationship,
-* Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities,
-* Comply with a legal obligation, or
-* Otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
-
-**Right to correct personal information:** You have the right to request we correct any inaccurate information we have about you. We may request that you provide documentation to support your request and we will correct your information unless we determine that the personal information is more than likely accurate.
-
-**Non-discrimination rights:** We don’t discriminate against you if you exercise any of the privacy rights described in this privacy statement.
-
-**Verified requests:** To protect you and your personal information, we will only respond to access or deletion requests that we have been able to properly verify through our authentication processes. To verify your identity, you will be asked to provide several pieces of personal information, such as name and demographic information, which we only use to verify your identity or authority to make the request.
-
-**Submitting a request:** To submit an access or deletion request, please visit [Access/Delete webpage](https://allstate.consumerprivacyinfo.com/) to submit an online request or call us at [1-800-624-4419](tel:1-800-624-4419). To submit a correction request, please visit [Correction webpage](https://allstatecorrections.consumerprivacyinfo.com/) to submit an online request or call us at [1-800-624-4419](tel:1-800-624-4419). Responses to a verified request may take up to 45 calendar days, or longer depending on the nature of the request. If additional time is needed, we will notify you of the additional time. We may only respond to two access requests within a 12-month period. Requests from authorized agents must be submitted via the same online portal or toll-free number but to protect your privacy, consumers will be required to verify their identity directly with us via our online portal or toll-free number.
-
-**Consumer request metrics:**
-
-[View California Consumer Request Metrics](https://www.allstate.com/privacy-center/consumer-requests-metrics).
-
-**Virginia and Connecticut resident right to appeal:** If we are unable to fulfill your request to access, review, delete or correct your personal information, we will respond to you explaining why. If you would like to appeal for additional review of our inability to fulfill your request, please visit [Appeals webpage](https://appeals.consumerprivacyinfo.com/).
-
-**Montana residents:** Pursuant to Montana law, you may request a record of any disclosure of your medical information during the preceding three years. Please send requests to Allstate Insurance Company, Customer Privacy Inquiries, P.O. Box 660598, Dallas, TX 75266-0598.
-
-**Nevada residents:** Pursuant to Nevada law, if you do not want to receive sales calls from Allstate you may request to be placed on our internal "do not call" list. To make this request, call [1-800-255-7828](tel:1-800-255-7828) or email us by going to [Allstate.com](https://www.allstate.com/) and clicking on Explore Allstate > Contact Us. Please make sure to provide us with your name, address and all telephone numbers you wish to include on our list. For further information, you may also contact the Office of the Nevada Attorney General, Bureau of Consumer Protection at:
+**Residentes de Nevada:** De conformidad con la ley de Nevada, si no deseas recibir llamadas de ventas de Allstate, puedes solicitar que te incluyamos en nuestra lista interna de “no llamar”. Para hacer esta solicitud, llama al [1-800-255-7828](tel:1-800-255-7828) o envía un correo electrónico visitando allstate.com y haciendo clic en Explore Allstate (Explora Allstate) > Contact Us (Contáctanos). Por favor asegúrate de proporcionarnos tu nombre, dirección y todos los números de teléfono que desees incluir en nuestra lista. Para obtener más información, también puedes comunicarte con la Oficina del Procurador General de Nevada, Oficina de Protección al Consumidor al:
 
 555 E. Washington Avenue, Suite 3900  
 Las Vegas, NV 89101  
-Phone: [(702) 486-3132](tel:702-486-3132)  
-Email: [BCPINFO@ag.state.nv.us](mailto:BCPINFO@ag.state.nv.us)
+Teléfono: [(702) 486-3132](tel:702-486-3132)  
+Correo electrónico: [BCPINFO@ag.state.nv.us](mailto:BCPINFO@ag.state.nv.us)
 
-Allstate's "do not call" list is limited only to telephone solicitation calls. We may still contact you about your Allstate policy, billing issues, claims and other service matters.
+La lista de “no llamar” de Allstate se limita solo a llamadas de ventas. Podríamos comunicarnos contigo sobre tu póliza de Allstate, problemas de facturación, reclamos y otros asuntos relacionados con el servicio.
 
-**Vermont residents:**  
-We won't share your personal information with Allstate companies for marketing purposes except as allowed by Vermont law.
+**Residentes de Vermont:**  
+No compartiremos tu información personal con compañías de Allstate con fines de mercadeo, excepto según lo permita la ley de Vermont.
 
-Social media, links and external sites
---------------------------------------
+Redes sociales, enlaces y sitios externos
+-----------------------------------------
 
-Links to other company’s websites may be provided on the Allstate Sites as a convenience to you. If you choose to go to these external websites, you will be subject to the privacy practices of those external websites; Allstate is not responsible for the privacy practices of those websites. We encourage you to be aware when you leave our Site to read the privacy policies or statements of every website you visit, as those privacy policies or statements may differ from ours. Our Privacy Statement applies solely to the Sites where this Privacy Statement appears.
+Los enlaces de otros sitios web de la compañía podrían proporcionarse en el sitio web de Allstate para tu conveniencia. Si decides visitar estos sitios web externos, estarás sujeto a las prácticas de privacidad de estos sitios web externos; Allstate no es responsable por las prácticas de privacidad de esos sitios web. Te recomendamos estar atento al salir de nuestro sitio web, leer las políticas o declaraciones de privacidad de cada sitio web que visites, dado que esas declaraciones o políticas de privacidad podrían ser distintas a las nuestras. Nuestra Declaración de privacidad aplica únicamente a los sitios web donde aparece esta Declaración de privacidad.
 
-Our website includes Social Media features, such as the Facebook Like button and widgets, such as the Share This button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the feature to function properly. Social Media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
+Nuestro sitio web incluye funciones de redes sociales, como el botón de Me gusta de Facebook y widgets, como el botón Compartir o miniprogramas interactivos que funcionan en nuestro sitio web. Estas funciones podrían recopilar tu dirección IP, qué página estás visitando en nuestro sitio web, y podría configurar una cookie para permitir el desempeño adecuado de las funciones. Las funciones y widgets de redes sociales son alojados por un tercero o directamente en nuestro sitio web. Tu interacción con estas funciones se rige por la política de privacidad de la compañía que las proporciona.
 
-Security
---------
+Seguridad
+---------
 
-Protecting your personal information is important to us. We use a combination of reasonable technical, administrative, and physical safeguards to protect your personal information. However, no website, mobile application, database or system is completely secure or "hacker proof.'' So, we cannot guarantee its absolute security. You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse.
+Proteger tu información personal es importante para nosotros. Utilizamos una combinación de medidas de seguridad técnicas, administrativas y físicas razonables para proteger tu información personal. Sin embargo, ningún sitio web, app móvil, base de datos, o sistema es completamente seguro o “a prueba de hackers”. En consecuencia, no podemos garantizar tu seguridad absoluta. Tu también eres responsable de tomar medidas razonables para proteger tu información personal contra divulgaciones no autorizadas o usos indebidos.
 
-We limit access to your personal information to those who need it to do their jobs. We comply with all applicable federal and state data security laws.
+Limitamos el acceso a tu información personal a aquellos que la necesiten para hacer su trabajo. Cumplimos con todas las leyes federales y estatales aplicables de seguridad de datos.
 
-Allstate digital footprint
---------------------------
+Huella electrónica de Allstate
+------------------------------
 
-If you enroll in the Allstate Digital Footprint℠ feature through the mobile app, you provide Allstate access to your Microsoft and/or Google email accounts. We will only use the data accessed from your Microsoft and Google accounts to read, write, modify, or control email message bodies (including attachments), metadata, headers, and settings ("email data") to:
+Si te inscribes en la función Allstate Digital Footprint℠ a través del app móvil, proporcionarás acceso a Allstate a tus cuentas de correo electrónico de Microsoft y/o Google. Solo usaremos los datos a los que se accede desde tus cuentas de Microsoft y Google para leer, escribir, modificar o controlar el cuerpo de mensajes de correo electrónico (incluidos los archivos adjuntos), la metadata, los encabezados y la configuración (“datos de correo electrónico”) para:
 
-* identify certain online accounts,
-* notify you of known security breaches related to those accounts, and
-* send data privacy requests, unsubscribe requests or deletion requests from your email account at your request.
+* identificar ciertas cuentas en línea,
+* notificarte sobre violaciones de seguridad conocidas relacionadas con esas cuentas, y
+* enviar solicitudes de privacidad de datos, solicitudes de cancelación de suscripción o solicitudes de eliminación desde tu cuenta de correo electrónico por tu solicitud.
 
-We will not:
+No haremos los siguiente:
 
-* transfer email data to others unless it is necessary to provide and improve features, comply with applicable law, or otherwise provide the services, use email data for serving advertisements, or
-* allow a person to read your email data unless we have your affirmative agreement regarding specific messages, doing so is necessary for security purposes such as investigating abuse, to comply with applicable law, or for an Allstate product’s internal operations.
+* transferir datos de correo electrónico a otros a menos que sea necesario para proporcionar y mejorar funciones, cumplir con la ley aplicable o proporcionar los servicios de otra manera, usar datos de correo electrónico para publicar anuncios, o
+* permitir que una persona lea tus datos de correo electrónico a menos que tengamos tu acuerdo afirmativo con respecto a mensajes específicos, hacerlo sea necesario por motivos de seguridad, como investigar abusos, para cumplir con la ley aplicable o para las operaciones internas de un producto de Allstate.
 
-Contact us
-----------
+contáctanos
+-----------
 
-If you should have questions or concerns about our privacy practices, please contact us at [1-800-624-4419](tel:1-800-624-4419).
+Si tienes preguntas o inquietudes sobre nuestras prácticas de privacidad, por favor llámanos al [1-800-624-4419](tel:1-800-624-4419).
 
-Changes to our privacy statement
---------------------------------
+Cambios a nuestra declaración de privacidad
+-------------------------------------------
 
-We may periodically update or revise this Privacy Statement. The effective date at the top of the document shows when this Privacy Statement was last revised. We will let you know when we update the Privacy Statement by changing the date or other appropriate means.
+Podríamos actualizar o revisar periódicamente esta Declaración de Privacidad. La fecha de entrada en vigor en la parte superior de este documento muestra cuándo fue la última revisión de esta Declaración de Privacidad. Te avisaremos cuando actualicemos la Declaración de Privacidad mediante el cambio de fecha o a través de otros medios adecuados.
 
-Allstate affiliates
--------------------
+Afiliadas de Allstate
+---------------------
 
-This Privacy Statement describes the privacy practices of Allstate Insurance Company and the Allstate affiliates whose websites and mobile apps link to this Privacy Statement including: Allstate insurance companies offering auto, home and business insurance; Allstate Assurance Company and their life and retirement affiliates; Allstate Financial Services; and Allstate roadside services and motor club companies and Signature roadside services and motor club companies.
+sitios web y apps móviles están vinculados a esta Declaración de Privacidad incluyendo: compañías de seguros de Allstate que ofrecen seguros para auto, casa y negocios; Allstate Life Insurance Company, Allstate Assurance Company y sus afiliadas de vida y jubilación; servicios financieros de Allstate; y empresas de servicios en carretera y clubes automovilísticos de Allstate y empresas de servicios de carretera y clubes automovilísticos exclusivos.
 
-Personal information may be shared for marketing purposes among Allstate Insurance Company and the Allstate affiliates listed above as well as these other affiliated companies that have separate online privacy statements: American Heritage Life Insurance Company (Allstate Benefits), Allstate Dealer Services, National General Insurance Group and its affiliates, Castle Key Insurance Company and Castle Key Indemnity Company, North Light Specialty Insurance Company, SquareTrade (Allstate Protection Plans), InfoArmor (Allstate Identity Protection), Avail, and Arity companies.
+La información de elegibilidad se puede compartir con fines de mercadeo entre Allstate Insurance Company y las afiliadas de Allstate enumeradas anteriormente, así como estas otras compañías afiliadas que tienen declaraciones de privacidad en línea separadas: American Heritage Life Insurance Company (beneficios a través de Allstate), Allstate Dealer Services, Castle Key Insurance Company y Castle Key Indemnity Company, North Light Specialty Insurance Company, SquareTrade (Planes de protección de dispositivos con Allstate), InfoArmor (protección de identidad de Allstate), Avail, y empresas Arity.
