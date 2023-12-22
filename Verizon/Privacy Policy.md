@@ -45,7 +45,7 @@ Open all
     
     How our network and your devices are working
     
-    We monitor the condition of our networks, including Fios Internet Wi-Fi, such as traffic flow, speed, capacity, power, quality and environmental conditions including nearby Wi-Fi access points. We may also collect test information from or take pictures of equipment we install or repair.
+    We monitor the condition of our networks, including Fios Internet Wi-Fi, such as traffic flow, speed, capacity, power, quality and environmental conditions including nearby Wi-Fi access points. We may also collect test information from or take pictures or a video of equipment we install or repair.
     
     We install system software on some wireless devices which may:
     
@@ -128,6 +128,8 @@ Open all
     information about your visits
     
     This applies to information we collect as part of providing broadband Internet access services to you.  
+    
+    We may use automation, including artificial intelligence, to assist us with these uses. Among the uses we make of automation, we use predictive analytics to monitor our network for faults and outages which helps us proactively and rapidly fix issues, and we may use machine learning techniques with information we have about you and other customers to provide you with more relevant marketing messages or predict what services might most interest you.
     
     Our Custom Experience program uses information about [sites you visit and apps you use](#) on your mobile device to help us better personalize our communications with you, give you more relevant product and service recommendations, and develop plans, services, and offers that are more appealing to you. You are included in the program [unless you opt out.](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34)
     
@@ -275,7 +277,7 @@ Open all
     
     We and these companies use [cookies, pixels, tags, web beacons, scripts, application programming interfaces (APIs) or similar technologies](https://www.verizon.com/about/privacy/cookies) on our pages and the browsers you use and may access advertising identifiers from your mobile device operating systems. 
     
-    Our customers and website visitors can limit the sale and sharing of personal information as well as the use of this information for certain types of targeted advertising. California, Colorado, Connecticut and Virginia laws give consumers the right to make these opt out choices. California law also gives business customers the right to limit the sale and sharing of personal information.
+    Our customers and website visitors can limit the sale and sharing of personal information as well as the use of this information for certain types of targeted advertising. California, Colorado, Connecticut, Utah and Virginia laws give consumers the right to make these opt out choices. California law also gives business customers the right to limit the sale and sharing of personal information.
     
     In addition, we require that advertising companies disclose when they are using interest-based advertising techniques to deliver ads on our sites and apps as well as when they deliver Verizon ads on other sites. We also require them to offer you the ability to opt out of this use of your information. 
     
@@ -511,7 +513,7 @@ Open all
     ### You have other choices available to you.
     
     **Website information used for interest-based advertising**   
-    You can limit the sale and sharing of personal information as well as the use of this information for certain types of targeted advertising. California, Colorado, Connecticut and Virginia laws give consumers the right to make these opt out choices. California law also gives business customers the right to limit the sale and sharing of personal information.
+    You can limit the sale and sharing of personal information as well as the use of this information for certain types of targeted advertising. California, Colorado, Connecticut, Utah and Virginia laws give consumers the right to make these opt out choices. California law also gives business customers the right to limit the sale and sharing of personal information.
     
     You can opt out by visiting [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices) . This page also describes how we honor [Global Privacy Control](https://globalprivacycontrol.org/) signals you may set on your browser. We do not respond to Do Not Track signals. 
     
@@ -611,7 +613,7 @@ Open all
 * [Do I have specific rights under privacy laws in the United States?
     ------------------------------------------------------------------
     
-    You have specific rights under state laws, including California, Colorado, Connecticut, Maine, Nevada and Virginia privacy laws.](#acc-item-55)
+    You have specific rights under state laws, including California, Colorado, Connecticut, Maine, Nevada, Utah and Virginia privacy laws.](#acc-item-55)
     
     ### California Consumer Privacy Act
     
@@ -733,34 +735,30 @@ Open all
     1300 I Street, NW Suite 500 East  
     Washington, DC 20005  
     
-    ### Colorado Privacy Act
+    ### Colorado, Connecticut, Utah and Virginia Privacy Laws.
     
-    The [Colorado Privacy Act](#) gives specific rights to Colorado residents.
+    Colorado, Connecticut, Utah and Virginia have comprehensive privacy laws that provide residents with specific rights. 
     
-    Colorado Privacy Act
+    **Your right to know what personal information we collect, how we use and share it, and how long we keep it**. This privacy policy provides details about our collection and use practices. The state laws generally require that we provide you information about the [categories of personal information we collect and the purposes for which we collect each category](#). 
     
-    This law gives you the right to know whether we collect information about you, what that information is and how we use it; access information we have about you in a commonly used format; delete certain information; request that we correct information that you believe is inaccurate; opt out of having personal information about you sold, used to target advertising to you, or used to build a profile about you to make legally or similar significant decisions about you.
+    categories of personal information we collect and the purposes for which we collect each category
     
-    **You have the right to know whether we collect personal information. what it is and the purposes for which we use it.** This privacy policy provides details about our collection and use practices. Colorado law requires us to let you know the [categories of personal information we collect and the purposes for which we collect each category.](#) We collect personal information [when you interact with us](#) and use our products and services, from certain third-party sources and from our network and the devices you use. Some of the information we collect is considered [sensitive data under Colorado law.](#) 
+    1. Contact and device information (including, name, billing and email address, mobile device identifiers, IP address, account credentials, business customer representative contact information); information about the products and services you purchase or consider; information about browsing, search and other activity on our sites and apps as well as your interactions with our sites, apps and advertisements; and information about your devices and how they are working, including performance on our network. We use this information to provide you with products and services, operate our business, communicate with you and provide customer service, personalize your experience, improve our services, provide marketing and advertising, debug and audit our processes and services, short term transient uses, research, security, fraud and legal reasons. 
+    2. We use demographic and interest information you provide or that we obtain from third parties to help us understand our customers and our markets, better personalize your experiences, provide marketing and advertising; test for bias and create business insights. We use fraud indicators we receive from other companies to help detect and prevent fraud.  
+    3. Geolocation information from our network and, when you permit it, in our apps; information about how you use our products and services, web browsing across unaffiliated sites and apps; voice recordings of customer service calls and photographs of customer equipment. We use this information for purposes including business operations; security and fraud protection and prevention; to personalize your experiences and our marketing; and for the specific purposes we describe to you when you opt in. 
+    4. Secure account information including your account log-in credentials, financial account, Social Security Number or tax identifier, debit or credit card number with any required security or access code, password, or credentials that allow access to an account. We use this information to provide you with access to your accounts, measure credit and payment risk, accept payment for products and services you purchase; security and fraud prevention and legal compliance purposes. 
+    5. Genetic, biometric and health information for limited purposes such as some Verizon apps allow you to share health information with your trusted or emergency contacts. Another Verizon service uses voice recognition technology to allow you to secure your Verizon accounts. 
+    6. Other information that may identify, relate to, describe, or is capable of being associated with you, for example, in limited circumstances, we may collect your insurance policy number if it is needed for processing damage claims. 
     
-    sensitive data under Colorado law.
+    We collect personal information [when you interact with us](#) and use our products and services, from certain third-party sources and from our network and the devices you use. Some of the information we collect is considered [sensitive personal information under the state laws](#). We retain information only as long as reasonably necessary for business, accounting, tax or legal purposes and then securely delete it.
     
-    The law describes sensitive data as personal data revealing racial or ethnic origin, religious beliefs, mental or physical health condition or diagnosis, sex life or sexual orientation, or citizenship or citizenship status; processing genetic or biometric data for the purpose of uniquely identifying you; and personal data collected from a known child. 
+    sensitive personal information under the state laws
+    
+    The laws describes sensitive data to include some or all of the following:  personal data revealing racial or ethnic origin, religious beliefs, mental or physical health condition or diagnosis, sex life or sexual orientation, citizenship or immigration status; processing genetic or biometric data for the purpose of uniquely identifying you; personal data collected from a known child; and precise geolocation information.
     
     when you interact with us
     
-    You may interact with us in different ways, for example, when you place an order or have questions about your account or services; work with Verizon as a representative of a business customer; contact us on social media; seek technical support; enter a Verizon-sponsored or affiliated contest, sweepstakes or promotion; or register to receive news or public policy updates. 
-    
-    categories of personal information we collect and the purposes for which we collect each category.
-    
-    Categories of personal information we collect and the purposes for which we collect them include:
-    
-    1. Contact and device information (including, name, billing and email address, mobile device identifiers, IP address, account credentials, business customer representative contact information); information about the products and services you purchase or consider; information about browsing, search and other activity on our sites and apps as well as your interactions with our sites, apps and advertisements; and information about your devices and how they are working, including performance on our network.
-    2. We use demographic and interest information you provide or that we obtain from third parties to help us understand our customers and our markets, better personalize your experiences, provide marketing and advertising; test for bias and create business insights. We use fraud indicators we receive from other companies to help detect and prevent fraud.  
-    3. Geolocation information from our network and, when you permit it, in our apps; information about how you use our products and services, web browsing across unaffiliated sites and apps; voice recordings of customer service calls and photographs of customer equipment. We use this information for purposes including business operations; security and fraud protection and prevention; to personalize your experiences and our marketing; and for the specific purposes we describe to you when you opt in.
-    4. Secure account information including your account log-in credentials, financial account, Social Security Number or tax identifier, debit or credit card number with any required security or access code, password, or credentials that allow access to an account. We use this information to provide you with access to your accounts, measure credit and payment risk, accept payment for products and services you purchase; security and fraud prevention and legal compliance purposes.
-    5. Genetic, biometric and health information for limited purposes such as some Verizon apps allow you to share health information with your trusted or emergency contacts. Another Verizon service uses voice recognition technology to allow you to secure your Verizon accounts. 
-    6. Other information that may identify, relate to, describe, or is capable of being associated with you, for example, in limited circumstances, we may collect your insurance policy number if it is needed for processing damage claims. 
+    You may interact with us in different ways, for example, when you place an order or have questions about your account or services; work with Verizon as a representative of a business customer; contact us on social media; seek technical support; enter a Verizon-sponsored or affiliated contest, sweepstakes or promotion; or register to receive news or public policy updates.
     
     [Third parties](#) we use to do work on our behalf may use information for the same purposes. We may also share information with others for credit and collections, directory assistance and caller id purposes; with your consent; and as further described in other sections of this policy. 
     
@@ -768,138 +766,56 @@ Open all
     
     We share information with service providers (also known as processors) as necessary for them to perform work for us. They are required to protect the information they receive from us or collect on our behalf and use it only for the specific purposes that we allow.
     
-    **You have the right to access, delete and correct information**. You can access specific pieces and categories of personal information we collect using our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) and following the instructions there or by calling 1-800-333-3972. To the extent technically feasible, we will provide this information to you in a portable and readily usable format. You can use the same contact information to request that we delete personal information we have unless we need it for [reasons specified in the Colorado law](#) and to request that we correct inaccurate personal information we have about you.
+    **Your rights to access, delete and correct information.** You can request access to specific personal information we have about you using our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) and following the instructions there, or by calling 1-800-333-3972. We will provide this information to you in a portable and readily usable format. You can use this same contact information to request that we delete personal information we have about you, [unless we need it for reasons specified by the laws](#), and to correct inaccurate personal information we have about you. 
     
-    reasons specified in the Colorado law
+    unless we need it for reasons specified by the laws
     
-    These reasons include complying with laws and cooperating with law enforcement in good faith; investigating, establishing, preparing or defending against legal claims; internal research to improve, repair, or develop products; identifying and repairing errors; internal operations; providing products and services you use; protecting vital interests and certain public interests; preventing fraud; and assisting another with compliance.
+    The laws describe these reasons slightly differently, but generally, they include: needing the information to provide the services you use and the internal operations needed to maintain an ongoing business relationship or perform a contract with you, maintaining information security, preventing fraud, and exercising our legal rights including defending against legal claims, complying with laws and cooperating with law enforcement in good faith. 
     
-    **Use of sensitive personal information.** Colorado law prohibits us from using sensitive personal information without your consent, except as [specified in the law](#). We use sensitive personal information as you authorize with your express consent or as authorized under the law. 
+    **Use of sensitive personal information**. These state laws prohibit us from using sensitive personal information without your consent, except as [specified in the law](#). We use sensitive personal information as authorized by the law or after we obtain your express consent.  
     
     specified in the law
     
-    These reasons include complying with laws, rules, regulations, investigative subpoena or summons by governmental authorities; cooperating with law enforcement; investigating, establishing, preparing or defending against legal claims; providing and maintaining the products and services you use, preventing and responding to security and other significant incidents; taking immediate steps to protect an interest that is essential for the life or physical safety of you or another natural person; and using information for short-term transient purposes such as displaying relevant information to you based on your activity during a single interaction.
+    The reasons vary slightly within the different laws, but generally include: complying with laws, rules, regulations, investigative subpoena or summons by governmental authorities; cooperating with law enforcement; investigating, establishing, preparing or defending against legal claims; providing and maintaining the products and services you use, preventing and responding to security and other significant incidents; taking immediate steps to protect an interest that is essential for the life or physical safety; and using information for short-term transient purposes such as displaying relevant information to you based on your activity during a single interaction.
     
-    **You have the right to tell us not to use personal information to establish profiles to make decisions that produce legal or similarly significant effects**. We do not use personal information to profile you to further decisions that have legal or similar significant effects. 
+    **You have the right to tell us not to use personal information to create profiles about you that we use to inform decisions that have legal or similarly significant effects.** We do not use personal information to profile you to further decisions that have legal or similar significant effects.  
     
-    **You have the right to tell us not to sell personal information or use it for targeted advertising**. Colorado law defines “sale” to mean the exchange of personal data for monetary or other valuable consideration. The law describes “targeted advertising” as using personal information obtained or inferred over time from your activities across non-affiliated websites, applications or online services to predict your preferences or interests and target advertising to you.
+    **You have a right to tell us not to sell or share personal information or use it for certain targeted advertising purposes**. The laws vary in the way they define sale, sharing and targeting, but generally, they require that we provide you with the ability to limit activities that involve sharing personal information for monetary or other valuable consideration and using personal information we have about you for targeting advertising to you across other websites or services. The definitions do not cover all sharing of personal information. We do not knowingly sell or share personal information related to children under 16 years of age.  
     
-    We engage in online sale or targeted advertising activities when we share information with advertising technology companies present on our websites who combine that information with information they collect about your visits to other sites or that they otherwise have about you to provide more personalized advertising to you. This occurs through the use of cookies, pixels, tags and similar technologies. We also may engage in offline sales or targeting activities when we obtain personal information from or share personal information we have about you with other companies to better target ads to you or when we use personal information in [our own internal programs](#).
+    We engage in online selling, sharing or targeting when we share information with advertising technology companies present on our websites who combine that information with information they collect about your visits to other sites or that they otherwise have about you to provide more personalized advertising to you. This occurs through the use of cookies, pixels, tags and similar technologies. We may engage in offline sales and sharing when we obtain personal information from or share personal information we have about you with other companies to better target ads to you or when we use personal information as part of [our own internal programs](#).
     
     our own internal programs
     
-    Our programs include Custom Experience, Custom Experience Plus, Relevant Online Advertising, Relevant TV Advertising and Fios Market Research and Audience Measurement.
+    Our programs include Custom Experience, Custom Experience Plus, Relevant TV Advertising, Relevant Online Advertising, and Fios TV market research and audience measurement.
     
-    You can opt out of sale and targeted advertising by visiting [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices) .
+    You can opt out of sale and sharing by accessing our ;[Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices)  page. This page also describes how we honor [Global Privacy Control](https://globalprivacycontrol.org/) signals you may set on your browser. We do not respond to Do Not Track signals. 
     
-    **You can appeal** a denial of your request to exercise any of the privacy rights provided by the Colorado law. If we deny your request, we will notify you and give you instructions on how you can appeal that decision to the Colorado Attorney General. 
+    **Some states allow you to appeal** a denial of your request to exercise the privacy rights provided by the state  law. If you are a resident of Colorado, Connecticut  or Virginia and we deny your request, we will give you instructions on how you can appeal that decision to us and to the state Attorney General. 
     
-    **We do not [discriminate](#)** against you if you exercise any rights described in this section.
+    **You have the right to not be discriminated against.** We do not [discriminate](#) against you if you exercise any rights provided to you by state law. 
     
     discriminate
     
-    We will not deny goods or services, charge different prices or rates for goods or services or provide you a different level or quality of goods and services. 
+    We will not deny goods or services, charge different prices or rates for goods or services or provide you a different level or quality of goods and services. You also have the right to receive information about any financial incentives we offer to you.
     
-    **Where to exercise your rights**. 
+    **Where to exercise your rights.** You can exercise your right to know, access, delete, and correct data, or in Colorado and Connecticut you may appoint an [authorized agent](#) to act on your behalf,  by:
     
-    You can exercise your right to know, access, delete and correct data by:
+    authorized agent
     
-    * Visiting our Privacy Dashboard or
-    * Calling 1.800.333.3972.
+    You may designate a business or individual as your agent using our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) to “Assign and manage your authorized agent.” We may require additional proof that you granted the authority. 
     
-    You can exercise your right to opt-out of sale of personal information or use of it for targeted advertising by visiting our [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices)  page. This page also provides instructions for your authorized agent to opt out on your behalf.
+    * visiting our Privacy Dashboard or
+    * calling 1-800-333-3972.
     
-    We may require you to [verify your identity](#) using the processes described in the dashboard and the privacy choices page before we fulfill your request.
+    You can exercise your right to opt-out of selling and sharing by visiting ;[Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices) 
+    
+    We require you to [verify your identity](#) using the processes we describe in the dashboard or the privacy choices page before we fulfill your request. 
     
     verify your identity
     
     For example, you may have to prove access to your mobile phone, to your email address on file with us, or to a government-issued ID.
     
-    If you have questions about your rights under the Colorado law, please [submit a privacy inquiry form.](https://www.verizon.com/about/privacy/privacy-inquiries)
-    
-    ### Connecticut Data Privacy Act
-    
-    The [Connecticut Data Privacy Act](#) gives specific rights to Connecticut residents.
-    
-    Connecticut Data Privacy Act
-    
-    This law gives you the right to know whether we collect information about you; access, correct and delete certain information; opt out of having personal information about you sold or used for target advertising purposes or to prevent us from using artificial intelligence to create a profile about you to make legally or similar significant decisions about you.
-    
-    **You have the right to know whether we collect personal information about you.** This privacy policy provides details about our information collection and use practices. Connecticut law requires us to let you know the [categories of personal information we collect and use](#).
-    
-    categories of personal information we collect and use
-    
-    We collect these categories of personal information: 
-    
-    * Contact and device information (including, name, billing and email address, mobile device identifiers, IP address, account credentials, business customer representative contact information); information about the products and services you purchase or consider; information about browsing, search and other activity on our sites and apps as well as your interactions with our sites, apps and advertisements; and information about your devices and how they are working, including performance on our network. 
-    * Demographic and interest information and fraud indicators that  you provide or that we obtain from third parties. 
-    * Geolocation information from our network and, when you permit it, in our apps; information about how you use our products and services;  web browsing across unaffiliated sites and apps; voice recordings of customer service calls and photographs of customer equipment.
-    * Secure account information including your account log-in credentials, financial account, Social Security Number or tax identifier,  debit or credit card number with any required security or access code, password, or credentials that allow access to an account. 
-    * Genetic, biometric and health information for limited purposes such as some Verizon apps allow you to share health information with your trusted or emergency contacts. Another Verizon service uses voice recognition technology to allow you to secure your Verizon accounts.  
-    * Other information that may identify, relate to, describe, or is capable of being associated with you, for example, in limited circumstances, we may collect your insurance policy number if it is needed for processing damage claims.
-    
-    We use this information for [business purposes](#). [Third parties](#) we use to do work on our behalf may use information for the same purposes. We may also share  information with others for credit and collections, directory assistance and caller id purposes; with your consent; and as further described in other sections of this policy.
-    
-    Third parties
-    
-    We share information service providers (also known as processors)  as necessary for them to perform work for us. They are required to protect the information they receive from us or collect on our behalf and use it only for the specific purposes that we allow.
-    
-    business purposes
-    
-    These purposes include providing you products and services, operating our businesses, communicating with you and providing customer service; personalizing your experiences; improving our services; providing marketing and advertising; debugging; auditing our processes and services; short-term transient uses; research; and security, fraud, and legal compliance. 
-    
-    You have the right to access, correct and delete information. You can access certain personal information we collect using our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) and following the instructions there, or by calling 1-800-333-3972. To the extent technically feasible, we will provide this information to you in a portable and readily usable format. You can use the same contact information to request that we delete personal information we have unless we need it for [reasons specified in the Connecticut law](#) and to request that we correct inaccurate personal information we have about you. 
-    
-    reasons specified In the Connecticut law
-    
-    These reasons include complying with laws, rules, regulations, investigative subpoena or summons by governmental authorities; defending against legal claims; providing and maintaining the products and services you use, performing a contract, preventing and responding to security and other significant incidents; and taking immediate steps to protect an interest that is essential for the life or physical safety of you or another natural person. The law also allows for short-term transient purposes such as displaying relevant information to you based on your activity during a single interaction.
-    
-    **Use of sensitive personal information.** Connecticut law prohibits us from using [sensitive personal information](#) without your consent except as [specified in the law](#). We use sensitive personal information as authorized by the law or after we obtain your express consent. 
-    
-    specified In the law
-    
-    These reasons include complying with laws, rules, regulations, investigative subpoena or summons by governmental authorities; defending against legal claims; providing and maintaining the products and services you use, performing a contract; preventing and responding to security and other significant incidents; and taking immediate steps to protect an interest that is essential for the life or physical safety of you or another natural person. The law also allows for short-term transient purposes such as displaying relevant information to you based on your activity during a single interaction. 
-    
-    sensitive personal information
-    
-    The law describes sensitive personal information to include: personal data revealing racial or ethnic origin, religious beliefs, mental or physical health condition or diagnosis, sex life or sexual orientation, citizenship or immigration status; processing genetic or biometric data for the purpose of uniquely identifying you; personal data collected from a known child; and precise geolocation data.
-    
-    **You have the right to tell us not to use automated decisioning to create profiles about you that we use for decisions that have legal or similarly significant effect**. We do not use personal information to profile you to further decisions that have legal or similar significant effects. 
-    
-    **You have the right to opt-out of the sale of personal information and the use of personal information for targeted advertising**. Connecticut law defines “sale” to mean the exchange of personal data for monetary or other valuable consideration. Connecticut law describes “targeted advertising” as using personal data obtained or inferred from your activities over time and across nonaffiliated Internet web sites or online applications to predict your preferences or interests, and display ads to you. 
-    
-    We engage in online targeted advertising activities when we share information with advertising technology companies present on our websites who combine that information with information they collect about your visits to other sites or that they otherwise have about you to provide more personalized advertising to you. This occurs through the use of cookies, pixels, tags and similar technologies. We may engage in offline targeting activities when we obtain personal information from or share personal information we have about you with other companies to better target ads to you or when we use personal information as part of [our own internal programs](#).
-    
-    our own internal programs
-    
-    Our programs include Custom Experience, Custom Experience Plus, Relevant TV Advertising, Relevant Online Advertising, and Fios TV market research and audience measurement. 
-    
-    You can exercise your right to opt out by visiting [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices) .
-    
-    **You can appeal** a denial of your request to exercise any of the privacy rights provided by the Connecticut law. If we deny your request, we will notify you and give you instructions on how you can appeal that decision to the Connecticut Attorney General. 
-    
-    **We do not** [discriminate](#) **against** you if you exercise any rights described in this section.
-    
-    discriminate
-    
-    We will not deny goods or services, charge different prices or rates for goods or services or provide you a different level or quality of goods and services.
-    
-    **Where to exercise your rights.** 
-    
-    You can exercise your right to know, access, delete and correct  data by:
-    
-    * Visiting our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) or
-    * Calling 1.800.333.3972.
-    
-    You can exercise your right to opt-out of the sale of personal information or use of this information for certain targeted advertising by visiting our [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices)  page. The page also provides instructions for your authorized agent to opt out on your behalf. 
-    
-    We may require you to [verify your identity](#) using the processes described in the dashboard and the privacy choices page before we fulfill your request.
-    
-    verify your identity
-    
-    For example, you may have to prove access to your mobile phone, to your email address on file with us, or to a government-issued ID.
-    
-    If you have questions about your rights under the Connecticut law, [please submit a privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries).
+    **Questions.** If you have questions about your rights under the  Colorado, Connecticut, Utah or Virginia state privacy laws or about our privacy policies and practices, please submit a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries).
     
     ### Maine Broadband Customer Privacy Rights
     
@@ -939,93 +855,6 @@ Open all
     
     Verizon doesn’t sell personally identifiable information today and we don’t have plans to start. If Verizon ever starts selling such personal information, current Verizon customers will be opted out. If you have questions, please submit a [privacy inquiries form](https://www.verizon.com/about/privacy/privacy-inquiries).
     
-    ### Virginia Consumer Data Protection Act
-    
-    The [Virginia Consumer Data Protection Act](#) gives specific rights to Virginia residents.
-    
-    Virginia Consumer Data Protection Act
-    
-    This law gives you the right to to access and delete certain information we collect about you; to request that we correct information that you believe is inaccurate; to opt out of having personal information about you sold, used to target advertising to you, or used to build a profile about you to make legally or similar significant decisions about you; and to appeal the denial of a request to exercise one of these privacy rights.
-    
-    **Personal information we collect and how we use it.** This privacy policy provides details about our collection and use practices. Virginia law requires us to let you know the [categories of personal information we collect and use.](#) We collect personal information [when you interact with us](#) and use our products and services, from certain third-party sources and from our network and the devices you use. Some of the information we collect is considered [sensitive personal information under Virginia law](#). 
-    
-    when you interact with us
-    
-    You may interact with us in different ways, for example, when you place an order or have questions about your account or services; work with Verizon as a representative of a business customer; contact us on social media; seek technical support; enter a Verizon-sponsored or affiliated contest, sweepstakes or promotion; or register to receive news or public policy updates.
-    
-    sensitive personal information under Virginia law
-    
-    The law describes sensitive personal information to include: personal data revealing racial or ethnic origin, religious beliefs, mental or physical health diagnosis, sexual orientation, or citizenship or immigration status; processing genetic or biometric data for the purpose of uniquely identifying you; personal data collected from a known child; and precise geolocation data.
-    
-    categories of personal information we collect and use.
-    
-    We collect these categories of personal information: 
-    
-    * Contact and device information (including, name, billing and email address, mobile device identifiers, IP address, account credentials, business customer representative contact information); information about the products and services you purchase or consider; information about browsing, search and other activity on our sites and apps as well as your interactions with our sites, apps and advertisements; and information about your devices and how they are working, including performance on our network. 
-    * Demographic and interest information and fraud indicators that  you provide or that we obtain from third parties. 
-    * Geolocation information from our network and, when you permit it, in our apps; information about how you use our products and services; web browsing across unaffiliated sites and apps; voice recordings of customer service calls and photographs of customer equipment.
-    * Secure account information including your account log-in credentials, financial account, Social Security Number or tax identifier,  debit or credit card number with any required security or access code, password, or credentials that allow access to an account. 
-    * Genetic, biometric and health information for limited purposes such as some Verizon apps allow you to share health information with your trusted or emergency contacts. Another Verizon service uses voice recognition technology to allow you to secure your Verizon accounts.  
-    * Other information that may identify, relate to, describe, or is capable of being associated with you, for example, in limited circumstances, we may collect your insurance policy number if it is needed for processing damage claims.
-    
-    We use this information for [business and commercial purposes](#)**.** [Service providers](#) we use to do work on our behalf may use information for the same purposes. We may also share information with others for credit and collections, directory assistance and caller id purposes; with your consent; and as further described in other sections of this policy. 
-    
-    Service providers
-    
-    We share information with service providers (also known as processors) as necessary for them to perform work for us. They are required to protect the information they receive from us or collect on our behalf and use it only for the specific purposes that we allow.
-    
-    business and commercial purposes
-    
-    These purposes include providing you products and services, operating our businesses, and engaging in economic activities such as communicating with you and providing customer service; personalizing your experiences; improving our services; providing marketing and advertising; debugging; auditing our processes and services; short-term transient uses; research; and security, fraud, and legal compliance.
-    
-    **You have the right to access, delete and correct information.** You can access specific pieces and categories of personal information we collect using our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) and following the instructions there, or by calling 1-800-333-3972. To the extent technically feasible, we will provide this information to you in a portable and readily usable format. You can use the same contact information to request that we delete personal information we have unless we need it for [specific reasons described by Virginia law](#).or request that we correct personal information we have about you that you believe may be inaccurate. We retain personal information only as long as reasonably necessary for business, accounting, tax or legal purposes and then securely delete it. 
-    
-    specific reasons described by Virginia law
-    
-    These reasons include complying with laws, rules, regulations, investigative subpoena or summons by governmental authorities; defending against legal claims; providing and maintaining the products and services you use and preventing security instances
-    
-    **Our use of sensitive personal information.** Virginia law prohibits us from using sensitive personal information without your consent, except as [specified in the law](#). We do not use sensitive personal information without your express consent or as authorized under the law. 
-    
-    specified In the law
-    
-    These reasons include complying with laws, rules, regulations, investigative subpoena or summons by governmental authorities; defending against legal claims; providing and maintaining the products and services you use; preventing and responding to security and other significant incidents; and taking immediate steps to protect an interest that is essential for the life or physical safety of you or another natural person. The law also allows for short-term transient purposes such as displaying relevant information to you based on your activity during a single interaction.
-    
-    **You have the right to tell us not to sell personal information or use it for profiling in furtherance of decisions that produce legal or similarly significant effect.** Virginia law defines “sale” to mean the exchange of personal data for monetary consideration. We do not sell information as it is defined under Virginia law. We also do not use personal information to profile you to further decisions that have legal or similar significant effects. 
-    
-    **You have the right to opt-out of targeted advertising.** Virginia law describes “targeted advertising” as using information from your activities across non-affiliated sites and apps to determine your interests and target our advertising to you.
-    
-    We engage in targeted advertising activities when we share information with advertising technology companies present on our websites who combine that information with information they collect about your visits to other sites or that they otherwise have about you to provide more personalized advertising to you. This occurs through the use of cookies, pixels, tags and similar technologies. We also may engage in offline targeting activities when we obtain personal information from or share personal information we have about you with other companies to better target ads to you or when we use personal information in [our own internal programs.](#)
-    
-    our own internal programs
-    
-    Our programs include Custom Experience, Custom Experience Plus, Relevant TV Advertising, Relevant Online Advertising and Fios market research and audience measurement.
-    
-    You can opt out of targeted advertising by accessing [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices). [![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices)
-    
-    **You have the right to appeal.** You can appeal a denial of your request to exercise any of the privacy rights provided by the Virginia law. If we deny your request, we will notify you and give you instructions on how you can appeal that decision to the Virginia Attorney General.
-    
-    **We do not [discriminate](#)** against you if you exercise any rights described in this section.
-    
-    discriminate
-    
-    We will not deny goods or services, charge different prices or rates for goods or services or provide you a different level or quality of goods and services.
-    
-    **Where to exercise your rights.**   
-    You can exercise your right to know, access, delete and correct data by:
-    
-    * Visiting our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) or
-    * Calling 1.800.333.3972.
-    
-    You can exercise your right to opt-out of targeted advertising by visiting [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices) [![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices).
-    
-    We may require you to [verify your identity](#) using the processes described in the dashboard and the privacy choices page before we fulfill your request.
-    
-    verify your identity
-    
-    For example, you may have to prove access to your mobile phone, to your email address on file with us, or to a government-issued ID.
-    
-    If you have questions about your rights under the Virginia law, please [submit a privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries).
-    
 * [How do I learn about changes to this privacy policy?
     ----------------------------------------------------
     
@@ -1035,7 +864,7 @@ Open all
     
     We may make changes to this privacy policy, so please check back periodically. You will be able to see that we made changes by checking the effective date below. You can also read about [recent changes](https://www.verizon.com/about/privacy/changes-privacy-policy) . If we decide to use or disclose information that identifies you personally in a way that is materially different from what we stated in our privacy policy at the time we collected that information from you, we will give you a choice about the new use or disclosure by appropriate means, which may include an opportunity to opt-out.
     
-    Updated November, 2023
+    Updated December, 2023
     
     © 2023 Verizon. All rights reserved.
     
