@@ -48,6 +48,10 @@ Your subscription will remain active from the time you cancel until the end of y
 
 If you obtain a Telegram Premium subscription via a third party (e.g. Google Play, Apple App Store), your purchase may be further subject to the third party's terms as agreed between you and the third party. For paid services obtained via a third party, your billing relationship will be directly with the applicable third party.
 
+#### [](#3-1-refunding-services-obtained-through-third-parties)3.1 Refunding Services Obtained Through Third Parties
+
+By issuing a chargeback or refund request for Premium subscriptions paid for through a third party, you agree to allow Telegram to release necessary data to that third party regarding your account status and Telegram Premium purchases.
+
 ### [](#4-termination)4\. Termination
 
 #### [](#4-1-compliance-with-the-terms)4.1. Compliance with the Terms
@@ -133,3 +137,5 @@ Admins who sponsored a giveaway are not entitled to a refund if they lose access
 Channels that mislead users into joining by means of giveaways that are later refunded with a third party (e.g., a bank) may be terminated or assigned a _scam_ label and removed from Telegram search. Subscribers gained as a result of such actions may be removed from the channel sponsoring the giveaway, all channels listed in the selection criteria and other associated channels at our sole discretion.
 
 Certain countries or jurisdictions may impose regulatory constraints on giveaways. If you run a giveaway, you are solely responsible for complying with applicable law. You explicitly acknowledge that Telegram is not liable in the event of sanctions, fees, and any form of legal or administrative action incurred as a result of or in relation to your use of the “Giveaway” feature provided by Telegram.
+
+Channel admins can use the Giveaway feature to announce arbitrary prizes in addition to premium subscriptions. Should they choose to do so, they are solely responsible for delivering said prizes to giveaway winners. Telegram will not be liable if any disputes arise in relation to the prizes, their delivery or lack thereof.
