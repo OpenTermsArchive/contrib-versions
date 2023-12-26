@@ -729,13 +729,13 @@ These terms and our relationship shall be governed by the laws of the State of I
 
 We may provide you with notices in any of the following methods: (1) via the Wix Services, including by a banner or pop-up within the Wix Website, User Account, or elsewhere; (2) by an e-mail, sent to the e-mail address you provided us; (3) if you are a Reseller User then via your Reseller; and/or (4) through any other means, including any phone number or physical address you provided us. Wix’s notice to you or to your Reseller will be deemed received and effective within twenty-four (24) hours after it was published or sent through any of the foregoing methods unless otherwise indicated in the notice.
 
-### 16.4. Relationship
-
-The Wix Terms, and your use of the Wix Services, do not, and shall not be construed to create any partnership, joint venture, employer-employee, agency, or franchisor-franchisee relationship between Wix and you.
-
 #### #ItsThatEasy
 
 We may provide you (or your Reseller, if you are a Reseller User) with notices via our services, by e-mail or through any other contact means you provided us.
+
+### 16.4. Relationship
+
+The Wix Terms, and your use of the Wix Services, do not, and shall not be construed to create any partnership, joint venture, employer-employee, agency, or franchisor-franchisee relationship between Wix and you.
 
 #### #ItsThatEasy
 
