@@ -39,7 +39,7 @@ You accept this Agreement and agree to its terms by activating the Services, usi
     
     The following services are covered by this Agreement: Xfinity cable television and other video and streaming services (“**TV**”); Xfinity Internet services (“**Internet**”); Xfinity digital phone services (“**Voice**”); and other ancillary services Comcast may designate.
     
-    The terms of this Agreement do not apply to any other services provided by Comcast (such as Xfinity Home or Xfinity Mobile). This Agreement also does not apply to any Comcast-owned or -controlled websites and mobile apps that do not link to this Agreement, which are subject to their own terms of service and policies, such as our Web Services Terms of Service (available at [https://my.xfinity.com/terms/web/](https://my.xfinity.com/terms/web/)) and our Website Terms of Service (available at [https://www.xfinity.com/corporate/legal/visitoragreement](https://www.xfinity.com/corporate/legal/visitoragreement)).
+    The terms of this Agreement do not apply to any other services provided by Comcast (such as Xfinity Home or Xfinity Mobile). This Agreement also does not apply to any Comcast-owned or -controlled websites and mobile apps that do not link to this Agreement, which are subject to their own terms of service and policies, such as our Web Services Terms of Service (available at [https://www.xfinity.com/terms/web/](https://www.xfinity.com/terms/web/)) and our Website Terms of Service (available at [https://www.xfinity.com/corporate/legal/visitoragreement](https://www.xfinity.com/corporate/legal/visitoragreement)).
     
 2. ### ADDITIONAL TERMS
     
@@ -383,4 +383,4 @@ You accept this Agreement and agree to its terms by activating the Services, usi
     *  **New Hampshire Residents:**The Office of the Attorney General Consumer Protection Bureau has the authority to enforce consumer protection laws and provide assistance in the mediation of consumer complaints. Customers should file written complaints concerning any alleged misrepresentations and unfair or deceptive practices of the cable company to: Office of the Attorney General, Consumer Protection Bureau, 33 Capitol Street, Concord, NH 03301.
     *  **Maine Residents:**The Office of the Attorney General Consumer Protection Division has the authority to enforce consumer protection laws and provide assistance in the mediation of consumer complaints. Customers should file written complaints concerning any alleged misrepresentations and unfair or deceptive practices of the cable company to: Office of the Attorney General, Consumer Information and Mediation Service, 6 State House Station, Augusta, ME 04333.
 
-Stnd1023
+Stnd0124
