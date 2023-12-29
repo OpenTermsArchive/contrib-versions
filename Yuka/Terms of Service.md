@@ -1,9 +1,9 @@
 Terms & Conditions
 ==================
 
-![Benoit](https://files.helpdocs.io/n0njida9x8/other/1574088362284/03-mg-1925-1.jpg)
+![Louise](https://files.helpdocs.io/n0njida9x8/other/1697448726388/clean-shot-2023-09-26-at-13-07-20-2-x.png)
 
-Updated 2023-12-28T15:56:34Z by Benoit
+Updated 2023-12-29T11:24:15Z by Louise
 
 There are two versions of Yuka's Terms & Conditions, depending on the country of residence of the User :
 
@@ -29,6 +29,6 @@ Yuka's Terms & Conditions (US, Canada, Australia)
 Legal notice
 ------------](https://help.yuka.io/l/en/article/nlsu1ptphw-legal-notice)
 
-![Benoit](https://files.helpdocs.io/n0njida9x8/other/1574088362284/03-mg-1925-1.jpg)
+![Louise](https://files.helpdocs.io/n0njida9x8/other/1697448726388/clean-shot-2023-09-26-at-13-07-20-2-x.png)
 
-Updated 2023-12-28T15:56:34Z by Benoit
+Updated 2023-12-29T11:24:15Z by Louise
