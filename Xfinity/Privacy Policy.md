@@ -1,4 +1,4 @@
-Effective September 20, 2023 | [Download PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-5055_xfinity-com-welcome-kit-legal/PP_09202023.pdf) [Descargar PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-5055_xfinity-com-welcome-kit-legal/PP_SP_09202023.pdf)
+Effective January 1, 2024 | [Download PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/PP_01012024.pdf) [Descargar PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/PP_SP_01012024.pdf)
 
   
 
@@ -130,7 +130,7 @@ We collect personal information about you in several ways
 * Geolocation information that indicates where your device is at a specific point in time when you use [Xfinity Mobile](#/privacy/overlays/Xfinity-Mobile) or enable that function in our [mobile apps](#/privacy/overlays/mobile-apps)
 * General location information, such as the city or ZIP Code that correlates with the location of a WiFi service access point or with the lease of your device IP address when you use Xfinity Internet or Xfinity WiFi 
 * The quantity, technical configuration, type, features, call history, and amount of your use of voice services (known as Customer Proprietary Network Information or “CPNI”)
-* Video and audio recordings (if you have turned these features on) when you use Xfinity Home security and automation
+* Video and audio recordings, live video and audio streams, motion activity, images, and other events that are captured or recorded when using our Services. For example, this may include capturing video, audio, or motion information (if you have turned these features on) when you use Services such as Xfinity Home security and automation
 
 3\. FROM THIRD PARTIES, SUCH AS:
 
@@ -414,6 +414,8 @@ Your privacy may be impacted differently depending on where you live. If you're 
 [Colorado](https://www.xfinity.com/privacy/policy/staterights#colorado)
 
 [Maine](https://www.xfinity.com/privacy/policy/staterights#maine)
+
+[Utah](https://www.xfinity.com/privacy/policy/staterights#utah)
 
 [Virginia](https://www.xfinity.com/privacy/policy/staterights#virginia)
 
