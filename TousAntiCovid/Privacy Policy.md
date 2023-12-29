@@ -351,11 +351,6 @@ Recherche
     Retour
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        * [Parcours de santé, vos droits](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/)
-            
-            * [Liberté de choix et accès aux soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/liberte-de-choix-et-acces-aux-soins/)
-            * [Qualité et coût des soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/qualite-et-cout-des-soins/)
-            
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
     * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
             
@@ -572,11 +567,6 @@ Recherche
     Retour
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        * [Parcours de santé, vos droits](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/)
-            
-            * [Liberté de choix et accès aux soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/liberte-de-choix-et-acces-aux-soins/)
-            * [Qualité et coût des soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/qualite-et-cout-des-soins/)
-            
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
     * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
             
@@ -1078,11 +1068,6 @@ Recherche
     Retour
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        * [Parcours de santé, vos droits](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/)
-            
-            * [Liberté de choix et accès aux soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/liberte-de-choix-et-acces-aux-soins/)
-            * [Qualité et coût des soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/qualite-et-cout-des-soins/)
-            
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
     * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
             
@@ -1299,11 +1284,6 @@ Recherche
     Retour
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        * [Parcours de santé, vos droits](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/)
-            
-            * [Liberté de choix et accès aux soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/liberte-de-choix-et-acces-aux-soins/)
-            * [Qualité et coût des soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/qualite-et-cout-des-soins/)
-            
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
     * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
             
@@ -1779,11 +1759,6 @@ Recherche
     Retour
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        * [Parcours de santé, vos droits](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/)
-            
-            * [Liberté de choix et accès aux soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/liberte-de-choix-et-acces-aux-soins/)
-            * [Qualité et coût des soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/qualite-et-cout-des-soins/)
-            
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
     * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
             
@@ -2000,11 +1975,6 @@ Recherche
     Retour
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        * [Parcours de santé, vos droits](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/)
-            
-            * [Liberté de choix et accès aux soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/liberte-de-choix-et-acces-aux-soins/)
-            * [Qualité et coût des soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/qualite-et-cout-des-soins/)
-            
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
     * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
             
@@ -2411,11 +2381,6 @@ Recherche
     Retour
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        * [Parcours de santé, vos droits](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/)
-            
-            * [Liberté de choix et accès aux soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/liberte-de-choix-et-acces-aux-soins/)
-            * [Qualité et coût des soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/qualite-et-cout-des-soins/)
-            
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
     * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
             
@@ -2782,11 +2747,6 @@ Recherche
     Retour
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        * [Parcours de santé, vos droits](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/)
-            
-            * [Liberté de choix et accès aux soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/liberte-de-choix-et-acces-aux-soins/)
-            * [Qualité et coût des soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/qualite-et-cout-des-soins/)
-            
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
     * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
             
@@ -3153,11 +3113,6 @@ Recherche
     Retour
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        * [Parcours de santé, vos droits](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/)
-            
-            * [Liberté de choix et accès aux soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/liberte-de-choix-et-acces-aux-soins/)
-            * [Qualité et coût des soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/qualite-et-cout-des-soins/)
-            
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
     * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
             
@@ -3524,11 +3479,6 @@ Recherche
     Retour
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        * [Parcours de santé, vos droits](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/)
-            
-            * [Liberté de choix et accès aux soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/liberte-de-choix-et-acces-aux-soins/)
-            * [Qualité et coût des soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/qualite-et-cout-des-soins/)
-            
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
     * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
             
@@ -3895,11 +3845,6 @@ Recherche
     Retour
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        * [Parcours de santé, vos droits](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/)
-            
-            * [Liberté de choix et accès aux soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/liberte-de-choix-et-acces-aux-soins/)
-            * [Qualité et coût des soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/qualite-et-cout-des-soins/)
-            
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
     * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
             
@@ -4266,11 +4211,6 @@ Recherche
     Retour
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        * [Parcours de santé, vos droits](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/)
-            
-            * [Liberté de choix et accès aux soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/liberte-de-choix-et-acces-aux-soins/)
-            * [Qualité et coût des soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/qualite-et-cout-des-soins/)
-            
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
     * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
             
@@ -4479,9 +4419,6 @@ Retour
 
 Retour
 
-* [Liberté de choix et accès aux soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/liberte-de-choix-et-acces-aux-soins/)
-* [Qualité et coût des soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/qualite-et-cout-des-soins/)
-
 * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
 
 * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
@@ -4685,11 +4622,6 @@ Retour
     Retour
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        * [Parcours de santé, vos droits](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/)
-            
-            * [Liberté de choix et accès aux soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/liberte-de-choix-et-acces-aux-soins/)
-            * [Qualité et coût des soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/qualite-et-cout-des-soins/)
-            
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
     * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
             
@@ -4906,11 +4838,6 @@ Retour
     Retour
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        * [Parcours de santé, vos droits](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/)
-            
-            * [Liberté de choix et accès aux soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/liberte-de-choix-et-acces-aux-soins/)
-            * [Qualité et coût des soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/qualite-et-cout-des-soins/)
-            
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
     * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
             
@@ -5127,11 +5054,6 @@ Retour
     Retour
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        * [Parcours de santé, vos droits](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/)
-            
-            * [Liberté de choix et accès aux soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/liberte-de-choix-et-acces-aux-soins/)
-            * [Qualité et coût des soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/qualite-et-cout-des-soins/)
-            
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
     * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
             
@@ -5348,11 +5270,6 @@ Retour
     Retour
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        * [Parcours de santé, vos droits](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/)
-            
-            * [Liberté de choix et accès aux soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/liberte-de-choix-et-acces-aux-soins/)
-            * [Qualité et coût des soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/qualite-et-cout-des-soins/)
-            
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
     * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
             
@@ -5569,11 +5486,6 @@ Retour
     Retour
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        * [Parcours de santé, vos droits](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/)
-            
-            * [Liberté de choix et accès aux soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/liberte-de-choix-et-acces-aux-soins/)
-            * [Qualité et coût des soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/qualite-et-cout-des-soins/)
-            
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
     * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
             
@@ -5790,11 +5702,6 @@ Retour
     Retour
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        * [Parcours de santé, vos droits](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/)
-            
-            * [Liberté de choix et accès aux soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/liberte-de-choix-et-acces-aux-soins/)
-            * [Qualité et coût des soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/qualite-et-cout-des-soins/)
-            
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
     * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
             
@@ -6011,11 +5918,6 @@ Retour
     Retour
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        * [Parcours de santé, vos droits](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/)
-            
-            * [Liberté de choix et accès aux soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/liberte-de-choix-et-acces-aux-soins/)
-            * [Qualité et coût des soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/qualite-et-cout-des-soins/)
-            
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
     * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
             
@@ -6172,9 +6074,6 @@ Retour
 * [Mon signalement en bref](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/mon-signalement-en-bref)
 
 Retour
-
-* [Liberté de choix et accès aux soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/liberte-de-choix-et-acces-aux-soins/)
-* [Qualité et coût des soins](https://sante.gouv.fr/systeme-de-sante/parcours-de-sante-vos-droits/qualite-et-cout-des-soins/)
 
 * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
 
