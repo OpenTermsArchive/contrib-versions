@@ -494,15 +494,15 @@ Location: USA
 
 Website: [https://classcalc.com/](https://classcalc.com/)
 
-#### Inspera USA, Inc.
-
-Purpose: Originality (Plagiarism) and AI Detection Services
-
-Location: USA
-
-Website: [https://www.inspera.com/us](https://www.inspera.com/us)
-
 Optional sub-processors for support services:
+
+#### Google, Inc. (Workspace)
+
+Purpose: Email support provider
+
+Location: USA and Europe
+
+Website: [https://workspace.google.com/](https://workspace.google.com/)
 
 #### Olark
 
@@ -511,6 +511,14 @@ Purpose: Chat support provider
 Location: USA
 
 Website: [https://olark.com/](https://olark.com/)
+
+#### Postmark
+
+Purpose: Transactional email support provider
+
+Location: USA
+
+Website: [https://postmarkapp.com/](https://postmarkapp.com/)
 
 #### Proctorio d.o.o
 
