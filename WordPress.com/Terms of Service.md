@@ -346,15 +346,15 @@ The Agreement doesn’t transfer any Automattic or third-party intellectual prop
 11\. Third-Party Services
 -------------------------
 
-While using the Services, you may enable, use, or purchase services, products, software, embeds, or applications (like themes, extensions, plugins, blocks, or point-of-sale terminals) provided or manufactured by a third party or yourself (“Third-Party Services”). Certain Third-Party Services will indicate that they are sold or licensed by Automattic with first tier support provided by Automattic.
+While using the Services, you may enable, use, or purchase services, products, software, embeds, or applications (like themes, extensions, plugins, blocks, or point-of-sale terminals) provided or manufactured by a third party or yourself (“Third-Party Services”). Certain Third-Party Services will indicate that they are sold or licensed by Automattic with support provided by Automattic.
 
 If you use any Third-Party Services, you understand and agree that:
 
 * Third-Party Services aren’t vetted, endorsed, or controlled by Automattic.
-* Unless we have indicated that Automattic is providing first tier support for it, any use of a Third-Party Service is at your own risk, and we won’t be responsible or liable to you or anyone else for Third-Party Services.
+* Unless we have indicated that Automattic is providing support for it, any use of a Third-Party Service is at your own risk, and we won’t be responsible or liable to you or anyone else for Third-Party Services.
 * Even if you purchase a third-party extension through a marketplace we operate, any services related to that extension are subject to and governed by the terms and policies of the third party (“Third Party”).
 * Some Third-Party Services may request or require access to your data — or to your visitors’ or customers’ data — through things like pixels or cookies. If you use the Third-Party Service or grant them access, the data will be handled in accordance with the Third Party’s privacy policy and practices, which you should carefully review before you use any Third-Party Services. Third-Party Services may not work appropriately with our Services and we may not be able to provide support for issues caused by any Third-Party Services.
-* If you have questions or concerns about how a Third-Party Service operates or need support, contact the Third Party directly.
+* If you have questions or concerns about how a Third-Party Service operates or need support, contact the Third Party directly unless it is indicated that Automattic provides support for it.
 
 In rare cases we may at our discretion, suspend, disable, or remove Third-Party Services from your account or website.
 
