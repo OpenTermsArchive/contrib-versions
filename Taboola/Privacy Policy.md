@@ -1,7 +1,7 @@
 TABOOLA PRIVACY POLICY
 ======================
 
-Last Update: June 30th, 2023
+Last Update: December 29th, 2023
 
 You can find information below on Taboola’s data collection practices in our services. You can find more detailed information on our website data collection practices [here](https://www.taboola.com/pdf/taboola-website-privacy-notice).  
 If you would like to go directly to Taboola’s opt-out status options, please [click here](#user-choices-and-opting-out).  
@@ -192,7 +192,7 @@ To understand your interests and deliver advertisements that are tailored to you
 
 ### 3.5 Site Visitor Choices
 
-Site Visitors may opt out of the Taboola Ad Partners that collect information on the Sites to serve ads about Taboola. (California Site Visitors may exercise their options directly with Taboola, as outlined below in Section 5.2.1). By visiting one of the Digital Advertising Alliance affiliate websites, you can learn more about User choices and opting out of interest-based advertising displayed by the many member companies.
+Site Visitors may opt out of the Taboola Ad Partners that collect information on the Sites to serve ads about Taboola. (Some US Site Visitors may exercise their options directly with Taboola, as outlined below in Section 5.2.1). By visiting one of the Digital Advertising Alliance affiliate websites, you can learn more about User choices and opting out of interest-based advertising displayed by the many member companies.
 
 * Users in the United States may visit the DAA consumer choice page at [www.aboutads.info/choices](http://www.aboutads.info/choices)
 * Users in Canada may visit the DAAC consumer choice page at [www.youradchoices.ca/choices](http://www.youradchoices.ca/choices)
@@ -347,7 +347,7 @@ Taboola may disclose or make available your pseudonymous Personal Information to
 
 Colorado residents have the right to request that Taboola (i) provide you with access to the Personal Information that we hold about you, (ii) correct your Personal Information, (iii) delete your Personal Information, (iv) cease or restrict disclosures, sharing, or sales of your Personal Information to third parties, and (v) opt out of profiling. You also have a right against discrimination for exercising any of these rights, which Taboola is committed to upholding and honoring at all times.
 
-If you would like to opt out of Taboola’s disclosures, sharing, and sales of your Personal Information and profiling, you may do so as outlined in Taboola’s [US State Consumer Rights Portal](https://ccparequest.taboola.com/). Please note that this feature is currently only available for California, Colorado, Connecticut, and Virginia state residents.
+If you would like to opt out of Taboola’s disclosures, sharing, and sales of your Personal Information and profiling, you may do so as outlined in Taboola’s [US State Consumer Rights Portal](https://ccparequest.taboola.com/). Please note that this feature is currently only available for California, Colorado, Connecticut, Utah, and Virginia state residents.
 
 **5.4.2 Categories of Data that Taboola Holds about You**
 
@@ -367,13 +367,13 @@ Taboola collects Information either directly from you during your use of our Sit
 
 Taboola may disclose or make available your pseudonymous Personal Information to our trusted partners. In most cases when we do so, we have contractually restricted their uses of this data for only Taboola’s business purposes. Such disclosures of Personal Information to service providers are not deemed to be a “sale” and thus are not prohibited after you exercise your right to cease or restrict disclosures or sales of your Personal Information to third parties. In any instances where we have not entered into a service provider relationship with such third parties, we will stop sharing your Personal Information when you instruct us not to “sell” or share your Personal Information.
 
-### 5.5 Notice to Individuals in the State of Connecticut
+### 5.5 Notice to Individuals in the States of Connecticut and Utah
 
 **5.5.1 Your Rights to Your Personal Information**
 
-Connecticut residents have the right to request that Taboola (i) provide you with access to the Personal Information that we hold about you, (ii) correct your Personal Information, (iii) delete your Personal Information, (iv) cease or restrict disclosures, sharing, or sales of your Personal Information to third parties, and (v) opt out of targeted advertising. You also have a right against discrimination for exercising any of these rights, which Taboola is committed to upholding and honoring at all times.
+Connecticut and Utah residents have the right to request that Taboola (i) provide you with access to the Personal Information that we hold about you, (ii) correct your Personal Information, (iii) delete your Personal Information, (iv) cease or restrict disclosures, sharing, or sales of your Personal Information to third parties, and (v) opt out of targeted advertising. You also have a right against discrimination for exercising any of these rights, which Taboola is committed to upholding and honoring at all times.
 
-If you would like to opt out of Taboola’s disclosures, sharing, and sales of your Personal Information and profiling, you may do so as outlined in Taboola’s [US State Consumer Rights Portal](https://ccparequest.taboola.com/). Please note that this feature is currently only available for California, Colorado, Connecticut, and Virginia state residents.
+If you would like to opt out of Taboola’s disclosures, sharing, and sales of your Personal Information and profiling, you may do so as outlined in Taboola’s [US State Consumer Rights Portal](https://ccparequest.taboola.com/). Please note that this feature is currently only available for California, Colorado, Connecticut, Utah, and Virginia state residents.
 
 **5.5.2 Categories of Data that Taboola Holds about You**
 
