@@ -1,9 +1,9 @@
 Privacy Notice
 ==============
 
-#### Last Updated: September 22, 2023
+#### Last Updated: January 1, 2024
 
-To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20230811/).
+To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20230922/).
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -128,7 +128,7 @@ We provide additional information about our controllers and data protection offi
 
 * Brazil
     
-    **Controller of Personal Information**. When Amazon AWS Serviços Brasil Ltda. is the provider of an AWS Offering, Amazon AWS Serviços Brasil Ltda., A. Presidente Juscelino Kubitschek, 2.041, Torre E - 18th and 19th Floors, Vila Nova Conceicao, Sao Paulo, is the data controller of personal information collected or processed through the AWS Offering. The data protection officer for Amazon AWS Serviços Brasil Ltda. can be contacted at aws-brasil-privacy@amazon.com.
+    **Controller of Personal Information**. When Amazon AWS Serviços Brasil Ltda. is the provider of an AWS Offering, Amazon AWS Serviços Brasil Ltda., A. Presidente Juscelino Kubitschek, 2.041, Torre E - 18th and 19th Floors, Vila Nova Conceicao, Sao Paulo, is the data controller of personal information collected or processed through the AWS Offering. The data protection officer for Amazon AWS Serviços Brasil Ltda. can be contacted at aws-brazil-privacy@amazon.com.
     
     **Processing**. We process your personal information on one or more of the following legal bases:
     
@@ -366,13 +366,17 @@ We provide additional information about our controllers and data protection offi
     
     Korean translation of this Privacy Notice can be found [here](https://aws.amazon.com/ko/privacy/).  
     
+* Turkey
+    
+    **Controller of Personal Information.** When AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi is the provider of an AWS Offering, AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi, located at Esentepe Mahallesi Bahar Sk. Özdilek/River Plaza/Wyndham Grand Hotel Apt. No: 13/52 Şişli/İstanbul, Turkey, is the data controller of personal information collected or processed through the AWS Offering.
+    
 * United States
     
     These additional state-specific privacy disclosures, which serve as a Notice at Collection under the California Privacy Rights Act, are required by the California Consumer Privacy Act, as amended by the California Privacy Rights Act, Colorado Privacy Act, Connecticut Data Privacy Act, Utah Consumer Privacy Act, and Virginia Consumer Data Protection Act and are effective as of June 30, 2023:
     
     **Categories of personal information collected**. The personal information that we may collect, or may have collected from consumers in the preceding twelve months, fall into the following categories established by the California Privacy Rights Act, depending on how you engage with the AWS Offerings:
     
-    * Identifiers, such as your name, alias, address, phone numbers, or IP address, your AWS account log-in information, or a government-issued identifier (e.g., a state-issued ID number, which may be required to verify your identity when completing certain AWS certification courses);  
+    * Identifiers, such as your name, alias, address, phone numbers, or IP address, your AWS account log-in information, or a government-issued identifier (e.g., a state-issued ID number, which may be required to verify your identity when completing certain AWS certification courses, or an ID you provide for identity verification, which in some cases may reflect citizenship or immigration status);  
         
     * personal information as described in subdivision (e) of Section 1798.80 of the California Civil Code, such as a credit card number or other payment information;
     * characteristics of protected classifications under California or US federal law, such as age, race, or gender, for example if we conduct user surveys or analysis;  
@@ -391,7 +395,7 @@ We provide additional information about our controllers and data protection offi
     
     **Categories of personal information disclosed for a business purpose**. The personal information that we may have disclosed about consumers for a business purpose in the preceding twelve months fall into the following categories established by the California Privacy Rights Act, depending on how you engage with the AWS Offerings:
     
-    * Identifiers, such as your name, address, or phone numbers, for example if we use a third-party carrier to deliver AWS hardware, or government identifier, for example if we use a third-party service to verify your identity;
+    * Identifiers, such as your name, address, or phone numbers, for example if we use a third-party carrier to deliver AWS hardware, or government identifier or certain types of ID you provide for identity verification that may in some cases reflect your citizenship or immigration status, for example if we use a third-party service to verify your identity;
     * personal information as described in subdivision (e) of Section 1798.80 of the California Civil Code, such as a credit card number or other payment information, for example if we use a third-party payment processor;
     * information that may reveal your age, gender, race, or other protected classifications under California or US federal law, for example if we conduct user surveys or analysis using a third-party service provider;  
         
@@ -424,7 +428,7 @@ We provide additional information about our controllers and data protection offi
     
     **California Privacy Rights Act, Colorado Privacy Act, Connecticut Data Privacy Act, Virginia Consumer Data Protection Act, and Utah Consumer Privacy Act De-identified Data Disclosure**. AWS may use de-identified data in some instances. AWS either maintains such data without attempting to re-identify it or treats such data as personal data subject to applicable law.
     
-    **Colorado Privacy Act Profiling Disclosure**. We do not engage in profiling of consumers in furtherance of automated decisions that produce legal or similarly significant effects, as those terms are defined under the Colorado Privacy Act.   
+    **Colorado Privacy Act Profiling Disclosure**. We do not engage in profiling of consumers in furtherance of automated decisions that produce legal or similarly significant effects, as those terms are defined under the Colorado Privacy Act.    
     
 
 #### Examples of Information Collected
@@ -505,9 +509,9 @@ Customers can access the information above through AWS Offerings, such as the [A
 Privacy Notice
 ==============
 
-#### Last Updated: September 22, 2023
+#### Last Updated: January 1, 2024
 
-To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20230811/).
+To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20230922/).
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -632,7 +636,7 @@ We provide additional information about our controllers and data protection offi
 
 * Brazil
     
-    **Controller of Personal Information**. When Amazon AWS Serviços Brasil Ltda. is the provider of an AWS Offering, Amazon AWS Serviços Brasil Ltda., A. Presidente Juscelino Kubitschek, 2.041, Torre E - 18th and 19th Floors, Vila Nova Conceicao, Sao Paulo, is the data controller of personal information collected or processed through the AWS Offering. The data protection officer for Amazon AWS Serviços Brasil Ltda. can be contacted at aws-brasil-privacy@amazon.com.
+    **Controller of Personal Information**. When Amazon AWS Serviços Brasil Ltda. is the provider of an AWS Offering, Amazon AWS Serviços Brasil Ltda., A. Presidente Juscelino Kubitschek, 2.041, Torre E - 18th and 19th Floors, Vila Nova Conceicao, Sao Paulo, is the data controller of personal information collected or processed through the AWS Offering. The data protection officer for Amazon AWS Serviços Brasil Ltda. can be contacted at aws-brazil-privacy@amazon.com.
     
     **Processing**. We process your personal information on one or more of the following legal bases:
     
@@ -870,13 +874,17 @@ We provide additional information about our controllers and data protection offi
     
     Korean translation of this Privacy Notice can be found [here](https://aws.amazon.com/ko/privacy/).  
     
+* Turkey
+    
+    **Controller of Personal Information.** When AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi is the provider of an AWS Offering, AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi, located at Esentepe Mahallesi Bahar Sk. Özdilek/River Plaza/Wyndham Grand Hotel Apt. No: 13/52 Şişli/İstanbul, Turkey, is the data controller of personal information collected or processed through the AWS Offering.
+    
 * United States
     
     These additional state-specific privacy disclosures, which serve as a Notice at Collection under the California Privacy Rights Act, are required by the California Consumer Privacy Act, as amended by the California Privacy Rights Act, Colorado Privacy Act, Connecticut Data Privacy Act, Utah Consumer Privacy Act, and Virginia Consumer Data Protection Act and are effective as of June 30, 2023:
     
     **Categories of personal information collected**. The personal information that we may collect, or may have collected from consumers in the preceding twelve months, fall into the following categories established by the California Privacy Rights Act, depending on how you engage with the AWS Offerings:
     
-    * Identifiers, such as your name, alias, address, phone numbers, or IP address, your AWS account log-in information, or a government-issued identifier (e.g., a state-issued ID number, which may be required to verify your identity when completing certain AWS certification courses);  
+    * Identifiers, such as your name, alias, address, phone numbers, or IP address, your AWS account log-in information, or a government-issued identifier (e.g., a state-issued ID number, which may be required to verify your identity when completing certain AWS certification courses, or an ID you provide for identity verification, which in some cases may reflect citizenship or immigration status);  
         
     * personal information as described in subdivision (e) of Section 1798.80 of the California Civil Code, such as a credit card number or other payment information;
     * characteristics of protected classifications under California or US federal law, such as age, race, or gender, for example if we conduct user surveys or analysis;  
@@ -895,7 +903,7 @@ We provide additional information about our controllers and data protection offi
     
     **Categories of personal information disclosed for a business purpose**. The personal information that we may have disclosed about consumers for a business purpose in the preceding twelve months fall into the following categories established by the California Privacy Rights Act, depending on how you engage with the AWS Offerings:
     
-    * Identifiers, such as your name, address, or phone numbers, for example if we use a third-party carrier to deliver AWS hardware, or government identifier, for example if we use a third-party service to verify your identity;
+    * Identifiers, such as your name, address, or phone numbers, for example if we use a third-party carrier to deliver AWS hardware, or government identifier or certain types of ID you provide for identity verification that may in some cases reflect your citizenship or immigration status, for example if we use a third-party service to verify your identity;
     * personal information as described in subdivision (e) of Section 1798.80 of the California Civil Code, such as a credit card number or other payment information, for example if we use a third-party payment processor;
     * information that may reveal your age, gender, race, or other protected classifications under California or US federal law, for example if we conduct user surveys or analysis using a third-party service provider;  
         
@@ -928,7 +936,7 @@ We provide additional information about our controllers and data protection offi
     
     **California Privacy Rights Act, Colorado Privacy Act, Connecticut Data Privacy Act, Virginia Consumer Data Protection Act, and Utah Consumer Privacy Act De-identified Data Disclosure**. AWS may use de-identified data in some instances. AWS either maintains such data without attempting to re-identify it or treats such data as personal data subject to applicable law.
     
-    **Colorado Privacy Act Profiling Disclosure**. We do not engage in profiling of consumers in furtherance of automated decisions that produce legal or similarly significant effects, as those terms are defined under the Colorado Privacy Act.   
+    **Colorado Privacy Act Profiling Disclosure**. We do not engage in profiling of consumers in furtherance of automated decisions that produce legal or similarly significant effects, as those terms are defined under the Colorado Privacy Act.    
     
 
 #### Examples of Information Collected
