@@ -326,7 +326,7 @@ If you want to exercise any of your rights listed above please visit our [Feedba
 
 If you have a concern about how we have processed your request or your personal data, you should contact us in the first instance via the contact details listed above.
 
-If you feel we have not resolved your concern, you have the right to make a complaint at any time to the Information [Commissioner’s Office (ICO)](http://www.ico.org.uk/), the UK supervisory authority for data protection issues. If you live in a country or territory located in the European Union (EU) or European Economic Area (EEA), you may also get in touch with your local [Data Protection Regulator](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080). If you live in a country outside the EU, you may have the right to lodge a complaint with your local privacy or data protection regulator.
+If you feel we have not resolved your concern, you have the right to make a complaint at any time to the [Information Commissioner’s Office (ICO)](http://www.ico.org.uk/), the UK supervisory authority for data protection issues. If you live in a country or territory located in the European Union (EU) or European Economic Area (EEA), you may also get in touch with your local [Data Protection Regulator](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080). If you live in a country outside the EU, you may have the right to lodge a complaint with your local privacy or data protection regulator.
 
 **EU Representative**
 
