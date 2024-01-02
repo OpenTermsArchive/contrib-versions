@@ -5,7 +5,7 @@ Other languages:
 
 * [Avañe'ẽ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/gn "Tekojepe'a hekorã (7% translated)")
 * [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/id "Kebijakan Privasi (52% translated)")
-* [Bahasa Melayu](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ms "Dasar privasi (48% translated)")
+* [Bahasa Melayu](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ms "Dasar privasi (47% translated)")
 * [Basa Banyumasan](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/map-bms "Policy:Privacy policy/map-bms (9% translated)")
 * [British English](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/en-gb "Privacy policy (62% translated)")
 * [Bân-lâm-gú](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nan "Ún-su tsìng-tshik (1% translated)")
