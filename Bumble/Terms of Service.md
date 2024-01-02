@@ -57,7 +57,7 @@ Bumble Group operates a zero-tolerance policy for this kind of content.
 
 ### Your Content
 
-You agree that Your Content must comply with our Guidelines at [Guidelines](https://bumble.com/en/guidelines) as updated from time to time. As Your Content is unique, you are responsible and liable for Your Content and will indemnify, defend, release, and hold us harmless from any claims made in connection with Your Content. Sorry that was a bit of a mouthful, but you are what you post!
+You agree that Your Content must comply with our [Guidelines](https://bumble.com/en/guidelines) as updated from time to time. As Your Content is unique, you are responsible and liable for Your Content and will indemnify, defend, release, and hold us harmless from any claims made in connection with Your Content. Sorry that was a bit of a mouthful, but you are what you post!
 
 You may not display any personal contact or banking information on your individual profile page whether in relation to you or any other person (for example, names, home addresses or postcodes, telephone numbers, email addresses, URLs, credit/debit card or other banking details). If you do choose to reveal any personal information about yourself to other users, whether via email or otherwise, it is at your own risk. We encourage you to use the same caution in disclosing details about yourself to third parties online as you would under any other circumstances.
 
