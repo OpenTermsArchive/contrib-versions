@@ -34,7 +34,7 @@ In this Policy, “**Wargaming**”, “**we**”, “**us**” or “**our**”
 
 (“**Sites**”).
 
-(iii) Our console games for play on Xbox One, PlayStation®4 computer entertainment system and other gaming consoles and our associated Console Games websites, including [https://console.worldoftanks.com](https://console.worldoftanks.com/) and [https://wowslegends.com](https://wowslegends.com/) (“**Console Games**”);
+(iii) Our console games for play on Xbox One, PlayStation®5 computer entertainment system and other gaming consoles and our associated Console Games websites, including [https://console.worldoftanks.com](https://console.worldoftanks.com/) and [https://wowslegends.com](https://wowslegends.com/) (“**Console Games**”);
 
 (iv) Our products and applications (including support applications and forums) related to the Games, including “World of Tanks Assistant”, “Wargaming Check” and “Wargaming Game Center”; and
 
@@ -175,7 +175,7 @@ In some cases, Wargaming receives your personal data as a data processor, which 
 
 **Co-Promotion Partners.** In order to provide you with in-game items and/or in-game currency for participation in various loyalty programs, we may also receive information from our partners, such as telecommunication companies, banks, cashback partners, travel agencies, and others;
 
-**Platforms.** We also receive and use your identifiers and other information on other platforms like PlayStation®4 computer entertainment system, Xbox One, App Store, Google Play Store, Steam, so that you can play our Games through these platforms;
+**Platforms.** We also receive and use your identifiers and other information on other platforms like PlayStation®5 computer entertainment system, Xbox One, App Store, Google Play Store, Steam, so that you can play our Games through these platforms;
 
 **Social networks.** We have registered certain Games-related group accounts and pages at Facebook, YouTube, Instagram, Discord, Twitter, Reddit, and other social networks to better communicate with our players in case they have questions about our Products, as well as prefer to learn about news about our Products through the social networks. Also, we get information relating to your account on social networking sites in order to allow you to integrate or link your social network account with your Account or our Products. For example, you may link your Account via your YouTube account credentials. In such case, we will collect from YouTube your channel ID to link your social network account with your Account. If you are a content creator, we may access your channel subscribers/members to find our players’ accounts to provide them with some in-game customization or goods. Any personal data collected from such sources will be stored in accordance with this policy.
 
