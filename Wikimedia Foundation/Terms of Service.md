@@ -106,7 +106,7 @@ Other languages:
 * [magyar](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hu "Felhasználási feltételek (48% translated)")
 * [norsk bokmål](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nb "Bruksvilkår (31% translated)")
 * [occitan](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/oc "Condicions d’utilizacion (10% translated)")
-* [polski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pl "Zasady:Warunki korzystania (53% translated)")
+* [polski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pl "Zasady:Warunki korzystania (54% translated)")
 * [português](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pt "Termos de utilização (44% translated)")
 * [português do Brasil](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pt-br "Termos e condições de uso (99% translated)")
 * [română](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ro "Politică:Termeni de Utilizare (99% translated)")
