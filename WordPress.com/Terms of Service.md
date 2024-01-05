@@ -282,7 +282,7 @@ If we’re obligated to pay or collect Taxes on your ecommerce activities or you
 
 **Third-Party Services.** You may decide to use third-party services, like [Stripe](https://stripe.com/) or [PayPal](https://www.paypal.com/) to collect payment or [EasyPost](https://www.easypost.com/) to manage shipping. Please note that WooPayments is powered by Stripe. If you use WooPayments or any third-party services, some of your — and your customers’ — data may be submitted directly to or passed to the respective third party, and the respective third party’s terms of service, privacy policy, and other policies may apply. For example, [Payments](https://wordpress.com/support/wordpress-editor/blocks/payments/) requires a Stripe account to manage payments, and when you use Stripe, you agree to [their terms and policies](https://stripe.com/legal). Please note that third-party services may also charge you fees to use or access their services, [as Stripe does for Payments](https://wordpress.com/support/wordpress-editor/blocks/payments/#related-fees).
 
-While we may license you relevant extensions, we’re not involved in any third-party services tied to those extensions. We may, nonetheless, facilitate transactions or communication  with the third-party service provider. For example, we may, on your behalf, receive notices or forms relating to your Stripe account.
+While we may license you relevant extensions, we’re not involved in any third-party services tied to those extensions. We may, nonetheless, facilitate transactions or communication with the third-party service provider. For example, we may, on your behalf, receive notices or forms relating to your Stripe account.
 
 Some of these third party services may be enabled by default, but you can disable them before launching your store if you don’t want to use them.
 
@@ -416,6 +416,6 @@ The Agreement (together with any other terms we provide that apply to any specif
 
 Automattic may assign its rights under the Agreement without condition. You may only assign your rights under the Agreement with our prior written consent.
 
-[Print friendly version](https://en.support.files.wordpress.com/2023/10/wordpress.com-terms-of-service-wordpresscom.pdf)
+[Print friendly version](https://en.support.files.wordpress.com/2024/01/tos-12-28-23.pdf)
 
 [**Change log**](https://wordpress.com/tos-change-log)
