@@ -1,8 +1,6 @@
 Criteo Advertising Guidelines
 =============================
 
-* * *
-
 **If you are looking for the Criteo Supply Partner Guidelines, please click [here](https://www.criteo.com/supply-partner-guidelines/).**
 
 * * *
