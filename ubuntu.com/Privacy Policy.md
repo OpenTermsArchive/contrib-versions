@@ -49,6 +49,7 @@ Specific details about personal data collection can be found in the relevant pri
 * [Canonical Credentials privacy notice ›](https://ubuntu.com/legal/data-privacy/credentials)
 * [Recruitment privacy notice ›](https://ubuntu.com/legal/data-privacy/recruitment)
 * [Ubuntu Community Discourse Privacy Notice ›](https://ubuntu.com/legal/data-privacy/community-discourse)
+* [Canonical Support Portal ›](https://ubuntu.com/legal/data-privacy/support-portal)
 
 Information we collect from you
 -------------------------------
@@ -86,7 +87,7 @@ Please note that Canonical may also collect system information during installati
 
 ### Error reports
 
-When you chose to send an error report, it includes a unique identifier for your computer. This identifier does not identify you, unless you (or someone acting on your behalf) discloses it separately. An error report may include personal information such as the state of programs that were running at the time. You can block future error reports from the privacy panel of System Settings or by deselecting the "Enable Google Analytics in MAAS UI to shape improvements in user experience" box where applicable.
+When you chose to send an error report, it includes a unique identifier for your computer. This identifier does not identify you, unless you (or someone acting on your behalf) discloses it separately. An error report may include personal information such as the state of programs that were running at the time. You can block future error reports from the privacy panel of System Settings.
 
 ### Ubuntu online accounts
 
@@ -155,7 +156,7 @@ These timescales are shown in Table 1.
 Cookies
 -------
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
+Our website and services use cookies to distinguish you from other users of our website and services. This helps us to provide you with a good experience when you browse our website or use our services and also allows us to improve our site and services.
 
 ### What is a cookie?
 
