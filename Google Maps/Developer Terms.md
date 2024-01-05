@@ -158,6 +158,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * City of Greater Geelong data exchange: [https://www.geelongdataexchange.com.au/explore/dataset/cadastre-land-and-property-boundaries-city-of-greater-geelong/information/?location=18,-38.148,144.37341&basemap=jawg.streets#:~:text=CreativeCommonsAttribution3.0Australia](https://www.geelongdataexchange.com.au/explore/dataset/cadastre-land-and-property-boundaries-city-of-greater-geelong/information/?location=18,-38.148,144.37341&basemap=jawg.streets#:~:text=CreativeCommonsAttribution3.0Australia)
             
+        * City Services, Australian Capital Territory: [https://hub.arcgis.com/datasets/ACTGOV::actgov-addresses/explore?location=-35.316600149.13040821.00](https://hub.arcgis.com/datasets/ACTGOV::actgov-addresses/explore?location=-35.316600149.13040821.00)
+            
+        * VIC - Victorian Government open data: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
     4. **Austria**
         * BEV - BA fuer Eich und Vermessungswesen (Geocodes) © Österreichisches Adressregister, 2009. You are not permitted, at any one time, to use Austrian Postal Data to provide, display or provide access to mass downloads or bulk feeds of numerical latitude and longitude coordinates.
             
@@ -248,6 +252,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * CETSP (BR): [http://www.cetsp.com.br/consultas/bicicleta/mapa-de-infraestrutura-cicloviaria.aspx](http://www.cetsp.com.br/consultas/bicicleta/mapa-de-infraestrutura-cicloviaria.aspx) Licensed under the Creative Commons Attribution 3.0 Unported (CC By 3.0)
             
         * IBGE Unidades da Federação do Brazil: [https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html?edicao=33087&t=acesso-ao-produto](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html?edicao=33087&t=acesso-ao-produto)
+            
+        * AmeriGEOSS Community Platform DataHub: [https://data.amerigeoss.org/nl/dataset/bairros-de-alagoas1/resource/5508cb39-3c6e-47f9-9a72-f7166ce2e94e?inner\_span=True](https://data.amerigeoss.org/nl/dataset/bairros-de-alagoas1/resource/5508cb39-3c6e-47f9-9a72-f7166ce2e94e?inner_span=True)
+            
+        * Data.Rio - Instituto Pereira Passos (IPP): [https://www.data.rio/datasets/PCRJ::limite-de-bairros/about](https://www.data.rio/datasets/PCRJ::limite-de-bairros/about)
             
     9. **Canada**
         1. Google’s maps of Canada include data provided from the following:
@@ -537,6 +545,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Digital and Population Information Agency (FI) - [https://www.avoindata.fi/data/en\_GB/dataset/postcodes/resource/3c277957-9b25-403d-b160-b61fdb47002f](https://www.avoindata.fi/data/en_GB/dataset/postcodes/resource/3c277957-9b25-403d-b160-b61fdb47002f)
             
         * Statistics Finland - [https://stat.fi/en/statistical-data](https://stat.fi/en/statistical-data)
+            
+        * Open Data Tampere - [https://data.tampere.fi/data/en\_GB/dataset/tampereen-katuosoitteet](https://data.tampere.fi/data/en_GB/dataset/tampereen-katuosoitteet)
+            
+        * City of Helsinki: [https://www.hel.fi/en/decision-making/information-on-helsinki/maps-and-geospatial-data/make-better-use-of-geospatial-data/open-geographic-data#open-data-licence](https://www.hel.fi/en/decision-making/information-on-helsinki/maps-and-geospatial-data/make-better-use-of-geospatial-data/open-geographic-data#open-data-licence)
             
     18. **France and Monaco**
         * © IGN France © 2009 IGN France BD Topo ® IGN, © 2007 IGN France BD Ortho ® IGN 50cm, © 2011 IGN France - Ortho HR® IGN 20cm (Paris region)
@@ -912,7 +924,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Hannover.de ([CC-BY-4.0 - Geoinformation - LH Hannover](https://creativecommons.org/licenses/by/4.0/deed.de))
             
-        * Stadt Mülheim an der Ruhr ([https://geo.muelheim-ruhr.de/open-data/nutzungsbedingungen/14043](https://geo.muelheim-ruhr.de/open-data/nutzungsbedingungen/14043))
+        * Stadt Mülheim a der Ruhr ([https://geo.muelheim-ruhr.de/open-data/nutzungsbedingungen/14043](https://geo.muelheim-ruhr.de/open-data/nutzungsbedingungen/14043))
             
         * VGN GmbH ([https://www.vgn.de/web-entwickler/open-data/](https://www.vgn.de/web-entwickler/open-data/))
             
@@ -993,6 +1005,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Metadaten Verbund (MetaVer): [https://metaver.de/trefferanzeige?cmd=doShowDocument&docuuid=0C6CD167-F1F3-43E7-B897-9C49D3CD6AB7#detail\_links](https://metaver.de/trefferanzeige?cmd=doShowDocument&docuuid=0C6CD167-F1F3-43E7-B897-9C49D3CD6AB7#detail_links)
             
         * Geoportal Stadt Freiburg im Breisgau: [https://geoportal.freiburg.de/freigis/#LayerInfoDataDownload](https://geoportal.freiburg.de/freigis/#LayerInfoDataDownload)
+            
+        * Jena Open Data: [https://opendata.jena.de/dataset/adressen-verortet](https://opendata.jena.de/dataset/adressen-verortet)
+            
+        * Open Data Kreis Gütersloh: [https://opendata.kreis-guetersloh.de/dataset/hausnummernkoordinaten](https://opendata.kreis-guetersloh.de/dataset/hausnummernkoordinaten)
             
     21. **Great Britain**
         * This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
@@ -1114,7 +1130,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * OPEN DATA JAWA TENGAH: [https://data.jatengprov.go.id/dataset/peta-jalan/resource/dfe03a7b-b986-481b-b0f1-5f7c92c01c73](https://data.jatengprov.go.id/dataset/peta-jalan/resource/dfe03a7b-b986-481b-b0f1-5f7c92c01c73)
             
     30. **Ireland**
-        * © An Post GeoDirectory Limited 2022
+        * © A Post GeoDirectory Limited 2022
             
         * This Service includes [mapping data](https://www.osi.ie/about/open-data/) in modified form licensed from Ordnance Survey Ireland under a [Creative Commons Attribution 4.0 licence](https://creativecommons.org/licenses/by/4.0/legalcode), which includes disclaimers of warranties. © Ordnance Survey Ireland.
             
@@ -1267,9 +1283,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
             
-        * 交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和5年 10 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+        * 交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和5年 11 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
             
-        * JRバスデータの内容は、株式会社交通新聞社作成のデータ令和5年 10 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+        * JRバスデータの内容は、株式会社交通新聞社作成のデータ令和5年 11 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
             
         * ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
             
@@ -1404,6 +1420,16 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Christ Church City Council Spatial Open Data Portal : [https://opendata-christchurchcity.hub.arcgis.com/datasets/ChristchurchCity::street-address-full-opendata/explore](https://opendata-christchurchcity.hub.arcgis.com/datasets/ChristchurchCity::street-address-full-opendata/explore)
             
         * Palmerston North City Open Data: [https://data-pncc.opendata.arcgis.com/datasets/PNCC::pncc-address/explore](https://data-pncc.opendata.arcgis.com/datasets/PNCC::pncc-address/explore)
+            
+        * Waikato Data Portal: [https://data-waikatolass.opendata.arcgis.com/datasets/hcc::hamilton-land-parcel/about](https://data-waikatolass.opendata.arcgis.com/datasets/hcc::hamilton-land-parcel/about)
+            
+        * Napier City Council: [https://data.napier.govt.nz/#NCC:NCS\_PROPADDRESS](https://data.napier.govt.nz/#NCC:NCS_PROPADDRESS)
+            
+        * Gisborne District Council: [https://geoportal-gizzy.opendata.arcgis.com/datasets/gizzy::rating-and-valuation-parcels/explore?location=-38.254974177.8017039.55](https://geoportal-gizzy.opendata.arcgis.com/datasets/gizzy::rating-and-valuation-parcels/explore?location=-38.254974177.8017039.55)
+            
+        * Upper Hutt City Council:[https://hub.arcgis.com/datasets/uhcc::land-parcels-in-upper-hutt-september-2020-1/explore](https://hub.arcgis.com/datasets/uhcc::land-parcels-in-upper-hutt-september-2020-1/explore)
+            
+        * Wellington City Council Open Data: [https://data-wcc.opendata.arcgis.com/datasets/WCC::parcel-boundaries/about](https://data-wcc.opendata.arcgis.com/datasets/WCC::parcel-boundaries/about)
             
     45. **Northern Ireland**
         * © Ordnance Survey of Northern Ireland
@@ -1644,6 +1670,14 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Geoportal del Ayuntamiento de Madrid: [https://www-2.munimadrid.es/IDEAM\_WBGEOPORTAL/dataset.iam?id=9be44652-6666-11e9-a99c-ecb1d752b636](https://www-2.munimadrid.es/IDEAM_WBGEOPORTAL/dataset.iam?id=9be44652-6666-11e9-a99c-ecb1d752b636)
             
         * Open Data Islas Baleares, Spain: [https://catalegdades.caib.cat/es/Demografia/Portal/ris5-jhj2](https://catalegdades.caib.cat/es/Demografia/Portal/ris5-jhj2)
+            
+        * Open Data Hospitalet de Llobregat ES: [https://opendata.l-h.cat/Urbanisme-i-infraestructures/Adreces-postals/gdc2-dy8i/about\_data](https://opendata.l-h.cat/Urbanisme-i-infraestructures/Adreces-postals/gdc2-dy8i/about_data)
+            
+        * Bilbao Open Data: [https://www.bilbao.eus/opendata/es/catalogo/dato-portales](https://www.bilbao.eus/opendata/es/catalogo/dato-portales)
+            
+        * Callejero de Andalucia ES, Source: CDAU (Local Entities-Junta de Andalucía-IGN): [https://www.callejerodeandalucia.es/portal/aviso-legal](https://www.callejerodeandalucia.es/portal/aviso-legal)
+            
+        * Portal de Datos Abiertos del Ayuntamiento de Vigo ES: [https://datos-ckan.vigo.org/dataset/callejero-vigo](https://datos-ckan.vigo.org/dataset/callejero-vigo)
             
     57. **Sweden**
         * © 2009 Cartesia GIS AB
@@ -2188,6 +2222,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         214. Santa Clara Valley Transportation Authority (US): [https://www.vta.org/](https://www.vta.org/)
             
         215. Catalog Data Gov (US): [https://www.usa.gov/copyrighted-government-works](https://www.usa.gov/copyrighted-government-works)
+            
+        216. San Jose CA Open Data Portal: [https://data.sanjoseca.gov/dataset/neighborhoods](https://data.sanjoseca.gov/dataset/neighborhoods)
             
     66. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
