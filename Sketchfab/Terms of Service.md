@@ -18,15 +18,11 @@ For information regarding how we use and protect your personal information, plea
 
 **1.4 Minors.** THE SERVICES ARE NOT INTENDED FOR CHILDREN UNDER 18, and persons under the age of 18 are prohibited from registering with or using the Services. You represent and warrant that you are more than 18 years of age. This provision is void where prohibited by law and the right to access the Services is revoked in such jurisdictions.
 
-  
-
 ### 2\. Subscriptions and Purchases
 
 **2.1 Pricing.** The pricing of our various Paid Services options is available at [https://sketchfab.com/plans](https://sketchfab.com/plans). Payment is due at the beginning of each subscription period, payable securely via PayPal (www.paypal.com). Sketchfab shall email payment invoices to Users upon request. In the event of a pricing change to your Paid Services plan, we will inform you within 2 (two) months before the new prices take effect. If you do not wish to continue your current Paid Services plan with the new prices, you may cancel your Paid Services plan.
 
 **2.2. Representations.** YOU REPRESENT AND WARRANT THAT YOU HAVE THE LEGAL RIGHT TO USE THE PAYPAL ACCOUNT, AND ANY BANK ACCOUNTS OR CREDIT CARD(S) ACCESSED THROUGH THE PAYPAL ACCOUNT, THAT YOU USE TO PAY FOR THE SERVICES. You agree to pay all charges incurred by you or any users of your account at the prices in effect when such charges are incurred. You will also be responsible for paying any applicable taxes relating to your purchases. Verification of information applicable to a purchase may be required prior to our acceptance of any order.
-
-  
 
 ### 3\. Ownership of Sketchfab Content
 
@@ -37,8 +33,6 @@ For information regarding how we use and protect your personal information, plea
 **3.3. Service and Content License.** We grant you a limited, revocable, non-exclusive, non-sublicensable and non-transferable license to use the Services as they are provided to you by us, only as set forth in this Agreement. Except as expressly permitted in this Agreement, you may not reproduce, distribute, adapt, modify, translate, create derivative works from, publish or otherwise use any portion of the Services or Sketchfab Content for any purpose without express prior written permission from us or the applicable rights holder. Any commercial exploitation of the Services or Sketchfab Content without express prior written permission from us or the applicable rights holder is strictly prohibited.
 
 **3.4 Software.** All software and software-as-a-service (SAAS) used in connection with the Services (“Software”) is proprietary to us or to third parties, and except as may be required to exercise the foregoing license grant, any use, redistribution, sale, decompilation, reverse engineering, disassembly, translation or reduction of such software to human-readable form is prohibited. You agree that we may update the Software without notice, at any time and in our sole discretion, and that this Agreement will apply to any updated versions.
-
-  
 
 ### 4\. User Content
 
@@ -52,13 +46,13 @@ During the operation of the Services, Users may upload certain User Content incl
 
 **(a) License to Provide and Improve the Services.** By using the Services, you grant a worldwide, non-exclusive, royalty-free, fully paid-up, perpetual, irrevocable, sub-licensable (through multiple tiers) right and license to Sketchfab to use, reproduce, publicly display, adapt, modify, reformat, and distribute User Content as necessary to , improve and promote the Services; provided that to the extent User Content includes personal data, we shall not use such personal data for any purpose other than providing the Services and as further set forth in our Privacy Policy at [https://sketchfab.com/privacy](https://sketchfab.com/privacy). You further grant Sketchfab the right to use your name and trademarks, if any, in connection with our use of your publicly shared User Content for the purposes set forth in this Section 4.2.1.
 
-**(b) License for Safety and Discovery Tools.** We use automation to moderate content and improve discovery. This helps us provide a safe and trustworthy service, enforce our rules and make it as easy as possible for you to discover the quality content that you are looking for. Sketchfab and our affiliate, Epic Games, Inc. (“Epic”), use User Content to improve (1) our internal safety tools (“Safety Tools”) to ensure all of our products and services comply with Epic’s[Content Guidelines](https://www.epicgames.com/site/en-US/content-guidelines) and [Epic Community Rules](https://www.epicgames.com/site/community-rules) and (2) our search and recommendation tools to improve users’ ability to discover content across all of our products and services ((1) and (2), collectively, “Safety and Discovery Tools”).
+**(b) License for Safety and Discovery Tools.** We use automation to moderate content and improve discovery. This helps us provide a safe and trustworthy service, enforce our rules and make it as easy as possible for you to discover the quality content that you are looking for. Sketchfab and our affiliate, Epic Games, Inc. (“Epic”), use User Content to improve (1) our internal safety tools (“Safety Tools”) to ensure all of our products and services comply with Epic’s [Content Guidelines](https://www.epicgames.com/site/en-US/content-guidelines) and [Epic Community Rules](https://www.epicgames.com/site/community-rules) and (2) our search and recommendation tools to improve users’ ability to discover content across all of our products and services ((1) and (2), collectively, “Safety and Discovery Tools”).
 
 You additionally grant a royalty-free, perpetual, world-wide, fully sub-licensable (through multiple tiers) license to Epic limited to using, copying, editing, modifying, inputting, and integrating User Content into and in connection with the development and testing of Epic’s Safety and Discovery Tools.
 
 For more information about the technologies used in Epic’s Safety and Discovery Tools, please see Section 14(c) below.
 
-**4.2.2 Use by others for free.** Users may make User Content available to other users for download for free via either the[License Agreement](https://sketchfab.com/licenses)or one of several Creative Commons licenses. For more information on Creative Commons, see[https://creativecommons.org/licenses/](https://creativecommons.org/licenses/). The User is solely responsible for choosing the appropriate license, if any, under which the Content is available for download. By downloading User Content made available by other Users, you agree to adhere to the terms of the license that applies at the time of download.
+**4.2.2 Use by others for free.** Users may make User Content available to other users for download for free via either the [License Agreement](https://sketchfab.com/licenses) or one of several Creative Commons licenses. For more information on Creative Commons, see [https://creativecommons.org/licenses](https://creativecommons.org/licenses). The User is solely responsible for choosing the appropriate license, if any, under which the Content is available for download. By downloading User Content made available by other Users, you agree to adhere to the terms of the license that applies at the time of download.
 
 **4.2.3 Use by others for a fee.** Subject always to these Terms of Use, you may also elect to make your User Content available to other users for download for a fee. In such event, you will grant other users a license to use your User Content for the purposes and under the conditions detailed in the [License Agreement](https://sketchfab.com/licenses). For the different types of licenses and details thereof, please see the [License Agreement](https://sketchfab.com/licenses). Each such license is subject to payment of a license fee by the other users (whether one-time or subscription based), and Sketchfab is entitled to a commission thereon, at the then-current rates detailed [here](https://help.sketchfab.com/hc/en-us/articles/115005848123-Getting-paid-with-Sketchfab?utm_source=website&utm_campaign=terms_page). You acknowledge and agree that Sketchfab and its parents, affiliates, subsidiaries, co-venturers and licensed affiliates are intended third-party beneficiaries of the License Agreement.
 
@@ -71,8 +65,6 @@ Users accessing and downloading User Content through the download API operated b
 **4.4 User Feedback.** We appreciate your feedback and suggestions about our Services, but you agree that any feedback or suggestions submitted to us about the Services are entirely voluntary and that we will be free to use any such feedback or suggestions as we see fit and without any obligation to you.
 
 **4.5 Right to Monitor, Moderate or Remove.** You agree that you bear all risks associated with your User Content and the licensing thereof. You are solely responsible for safeguarding your User Content, and Sketchfab has no duty to store copies of User Content for future availability to you or any user except as otherwise provided under this Agreement. Sketchfab does not knowingly permit the infringement of intellectual property rights on the Services, and will remove User Content from the Services if properly notified that such User Content infringes on another’s intellectual property rights. We reserve the right to remove User Content from the Services and terminate any licenses thereto, in whole or in part, without prior notice, for any reason or for no reason at all. Without limiting our right to terminate a User pursuant to Section 9 of this Agreement, we reserve the right to terminate the account of any User of the Services who has been notified of infringing activity more than twice and/or has had User Content removed from the Service more than twice. We also reserve the right to decide whether User Content is appropriate and complies with this Agreement for violations other than violations of intellectual property law. This shall extend to the right of Sketchfab to edit, modify, moderate, re-format, change or otherwise remove all or part of the descriptions, comments and/or annotations that you and/or third parties add and/or make in relation to your User Content, in any manner that We may determine, whenever We deem it appropriate.
-
-  
 
 ### 5\. User Restrictions and Obligations
 
@@ -99,8 +91,6 @@ Generally, we do not limit or impose additional fees for traffic consumption on 
 
 You agree to inform Sketchfab promptly about any legal complaint, claim or action related to the User Content you have uploaded using the Services.
 
-  
-
 ### 6\. Warranty Disclaimers, Limitations of Liability, Indemnity
 
 DISCLAIMER OF WARRANTIES. SKETCHFAB MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND REGARDING THE SERVICES OR THE SKETCHFAB CONTENT. YOU EXPRESSLY AGREE THAT YOUR USE OF THE SERVICES IS AT YOUR SOLE RISK. THE SERVICES ARE PROVIDED “AS IS” AND “AS AVAILABLE” FOR YOUR USE, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, UNLESS SUCH WARRANTIES ARE LEGALLY INCAPABLE OF EXCLUSION. SKETCHFAB, INC. EXPRESSLY DISCLAIMS ANY AND ALL REPRESENTATIONS AND WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING: (i) ALL WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NONINFRINGEMENT, AND ANY AND ALL WARRANTIES ARISING FROM COURSE OF DEALING AND USAGE OF TRADE; (ii) THAT THE SERVICES, WEBSITE AND THE SKETCHFAB CONTENT WILL MEET YOUR REQUIREMENTS, WILL ALWAYS BE AVAILABLE, ACCESSIBLE, UNINTERRUPTED, TIMELY, SECURE OR OPERATE WITHOUT ERROR; (iii) AS TO THE RESULTS THAT MAY BE OBTAINED FROM THE OPERATION, USE OR OTHER EXPLOITATION OF THE SERVICES, WEBSITE OR THE SKETCHFAB CONTENT; AND (iv) AS TO THE ACCURACY OR RELIABILITY OF ANY INFORMATION OBTAINED FROM THE SERVICES, WEBSITE OR THE SKETCHFAB CONTENT. No advice or information obtained by you from Sketchfab, Inc., or otherwise through the Services, will create any warranty not expressly stated herein.
@@ -111,13 +101,9 @@ CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSI
 
 Indemnity. You agree to indemnify and hold Sketchfab and its affiliates, subsidiaries, owners, directors, officers, employees and agents harmless from and against any and all claims, demands, suits, proceedings, liabilities, judgments, losses, damages, expenses and costs (including without limitation reasonable attorneys’ fees) assessed or incurred by Sketchfab directly or indirectly, with respect to or arising out of: (i) your failure to comply with this Agreement; (ii) your breach of your obligations under this Agreement; (iii) your use of the rights granted hereunder, including without limitation any claims made by any third parties; (iv) your violation of any third party right or applicable law, including without limitation any intellectual property, publicity, or privacy, right or law; and/or (v) any claim that any of your User Content caused damage to a third party.
 
-  
-
 ### 7\. International Data Processing
 
 Sketchfab is a company with operations around the world. To help provide you with the Services, we and our service providers may process your data on servers and equipment located in the United States or any other countries where we or they operate. By using the Services, you agree to the transfer of your data to locations that may be outside your country of residence, including the United States. You acknowledge and agree that, as a condition of providing Sketchfab with your data, you can legally transfer it to other countries like the United States for the purposes contemplated under this Agreement. If data includes personal data of data subjects in the European Union, you may be required to enter into a data processing agreement with Sketchfab that includes Controller-to-Processor Standard Contractual Clauses. Other jurisdictions may have their own data processing requirements for some parties and types of data. To learn more about data processing agreements terms that may be available to support your use of the Services, please contact the [Sketchfab support team](https://help.sketchfab.com/hc/en-us/requests/new?utm_source=website&utm_campaign=terms_page "Sketchfab support contact form").
-
-  
 
 ### 8\. Intellectual Property Claims
 
@@ -154,8 +140,6 @@ If you are a User and material that you have uploaded to the Services has been r
 
 If you have a claim related to trademarks, patents, intellectual property, or any other matter other than copyright, please [contact us](https://help.sketchfab.com/hc/en-us/articles/203020988-Report-Violation?utm_source=website&utm_campaign=terms_page#dmca-skfb). Please provide detailed information regarding the nature of your complaint, including but not limited to your name and contact information, the subject matter of the complaint, and any additional information that we may require in order to review the matter and take action (or no action) as may be appropriate. Please be advised that we may share the details of your complaint with the User that owns the User Content that is the subject of your complaint, or with appropriate authorities (including law enforcement authorities) if Sketchfab in its sole discretion believes that such action is necessary, or if we are obligated to do so by law.
 
-  
-
 ### 9\. Modifying and terminating the Services
 
 **9.1 At any time.** Sketchfab reserves the right to modify or stop offering all or part of the Services at any time, at its own discretion, in which case we will provide you with one (1) month’s notice.
@@ -164,13 +148,9 @@ If you have a claim related to trademarks, patents, intellectual property, or an
 
 **9.3 Survival.** After any termination of this Agreement and/or after you otherwise stop using the Services, the following will survive and remain enforceable and in full force and effect: (i) all outstanding obligations between you and us; (ii) all remedies for breach of this Agreement; and (iii) all terms and conditions of this Agreement to the extent necessary for the enforcement of the parties rights and obligations, including, without limitation, the following sections of this Agreement: 3.2; 4.1; 4.3; 4.5; 5; 6; 7; 8 ; 9; 10; 11; and 13.
 
-  
-
 ### 10\. Other Websites and Services
 
 The Services may contain links and features that enable you to access other third-party websites or services (“Third-Party Services”) that are not owned or controlled by us. Such Third-Party Services are governed by their own terms of use. We do not control Third-Party Services, and we are not responsible for the contents of any linked site. A link does not imply endorsement of, sponsorship of, or affiliation with the Third-Party Services by Sketchfab. Please exercise caution before proceeding to any Third-Party Services or entering into any transaction with third parties linked to from the Services. Sketchfab may in no circumstances be held liable for the technical availability of Third-Party Services, the content, advertising, products and/or services available on Third-Party Services, or any transactions that take place between a User and Third-Party Services whom the User has been directed via the Services. Sketchfab may in no circumstances be a party to any disputes whatsoever between you and third parties concerning Third-Party Services.
-
-  
 
 ### 11\. Applicable law and jurisdiction; Arbitration
 
@@ -180,13 +160,9 @@ The Services may contain links and features that enable you to access other thir
 
 **11.3 Class Action Wavier.** To the maximum extent permitted by applicable law, you agree to only bring disputes in an individual capacity and shall not: seek to bring, join, or participate in any class or representative action, collective or class-wide arbitration, or any other action where another individual or entity acts in a representative capacity (e.g., private attorney general actions); or consolidate or combine individual proceedings or permit an arbitrator to do so without the express consent of Sketchfab and all parties to all other actions or arbitrations.
 
-  
-
 ### 12\. Amendment
 
 Sketchfab reserves the right to amend the Agreement at any time by posting a notice on this page, sending an email notification to registered Users, or otherwise notifying Users via the Services. Registered Users will receive notification of forthcoming change one (1) month before the Agreement as amended is effective. Any User using the Services after an amendment has become effective accepts the Agreement as amended. A User who does not accept the amended Agreement shall, before it becomes effective, cease use of the Services.
-
-  
 
 ### 13\. Miscellaneous
 
@@ -195,8 +171,6 @@ This Agreement represents the entire agreement between Sketchfab and the User wi
 You consent to receive communications from us electronically, and you agree that we may communicate with you by email or by posting notices on the Services. You agree that all agreements, notices, disclosures and other communications that we provide to you, or that you provide to us, electronically satisfy any legal requirement that such communications be in writing. We are not responsible for any automatic filtering that may be applied to any email notices that we send to the email address you have provided.
 
 The Services are operated by Sketchfab, Inc., a Delaware corporation. General inquiries may be directed to [our support team](https://help.sketchfab.com/hc/en-us/requests/new?utm_source=website&utm_campaign=terms_page).
-
-  
 
 ### 14\. Artificial Intelligence
 
@@ -219,7 +193,5 @@ Under this Agreement, User Content is considered to be created using Generative 
 Epic uses artificial intelligence and machine learning technologies in our Safety and Discovery Tools to make sure our Services and Epic ’s other products and services comply with Epic’s [Content Guidelines](https://www.epicgames.com/site/en-US/content-guidelines) and [Community Rules](https://www.epicgames.com/site/community-rules) and to improve our search and recommendations. We use User Content to improve how the Safety and Discovery Tools operate. These tools perform a wide range of safety workloads, like identifying dangerous and illegal content, fraud, spam, unauthorized automation, fake accounts, and content, users or interactions which might break our rules. In addition to safety, we may further classify your content to provide services like search, recommendations and content discovery.
 
 As noted above in Section 14(a), Epic does not use User Content and does not license User Content to third parties for use in datasets for, training of, or as inputs to Generative AI Programs.
-
-  
 
 The effective date of these Terms of Use is **December 22, 2023**.
