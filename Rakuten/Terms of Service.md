@@ -1,7 +1,7 @@
 Conditions Générales d'Utilisation
 ==================================
 
-_**Version mise à jour le 04 juillet 2023**_
+_**Version mise à jour le 20 octobre 2023**_
 
 _Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 20.05.2021 au 23.09.2021, cliquez [ici](https://fr.shopping.rakuten.com/visuels/0_merch/contest/reglement/2_0_CGU_en%20vigueur_entre_le_20210520_et_20210924.pdf)._
 
