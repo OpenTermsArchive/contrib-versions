@@ -6,7 +6,7 @@ Thryv, Inc. and its affiliates and subsidiaries (individually and collectively k
 Watch how Thryv helps businesses like yours  
 _get the job, manage the job, and get credit._
 
-Revised: July 1, 2023
+Revised: January 8, 2024
 
 Your information privacy is important to us.
 
@@ -66,13 +66,13 @@ We may collect the following categories and types of “**Personal Information**
 
 * **Contact information:** your first and last name, alias or username, mailing address, email address, and phone number;
 * **Other identifying information:** internet protocol (IP) address, unique personal identifiers, online identifiers, social media user names, passwords and other security information for authentication and access, physical characteristics or description;
-* **Sensitive Personal Information:** government issued identification numbers (e.g., social security, insurance policy, driver’s license, state identification, passport, or similar identifiers); precise geolocation when you use the IYP mobile application to find businesses near you; medical and health information or health insurance information in limited circumstances and with your express consent when a business with whom you intentionally interact uses the Thryv Services as a service to store or process such information; message or email content when you choose to link certain third-party messaging or email services (e.g., WhatsApp or Gmail) to your User Account/Profile or when you interact with these services on This Website or in connection with the Services;
+* **Sensitive Personal Information:** government issued identification numbers (e.g., social security, insurance policy, driver’s license, state identification, passport, or similar identifiers); precise geolocation when you use the IYP mobile application to find businesses near you; medical and health information or health insurance information in limited circumstances and with your express consent when a business with whom you intentionally interact uses the Thryv Services as a service to store or process such information; message or email content (and associated metadata) when you choose to link certain third-party messaging or email services (e.g., WhatsApp or Gmail) to your User Account/Profile or when you interact with these services on This Website or in connection with the Services;
 * **Financial Information:** credit card number, debit card number, bank account information and other financial information;
 * **Demographic information:** gender, age, employment information and salary information;
 * **Geolocation data;**
 * **Internet or other electronic activity:** your browsing, search and click history, including information about how you navigate within This Website and the Services and which elements of This Website and the Services you use the most, and ratings and reviews or other content you post on This Website or to the Services;
 * **Commercial information:** products or services purchased or viewed on This Website or through the Services;
-* **Audio and visual information:** your videos and photos, such as audiovisual content you upload to your user profile and other audio or video recordings initiated by us; and
+* **Audio and visual information:** your videos and photos (and associated metadata), such as audiovisual content you upload to your user profile and other audio or video recordings initiated by us; and
 * **Inferences drawn from the categories described above** in order to create a profile about you to reflect your preferences, characteristics, behavior and attitude.
 
 We do not use or disclose sensitive personal information, as defined by California law, for inferring characteristics or for purposes other than those permitted by law. We keep these categories of personal information as long as necessary or relevant for the purposes for which it was collected. We also keep information as required by law.
@@ -126,7 +126,7 @@ Where required by law, we seek your consent to receive marketing materials from 
 
 **Maintenance and Improvement of This Website and the Services:** We use your contact information, commercial information, audiovisual information, and internet activity and browsing history to:
 
-* Provide you with This Website and the Services, including to send you alerts about your account;
+* Provide you with This Website and the Services, including to send you alerts about your account and provide the live chat;
 * Handle your customer services requests;
 * Help us diagnose technical and service proble
 
@@ -165,7 +165,7 @@ We may share Personal Information with businesses controlling, controlled by, or
 
 _Third Parties_
 
-We may share Personal Information with a third party if you specifically authorize it, or it is required in order to complete a transaction, service or activity that you initiated or requested. Note: In such case, the collection and processing of your Personal Information may be subject to the privacy policy of such third party.
+We may share Personal Information with a third party if you specifically authorize it, or it is required in order to complete a transaction, provide a product feature, service or activity that you initiated or requested. Note: In such case, the collection and processing of your Personal Information may be subject to the privacy policy of such third party.
 
 _Cross Contextual Behavioral Advertising_
 
@@ -193,9 +193,17 @@ If you are a resident of New Zealand, we may use the Nielsen//NetRatings countin
 
 Options you make are browser and devise specific.
 
+Session Replay Technology
+
+We use session replay technology on our Website. Session replay technology, also referred to as session playback or user experience (UX) replay, collects information regarding, records, and tracks your interactions with a website or application. It then transforms those logged user events (such as mouse movements, clicks, page visits, scrolling, tapping, etc.) into a reproduction of what you actually did on the website or application. We use session replays for quality control, customer service, fraud prevention and security, and marketing purposes. Our session replay technology is owned and operated by a third-party who acts as our service provider. The information collected by this technology may be collected by, transferred to, and stored by our third-party service provider.
+
+ChatBot Technology
+
+We use chatbots to help provide customer service and support, including through the use of a virtual assistant. A chatbot is a software application that mimics human conversations in text or voice interactions on our website or through our customer service hotline. It enables the communication between a human and a machine, which can take the form of messages or voice commands. The chatbot is designed to work without the assistance of a human operator. It responds to questions posed to it in natural language as if it were a real person using a combination of pre-programmed scripts and machine learning algorithms. When asked a question, the chatbot will answer using the knowledge database that is currently available to it. If the conversation introduces a concept it isn’t programmed to understand; it will pass it to a human operator. If you use our chatbot service, we will collect any Personal Information you provide to us. We will also create and store a transcript of your chat interaction with us which will be shared with and stored by our third-party service provider. We use these transcripts and the information you provide for quality control, customer service, fraud prevention and security.
+
 Advertising and Online Tracking
 
-We may place advertisements and allow third-party companies to serve ads and collect certain information when you visit this Website or use the Services. These companies may use certain information (e.g. click stream information, web browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this Website and other websites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie to collect this information. Our systems do not recognize browser “Do Not Track” signals, but several of our Service Providers who utilize these cookies on this Website enable you to opt out of targeted advertising practices. To learn more about these advertising practices or to opt out of this type of advertising, you can visit [www.networkadvertising.org](https://www.networkadvertising.org/) or [www.aboutads.info/choices/](http://www.aboutads.info/choices/) (for US residents), or [https://youradchoices.ca](https://youradchoices.ca/) (for Canadian residents) or [http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options](http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options).
+We may place advertisements and allow third-party companies to serve ads and collect certain information when you visit this Website or use the Services. These companies may use certain information (e.g. click stream information, web browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this Website and other websites in order to provide advertisements about goods and services likely to be of interest to you (i.e., for cross-contextual behavioral advertising). These companies may also collect information about your activities on our Website on your current device and combine it with information about your activities on other websites, mobile apps, and devices. These companies typically collect such information using server logs, cookies, web beacons, tags, pixels, mobile advertising IDs (such as Facebook cookies or Google’s Advertising ID), cross-device linking, and similar technologies. They may match your browsers or devices if you log into the same online service on multiple devices or if your devices share similar attributes that support an inference that they are used by the same person or household. This means that information about your activity on websites or apps on your current browser or device may be combined and used with information collected from your other browsers or devices. These third party partners use this information for our and their own advertising, analytics, attribution, and reporting purposes. Our systems do not recognize browser “Do Not Track” signals, but several of our Service Providers who utilize these cookies on this Website enable you to opt out of targeted advertising practices. To learn more about these advertising practices or to opt out of this type of advertising, you can visit [www.networkadvertising.org](https://www.networkadvertising.org/) or [www.aboutads.info/choices/](http://www.aboutads.info/choices/) (for US residents), or [https://youradchoices.ca](https://youradchoices.ca/) (for Canadian residents) or [http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options](http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options).
 
 Some browsers or browser extensions also allow you to tell websites not to share your information for cross-contextual behavioral advertising through the “global privacy control” signal. We will respond to this signal in a frictionless manner. If you configure this setting on your browser, certain features on our site may not work and you will receive less targeted advertising.
 
@@ -227,9 +235,15 @@ We maintain physical, electronic, and procedural safeguards to help protect the 
 
 However, no data transmission over the Internet or other network can be guaranteed to be 100% secure, and no security measures can provide absolute protection. As a result, while we strive to protect information transmitted on or through this Website or the Services, we cannot and do not guarantee the security of any information you transmit on or through this Website or the Services or that you otherwise provide to us, and you do so at your own risk.
 
-Links
+Links; Third Party Platforms
 
 This Website and the Services may contain links to other websites or allow others to send you such links. A link to a third party’s website does not mean that we endorse it or that we are affiliated with it. We do not exercise control over third-party websites and are not responsible for their practices. You access such third-party websites or content at your own risk. You should always read the privacy policy of a third-party website before providing any information to the website.
+
+Additionally, the Website or Services may contain or link (via API or otherwise) content provided by third party sites, providers or social media platforms such as Facebook and YouTube (collectively, “**Third Party Platforms**”). When you interact with such Third Party Platform(s), including by interacting with third party content made available on the Website or through the Services, the associated collection and processing of your Personal Information will be subject to the privacy policy of such Third Party Platform(s). You should review the privacy policies of these Third Party Platforms before interacting with them.
+
+For example, our Yellow Pages website located at [https://www.yellowpages.com.au/](https://www.yellowpages.com.au/) (“**Yellow**”), uses YouTube™ API Services. Your interaction with any video identified as being hosted on the YouTube video community is subject to the Google Privacy Policy located at [http://www.google.com/policies/privacy](http://www.google.com/policies/privacy).
+
+Similarly, our SMS feature made available to customers in the US and Canada uses Twilio to provide the SMS services. If you choose to enable this product feature, your interaction with the SMS service is subject to the Twilio privacy policy located at [https://www.twilio.com/en-us/legal/privacy](https://www.twilio.com/en-us/legal/privacy).
 
 Children’s Privacy
 
@@ -237,13 +251,13 @@ This Website and the Services are intended for and directed to a general adult a
 
 Processing Location
 
-Please be aware that your Personal Information and communications may be transferred to and maintained on servers or databases located outside your state, province, or country. Please be advised that we store all information in the United States or Australia. Additionally, we may process information in multiple locations, including without limitation, the United States, Australia, Canada, Dominican Republic, the European Economic Area (“EEA”), India, Israel, Italy, Japan, Mexico, New Zealand, the Philippines, Singapore, and the United Kingdom.
+Please be aware that your Personal Information and communications may be transferred to and maintained on servers or databases located outside your state, province, or country. Please be advised that we store all information in the United States or Australia. Additionally, we may process information in multiple locations, including without limitation, the United States, Australia, Canada, Dominican Republic, the European Economic Area (“**EEA**”), India, Israel, Italy, Japan, Mexico, New Zealand, the Philippines, Singapore, and the United Kingdom.
 
 Although we will make all reasonable efforts to ensure your personal information is protected in accordance with our obligations, the laws in these countries may not be as protective of your privacy as those in your location. Personal information processed and stored in another country may be subject to disclosure or access requests by the governments, courts or law enforcement or regulatory agencies in that country according to its laws. By using This Website or Services, you are agreeing to the collection, use, transfer, and disclosure of your Personal Information and communications will be governed by the applicable laws in the United States and/or the applicable country of processing. If you have any questions regarding international data transfers, you may contact us using the contact information we provide below.
 
 Notice to Residents of the United States
 
-If you are a resident of California, or jurisdictions with similar laws (e.g., Colorado, Connecticut, Utah, Virginia), you may have certain additional privacy rights under the applicable privacy laws in your state (“State Privacy Laws”). This section generally describes those rights and how you can exercise them.
+If you are a resident of California, or jurisdictions with similar laws (e.g., Colorado, Connecticut, Utah, Virginia), you may have certain additional privacy rights under the applicable privacy laws in your state (“**State Privacy Laws**”). This section generally describes those rights and how you can exercise them.
 
 These rights are not absolute. In some situations we may not be able to process your request. This may include if a legal exception applies. We’ll let you know when or if a right doesn’t apply to you. You will not be discriminated against for exercising a privacy right. Those rights are:
 
