@@ -25,9 +25,6 @@ Recherche
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
         * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/vaccin-covid-19/)
-            
-            * [Covid-19 : La stratégie vaccinale](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/vaccin-covid-19/covid-19-la-strategie-vaccinale/)
-            
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/)
     * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
             
@@ -736,9 +733,6 @@ Recherche
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
         * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/vaccin-covid-19/)
-            
-            * [Covid-19 : La stratégie vaccinale](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/vaccin-covid-19/covid-19-la-strategie-vaccinale/)
-            
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/)
     * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
             
@@ -1421,9 +1415,6 @@ Recherche
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
         * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/vaccin-covid-19/)
-            
-            * [Covid-19 : La stratégie vaccinale](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/vaccin-covid-19/covid-19-la-strategie-vaccinale/)
-            
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/)
     * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
             
@@ -2037,9 +2028,6 @@ Recherche
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
         * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/vaccin-covid-19/)
-            
-            * [Covid-19 : La stratégie vaccinale](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/vaccin-covid-19/covid-19-la-strategie-vaccinale/)
-            
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/)
     * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
             
@@ -2397,9 +2385,6 @@ Recherche
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
         * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/vaccin-covid-19/)
-            
-            * [Covid-19 : La stratégie vaccinale](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/vaccin-covid-19/covid-19-la-strategie-vaccinale/)
-            
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/)
     * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
             
@@ -2757,9 +2742,6 @@ Recherche
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
         * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/vaccin-covid-19/)
-            
-            * [Covid-19 : La stratégie vaccinale](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/vaccin-covid-19/covid-19-la-strategie-vaccinale/)
-            
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/)
     * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
             
@@ -3117,9 +3099,6 @@ Recherche
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
         * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/vaccin-covid-19/)
-            
-            * [Covid-19 : La stratégie vaccinale](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/vaccin-covid-19/covid-19-la-strategie-vaccinale/)
-            
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/)
     * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
             
@@ -3477,9 +3456,6 @@ Recherche
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
         * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/vaccin-covid-19/)
-            
-            * [Covid-19 : La stratégie vaccinale](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/vaccin-covid-19/covid-19-la-strategie-vaccinale/)
-            
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/)
     * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
             
@@ -3837,9 +3813,6 @@ Recherche
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
         * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/vaccin-covid-19/)
-            
-            * [Covid-19 : La stratégie vaccinale](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/vaccin-covid-19/covid-19-la-strategie-vaccinale/)
-            
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/)
     * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
             
@@ -4185,8 +4158,6 @@ Recherche
 Retour
 
 Retour
-
-* [Covid-19 : La stratégie vaccinale](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/vaccin-covid-19/covid-19-la-strategie-vaccinale/)
 
 * [Lancement du volet Santé du Conseil national de la refondation (CNR)](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/article/lancement-du-volet-sante-du-conseil-national-de-la-refondation-cnr)
 
