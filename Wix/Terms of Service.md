@@ -369,7 +369,7 @@ To the extent a license is required under applicable laws and regulations, and i
 
 ### 5.6. Third-party Services
 
-Wix may use Third-Party Services to provide the AI Services to you and use of such Third-Party Services will be subject to section 10 of these Terms. In your use of Wix’s AI Services, including your use of any Inputs and Outputs, you acknowledge and agree to review and comply with, and to require each of your End Users to review and comply with, the Third-Party AI Services’ policies, which may change from time to time.
+Wix may use Third-Party Services to provide the AI Services to you and use of such Third-Party Services will be subject to section 10 of these Terms. In your use of Wix’s AI Services, including your use of any Inputs and Outputs, you acknowledge and agree to review and comply with, and to require each of your End Users to review and comply with, the [Third-Party AI Services](https://support.wix.com/en/article/wixs-ai-service-providers-and-their-policies)’ policies, which may change from time to time.
 
 6\. Service Fees
 ----------------
