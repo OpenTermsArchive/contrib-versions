@@ -1010,6 +1010,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Open Data Kreis Gütersloh: [https://opendata.kreis-guetersloh.de/dataset/hausnummernkoordinaten](https://opendata.kreis-guetersloh.de/dataset/hausnummernkoordinaten)
             
+        * Verkehrsverbund Rhein-Ruhr AöR: [https://www.opendata-oepnv.de/ht/de/standards/nutzungsvereinbarung-api](https://www.opendata-oepnv.de/ht/de/standards/nutzungsvereinbarung-api), [https://www.opendata-oepnv.de/ht/de/standards/nutzungsbedingungen](https://www.opendata-oepnv.de/ht/de/standards/nutzungsbedingungen), Creative Commons Attribution 4.0 International (CC By 4.0)
+            
     21. **Great Britain**
         * This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
             
@@ -1679,6 +1681,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Portal de Datos Abiertos del Ayuntamiento de Vigo ES: [https://datos-ckan.vigo.org/dataset/callejero-vigo](https://datos-ckan.vigo.org/dataset/callejero-vigo)
             
+        * CTB (Consorcio de Transportes de Bizkaia) agency Link to their license: [https://data.ctb.eus/dataset/metro-bilbao-online](https://data.ctb.eus/dataset/metro-bilbao-online)(Creative Commons Attribution 4.0)
+            
+        * Gijón Government [https://www.gijon.es/es/datos/portales](https://www.gijon.es/es/datos/portales)(Creative Commons Attribution 4.0)
+            
     57. **Sweden**
         * © 2009 Cartesia GIS AB
             
@@ -1728,6 +1734,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * SwissTopo (CH): [https://www.swisstopo.admin.ch/de/geodata/landscape/tlm3d.html#dokumente](https://www.swisstopo.admin.ch/de/geodata/landscape/tlm3d.html#dokumente) changes were made.
             
         * Federal Office of Topography Swisstopo (CH): [https://www.swisstopo.admin.ch/de/home.html](https://www.swisstopo.admin.ch/de/home.html)
+            
+        * Open data platform Mobility Switzerland Licensing agreement link: [https://opentransportdata.swiss/de/terms-of-use/](https://opentransportdata.swiss/de/terms-of-use/)
             
     59. **Taiwan**
         * © 2013 Kingwaytek Technology Co., Ltd.
