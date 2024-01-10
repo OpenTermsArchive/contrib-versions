@@ -195,3 +195,7 @@ Epic uses artificial intelligence and machine learning technologies in our Safet
 As noted above in Section 14(a), Epic does not use User Content and does not license User Content to third parties for use in datasets for, training of, or as inputs to Generative AI Programs.
 
 The effective date of these Terms of Use is **December 22, 2023**.
+
+**Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated August 18, 2023)**  
+The estimated average monthly active recipients in the European Union of Sketchfab for the past six months was 840,000.  
+Users who accessed more than one of Epic's services or products in a given month are counted as a user for each service or product.
