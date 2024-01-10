@@ -90,7 +90,7 @@ Other languages:
 * [asturianu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ast "Términos d'usu (40% translated)")
 * [azərbaycanca](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/az "İstifadə Şərtləri (10% translated)")
 * [bosanski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bs "Uslovi korištenja (3% translated)")
-* [català](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ca "Policy:Condicions d'ús (81% translated)")
+* [català](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ca "Policy:Condicions d'ús (84% translated)")
 * [dansk](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/da "Brugsbetingelser (99% translated)")
 * [eesti](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/et "Kasutustingimused (3% translated)")
 * [español](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es "Términos de uso (100% translated)")
