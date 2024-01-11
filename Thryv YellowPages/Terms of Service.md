@@ -3,13 +3,13 @@ Terms of Use
 
 **Updated May 21, 2020**
 
-PLEASE READ THE FOLLOWING AGREEMENT CAREFULLY BEFORE USING THIS WEBSITE. THIS WEBSITE USE AGREEMENT APPLIES TO THE WEBSITES AND MOBILE APPLICATIONS LOCATED AT THRYV.COM, CORPORATE.THRYV.COM, SUPERPAGES.COM, LOCALSEARCH.COM, DIRECTORYSTORE.COM, FREEGRADER.COM, HOWFINDABLEAREYOU.COM, M.SUPERPAGES.COM, WAP.SUPERPAGES.COM, DEXKNOWS.COM, M.DEXKNOWS.COM, DEXPAGES.COM, DEXCUSTOMWEBSITES.COM, ACCOUNT.DEXKNOWS.COM, DEXKNOWSWHITEPAGES.COM, AND DEXONENATIONAL.COM WEBSITES, INCLUDING ANY SUBDOMAINS OR MOBILE VERSIONS, AND MOBILE APPLICATIONS, including MYCP (each, “This Website”, as applicable).
+PLEASE READ THE FOLLOWING AGREEMENT CAREFULLY BEFORE USING THIS WEBSITE. THIS WEBSITE USE AGREEMENT APPLIES TO THE WEBSITES AND MOBILE APPLICATIONS LOCATED AT THRYV.COM, CORPORATE.THRYV.COM, SUPERPAGES.COM, LOCALSEARCH.COM, DIRECTORYSTORE.COM, FREEGRADER.COM, HOWFINDABLEAREYOU.COM, M.SUPERPAGES.COM, WAP.SUPERPAGES.COM, DEXKNOWS.COM, M.DEXKNOWS.COM, DEXPAGES.COM, DEXCUSTOMWEBSITES.COM, ACCOUNT.DEXKNOWS.COM, DEXKNOWSWHITEPAGES.COM, AND DEXONENATIONAL.COM WEBSITES, INCLUDING ANY SUBDOMAINS OR MOBILE VERSIONS, AND MOBILE APPLICATIONS, including MYCP (each, "This Website", as applicable).
 
 YOUR USE OF THIS WEBSITE CONSTITUTES AGREEMENT TO THE TERMS AND CONDITIONS OF THE WEBSITE USE AGREEMENT SET FORTH BELOW. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THIS WEBSITE.
 
 #### Website Use Agreement
 
-By accessing This Website (including extensions thereof) you are entering into this Website Use Agreement (“Agreement”) with Thryv, Inc, and you agree to be bound by the terms of this Agreement. This Agreement includes the terms and conditions set forth herein, This Website’s Privacy Policies and notice (which are referenced and hyperlinked at [https://corporate.thryv.com/privacy](https://corporate.thryv.com/privacy) and incorporated herein by reference) and any other terms incorporated by reference herein.
+By accessing This Website (including extensions thereof) you are entering into this Website Use Agreement ("Agreement") with Thryv, Inc, and you agree to be bound by the terms of this Agreement. This Agreement includes the terms and conditions set forth herein, This Website’s Privacy Policies and notice (which are referenced and hyperlinked at [https://www.thryv.com/privacy](https://corporate.thryv.com/privacy/) and incorporated herein by reference) and any other terms incorporated by reference herein.
 
 #### Changes to This Agreement
 
@@ -43,9 +43,9 @@ All claims must include the following information:
 
 #### Registration and Profile
 
-Most Websites do not require registration in order to visit. However, in order to access certain features of specific Websites, including posting a comment, review or photo, you may be required to register with This Website and create a “Profile” account. Your Profile account allows you access to the services and functionality of the Website to post a question, answer, article, comment or review and any other services and functionality that we may establish and maintain from time to time in our sole discretion.
+Most Websites do not require registration in order to visit. However, in order to access certain features of specific Websites, including posting a comment, review or photo, you may be required to register with This Website and create a "Profile" account. Your Profile account allows you access to the services and functionality of the Website to post a question, answer, article, comment or review and any other services and functionality that we may establish and maintain from time to time in our sole discretion.
 
-When creating your Profile, you must provide accurate information, which will be handled in compliance with our [Privacy Policy](https://corporate.thryv.com/privacy). You may receive a password and account designation upon completing your Profile. You must not allow someone else to use your Profile, nor can you use someone else’s Profile. You must keep the password to your Profile secure and you must notify Thryv, Inc. immediately of any unauthorized use of, or security breach connected with, your Profile. You are responsible for all answers, articles, comments, photos, ratings and reviews posted from, or any other activity connected with, your Profile. Thryv, Inc. is not liable for any losses caused by any unauthorized use of your Profile; however, you are liable to Thryv, Inc. for any losses to Thryv, Inc. or others caused by such unauthorized use.
+When creating your Profile, you must provide accurate information, which will be handled in compliance with our [Privacy Policy](https://corporate.thryv.com/privacy). You may receive a password and account designation upon completing your Profile. You must not allow someone else to use your Profile, nor can you use someone else's Profile. You must keep the password to your Profile secure and you must notify Thryv, Inc. immediately of any unauthorized use of, or security breach connected with, your Profile. You are responsible for all answers, articles, comments, photos, ratings and reviews posted from, or any other activity connected with, your Profile. Thryv, Inc. is not liable for any losses caused by any unauthorized use of your Profile; however, you are liable to Thryv, Inc. for any losses to Thryv, Inc. or others caused by such unauthorized use.
 
 In order to create a Profile account and post content such as answers, articles, comments or reviews, you must be at least 18 years of age and be fully able and competent to enter into, agree to, and comply with, this Agreement.
 
@@ -75,8 +75,7 @@ You may not use bots, crawlers, spiders, or any similar methods, processes, or t
 
 Thryv, Inc. or its affiliates are the sole or joint owner of certain patents including the following:
 
-U.S. Patents
-
+U.S. Patents  
 7,260,774  
 7,653,870  
 7,917,491  
@@ -101,8 +100,7 @@ U.S. Patents
 6,608,634  
 7,432,938
 
-Foreign Patents
-
+Foreign Patents  
 546735 (New Zealand)  
 123037 (Singapore)  
 200277263 (Australia)  
@@ -112,7 +110,7 @@ Certain activities provided via the dexknows.com website may be covered by U.S. 
 
 #### Trademarks and Service Marks
 
-DexYP®, Thryv®, Superpages®, Superpages.com®, Localsearch.com℠, SuperpagesMobile®, DirectoryStore®, SuperYellowPages.com®, Enlightenme.com™, Dex®, Dex Media®, DexKnows®, DexKnows.com®, How Findable Are You?™and all other related product and service names, logos and slogans are trademarks and service marks of Thryv, Inc. and may not be used in any manner without the prior written consent of Thryv, Inc. , and Other third-party trademarks or service marks used on This Websiteare the property of their respective owners and cannot be used without permission. Third-party trademark references herein do not constitute or imply affiliation, endorsement or recommendation of Thryv, Inc. or its affiliates by the respective trademark owners, or of the respective trademark owners by Thryv, Inc..
+DexYP®, Thryv®, Superpages®, Superpages.com®, Localsearch.com℠, SuperpagesMobile®, DirectoryStore®, SuperYellowPages.com®, Enlightenme.com™, Dex®, Dex Media®, DexKnows®, DexKnows.com®, How Findable Are You?™and all other related product and service names, logos and slogans are trademarks and service marks of Thryv, Inc. and may not be used in any manner without the prior written consent of Thryv, Inc. , and Other third-party trademarks or service marks used on This Website are the property of their respective owners and cannot be used without permission. Third-party trademark references herein do not constitute or imply affiliation, endorsement or recommendation of Thryv, Inc. or its affiliates by the respective trademark owners, or of the respective trademark owners by Thryv, Inc..
 
 #### Consent to Monitoring of Content
 
@@ -126,7 +124,7 @@ You grant Thryv, Inc. and its affiliates the absolute, perpetual, irrevocable, t
 
 Without limiting the preceding paragraph, the submission or provision of User Provided Content to Thryv, Inc. will in no way prevent the purchase, manufacture or use of similar products, services, plans, ideas and the like by Thryv, Inc. for any purpose whatever.
 
-You represent and warrant that you have the right and authority to grant Thryv, Inc. the rights, licenses and authorizations afforded by this Agreement without the consent or authorization of any other person or entity, and that the exercise of any such rights, licenses, or authorizations by Thryv, Inc. or its sublicensees will not infringe any copyright or other intellectual property right or right of publicity or privacy rights of any other person or entity. By submitting or otherwise providing User Provided Content (including, without limitation, user reviews), you represent and warrant that (a) you are the sole author and owner of the intellectual property rights thereto, (b) all “moral rights” that you may have in such User Provided Content have been voluntarily waived by you, (c) all such User Provided Content is accurate, (d) your posting of the User Provided Content is in compliance with the [Digital Conduct Standards](https://www.thryv.com/code-of-conduct) and the [Editorial Policies](https://www.thryv.com/editorial-policy "Editorial Policy") (e) you are at least 18 years old, and (f) use of such User Provided Content will not cause injury to any person or entity.
+You represent and warrant that you have the right and authority to grant Thryv, Inc. the rights, licenses and authorizations afforded by this Agreement without the consent or authorization of any other person or entity, and that the exercise of any such rights, licenses, or authorizations by Thryv, Inc. or its sublicensees will not infringe any copyright or other intellectual property right or right of publicity or privacy rights of any other person or entity. By submitting or otherwise providing User Provided Content (including, without limitation, user reviews), you represent and warrant that (a) you are the sole author and owner of the intellectual property rights thereto, (b) all "moral rights" that you may have in such User Provided Content have been voluntarily waived by you, (c) all such User Provided Content is accurate, (d) your posting of the User Provided Content is in compliance with the [Digital Conduct Standards](https://www.thryv.com/code-of-conduct) and the [Editorial Policies](https://www.thryv.com/editorial-policy "Editorial Policy") (e) you are at least 18 years old, and (f) use of such User Provided Content will not cause injury to any person or entity.
 
 You further agree and warrant that you will not post or store on, or transmit, submit or otherwise provide through, This Website any information, content or other material (including, without limitation, user reviews) that (a) violates, infringes or misappropriates any intellectual property right (including, without limitation, copyright, trademark, trade secret, patent, and right of publicity), any right of privacy or publicity, or any other right of any person or entity, (b) is harmful, threatening, abusive, harassing, false, misleading, defamatory, vulgar, obscene, sexually explicit, profane, hateful or racially, ethically or otherwise objectionable, or that violates any applicable law or regulation, or (c) contains any computer viruses, worms or other potentially damaging computer programs or files.
 
@@ -142,7 +140,7 @@ IN NO EVENT SHALL THRYV, INC. OR ITS AFFILIATES BE LIABLE FOR ANY SPECIAL, INDIR
 
 Any material on This Website may include technical or other inaccuracies or typographical errors.
 
-THIS WEBSITE IS MADE AVAILABLE TO YOU ON AN “AS IS” BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, AND WITHOUT ANY REPRESENTATIONS OR GUARANTEES.
+THIS WEBSITE IS MADE AVAILABLE TO YOU ON AN "AS IS" BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, AND WITHOUT ANY REPRESENTATIONS OR GUARANTEES.
 
 THRYV, INC. AND ITS AFFILIATES HEREBY DISCLAIM ALL WARRANTIES, REPRESENTATIONS AND ENDORSEMENTS, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NONINFRINGEMENT.
 
@@ -160,7 +158,7 @@ Some of the sites to which you may link from This Website are not owned or opera
 
 **Please note that trademarks or services mark owned by** Thryv, Inc. **or its affiliates’** **may be included in the URL of a co-branded or private label site that is owned and operated by a third party, in a location other than that occupied by the second level domain (e.g., as the third level domain).** Third Party Sites may include, without limitation, sites on which you may bid for and/or purchase products or services. Thryv, Inc. makes no representations whatsoever concerning (a) the information, software or other material appearing on, or accessible through, any Third Party Site (including without limitation, any advertisement for products or services on any Third Party Site), (b) the performance or operation of any Third Party Site (including, without limitation, any transactions initiated or conducted through any Third Party Site, any taxes associated therewith and any use by third parties of user credit card information), (c) any products or services advertised or sold on or through any Third Party Site (including, without limitation, the quality, safety and legality of such products or services or the sale thereof), or (d) the sellers of any products or services advertised or sold on or through any Third Party Site. Your dealings or communications through Third Party Sites are solely between you and that third party. Under no circumstances will Thryv, Inc. be liable for any goods, services, resources, or content available through such third party dealings or communications or for any harm related thereto. If you decide to access any of the Third Party Sites linked to This Website, you do so entirely at your own risk. **If you are accessing a Third Party Site through a link on This Website, you are advised to read the terms of use and privacy policy of such Third Party Site before you use such Third Party Sites.**
 
-Unless otherwise set forth in a written agreement between you and Thryv, Inc., your linking to This Website, including without limitation your use of the DexKnows.com Free Tools (collectively, the “Link”), is subject to the following: (i) the appearance, position, and other aspects of the Link may not be such as to damage or dilute the reputation of Thryv, Inc., including without limitation the posting of the Link on the same website as, or in a manner that associates Thryv, Inc. or its related brands with any content of a sexual, pornographic, illegal, violent, discriminatory, offensive, threatening, misleading, or abusive nature; (ii) the appearance, position, and other attributes of the Link may not create the false appearance that your organization or entity is sponsored by, affiliated with, or associated with Thryv, Inc.; (iii) when selected by a user, the Link must display the websites on full-screen and not within a frame on the linking website; and (iv) Thryv, Inc. reserves the right to revoke its consent to the Link at any time and in its sole discretion. This paragraph applies to links to any page on the websites and/or any content available on or through the websites, including, without limitation, any Thryv, Inc. widget. Thryv, Inc. and its affiliates, as applicable, retain all of the rights in the Links and the content in the Links, including without limitation trademarks. You are not allowed to alter the Links or any of the associated content. Any use of Thryv, Inc.’s trademarks, content, or Links inures solely to Thryv, Inc. and its affiliates’ benefit. YOU ASSUME SOLE RESPONSIBILITY FOR YOUR USE OF THE LINK AS WELL AS THE USE OF THE LINKS BY VISITORS TO YOUR WEBSITE.
+Unless otherwise set forth in a written agreement between you and Thryv, Inc., your linking to This Website, including without limitation your use of the DexKnows.com Free Tools (collectively, the “Link”), is subject to the following: (i) the appearance, position, and other aspects of the Link may not be such as to damage or dilute the reputation of Thryv, Inc., including without limitation the posting of the Link on the same website as, or in a manner that associates Thryv, Inc. or its related brands with any content of a sexual, pornographic, illegal, violent, discriminatory, offensive, threatening, misleading, or abusive nature; (ii) the appearance, position, and other attributes of the Link may not create the false appearance that your organization or entity is sponsored by, affiliated with, or associated with Thryv, Inc.; (iii) when selected by a user, the Link must display the websites on full-screen and not within a frame on the linking website; and (iv) Thryv, Inc. reserves the right to revoke its consent to the Link at any time and in its sole discretion. This paragraph applies to links to any page on the websites and/or any content available on or through the websites, including, without limitation, any Thryv, Inc. widget. Thryv, Inc. and its affiliates, as applicable, retain all of the rights in the Links and the content in the Links, including without limitation trademarks. You are not allowed to alter the Links or any of the associated content. Any use of Thryv, Inc.'s trademarks, content, or Links inures solely to Thryv, Inc. and its affiliates' benefit. YOU ASSUME SOLE RESPONSIBILITY FOR YOUR USE OF THE LINK AS WELL AS THE USE OF THE LINKS BY VISITORS TO YOUR WEBSITE.
 
 #### Security / No Disruption
 
@@ -182,7 +180,7 @@ You agree, at your own expense, to indemnify, defend and hold Thryv, Inc. (and i
 
 Thryv, Inc. reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, This Website or any portion thereof with or without notice. You agree that Thryv, Inc. shall not be liable to you or to any third party for any modification, suspension, or discontinuance of the websites.
 
-You and Thryv, Inc. agree that the substantive laws of the state of Texas, without reference to its principles of conflicts of laws, will be applied to govern, construe and enforce all of the rights and duties of the parties arising from or relating in any way to the subject matter of this Agreement. YOU AND THRYV, INC. CONSENT TO THE EXCLUSIVE PERSONAL JURISDICTION OF AND VENUE IN A COURT LOCATED IN DALLASCOUNTY, TEXAS, FOR ANY SUITS OR CAUSES OF ACTION CONNECTED IN ANY WAY, DIRECTLY OR INDIRECTLY, TO THE SUBJECT MATTER OF THIS AGREEMENT OR TO THIS WEBSITE. Except as otherwise required by law, any cause of action or claim you may have with respect to This Website must be commenced within one (1) year after the claim or cause of action arises or such claim or cause of action is barred.
+You and Thryv, Inc. agree that the substantive laws of the state of Texas, without reference to its principles of conflicts of laws, will be applied to govern, construe and enforce all of the rights and duties of the parties arising from or relating in any way to the subject matter of this Agreement. YOU AND THRYV, INC. CONSENT TO THE EXCLUSIVE PERSONAL JURISDICTION OF AND VENUE IN A COURT LOCATED IN DALLAS COUNTY, TEXAS, FOR ANY SUITS OR CAUSES OF ACTION CONNECTED IN ANY WAY, DIRECTLY OR INDIRECTLY, TO THE SUBJECT MATTER OF THIS AGREEMENT OR TO THIS WEBSITE. Except as otherwise required by law, any cause of action or claim you may have with respect to This Website must be commenced within one (1) year after the claim or cause of action arises or such claim or cause of action is barred.
 
 If any portion of this Agreement is ruled invalid or otherwise unenforceable, it shall be deemed amended in order to achieve as closely as possible the same effect as originally drafted. Any invalid or unenforceable portion should be construed as narrowly as possible in order to give effect to as much of the Agreement as possible. No waiver of any breach of any agreement or provision of this Agreement, nor any failure to assert any right or privilege contained in this Agreement, shall be deemed a waiver of any preceding or succeeding breach of any agreement or provision.
 
@@ -190,9 +188,16 @@ You agree not to assign or otherwise transfer this Agreement in whole or in part
 
 This Agreement (including all policies, notices and other terms incorporated into this Agreement by reference) constitutes the entire agreement between you and Thryv, Inc. with respect to the subject matter hereto and supersedes any and all prior or contemporaneous agreements whether written or oral. This Agreement may be revised only: (a) by Thryv, Inc. as set forth in the Section of this Agreement entitled “Changes to This Agreement”, or (b) by written agreement signed by a Thryv, Inc. executive. Any terms varying from this Agreement in any written, electronic or other communication from you are void. Notwithstanding anything to the contrary, this Agreement does not apply to any Advertiser Copy (as defined in any applicable Services Agreement or any Terms or Addendum provided by us) or other information, content or other material submitted or otherwise provided by you through This Website that is the subject of a preprinted agreement or a clickwrap agreement on another website owned or operated by Thryv, Inc. (other than this Agreement).
 
-Got a few minutes? _Let’s get going._
+Got a few minutes?_Let’s get going._
+
+Wait!  
+It looks like you might be located in . You're about to schedule a demo with our team. Continue anyway?
+
+Continue
 
 Email Address\*
+
+Username\*
 
 Something went wrong
 
@@ -202,33 +207,95 @@ Next
 
 [Learn how we will use your information](#privacyNotice)
 
-Privacy NoticeYour privacy is important to us. We will collect your information when you press 'next'. We will use this information to process your request and may also use this information to promote and market our services we believe are relevant to you. For more information on how we handle your personal information, please see our privacy policy in the footer of this website.
+Privacy Notice You authorize your wireless carrier to use or disclose information about your account and your wireless device, if available, to Thryv or its service provider for the duration of your business relationship, solely to help them identify you or your wireless device and to prevent fraud.  
+  
+I consent to receiving a telephone call and/or electronic promotional and marketing messages from or on behalf of Thryv about its products and services. You can withdraw your consent at any time. You can contact us at [\[email protected\]](https://corporate.thryv.com/cdn-cgi/l/email-protection), by opting-out of email marketing directly on our [unsubscribe](https://corporate.thryv.com/unsubscribe/) page, or at Thryv, 1155 Volunteer Pkwy, Suite 201, Bristol, TN 37620, USA . For more information on how we handle your personal information, please see our [privacy policy](https://corporate.thryv.com/privacy).
 
 Email Address\*
 
+Username\*
+
 Something went wrong
 
-Tons of businesses use Thryv. _Tell us a little about yours._
+Welcome Back!Let’s confirm your info.
 
 First and Last Name
 
-Business Name
-
-If unable to locate your business in the dropdown above, please call [(555) 555-5555](tel:5555555555)
+Company Name
 
 Phone Number
 
+Email Address
+
+ [Schedule a Follow-up
+
+Loading...](#)
+
+        
+
+Our favorite awards come from our users
+
+![](/media/2022-g2-badge-award-01.png) ![](/media/2022-g2-badge-award-02.png) ![](/media/2022-g2-badge-award-03.png) ![](/media/2021-g2-badge-award-04.png) ![](/media/2021-g2-badge-award-05.png)
+
+Watch how Thryv helps businesses like yours get the job, manage the job, and get credit.
+
+Just getting started?
+
+Download ThryvPay for FREE and start getting paid.
+
+[![](/media/icon-thryvpay-appstore.png)](https://apps.apple.com/us/app/thryvpay/id1554576474) [![](/media/icon-thryvpay-google-play.png)](https://play.google.com/store/apps/details?id=com.thryv.thryvpay&hl=en&gl=US)
+
+![Smartphone showing the logo for ThryvPay, Thryv's online payment processor for small business](/media/demo-thryvpay-phone.png)
+
+Just getting started?
+
+Download ThryvPay for FREE and start getting paid.
+
+[![](/media/icon-thryvpay-appstore.png)](https://apps.apple.com/us/app/thryvpay/id1554576474) [![](/media/icon-thryvpay-google-play.png)](https://play.google.com/store/apps/details?id=com.thryv.thryvpay&hl=en&gl=US)
+
+![Smartphone showing the logo for ThryvPay, Thryv's online payment processor for small business](/media/demo-thryvpay-phone.png)
+
+Just getting started?
+
+Download ThryvPay for FREE and start getting paid.
+
+[![](/media/icon-thryvpay-appstore.png)](https://apps.apple.com/us/app/thryvpay/id1554576474) [![](/media/icon-thryvpay-google-play.png)](https://play.google.com/store/apps/details?id=com.thryv.thryvpay&hl=en&gl=US)
+
+![Smartphone showing the logo for ThryvPay, Thryv's online payment processor for small business](/media/demo-thryvpay-phone.png)
+
+Quick question.Are you open and operating yet?
+
+Tons of businesses use Thryv. _Tell us a little about yours._
+
+First and Last Name\*
+
+Business Name\*
+
+If unable to locate your business in the dropdown above, please call [(555) 555-5555](tel:5555555555)
+
+Phone Number\*
+
 Number of Employees
 
-Select Number of EmployeesONLY ME2-4 EMPLOYEES5-9 EMPLOYEES10-20 EMPLOYEES21-49 EMPLOYEES50+ EMPLOYEES
+Select Number of Employees ONLY ME 2-4 EMPLOYEES 5-9 EMPLOYEES 10-20 EMPLOYEES 21-49 EMPLOYEES 50+ EMPLOYEES
 
-                     
+Number of Locations
+
+                            
+
+Are you a franchise?
+
+ Yes
+
+ No
 
 Something went wrong
 
 LOADING
 
 Next
+
+Loading...
 
 Something went wrong
 
@@ -264,14 +331,6 @@ Something went wrong
 
 Pick a Time Central Time [EDIT TIME](#choose-new-time)
 
-Pick a Time Central Time [EDIT TIME](#choose-new-time)
-
-Pick a Time Central Time [EDIT TIME](#choose-new-time)
-
-Pick a Time Central Time [EDIT TIME](#choose-new-time)
-
-Pick a Time Central Time [EDIT TIME](#choose-new-time)
-
 LOADING
 
 Schedule Demo
@@ -288,6 +347,12 @@ Schedule Demo
 
 ![](/media/demo-logo-getapp-2019.png)
 
+Ready to chat?
+
+Our specialists are ready to show you exactly how Thryv works with a personalized demo. 15 minute or less, no pressure and no obligation.
+
+Schedule Demo
+
 Watch how Thryv helps businesses like yours  
 _get the job, manage the job, and get credit._
 
@@ -297,7 +362,6 @@ Our specialists are ready to show you exactly how Thryv works.
 
 * End-to-end client experience software
 * Personalized demo
-* 15 minutes or less
 * No pressure, no obligation
 
 Schedule a Demo
@@ -310,26 +374,16 @@ _Thank you!_We are excited to show you Thryv.
 
 Friday, August 11 at 11:00 AM Eastern Daylight Time
 
-![](/media/ba-jonathan-mitchell.jpg)
+Add to Calendar
 
-![](/media/ba-jonathan-mitchell.jpg)
+![](/media/Profile.png)
+
+![](/media/Profile.png)
 
 Jonathan Mitchell
 
 Thryv Business Specialist  
 Dallas, TX
-
-Show up and win!$399+ value!
-
-Complete your demo and enter to win the prize of your choice.
-
-![](/media/prize-offer-1.png)
-
-![](/media/prize-offer-2.png)
-
-![](/media/prize-offer-3.png)
-
-\*No purchase necessary. See [official rules](https://www.thryv.com/media/Thryv-Weekly-Winner-Official-Rules-8-3-21.pdf) for complete details.
 
 ![](/media/demo-logo-g2-2020.png)
 
