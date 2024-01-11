@@ -49,10 +49,10 @@ It is Company’s policy to (1) block access to or remove material that it belie
 Please contact Company’s Designated Agent to Receive Notification of Claimed Infringement at the following address:[copyright@bandcamp.com](mailto:copyright@bandcamp.com), or by mail at:  
 
 DMCA Complaints  
-Bandcamp  
-720 Wilshire Blvd.  
-Suite 300  
-Santa Monica, CA 90401  
+Bandcamp Ventures  
+8605 Santa Monica Blvd  
+PMB 40672  
+West Hollywood, CA 90069-4109  
 United States
 
 Please bear in mind that we can process claims submitted via email to [copyright@bandcamp.com](mailto:copyright@bandcamp.com) much more quickly than those submitted to the above physical address.
