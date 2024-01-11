@@ -211,6 +211,8 @@ You may contact Company by directing inquiries to our support team.
 
 ### Change log.
 
+January 10, 2024: Updated contact address for copyright resolution/DMCA complaints.
+
 October 18, 2023: Updated Bandcamp’s contact information, modified governing law and venue for dispute resolution from North Carolina to California, and changed the Company entity to Bandcamp Ventures LLC.
 
 March 17, 2022: Simplified the terms to remove redundant language already addressed in our [privacy](#privacy) policy, so that our privacy practices are described in a single location where our users typically expect to find them. Also, clarified how [taxes](#feesfans) are [handled](#feesartists) for certain transactions, provided additional information related to how [payments are processed](#feesartists), updated Bandcamp’s [contact](#contact) information, modified governing law and venue for [dispute resolution](#disputes) from California to North Carolina, and changed the Company entity to Bandcamp LLC.
