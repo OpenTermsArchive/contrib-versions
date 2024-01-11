@@ -136,7 +136,7 @@ We use a variety of analytics methods including what is commonly referred to as 
 We use our analytics to:
 
 * Conduct market research and to carry out research and statistical analysis including to monitor how customers use our networks, products and services
-* Frame our marketing campaigns and determine how we might personalise those;
+* Build your customer profile to frame our marketing campaigns and determine how we might personalise those;
 * Provide anonymised and aggregated reports to third parties (such reports don’t contain information which may identify you as an individual). These can be to third parties such as content providers, advertisers, and other business or public entities.
 
 **Meeting our business needs**
@@ -218,24 +218,24 @@ How long we keep your personal information
 
 We’ll store your information for as long as we have to by law. If there’s no legal requirement, we’ll only store it for as long as we need to in order to provide products or services to you.
 
-Subject to the above, the following specific retention periods will be followed:
+Subject to the above, the following specific retention periods will be followed:  
 
 |     |     |
 | --- | --- |
 | #### **Type of Record or Information** | #### **Retention Period** |
-| **Personal Call Traffic Details** (actual record of call, i.e. time of call, caller, number called, duration of call, etc.) | 6 months plus current month (max.) for our purposes (as described above and in our general terms and conditions e.g. market research, product development). |
+| **Call Traffic Details** (records  <br>of call and SMS communication , i.e. Time and duration of call, originating  number, destination number , quantity of data  <br>used, approximate location based on network information, and details of your  <br>device.) | Up to 24 months plus current  <br>month for billing and our purposes ([as described above under "How we use your information"](#how-we-use-information) and in our [general terms and conditions](https://n.vodafone.ie/terms/bill-pay.html)). The call detail element of your standard bill will be severed and deleted after 24 months (plus current month) to facilitate customer queries and debt collection. |
 |     | Interconnect call records (i.e. the records of calls made to or received from other networks) are retained for 12 months for inter-operator billing purposes. |
-|     | For legal purposes call traffic records will be retained for a period of 2 years to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Vodafone's commercial purposes. |
+|     | To comply with legal obligations, call traffic records will be retained for a period of 12 months (plus current month). This retention will take place in a restricted access secure system and will not be used for Vodafone's commercial purposes. |
 | **Business Call Traffic Details** (actual record of call, i.e. time of call, caller, number called, duration of call, etc.) | 6 months plus current month (max.) for our purposes (as described above and in our general terms and conditions e.g. market research, product development). |
 |     | Interconnect call records (i.e. the records of calls made to or received from other networks) are retained for 12 months for inter-operator billing purposes. |
 |     | For legal purposes call records will be retained for a period of 2 years to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Vodafone's commercial purposes. Business customers may elect to avail of ancillary services that may retain their call details for longer periods. This retention will only take place where the customer has agreed to the additional service. |
 | **Data Service Usage Details** (WAP site visits, web site visits, live! Use, text alert subscriptions) | 6 months plus current month (max.) for our purposes (as described above and in our general terms and conditions). This data does not include content. |
 |     | For legal purposes usage records will be retained for a period of 12 months to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Vodafone’s commercial purposes. |
 | **Cookies** | Cookies are stored on a per session basis only to aid your navigation of our web-sites. Persistent cookies may be set to store display related preferences. Depending on your browser you may also be able to control cookie use by altering your browser settings. |
-| **Invoices & Statements** | 6 years plus current year for invoices and statements.  <br>  <br>The call detail element of your standard bill will be severed and deleted after 6 months, as described above. |
-| **Location Based Information for value added services** (excluding network traffic data) | Deleted immediately on completion/ termination of the value added service. |
+| **Invoices & Statements** | 6 years plus current year for invoices and statements.<br><br>  <br>The call detail element of your standard bill will be severed and deleted after 24 months (plus current month) to facilitate customer queries and debt collection, as described [above under "How we use your information"](#how-we-use-information) . |
+| **Location Based Information for value added services** (excluding network traffic data) | Deleted immediately on completion/ termination of the value-added service. |
 
-We’ll keep some personal information for a reasonable period after your contract with us has finished in case you decide to use our services again. We, or one of our partners, may contact you about Vodafone services during this time if you haven’t opted out of receiving marketing communications from us.
+We’ll keep some personal information for a reasonable period after your contract with us has finished in case you decide to use our services again. We, or one of our partners, may contact you about Vodafone services during this time if you haven’t opted out of receiving marketing communications from us.  
 
 {{feedbackMessage}}
 
