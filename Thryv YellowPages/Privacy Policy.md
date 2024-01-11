@@ -1,12 +1,17 @@
 Privacy Notice
 ==============
 
-Thryv, Inc. and its affiliates and subsidiaries (individually and collectively known as “**Thryv**”) respect your right to privacy, and we want you to be aware of how we collect and handle information. This policy applies to our handling of information on each website and mobile application on which we provide this Privacy Policy.
+Thryv, Inc. and its affiliates and subsidiaries (individually and collectively known as “Thryv”) respect your right to privacy, and we want you to be aware of how we collect and handle information. This policy applies to our handling of information on each website and mobile application on which we provide this Privacy Policy.
 
 Watch how Thryv helps businesses like yours  
 _get the job, manage the job, and get credit._
 
-Revised: January 8, 2024
+Privacy Notice
+==============
+
+Thryv, Inc. and its affiliates and subsidiaries (individually and collectively known as “Thryv”) respect your right to privacy, and we want you to be aware of how we collect and handle information. This policy applies to our handling of information on each website and mobile application on which we provide this Privacy Policy.
+
+**Revised: January 8, 2024**
 
 Your information privacy is important to us.
 
@@ -129,10 +134,7 @@ Where required by law, we seek your consent to receive marketing materials from 
 * Provide you with This Website and the Services, including to send you alerts about your account and provide the live chat;
 * Handle your customer services requests;
 * Help us diagnose technical and service proble
-
-s and administer This Website and the Services;
-
-* Help us to monitor and improve this Website’s and the Services’ performance and to make it easier for you and other users to use and manage features and programs made available through this Website and the Services;
+s and administer This Website and the Services;* Help us to monitor and improve this Website’s and the Services’ performance and to make it easier for you and other users to use and manage features and programs made available through this Website and the Services;
 * Help us to better understand the functionality of our mobile applications on your phone;
 * To provide support, personalize and develop this Website or the Services;
 * For feature testing, research, analysis, evaluation and product development, including to develop and improve this Website and the Services;
@@ -185,7 +187,7 @@ Cookies
 
 We use cookies (a small text file placed on your computer to identify your computer and web browser) and may use anonymous identifiers (a random string of characters that is used for the same purposes as a cookie). We use cookies and other similar technologies to analyze use of and improve This Website and the Services and as described in the Advertising and Online Tracking Section of this Privacy Policy. Most web browsers are initially set up to accept cookies. Your browser may give you the ability to control cookies or other tracking tools. How you do so depends on the type of tool. Certain browsers can be set to reject browser cookies. If you block cookies, certain features on our Website or Services may not work. If you block or reject cookies, not all of the tracking described here will stop. Some of our Service Providers may use their own cookies, anonymous identifiers, or other tracking technology in connection with the services they perform on our behalf.
 
-This Website may provide functionality to allow you to set your cookie preferences. This functionality relies on browser cookies to store your preferences. If you subsequently clear or delete your browser’s cookies, the record of your cookie preferences will also be deleted, and we will not be able to honor your request until you update your preferences again.
+This Website may provide functionality to allow you to set your cookie preferences. This functionality relies on browser cookies to store your preferences. If you subsequently clear or delete your browser's cookies, the record of your cookie preferences will also be deleted, and we will not be able to honor your request until you update your preferences again.
 
 We use third-party data analytics tools to analyze how users use the App and Services. For example, we use Google Analytics to provide statistics and analytical tools to analyze how users use the Website. For more information about how to opt out of having your information used by Google Analytics, visit [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/).
 
@@ -203,7 +205,7 @@ We use chatbots to help provide customer service and support, including through 
 
 Advertising and Online Tracking
 
-We may place advertisements and allow third-party companies to serve ads and collect certain information when you visit this Website or use the Services. These companies may use certain information (e.g. click stream information, web browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this Website and other websites in order to provide advertisements about goods and services likely to be of interest to you (i.e., for cross-contextual behavioral advertising). These companies may also collect information about your activities on our Website on your current device and combine it with information about your activities on other websites, mobile apps, and devices. These companies typically collect such information using server logs, cookies, web beacons, tags, pixels, mobile advertising IDs (such as Facebook cookies or Google’s Advertising ID), cross-device linking, and similar technologies. They may match your browsers or devices if you log into the same online service on multiple devices or if your devices share similar attributes that support an inference that they are used by the same person or household. This means that information about your activity on websites or apps on your current browser or device may be combined and used with information collected from your other browsers or devices. These third party partners use this information for our and their own advertising, analytics, attribution, and reporting purposes. Our systems do not recognize browser “Do Not Track” signals, but several of our Service Providers who utilize these cookies on this Website enable you to opt out of targeted advertising practices. To learn more about these advertising practices or to opt out of this type of advertising, you can visit [www.networkadvertising.org](https://www.networkadvertising.org/) or [www.aboutads.info/choices/](http://www.aboutads.info/choices/) (for US residents), or [https://youradchoices.ca](https://youradchoices.ca/) (for Canadian residents) or [http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options](http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options).
+We may place advertisements and allow third-party companies to serve ads and collect certain information when you visit this Website or use the Services. These companies may use certain information (e.g. click stream information, web browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this Website and other websites in order to provide advertisements about goods and services likely to be of interest to you (i.e., for cross-contextual behavioral advertising). These companies may also collect information about your activities on our Website on your current device and combine it with information about your activities on other websites, mobile apps, and devices. These companies typically collect such information using server logs, cookies, web beacons, tags, pixels, mobile advertising IDs (such as Facebook cookies or Google's Advertising ID), cross-device linking, and similar technologies. They may match your browsers or devices if you log into the same online service on multiple devices or if your devices share similar attributes that support an inference that they are used by the same person or household. This means that information about your activity on websites or apps on your current browser or device may be combined and used with information collected from your other browsers or devices. These third party partners use this information for our and their own advertising, analytics, attribution, and reporting purposes. Our systems do not recognize browser “Do Not Track” signals, but several of our Service Providers who utilize these cookies on this Website enable you to opt out of targeted advertising practices. To learn more about these advertising practices or to opt out of this type of advertising, you can visit [www.networkadvertising.org](https://www.networkadvertising.org/) or [www.aboutads.info/choices/](http://www.aboutads.info/choices/) (for US residents), or [https://youradchoices.ca](https://youradchoices.ca/) (for Canadian residents) or [http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options](http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options).
 
 Some browsers or browser extensions also allow you to tell websites not to share your information for cross-contextual behavioral advertising through the “global privacy control” signal. We will respond to this signal in a frictionless manner. If you configure this setting on your browser, certain features on our site may not work and you will receive less targeted advertising.
 
@@ -241,7 +243,7 @@ This Website and the Services may contain links to other websites or allow other
 
 Additionally, the Website or Services may contain or link (via API or otherwise) content provided by third party sites, providers or social media platforms such as Facebook and YouTube (collectively, “**Third Party Platforms**”). When you interact with such Third Party Platform(s), including by interacting with third party content made available on the Website or through the Services, the associated collection and processing of your Personal Information will be subject to the privacy policy of such Third Party Platform(s). You should review the privacy policies of these Third Party Platforms before interacting with them.
 
-For example, our Yellow Pages website located at [https://www.yellowpages.com.au/](https://www.yellowpages.com.au/) (“**Yellow**”), uses YouTube™ API Services. Your interaction with any video identified as being hosted on the YouTube video community is subject to the Google Privacy Policy located at [http://www.google.com/policies/privacy](http://www.google.com/policies/privacy).
+For example, our Yellow Pages website located at [https://www.yellowpages.com.au/](https://www.yellowpages.com.au/) ("**Yellow**”), uses YouTube™ API Services. Your interaction with any video identified as being hosted on the YouTube video community is subject to the Google Privacy Policy located at [http://www.google.com/policies/privacy](http://www.google.com/policies/privacy).
 
 Similarly, our SMS feature made available to customers in the US and Canada uses Twilio to provide the SMS services. If you choose to enable this product feature, your interaction with the SMS service is subject to the Twilio privacy policy located at [https://www.twilio.com/en-us/legal/privacy](https://www.twilio.com/en-us/legal/privacy).
 
@@ -282,7 +284,7 @@ Your verifiable consumer request must:
 * Provide sufficient identifying information (including full name, postal address, and email address) to allow us to reasonably verify you are the person about whom we collected and retained Personal Information, and/or your authority to make such request on behalf of the data subject, and
 * Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
 
-Note that we will only use Personal Information provided in a verifiable consumer request to verify the requestor’s identity or authority to make the request or to review and comply with the request.
+Note that we will only use Personal Information provided in a verifiable consumer request to verify the requestor's identity or authority to make the request or to review and comply with the request.
 
 You may authorize someone to act as your agent and submit a request on your behalf. Due to the sensitivity of such requests, you must verify the agent’s authorization before we will act. Accordingly:
 
@@ -328,7 +330,7 @@ To learn more about these advertising practices or to opt out of this type of ad
 
 **Right to Opt-out of Profiling**
 
-Residents of some jurisdictions (e.g., California, Colorado, Virginia) – subject to certain exceptions – may have a right to opt out of forms of automated processing performed on Personal Information to evaluate, analyze or predict personal aspects related to your economic situation, health, personal preferences, interests, reliability, behavior, location or movements (“**Profiling**”).
+Residents of some jurisdictions (e.g., California, Colorado, Virginia) - subject to certain exceptions - may have a right to opt out of forms of automated processing performed on Personal Information to evaluate, analyze or predict personal aspects related to your economic situation, health, personal preferences, interests, reliability, behavior, location or movements (“**Profiling**”).
 
 We engage in cookie-based or digital advertising-based Profiling. To opt out of this practice, please follow the instructions detailed above regarding opting out of the sale or sharing of your Personal Information.
 
@@ -352,7 +354,7 @@ If you are a Nevada resident, please note that Thryv does not sell for monetary 
 
 **Financial Incentives**
 
-We may offer various financial incentives permitted by State Privacy Laws that can result in different prices, rates, or quality levels. Any permitted financial incentive we offer will reasonably relate to your Personal Information’s value and contain written terms that describe the program’s material aspects. Participation in a financial incentive program requires your prior opt in consent, which you may revoke at any time.
+We may offer various financial incentives permitted by State Privacy Laws that can result in different prices, rates, or quality levels. Any permitted financial incentive we offer will reasonably relate to your Personal Information's value and contain written terms that describe the program's material aspects. Participation in a financial incentive program requires your prior opt in consent, which you may revoke at any time.
 
 Notice to Residents of the European Economic Area, the United Kingdom and Switzerland
 
@@ -393,7 +395,7 @@ If you wish to exercise any of your above rights, please reach out to us by:
 * Calling us toll-free at **1-877-380-1838**; or
 * Visit [here](https://privacyportal-cdn.onetrust.com/dsarwebform/dd6500c7-03cb-45b0-8bed-97ece55a892d/cfcefb69-41db-4aee-bd00-c702df72ee0f.html) to fill out and submit our web form.
 
-You also have a right to make a complaint to a data protection supervisory authority, in the member state or country where you work, normally live, or where any alleged infringement of data protection laws occurred. The UK supervisory authority is the Information Commissioner’s Office (ICO). You can visit their website at www.ico.org.uk. If you are in the EU, you can find your local data protection authority [here](https://ec.europa.eu/newsroom/article29/items/612080/en). If you are in Switzerland, you can find your local data protection authority [here](https://www.edoeb.admin.ch/edoeb/en/home/deredoeb/auftragundaufgaben-DS.html).
+You also have a right to make a complaint to a data protection supervisory authority, in the member state or country where you work, normally live, or where any alleged infringement of data protection laws occurred. The UK supervisory authority is the Information Commissioner's Office (ICO). You can visit their website at www.ico.org.uk. If you are in the EU, you can find your local data protection authority [here](https://ec.europa.eu/newsroom/article29/items/612080/en). If you are in Switzerland, you can find your local data protection authority [here](https://www.edoeb.admin.ch/edoeb/en/home/deredoeb/auftragundaufgaben-DS.html).
 
 Regarding the transfer of Personal Information to countries outside the European Economic Area, United Kingdom or Switzerland, we have entered, or will enter, into so-called “Standard Contractual Clauses” approved by the Commission of the European Union for international transfer of personal information to controllers or processors established in third counties as the case may be, when appropriate. If you would like further information, please contact us or our Data Protection Officer at the information provided above.
 
@@ -459,9 +461,16 @@ You may also contact our Privacy Manager at PO Box 619810, DFW Airport, Texas 75
 
 Please print a copy of this privacy policy for your records and PLEASE check this Website frequently for any changes.
 
-Got a few minutes? _Let’s get going._
+Got a few minutes?_Let’s get going._
+
+Wait!  
+It looks like you might be located in . You're about to schedule a demo with our team. Continue anyway?
+
+Continue
 
 Email Address\*
+
+Username\*
 
 Something went wrong
 
@@ -471,33 +480,95 @@ Next
 
 [Learn how we will use your information](#privacyNotice)
 
-Privacy NoticeYour privacy is important to us. We will collect your information when you press 'next'. We will use this information to process your request and may also use this information to promote and market our services we believe are relevant to you. For more information on how we handle your personal information, please see our privacy policy in the footer of this website.
+Privacy Notice You authorize your wireless carrier to use or disclose information about your account and your wireless device, if available, to Thryv or its service provider for the duration of your business relationship, solely to help them identify you or your wireless device and to prevent fraud.  
+  
+I consent to receiving a telephone call and/or electronic promotional and marketing messages from or on behalf of Thryv about its products and services. You can withdraw your consent at any time. You can contact us at [\[email protected\]](https://corporate.thryv.com/cdn-cgi/l/email-protection), by opting-out of email marketing directly on our [unsubscribe](https://corporate.thryv.com/unsubscribe/) page, or at Thryv, 1155 Volunteer Pkwy, Suite 201, Bristol, TN 37620, USA . For more information on how we handle your personal information, please see our [privacy policy](https://corporate.thryv.com/privacy).
 
 Email Address\*
 
+Username\*
+
 Something went wrong
 
-Tons of businesses use Thryv. _Tell us a little about yours._
+Welcome Back!Let’s confirm your info.
 
 First and Last Name
 
-Business Name
-
-If unable to locate your business in the dropdown above, please call [(555) 555-5555](tel:5555555555)
+Company Name
 
 Phone Number
 
+Email Address
+
+ [Schedule a Follow-up
+
+Loading...](#)
+
+        
+
+Our favorite awards come from our users
+
+![](/media/2022-g2-badge-award-01.png) ![](/media/2022-g2-badge-award-02.png) ![](/media/2022-g2-badge-award-03.png) ![](/media/2021-g2-badge-award-04.png) ![](/media/2021-g2-badge-award-05.png)
+
+Watch how Thryv helps businesses like yours get the job, manage the job, and get credit.
+
+Just getting started?
+
+Download ThryvPay for FREE and start getting paid.
+
+[![](/media/icon-thryvpay-appstore.png)](https://apps.apple.com/us/app/thryvpay/id1554576474) [![](/media/icon-thryvpay-google-play.png)](https://play.google.com/store/apps/details?id=com.thryv.thryvpay&hl=en&gl=US)
+
+![Smartphone showing the logo for ThryvPay, Thryv's online payment processor for small business](/media/demo-thryvpay-phone.png)
+
+Just getting started?
+
+Download ThryvPay for FREE and start getting paid.
+
+[![](/media/icon-thryvpay-appstore.png)](https://apps.apple.com/us/app/thryvpay/id1554576474) [![](/media/icon-thryvpay-google-play.png)](https://play.google.com/store/apps/details?id=com.thryv.thryvpay&hl=en&gl=US)
+
+![Smartphone showing the logo for ThryvPay, Thryv's online payment processor for small business](/media/demo-thryvpay-phone.png)
+
+Just getting started?
+
+Download ThryvPay for FREE and start getting paid.
+
+[![](/media/icon-thryvpay-appstore.png)](https://apps.apple.com/us/app/thryvpay/id1554576474) [![](/media/icon-thryvpay-google-play.png)](https://play.google.com/store/apps/details?id=com.thryv.thryvpay&hl=en&gl=US)
+
+![Smartphone showing the logo for ThryvPay, Thryv's online payment processor for small business](/media/demo-thryvpay-phone.png)
+
+Quick question.Are you open and operating yet?
+
+Tons of businesses use Thryv. _Tell us a little about yours._
+
+First and Last Name\*
+
+Business Name\*
+
+If unable to locate your business in the dropdown above, please call [(555) 555-5555](tel:5555555555)
+
+Phone Number\*
+
 Number of Employees
 
-Select Number of EmployeesONLY ME2-4 EMPLOYEES5-9 EMPLOYEES10-20 EMPLOYEES21-49 EMPLOYEES50+ EMPLOYEES
+Select Number of Employees ONLY ME 2-4 EMPLOYEES 5-9 EMPLOYEES 10-20 EMPLOYEES 21-49 EMPLOYEES 50+ EMPLOYEES
 
-                     
+Number of Locations
+
+                            
+
+Are you a franchise?
+
+ Yes
+
+ No
 
 Something went wrong
 
 LOADING
 
 Next
+
+Loading...
 
 Something went wrong
 
@@ -533,14 +604,6 @@ Something went wrong
 
 Pick a Time Central Time [EDIT TIME](#choose-new-time)
 
-Pick a Time Central Time [EDIT TIME](#choose-new-time)
-
-Pick a Time Central Time [EDIT TIME](#choose-new-time)
-
-Pick a Time Central Time [EDIT TIME](#choose-new-time)
-
-Pick a Time Central Time [EDIT TIME](#choose-new-time)
-
 LOADING
 
 Schedule Demo
@@ -557,6 +620,12 @@ Schedule Demo
 
 ![](/media/demo-logo-getapp-2019.png)
 
+Ready to chat?
+
+Our specialists are ready to show you exactly how Thryv works with a personalized demo. 15 minute or less, no pressure and no obligation.
+
+Schedule Demo
+
 Watch how Thryv helps businesses like yours  
 _get the job, manage the job, and get credit._
 
@@ -566,7 +635,6 @@ Our specialists are ready to show you exactly how Thryv works.
 
 * End-to-end client experience software
 * Personalized demo
-* 15 minutes or less
 * No pressure, no obligation
 
 Schedule a Demo
@@ -579,26 +647,16 @@ _Thank you!_We are excited to show you Thryv.
 
 Friday, August 11 at 11:00 AM Eastern Daylight Time
 
-![](/media/ba-jonathan-mitchell.jpg)
+Add to Calendar
 
-![](/media/ba-jonathan-mitchell.jpg)
+![](/media/Profile.png)
+
+![](/media/Profile.png)
 
 Jonathan Mitchell
 
 Thryv Business Specialist  
 Dallas, TX
-
-Show up and win!$399+ value!
-
-Complete your demo and enter to win the prize of your choice.
-
-![](/media/prize-offer-1.png)
-
-![](/media/prize-offer-2.png)
-
-![](/media/prize-offer-3.png)
-
-\*No purchase necessary. See [official rules](https://www.thryv.com/media/Thryv-Weekly-Winner-Official-Rules-8-3-21.pdf) for complete details.
 
 ![](/media/demo-logo-g2-2020.png)
 
