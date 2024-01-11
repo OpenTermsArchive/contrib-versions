@@ -22,7 +22,7 @@ The [spam policies](https://support.google.com/search/docs/essentials/spam-polic
 Key best practices
 ------------------
 
-While there are [many things](https://support.google.com/search/docs) you can do to improve your site's SEO, there are a few core practices that can have the most impact on your web content's ranking and appearance on Google Search:
+While there are many things you can do to [improve your site's SEO](https://support.google.com/search/docs), there are a few core practices that can have the most impact on your web content's ranking and appearance on Google Search:
 
 * [Create helpful, reliable, people-first content](https://support.google.com/search/docs/fundamentals/creating-helpful-content).
 * Use words that people would use to look for your content, and place those words in prominent locations on the page, such as the [title and main heading](https://support.google.com/search/docs/appearance/title-link#page-titles) of a page, and other descriptive locations such as [alt text](https://support.google.com/search/docs/appearance/google-images#use-descriptive-alt-text) and link text.
