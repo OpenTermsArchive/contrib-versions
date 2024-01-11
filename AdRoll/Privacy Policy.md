@@ -579,7 +579,7 @@ Once we receive and confirm your verifiable consumer request (see [Exercising Ri
 
 To exercise the right to know, data portability and deletion rights described above, please submit the consumer request to us by either:
 
-* Calling us at 1-760-716-6062; or
+* Calling us at 1-833-953-2919; or
     
 * Visiting our [privacy requests webpage.](https://preferences.nextroll.com/privacy)
     
@@ -662,7 +662,7 @@ For information on the sale of your personal information and how to opt out, see
 
 To exercise the right to know (access), data portability and deletion rights (right to be forgotten), please submit the consumer request to us by either:
 
-* Calling us at 1-760-716-6062; or
+* Calling us at 1-833-953-2919; or
 * Visiting our [privacy requests webpage](https://preferences.nextroll.com/privacy).
 
 ### 16\. Information for Individuals Located in Brazil
@@ -1155,7 +1155,7 @@ Once we receive and confirm your verifiable consumer request (see [Exercising Ri
 
 To exercise the access, data portability, and deletion rights described above, please submit the consumer request to us by either.
 
-* Calling us at 1-760-716-6062; or
+* Calling us at 1-833-953-2919; or
 * Visiting our privacy requests [webpage](https://preferences.nextroll.com/privacy).
 
 After submitting the request, a form will be sent to the requestor to verify the consumer request.
