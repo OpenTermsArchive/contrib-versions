@@ -470,7 +470,7 @@ We are IKEA Ireland Limited (“I**KEA**” or “**we**”, “**us**”), 
     
     If you have any questions about this Privacy Policy or your rights under it, please contact Philip Cooke – IKEA UK&IE Data Protection Officer IKEA Ireland Limited, Customer Support Centre, Kingston Park, Peterborough, PE2 9ET, United Kingdom 
     
-    01 541 3300 
+    01 696 6246
     
     [dataprotection.officer.ie@ingka.ikea.com](mailto:dataprotection.officer.ie@ingka.ikea.com)  
     
