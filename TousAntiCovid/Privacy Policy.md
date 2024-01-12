@@ -3,8 +3,8 @@
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#footer)
 
-[![Accueil Ministère de la Santé et de la Prévention](IMG/logo/siteon0.png?1703596770)](http://sante.gouv.fr/)
-==============================================================================================================
+ [![Accueil Ministère de la Santé et de la Prévention](local/adapt-img/130/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079039)](http://sante.gouv.fr/)
+=================================================================================================================================================================
 
  Rechercher :
 
@@ -57,14 +57,14 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de la Prévention](https://sante.gouv.fr/ministere/)
-        * [La ministre de la Santé et de la Prévention, ministre chargée de l’Organisation territoriale et des Professions de santé](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/)
-            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/agnes-firmin-le-bodo/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/organisation-11312/)
+    * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
+        * [La ministre du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/catherine-vautrin/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère de la Santé et de la Prévention](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-la-prevention)
+        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -98,7 +98,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère de la Santé et de la Prévention](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-la-prevention)
+        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
         * [Les métiers du soin et de l’accompagnement recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -690,7 +690,7 @@ sur les réseaux sociaux
 * [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
 * [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend)
 
-![Accueil Ministère de la Santé et de la Prévention](IMG/logo/siteon0.png?1703596770) 
+ ![Accueil Ministère de la Santé et de la Prévention](local/adapt-img/200/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079039) 
 
 * [www.legifrance.gouv.fr](http://www.legifrance.gouv.fr/)
 * [www.service public.fr](http://www.service-public.fr/)
@@ -711,8 +711,8 @@ Sauf mention contraire, tous les contenus de ce site sont sous [licence etalab-2
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#footer)
 
-[![Accueil Ministère de la Santé et de la Prévention](IMG/logo/siteon0.png?1703596770)](http://sante.gouv.fr/)
-==============================================================================================================
+ [![Accueil Ministère de la Santé et de la Prévention](local/adapt-img/130/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079039)](http://sante.gouv.fr/)
+=================================================================================================================================================================
 
  Rechercher :
 
@@ -765,14 +765,14 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de la Prévention](https://sante.gouv.fr/ministere/)
-        * [La ministre de la Santé et de la Prévention, ministre chargée de l’Organisation territoriale et des Professions de santé](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/)
-            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/agnes-firmin-le-bodo/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/organisation-11312/)
+    * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
+        * [La ministre du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/catherine-vautrin/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère de la Santé et de la Prévention](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-la-prevention)
+        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -806,7 +806,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère de la Santé et de la Prévention](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-la-prevention)
+        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
         * [Les métiers du soin et de l’accompagnement recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -1393,8 +1393,8 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mo)](https://
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#footer)
 
-[![Accueil Ministère de la Santé et de la Prévention](IMG/logo/siteon0.png?1703596770)](http://sante.gouv.fr/)
-==============================================================================================================
+ [![Accueil Ministère de la Santé et de la Prévention](local/adapt-img/130/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079039)](http://sante.gouv.fr/)
+=================================================================================================================================================================
 
  Rechercher :
 
@@ -1447,14 +1447,14 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de la Prévention](https://sante.gouv.fr/ministere/)
-        * [La ministre de la Santé et de la Prévention, ministre chargée de l’Organisation territoriale et des Professions de santé](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/)
-            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/agnes-firmin-le-bodo/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/organisation-11312/)
+    * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
+        * [La ministre du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/catherine-vautrin/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère de la Santé et de la Prévention](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-la-prevention)
+        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -1488,7 +1488,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère de la Santé et de la Prévention](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-la-prevention)
+        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
         * [Les métiers du soin et de l’accompagnement recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -1978,28 +1978,28 @@ Recherche
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#footer)
 
-[![Accueil Ministère de la Santé et de la Prévention](IMG/logo/siteon0.png?1703596770)](http://sante.gouv.fr/)
-==============================================================================================================
+ [![Accueil Ministère de la Santé et de la Prévention](local/adapt-img/130/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079039)](http://sante.gouv.fr/)
+=================================================================================================================================================================
 
  Rechercher :
 
 Recherche 
 
-[![Accueil Ministère de la Santé et de la Prévention](IMG/logo/siteon0.png?1703596770)](http://sante.gouv.fr/)
-==============================================================================================================
+ [![Accueil Ministère de la Santé et de la Prévention](local/adapt-img/130/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079039)](http://sante.gouv.fr/)
+=================================================================================================================================================================
 
  Rechercher :
 
 Recherche 
 
-[![Accueil Ministère de la Santé et de la Prévention](IMG/logo/siteon0.png?1703596770)](http://sante.gouv.fr/)
-==============================================================================================================
+ [![Accueil Ministère de la Santé et de la Prévention](local/adapt-img/130/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079039)](http://sante.gouv.fr/)
+=================================================================================================================================================================
 
-[![Accueil Ministère de la Santé et de la Prévention](IMG/logo/siteon0.png?1703596770)](http://sante.gouv.fr/)
-==============================================================================================================
+ [![Accueil Ministère de la Santé et de la Prévention](local/adapt-img/130/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079039)](http://sante.gouv.fr/)
+=================================================================================================================================================================
 
-[![Accueil Ministère de la Santé et de la Prévention](IMG/logo/siteon0.png?1703596770)](http://sante.gouv.fr/)
-==============================================================================================================
+ [![Accueil Ministère de la Santé et de la Prévention](local/adapt-img/130/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079039)](http://sante.gouv.fr/)
+=================================================================================================================================================================
 
  Rechercher :
 
@@ -2060,14 +2060,14 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de la Prévention](https://sante.gouv.fr/ministere/)
-        * [La ministre de la Santé et de la Prévention, ministre chargée de l’Organisation territoriale et des Professions de santé](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/)
-            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/agnes-firmin-le-bodo/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/organisation-11312/)
+    * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
+        * [La ministre du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/catherine-vautrin/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère de la Santé et de la Prévention](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-la-prevention)
+        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -2101,7 +2101,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère de la Santé et de la Prévention](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-la-prevention)
+        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
         * [Les métiers du soin et de l’accompagnement recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -2417,14 +2417,14 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de la Prévention](https://sante.gouv.fr/ministere/)
-        * [La ministre de la Santé et de la Prévention, ministre chargée de l’Organisation territoriale et des Professions de santé](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/)
-            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/agnes-firmin-le-bodo/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/organisation-11312/)
+    * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
+        * [La ministre du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/catherine-vautrin/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère de la Santé et de la Prévention](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-la-prevention)
+        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -2458,7 +2458,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère de la Santé et de la Prévention](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-la-prevention)
+        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
         * [Les métiers du soin et de l’accompagnement recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -2774,14 +2774,14 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de la Prévention](https://sante.gouv.fr/ministere/)
-        * [La ministre de la Santé et de la Prévention, ministre chargée de l’Organisation territoriale et des Professions de santé](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/)
-            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/agnes-firmin-le-bodo/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/organisation-11312/)
+    * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
+        * [La ministre du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/catherine-vautrin/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère de la Santé et de la Prévention](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-la-prevention)
+        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -2815,7 +2815,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère de la Santé et de la Prévention](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-la-prevention)
+        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
         * [Les métiers du soin et de l’accompagnement recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -3131,14 +3131,14 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de la Prévention](https://sante.gouv.fr/ministere/)
-        * [La ministre de la Santé et de la Prévention, ministre chargée de l’Organisation territoriale et des Professions de santé](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/)
-            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/agnes-firmin-le-bodo/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/organisation-11312/)
+    * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
+        * [La ministre du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/catherine-vautrin/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère de la Santé et de la Prévention](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-la-prevention)
+        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -3172,7 +3172,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère de la Santé et de la Prévention](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-la-prevention)
+        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
         * [Les métiers du soin et de l’accompagnement recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -3488,14 +3488,14 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de la Prévention](https://sante.gouv.fr/ministere/)
-        * [La ministre de la Santé et de la Prévention, ministre chargée de l’Organisation territoriale et des Professions de santé](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/)
-            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/agnes-firmin-le-bodo/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/organisation-11312/)
+    * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
+        * [La ministre du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/catherine-vautrin/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère de la Santé et de la Prévention](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-la-prevention)
+        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -3529,7 +3529,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère de la Santé et de la Prévention](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-la-prevention)
+        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
         * [Les métiers du soin et de l’accompagnement recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -3845,14 +3845,14 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de la Prévention](https://sante.gouv.fr/ministere/)
-        * [La ministre de la Santé et de la Prévention, ministre chargée de l’Organisation territoriale et des Professions de santé](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/)
-            * [Agnès Firmin Le Bodo](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/agnes-firmin-le-bodo/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-la-prevention-ministre-chargee-de-l-organisation/organisation-11312/)
+    * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
+        * [La ministre du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/catherine-vautrin/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère de la Santé et de la Prévention](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-la-prevention)
+        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -3886,7 +3886,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère de la Santé et de la Prévention](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-la-prevention)
+        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
         * [Les métiers du soin et de l’accompagnement recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -6336,7 +6336,7 @@ sur les réseaux sociaux
 * [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
 * [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend)
 
-![Accueil Ministère de la Santé et de la Prévention](IMG/logo/siteon0.png?1703596770) 
+ ![Accueil Ministère de la Santé et de la Prévention](local/adapt-img/200/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079039) 
 
 * [Plan du site](https://sante.gouv.fr/spip.php?page=plan)
 * [Accessibilité : partiellement conforme](https://sante.gouv.fr/ministere/article/declaration-d-accessibilite-du-site-sante-gouv-fr)
