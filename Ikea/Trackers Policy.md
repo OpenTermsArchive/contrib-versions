@@ -4,15 +4,15 @@ Cookie Policy
 **About this Cookie policy**
 ----------------------------
 
-This Cookie policy explains what cookies are and how we use them. You should read this policy so you can understand what type of cookies we use, the information we collect using cookies and how that information is used. For further information on how we use, store and keep your personal data secure, see our  [**Privacy policy**](https://www.ikea.com/ie/en/customer-service/privacy-policy/).
+This Cookie policy explains what cookies are and how we use them. You should read this policy so you can understand what type of cookies we use, the information we collect using cookies and how that information is used. For further information on how we use, store and keep your personal data secure, see our  [Privacy policy](https://www.ikea.com/ie/en/customer-service/privacy-policy/).
 
 This Policy also tells you what your rights are in relation to the personal data you give to us. If you have any questions about this Cookie policy, please contact: 
 
 **Address**: IKEA, Customer Support Centre, Kingston Park, Peterborough, PE2 9ET, United Kingdom\*
 
-**Phone**: [01 541 3300\*\*](https://www.ikea.com/01%20541%203300**)
+**Phone**: 01 696 6246[\*\*](https://publicera.ingka.com/ie/en/01%20541%203300**)
 
-**Email**: [dataprotection.officer.ie@ingka.ikea.com](https://www.ikea.com/dataprotection.officer.ie@ingka.ikea.com) 
+**Email**: dataprotection.officer.ie@ingka.ikea.com
 
 \*Note that if you contact us by post, international postage charges may apply 
 
@@ -101,13 +101,13 @@ This Policy also tells you what your rights are in relation to the personal data
     * uid 
     
       
-    **Olapic** These are targeting cookies which help us manage the technology and cookies which are used across our site. We also use social media buttons on our site which allow you to share content and interact with your social network on platforms like Facebook, Instagram and Twitter. These social media platforms may set their own cookies on your device. We do not control the settings of these cookies so we suggest you check the respective social media website for more information about their cookies and how to manage them. For our social media buttons to work, Pinterest and Olapic set cookies on our site which may be used to optimise any profile you may have on their site. You can change your preferences on Olapic site by clicking here: [https://www.olapic.com/trust/](https://www.olapic.com/trust/) and you can change your preferences on Pinterest here: [https://www.pinterest.com/?next=/settings/](https://www.pinterest.com/?next=/settings/) 
+    **Olapic** These are targeting cookies which help us manage the technology and cookies which are used across our site. We also use social media buttons on our site which allow you to share content and interact with your social network on platforms like Facebook, Instagram and Twitter. These social media platforms may set their own cookies on your device. We do not control the settings of these cookies so we suggest you check the respective social media website for more information about their cookies and how to manage them. For our social media buttons to work, Pinterest and Olapic set cookies on our site which may be used to optimise any profile you may have on their site. You can change your preferences on Olapic site by clicking here:  [https://www.olapic.com/trust/](https://www.olapic.com/trust/) and you can change your preferences on Pinterest here:  [https://www.pinterest.com/?next=/settings/](https://www.pinterest.com/?next=/settings/) 
     
     * analyticsId 
     * \_pin\_unauth
     * \_pinterest\_ct\_ua 
     
-    **Facebook**These are targeting cookies which allow us to place advertising content onto Facebook that is relevant to you based on your browsing patterns on our website. This information is never connected to your profile and it is always anonymous. You can read more and change your preferences on Facebook here: [https://www.facebook.com/policies/cookies/](https://www.facebook.com/policies/cookies/) You can control and opt-out of Facebook adverts and other third-party cookies here: [https://www.youronlinechoices.com/ie/your-ad-choices](https://www.ikea.com/%E2%80%AFhttps://www.youronlinechoices.com/ie/your-ad-choices) 
+    **Facebook**These are targeting cookies which allow us to place advertising content onto Facebook that is relevant to you based on your browsing patterns on our website. This information is never connected to your profile and it is always anonymous. You can read more and change your preferences on Facebook here:  [https://www.facebook.com/policies/cookies/](https://www.facebook.com/policies/cookies/) . You can control and opt-out of Facebook adverts and other third-party cookies here:  [https://www.youronlinechoices.com/ie/your-ad-choices](https://www.youronlinechoices.com/ie/your-ad-choices) 
     
     * \_fbp 
     * fr
