@@ -36,7 +36,7 @@ Mix respects the privacy of its users. This Privacy Policy (**"Privacy Policy"**
 
 ##### About Us
 
-We are Mix Tech, Inc. (**"Mix"**, **"us"**, **"we"** or **"our"**), a corporation registered under the laws of the state of Delaware in the United States with its principal office address at 660 4th Street #558, San Francisco, CA 94107, USA.
+We are Mix Media Group, LLC. (**"Mix"**, **"us"**, **"we"** or **"our"**), a corporation registered under the laws of the state of Delaware in the United States with its principal office address at 660 4th Street #558, San Francisco, CA 94107, USA.
 
 * * *
 
@@ -389,7 +389,7 @@ The legal basis is Article 6 sec. 1 sent. 1 lit. f ("legitimate interest") GDPR.
 
 If you have any questions about our privacy practices or this Privacy Policy, or to exercise your rights as detailed in this Privacy Policy, please contact us at:
 
-Mix Tech, Inc.  
+Mix Media Group, LLC.  
 660 4th Street #558, San Francisco, CA 94107, USA.  
 [support@mix.com](https://mix.com/support@mix.com)
 
