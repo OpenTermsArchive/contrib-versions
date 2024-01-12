@@ -7,7 +7,7 @@ LAST UPDATED: September 15, 2023
 
 * * *
 
-We are Mix Tech, Inc. ("**Mix**", "**us**", "**we**" or "**our**"), a corporation registered under the laws of the state of Delaware in the United States with its principal office address at 660 4th Street #558, San Francisco, CA 94107, USA.
+We are Mix Media Group, LLC. ("**Mix**", "**us**", "**we**" or "**our**"), a corporation registered under the laws of the state of Delaware in the United States with its principal office address at 660 4th Street #558, San Francisco, CA 94107, USA.
 
 * * *
 
@@ -115,7 +115,7 @@ For all other copyright notifications, please provide our Copyright Agent with t
 
 Contact information for our Copyright Agent for notice of claims of copyright infringement is as follows:
 
-Mix Tech, Inc.  
+Mix Media Group, LLC.  
 Attn: Copyright Agent  
 660 4th Street #558  
 San Francisco, CA 94107  
