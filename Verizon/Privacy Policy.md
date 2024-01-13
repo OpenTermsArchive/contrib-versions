@@ -472,7 +472,7 @@ Open all
     ### You have choices about participating in Verizon programs that use web browsing and other information to personalize your experiences with us.
     
     **Custom Experience**  
-    You will be part of the Custom Experience program unless you opt out. You can opt out on the My Verizon site or in your My Verizon app by accessing [privacy preferences](https://myvpostpay.verizonwireless.com/vzw/secure/mcm/mcmDisplayPreferences.action), or you can call us at 866.211.0874.
+    You will be part of the Custom Experience program unless you opt out. You can opt out on the My Verizon site or in your My Verizon app by accessing [privacy preferences](https://myvpostpay.verizon.com/ui/acct/secure/profile/privacypreferences), or you can call us at 866.211.0874.
     
     **Custom Experience Plus**  
     You must opt in to the Custom Experience Plus program to be a part of it and you can change your choice at any time on the My Verizon site or in your My Verizon app by accessing [privacy preferences.](https://myvpostpay.verizon.com/ui/acct/secure/profile/privacypreferences)
