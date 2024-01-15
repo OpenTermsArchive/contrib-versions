@@ -11,6 +11,8 @@ _Pour consulter la version des Conditions Générales d'Utilisation en vigueur d
 
 _Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 04.07.2023 au 19.10.2023, cliquez [ici](https://fr.shopping.rakuten.com/cdn/legal/5.0_CGU_en_vigueur_entre_le_4_juillet_2023_et_le_19_octobre_2023.pdf?vh=c0d9bf&func=proxy)._ 
 
+__Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 20.10.2023 au 14.01.2024, cliquez [ici](https://fr.shopping.rakuten.com/cdn/legal/CGU/6.0_CGU_en_vigueur_%C3%A0_compter_du_20_octobre_2023.pdf?vh=c5e6cf&func=proxy).__
+
 **PRÉAMBULE**
 
 Le service d'annonces en ligne Rakuten est édité et hébergé par la société Rakuten France ( « Rakuten »), société par actions simplifiée au capital de 355 964,80 euros, dont le siège social est sis 92 rue Réaumur, 75002 PARIS, France, immatriculée au Registre du commerce et des sociétés de Paris sous le numéro B 432 647 584, Tél. : 09.70.75.64.60 (appel non surtaxé) - Fax : 01.42.78.80.61 - [courrier électronique](https://fr.shopping.rakuten.com/help/cnh-oth-contact-us), numéro de TVA Intracommunautaire FR23432647584, enregistrée à l'ORIAS sous le numéro 13005139. Rakuten est un agent mandaté par la société Rakuten Europe Bank, société anonyme de droit luxembourgeois dont le siège est sis 2 rue du Fossé, 1536 LUXEMBOURG, immatriculée au Registre du commerce de Luxembourg sous le numéro B181868 et par la société MangoPay, société anonyme de droit luxembourgeois dont le siège social est situé 2 avenue Amélie, 2449 LUXEMBOURG, immatriculée au Registre du commerce et des sociétés de Luxembourg sous le numéro B173459, pour fournir des services de paiement.
