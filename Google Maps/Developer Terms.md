@@ -882,6 +882,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Data Gouv France: [https://transport.data.gouv.fr/datasets/base-nationale-consolidee-des-zones-a-faibles-emissions#dataset-other-datasets](https://transport.data.gouv.fr/datasets/base-nationale-consolidee-des-zones-a-faibles-emissions#dataset-other-datasets)
             
+        * Legifrance: [https://www.legifrance.gouv.fr/contenu/pied-de-page/open-data-et-api](https://www.legifrance.gouv.fr/contenu/pied-de-page/open-data-et-api)
+            
     19. **Gambia**
         * Gambia National Disaster Management Agency (NDMA) - [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
             
@@ -1314,9 +1316,12 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Created by BreezoMeter Ltd. based on "Japan env" (Ministry of the Environment) ([https://www.env.go.jp/](https://www.env.go.jp/))
             
     36. **Liechtenstein**
-        
-        “Liechtensteinische Landesverwaltung“ - [https://service.geo.llv.li/download//officialStreet/AbiOGDLizenz.pdf](https://service.geo.llv.li/download//officialStreet/AbiOGDLizenz.pdf)
-        
+        * “Liechtensteinische Landesverwaltung“ - [https://service.geo.llv.li/download//officialStreet/AbiOGDLizenz.pdf](https://service.geo.llv.li/download//officialStreet/AbiOGDLizenz.pdf)
+            
+        * Landesverwaltung Fuerstentum Liechtenstein - [https://www.gesetze.li/konso/suche](https://www.gesetze.li/konso/suche)
+            
+        * Landesverwaltung Fuerstentum Liechtenstein - [https://www.llv.li/de/navigation/footer-nav/rechtshinweise](https://www.llv.li/de/navigation/footer-nav/rechtshinweise)
+            
     37. **Lithuania**
         * The Lithuanian Spatial Information Portal - [https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)
         * National Access Point (LT): [https://maps.eismoinfo.lt/portal/apps/sites/#/npp/pages/network](https://maps.eismoinfo.lt/portal/apps/sites/#/npp/pages/network)
