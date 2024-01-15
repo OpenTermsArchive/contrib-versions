@@ -1,7 +1,7 @@
 Conditions Générales d'Utilisation
 ==================================
 
-_**Version mise à jour le 20 octobre 2023**_
+_**Version mise à jour le 15 janvier 2024**_
 
 _Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 20.05.2021 au 23.09.2021, cliquez [ici](https://fr.shopping.rakuten.com/visuels/0_merch/contest/reglement/2_0_CGU_en%20vigueur_entre_le_20210520_et_20210924.pdf)._
 
@@ -87,11 +87,13 @@ Les présentes Conditions Générales d'Utilisation de la Plateforme Rakuten ont
 
 **4.2** Rakuten notifiera la réception et l'encaissement du Prix de la Transaction à l'Acheteur et au Vendeur par courrier électronique (la « Notification »). La Notification adressée par courrier électronique à l'Acheteur comportera l'indication du moyen par lequel l'Acheteur doit confirmer la bonne réception et la conformité du Produit par le biais de la notation du Vendeur, selon les modalités définies par l’Aide en ligne (à la rubrique « [J'ai bien reçu ma commande : confirmer la réception et noter mon vendeur](https://fr.shopping.rakuten.com/newhelp/comment-noter-mon-vendeur/) »), ou, à défaut, déposer une Réclamation selon les modalités définies au chapitre 8 (« [Réclamations et droit de rétractation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/#ancre8) »).
 
-**4.3** Rakuten est seul habilité à donner ordre au compte séquestre de procéder au paiement, au bénéfice du Vendeur, du Prix de la Transaction déduction faite de la Commission et des frais de Protection Acheteur (ci-après la libération du Prix de la Transaction) lorsque l'Acheteur confirme à Rakuten la bonne réception du Produit conforme à l'offre et lui donnant satisfaction à cet égard par le biais de la notation du Vendeur, selon les modalités définies par l’Aide en ligne (à la rubrique « [J'ai bien reçu ma commande : confirmer la réception et noter mon vendeur](https://fr.shopping.rakuten.com/newhelp/comment-noter-mon-vendeur/) »), ou (ii), à défaut, au terme d’un délai maximal de trente (30) jours à compter de la date de confirmation de la disponibilité du Produit par le Vendeur, selon celui de ces événements qui survient le premier. 
+**4.3** Rakuten est seul habilité à donner ordre au compte séquestre de procéder au paiement, du Prix de la Transaction déduction faite de la Commission et des frais de Protection Acheteur (ci-après la libération du Prix de la Transaction) au bénéfice du Vendeur Non-Professionnel, lorsque l'Acheteur confirme à Rakuten la bonne réception du Produit conforme à l'offre et lui donnant satisfaction à cet égard par le biais de la notation du Vendeur, selon les modalités définies par l’Aide en ligne (à la rubrique « [J'ai bien reçu ma commande : confirmer la réception et noter mon vendeur](https://fr.shopping.rakuten.com/newhelp/comment-noter-mon-vendeur/) »), ou (ii), à défaut, au terme d’un délai maximal de trente (30) jours à compter de la date de confirmation de la disponibilité du Produit par le Vendeur Non-Professionnel, selon celui de ces événements qui survient le premier. 
 
-**4.4** D'autre part, dans le cas où le Vendeur fournit à Rakuten le numéro de suivi et/ou toutes les informations permettant de suivre la livraison du colis sur le site du transporteur, Rakuten donnera ordre au compte séquestre de procéder au paiement sous cinq (5) jours ouvrés maximum suivant la livraison au domicile de l'Acheteur ou la récupération effective du Produit par l’Acheteur selon le mode de livraison concerné.
+**4.4** D'autre part, dans le cas où le Vendeur Non-Professionnel fournit à Rakuten le numéro de suivi et/ou toutes les informations permettant de suivre la livraison du colis sur le site du transporteur, Rakuten donnera ordre au compte séquestre de procéder au paiement sous cinq (5) jours ouvrés maximum suivant la livraison au domicile de l'Acheteur ou la récupération effective du Produit par l’Acheteur selon le mode de livraison concerné.
 
 Ce reversement s'opérera selon les modalités indiquées dans l’[Aide en ligne](https://help.fr.shopping.rakuten.net/hc/fr).
+
+Rakuten donnera ordre au compte séquestre de procéder au paiement du Prix de la Transaction déduction faite de la Commission et des frais de Protection Acheteur, au bénéfice du Vendeur Professionnel, conformément aux délais établis à l’article 4.1 des [Conditions Particulières applicables aux vendeurs pressionnels](https://help.fr.shopping.rakuten.net/hc/fr/articles/5179956470418-Conditions-particuli%C3%A8res-Vendeurs-professionnels).
 
 **4.5** À défaut de confirmation de l'Acheteur de la bonne réception et de la conformité du Produit par le biais de la notation, ou de Réclamation déposée dans les conditions du chapitre 8 (« [Réclamations et droit de rétractation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/#ancre8) »), son accord sur la Transaction sera réputé acquis selon les conditions définies dans le chapitre 8.
 
@@ -390,6 +392,15 @@ TOUT LITIGE AVEC UN MEMBRE ET NÉ A L’OCCASION DE SON INTERPRETATION ET/OU DE 
 ANNEXES**
 
 **Annexe I**
+
+**_Article L. 217-3 du Code de la consommation_**
+
+_Le vendeur délivre un bien conforme au contrat ainsi qu'aux critères énoncés à l'article_ [_L. 217-5_](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000032221275&dateTexte=&categorieLien=cid "Code de la consommation - art. L217-5 (V)")_.__Il répond des défauts de conformité existant au moment de la délivrance du bien au sens de l'article_ [_L. 216-1_](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000032221249&dateTexte=&categorieLien=cid "Code de la consommation - art. L216-1 (V)")_, qui apparaissent dans un délai de deux ans à compter de celle-ci._
+
+_Dans le cas d'un contrat de vente d'un bien comportant des éléments numériques :__1° Lorsque le contrat prévoit la fourniture continue d'un contenu numérique ou d'un service numérique pendant une durée inférieure ou égale à deux ans, ou lorsque le contrat ne détermine pas la durée de fourniture, le vendeur répond des défauts de conformité de ce contenu numérique ou de ce service numérique qui apparaissent dans un délai de deux ans à compter de la délivrance du bien ;  
+2° Lorsque le contrat prévoit la fourniture continue d'un contenu numérique ou d'un service numérique pendant une durée supérieure à deux ans, le vendeur répond des défauts de conformité de ce contenu numérique ou de ce service numérique qui apparaissent au cours de la période durant laquelle celui-ci est fourni en vertu du contrat.  
+Pour de tels biens, le délai applicable ne prive pas le consommateur de son droit aux mises à jour conformément aux dispositions de l'article_ [_L. 217-19_](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000032221307&dateTexte=&categorieLien=cid "Code de la consommation - art. L217-19 (V)")_.__Le vendeur répond également, durant les mêmes délais, des défauts de conformité résultant de l'emballage, des instructions de montage, ou de l'installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité, ou encore lorsque l'installation incorrecte, effectuée par le consommateur comme prévu au contrat, est due à des lacunes ou erreurs dans les instructions d'installation fournies par le vendeur.  
+Ce délai de garantie s'applique sans préjudice des_ [_articles 2224 et suivants du code civil_](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006447327&dateTexte=&categorieLien=cid "Code civil - art. 2224 (V)")_. Le point de départ de la prescription de l'action du consommateur est le jour de la connaissance par ce dernier du défaut de conformité._
 
 **_Article L. 217-4 du Code de la consommation_**
 
