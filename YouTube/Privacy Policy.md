@@ -13,7 +13,7 @@ Looking to change your privacy settings?
 
 [Take the Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro)
 
-Effective November 15, 2023 | [Archived versions](https://policies.google.com/privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20231115/sh7gs0by/google_privacy_policy_en_eu.pdf)
+Effective January 15, 2024 | [Archived versions](https://policies.google.com/privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf//google_privacy_policy_en_eu.pdf)
 
 Contents
 --------
@@ -102,20 +102,20 @@ You can visit your Google Account to find and manage activity information that�
 
 ### Your location information
 
-We collect information about your location when you use our services, which helps us offer features like driving directions, search results for things near you, and ads based on your general location.
+We collect location information when you use our services, which helps us offer features like driving directions, search results for things near you, and ads based on your location.
 
-Your location can be determined with varying degrees of accuracy by:
+Depending on the products you’re using and settings you choose, Google may use different types of location information to help make some services and products you use more helpful. These include:
 
 * GPS and other [sensor data from your device](https://policies.google.com/privacy#footnote-sensor-data)
 * [IP address](https://policies.google.com/privacy#footnote-ip)
-* Activity on Google services, such as your searches and places you label like home or work
+* [Activity on Google services](https://policies.google.com/privacy#footnote-activity-on-services), such as from your searches or [places you label like home or work](https://policies.google.com/privacy#footnote-places-you-label)
 * [Information about things near your device](https://policies.google.com/privacy#footnote-near-device), such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices
 
 The types of location data we collect and how long we store it depend in part on your device and account settings. For example, you can [turn your Android device’s location on or off](https://support.google.com/accounts?p=privpol_location) using the device’s settings app. You can also turn on [Location History](https://support.google.com/accounts?p=privpol_lochistory) if you want to create a private map of where you go with your signed-in devices. And if your Web & App Activity setting is enabled, your searches and other activity from Google services, which may also include location information, is saved to your Google Account. Learn more about [how we use location information](https://policies.google.com/technologies/location-data).
 
 * * *
 
-In some circumstances, Google also collects information about you from [publicly accessible sources](https://policies.google.com/privacy#footnote-sources). For example, if your name appears in your local newspaper, Google’s Search engine may index that article and display it to other people if they search for your name. We may also collect information about you from trusted partners, such as directory services who provide us with business information to be displayed on Google’s services, marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to [protect against abuse](https://policies.google.com/privacy#footnote-against-abuse). We also receive information from advertising partners to provide [advertising and research services on their behalf](https://policies.google.com/privacy#footnote-ad-services).
+In some circumstances, Google also collects information about you from [publicly accessible sources](https://policies.google.com/privacy#footnote-sources). For example, if your name appears in your local newspaper, Google’s Search engine may index that article and display it to other people if they search for your name. We may also collect information about you from trusted partners, such as directory services who provide us with business information to be displayed on Google’s services, marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to [protect against abuse](https://policies.google.com/privacy#footnote-against-abuse). We also receive information from partners to provide [advertising and research services on their behalf](https://policies.google.com/privacy#footnote-ad-services).
 
 We use various technologies to collect and store information, including [cookies](https://policies.google.com/privacy#footnote-cookies), [pixel tags](https://policies.google.com/privacy#footnote-pixel), local storage, such as [browser web storage](https://policies.google.com/privacy#footnote-browser-storage) or [application data caches](https://policies.google.com/privacy#footnote-application-data-cache), databases, and [server logs](https://policies.google.com/privacy#footnote-server-logs).
 
@@ -152,7 +152,7 @@ Depending on your settings, we may also show you [personalized ads](https://poli
 
 ### Measure performance
 
-We use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we also use data about the ads you interact with to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sites or use apps that use Google Analytics, a Google Analytics customer may choose to enable Google to [link information](https://policies.google.com/privacy#footnote-link-info) about your activity from that site or app with activity from other sites or apps that use our ad services.
+We use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we also use data about the ads you interact with, including your related Google Search activity, to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sites or use apps that use Google Analytics, a Google Analytics customer may choose to enable Google to [link information](https://policies.google.com/privacy#footnote-link-info) about your activity from that site or app with activity from other sites or apps that use our ad services.
 
 ### Communicate with you
 
@@ -396,7 +396,7 @@ Unless otherwise stated in a service-specific privacy notice, the [data controll
 * Google Ireland Limited for users of Google services based in the European Economic Area or Switzerland, located at Gordon House, Barrow Street, Dublin 4, Ireland.
 * Google LLC for users of Google services based in the United Kingdom, located at 1600 Amphitheatre Parkway, Mountain View, California 94043, USA.
 
-Google LLC is the data controller responsible for processing information indexed and displayed in services like [Google Search](https://www.google.com/search/howsearchworks/crawling-indexing/) and Google Maps regardless of your location.
+Google LLC is the data controller responsible for processing information indexed and displayed in services like [Google Search](https://www.google.com/search/howsearchworks/crawling-indexing/) and Google Maps regardless of your location. Google Ireland Limited is the data controller responsible for processing information to train Google’s AI models for the purpose of deploying them in services provided by Google Ireland Limited in the European Economic Area or Switzerland.
 
 ### Legal bases of processing
 
@@ -506,7 +506,7 @@ You may access some of our services by signing up for a [Google Account](https:/
 
 ### IP address
 
-Every device connected to the Internet is assigned a number known as an Internet protocol (IP) address. These numbers are usually assigned in geographic blocks. An IP address can often be used to identify the location from which a device is connecting to the Internet.
+Every device connected to the Internet is assigned a number known as an Internet protocol (IP) address. These numbers are usually assigned in geographic blocks. An IP address can often be used to identify the location from which a device is connecting to the Internet. Learn more about [how we use location information.](https://policies.google.com/technologies/location-data)
 
 ### Non-personally identifiable information
 
@@ -536,13 +536,13 @@ A typical log entry for a search for “cars” looks like this:
 
 123.45.67.89 - 25/Mar/2003 10:15:32 -  
 http://www.google.com/search?q=cars -  
-Firefox 1.0.7; Windows NT 5.1 -  
+Chrome 112; OS X 10.15.7 -  
 740674ce2123e969
 
 * `123.45.67.89` is the Internet Protocol address assigned to the user by the user’s ISP. Depending on the user’s service, a different address may be assigned to the user by their service provider each time they connect to the Internet.
 * `25/Mar/2003 10:15:32` is the date and time of the query.
 * `http://www.google.com/search?q=cars` is the requested URL, including the search query.
-* `Firefox 1.0.7; Windows NT 5.1` is the browser and operating system being used.
+* `Chrome 112; OS X 10.15.7` is the browser and operating system being used.
 * `740674ce2123a969` is the unique cookie ID assigned to this particular computer the first time it visited Google. (Cookies can be deleted by users. If the user has deleted the cookie from the computer since the last time they’ve visited Google, then it will be the unique cookie ID assigned to their device the next time they visit Google from that particular device).
 
 ### Unique identifiers
@@ -556,13 +556,21 @@ On other platforms besides browsers, unique identifiers are used to recognize a 
 Additional Context
 ------------------
 
+### Activity on Google Services
+
+If you’re signed in to your Google Account and have Web & App Activity turned on, your activity data on Google sites, apps, and services may be saved in your account’s Web & App Activity. Some activity may include information about the general area you were in when using the Google service. When you search for something using a general area, your search will use an area of at least 3 sq km, or expand until the area represents the locations of at least 1,000 people. This helps protect your privacy.
+
+In some cases, areas that you have searched from in the past may be used to estimate a relevant location for your search. For example, if you search for coffee shops while in Chelsea, Google might show results for Chelsea in future searches.
+
+You can view and control your Web & App Activity at [My Activity](https://myactivity.google.com/activitycontrols).
+
 ### ads you’ll find most useful
 
 For example, if you watch videos about baking on YouTube, you may see more ads that relate to baking as you browse the web. We also may use your IP address to determine your approximate location, so that we can serve you ads for a nearby pizza delivery service if you search for “pizza.” Learn more [about Google ads](https://support.google.com/accounts?p=privpol_whyad) and [why you may see particular ads](https://support.google.com/accounts?p=privpol_whyad).
 
 ### advertising and research services on their behalf
 
-For example, advertisers may upload data from their loyalty-card programs so that they can better understand the performance of their ad campaigns. We only provide aggregated reports to advertisers that don’t reveal information about individual people.
+For example, merchants may upload data from their loyalty-card programs so that they can include loyalty information in search or shopping results, or better understand the performance of their ad campaigns. We only provide aggregated reports to advertisers that don’t reveal information about individual people.
 
 ### Android device with Google apps
 
@@ -603,7 +611,7 @@ Examples of how we use your information to deliver our services include:
 
 * We use the IP address assigned to your device to send you the data you requested, such as loading a YouTube video
 * We use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google Account
-* Photos and videos you upload to Google Photos are used to help you create albums, animations, and other creations that you can share. [Learn more](https://support.google.com/photos?p=privpol_manage)
+* Photos and videos you upload to Google Photos are used to help you create albums, collages, and other creations that you can share. [Learn more](https://support.google.com/photos?p=privpol_manage)
 * A flight confirmation email you receive may be used to create a “check-in” button that appears in your Gmail
 * When you purchase services or physical goods from us, you may provide us information like your shipping address or delivery instructions. We use this information for things like processing, fulfilling, and delivering your order, and to provide support in connection with the product or service you purchase.
 
@@ -661,6 +669,12 @@ You may also see personalized ads based on information from the advertiser. If y
 
 If you add your phone number to your account, it can be used for different purposes across Google services, depending on your settings. For example, your phone number can be used to help you access your account if you forget your password, help people find and connect with you, and make the ads you see more relevant to you. [Learn more](https://support.google.com/accounts?p=privpol_phone&hl=en_US)
 
+### Places you label like home and work
+
+You might choose to save places to your Google Account that are important to you, such as your home or your work. If you set your home or work addresses, they can be used to help you do things more easily, such as getting directions or finding results closer to your home or work, and for more useful ads.
+
+You can edit or delete your home or work addresses anytime in your [Google Account.](https://myaccount.google.com/personal-info)
+
 ### protect against abuse
 
 For example, information about security threats can help us notify you if we think your account has been compromised (at which point we can help you take steps to protect your account).
@@ -690,7 +704,7 @@ When showing you personalized ads, we use topics that we think might be of inter
 
 ### Sensor data from your device
 
-Your device may have sensors that can be used to better understand your location and movement. For example, an accelerometer can be used to determine your speed and a gyroscope to figure out your direction of travel.
+Your device may have sensors that can be used to better understand your location and movement. For example, an accelerometer can be used to determine your speed and a gyroscope to figure out your direction of travel. Learn more about [how we use location information.](https://policies.google.com/technologies/location-data)
 
 ### servers around the world
 
