@@ -4,7 +4,7 @@ PAYPAL USER AGREEMENT
 About Your Account
 ------------------
 
-This user agreement will be effective for all users as of 17 July, 2023.
+This user agreement will be effective for all users as of 16 January 2024.
 
 ### Welcome to PayPal!
 
@@ -39,7 +39,7 @@ We may revise this user agreement and any of the documents listed above from tim
 
 ### Information about us
 
-Our services are provided by PayPal (Europe) S.à r.l.et Cie, S.C.A. (R.C.S. Luxembourg B 118 349) to registered users in the European Economic Area. For details on how to reach PayPal, please refer to this page on [Customer Service](https://www.paypal.com/cz/cshelp/personal?locale.x=en_CZ).
+Our services are provided by PayPal (Europe) S.à r.l.et Cie, S.C.A. (R.C.S. Luxembourg B 118 349) to registered users in the European Economic Area. For details on how to reach PayPal, please refer to this page on [Customer Service](https://www.paypal.com/cz/smarthelp/home?locale.x=en_CZ).
 
 PayPal is duly licensed in Luxembourg as a bank (or “credit institution” in legal terms). We are supervised by the Luxembourg financial regulatory authority, the Commission de Surveillance du Secteur Financier or CSSF. CSSF’s registered office: 283, route d’Arlon, L-1150 Luxembourg. The CSSF maintains a register of the organisations that it regulates at [https://supervisedentities.apps.cssf.lu/index.html?language=en#Home](https://supervisedentities.apps.cssf.lu/index.html?language=en#Home). PayPal is number B00000351 on the register, but you can also look us up on the register by our name. Trade Register Number: R.C.S. Luxembourg B 118 349.
 
@@ -556,6 +556,8 @@ In representations to your customers or in public communications, you must not m
 
 It is your responsibility to determine what, if any, taxes apply to the payments you make or receive, and it is solely your responsibility to assess, collect, report and remit the correct taxes to the appropriate authority. We are not responsible for determining whether any taxes apply to your transaction, or for calculating, collecting, reporting or remitting taxes arising from any transaction. As a bank service provider no sales tax applies to the PayPal services in the EU.
 
+Notwithstanding the above, PayPal may request that you provide your tax identification number and/or other tax-related documentation or information. If you do not provide PayPal the requested information or documentation, you understand and agree that you may be subject to account limitations and withholding tax at the applicable rates on gross payments received. PayPal will send such withholding taxes to the appropriate tax authorities and cannot refund those amounts.
+
 ### Your refund policy and privacy policy
 
 You must publish a refunds and return policy, as well as a privacy policy.
@@ -581,11 +583,11 @@ If we allow you to accept payments from a payer under a billing agreement, when 
 
 ### PayPal Payouts
 
-If you are using PayPal Payouts (formerly Mass Pay), the terms of the [PayPal Payouts Agreement](https://www.paypal.com/cz/webapps/mpp/ua/paypal-payouts-agreement?locale.x=en_CZ) will apply.
+If you are using PayPal Payouts (formerly Mass Pay), the terms of the [PayPal Payouts Agreement](https://www.paypal.com/cz/webapps/mpp/ua/paypal-payouts-tnc?locale.x=en_CZ) will apply.
 
 ### Your responsibility as a Corporate Customer to notify PayPal of pricing or fee errors
 
-Once you have access to any account statement(s) or other account activity information made available to you by PayPal with respect to your business account(s), you will have 60 days to notify PayPal in writing of any errors or discrepancies with respect to the pricing or other fees applied by PayPal. If you do not notify PayPal within such timeframe, you accept such information as accurate, and PayPal shall have no obligation to make any corrections. For the purposes of this provision, such pricing or fee errors or discrepancies are different than unauthorized transactions and other electronic transfer errors which are each subject to different notification timeframes as set forth herein.
+Once you have access to any account statement(s) or other account activity information made available to you by PayPal with respect to your business account(s), you will have 60 days to notify PayPal in writing of any errors or discrepancies with respect to the pricing or other fees applied by PayPal. If you do not notify PayPal within such timeframe, you accept such information as accurate, and PayPal shall have no obligation to make any corrections. For the purposes of this provision, such pricing or fee errors or discrepancies are different than unauthorised transactions and other electronic transfer errors which are each subject to different notification timeframes as set forth herein.
 
 ### Refunds and reversals of payments
 
@@ -609,7 +611,7 @@ A reversal happens when we exercise our right to set off the above amounts from 
 A reversal can happen when:
 
 * We reimburse the payer in respect of a PayPal Buyer Protection claim the payer made against you.
-* We compensate the payer or the payer's bank or provider because we receive a claim from either of them to return the payment under the reversal process used by that bank or provider. This includes any claims for unauthorised or incorrect payments made to your account.
+* We compensate the payer or the payer's bank or provider because we receive a claim from either of them to return the payment under the reversal process used by that bank or provider. This includes any claims for unauthorised transactions or incorrect payments made to your account.
 
 For instance:
 
@@ -619,31 +621,31 @@ For instance:
 
 The amount claimed may be greater than the original amount you received due to currency exchange rate fluctuations between the time of payment and the time of the claim.
 
-* We may have to compensate your payer when they claimed that there was a problem with their payment (including that their payment was unauthorized or incorrect or that their billing agreement payment was not expected) – see [Resolving Problems](#resolving1).
+* We may have to compensate your payer when they claimed that there was a problem with their payment (including that their payment was an unauthorised transaction or incorrect payment or that their billing agreement payment was not expected) – see [Resolving Problems](#resolving1).
 * We are entitled to carry out the reversal for any other reason under this user agreement, including the provision [Actions We May Take if You Engage in Any Restricted Activities](#actions-restricted-activities1).
 
 #### Dispute fees
 
 PayPal will charge a [**Dispute fee**](#dispute-fees-table) to sellers for facilitating the online dispute resolution process for transactions that are processed either through a buyer’s PayPal account or through the ‘Payments without a PayPal account’ service**.** The [**Dispute fee**](#dispute-fees-table) applies when the buyer pursues a claim directly with PayPal, a chargeback with their card issuer, or a reversal with their bank. The [**Dispute fee**](#dispute-fees-table) will be charged at either the **Standard Dispute fee** rate or the **High Volume Dispute fee** rate. The [**Dispute fee**](#dispute-fees-table) will be charged in the currency which you selected for the original transaction listing. If the transaction was in a currency not listed in the [**Dispute fee**](#dispute-fees-table) table the fee charged will be in your primary holding currency. The [**Dispute fee**](#dispute-fees-table) will be deducted from your PayPal account after the claim is decided.
 
-The [**Dispute fee**](#dispute-fees-table) amount will be determined when the dispute case is created. The fee is based on the ratio of the total transaction amount of all [**Item Not Received**](#inr-claims) and **[Significantly Not as Described](#snad-claims)** claims you receive compared to the total amount of your sales for the previous three calendar months **(Dispute Ratio)**. Your total claims include all Item Not Received and Significantly Not as Described claims that are filed either directly with and escalated to PayPal or with the buyer’s card issuer or bank. Your total claims do not include claims for Unauthorized Transactions. For example, for the month of September, your **Dispute Ratio** will be calculated by considering your total claims to sales ratio over June, July, and August. The claims ratio for September will determine the dispute fee for all claims filed in October.
+The [**Dispute fee**](#dispute-fees-table) amount will be determined when the dispute case is created. The fee is based on the ratio of the total transaction amount of all [**Item Not Received**](#inr-claims) and **[Significantly Not as Described](#snad-claims)** claims you receive compared to the total amount of your sales for the previous three calendar months **(Dispute Ratio)**. Your total claims include all Item Not Received and Significantly Not as Described claims that are filed either directly with and escalated to PayPal or with the buyer’s card issuer or bank. Your total claims do not include claims for Unauthorised Transactions. For example, for the month of September, your **Dispute Ratio** will be calculated by considering your total claims to sales ratio over June, July, and August. The claims ratio for September will determine the dispute fee for all claims filed in October.
 
 If your Disputes Ratio is 1.5% or more and you had more than 100 sales transactions in the previous three full calendar months, you will be charged the **High Volume Dispute fee** for each dispute. Otherwise, you will be charged the **Standard Dispute fee** for each dispute.
 
 You will **not** be charged a **Standard Dispute fee** for disputes that are_:_
 
-* Inquiries in PayPal’s [**Resolution Center**](https://www.paypal.com/cz/cshelp/personal?locale.x=en_CZ) that are not escalated to a claim with PayPal.
+* Inquiries in PayPal’s [**Resolution Center**](https://www.paypal.com/cz/smarthelp/home?locale.x=en_CZ) that are not escalated to a claim with PayPal.
 * Resolved directly between you and the buyer and not escalated to a claim with PayPal.
-* Filed by the buyer directly with PayPal as an [**Unauthorized Transaction**](#unauth-payment).
+* Filed by the buyer directly with PayPal as an [**Unauthorised Transaction**](#unauth-transaction).
 * Deemed by PayPal in its sole discretion to have met all the requirements under [**PayPal’s Seller Protection**](https://www.paypal.com/cz/webapps/mpp/ua/seller-protection?locale.x=en_CZ) program.
 * Claims with a transaction value that is less than twice the amount of a **Standard Dispute fee.**
 * Decided in your favor by PayPal or your issuer.
 
 You will **not** be charged a **High Volume Dispute fee** for disputes that are:
 
-* Inquiries in PayPal’s [**Resolution Center**](https://www.paypal.com/cz/cshelp/personal?locale.x=en_CZ) and not escalated to a claim with PayPal.
+* Inquiries in PayPal’s [**Resolution Center**](https://www.paypal.com/cz/smarthelp/home?locale.x=en_CZ) and not escalated to a claim with PayPal.
 * Resolved directly between you and the buyer and not escalated to a claim with PayPal.
-* Filed by the buyer directly with PayPal as an [**Unauthorized Transaction**](#unauth-payment)**.**
+* Filed by the buyer directly with PayPal as an [**Unauthorised Transaction**](#unauth-transaction)**.**
 
 Sellers charged **High Volume Dispute fees** may be required to provide information to us including the cause of their increased dispute rate.
 
@@ -693,7 +695,7 @@ In connection with your use of our websites, your PayPal account, the PayPal ser
 * Sell counterfeit goods.
 * Act in a manner that is defamatory, trade libelous, threatening or harassing.
 * Provide false, inaccurate or misleading information.
-* Send or receive what we reasonably believe to be potentially fraudulent or unauthorized funds.
+* Send or receive what we reasonably believe to be potentially fraudulent or unauthorised funds.
 * Refuse to cooperate in an investigation or provide confirmation of your identity or any information you provide to us.
 * Attempt to “double dip” during the course of a dispute by receiving or attempting to receive funds from both PayPal and the seller, bank or card issuer for the same transaction.
 * Control an account that is linked to another account that has engaged in any of these restricted activities.
@@ -706,7 +708,7 @@ In connection with your use of our websites, your PayPal account, the PayPal ser
 * Provide yourself a cash advance from your credit card (or help others to do so).
 * Access the PayPal services from a country that is not included on our [**permitted countries list**](https://www.paypal.com/cz/webapps/mpp/country-worldwide?locale.x=en_CZ).
 * Take any action that imposes an unreasonable or disproportionately large load on our websites, software, systems (including any networks and servers used to provide any of the PayPal services) operated by us or on our behalf or the PayPal services.
-* Facilitate any viruses, trojan horses, malware, worms or other computer programming routines that attempts to or may damage, disrupt, corrupt, misuse, detrimentally interfere with, surreptitiously intercept or expropriate, or gain unauthorized access to any system, data, information or PayPal services.
+* Facilitate any viruses, trojan horses, malware, worms or other computer programming routines that attempts to or may damage, disrupt, corrupt, misuse, detrimentally interfere with, surreptitiously intercept or expropriate, or gain unauthorised access to any system, data, information or PayPal services.
 * Use an anonymizing proxy; use any robot, spider, other automatic device, or manual process to monitor or copy our websites without our prior written permission; or use any device, software or routine to bypass our robot exclusion headers.
 * Interfere or disrupt or attempt to interfere with or disrupt our websites, software, systems (including any networks and servers used to provide any of the PayPal services) operated by us or on our behalf, any of the PayPal services or other users' use of any of the PayPal services.
 * Take any action that may cause us to lose any of the services from our Internet service providers, payment processors, or other suppliers or service providers.
@@ -726,7 +728,7 @@ In connection with your use of our websites, your PayPal account, the PayPal ser
 * Allow your use of the PayPal service to present to PayPal a risk of non-compliance with PayPal's anti-money laundering, counter terrorist financing and similar regulatory obligations (including, without limitation, where we cannot verify your identity or you fail to complete the steps to lift your sending, receiving or withdrawal limit or where you expose PayPal to the risk of any regulatory fines by European, US or other authorities for processing your transactions).
 * Integrate or use any of the PayPal services without fully complying with all mandatory requirements communicated to you by way of any integration or programmers' guide or other documentation issued by PayPal from time to time.
 * Advertise, promote, introduce or describe PayPal Credit or any PayPal co-branded credit based payment instrument to your customers without: (1) obtaining the necessary regulatory permission to do so in advance; and (2) the prior written permission of PayPal and (if not PayPal) the issuer of the credit to do so.
-* Suffer (or cause us to determine that there is a reasonable likelihood of) a security breach of your website or systems that could result in the unauthorized disclosure of customer information.
+* Suffer (or cause us to determine that there is a reasonable likelihood of) a security breach of your website or systems that could result in the unauthorised disclosure of customer information.
 
 You agree that engaging in the above restricted activities diminishes your or our other customers' safe access and/or use of your account and our services generally.
 
@@ -766,7 +768,7 @@ Unless otherwise directed by us, you must not use or attempt to use your account
 
 Under certain circumstances, in order to protect PayPal and the security and integrity of the network of buyers and sellers that use the PayPal services, PayPal may take account-level or transaction-level actions. If we take any of the actions described here, we will normally notify you of our actions, but we may, if it is reasonable to do so (for example if you are in breach of this user agreement or we consider it advisable for security reasons), take any of these actions without prior notice to you.
 
-To request information in connection with an account limitation, hold or reserve, you should visit the [Resolution Center](https://www.paypal.com/cz/cshelp/personal?locale.x=en_CZ) or follow the instructions in our email notice with respect to the limitation, hold or reserve.
+To request information in connection with an account limitation, hold or reserve, you should visit the [Resolution Center](https://www.paypal.com/cz/smarthelp/home?locale.x=en_CZ) or follow the instructions in our email notice with respect to the limitation, hold or reserve.
 
 You acknowledge and agree that any funds held under this user agreement may be placed in your reserve account and that you will provide to us any information as we may reasonably request to allow us to determine whether the risk has passed.
 
@@ -881,7 +883,7 @@ If you have any reason to believe that there is a problem with your account or o
 
 * **Security / Fraud problem**  
     
-    * **Unauthorized payment**  
+    * **Unauthorised transaction**  
         
         This is where a payment sent from your account wasn't authorized by you (or anyone who's authorized to make payments for you).
         
@@ -890,7 +892,7 @@ If you have any reason to believe that there is a problem with your account or o
         
         This is where there was another security or fraud problem, such as:
         
-        * There was some other unauthorized access to your account.
+        * There was some other unauthorised access to your account.
         * Your password or PIN was compromised.
         * A device you have used to access our services was lost, stolen or deactivated.
 
@@ -934,7 +936,7 @@ In addition, if your problem is:
     * If the incorrect payment resulted in you having more money than you would have had if the payment had been made as actually specified, we may debit the extra funds from your account.
 * Reimburse you in your account for your losses or damages directly and reasonably foreseeably caused by the incorrect payment.
 
-* **An unauthorized payment to another PayPal account,** as soon as possible (and in any event no later than the end of the Business Day after you tell us about the problem) we will put your account back to where it would have been had the payment never happened. This can include a reimbursement of your payment.
+* **An unauthorised transaction to another PayPal account,** as soon as possible (and in any event no later than the end of the Business Day after you tell us about the problem) we will put your account back to where it would have been had the payment never happened. This can include a reimbursement of your payment.
 
 ### When we can’t compensate you...
 
@@ -950,8 +952,8 @@ You are not entitled to any financial compensation from us as outlined above and
 
 |     |     |     |
 | --- | --- | --- |
-| **Unexpected billing agreement payment** | **Incorrect payment** | **Unauthorized payment** |
-| It takes you longer than 8 weeks after the payment was made to tell us about the problem; or<br><br>You agreed for us to make your payment and the details were made available to you by us or the merchant at least 4 weeks before the payment was made. | It takes you longer than 13 months after the payment was made to tell us about the problem; or<br><br>We can show that you gave us the wrong payment details; or<br><br>We can show that the payment was sent as the payer specified when the payer asked us to make it; or<br><br>Through no fault of ours, you did not have enough PayPal balance to complete the payment; or<br><br>We can show our system was not working properly and you knew about the breakdown when you started the transaction; or<br><br>A delay which you claimed caused the incorrect payment actually resulted from PayPal applying a **hold, limitation or reserve** **under this user agreement** | It takes you longer than 13 months after the payment was made to tell us about the problem; or<br><br>We can show that the payment was made because you did not keep your account safe either intentionally or with gross negligence (for instance, you very carelessly chose to share your PayPal ID and/or password/PIN with someone else); or<br><br>There was **another security /fraud problem** and you didn't tell us about it. We will not pay you compensation for any unauthorized payments made from your account before you told us about that problem. |
+| **Unexpected billing agreement payment** | **Incorrect payment** | **Unauthorised transaction** |
+| It takes you longer than 8 weeks after the payment was made to tell us about the problem; or<br><br>You agreed for us to make your payment and the details were made available to you by us or the merchant at least 4 weeks before the payment was made. | It takes you longer than 13 months after the payment was made to tell us about the problem; or<br><br>We can show that you gave us the wrong payment details; or<br><br>We can show that the payment was sent as the payer specified when the payer asked us to make it; or<br><br>Through no fault of ours, you did not have enough PayPal balance to complete the payment; or<br><br>We can show our system was not working properly and you knew about the breakdown when you started the transaction; or<br><br>A delay which you claimed caused the incorrect payment actually resulted from PayPal applying a **hold, limitation or reserve** **under this user agreement** | It takes you longer than 13 months after the payment was made to tell us about the problem; or<br><br>We can show that the payment was made because you did not keep your account safe either intentionally or with gross negligence (for instance, you very carelessly chose to share your PayPal ID and/or password/PIN with someone else); or<br><br>There was **another security /fraud problem** and you didn't tell us about it. We will not pay you compensation for any unauthorised transactions made from your account before you told us about that problem. |
 
 Sometimes we might spot the problem first. If we need to notify you about the problem, we will ordinarily do so through the [Secure Messaging Center](https://www.paypal.com/cz/selfhelp/home?locale.x=en_CZ), which you need to log into your account to access. If you should take action urgently, we may also use other means such as email to request action.
 
@@ -1192,6 +1194,10 @@ This section only applies if you hold a business account with PayPal. You acknow
 
 By your use of your PayPal Account and any PayPal products and services, you acknowledge and agree to be bound by the effect of such write-down and conversion powers, which include (among others) (a) a reduction, in full or in part, of any amounts that may be due by PayPal to you; (b) a conversion of all, or part of, any such liability into shares in PayPal; (c) a cancellation of any such liability; and (d) a variation of any term of our relevant agreement(s) in connection with your PayPal Account and any PayPal products and services with a view to enable the effective exercise of these powers. For example, the money that PayPal owes you may be converted into PayPal shares instead of being paid to you in cash.
 
+#### Digital Services Act
+
+Pursuant to the EU Regulation (2022/2065) on a Single Market For Digital Services (Digital Services Act), if you generate and upload content on PayPal owned websites or mobile apps (including images, product descriptions, and messages) that violates applicable laws, rights of third parties or this user agreement, PayPal may take appropriate and proportionate measures, including immediately removing such content. You can report other users’ content to PayPal through a dedicated report button, where available, or through our reporting form [here](https://www.paypal.com/cz/smarthelp/contact-us/aupviolation?locale.x=en_CZ). We may (but are not obliged to) use automated means (such as keyword and image filters), human review or a combination of both to detect such content and determine appropriate measures. If you believe that we should not have taken such measures, you may submit a complaint. You can find more information on the complaint process [here.](https://www.paypal.com/cz/smarthelp/complaints?locale.x=en_CZ)
+
 #### Complete agreement and third party rights
 
 This user agreement sets forth the entire understanding between you and us with respect to our service.
@@ -1314,6 +1320,8 @@ Payments to users registered with PayPal as residents of Bulgaria, Cyprus, Czech
 | **Fee** | 1.90% + Fixed Fee | Interchange Fee + 1.90% + Fixed Fee | 1.90% + Fixed Fee | 1.90% + Fixed Fee | Standard Rate in section A2.2.1 |
 
 \* See the [**PayPal Online Card Payment Services Agreement**](https://www.paypal.com/cz/webapps/mpp/ua/pocpsa-full?locale.x=en_CZ) for information about the Interchange Plus Fee Structure and Blended Pricing Fee Structure and your choices.
+
+**For Advanced Credit and Debit Card Payments users only:** you may opt to be charged under the Interchange Plus Plus Fee Structure. Please [**contact us**](https://www.paypal.com/cz/smarthelp/home?locale.x=en_CZ) for further information. The additional terms outlined in the [PayPal Online Card Payment Services Agreement](https://www.paypal.com/cz/webapps/mpp/ua/pocpsa-full?locale.x=en_CZ) apply.
 
 **A2.3 Receiving Cross Border payments (Selling)**
 
