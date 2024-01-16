@@ -306,7 +306,7 @@ WebProNews](https://www.webpronews.com/)
 * [Home](https://www.webpronews.com/)
 * [Contact Us](https://www.webpronews.com/contact/)
 * [Privacy Policy](https://www.webpronews.com/privacy-policy/)
-* [Advertise With Us](https://www.dev.webpronews.com/advertise/)
+* [Advertise With Us](https://www.webpronews.com/advertise/)
 * [Newsletter Signup](https://control.ientry.com/subscribe/)
 
 [](https://www.facebook.com/WebProNews/)[](https://twitter.com/WebProNews)[](https://www.linkedin.com/company/webpronews)
