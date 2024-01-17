@@ -2,6 +2,8 @@ Your Privacy Rights
 
 ----------------------
 
+UPDATED AS OF: January 1, 2024
+
 **Personal Information Sharing Practices for 2023**  
 
 During 2023, Toyota shared Personal Information about our customers with specific other parties where the information was used for the recipient's own marketing purposes.
@@ -76,7 +78,7 @@ Toyota Motor Sales, U.S.A., Inc. is committed to maintaining your confidence and
 
 **Toyota Connected Services.** This Privacy Notice does not apply to any vehicle-originated data collected in connection with our Toyota Connected Services (such as driving behavior data and vehicle health data). Please visit [www.toyota.com/privacyvts](https://www.toyota.com/privacyvts) to learn more about our vehicle data collection, use and sharing practices.
 
-This Privacy Notice also does not apply to the data practices of any Toyota, Lexus, or Scion dealers; local Toyota dealer associations; private distributors; Toyota Financial Services; Lexus Financial Services; or Toyota Insurance Management Solutions. If you wish to learn about the privacy practices of these entities, please visit their respective privacy statements. To reach the privacy policy for Toyota Financial Services, please click [here](https://www.toyotafinancial.com/us/en/online_policies_and_agreements.html). To reach the privacy policy for Lexus Financial Services, please click [here](https://www.lexusfinancial.com/us/en/planning_tools/faq/privacy.html). To reach the privacy policy for Toyota Insurance Management Solutions, please click [here](https://toyotaims.com/privacy.php). To reach Toyota dealer sites, please click [here](https://www.toyota.com/dealers/). To reach the privacy policy for Gulf States Toyota, Inc. (private distributor in Arkansas, Louisiana, Mississippi, Oklahoma, and Texas), please click [here](https://www.buyatoyota.com/gst/legal/). 
+This Privacy Notice also does not apply to the data practices of any Toyota, Lexus, or Scion dealers; local Toyota dealer associations; private distributors; Toyota Financial Services; Lexus Financial Services; or Toyota Insurance Management Solutions. If you wish to learn about the privacy practices of these entities, please visit their respective privacy notices. To review the privacy notice for Toyota Financial Services, please click [here](https://www.toyotafinancial.com/us/en/online_policies_and_agreements.html). To review the privacy notice for Lexus Financial Services, please click [here](https://www.lexusfinancial.com/us/en/planning_tools/faq/privacy.html). To review the privacy notice for Toyota Insurance Management Solutions, please click [here](https://toyotaims.com/privacy.php). To review Toyota dealer sites, please click [here](https://www.toyota.com/dealers/). To review the privacy notice for Gulf States Toyota, Inc. (private distributor in Arkansas, Louisiana, Mississippi, Oklahoma, and Texas), please click [here](https://www.buyatoyota.com/gst/legal/). To review the privacy notice for Southeast Toyota (private distributor in Alabama, Florida, Georgia, North Carolina, and South Carolina), please click [here](https://exploresetoyota.com/privacy-policy/).
 
 **QUICK GUIDE TO CONTENTS**
 
@@ -155,13 +157,13 @@ Except as described here, we will not provide any of your Personal Information t
 
 **Other Parties Providing Services On Our Behalf.** We may disclose your Personal Information to other parties that perform functions on our behalf (or on behalf of our partners) such as service providers that host or operate our Platforms, analyze data, process transactions and payments, fulfill orders or provide customer service; advertisers; sponsors or other parties that participate in or administer our Programs or provide marketing or promotional assistance and "powered by" partners or partners in co-branded sites. Your Personal Information may also be used by us or shared with our subsidiaries, affiliates, sponsors, partners, advertisers or other parties to provide you with product information and promotional and other offers.
 
-**Program Partners.** If you choose to participate in a Program, your Personal Information may also be disclosed to our Program partners and may be used by our Program partners in accordance with their own privacy policies. This Privacy Notice will not apply to that company's use of your information. Sometimes the rules, terms and conditions or disclaimers that apply to a particular Program (“Program Rules”) include additional information on how we may use the Personal Information that you provide to us through your participation in the Program. If there is a conflict between the Program Rules for a particular Program and this Privacy Notice, those applying to the particular Program will govern. Please review all of the information about a Program before you provide us with any Personal Information.
+**Program Partners.** If you choose to participate in a Program, your Personal Information may also be disclosed to our Program partners and may be used by our Program partners in accordance with their own privacy notices. This Privacy Notice will not apply to that company's use of your information. Sometimes the rules, terms and conditions or disclaimers that apply to a particular Program (“Program Rules”) include additional information on how we may use the Personal Information that you provide to us through your participation in the Program. If there is a conflict between the Program Rules for a particular Program and this Privacy Notice, those applying to the particular Program will govern. Please review all of the information about a Program before you provide us with any Personal Information.
 
-**Our Affiliates and Parent Company**: We may disclose your Personal Information with our affiliates, including but not limited to Toyota Financial Services, and our parent company, Toyota Motor Corporation. This information is primarily shared for business and operational purposes. Our affiliates may also use that information in accordance with their own privacy policies, including to market to you if you indicate your interest in related products or services.
+**Our Affiliates and Parent Company**: We may disclose your Personal Information with our affiliates, including but not limited to Toyota Financial Services, and our parent company, Toyota Motor Corporation. This information is primarily shared for business and operational purposes. Our affiliates may also use that information in accordance with their own privacy notices, including to market to you if you indicate your interest in related products or services.
 
-**Our Dealers and Distributors**: We may disclose your Personal Information to our authorized dealers and their holding companies, dealer advertising associations and distributors (including local Toyota dealer associations), who may use that information in accordance with their own privacy policies, including to provide you with services or to market to you. For example, we may share information such as your name and vehicle interests with our authorized dealers to save you time during your visits and to enhance your overall dealership experience. We may also combine information about your Platform visits and disclose this information to our authorized dealers and other entities to provide you with enhanced experiences across Toyota-affiliated, branded or similar Toyota-related offerings and Platforms.
+**Our Dealers and Distributors**: We may disclose your Personal Information to our authorized dealers and their holding companies, dealer advertising associations and distributors (including local Toyota dealer associations), who may use that information in accordance with their own privacy notices, including to provide you with services or to market to you. For example, we may share information such as your name and vehicle interests with our authorized dealers to save you time during your visits and to enhance your overall dealership experience. We may also combine information about your Platform visits and disclose this information to our authorized dealers and other entities to provide you with enhanced experiences across Toyota-affiliated, branded or similar Toyota-related offerings and Platforms.
 
-**Your Agreement To Have Your Personal Information Disclosed.** You may have the opportunity to opt in to receive information and/or marketing offers from another company or to otherwise consent to the disclosure of your information to another party, including social networking sites such as Facebook or X. If you agree to have your Personal Information disclosed, your Personal Information will be disclosed to the other party and the Personal Information you disclose will be subject to the privacy policy and business practices of that other party.
+**Your Agreement To Have Your Personal Information Disclosed.** You may have the opportunity to opt in to receive information and/or marketing offers from another company or to otherwise consent to the disclosure of your information to another party, including social networking sites such as Facebook or X. If you agree to have your Personal Information disclosed, your Personal Information will be disclosed to the other party and the Personal Information you disclose will be subject to the privacy notices and business practices of that other party.
 
 **Business Transfers.** In the event that Toyota is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction.
 
@@ -181,7 +183,7 @@ In accordance with our routine record keeping, we may delete certain records tha
 
 **6\. ADVERTISING/BEHAVIORAL TARGETING; HOW TO OPT OUT.**
 
-We may use third-party ad network providers to help present ads on the Platforms, as well as other service providers to evaluate and provide us with information about the use of the Platforms and viewing of our content. Such providers may place and access cookies, pixel tags, or similar technologies on your Device to serve you ads or other content personalized to your interests which they infer from your location and/or your browsing on the Platforms and other sites you have visited. In doing so, the provider collects or has access to your Usage Information. The use of cookies, pixel tags, or similar technologies by these providers is also subject to their own privacy policies.
+We may use third-party ad network providers to help present ads on the Platforms, as well as other service providers to evaluate and provide us with information about the use of the Platforms and viewing of our content. Such providers may place and access cookies, pixel tags, or similar technologies on your Device to serve you ads or other content personalized to your interests which they infer from your location and/or your browsing on the Platforms and other sites you have visited. In doing so, the provider collects or has access to your Usage Information. The use of cookies, pixel tags, or similar technologies by these providers is also subject to their own privacy notices.
 
 Certain web browsers may provide an option by which you may request your browser to inform websites you visit that you do not wish your activities to be tracked by cookies or other persistent identifiers, commonly called “Do Not Track Signals.” Although the websites we own and operate, including but not limited to Toyota.com, currently do not respond to Do Not Track Signals, you may choose to opt out of our use of targeting and advertising cookies on Toyota.com by visiting Toyota.com and clicking on “Cookie Consent Options.” You may also choose to block cookies with your browser. Please note that opting out of the use of such cookies on Toyota.com will not impact the use of third-party cookies by other websites, which we do not control. In addition, even if you choose to opt out of targeted advertising, you will still see advertisements while you're browsing online. However, the advertisements you see may be less relevant to you and your interests.
 
@@ -199,7 +201,7 @@ This type of e-mail solicitation is known commonly as a "phishing" scam, with th
 
 **9\. OTHER SITES.**
 
-The Platforms may contain links to other sites that we do not own or operate, such as the site for Toyota Financial Services and to sites for Toyota dealers, as well as links from advertisers, sponsors and/or partners. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices, even though they may use the Toyota name or logo on their site through an agreement with us. These other sites may send their own cookies to your Device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site which appears or claims that it is one of our Platforms (including those linked to through an email or social networking page). 
+The Platforms may contain links to other sites that we do not own or operate, such as the site for Toyota Financial Services and to sites for Toyota dealers, as well as links from advertisers, sponsors and/or partners. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy notices or practices, even though they may use the Toyota name or logo on their site through an agreement with us. These other sites may send their own cookies to your Device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy notices. You should also independently assess the authenticity of any site which appears or claims that it is one of our Platforms (including those linked to through an email or social networking page). 
 
 The Platforms may make available chat rooms, forums, message boards, and news groups. Remember that any information that you disclose in these areas becomes public information and is not subject to the provisions of this Privacy Notice.
 
@@ -320,7 +322,7 @@ We do not charge a fee to process or respond to your verifiable consumer request
 You may only make a verifiable consumer request to know about or access your Personal Information twice within a 12-month period.
 
 **METRICS FOR REQUESTS BY CALIFORNIA RESIDENTS**  
-  
+(January 1, 2022, to December 31, 2022)
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -353,7 +355,7 @@ Plano, TX 75025-9001
 PERSONAL INFORMATION SHARING PRACTICES FOR 2023
 
 (Effective as of January 1, 2024)  
-During 2022, we shared the following types of Personal Information about our customers with SiriusXM Satellite Radio, Toyota Financial Services, Toyota Insurance Management Solutions and our authorized Toyota dealers where the information was used for the recipient's own marketing:
+During 2023, we shared the following types of Personal Information about our customers with SiriusXM Satellite Radio, Toyota Financial Services, Toyota Insurance Management Solutions and our authorized Toyota dealers where the information was used for the recipient's own marketing:
 
 **Name  
 Address  
@@ -378,7 +380,7 @@ Toyota Insurance Management Services
 Plano, TX 75024
 
 Please click on the link below to view a list of authorized Toyota dealers.  
-[Toyota dealers](https://www.toyota.com/content/dam/toyota/brochures/pdf/tcom/2022_dealer_list.pdf)
+[Toyota dealers](https://www.toyota.com/content/dam/toyota/brochures/pdf/tcom/2023_Dealer_List.pdf)
 
 You may also obtain this information by sending a request to:
 
