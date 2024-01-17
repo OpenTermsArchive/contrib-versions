@@ -563,24 +563,13 @@ Learn more about our [Boiler Services Terms and Conditions](https://www.energia.
 
 The quoted average monthly bill amount is calculated upon average figures outlined below.  
   
-Average Dual Fuel is based on Energia's "DUAL40" offer on Dual Fuel Bundle consisting of 40% off electricity and 39% off gas discount on Energia standard unit rates and €25 cashback.  
-Average Electricity is based on Energia's "ELEC41" offer on Electricity consisting of 41% off electricity discount on Energia standard unit rates and €25 cashback.  
-  
-Electricity average usage is based upon 1 bedroom - 2,700 kWh per annum, 2 bedrooms - 3,400 kWh per annum, 3 bedrooms - 4,200 kWh per annum, 4 bedrooms - 5,100 kWh per annum, 5 bedrooms - 6,150 kWh per annum.  
-  
-Gas average usage is based upon 1 bedroom - 6,900 kWh per annum, 2 bedrooms - 8,700 kWh per annum, 3 bedrooms - 11,000 kWh per annum, 4 bedrooms - 13,300 kWh per annum, 5 bedrooms - 16,100 kWh per annum.  
-  
-Tariffs and charges depending on urban or rural location are outlined in detail on https://www.energia.ie/price-plans/dual-fuel and https://www.energia.ie/price-plans/electricity in the rates section.  
-  
-Tariffs and charges depending on the meter type (24 hr standard, day/night or night storage) are outlined in detail on https://www.energia.ie/price-plans/dual-fuel and https://www.energia.ie/price-plans/electricity in the rates section.  
-  
-Prices correct as of 29th May 2020. Figures have been rounded to the nearest cent value.
+Tariffs rates depending on urban or rural location are outlined on https://www.energia.ie/about-energia/our-tariffs 
 
-Total discount is based on your chosen price plan options and use of the promotional code “DUAL40” for dual fuel or "ELEC41" for electricity. You must pay your bill by Direct Debit to avail of the Direct Debit Discount and register for Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts.
+Total discount is based on your chosen price plan. You must pay your bill by Direct Debit to avail of the Direct Debit Discount and register for Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts. 
 
-The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier.  
+The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier.   
   
-Your Dual fuel and Electricity tariff discounts will apply for a period of one year from the date Energia is registered as your supplier. After one year you will revert to Energia standard unit rates. Once you have signed up to an Energia Dual fuel or Electricity Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to switch. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee of €50 will apply.  
+Your Dual fuel and Electricity tariff discounts will apply for the period agreed from the date Energia is registered as your supplier. After the discount period you will revert to Energia standard unit rates. Once you have signed up to an Energia Dual fuel or Electricity Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to switch. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee as agreed in the product details will apply.   
   
 All prices are subject to change as per Energia standard terms and conditions. For new customers only that sign up online or over the phone.
 
