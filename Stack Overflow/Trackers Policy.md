@@ -41,14 +41,16 @@ These cookies are necessary for our website to function properly and cannot be s
 
 | Domain | Cookies | Used as |
 | --- | --- | --- |
-| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | acct, csouser, drafts, fkey, flash-message-json, have\_a\_cookie, hero-dismissed, job-alert-tooltip-dismissed, job-alert-verified-email, job-visitor-survey-dismissed, jquery-fallback, mobileSearchAccordion, no-responsiveness, optimizelyEndUserId, optimizelyPPID, prov, sgt, theme, uauth, usr | 1st Party |
+| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | .AspNetCore.Antiforgery, \_\_cf\_bm, acct, csouser, drafts, fkey, flash-message-json, have\_a\_cookie, hero-dismissed, job-alert-tooltip-dismissed, job-alert-verified-email, job-visitor-survey-dismissed, jquery-fallback, mobileSearchAccordion, no-responsiveness, optimizelyEndUserId, optimizelyPPID, prov, sgt, theme, uauth, usr | 1st Party |
 | stackoverflow.email | iterableEmailCampaignId, iterableEndUserId, iterableMessageId, iterableTemplateId | 1st Party |
 | stackexchange.com | mc, rawr | 1st Party |
 | meta.stackoverflow.com | OptanonAlertBoxClosed, OptanonConsent | 1st Party |
 | imgur.com | \_\_cfduid | 3rd Party |
 | stacksnippets.net | intercom-id-inf0secd, intercom-session-inf0secd | 3rd Party |
+| cdn.sstatic.net | OptanonAlertBoxClosed, OptanonConsent | 3rd Party |
 | google.com | \_\_Secure-3PAPISID, \_\_Secure-3PSID, \_\_Secure-APISID, \_\_Secure-HSID, \_\_Secure-SSID, 1P\_JAR, APISID, HSID, NID, SAPISID, SID, SIDCC, SSID | 3rd Party |
 | intercom.com | gtm\_id | 3rd Party |
+| ajax.googleapis.com | OptanonAlertBoxClosed, OptanonConsent | 3rd Party |
 
 Additionally, some strictly necessary cookies are dynamically generated based on unique identifiers. These cookies are:
 
@@ -89,6 +91,8 @@ These cookies are used to make advertising messages more relevant to you and may
 | Domain | Cookies | Used as |
 | --- | --- | --- |
 | askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | \_\_gads, \_gat\_legacyTracker, \_so\_tgt, urr | 1st Party |
+| bidr.io | bito, bitoIsSecure | 1st Party |
+| everesttech.net | everest\_g\_v2 | 1st Party |
 | pt.stackoverflow.com | GoogleAdServingTest | 1st Party |
 | youtube.com | GPS | 3rd Party |
 | linkedin.com | bcookie, lang, li\_gc, lidc, lissc, UserMatchHistory | 3rd Party |
