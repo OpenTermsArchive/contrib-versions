@@ -64,28 +64,4 @@ For any questions regarding our cookie policy, please address your query at [pri
 
 SCALEWAY, a simplified stock corporation (Société anonyme par actions simplifiée) with a working capital of €214.410,50, headquartered at 8 rue de la ville l’Evêque – 75008 Paris, FRANCE, registered with the Paris Corporate and Trade Register number RCS PARIS B 433 115 904, VAT number FR35433115904, reachable via its Internet site https://www.scaleway.com/
 
-Select your preferred cookies
-
-Help us improve our website! You can also consult our [Cookie policy](https://www.scaleway.com/en/cookie/).
-
-EssentialAlways active
-
-These cookies are required for the website to function properly and to allow you to use its services and features. Without these cookies, we would be unable to provide certain requested services or features.
-
-Applicable cookies: Segment
-
-Analytics
-
-These cookies are used to monitor the performance of our site and to enhance your browsing experience.
-
-Applicable cookies: Amplitude (Actions), Sentry
-
-Marketing
-
-These cookies are used to understand user behavior in order to provide you with a more relevant browsing experience or personalize the content on our site.
-
-Applicable cookies: Facebook Pixel, Google AdWords New, Hotjar, Twitter Ads
-
-Refuse allAccept allValidate my choice
-
 Your choices have been saved!
