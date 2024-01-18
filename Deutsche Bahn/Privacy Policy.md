@@ -164,22 +164,6 @@ Cookies are set when you visit your account. The following cookies are also set 
 **CrossEngage**  
 If you have a bahn.de/bahn.com customer account, personal offers and promotions can be displayed when you are logged in. In order to design and display this content, we have to place a cookie on your browser when you use bahn.de/bahn.com. It has a lifetime of 12 months. The data collected via the cookie is pseudonymised and processed on servers of our service provider CrossEngage GmbH (Bertha-Benz-Str. 5, 10557 Berlin, Germany). The legal basis for this is Art. 25 (2) (2) of the German Telecommunication and Telemedia Data and Privacy Protection Act (Gesetz über den Datenschutz und den Schutz der Privatsphäre in der Telekommunikation und bei Telemedien, “TTDSG”) in conjunction with Art. 6 (1) (b) GDPR.
 
-**Cookies that are not essential for using the website:**
-
-The following cookies are not essential for using the website and will be processed only if you give your consent beforehand.
-
-**Remember me option**  
-If you use the remember me option, you will be recognised and addressed by your name the next time you visit. This allows you to reach certain contents of your customer account more quickly. Use of the remember me option does not enable direct access to your personal customer account. In order to access your data, such as your address, account or booking information or personal offers, you must always log into your customer account with your user name and password. When you log in, your user name will be pre-entered on bahn.de/bahn.com. By doing so, we aim to provide a faster and more convenient login. We will never pre-enter your password. If your end-user device is used by several people, please make sure that the Auto-fill-in option in your browser is switched off in order to avoid misuse.  
-  
-**Registration**  
-If you wish to use the remember me option, we need your consent in accordance with Art. 6 (1) (a) GDPR. You can give your consent to the remember me option upon registration and when logging in to your customer account. By entering your user name and password, ticking the remember me box and clicking the login button, you consent to the option. You have to give your consent for every end-user device and every browser used. Following your consent, we place two cookies on your browser. These are first-party cookies that can only be read by us. The other cookie indicates whether the remember me option has been set in your browser. In this case, a randomly generated cookie ID is stored in the second cookie and assigned to your customer account in our system. This only takes place by way of encrypted connections.  
-Both cookies thereby enable us to recognise you on subsequent visits to bahn.de/bahn.com and to address you by your name. These cookies are not used to collect usage data from your browser or to link this usage data with data from other browser sessions.  
-The cookies for the remember me option have a lifetime of 24 months. After every login to your user account with your user name and password, the lifetime of the cookies will be extended by a further 24 months as from this login.  
-  
-**Logout**  
-You can opt out of the remember me option via the link "You are not \[first name\]\[last name\]? Logout". You will find the link by clicking on your name, which is displayed on the website. In addition, in your customer account on the change login data page, you can opt out of the remember me option on all browsers or end-user devices on which you gave consent, in a single step. This opt-out option is only displayed in the customer account, however, if consent to the remember me option was given on at least one end-user device.  
-If you delete the cookies on your browser, you will also opt out of the option. If a third party uses your end-user device (browser) and logs in to their customer account, the remember me option will also be deleted.
-
 ### What rights to customer account users have?
 
 * You can request information to find out if and what information is stored about you.
