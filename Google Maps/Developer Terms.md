@@ -1178,6 +1178,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Smart Dublin (IE): [https://data.smartdublin.ie/](https://data.smartdublin.ie/) Licensed by Creative Commons Attribution 4.0 International (CC By 4.0)
             
+        * Road Management Office Ireland [https://roadmanagement.maps.arcgis.com/home/item.html?id=dd16497565ea42bc8e462e71a0ae8098#overview](https://roadmanagement.maps.arcgis.com/home/item.html?id=dd16497565ea42bc8e462e71a0ae8098#overview)
+            
     31. **Isle of Man**
         
         Isle of Man Government
@@ -1437,6 +1439,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Upper Hutt City Council:[https://hub.arcgis.com/datasets/uhcc::land-parcels-in-upper-hutt-september-2020-1/explore](https://hub.arcgis.com/datasets/uhcc::land-parcels-in-upper-hutt-september-2020-1/explore)
             
         * Wellington City Council Open Data: [https://data-wcc.opendata.arcgis.com/datasets/WCC::parcel-boundaries/about](https://data-wcc.opendata.arcgis.com/datasets/WCC::parcel-boundaries/about)
+            
+        * Land information New Zealand [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
     45. **Northern Ireland**
         * © Ordnance Survey of Northern Ireland
