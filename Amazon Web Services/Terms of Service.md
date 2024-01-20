@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: December 22, 2023
+#### Last Updated: January 19, 2024
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -86,6 +86,8 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 **1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Contact Lens, Amazon DataZone, Amazon Lex, Amazon Personalize, Amazon Q, AWS AppFabric, and AWS HealthScribe. The Amazon Bedrock automated abuse detection mechanisms may apply to such services. See [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-detection.html) for more details.
 
 **1.25.** You will not use, and will not facilitate or allow End Users to use, the Services to mine cryptocurrency without our prior written approval.
+
+**1.26.** AWS consents to the assignment of an AWS account from one entity to another, subject to the terms of the AWS Account Assignment Requirements, posted [here](https://aws.amazon.com/legal/aws-account-assignment-requirements/).
 
 #### 2\. Betas and Previews
 
@@ -455,7 +457,13 @@ The distribution of files created by Amazon Elastic Transcoder may require that 
   
 **24.3.** You agree and instruct that for AWS Supply Chain: (a) we may use and store Your Content that is processed by the AWS Supply Chain service to develop and improve the service and its underlying technologies; (b) we may use and store Your Content that is not personal data to develop and improve AWS and affiliate machine-learning and artificial-intelligence technologies; and (c) solely in connection with the development and improvement described in clauses (a) and (b), we may store Your Content in an AWS region outside of the AWS region where you are using AWS Supply Chain. You may instruct AWS not to use and store Your Content processed by AWS Supply Chain to develop and improve the AWS Supply Chain service or technologies of AWS or its affiliates by following the instructions set forth in the “Opt out policy” section of [AWS Supply Chain administrative guide](https://docs.aws.amazon.com/aws-supply-chain/latest/adminguide/getting-started.html).    
   
-**24.4.** You are responsible for providing legally adequate privacy notices to End Users of AWS Supply Chain and obtaining any necessary consent from such End Users for the processing of Content and the storage, use, and transfer of Content as described under this Section 24.   
+**24.4.** You are responsible for providing legally adequate privacy notices to End Users of AWS Supply Chain and obtaining any necessary consent from such End Users for the processing of Content and the storage, use, and transfer of Content as described under this Section 24. 
+
+**24.5.** If you have been onboarded to the AWS Supply Chain N-Tier Visibility Service by your customer (Your Customer), the following applies to Your Content that is within the N-Tier Visibility Service:
+
+**24.5.1.** Your Content will be stored in the same AWS region where Your Customer’s Content is stored.
+
+**24.5.2.** If Your Customer terminates its use of the AWS Supply Chain N-Tier Visibility Service, you will be notified of that termination and you will have 30 days following that termination to retrieve Your Content from the Service if you choose to do so, after which time Your Content will be removed.
 
 #### 25\. Amazon AppStream 2.0
 
