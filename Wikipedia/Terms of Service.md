@@ -3,12 +3,9 @@
 Wikimedia Foundation Terms of Use
 =================================
 
- 2 languages
+ Add languages
 
-* [English](https://en.wikipedia.org/wiki/Wikipedia:Terms_of_use "Wikipedia:Terms of use – English")
-* [中文](https://zh.wikipedia.org/wiki/Wikipedia:%E4%BD%BF%E7%94%A8%E6%9D%A1%E6%AC%BE "Wikipedia:使用条款 – Chinese")
-
-[Edit links](https://www.wikidata.org/wiki/Special:EntityPage/Q118719909#sitelinks-wikipedia "Edit interlanguage links")
+[Add links](https://www.wikidata.org/wiki/Special:NewItem?site=foundationwiki&page=Policy%3ATerms+of+Use "Add interlanguage links")
 
 * [Policy](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use "View the subject page [c]")
 * [Discussion](https://foundation.wikimedia.org/wiki/Policy_talk:Terms_of_Use "Discussion about the content page [t]")
@@ -40,18 +37,12 @@ General
 * [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=304910 "Permanent link to this revision of this page")
 * [Page information](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=info "More information about this page")
 * [Get shortened URL](https://foundation.wikimedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
-* [Wikidata item](https://www.wikidata.org/wiki/Special:EntityPage/Q118719909 "Link to connected data repository item [g]")
 
 Print/export
 
 * [Create a book](https://foundation.wikimedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Policy%3ATerms+of+Use)
 * [Download as PDF](https://foundation.wikimedia.org/w/index.php?title=Special:DownloadAsPdf&page=Policy%3ATerms_of_Use&action=show-download-screen)
 * [Printable version](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&printable=yes "Printable version of this page [p]")
-
-In other projects
-
-* [Meta-Wiki](https://meta.wikimedia.org/wiki/Terms_of_use)
-* [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Terms_of_use)
 
 From Wikimedia Foundation Governance Wiki
 
@@ -114,7 +105,7 @@ Other languages:
 * [shqip](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sq "Kushtet e përdorimit (1% translated)")
 * [slovenčina](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sk "Podmienky používania (1% translated)")
 * [slovenščina](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sl "Pogoji uporabe (14% translated)")
-* [suomi](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fi "Policy:Terms of Use/fi (42% translated)")
+* [suomi](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fi "Policy:Käyttöehdot (63% translated)")
 * [svenska](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sv "Policy:Användarvillkor (27% translated)")
 * [vèneto](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/vec "Tèrmini d'uxo (4% translated)")
 * [čeština](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cs "Policy:Podmínky používání (42% translated)")
@@ -156,7 +147,7 @@ Other languages:
 * [ไทย](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/th "ข้อกำหนดการใช้งาน (45% translated)")
 * [ລາວ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lo "ນະໂຍບາຍ: ຂໍ້ກຳນົດການໃຊ້ງານ (10% translated)")
 * [ပအိုဝ်ႏဘာႏသာႏ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/blk "မူဝါဒ:သုင်ꩻအဝ်ႏ ဖွောင်ꩻရဲဉ်ႏဖုံႏ (1% translated)")
-* [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/my "မူဝါဒ:အသုံးပြုမှု စည်းမျဉ်းများ (9% translated)")
+* [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/my "မူဝါဒ:အသုံးပြုမှု စည်းမျဉ်းများ (10% translated)")
 * [მარგალური](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/xmf "გჷმორინაფაშ წესეფი (23% translated)")
 * [ქართული](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ka "გამოყენების პირობები (42% translated)")
 * [ភាសាខ្មែរ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/km "លក្ខខណ្ឌ​ក្នុងការ​ប្រើប្រាស់ (6% translated)")
