@@ -1,4 +1,4 @@
-We've updated our Privacy Policy, effective February 26, 2024. You can view the prior Privacy Policy, which apply to all users until February 26, 2024, [here](https://www.snap.com/privacy/prior-privacy-policy-08-15-2023).
+We've updated our Privacy Policy, effective February 26, 2024. You can view the prior Privacy Policy, which applies to all users until February 26, 2024, [here](https://www.snap.com/privacy/prior-privacy-policy-08-15-2023).
 
 ### 
 
