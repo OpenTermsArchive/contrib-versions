@@ -1,24 +1,59 @@
 Stack Exchange Network Acceptable Use Policy
 --------------------------------------------
 
-The intent of this document is to clarify what we consider to be acceptable use of any website or service provided on the Stack Exchange Network (collectively "Stack Exchange", "Network").
+The intent of this Acceptable Use Policy (“AUP”) is to clarify what we at Stack Exchange, Inc. (“Stack Exchange”, “we” or “us”) consider to be acceptable use of any website or service provided on Stack Exchange’s set of related Internet sites and other applications for contributed and curated content (the “Network”).
 
-If you are found to be in violation of any of the below policies, you will receive a notice via email. Unless you explain or correct your behavior within 72 hours, your account will be suspended. We will do our best to work with you and ensure a fair outcome in all cases. We reserve the right to immediately suspend, without notice, any content, account, or IP address which we determine to be submitting spam or other potentially damaging or disruptive content to the Network.
+If you are found to be in violation of any of the below sections, your access to the Network may be restricted or terminated without notice, and your content may be removed at our discretion. When it is possible to do so, Stack Exchange will make a good-faith effort to provide you with advance notice of actions we take under this AUP, and we will do our best to work with you and ensure a fair outcome in all cases. You may appeal any action we take under this AUP via our [contact form.](https://stackoverflow.com/contact)
 
-When your account is suspended, public access to content contributed under that account may be blocked or removed, and your account may be suspended or deleted at our discretion. Access to other functionality or information within the Network may also be blocked or disabled.
+Illegal Use
 
-**Illegal Use.** Stack Exchange may not be used for illegal purposes. Examples of this include using Stack Exchange for fraudulent purposes or operating a phishing site (used to obtain account and password information).
+The Network may not be used for illegal purposes. You are responsible for complying with all laws and regulations that are applicable to you, whether or not such illegal purposes are explicitly raised in this AUP or our [Code of Conduct.](https://stackoverflow.com/conduct) This restriction encompasses any defamation and libel laws that apply to you.
 
-**Spam.** Users that do not publish meaningful content, use deceptive means to generate revenue or traffic, or whose primary purpose is affiliate marketing, will be suspended.
+Spam
 
-**Identity Theft and Privacy.** Users that misleadingly appropriate the identity of another person are not permitted. Users may not post other people's personally identifying or confidential information, including but not limited to credit card numbers, Social Security Numbers, and driver's and other license numbers. You may not post information such as other people's passwords, usernames, phone numbers, addresses and e-mail addresses unless already publicly accessible on the Web.
+You may not post content for the purpose of affiliated marketing (e.g., to promote a product, service, or similar in a way that is unsolicited or lacks disclosure of affiliation), or use deceptive means to generate revenue or traffic. Posting irrelevant content, non-meaningful content, or other types of content that may reasonably be interpreted as spam per individual site policies, is also prohibited.
 
-**Hate Content, Defamation, and Libel.** Hate speech and other objectionable content that is unlawful, defamatory, and fraudulent. Note that an allegation of defamatory expression, in and of itself, does not establish defamation. The truth or falsehood of a bit of expression is a key element in establishing defamation, and we are not in a position to make that sort of fact-based judgment. That said, if we have reason to believe that a particular statement is defamatory (a court order, for example), we will remove that statement.
+Phishing
 
-**Disruptions and Exploits.** We will terminate accounts and block addresses of those who attempt unauthorized use of the Stack Exchange Network.
+You may not use the service in any way that deceives users into disclosing sensitive information they would otherwise not disclose, such as passwords, API keys, or personally identifiable information.
 
-**Copyright.** Using copyrighted material does not constitute infringement in all cases. In general, however, users should be careful when using copyrighted content without the permission of those who created it. It is our policy to respond to notices of alleged infringement sent to [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection) that comply with the [Digital Millennium Copyright Act ("DMCA")](http://www.loc.gov/copyright/legislation/dmca.pdf).
+Doxing
 
-**Mass Registration and Automation.** Accounts that are registered automatically or systematically will be removed and access will be permanently suspended.
+Disclosing personally identifiable information of a person or group of people, that hasn’t been manifestly made public, without their explicit consent is not allowed, whether or not that information is accurate. This includes such information as financial information, government-issued identification, passwords, phone numbers, physical addresses, and other personal information that may pose a safety or security risk, including usernames and e-mail addresses.
 
-**Sexually Explicit Material.** Accounts that use Stack Exchange to post sexually explicit or pornographic material, or links to it, will be suspended.
+Malicious URLs
+
+You may not post URLs that were created for the purpose of promoting a scam, attack, or fraud.
+
+Identity Theft
+
+You may not falsely represent yourself as a real person or entity you are not.
+
+Disruptions and Exploits
+
+You may not attempt to exploit, overload, or otherwise disrupt the operations of the Network.
+
+Unauthorized Use of Intellectual Property
+
+You may not post content that infringes on another’s intellectual property right, including trademark, copyright, patent, trade secret, or other intellectual property right. While the use of copyrighted material does not constitute copyright infringement in all cases, users should be careful when using copyrighted content without the permission of those who created it and adhere to any license requirements (e.g., attribution, notice, etc.). Stack Exchange complies with the [Digital Millennium Copyright Act ("DMCA")](https://www.copyright.gov/legislation/dmca.pdf), and you may view [our process for reporting DMCA complaints.](https://policies.stackoverflow.co/company/dmca-takedown)
+
+Mass Registration and Automation
+
+You may not register accounts en masse, either by hand or through the use of automated tools, without prior written approval of Stack Exchange, Inc. Please contact [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection) to request approval.
+
+Sexually Explicit Material
+
+You may not post content, or links to content, that is sexually explicit in nature, unless it falls within a reasonable interpretation of a Network site’s scope and purpose. However, you may never post content portraying the sexual exploitation or abuse of minors. For the sake of clarity, sexually explicit content is “material that is explicitly sexual, pornographic, prurient, or lascivious in nature,” as defined in our [Code of Conduct.](https://stackoverflow.com/conduct)
+
+Framing and Mirroring
+
+You may not manipulate or otherwise simulate the appearance or function of the Network by using framing, mirroring, or similar other methods, such as by creating deep links to the Network or directly framing our site on another domain. This restriction does not apply for accessibility-related usages such as screen readers. Please contact [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection) with any inquiries.
+
+Content Scraping
+
+You may not use any automated data-gathering means (including robots, spiders, scrapers, crawlers, and the like) to gather any text, files, audio or visual media, profile information, or any other content from any Network website for any use that violates the [Public Network Terms of Service,](https://stackoverflow.com/legal/terms-of-service/public) including the content license, or this Acceptable Use Policy.
+
+Your usage of automated data-gathering means is exempt from this policy if either:
+
+1. Such automated data-gathering is necessary for accessibility-related reasons.
+2. You have obtained our express written prior consent. (You may contact [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection) with any inquiries.)
