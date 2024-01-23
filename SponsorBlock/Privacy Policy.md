@@ -85,6 +85,8 @@ Please email me with your request.
 
 Cloudflare is used as a caching proxy service in front of the SponsorBlock servers to reduce load on the servers and costs. It logs some information itself that I cannot control, such as the number and location of connecting IPs. More information can be found at [https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/)
 
+If you would like to avoid cloudflare, you can change your server address (in the browser extension settings) to `https://api.sponsor.ajay.app`
+
 I sometimes need to enable error logging in nginx. This does log IPs associated with connection errors (not all requests), but I will delete these logs within 72 hours whenever that is enabled.
 
 [](#additional-info)Additional Info
