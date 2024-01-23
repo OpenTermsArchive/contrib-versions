@@ -155,7 +155,7 @@ Camera supervision and access management are used for reasons of security and sa
 
 #### Recruitment and Former Employees
 
-We are constantly searching for new talent for our organization, and we collect information about job applicants or prospective candidates from several sources. Applicants are referred to the [Talent Acquisition Privacy Notice](https://www.ibm.com/careers/us-en/privacy-policy/ "Talent Acquisition Privacy Notice ") for more information. When an employee leaves IBM, we continue to process information that is related to them for any remaining business, contractual, employment, legal, and fiscal purposes, including the management of pensions to the extent handled by IBM.
+We are constantly searching for new talent for our organization, and we collect information about job applicants or prospective candidates from several sources. Applicants are referred to the [Talent Acquisition Privacy Notice](https://www.ibm.com/careers/applicant-data-privacy "Talent Acquisition Privacy Notice ") for more information. When an employee leaves IBM, we continue to process information that is related to them for any remaining business, contractual, employment, legal, and fiscal purposes, including the management of pensions to the extent handled by IBM.
 
 Regarding recruitment, we may look for prospective candidates with the help of recruitment intermediaries and may use publicly available information on social media platforms to identify prospective candidates for a specific function.
 
@@ -362,14 +362,8 @@ Previous versions of the Privacy Statement are available [here](https://www.ibm
 
 **Sections updated in this release:**
 
-1. Introduction
-2. Facilitating International Transfers
-3. Your Additional Rights: China
-4. Your Additional Rights: European Economic Area and United Kingdom
-5. Your Additional Rights: Indonesia
-6. Your Additional Rights: Kenya
-7. Your Additional Rights: Korea
-8. Your Additional Rights: Switzerland
-9. Your Additional Rights: US States
+1. Your Additional Rights: Colombia
+2. Your Additional Rights: Taiwan
+3. Your Additional Rights: Tunisia
 
 * * *
