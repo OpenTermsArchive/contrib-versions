@@ -1,7 +1,7 @@
 Lyft Terms of Service
 =====================
 
-Last Updated: December 12, 2022
+Last Updated: January 22, 2024
 
 These Terms of Service constitute a legally binding agreement (the “Agreement”) between you and Lyft, Inc., its parents, subsidiaries, representatives, affiliates, officers and directors (collectively, “Lyft,” “we,” “us” or “our”) governing your use of the Lyft applications, websites, technology, facilities, and platform (collectively, the “Lyft Platform”).
 
@@ -189,7 +189,7 @@ Lyft shall not be in breach of this Agreement nor liable for failure or delay in
 State and Local Disclosures
 ---------------------------
 
-Certain jurisdictions require additional disclosures to you. You can view any disclosures required by your local jurisdiction at [www.lyft.com/terms/disclosures](https://www.lyft.com/terms/disclosures). Please check regularly for updates.
+Certain jurisdictions require additional disclosures to you, such as requirements for drivers, earnings information, and where you can access Lyft’s certificates of insurance. You can view any disclosures required by your local jurisdiction at [www.lyft.com/terms/disclosures](https://www.lyft.com/terms/disclosures). By accepting this Agreement, you acknowledge that Lyft has provided these disclosures to you and that you have read them. Please check regularly for updates.
 
 Indemnity
 ---------
