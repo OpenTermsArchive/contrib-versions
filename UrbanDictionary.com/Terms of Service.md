@@ -16,10 +16,6 @@ You may not exploit the Website to access unauthorized information.
 
 The Company reserves the right to modify, suspend, or discontinue the Website for any reason, with or without notice.
 
-The Website is provided "as is" and "as available". You assume complete responsibility and risk for your use of the Website. The Company does not warrant that (i) the Website will meet your requirements, (ii) you will be satisfied with the Website, (iii) you will at all times be able to use the Website, (iv) the Website will be without errors, (v) or that any errors will be corrected.
-
-The Company is not responsible for any damages or loss resulting from your use of the Website.
-
 The Company is not liable for any damages or losses resulting from the Website transmitting information such as personal messages over unencrypted networks such as email.
 
 Any failure of the Company to enforce or exercise a right provided in these terms is not a waiver of that right.
@@ -27,6 +23,21 @@ Any failure of the Company to enforce or exercise a right provided in these term
 Should any provision of this Terms of Service be found invalid or unenforceable, the remaining terms shall still apply.
 
 This Terms of Service constitutes the entire agreement between you and the Company and supersedes any and all previous agreements, written or oral, between you and the Company, including previous versions of the Terms of Service.
+
+NO WARRANTIES
+-------------
+
+**THE WEBSITE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES OF ANY KIND. WE EXPRESSLY DISCLAIM ANY IMPLIED WARRANTIES OF MERCHANTABILITY, WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, WARRANTIES OF NON-INFRINGEMENT, OR ANY WARRANTY THAT THE USE OF THE WEBSITE WILL BE UNINTERRUPTED OR ERROR-FREE. YOU ASSUME COMPLETE RESPONSIBILITY AND RISK FOR YOUR USE OF THE WEBSITE.**
+
+LIMITATION OF LIABILITY
+-----------------------
+
+**TO THE FULLEST EXTENT ALLOWED BY APPLICABLE LAW, UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY SHALL THE COMPANY, ITS LICENSORS, OR ITS SUPPLIERS BE LIABLE TO YOU OR TO ANY OTHER PERSON FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND, OR ANY AMOUNT, IN THE AGGREGATE, IN EXCESS OF THE GREATER OF (1) $100 OR (2) THE AMOUNTS PAID AND OR PAYABLE BY YOU TO US IN CONNECTION WITH THE WEBSITE IN THE TWELVE-MONTH PERIOD PRECEDING THE APPLICABLE CLAIM.**
+
+Disputes and Governing Law
+--------------------------
+
+These Terms of Service shall be governed by the laws of the State of California and the federal law of the United States of America, without regard to conflict of law principles. The courts located in the City and County of San Francisco, California shall have exclusive jurisdiction over any dispute between the parties concerning this Agreement. You agree the venue of these courts is proper and submit to their jurisdiction, waiving any claim that such a proceeding has been brought in an inconvenient forum or that the venue of that proceeding is improper.
 
 User Conduct
 ------------
@@ -147,6 +158,6 @@ Icons made by [Yannick](https://www.flaticon.com/authors/yannick "Yannick") from
 Updated
 -------
 
-Updated: July 2023
+Updated: January 2024
 
 Copyright 2023 Urban Dictionary
