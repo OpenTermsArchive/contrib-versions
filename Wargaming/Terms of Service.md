@@ -1,8 +1,8 @@
-End User Licence Agreement
+End User License Agreement
 
 Last updated: 19 September 2022.
 
-\=======================
+**This EULA is effective until 2 April 2024.** [\[Click here\]](https://legal.eu.wargaming.net/en/eula-new/) to open the new EULA that will enter into force on 2 April 2024.
 
 In other languages:
 
@@ -16,8 +16,6 @@ In other languages:
 * [Spanish](https://legal.eu.wargaming.net/es/eula)
 * [Turkish](https://legal.eu.wargaming.net/tr/eula)
 * [Ukrainian](https://legal.eu.wargaming.net/uk/eula)
-
-\======================
 
 **1\. About this End User Licence Agreement**
 
