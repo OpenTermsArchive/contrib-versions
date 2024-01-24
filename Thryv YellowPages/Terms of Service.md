@@ -235,7 +235,7 @@ Loading...](#)
 
 Our favorite awards come from our users
 
-![](/media/2022-g2-badge-award-01.png) ![](/media/2022-g2-badge-award-02.png) ![](/media/2022-g2-badge-award-03.png) ![](/media/2021-g2-badge-award-04.png) ![](/media/2021-g2-badge-award-05.png)
+![G2 Badge Award 1 2022](/media/2022-g2-badge-award-01.png) ![G2 Badge Award 2 2022](/media/2022-g2-badge-award-02.png) ![G2 Badge Award 3 2022](/media/2022-g2-badge-award-03.png) ![G2 Badge Award 4 2021](/media/2021-g2-badge-award-04.png) ![G2 Badge Award 5 2021](/media/2021-g2-badge-award-05.png)
 
 Watch how Thryv helps businesses like yours get the job, manage the job, and get credit.
 
@@ -370,7 +370,7 @@ _Thank you!_We are excited to show you Thryv.
 
 ![](/media/icon-demo-calendar-new-01.png)
 
-![](/media/icon-demo-calendar-new-01.png)
+![Calendar Icon](/media/icon-demo-calendar-new-01.png)
 
 Friday, August 11 at 11:00 AM Eastern Daylight Time
 
