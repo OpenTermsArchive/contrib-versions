@@ -46,7 +46,7 @@ Bitwarden processes two kinds of user data to deliver the Bitwarden Service: (i)
 
 ###### (i) Vault Data
 
-Vault Data includes all information stored within accounts to the Bitwarden Service and may include Personal Information. If we host the Bitwarden Service for you, we will host Vault Data. Vault Data is encrypted using secure cryptographic keys under your control. Bitwarden cannot access Vault Data.You may add, modify, and delete Vault Data at any time.
+Vault Data includes all information stored within accounts to the Bitwarden Service, including but not limited to login credentials, attachments including photos, videos, images and other files, and may include Personal Information. If we host the Bitwarden Service for you, we will host Vault Data. Vault Data is encrypted using secure cryptographic keys under your control. Bitwarden cannot access Vault Data.You may add, modify, and delete Vault Data at any time.
 
 ###### (ii) Administrative Data
 
