@@ -1,4 +1,4 @@
-Effective 15 January 2024 | [Archived versions](https://policies.google.com/privacy/archive?hl=en-GB&gl=IE) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf//google_privacy_policy_en-GB_eu.pdf)
+Effective 15 January 2024 | [Archived versions](https://policies.google.com/privacy/archive?hl=en-GB&gl=IE) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20240115/c1vvc4an/google_privacy_policy_en-GB_eu.pdf)
 
 Contents
 --------
