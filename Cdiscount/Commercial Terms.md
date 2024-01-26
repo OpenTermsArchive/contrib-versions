@@ -9,7 +9,9 @@ Immatriculée au RCS Bordeaux n° B 424 059 822
 Représentée par M. Thomas METIVIER , en qualité de Directeur Général  
 Siège social : 120-126 Quai de Bacalan - 33000 Bordeaux (siège administratif uniquement, aucun colis ne doit être retourné à cette adresse)  
   
-Le site cdiscount.com propose une offre réservée uniquement aux personnes physiques agissant en qualité de consommateurs. 
+Le site cdiscount.com propose une offre réservée aux personnes physiques agissant en qualité de consommateurs.   
+  
+Toute commande passée à distance par une personne physique agissant en qualité de consommateur est régie par les "Conditions générales de vente – Client consommateur", disponibles immédiatement après. 
 
 _PREAMBULE  Modalités de contact_
 ---------------------------------
@@ -107,7 +109,7 @@ Les présentes conditions générales de vente (ci-après « CGV ») s'appliquen
 
 Les CGV ne sont pas applicables :
 
-\- aux commandes passées sur la Marketplace Cdiscount auprès de vendeurs professionnels. Vous pouvez consulter les conditions générales d’utilisation de la Marketplace Cdiscount sur notre site.
+\- aux commandes passées sur la Marketplace Cdiscount auprès de vendeurs professionnels. Pour consulter les conditions générales d’utilisation de la Marketplace Cdiscount, [cliquez ici.](https://i2.cdscdn.com/resources/imagesok/cgu/mkp/cgu_acheteurs_mp_cdiscount.pdf)
 
 \- aux professionnels. Est considéré comme professionnel, toute personne physique ou morale, publique ou privée, qui agit à des fins entrant dans le cadre de son activité commerciale, industrielle, artisanale, libérale ou agricole, y compris lorsqu'elle agit au nom ou pour le compte d'un autre professionnel.
 
@@ -128,13 +130,13 @@ _Article 2 : INFORMATION SUR LES PRIX_
 
 **2.1 Prix des produits et des services**  
   
-Le prix des produits et des services (hors frais de livraison) est celui indiqué sur la fiche produit correspondante, accessible sur le Site. Cdiscount se réserve le droit de modifier le prix de ses produits et services à tout moment, dans le respect de la législation applicable. Les produits ou services que vous commandez vous seront facturés sur la base du prix en vigueur sur le Site au moment de la passation de votre commande.  
+Le prix des produits et des services (hors frais de livraison) est celui indiqué sur la fiche produit correspondante, accessible sur le Site. Cdiscount se réserve le droit de modifier le prix de ses produits et services à tout moment, dans le respect de la législation applicable. Les produits ou services que vous commandez vous seront facturés sur la base du prix en vigueur sur le Site au moment de la validation de votre commande.  
   
 Cdiscount ne procédant pas à la réservation de stock (sauf cas particulier de produits signalés en "pré-commande" sur la fiche produit), la mise au panier d'un produit ou d'un service ne permet pas de garantir la disponibilité dudit produit ou service ainsi que son prix.  
   
-Pour les produits éligibles, le prix affiché sur la fiche produit inclus le montant de l’éco-participation. Pour en savoir + sur les éco-participations, vous pouvez consulter l'article "Eco-participations et reprise" accessible en bas de page de notre site.
+Pour les produits éligibles, le prix affiché sur la fiche produit inclus le montant de l’éco-participation. Pour en savoir + sur les éco-participations, [cliquez ici](https://www.cdiscount.com/edito/ecopart.html).
 
-Vous pouvez consulter le montant des frais de livraison applicables à votre commande en consultant la page "les modes et frais de livraison" accessible en bas de page de notre site ainsi que lorsque vous sélectionnez le mode de livraison de votre commande.
+Vous pouvez consulter le montant des frais de livraison applicables à votre commande en consultant la page dédiée aux modes et frais de livraison accessible [en cliquant ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft) ainsi que lorsque vous sélectionnez le mode de livraison de votre commande.
 
   **2.2 Prix de référence  
   
@@ -166,12 +168,10 @@ _Article 3 : COMMANDES_
 **3.1 Disponibilité des produits et services  
   
   
-**Nos offres de produits et de services sont valables dans la limite des stocks disponibles.
+**Nos offres de produits et de services sont valables dans la limite des stocks disponibles. La disponibilité des produits et services est indiquée sur chaque fiche produit.
 
-Si malgré tous nos efforts, un produit ou un service devenait indisponible postérieurement à la validation de votre commande, CDISCOUNT vous en informera par email et vous remboursera le prix du produit ou du service initialement commandé ainsi que toute somme versée au titre de votre commande. Toutefois, si votre commande contient d’autres produits ou services disponibles, ceux-ci vous seront livrés et les frais de livraison ne vous seront pas remboursés. Vous avez la possibilité d'annuler votre commande avant l'expédition par Cdiscount de celle-ci.
+Si malgré tous nos efforts, un produit ou un service devenait indisponible postérieurement à la validation de votre commande, CDISCOUNT vous en informera par email et vous remboursera le prix du produit ou du service initialement commandé ainsi que toute somme versée au titre de votre commande. Toutefois, si votre commande contient d’autres produits ou services disponibles, ceux-ci vous seront livrés et les frais de livraison ne vous seront pas remboursés.
 
-  
-La vente de boissons alcooliques à des mineurs est interdite.  
   
 **3.2. Modalités de passation des commandes  
   
@@ -205,20 +205,17 @@ La vente de boissons alcooliques à des mineurs est interdite.
 
 Aucune commande adressée à CDISCOUNT par un autre moyen, y compris par courrier ou par fax, ne pourra être prise en compte.
 
-Lors de la passation de votre commande, vous devez confirmer celle-ci par la technique dite du « double-clic » : après avoir sélectionné et ajouté des produits et/ou services à votre panier (premier clic), vous devez ensuite : 
+Lors de la passation de votre commande, vous devez confirmer celle-ci par la technique dite du « double-clic » : après avoir sélectionné et ajouté des produits et/ou services à votre panier, vous devez : 
 
 * contrôler votre panier et éventuellement corriger le contenu de celui-ci (exemple : identification et quantité de produits sélectionnés, prix correspondants, modalités et frais de livraison) ;
     
 * valider votre panier ;
     
-* accepter les CGV et votre obligation de paiement ;
-    
-* en cliquant à nouveau (deuxième clic) pour valider votre commande.
+* accepter les CGV et votre obligation de paiement de la commande.
     
 
+La vente de boissons alcooliques à des mineurs est interdite.  
   
-  
- 
 
 **3.3 Enregistrement des commandes**
 
@@ -238,11 +235,11 @@ Toutefois, CDISCOUNT se réserve le droit de ne pas accepter une commande ou de
 \-          plusieurs éléments graves et concordants feraient peser un soupçon de fraude sur votre commande ;  
 \-          un même instrument de paiement serait utilisé massivement et simultanément par plusieurs utilisateurs et susceptible d’entrainer un dysfonctionnement du site.
 
-CDISCOUNT se réserve également le droit, en raison d’un approvisionnement limité sur un produit, notamment lié à une pénurie, et pour lutter contre toute manœuvre frauduleuse de spéculation sur ce produit, d’en limiter l’achat à une (1) commande par foyer sur les six (6) derniers mois (ex : consoles de jeux).
+CDISCOUNT se réserve également le droit, en raison d’un approvisionnement limité sur un produit, notamment lié à une pénurie de composants/pièces détachées, et pour lutter contre toute manœuvre frauduleuse de spéculation sur ce produit, d’en limiter l’achat à une (1) commande par foyer sur les six (6) derniers mois (ex : consoles de jeux).
 
 **3.4 Suspension/Clôture d'un compte client par CDISCOUNT**  
   
-En cas d'activité anormale d'un client sur le Site constatée par CDISCOUNT sur la base d'indices graves et concordants qui feraient peser un soupçon de fraude sur ledit client, CDISCOUNT se réserve le droit de procéder à la suspension du ou des compte(s) client concerné(s). Dans cette hypothèse, le client recevra un email d'information de la part de CDISCOUNT l'informant de la suspension de son compte client et le cas échéant le mettant en demeure. CDISCOUNT se réserve la faculté de clôturer ensuite définitivement le(s) compte(s) client(s) et d'engager les procédures judiciaires idoines permettant réparation de tout préjudice qu'elle aurait pu subir du fait d'une activité frauduleuse avérée.  
+En cas d'activité anormale d'un client sur le Site constatée par CDISCOUNT sur la base d'indices graves et concordants qui feraient peser un soupçon de fraude sur ledit client, CDISCOUNT se réserve le droit de procéder à la suspension et/ou à la clôture du ou des compte(s) client concerné(s). Dans cette hypothèse, le client recevra un email d'information de la part de CDISCOUNT l'informant de la clôture de son compte client. CDISCOUNT se réserve la faculté d'engager les procédures judiciaires idoines permettant réparation de tout préjudice qu'elle aurait pu subir du fait d'une activité frauduleuse avérée.  
   
   
 **3.5 Pratiques frauduleuses et remises promotionnelles  
@@ -267,7 +264,7 @@ Les modes de paiement listés ci-après peuvent être proposés par CDISCOUNT :
   
 (ii) Paiement en « 4 fois » : le paiement en « 4 fois » peut être effectué par carte bancaire conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande.  Les conditions générales du paiement en « 4 fois » sont accessibles en [cliquant ici](https://i2.cdscdn.com/resources/ImagesOK/cgv/4f.pdf).
 
-  Le paiement en "4 fois" n'est pas proposé de manière systématique à tous nos clients et/ou pour toutes les commandes. Nous mettons en œuvre un traitement automatisé afin d'identifier es clients et commandes éligibles au paiement "4 fois".  
+  Le paiement en "4 fois" n'est pas proposé de manière systématique à tous nos clients et/ou pour toutes les commandes. Nous mettons en œuvre une décision individuelle automatisée afin d'identifier les clients et les commandes éligibles au paiement en "4 fois".  
  (iii) Paiement Flash : ce système vous permet, pour les paiements par carte bancaire, de ne plus saisir votre numéro de Carte de Paiement lors de vos prochaines commandes passées sur le Site et livrées à la ou les adresse(s) associée(s) à votre numéro de Carte de Paiement. A noter : votre numéro de Carte de Paiement est visible en totalité lors de la saisie de celui-ci, mais seuls les 4 derniers chiffres seront visibles dans votre Compte Client Cdiscount. Le service paiement flash est entièrement sécurisé, pour en savoir plus sur le Paiement Flash, [cliquez ici](https://www.cdiscount.com/payment/paymentinfo.html).
 
 (iv) Carte Cdiscount : la Carte Cdiscount est une carte de paiement et de crédit affiliée au réseau MasterCard. A chaque achat, vous avez le choix de régler au comptant ou à crédit. Votre souscription à la Carte Cdiscount est soumise à l’acceptation de FLOA Bank, Société Anonyme au capital de 42 773 400€  - 434 130 423 RCS Bordeaux - Siege social : Bâtiment G7, 71 rue Lucien Faure 33000 Bordeaux, soumise au contrôle de l’Autorité de Contrôle Prudentiel et de Résolution, (ACPR) 4, Place de Budapest, CS 92459, 75436 Paris cedex 09 et après expiration du délai légal de rétractation de 14 jours. ORIAS N° : 07 028 160 (www.orias.fr). ([www.orias.fr](http://www.orias.fr/)). Pour en savoir plus sur la Carte Cdiscount, [cliquez ici](https://www.cdiscount.com/payment/paymentinfo.html).  
@@ -286,7 +283,7 @@ Pour en savoir plus sur la Solution de Crédit - "Payez en plusieurs fois", [cli
   
 (viii) Par Bancontact/Mistercash : Ce mode de paiement n’est pas disponible pour les paniers contenant des produits de la Marketplace Cdiscount.  Pour bénéficier de ce mode de paiement, vous devez disposer d’une adresse de facturation située en Belgique. En cas de paiement par Bancontact/Mistercash, ce sont les conditions générales d'utilisation de Bancontact/Mistercash qui s'appliquent. Elles sont accessibles en cliquant [ici](https://www.bancontact.com/).  
   
-(ix) Par bons d'achat : Il est possible d’utiliser les bons d’achat émis par CDISCOUNT pour le paiement de toute ou partie de votre commande. Ces bons d’achats ne sont utilisables qu’une seule fois. Dans l’hypothèse où un client tenterait d’utiliser frauduleusement plusieurs fois l’un de ses bons d’achat, les commandes concernées par cette fraude seraient  annulées par CDISCOUNT.  
+(ix) Par bons d'achat : Il est possible d’utiliser les bons d’achat émis par CDISCOUNT pour le paiement de toute ou partie de votre commande. Ces bons d’achats ne sont utilisables qu’une seule fois. Dans l’hypothèse où un client tenterait d’utiliser frauduleusement plusieurs fois l’un de ses bons d’achat, les commandes concernées par cette fraude seraient automatiquement annulées par CDISCOUNT.  
   
 (x) Paiement PAYLIB : Vous pouvez également régler votre commande via l'application PAYLIB sur votre téléphone. Pour bénéficier de ce mode de paiement, vous devez télécharger et créer un compte sur l'application de votre banque. En cas de paiement par PAYLIB, ce sont les conditions générales d'utilisation de PAYLIB qui s'appliquent.
 
@@ -358,11 +355,11 @@ Pour les besoins du présent article :
   
 CDISCOUNT peut vous proposer différents modes de livraison.
 
-La livraison de certains produits ou dans certaines zones peut donner lieu à une facturation complémentaire. Dans tels cas, cette information est clairement indiquée sur la page d’information dédiée à la livraison,  accessible en bas de chaque page du Site.
+La livraison de certains produits ou dans certaines zones peut donner lieu à une facturation complémentaire. Dans tels cas, cette information est clairement indiquée sur la page d’information dédiée à la livraison,  accessible en bas de chaque page du Site ou [en cliquant ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft).
 
 Le montant total des frais de livraison de votre commande est indiqué lors de la passation de celle-ci.
 
-Pour plus d’informations concernant l’ensemble des modes de livraison, vous pouvez consulter la page "Les modes et frais de livraison" accessible en bas de page de notre Site. 
+Pour plus d’informations concernant l’ensemble des modes de livraison[, cliquez ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft). 
 
   
 **6.1.1  Produits de petit gabarit**
@@ -414,9 +411,11 @@ Selon le mode de livraison sélectionné et en cas de produits exceptionnellemen
 
 En cas d’absence un avis de passage vous sera laissé pour vous inviter à planifier un nouveau rendez-vous.
 
-Si vous êtes en France métropolitaine et que vous souhaitez faire reprendre votre ancien produit de gros gabarit (produits électroménagers et électroniques, télévisions, meubles, literies et canapés), vous pouvez le demander directement au livreur lors de la livraison, le cas échéant (hors références livrées par le transporteur AGEDISS, la possibilité d’une reprise vous sera confirmée par email une fois votre commande passée. Pour la Corse, la demande de reprise doit être faite avant la livraison). La reprise s’effectuera au même endroit que la livraison du nouveau produit, selon l’option de livraison choisie lors de la commande, c’est-à-dire dans la pièce de votre choix ou devant votre domicile ou au pied de votre bâtiment, s’il s’agit d’un immeuble. Pour plus de renseignements sur les modalités et conditions de reprise, consultez l’article 10 de nos CGV ou l'article "Eco-participation et reprise" disponible en bas de page de notre Site.  
+Si vous êtes en France métropolitaine et que vous souhaitez faire reprendre votre ancien produit de gros gabarit (produits électroménagers et électroniques, télévisions, meubles, literies et canapés), vous pouvez le demander directement au livreur lors de la livraison, le cas échéant (hors références livrées par le transporteur AGEDISS, la possibilité d’une reprise vous sera confirmée par email une fois votre commande passée. Pour la Corse, la demande de reprise doit être faite avant la livraison). La reprise s’effectuera au même endroit que la livraison du nouveau produit, selon l’option de livraison choisie lors de la commande, c’est-à-dire dans la pièce de votre choix ou devant votre domicile ou au pied de votre bâtiment, s’il s’agit d’un immeuble. Pour plus de renseignements sur les modalités et conditions de reprise, consultez l’article 10 de nos CGV ou
 
-Vous disposez de plusieurs options pour être livrés à l’adresse de votre choix (les conditions complètes de chaque mode de livraison sont disponibles dans l'article "Les modes et frais de livraison" en bas de page de notre Site) :  
+[cliquez ici](https://www.cdiscount.com/edito/ecopart.html). 
+
+Vous disposez de plusieurs options pour être livrés à l’adresse de votre choix :  
   
   
 _\-         Livraison Eco (livraison devant chez vous)_ : la livraison éco des produits commandés s’effectue avec prise de rendez-vous, à l’adresse indiquée lors de votre commande. Le livreur déchargera votre colis et le déposera :  
@@ -433,11 +432,13 @@ Le déballage du colis et le traitement des emballages restent à votre charge.
 
 Les zones de livraison concernées par la livraison éco sont : France métropolitaine hors Corse. Pour les îles, la livraison est réalisable sur l’île d’Oléron, l’île de Ré, l’île de Noirmoutier et la presqu’île de Quiberon. Pour toutes les autres îles, les colis sont déposés à la gare maritime.  
   
+Les conditions complètes applicables à ce mode de livraison sont accessibles [ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft#Livraison_devant_chez_vous).
 
 \-         _Livraison_ _Standard_ (dans la pièce de votre choix) : la livraison des produits commandés s’effectue avec prise de rendez-vous. Un ou plusieurs livreurs déchargeront votre colis, le porteront à l’intérieur de votre domicile, dans la pièce de votre choix. En revanche, cette prestation ne comprend pas le déballage, l'installation, branchements et réglages de votre appareil, qui restent sous votre responsabilité.
 
 Les zones de livraison concernées par la livraison standard sont : France métropolitaine (Corse comprise). Pour les îles, la livraison est réalisable sur l’île d’Oléron, l’île de Ré, l’île de Noirmoutier et la presqu’île de Quiberon. Pour toutes les autres îles, les colis sont déposés à la gare maritime.  
   
+Les conditions complètes applicables à ce mode de livraison sont accessibles [ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft#Livraison_chez_vous).
 
 \-         _Livraison Confort d’articles électroménagers et télévisions (Livraison et installation chez vous)_ (uniquement en France) : seuls les articles électroménagers et les télévisions peuvent bénéficier de ce mode de livraison (hors hottes et plaques de cuisson).
 
@@ -449,6 +450,7 @@ Il vous appartient de prévoir les accessoires non fournis (exemples : câbles 
 
 Les zones de livraison concernées par la livraison confort sont : France métropolitaine (hors Corse). Pour les îles, la livraison est réalisable sur l’île d’Oléron, l’île de Ré, l’île de Noirmoutier et la presqu’île de Quiberon. Pour toutes les autres îles, les colis sont déposés à la gare maritime.  
   
+Les conditions complètes applicables à ce mode de livraison sont accessibles [ici](https://www.cdiscount.com/shipping/shippinginfo.html#Livraison_installation_chez_vous). 
 
 \- _Livraison directe par le fournisseur_ (uniquement en France): la livraison de certains de nos produits peut être effectuée directement par nos fournisseurs. Des frais de port spécifiques peuvent être appliqués sur cette typologie de produits.
 
@@ -555,8 +557,7 @@ _Article 7 : RECEPTION_
 
 Lors de la réception ou du retrait de votre commande, vous devez vérifier que votre produit est complet (y compris ses accessoires).
 
-Si vous constatez que certains accessoires du produit commandé sont manquants dans votre colis, veuillez prendre contact avec le Service Client de CDISCOUNT de préférence dans les trois (3) jours calendaires après réception de votre commande afin que CDISCOUNT puisse traiter le dossier avec son transporteur.  
-La présente stipulation ne fait pas obstacle à une réclamation ultérieure du Client au titre de l'exécution de sa commande. Ceci sans préjudice des mesures et actions que CDISCOUNT pourrait prendre à l'encontre d'un Client qui agirait de manière frauduleuse.**  
+Si vous constatez que certains accessoires du produit commandé sont manquants dans votre colis, veuillez prendre contact avec le Service Client de CDISCOUNT au plus tard dans les trois (3) jours calendaires après réception de votre commande afin que nous puissions traiter votre réclamation.**  
 7.2 Produits livrés abîmés**
 
 Lors de la réception ou du retrait de votre commande, vous devez vérifier l’état du (des) colis reçus et signaler toute non-conformité sur le bon de livraison ou refuser la livraison.
@@ -567,9 +568,7 @@ Dans le cas où, après acceptation du colis, vous constateriez que le produit c
 
 \- en vous connectant sur votre Espace Client.
 
-Merci de nous communiquer ces informations de préférence dans les quatorze (14) jours calendaires après réception de votre commande afin que nous puissions procéder à une enquête auprès de notre transporteur.  
-  
-La présente stipulation ne fait pas obstacle à une réclamation ultérieure du Client au titre de l'exécution de sa commande. Ceci sans préjudice des mesures et actions que Cdiscount pourrait prendre à l'encontre d'un Client qui agirait de manière frauduleuse.
+et ce, au plus tard dans les quatorze (14) jours calendaires après réception de votre commande.
 
 _Article 8 : RETRACTATION_
 --------------------------
@@ -580,9 +579,9 @@ Conformément aux articles L. 221-18 et suivants du Code de la Consommation, vou
 
 Si le délai de quatorze (14) jours expire un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu'au premier jour ouvrable suivant.
 
-Conformément aux dispositions de l’article L. 221-23 du Code de la consommation, vous êtes responsable de la manipulation des biens et de la dépréciation de leur valeur au cours du délai de rétractation. A ce titre, Cdiscount se réserve la faculté d’engager votre responsabilité en cas de dépréciation des produits retournés dans le cadre de l’exercice du droit de rétractation, résultant de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ces produits.
+Le retour des produits se fait sous votre responsabilité et à vos frais.
 
-  
+ Tout dommage subi par les produits à cette occasion est de nature à faire échec à l’exercice de votre droit de rétractation.  
   
 Concernant la commande de Coupons, vous ne pourrez bénéficier du droit de rétractation qu'à condition que votre Coupon n'ait pas été utilisé.  
   
@@ -683,7 +682,9 @@ Si une même commande contient plusieurs produits, livrés par colis distincts, 
 Pour un meilleur traitement des demandes de rétractation, chaque produit d'une même commande qui fait l'objet d'une demande de rétractation, doit faire l'objet d'un retour dans un colis distinct.  
   
 
-En cas d’exercice d’un droit de rétractation sur un produit ayant bénéficié d’une prestation de service de montage pleinement exécutée, dont l'exécution a commencé après accord préalable exprès du client et renoncement exprès à son droit de rétractation;  vous serez remboursé de toutes les sommes versées à l’exception de celles correspondant à la prestation de service de montage pleinement exécutée et de toute dépréciation financière du produit qui pourrait vous être imputée dans les conditions ci-dessous. 
+En cas d’exercice d’un droit de rétractation sur un produit ayant bénéficié d’une prestation de service de montage pleinement exécutée, dont l'exécution a commencé après accord préalable exprès du client et renoncement exprès à son droit de rétractation;  vous serez remboursé de toutes les sommes versées à l’exception de celles correspondant à la prestation de service de montage pleinement exécutée et de toute dépréciation financière du produit qui pourrait vous être imputée dans les conditions ci-dessous.  
+  
+Conformément aux dispositions de l’article L. 221-23 du Code de la consommation, vous êtes responsable de la manipulation des biens et de la dépréciation de leur valeur au cours du délai de rétractation. A ce titre, Cdiscount se réserve la faculté d’engager votre responsabilité en cas de dépréciation des produits retournés dans le cadre de l’exercice du droit de rétractation, résultant de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ces produits. Toute trace visible sur tout produit préalablement monté et assemblé, par vous-même ou à l’issue d’une prestation de montage, puis démonté par vos soins ou toute autre personne extérieure à CDISCOUNT, telle que des traces de vis, clous, des rayure(s) ou une partie du produit arrachée (sans que cette liste soit limitative) sera considérée comme une dépréciation du produit, devenu alors impropre à la vente, et CDISCOUNT se réservera le droit d’imputer au client le coût financier relatif à cette dépréciation.  
 
 **  
 8.3 Exceptions**
@@ -840,14 +841,7 @@ Le délai de garantie est également suspendu lorsque le consommateur et le gara
 **  
 Article L217-16 du Code de la Consommation**
 
-Dans les cas prévus à l'article L. 217-14, le consommateur informe le vendeur de sa décision de résoudre le contrat. Il restitue les biens au vendeur aux frais de ce dernier. Le vendeur rembourse au consommateur le prix payé et restitue tout autre avantage reçu au titre du contrat.
-
-  
-Si le défaut de conformité ne porte que sur certains biens délivrés en vertu du contrat de vente, le consommateur a le droit à la résolution du contrat pour l'ensemble des biens, même ceux non couverts par le présent chapitre, si l'on ne peut raisonnablement attendre de lui qu'il accepte de garder les seuls biens conformes.
-
-Pour les contrats mentionnés au II de l'article L. 217-1, prévoyant la vente de biens et, à titre accessoire, la fourniture de services non couverts par le présent chapitre, le consommateur a droit à la résolution de l'ensemble du contrat. En outre, dans le cas d'une offre groupée au sens de l'article L. 224-42-2, le consommateur a le droit à la résolution de l'ensemble des contrats y afférents.
-
-Les obligations respectives des parties au contrat, mentionnées à l'article L. 224-25-22 et relatives aux conséquences de la résolution pour les contenus numériques et les services numériques, sont applicables à la résolution du contrat de vente d'un bien comportant des éléments numériques.
+Lorsque l'acheteur demande au vendeur, pendant le cours de la garantie commerciale qui lui a été consentie lors de l'acquisition ou de la réparation d'un bien meuble, une remise en état couverte par la garantie, toute période d'immobilisation d'au moins sept jours vient s'ajouter à la durée de la garantie qui restait à courir. Cette période court à compter de la demande d'intervention de l'acheteur ou de la mise à disposition pour réparation du bien en cause, si cette mise à disposition est postérieure à la demande d'intervention.
 
 **Article 1641 du Code Civil** 
 
@@ -915,7 +909,7 @@ _Article 10 :  ECO-PARTICIPATIONS, REPRISE 1 POUR 1 ET REDEVANCE POUR COPIE PRI
 **10.1 Les démarches environnementales de Cdiscount Eco-participations**
 
 Soucieuse des impacts environnementaux et sociaux, Cdiscount est force de propositions innovantes pour les consommateurs afin de les accompagner dans un choix de consommation responsable.  
-A cet effet, Cdiscount met à disposition une "Aide au Choix Responsable" disponible en bas de page de notre Site.
+A cet effet, Cdiscount met à disposition une aide au choix responsable que vous trouverez [ici](https://www.cdiscount.com/nos-engagements-rse/aide-au-choix-responsable.html).
 
 Dans cette même volonté Cdiscount propose depuis 2021 la reprise des produits d’ameublement devançant ses obligations en tant que distributeur dans le cadre de la Responsabilité Elargie des Producteurs (REP).
 
@@ -941,7 +935,7 @@ Pour cela Cdiscount est adhérant aux différentes filières REP relevant de son
 
 Pour les filières des Déchets d’Equipements Electriques et Electroniques (DEEE) et des Déchets d’éléments d’ameublement (DEA) le montant de l’éco-participation est indiqué sur la fiche produit.
 
-Pour en savoir plus sur les éco-participations, vous pouvez consulter l'article "Eco-participations et reprise" en bas de page de notre Site.  
+Pour en savoir plus sur les éco-participations, [cliquez ici](https://www.cdiscount.com/edito/ecopart.html)  
   
 **b) Reprise 1 pour 1**
 
@@ -957,7 +951,7 @@ Conformément aux articles L. 541-10-8 et R. 541-161 et suivants du Code de l'En
 La demande de reprise de votre ancien produit doit respecter le principe du « 1 pour 1 » : CDISCOUNT reprend votre ancien produit pour tout produit neuf de même type acheté sur le Site.  
 _Exemple_ : une machine à laver le linge reprise suite à l’achat d’une nouvelle machine à laver le linge sur notre Site.  
   
-Pour connaître les modalités de reprise de votre ancien produit, vous pouvez consulter l'article "Eco-participations et reprise" en bas de page de notre Site. La reprise pourra vous être refusée pour tout produit ne respectant pas ces modalités.
+Pour connaître les modalités de reprise de votre ancien produit, [cliquez ici](https://www.cdiscount.com/edito/ecopart.html). La reprise pourra vous être refusée pour tout produit ne respectant pas ces modalités.
 
 **10.2 Redevance pour copie privée**
 
@@ -969,7 +963,7 @@ Une notice explicative relative à la redevance copie privée établie par le Mi
 
 Certains produits vendus sur le Site sont soumis à redevance copie privée.
 
-   Pour connaître le détail des produits concernés ainsi que le barème des redevances applicables, nous vous invitons à consulter le site de Copie France ([https://www.copiefrance.fr/fr/](https://www.copiefrance.fr/fr/)).          
+Pour connaître le détail des produits concernés ainsi que le barème des redevances applicables, [cliquez](https://www.copiefrance.fr/images/documents/tarifs-FR-2018---D18vd.pdf) [ici](https://www.copiefrance.fr/images/documents/tarifs-FR-2018---D18vd.pdf). 
 
         
 
@@ -1167,7 +1161,7 @@ En cas d‘offre d’essai gratuit, la durée de l’essai gratuit sera suscepti
 
 Tout nouvel Abonné Cdiscount à volonté qui passe simultanément commande sur le Site d'un Abonnement à Cdiscount à volonté et d'un ou plusieurs produit(s), profitera, en sus du délai légal de rétractation, de six (6) jours d'essai gratuits (ci-après, la "Période d'essai") sur son Abonnement Cdiscount à volonté (ci-après, l'"Offre d'essai gratuit").  
   
-Seuls les nouveaux Abonnés sont éligibles à l'Offre d'essai gratuit, c'est-à-dire les Abonnés n'ayant pas bénéficié de la Période d'essai gratuit au cours des douze (12) derniers mois précédant leur commande.
+Seuls les nouveaux Abonnés sont éligibles à l'Offre d'essai gratuit, c'est-à-dire les Abonnés n'ayant pas bénéficié du Service au cours des douze (12) derniers mois précédant leur commande.
 
 Nous nous réservons le droit de vérifier l'historique de souscription d'un Abonné au Service afin de vérifier son éligibilité à l'Offre d'essai gratuit.  
 
